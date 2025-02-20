@@ -7,6 +7,9 @@ from get_embedding_function import get_embedding_function
 
 CHROMA_PATH = "chroma"
 
+#OLLAMA_MODEL = "llama3.2"
+OLLAMA_MODEL = "mistral"
+
 PROMPT_TEMPLATE = """
 Answer the question based only on the following context:
 
@@ -30,17 +33,23 @@ def main():
 def query_rag(query_text: str):
     # Prepare the DB.
     embedding_function = get_embedding_function()
-    db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function)
+    db = Chroma(persist_directory=CHROMA_PATH, embedding_function=embedding_function,
+        collection_metadata={"hnsw:space": "cosine"})
 
     # Search the DB.
     results = db.similarity_search_with_score(query_text, k=5)
+    
+    print ("DB RESULTS:")
+    for result in results:
+        for doc, score in results:
+            print(f"id: {doc.metadata['id']}. score: {score}")
 
     context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in results])
     prompt_template = ChatPromptTemplate.from_template(PROMPT_TEMPLATE)
     prompt = prompt_template.format(context=context_text, question=query_text)
     # print(prompt)
 
-    model = Ollama(model="mistral")
+    model = Ollama(model=OLLAMA_MODEL)
     response_text = model.invoke(prompt)
 
     sources = [doc.metadata.get("id", None) for doc, _score in results]

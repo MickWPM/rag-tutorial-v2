@@ -2,6 +2,8 @@ import argparse
 import os
 import shutil
 from langchain.document_loaders.pdf import PyPDFDirectoryLoader
+from langchain.document_loaders import DirectoryLoader
+from langchain.document_loaders import TextLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
@@ -9,11 +11,10 @@ from langchain.vectorstores.chroma import Chroma
 
 
 CHROMA_PATH = "chroma"
-DATA_PATH = "data"
+DATA_PATH = "kcd_data"
 
 
 def main():
-
     # Check if the database should be cleared (using the --clear flag).
     parser = argparse.ArgumentParser()
     parser.add_argument("--reset", action="store_true", help="Reset the database.")
@@ -29,7 +30,9 @@ def main():
 
 
 def load_documents():
-    document_loader = PyPDFDirectoryLoader(DATA_PATH)
+    #document_loader = TextLoader(DATA_PATH)
+    text_loader_kwargs={'autodetect_encoding': True}
+    document_loader = DirectoryLoader(DATA_PATH, glob='**/*.txt', loader_cls=TextLoader, loader_kwargs=text_loader_kwargs)
     return document_loader.load()
 
 
@@ -46,7 +49,8 @@ def split_documents(documents: list[Document]):
 def add_to_chroma(chunks: list[Document]):
     # Load the existing database.
     db = Chroma(
-        persist_directory=CHROMA_PATH, embedding_function=get_embedding_function()
+        persist_directory=CHROMA_PATH, embedding_function=get_embedding_function(),
+        collection_metadata={"hnsw:space": "cosine"}
     )
 
     # Calculate Page IDs.

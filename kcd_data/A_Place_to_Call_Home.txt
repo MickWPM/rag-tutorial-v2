@@ -1,0 +1,42 @@
+
+
+A Place to Call Home
+
+
+
+
+
+
+Description
+
+Quest Giver
+Bailiff of Rattay
+
+
+Type
+Side Quests
+
+
+←  Quest
+Lost in the Woods
+
+
+→  Quest
+- Activities - Judgement- Side Quests -Supplies
+
+
+Skill Checks
+Marius Bilek
+
+
+
+A Place to Call Home is one of the side quests in Kingdom Come: Deliverance, and requires the DLC From the Ashes. It begins once the Bailiff of Rattay publicly announces your promotion to Bailiff of Pribyslavitz. 
+Judgement- Side Quests -SuppliesIn reward for my services, SIr Divish appointed me Bailiff of Pribyslavitz. It's a great honour, but for now I'm only in charge of some ruins, so I'll have to rebuild the place into a thriving hamlet.
+Go up to Pribyslavitz, where some settlers have already arrived and begun work. Marius has constructed a temporary Rathaus and a woodcutters camp, and some of the brush has been cleared. Henry is a bit lost about how to proceed, so Marius explains how building and upgrades work, how Henry must manage the village (both in reputation and in cost), and explain the benefits of finding skilled tradesmen to boost production. 
+Once Henry decides what he wants to build, Marius will supervise the construction of the new building. The money must be placed in a large chest located near Marius's desk - but first, you must negotiate his pay. Marius was offered a contract by Sir Divish but requests a 25% increase. Henry can either force him to stick to the original contract (55 ), agree to his pay-rise (80 ), or offer a higher sum (120 ). It is highly recommended the player consume a Bard Potion prior to negotiating with Marius. It is a common glitch that the speech check to maintain his original contract (55 ) fails unless Henry's speech rating is above 17.  
+Warning: Due to the glitch. if you fail the speech check to reduce his asking pay, you might have to pay him for both overpaying and underpaying (-175 in total), so either make sure Henry's speech level is top-notch or agree to his original demand.  
+The labourers settle in Pribyslavitz.This will also launch the side quest Supplies.
+Go across to your ledger and familiarize yourself with your new village. You already have a Temporary Rathaus and a Labourer's Camp, which earns you 7 reputation and costs you 165   a day. Be sure to put a large quantity of coin in the chest - enough to last several days. Workers get very unhappy when they are not paid, and unhappy villagers mean an unhappy Divish - and you might lose your position.
+You will also notice that you have no resources - no groschen, no stone, no grain, no charcoal, and no livestock. You do have a reputation of 100, and three objectives, that correspond to the objectives in this quest. You must raise the capacity of the village to 40 people, the income to 1200  , and fully repair the church. But all of that will take time and money (like, ALOT of money), so for now - complete Supplies, and get yourself the woodcutters camp, the bridge and road, and the traders, as well as sourcing your resources.
+Bailiff Henry surveys PribyslavitzIt's advisable to follow this with the tavern and beehives, then pick the bakery or butchers. By now you should be generating some income (especially if you find some skilled labourers and are constructing improvements as you go). Decide whether you'd prefer a stables or guardhouse, then get started on the Rathaus and finally, the Church. If you have lots of adventures to get to, you might even consider leaving the Rathaus and Church for a time (as they cost more than they earn), and just let the Groschen stack up. However, as long as you ensure there are sufficient funds in the chest from your own pocket, you can build whatever you like, whenever you like (at least, during the day.) 
+Nevertheless, once you have fully upgraded the church, and built enough buildings to house the villagers and turn a tidy profit, go back and tell Divish what a great Bailiff you've been, at which point he will accompany you back to Pribyslavitz and praise you for a job well done. He asks Marius to stay and keep an eye on things, while confirming Henry is entitled to the revenue. He even hints at an expansion of the village ... once things have calmed down a bit in Sasau. 
