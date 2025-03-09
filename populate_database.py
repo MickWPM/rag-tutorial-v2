@@ -112,8 +112,8 @@ def add_to_chroma(chunks: list[Document], batch_size: int = 160):
 
             # Calculate the estimated finish time (current time + estimated time remaining)
             estimated_finish_timestamp = time.time() + estimated_time_remaining
-            formatted_estimated_finish_time = format_time(estimated_finish_timestamp - time.time())
 
+            formatted_estimated_finish_time = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(estimated_finish_timestamp))
 
             # Print progress with timestamp, estimated time remaining, and estimated finish time
             print(f"{get_timestamp()} - 🔄 Added {total_added}/{len(new_chunks)} documents. "
@@ -139,8 +139,6 @@ def get_timestamp() -> str:
     return datetime.now().strftime("%Y-%m-%d %H:%M:%S: ")
 
 def calculate_chunk_ids(chunks):
-    print(f'{get_timestamp()} - 🔄 Calculating chunk IDs...')
-
     # This will create IDs like "data/monopoly.pdf:6:2"
     # Page Source : Page Number : Chunk Index
     last_page_id = None
