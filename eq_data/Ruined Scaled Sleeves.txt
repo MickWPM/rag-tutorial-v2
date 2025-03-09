@@ -1,0 +1,52 @@
+ITEM NAME: Ruined Scaled Sleeves
+
+Kunark Era (added 2000)
+
+Ruined Scaled Sleeves
+
+
+Slot: ARMS
+AC: 6
+WT: 4.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Ruined Scaled Armor set. 
+
+  Drops From 
+Burning Woods
+
+ greater plague skeleton
+ plaguebone skeleton
+
+City of Mist
+
+ a fog golem
+ a haze golem
+ a mist golem
+ a shadow
+ a vapor golem
+ a wraith
+ an apparition
+ greater plaguebone
+ greater spurbone
+ greater war boned skeleton
+ gyrating goo
+ spurbone skeleton
+
+Kurn's Tower
+
+ lesser icebone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

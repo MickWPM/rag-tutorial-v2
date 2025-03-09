@@ -1,0 +1,36 @@
+ITEM NAME: Circlet of Summer
+
+Velious Era (added December 2000-2001)
+
+
+Circlet of Summer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 25
+WIS: +10  HP: +70  MANA: +70
+SV COLD: +25
+WT: 2.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Prior to Velious Stat Upgrade it was 20ac 10wis 40hp 40mana 15sv cold, stats have been upgraded on P99 blue 
+
+  Drops From 
+Temple of Veeshan
+
+ Aaryonar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

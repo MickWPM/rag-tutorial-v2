@@ -1,0 +1,30 @@
+ITEM NAME: Tesch Val Compilation
+
+Classic Era (added 1999-2000)
+
+Tesch Val Compilation
+
+
+LORE ITEM
+WT: 1.0  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gem Inlaid Gauntlets Quest 
+
+  Book contents 
+Unknown.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

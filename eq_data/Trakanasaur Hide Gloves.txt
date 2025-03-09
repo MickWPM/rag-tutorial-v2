@@ -1,0 +1,35 @@
+ITEM NAME: Trakanasaur Hide Gloves
+
+Kunark Era (added 2000)
+
+Trakanasaur Hide Gloves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 9
+STR: +5
+SV DISEASE: +5
+WT: 0.3  Size: LARGE
+Class: WAR SHD SHM
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ a trakanasaur
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

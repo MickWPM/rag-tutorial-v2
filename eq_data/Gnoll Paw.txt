@@ -1,0 +1,30 @@
+ITEM NAME: Gnoll Paw
+
+Classic Era (added 1999-2000)
+Gnoll Paw
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Stump's Hand.Use unknown in classic (a quest)? 
+
+  Drops From 
+Butcherblock Mountains
+
+ Stump Rundl
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

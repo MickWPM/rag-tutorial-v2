@@ -1,0 +1,37 @@
+ITEM NAME: Lord of Pain's Khukri
+
+Kunark Era (added 2000)
+
+
+Lord of Pain's Khukri
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Charges: 3
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 12 
+STR: +5  WIS: +5  INT: +10
+SV MAGIC: +25
+Effect:  Enduring Breath (Any Slot, Casting Time: Instant)
+WT: 4.0  Size: MEDIUM
+Class: SHD
+Race: IKS
+
+
+Iksar only on p99. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Tests (#7)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

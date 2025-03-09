@@ -1,0 +1,130 @@
+ITEM NAME: Snake Scales
+
+Classic Era (added 1999-2000)
+
+Snake Scales
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used to make Bog Juice and by Shamans to cast the low level AC buff, Scale Skin. 
+
+  Drops From 
+Butcherblock Mountains
+
+ a snake
+
+Mistmoore Castle
+
+ a Mistmoore guard
+
+Commonlands
+
+ a moss snake
+
+Eastern Plains of Karana
+
+ a dawnbane serpent
+
+Erud's Crossing
+
+ a kerra snake
+
+Nektulos Forest
+
+ a garter snake
+ a moss snake
+
+Northern Desert of Ro
+
+ a moss snake
+
+Qeynos Aqueducts
+
+ Cuburt
+
+Southern Desert of Ro
+
+ a moss snake
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+The Feerrott
+
+ a green snake
+ a snake
+
+Toxxulia Forest
+
+ a thistle snake
+
+West Freeport
+
+ a snake
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Commonlands
+
+ Pardor the Blessed
+
+
+
+  (-125, -760)
+
+
+ Field of Bone
+
+ Klok Acet
+
+
+
+  (-2463, 2983)
+
+
+ Oggok
+
+ Hrak
+
+
+
+  (821, 849)
+
+
+ Warsliks Wood
+
+ Klok Gragin
+
+
+
+  (-1650, -706)
+
+  Related quests 
+ Moss Snakes
+ Unsar's Glory
+ Zimel's Blades (SoulFire)
+ Majik Power
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Bog Juice (Trivial: 21)
+
+
+
+
+

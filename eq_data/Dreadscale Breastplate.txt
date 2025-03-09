@@ -1,0 +1,33 @@
+ITEM NAME: Dreadscale Breastplate
+
+Kunark Era (added 2000)
+
+Dreadscale Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 18
+STR: +2  STA: +10
+SV MAGIC: +3
+WT: 6.0  Size: MEDIUM
+Class: SHD
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dreadscale Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

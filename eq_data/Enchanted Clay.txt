@@ -1,0 +1,32 @@
+ITEM NAME: Enchanted Clay
+
+Epic Quests Era (added Sept 2000)
+Enchanted Clay
+
+
+MAGIC ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+ Ranger Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Runecrested Bowl (Trivial: No-Fail)
+
+
+
+
+

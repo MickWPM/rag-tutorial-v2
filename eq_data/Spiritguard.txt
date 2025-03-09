@@ -1,0 +1,33 @@
+ITEM NAME: Spiritguard
+
+Velious Era (added December 2000-2001)
+
+
+Spiritguard
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+WIS: +5  MANA: +20
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5  SV MAGIC: +5 SV POISON: +5 
+WT: 0.5  Size: TINY
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

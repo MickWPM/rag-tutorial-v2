@@ -1,0 +1,34 @@
+ITEM NAME: Bracelet of the Spirits
+
+
+
+Bracelet of the Spirits
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST WAIST
+Charges: 2
+AC: 5
+STR: +5  DEX: +5  WIS: +5  AGI: +5  MANA: +50
+Effect:  Alacrity (Must Equip, Casting Time: Instant) at Level 45
+WT: 1.0  Size: SMALL
+Class: SHM
+Race: ALL
+
+
+Post-upgrade PoS quest reward , Can be recharged by combining with Mana Battery - Class One in Box of the Void. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of Health
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

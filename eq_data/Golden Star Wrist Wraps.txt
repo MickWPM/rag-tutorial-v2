@@ -1,0 +1,35 @@
+ITEM NAME: Golden Star Wrist Wraps
+
+Velious Era (added December 2000-2001)
+
+
+Golden Star Wrist Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STR: +2  DEX: +2  STA: +2  HP: +10
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+Effect: Pouch of Quellious (Must Equip, Casting Time: 25.0) at Level 50
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Kael Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

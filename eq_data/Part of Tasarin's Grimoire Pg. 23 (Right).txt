@@ -1,0 +1,136 @@
+ITEM NAME: Part of Tasarin's Grimoire Pg. 23 (Right)
+
+Classic Era (added 1999-2000)
+Part of Tasarin's Grimoire Pg. 23
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: Both the left and right sides of this item have the same name. As Levitate is vendor-purchasable, its advised to vendor or drop this page. 
+
+  Drops From 
+Various Zones
+
+ Random drop from level ~16 mobs
+
+
+The drop tables below are pulled from EQEMU, so there may be discrepancies, please update as you find issues.
+Befallen
+
+ a ghoul
+
+Clan Runnyeye
+
+ a Pickclaw Bladestopper
+
+Crushbone
+
+ Emperor Crush
+
+Eastern Plains of Karana
+
+ Nra`Vren Mucktail
+
+Estate of Unrest
+
+ a ghoul
+ dark boned skeleton
+
+Gorge of King Xorbb
+
+ a gorge minotaur
+ a muddite elder
+ an evil eye
+ a muddite recordkeeper
+
+Highpass Hold
+
+ an orc medic
+ an orc warrior
+ a Highpass citizen
+
+Kurn's Tower
+
+ Burynai Excavator
+ Burynai Sapper
+ greater scalebone
+ lesser icebone skeleton
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a faerie
+
+Najena
+
+ a goblin magician
+ a goblin warrior
+ a magician
+ an ogre guard
+ dark-boned skeleton
+
+Northern Plains of Karana
+
+ a griffawn
+ a borer beetle
+
+Ocean of Tears
+
+ an old shark
+
+Permafrost Caverns
+
+ a goblin diviner
+ a goblin evoker
+ a goblin mendicant
+ a young dire wolf
+ an ice goblin
+
+Rivervale
+
+ Nillipuss
+
+South Ro
+
+ dry bones skeleton
+
+Southern Plains of Karana
+
+ aviak darter
+ centaur sheltie
+
+Upper Guk
+
+ a froglok gaz shaman
+ a froglok ton shaman
+
+The Warrens
+
+ a pack leader
+
+West Commonlands
+
+ Kizdean Gix
+
+Western Plains of Karana
+
+ an animated scarecrow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Levitate (Trivial: 22)
+
+
+
+
+

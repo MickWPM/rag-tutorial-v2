@@ -1,0 +1,41 @@
+ITEM NAME: Kobold Parts
+
+Classic Era (added 1999-2000)
+
+
+Kobold Parts
+
+
+QUEST ITEM
+WT: 0.9  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Steamfont Mountains
+
+ a grikbar kobold
+ a grikbar shaman
+ a kobold missionary
+ a kobold scout
+ a kobold shaman
+
+Velketor's Labyrinth
+
+ Gregendek Icepaw
+ Khelkar Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

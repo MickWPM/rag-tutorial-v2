@@ -1,0 +1,27 @@
+ITEM NAME: Rotgrub Rye
+
+
+
+Rotgrub Rye
+
+
+This is a snack.
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+  Related quests 
+ Orc Pawn Picks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+
+
+

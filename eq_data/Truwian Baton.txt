@@ -1,0 +1,36 @@
+ITEM NAME: Truwian Baton
+
+Sky Era (added January 2000)
+
+
+Truwian Baton
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Charges: 3
+Skill: 2H Blunt  Atk Delay: 40
+DMG: 1   AC: 25
+STR: +10  WIS: +15  MANA: +75
+Effect:  Resurrection (Must Equip, Casting Time: Instant) at Level 49
+WT: 8.0  Size: MEDIUM
+Class: CLR
+Race: ALL
+
+
+Recharged by combining with Mana Battery - Class Two in Box of the Void 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of The Weak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

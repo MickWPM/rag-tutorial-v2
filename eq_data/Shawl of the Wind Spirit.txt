@@ -1,0 +1,30 @@
+ITEM NAME: Shawl of the Wind Spirit
+
+
+Shawl of the Wind Spirit
+
+
+Slot: SHOULDERS
+AC: 1
+SV COLD: +2
+WT: 0.4  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Aenia and Behroe
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

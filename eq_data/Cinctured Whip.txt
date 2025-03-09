@@ -1,0 +1,31 @@
+ITEM NAME: Cinctured Whip
+
+
+Cinctured Whip
+
+
+LORE ITEM
+Slot: PRIMARY SECONDARY WAIST
+Skill: Piercing  Atk Delay: 30
+DMG: 5   AC: 2
+WT: 5.0  Size: MEDIUM
+Class: SHD BRD ROG
+Race: ALL except HIE
+
+
+A whip that is a piercing weapon... 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Death of Lyda Nasin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

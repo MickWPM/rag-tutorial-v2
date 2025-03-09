@@ -1,0 +1,31 @@
+ITEM NAME: Lionskin Gloves
+
+
+
+Lionskin Gloves
+
+
+Slot: HANDS
+AC: 5
+SV COLD: +2
+WT: 1.1  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lionskin Gloves Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

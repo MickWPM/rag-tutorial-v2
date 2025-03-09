@@ -1,0 +1,30 @@
+ITEM NAME: Muxin's Sword
+
+ 
+Muxin's Sword
+
+
+LORE ITEM NO TRADE  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 28
+DMG: 4 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Ground spawn under the water off the end of the pier in Kerra Island at (n300,n90,n30). No known use. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

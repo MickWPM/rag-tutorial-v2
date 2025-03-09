@@ -1,0 +1,33 @@
+ITEM NAME: Iksar Skull with punctured cranium
+
+Kunark Era (added 2000)
+
+
+Iksar Skull with punctured cranium
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crypt of Dalnir
+
+ lumpy goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit of Golin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

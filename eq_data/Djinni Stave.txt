@@ -1,0 +1,39 @@
+ITEM NAME: Djinni Stave
+
+Sky Era (added January 2000)
+
+Unlike the majority of Staves in Norrath, this item appears as a bag.
+
+
+
+Djinni Stave
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 19
+DMG: 5 
+WT: 0.5  Size: SMALL
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Displacement
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

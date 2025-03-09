@@ -1,0 +1,39 @@
+ITEM NAME: Abram's Axe of the Stoic
+
+Velious Era (added December 2000-2001)
+
+
+
+Abram's Axe of the Stoic
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 48
+DMG: 30   AC: 5
+STA: +15
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+Effect:  Invigor (Combat, Casting Time: Instant) at Level 30
+WT: 9.7  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: HUM BAR DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Incoherent spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

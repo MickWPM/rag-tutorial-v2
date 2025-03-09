@@ -1,0 +1,42 @@
+ITEM NAME: Mystic Koada`Dal Mithril Helm
+
+
+Mystic Koada`Dal Mithril Helm
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 14
+STR: +2  CHA: +4  WIS: +4  MANA: +5
+WT: 2.4  Size: SMALL
+Class: WAR CLR PAL BRD
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 206)
+ Yield: Mystic Koada`Dal Mithril Helm x1
+ In Koada`Dal Forge:
+
+
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  2 x Enchanted Folded Sheet of Mithril - Crafted
+  1 x Enchanted Mithril Chain Jointing - Crafted
+  1 x Leather Padding - Crafted
+  1 x Moonlight Temper - Crafted
+  1 x Plate Helm Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

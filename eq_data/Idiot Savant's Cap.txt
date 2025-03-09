@@ -1,0 +1,44 @@
+ITEM NAME: Idiot Savant's Cap
+
+Velious Era (added December 2000-2001)
+
+
+Idiot Savant's Cap
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 21
+STR: +8  DEX: +8  WIS: -5  INT: -5
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Idiot Savant's Cap x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Red Throne - Dropped
+  A White Throne - Dropped
+  A Red Crown - Dropped
+  A White Crown - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

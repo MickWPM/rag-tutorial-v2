@@ -1,0 +1,35 @@
+ITEM NAME: Forged Dagger
+
+
+Forged Dagger
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 21
+DMG: 3 
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Southern Desert of Ro
+
+ Obretl
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 48) 
+
+  Tradeskill recipes 
+ Bloodclaw Dagger
+
+
+
+

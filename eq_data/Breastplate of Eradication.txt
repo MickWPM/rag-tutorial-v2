@@ -1,0 +1,36 @@
+ITEM NAME: Breastplate of Eradication
+
+Velious Era (added December 2000-2001)
+
+ Disciple of Ralloz Zek standing guard at the gates of ToV.
+Breastplate of Eradication
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 55
+STR: +10  DEX: +15  STA: +20  CHA: +10  AGI: +15  HP: +100
+SV FIRE: +8  SV DISEASE: +8  SV COLD: +8  SV MAGIC: +8  SV POISON: +8
+WT: 19.4  Size: LARGE
+Class: WAR PAL SHD BRD
+Race: ALL
+
+
+Velious texture [Sep2001] [1] 
+
+  Drops From 
+Kael Drakkel
+
+ The Statue of Rallos Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Mendglow Clay
+
+
+Mendglow Clay
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 3 & 5
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Burning Woods
+
+

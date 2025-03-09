@@ -1,0 +1,38 @@
+ITEM NAME: Magnetic Dirk of Distraction
+
+Velious Era (added December 2000-2001)
+
+
+Magnetic Dirk of Distraction
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 23
+DMG: 8 
+STR: +4  DEX: +10
+SV MAGIC: +5
+Effect:  Distraction (Combat, Casting Time: Instant)
+WT: 3.0  Size: SMALL
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify): The Dirk faces north 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Cara Omica
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

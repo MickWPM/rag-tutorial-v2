@@ -1,0 +1,40 @@
+ITEM NAME: Imbued Silvered Peridot Ring
+
+
+
+Imbued Silvered Peridot Ring
+
+
+Slot: FINGER
+AC: 1
+AGI: +3
+SV COLD: +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Bristlebane
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Silvered Peridot Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Silver Bar - Summoned
+  1 x Imbued Peridot - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

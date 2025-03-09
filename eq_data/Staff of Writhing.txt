@@ -1,0 +1,36 @@
+ITEM NAME: Staff of Writhing
+
+
+Staff of Writhing
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 33
+DMG: 9 
+CHA: -9
+Effect:  Chaotic Feedback (Combat, Casting Time: Instant) at Level 28
+WT: 6.5  Size: LARGE
+Class: BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 100pp 
+
+  Drops From 
+Nagafen's Lair
+
+ kobold noble
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

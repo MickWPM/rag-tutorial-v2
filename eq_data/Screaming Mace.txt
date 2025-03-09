@@ -1,0 +1,32 @@
+ITEM NAME: Screaming Mace
+
+
+Screaming Mace
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 8 
+Effect:  Screaming Mace (Combat, Casting Time: Instant) at Level 10
+WT: 8.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+The proc is a small three-tick STR and AC buff, very similar to Yaulp used by clerics and paladins. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Screaming Mace Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

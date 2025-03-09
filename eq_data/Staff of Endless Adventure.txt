@@ -1,0 +1,30 @@
+ITEM NAME: Staff of Endless Adventure
+
+Classic Era (added 1999-2000)
+
+
+Staff of Endless Adventure
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Effect: Trakanon Tail (Any Slot, Casting Time: 1.5)
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+GM Event item for Fourth of July (U.S.) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

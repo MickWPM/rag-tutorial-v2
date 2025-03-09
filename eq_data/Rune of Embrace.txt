@@ -1,0 +1,36 @@
+ITEM NAME: Rune of Embrace
+
+
+Rune of Embrace
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Various Zones
+
+ Random drop from most level ~39 mobs
+
+The Feerrott
+
+ a spectre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Common Portal (Trivial: 140)
+
+
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Brass Ring
+
+Classic Era (added 1999-2000)
+
+Brass Ring
+
+
+LORE ITEM  NODROP
+Slot: FINGER
+CHA: +1
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Vanik's Band 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Catfish Tail
+ Taxes
+ Wenbie's Muffins
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

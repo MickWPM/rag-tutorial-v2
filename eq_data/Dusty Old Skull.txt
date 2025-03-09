@@ -1,0 +1,35 @@
+ITEM NAME: Dusty Old Skull
+
+
+
+Dusty Old Skull
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Ground spawn next to Meldrath the Malignant in the minotaur caves, at 1672, -1994 in Steamfont Mountains. 
+
+  Drops From 
+Steamfont Mountains
+
+ Ground Spawn
+ (1672, -1994) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bones of Darak Lightforge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

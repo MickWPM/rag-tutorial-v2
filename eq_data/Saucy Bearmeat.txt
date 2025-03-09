@@ -1,0 +1,42 @@
+ITEM NAME: Saucy Bearmeat
+
+Velious Era (added December 2000-2001)
+
+
+Saucy Bearmeat
+
+
+NO DROP
+This is a meal!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ Baking (Trivial: 26)
+ Yield: Saucy Bearmeat x1
+ In Oven:
+
+
+  1 x Jug of Sauces - Bought
+  1 x Tundra Kodiak Meat - Dropped 
+
+
+  Tradeskill recipes 
+ Baking
+ Tundrabear Sandwich (Trivial: 51)
+
+
+
+
+

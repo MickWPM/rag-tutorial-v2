@@ -1,0 +1,37 @@
+ITEM NAME: Helmet of Rallos Zek
+
+ 
+Velious Era (added December 2000-2001)
+
+Helmet of Rallos Zek
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 55
+STR: +15  DEX: +15  STA: +15  HP: +100
+SV MAGIC: +15
+Effect: Truesight (Worn)
+WT: 1.0  Size: TINY
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ The Avatar of War
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

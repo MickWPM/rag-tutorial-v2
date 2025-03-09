@@ -1,0 +1,72 @@
+ITEM NAME: Shark Meat
+
+
+Shark Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a shark
+
+East Freeport
+
+ a shark
+
+Erud's Crossing
+
+ a killer shark
+ a shark
+
+Erudin
+
+ a sand shark
+ a young shark
+ a shark
+ a diseased shark
+
+Kedge Keep
+
+ a bull shark
+ a cauldron hammerhead
+ a cauldron shark
+ a ferocious hammerhead
+ a frenzied cauldron shark
+
+Lake Rathetear
+
+ a freshwater shark
+
+Ocean of Tears
+
+ a reef shark
+ a shark
+
+Qeynos Aqueducts
+
+ a shark
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shark Meat Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Shark Fillet (Trivial: 82)
+ Shark Rolls (Trivial: 135)
+ Smoked Shark (Trivial: 95)
+
+
+
+
+

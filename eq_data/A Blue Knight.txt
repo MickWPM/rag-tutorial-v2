@@ -1,0 +1,51 @@
+ITEM NAME: A Blue Knight
+
+Velious Era (added December 2000-2001)
+
+
+
+Blue Knight
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Mischief
+
+ a white stallion
+ Tribunal Puppet
+ Innoruuk Puppet
+ Erollisi Puppet
+ Rallos Puppet
+ Solusek Puppet
+ Tunare Puppet
+ Bristlebane Puppet
+ A Dastardly Rascal
+ A False Treasure Chest
+ Chuckles the Great
+ Not Yours
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+ Cloak of Confusion
+ Bracelet of the Twisted Mind
+ Mushroom Bracelet
+ Shimmering Wristguard
+ Green Flower of Functionality
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

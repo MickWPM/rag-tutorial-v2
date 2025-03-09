@@ -1,0 +1,41 @@
+ITEM NAME: Words of Recluse
+
+
+Words of Recluse
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 8g 4s 5c 
+
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+South Karana
+
+A Treant
+
+Rathe Mountains
+
+a giant skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Intensify Death (Trivial: 62) (Research Only)
+
+
+
+
+

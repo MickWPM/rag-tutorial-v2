@@ -1,0 +1,32 @@
+ITEM NAME: Recruitment Summons
+
+Classic Era (added 1999-2000)
+
+
+Recruitment Summons
+
+
+The Note is rolled up.
+NO TRADE
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Gemchopper Hall 
+
+  Book contents 
+"----   Recruitment Summons   ----    Your service is requested at Gemchopper Hall.  Return this summons to Master Warrior Baxok Curhunter to enlist immediately."
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

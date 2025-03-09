@@ -1,0 +1,39 @@
+ITEM NAME: Willsapper
+
+Velious Era (added December 2000-2001)
+
+ Mr. Secretary demonstrates use of a Willsapper
+Willsapper
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 20
+DMG: 13   AC: 9
+HP: +35
+Effect:  Energy Sap (Combat, Casting Time: Instant) at Level 50
+WT: 1.9  Size: SMALL
+Class: ALL except CLR DRU MNK
+Race: ALL
+
+
+This weapon is strongly desired by warriors for its slow proc, solid stats, and excellent ratio. 
+Though scarce and contested, it is attainable by small, casual raiding guilds.
+ Item Lore (from Identify): Vaniki's Dagger 
+
+  Drops From 
+Dragon Necropolis
+
+ Vaniki
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

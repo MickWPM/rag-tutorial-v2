@@ -1,0 +1,34 @@
+ITEM NAME: Thorny Vine Bracer
+
+
+
+Thorny Vine Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 9
+STA: +5  WIS: +5  AGI: +5  MANA: +10
+WT: 3.0  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Part of the Thorny Vine Armor set. 
+
+  Drops From 
+Plane of Fear
+
+ a tentacle tormentor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

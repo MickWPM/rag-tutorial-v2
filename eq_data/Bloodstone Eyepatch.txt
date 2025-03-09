@@ -1,0 +1,34 @@
+ITEM NAME: Bloodstone Eyepatch
+
+Classic Era (added 1999-2000)
+
+Bloodstone Eyepatch
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 4
+WIS: +3  AGI: +3
+WT: 0.1  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ an imp familiar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

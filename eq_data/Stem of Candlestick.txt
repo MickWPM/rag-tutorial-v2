@@ -1,0 +1,40 @@
+ITEM NAME: Stem of Candlestick
+
+
+
+Stem of Candlestick
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Stem of a Kor Sha Candlestick
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Note: There are two different items with this name. 
+
+  Drops From 
+Lake of Ill Omen
+
+ A sarnak revenant ("Stem of a Kor Sha Candlestick")
+
+Rathe Mountains
+
+ Nicholas - Gives it to you when you mention the Chalice of Conquest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 6th Rank ("Stem of a Kor Sha Candlestick")
+ Chalice of Conquest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

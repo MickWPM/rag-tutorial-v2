@@ -1,0 +1,35 @@
+ITEM NAME: Enchanted Fine Steel Morning Star
+
+Kunark Era (added 2000)
+
+Enchanted Fine Steel Morning Star
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 7 
+STR: +2  WIS: +5
+WT: 9.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Kithicor Forest
+
+ General V`ghera
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

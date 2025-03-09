@@ -1,0 +1,37 @@
+ITEM NAME: Deepwater Helm
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Deepwater Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 21
+Effect:  Daring (Must Equip, Casting Time: 10.0) at Level 45
+WT: 6.0  Size: SMALL
+Class: PAL
+Race: ALL except IKS
+
+
+Note: Casting time increased to 10 seconds on blue (2/13/13 patch), and 10 seconds on red (as of 07/19/16). Must be at least level 45 to use the effect.
+Vendors for 337p with average CHA.
+Part of the Deepwater Armor set. 
+
+  Drops From 
+Old Sebilis
+
+ crypt caretaker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

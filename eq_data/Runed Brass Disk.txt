@@ -1,0 +1,33 @@
+ITEM NAME: Runed Brass Disk
+
+
+
+Runed Brass Disk
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones
+
+ a crypt guardian
+ a mortiferous golem
+ a pyre golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Crescent Arm Wraps
+
+Kunark Era (added 2000)
+
+Crescent Arm Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 3
+STA: +4  CHA: +2  HP: +10
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+Part of the Crescent Armor Set 
+
+  Drops From 
+Crypt of Dalnir
+
+ a kly acolyte
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

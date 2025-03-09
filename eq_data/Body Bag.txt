@@ -1,0 +1,41 @@
+ITEM NAME: Body Bag
+
+
+
+Body Bag
+
+
+WT: 5.0  Weight Reduction: 0%
+Capacity: 2  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ a mortician
+
+
+
+  (161, 667)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

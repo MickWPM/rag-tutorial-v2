@@ -1,0 +1,33 @@
+ITEM NAME: Ivory Sky Diamond
+
+Sky Era (added January 2000)
+
+
+Ivory Sky Diamond
+
+
+LORE ITEM  NO DROP
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Test of Spirit
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

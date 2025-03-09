@@ -1,0 +1,40 @@
+ITEM NAME: Large Power Source
+
+
+
+Large Power Source
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Solusek's Eye
+
+ CWG Model CA
+ CWG Model CB
+ CWG Model CC
+ CWG Model CX
+ CWG Model MA
+ CWG Model MB
+ CWG Model MC
+ CWG Model XA
+ CWG Model XB
+ CWG Model XC
+ CWG Model SX
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,172 @@
+ITEM NAME: Ivory
+
+
+Ivory
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used to create Imbued Ivory. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 6 Platinums
+ 7 Golds
+ 1 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Mistmoore Castle
+
+ a dark offerer
+ a dark ritualist
+ a dark sacrificer
+ a ghostly ancille
+ a glyphed forbidder
+ a Mistmoore guard
+ a negotiator
+ a shadowy sage
+ a shadowy scribe
+ a shadowy scrivener
+ a soul inveigling
+ a soul seductress
+ a soul temptress
+ a spectral ancille
+ a spiritish ancille
+ a thought defiler
+ a thought spoiler
+ a vampire noble
+ a vampire oracle
+ a vampiric ancille
+ a wightish ancille
+ Princess Cherista
+
+Clan Runnyeye
+
+ a goblin warlord
+
+Crystal Caverns
+
+ a Ry`Gorr miner
+ a stalag terror
+ A geonid (CC)
+
+Eastern Plains of Karana
+
+ a hill giant
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a skeletal monk
+ an undead knight of Unrest
+ dark boned skeleton
+ Torklar Battlemaster
+
+Everfrost Peaks
+
+ an ice giant
+ Karg IceBear
+
+Field of Bone
+
+ Kerosh Blackhand
+
+Beholder's Maze
+
+ an evil eye
+
+Greater Faydark
+
+ a faerie guard
+
+High Keep
+
+ Dyrna Nlith
+
+Lake of Ill Omen
+
+ a Sarnak conscript
+
+Lesser Faydark
+
+ a faerie
+ a faerie guard
+ Jayla Nybright
+ Thistle Underbrush
+
+Rathe Mountains
+
+ a hill giant
+
+Nagafen's Lair
+
+ fire giant warrior
+ fire giant wizard
+ imp protector
+
+Najena
+
+ dark-boned skeleton
+ Rathyl
+
+North Kaladim
+
+ Guard Dalthur
+ Guard Doradek
+
+Northern Desert of Ro
+
+ a Dervish Thug
+
+South Kaladim
+
+ Guard Anathur
+
+Southern Karana
+
+ aviak darter
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Swamp of No Hope
+
+ froglok shin shaman
+ Weeping Mantrap
+
+The Feerrott
+
+ a gorilla
+
+The Overthere
+
+ a barbed succulent
+
+The Wakening Land
+
+ a drixie thane
+
+Thurgadin
+
+ a crystal spider
+
+Warsliks Woods
+
+ a skulking brute
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

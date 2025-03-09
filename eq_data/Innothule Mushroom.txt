@@ -1,0 +1,42 @@
+ITEM NAME: Innothule Mushroom
+
+Velious Era (added December 2000-2001)
+
+Innothule Mushroom
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Can be found on the ground in Innothule Swamp and picked up without the forage skill. One found at -1950, -360 (01/19/2022). 
+
+  Drops From 
+Innothule Swamp
+
+ fungus man tracker
+
+Swamp of No Hope
+
+ a froglok outlander
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Boot Beer (Trivial: 162)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Innothule Swamp (found on the ground near Grobb entrance)
+
+

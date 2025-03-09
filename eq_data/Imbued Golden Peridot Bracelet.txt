@@ -1,0 +1,40 @@
+ITEM NAME: Imbued Golden Peridot Bracelet
+
+
+
+Imbued Golden Peridot Bracelet
+
+
+Slot: WRIST
+AC: 3
+AGI: +4
+SV COLD: +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Bristlebane
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Golden Peridot Bracelet x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Gold Bar - Summoned
+  1 x Imbued Peridot - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Medium Clay Jar
+
+
+
+Medium Clay Jar
+
+
+QUEST ITEM
+WT: 4.5  Weight Reduction: 0%
+Capacity: 4  Size Capacity: MEDIUM
+
+
+This is a combineable container which is used to make Fine Plate Armor dyes. You lose the jar on combine. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 17)
+ Yield: Medium Clay Jar x1
+ In Kiln:
+
+
+  1 x Quality Firing Sheet - Bought
+  1 x Unfired Medium Container - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

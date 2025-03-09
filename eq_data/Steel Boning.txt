@@ -1,0 +1,45 @@
+ITEM NAME: Steel Boning
+
+Classic Era (added 1999-2000)
+
+Steel Boning
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Innoruuk Regent
+
+  Player crafted 
+ Blacksmithing (Trivial: 41)
+  Yield: Steel Boning  x1
+ In Forge:
+
+
+  1 x File - Crafted, Returned on Failure, Returned on Success
+  1 x Small Brick of Ore - Crafted, Bought, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Reinforced Armor - Trivial 108
+  Vale Studded Armor - Trivial 106 
+  Imbued Vale Studded Armor - Trivial 122 
+  Vale Reinforced Armor - Trivial 215
+  Imbued Vale Reinforced Armor - Trivial 228
+
+
+
+
+

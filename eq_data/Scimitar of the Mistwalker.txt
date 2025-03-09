@@ -1,0 +1,49 @@
+ITEM NAME: Scimitar of the Mistwalker
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Scimitar of the Mistwalker
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 10 
+Effect:  Mistwalker (Combat, Casting Time: Instant) at Level 50
+WT: 2.5  Size: MEDIUM
+Class: RNG DRU
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+No longer drops. (4 on blue server, 5 on green server)
+Procs summons a wolf pet with 1 hp that max hits for up to 104. Can double attack, kick and bash. Disappears after one round of attacks. Can control it like a normal pet once summoned, will remain active until zoning/sent to attack. 
+
+  Green Ownership 
+Only six dropped before the era update that removed it from Lady Vox's loot table. Four were to <Seal Team> and one to <Venerate> on Green Server and one to <Kingdom> on Teal server. Only five are believed to still exist. Current wielders are below: 
+
+ Artelius - Server First - Was given away as a tip for a port.
+ Bloodraven (Carceret)
+ Chads (Bigbrained)
+ Flogging? (Glimrock)
+ Zalzeena? (Exxedeus)
+ Artifax (Dalbo) - Teal server's lone drop. This one is believed to be banned out of existence. 
+
+  Drops From 
+Permafrost
+
+ Lady Vox
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Chads <Safe Space> proccing a Scimitar of the Mistwalker pet on Project1999 Green
+ Project1999 Green - Scimitar of the Mistwalker displayed on Moresel Ironborn <Safe Space>
+

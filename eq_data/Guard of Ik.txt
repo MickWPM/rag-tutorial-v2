@@ -1,0 +1,31 @@
+ITEM NAME: Guard of Ik
+
+
+Guard of Ik
+
+
+LORE ITEM
+Slot: SECONDARY
+AC: 10
+SV MAGIC: +5
+WT: 10.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guard of Ik Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

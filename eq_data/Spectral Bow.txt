@@ -1,0 +1,37 @@
+ITEM NAME: Spectral Bow
+
+Kunark Era (added 2000)
+
+
+Spectral Bow
+
+
+MAGIC ITEM  LORE ITEM  NO TRADE
+Slot: RANGE
+Skill: Archery  Atk Delay: 50
+DMG: 19
+DEX: +3
+WT: 8.5  Range: 150  Size: MEDIUM
+Class: WAR RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ froglok forager
+ froglok hunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

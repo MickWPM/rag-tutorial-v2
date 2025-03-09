@@ -1,0 +1,45 @@
+ITEM NAME: Fishgill Necksash
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Fishgill Necksash
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK WAIST
+AC: 4
+STA: +4  HP: +10
+Effect: Enduring Breath (Worn)
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): What ye lookin fer fishbreath? 
+
+  Drops From 
+Timorous Deep ?
+
+ First Mate Morgan ?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

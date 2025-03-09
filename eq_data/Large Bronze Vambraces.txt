@@ -1,0 +1,43 @@
+ITEM NAME: Large Bronze Vambraces
+
+Classic Era (added 1999-2000)Were you looking for Bronze Armor Set? Were you looking for Small Bronze Armor Set?
+
+Large Bronze Vambraces
+
+
+Slot: ARMS
+AC: 8
+WT: 10.1  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: BAR TRL OGR
+
+
+Part of the Large Bronze Armor Set. 
+ Merchant resale value: 2p 3g 9s 9c 
+
+  Drops From 
+Najena
+
+ Moosh
+ Officer Grush
+ The Guard Captain
+
+Western Plains of Karana
+
+ an ogre guard (Karana)
+
+Lower Guk
+
+ A greater ice bones
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

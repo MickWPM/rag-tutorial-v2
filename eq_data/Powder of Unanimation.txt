@@ -1,0 +1,33 @@
+ITEM NAME: Powder of Unanimation
+
+Warrens Era (added spring 2001)
+
+
+Powder of Unanimation
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+EXPENDABLE  Charges: 2
+Effect: Banishment of Shadows (Any Slot, Casting Time: 8.0)
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunare Warden
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+This item requires the Star Ruby reagent.
+
+

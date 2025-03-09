@@ -1,0 +1,45 @@
+ITEM NAME: Troll Head
+
+Classic Era (added 1999-2000)
+
+
+Troll Head
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Lumpin (Need Confirmed)
+ Item Lore (from Identify):  Ratraz (Need Confirmed)
+ Item Lore (from Identify):  Rungupp's Head 
+Note: There are three items with this identical name. 
+
+  Drops From 
+Neriak Third Gate
+
+ Ratraz
+
+Neriak Foreign Quarter
+
+ Guard Lumpin
+
+Toxxulia Forest
+
+ Rungupp
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hukulk's Love ("Lumpin" and "Ratraz")
+ Rungupp ("Rungupp")  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

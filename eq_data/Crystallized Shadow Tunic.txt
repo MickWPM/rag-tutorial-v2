@@ -1,0 +1,38 @@
+ITEM NAME: Crystallized Shadow Tunic
+
+Velious Era (added December 2000-2001)
+
+
+Crystallized Shadow Tunic
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 18
+STR: +3  STA: +2  CHA: +2  WIS: +3  HP: +10  MANA: +5
+WT: 5.0  Size: LARGE
+Class: ALL except RNG DRU NEC WIZ MAG ENC
+Race: ALL except ELF HIE HEF DWF HFL
+
+
+Part of the Crystallized Shadow Armor set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Librarian assistant
+ Xalgoti
+ Zorglim the Dead
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

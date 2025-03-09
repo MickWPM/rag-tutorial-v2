@@ -1,0 +1,35 @@
+ITEM NAME: Orc Hatchet
+
+
+
+Orc Hatchet
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 36
+DMG: 2 
+WT: 10.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Greater Faydark
+
+ orc hatchetman
+ Orc Pawn (Crushbone)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Orc Hatchets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

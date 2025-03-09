@@ -1,0 +1,36 @@
+ITEM NAME: Circlet of Silver Skies
+
+Velious Era (added December 2000-2001)
+
+
+Circlet of Silver Skies
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 25
+DEX: +7  STA: +7  CHA: +14  WIS: +7  INT: +7  AGI: +7
+MANA: +60
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Gozzrem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

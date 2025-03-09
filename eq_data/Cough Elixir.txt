@@ -1,0 +1,30 @@
+ITEM NAME: Cough Elixir
+
+Kunark Era (added 2000)
+
+
+Cough Elixir
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.0  Size: SMALL
+Class: NONE
+Race: HUM ERU HEF IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Velium Studded Cloak
+
+Velious Era (added December 2000-2001)
+
+
+
+Velium Studded Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+Charges: 5
+AC: 12
+HP: +25
+SV FIRE: +5  SV COLD: +5
+Effect:  Superior Camouflage (Must Equip, Casting Time: 0.0) at Level 30
+WT: 6.5  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reinforcements for The Tunarean Regiment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Buyback price: 171p 3g 5s 9c. Not worth recharging compared to Ring of Shadows.
+
+

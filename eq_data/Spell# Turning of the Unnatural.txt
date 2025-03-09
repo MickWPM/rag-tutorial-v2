@@ -1,0 +1,60 @@
+ITEM NAME: Spell: Turning of the Unnatural
+
+Velious Era (added December 2000-2001)
+
+
+Spell: Turning of the Unnatural
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Evocation
+Mana Cost: 136
+Effect:  Turning of the Unnatural
+WT: 0.1  Size: SMALL
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a blacksmith of Ry`Gorr
+ a Ry`Gorr Avenger
+ a Ry`Gorr legionaire
+ an ulthork man o war
+ Chief Ry`Gorr
+ mystic of Ry`Gorr
+ Ry`Gorr elite guard
+
+Iceclad Ocean
+
+ Garou
+
+Tower of Frozen Shadow
+
+ a blood familiar
+ a crystallized shadow guard
+ a shrouded bat
+ Amontehepna
+ An Ancient Mummy
+ an armored shadow
+ an enraged vampire (male)
+ An Undead Dancer
+ Librarian
+ Vyakna
+ a shadow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

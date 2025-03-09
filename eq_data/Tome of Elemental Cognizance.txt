@@ -1,0 +1,34 @@
+ITEM NAME: Tome of Elemental Cognizance
+
+Velious Era (added December 2000-2001)
+
+
+Tome of Elemental Cognizance
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Jaelk
+ Lararith
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Tome
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

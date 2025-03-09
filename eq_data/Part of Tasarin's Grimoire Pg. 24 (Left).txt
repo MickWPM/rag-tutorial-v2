@@ -1,0 +1,154 @@
+ITEM NAME: Part of Tasarin's Grimoire Pg. 24 (Left)
+
+Classic Era (added 1999-2000)
+Part of Tasarin's Grimoire Pg. 24
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: Both the left and right sides of this item have the same name. As Disempower is vendor-purchasable, its advised to vendor or drop this page. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 4 Golds
+ 3 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from level ~16 mobs
+
+
+The drop tables below are pulled from EQEMU, so there may be discrepancies, please update as you find issues.
+Befallen
+
+ a ghoul
+ a necro acolyte
+
+Clan Runnyeye
+
+ a Pickclaw Thoughtshaper
+
+Crushbone
+
+ royal guard
+
+Eastern Plains of Karana
+
+ a gorge hound
+
+Estate of Unrest
+
+ a ghoul
+ dark boned skeleton
+
+Everfrost Peaks
+
+ a snow orc shaman
+
+Field of Bone
+
+ An iksar marauder
+
+Gorge of King Xorbb
+
+ a muddite elder
+ an evil eye
+ Lord Sviir
+
+Highpass Hold
+
+ an orc medic
+ an orc warrior
+
+Kurn's Tower
+
+ Burynai Excavator
+ greater scalebone
+ lesser icebone skeleton
+
+Lake of Ill Omen
+
+ a goblin battlemaster
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+
+Najena
+
+ a goblin magician
+ a goblin warrior
+ a magician
+ an ogre guard
+ dark-boned skeleton
+
+Northern Plains of Karana
+
+ a griffawn
+ a scythe beetle
+
+Ocean of Tears
+
+ Toko Binlittle
+
+Permafrost Caverns
+
+ a goblin diviner
+ a goblin evoker
+ a goblin mendicant
+ a young dire wolf
+ an ice goblin
+
+Rathe Mountains
+
+ a basilisk
+
+Rivervale
+
+ Nillipuss
+
+South Ro
+
+ dry bones skeleton
+
+Southern Plains of Karana
+
+ centaur foal
+
+Upper Guk
+
+ a froglok gaz knight
+ a froglok gaz warrior
+ a froglok ton shaman
+
+The Warrens
+
+ a pack leader
+
+Western Plains of Karana
+
+ an animated scarecrow
+ Misty Storyswapper
+ a scarecrow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Levitate (Trivial: 22)
+
+
+
+
+

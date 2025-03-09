@@ -1,0 +1,38 @@
+ITEM NAME: Crystallized Shadow Boots
+
+Velious Era (added December 2000-2001)
+
+
+Crystallized Shadow Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 3
+STA: +1  CHA: +1  AGI: +3  MANA: +5
+WT: 0.2  Size: SMALL
+Class: ALL except RNG DRU NEC WIZ MAG ENC
+Race: ALL except ELF HIE HEF DWF HFL
+
+
+Part of the Crystallized Shadow Armor set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an angry chef
+ Xalgoti
+ Librarian assistant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

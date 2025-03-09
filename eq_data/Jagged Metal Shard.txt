@@ -1,0 +1,35 @@
+ITEM NAME: Jagged Metal Shard
+
+Kunark Era (added 2000)
+
+Jagged Metal Shard
+
+
+LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 27
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Crypt of Dalnir
+
+ a kly imprecator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Visceral Dagger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

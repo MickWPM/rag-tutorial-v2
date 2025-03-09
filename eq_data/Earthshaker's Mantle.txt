@@ -1,0 +1,37 @@
+ITEM NAME: Earthshaker's Mantle
+
+Sky Era (added January 2000)
+
+
+Earthshaker's Mantle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+Charges: 2
+AC: 9
+STR: +8  DEX: +8  WIS: +8
+SV FIRE: +10  SV MAGIC: +10
+Effect:  Earthquake (Must Equip, Casting Time: Instant) at Level 49
+WT: 2.5  Size: SMALL
+Class: RNG
+Race: ALL
+
+
+ Item Lore (from Identify): Earthshaker's Mantle - Class 4
+Recharged by combining with Mana Battery - Class Four in Box of the Void 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Earth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

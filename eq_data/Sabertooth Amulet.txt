@@ -1,0 +1,37 @@
+ITEM NAME: Sabertooth Amulet
+
+Kunark Era (added 2000)
+
+Sabertooth Amulet
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 4
+STA: +5  INT: +5
+SV MAGIC: +15
+Effect:  See Invisible (Worn)
+WT: 0.4  Size: TINY
+Class: SHM
+Race: ALL
+
+
+Note: Incorrectly had WIS +5 instead of INT +5, fixed in p99 patch. (ref) 
+ Merchant resale value: 75.7p 
+
+  Drops From 
+Trakanon's Teeth
+
+ Silvermane
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

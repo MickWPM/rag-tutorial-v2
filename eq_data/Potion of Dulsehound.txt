@@ -1,0 +1,38 @@
+ITEM NAME: Potion of Dulsehound
+
+Classic Era (added 1999-2000)
+
+Potion of Dulsehound
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect: Dulsehound (Any Slot, Casting Time: Instant)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 131)
+ Yield: Potion of Dulsehound x1
+ In Medicine Bag:
+
+
+  1 x Balm Leaves - Bought
+  1 x Hill Giant Toes - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

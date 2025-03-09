@@ -1,0 +1,54 @@
+ITEM NAME: Coral Crescent
+
+Velious Era (added December 2000-2001)
+
+Coral Crescent
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Not a gem for Velious Class Armor Quests, no known use? 
+ Merchant resale value: 48p 
+
+  Drops From 
+Cobalt Scar
+
+ a cobalt drake
+ a wyvern
+ Qarrgy Scallopgobbler
+
+Dragon Necropolis
+
+ a Chelaki
+ a Chetari dominator
+ a Chetari master
+ a dragon construct
+
+Siren's Grotto
+
+ a neriad maiden
+ an enthralled molkor
+
+The Wakening Land
+
+ a geonid
+ Shamus Aghllsews
+
+Velketor's Labyrinth
+
+ a velium hunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

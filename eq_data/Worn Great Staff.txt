@@ -1,0 +1,232 @@
+ITEM NAME: Worn Great Staff
+
+Classic Era (added 1999-2000)
+Classic Era (added 1999-2000)
+
+Worn Great Staff
+
+
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 40
+DMG: 6 
+WT: 10.0  Size: LARGE
+Class: ALL except BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 9 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Blackburrow
+
+ a burly gnoll
+ a gnoll
+ a gnoll brewer
+ a gnoll commander
+ a gnoll guardsman
+ a gnoll pup
+ a gnoll scout
+ a gnoll tactician
+ a patrolling gnoll
+ a scrawny gnoll
+ an elite gnoll guard
+
+Butcherblock Mountains
+
+ a decaying dwarf skeleton
+ a goblin
+ a goblin shaman
+ an undead pawn
+
+Commonlands
+
+ a skeleton
+ orc legionnaire
+ orc pawn
+
+Everfrost Peaks
+
+ a decaying skeleton
+
+Greater Faydark
+
+ a brownie scout
+ a decaying skeleton
+ a faerie maiden
+ an orc centurion
+ an orc conscript
+ an orc footman
+ an orc seer
+ an orc shaman
+ an orc witchdoctor
+ orc centurion
+ orc oracle
+ orc pawn
+
+Lake Rathetear
+
+ a gnoll high shaman
+ a gnoll shaman
+
+Lesser Faydark
+
+ a faerie maiden
+ a skeleton
+
+Najena
+
+ a goblin warrior
+
+Nektulos Forest
+
+ a calcified skeleton
+ a decaying skeleton
+ a skeleton
+ an undead annalkeeper
+ Forley
+ Initiate of Rodcet
+ Initiate Pool
+ Initiate Umbra
+ Leatherfoot Corporal
+ Leatherfoot Scout
+ Leatherfoot Sergeant
+
+North Qeynos
+
+ a decaying skeleton
+
+Northern Desert of Ro
+
+ a deathfist pawn
+ a decaying skeleton
+ a skeleton
+
+Ocean of Tears
+
+ an isle goblin shaman
+
+Qeynos Hills
+
+ a gnoll avenger
+ a gnoll hunter
+ a gnoll watcher
+
+Southern Karana
+
+ a skeleton
+
+Steamfont Mountains
+
+ a decaying gnome skeleton
+ a gnome skeleton
+ a kobold runt
+ a runaway clockwork
+
+Surefall Glade
+
+ TeAnara
+
+The Feerrott
+
+ a lizardman mystic
+
+ The Warrens 
+
+  a kobold runt 
+
+West Freeport
+
+ a deathfist pawn
+ a decaying skeleton
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ East Freeport
+
+ Winsa Tanner
+
+
+
+  (38, -539)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ East Commonlands
+
+ Pardor the Blessed
+
+
+
+  (-121, -780)
+
+
+ North Freeport
+
+ Lysric Loresinger
+
+
+
+  (-145, 579)
+
+
+ West Freeport
+
+ Lindie Rains
+
+
+
+  (-39, 12)
+
+  Related quests 
+ Bladed Weapons
+ Emerald Warriors' Items
+ Odus Pearls
+ Skeleton Killing
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

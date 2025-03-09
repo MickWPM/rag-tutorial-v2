@@ -1,0 +1,34 @@
+ITEM NAME: Fine Steel Tanto
+
+Stonebrunt Era (added summer 2001)
+
+
+Fine Steel Tanto
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 3 
+WT: 3.0  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a heretic invader
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

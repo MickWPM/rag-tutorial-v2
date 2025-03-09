@@ -1,0 +1,85 @@
+ITEM NAME: Rune of The Astral
+
+
+Rune of the Astral
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kedge Keep
+
+ a swirlspine seahorse
+ Estrella of Gloomwater
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Old Sebilis
+
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+ Froglok Armsman
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a phantasm
+ a spinechiller spider
+ Amygdalan knight
+ Dread
+ phoboplasm
+ Wraith of a Shissar
+
+Plane of Hate
+
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ a spite golem
+ an abhorrent
+
+Plane of Sky
+
+ a shimmering meteor
+
+Skyfire Mountains
+
+ an old wurm
+
+Swamp of No Hope
+
+ froglok berserker
+
+The Feerrott
+
+ Roror
+
+Trakanon's Teeth
+
+ Klok Denris
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Ice Comet (Trivial: 184)
+ Supernova (Trivial: 184)
+
+
+
+
+

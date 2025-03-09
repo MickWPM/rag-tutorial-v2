@@ -1,0 +1,95 @@
+ITEM NAME: Small Piece of Velium
+
+Velious Era (added December 2000-2001)
+Small Piece of Velium
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 4 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr miner
+
+Icewell Keep
+
+ an avalanche golem
+ Frosticube
+
+Skyshrine
+
+ A Golem Adjudicator
+ Patroller Doruuk
+ Patroller Imochen
+ Patroller Sven
+ Patroller Unelorn
+ Patroller Victan
+ Trezum
+
+Tower of Frozen Shadow
+
+ a crystallized shadow guard
+ a golem usher
+
+Velketor's Labyrinth
+
+ a crystal destroyer
+ a crystal gargoyle
+ a crystal sentinel
+ a crystaline sentinel
+ a crystalline gargoyle
+ a crystalline hunter
+ a crystalline sentinel
+ a crystalline statue
+ a crystalline watcher
+ a velium hunter
+ Bledrek
+ Crystal Fang
+ Kerdelb
+ Rijoely
+ The Brood Master
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Velium Focus
+
+  Player crafted 
+ Blacksmithing (Trivial: 30)
+ Yield: Small Piece of Velium x2
+ In Forge:
+
+
+  1 x Small Brick of Velium - Crafted, Dropped
+  1 x Smithing Chisel - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Velium Bits (Trivial: 21)
+
+ Brewing
+ Liquid Velium (Trivial: 135)
+
+ Jewelcrafting
+ Rune Casing (Trivial: 152)
+
+ Non-Tradeskill (No Fail)
+ Vial of Velium Vapors
+
+
+
+
+

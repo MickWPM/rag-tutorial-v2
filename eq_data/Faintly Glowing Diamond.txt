@@ -1,0 +1,34 @@
+ITEM NAME: Faintly Glowing Diamond
+
+Sky Era (added January 2000)
+
+
+
+Faintly Glowing Diamond
+
+
+LORE ITEM
+WT: 18.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ an essence carrier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Protection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

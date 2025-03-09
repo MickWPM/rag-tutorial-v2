@@ -1,0 +1,34 @@
+ITEM NAME: Gem of Yet to Come
+
+Kunark Era (added 2000)
+
+
+Gem of Yet to Come
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak gem oracle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 7th Rank
+ Shackle of Scale
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

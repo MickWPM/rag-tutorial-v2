@@ -1,0 +1,48 @@
+ITEM NAME: High Quality Brute Hide
+
+
+High Quality Brute Hide
+
+
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 3 Golds
+ 8 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Dreadlands
+
+ a voracious brute
+
+Frontier Mountains
+
+ a gorging brute
+ a mangy brute
+
+Warsliks Woods
+
+ a skulking brute
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Cultural Tradeskills: Halfling
+
+
+
+
+

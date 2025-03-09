@@ -1,0 +1,44 @@
+ITEM NAME: The Lifeguide
+
+GM Event item (info)N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+The Lifeguide
+
+
+MAGIC ITEM LORE ITEM ARTIFACT NO TRADE
+Slot: PRIMARY 
+Skill: 1H Blunt Atk Delay: 40
+DMG: 37 DMG Bonus: 33
+STA: +5 CHA: +20 WIS: +15 INT: +15
+SV DISEASE: +20 SV POISON: +20
+Effect: Rejuvenate
+WT: 1.0 Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Obtained during a GM Event On Everquest Live.[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

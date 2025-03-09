@@ -1,0 +1,36 @@
+ITEM NAME: Brown Chitin Protector
+
+Classic Era (added 1999-2000)
+
+Brown Chitin Protector
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 12
+DEX: +9  STA: +9  AGI: +9
+WT: 10.0  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+ Merchant resale value: 30p 
+
+  Drops From 
+Nagafen's Lair
+
+ stone spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+A most intimidating look
+
+

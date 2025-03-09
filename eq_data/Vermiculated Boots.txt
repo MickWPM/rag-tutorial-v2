@@ -1,0 +1,35 @@
+ITEM NAME: Vermiculated Boots
+
+
+
+Vermiculated Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 6
+STR: +5  AGI: +13  HP: +15
+WT: 6.5  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a gorgon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Full armor set here: [1]
+
+

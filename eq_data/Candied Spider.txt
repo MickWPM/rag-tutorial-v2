@@ -1,0 +1,53 @@
+ITEM NAME: Candied Spider
+
+
+
+Candied Spider
+
+
+QUEST ITEM
+This is a snack!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Freeport
+
+ Pincia Brownloe
+
+
+
+  (-276, -698)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 88)
+ Yield: Candied Spider x8
+ In Oven:
+
+
+  1 x Frosting - Bought
+  1 x Spices - Bought
+  1 x Spider Legs - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

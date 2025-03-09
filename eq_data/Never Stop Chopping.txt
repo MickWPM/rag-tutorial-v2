@@ -1,0 +1,33 @@
+ITEM NAME: Never Stop Chopping
+
+
+
+Never Stop Chopping
+
+
+LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 36
+DMG: 5 
+WT: 6.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+ Item Lore (from Identify): an engraved axe
+Obtained by giving Conium Darkblade the note from Lon the Redeemed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

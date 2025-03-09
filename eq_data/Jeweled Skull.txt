@@ -1,0 +1,32 @@
+ITEM NAME: Jeweled Skull
+
+
+Jeweled Skull
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+INT: +5  HP: +20  MANA: +20
+SV COLD: -5  SV MAGIC: +5
+WT: 1.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+ Item Lore (from Identify): Skull of Wun Toque 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hollow Skull Quest
+
+  Player crafted 
+ Non-Tradeskill (Quest) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

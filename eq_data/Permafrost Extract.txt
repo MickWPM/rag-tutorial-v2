@@ -1,0 +1,52 @@
+ITEM NAME: Permafrost Extract
+
+Classic Era (added 1999-2000)
+
+
+Permafrost Extract
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 36)
+ Yield: Permafrost Extract x1
+ In Medicine Bag:
+
+
+  1 x Empty Vial - Crafted, Bought, Returned on Failure
+  1 x Permafrost Crystals - Dropped, Ground Spawn
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Poison Making (Trivial: 36)
+ Yield: Permafrost Extract x1
+ In Mortar and Pestle:
+
+
+  1 x Empty Vial - Crafted, Bought, Returned on Failure
+  1 x Permafrost Crystals - Dropped, Ground Spawn
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill
+ Light Blue Dye (Trivial: No Fail)
+ Blue Dye (Trivial: No Fail)
+ Dark Blue Dye (Trivial: No Fail)
+
+
+
+
+

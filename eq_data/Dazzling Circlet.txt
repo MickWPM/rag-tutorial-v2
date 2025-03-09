@@ -1,0 +1,34 @@
+ITEM NAME: Dazzling Circlet
+
+Velious Era (added December 2000-2001)
+
+
+Dazzling Circlet
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 8
+CHA: +15  INT: +10  HP: +30  MANA: +20
+SV DISEASE: +2  SV MAGIC: +7
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Kael Cap
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

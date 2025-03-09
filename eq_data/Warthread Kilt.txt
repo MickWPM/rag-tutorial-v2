@@ -1,0 +1,34 @@
+ITEM NAME: Warthread Kilt
+
+
+
+Warthread Kilt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 5
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Everfrost Peaks
+
+ Martar Icebear
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tishan's Kilt Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

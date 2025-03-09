@@ -1,0 +1,34 @@
+ITEM NAME: Adamantite Armband
+
+Kunark Era (added 2000)
+
+Adamantite Armband
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 3
+STR: +3  WIS: +3
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones (Charasis)
+
+ A Howling Spectre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

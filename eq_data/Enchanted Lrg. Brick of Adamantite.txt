@@ -1,0 +1,31 @@
+ITEM NAME: Enchanted Lrg. Brick of Adamantite
+
+
+
+Enchanted Lrg. Brick of Adamantite
+
+
+WT: 10.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Created using the Spell: Enchant Adamantite. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Adamantite Rings (Trivial: 51)
+ Enchanted Block of Adamantite (Trivial: 32)
+
+
+
+
+

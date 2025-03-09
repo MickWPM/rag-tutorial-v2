@@ -1,0 +1,43 @@
+ITEM NAME: Large Ball of Twine
+
+
+
+Large Ball of Twine
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ The Feerrott
+
+ Fugla
+
+
+
+  (975, 1267)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

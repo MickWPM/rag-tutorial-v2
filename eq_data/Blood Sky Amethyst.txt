@@ -1,0 +1,37 @@
+ITEM NAME: Blood Sky Amethyst
+
+Sky Era (added January 2000)
+
+
+
+Blood Sky Amethyst
+
+
+LORE ITEM
+WT: 6.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzzazzt
+ Bizazzzt
+ Bzzazzt
+ Bzzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Interpretation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

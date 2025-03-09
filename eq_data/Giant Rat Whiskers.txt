@@ -1,0 +1,39 @@
+ITEM NAME: Giant Rat Whiskers
+
+
+
+Giant Rat Whiskers
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+North Kaladim
+
+ Giant Rat
+
+Qeynos Aqueducts
+
+ a giant sewer rat
+ a nesting rat
+
+Steamfont Mountains
+
+ a giant rat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

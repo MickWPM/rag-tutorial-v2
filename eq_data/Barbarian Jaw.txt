@@ -1,0 +1,30 @@
+ITEM NAME: Barbarian Jaw
+
+Classic Era (added 1999-2000)
+
+
+Barbarian Jaw
+
+
+LORE ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Ground spawn found on the river bottom appears as a bag at (+1465, -4500, -230) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivan McMannus' Remains
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

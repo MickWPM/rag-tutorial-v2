@@ -1,0 +1,37 @@
+ITEM NAME: Silver Charm of Tranquility
+
+Velious Era (added December 2000-2001)
+Silver Charm of Tranquility
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK WRIST
+AC: 35
+STR: +10  STA: +15  HP: +100  MANA: +100
+SV FIRE: +8  SV DISEASE: +8  SV COLD: +8  SV MAGIC: +8  SV POISON: +8
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Test of the Ruby Tear
+ Ruby Tear (from Dozekar the Cursed)
+ White Symbol (from Casalen or Tavekalem)
+ Ruby Symbol (from Lepethida)
+ Silver Symbol (from Essedera)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

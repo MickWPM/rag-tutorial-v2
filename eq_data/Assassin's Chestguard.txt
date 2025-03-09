@@ -1,0 +1,40 @@
+ITEM NAME: Assassin's Chestguard
+
+Velious Era (added December 2000-2001) Ennesae wearing the Assassin's Chestguard
+
+
+Assassin's Chestguard
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 37
+STR: +10  DEX: +7  STA: +7  AGI: +14  HP: +60
+SV FIRE: +3  SV MAGIC: +7
+Effect:  Invigorate (Must Equip, Casting Time: 15.0)
+WT: 9.0  Size: LARGE
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a feral amalgam
+ Ail the Elder
+ Fayl Everstrong
+ Tunare (only?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

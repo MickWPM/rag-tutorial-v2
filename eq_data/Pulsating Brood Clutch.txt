@@ -1,0 +1,32 @@
+ITEM NAME: Pulsating Brood Clutch
+
+Classic Era (added 1999-2000)
+
+
+Pulsating Brood Clutch
+
+
+MAGIC ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ Queen Nasheeji
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

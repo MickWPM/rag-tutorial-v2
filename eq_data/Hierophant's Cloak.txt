@@ -1,0 +1,34 @@
+ITEM NAME: Hierophant's Cloak
+
+Kunark Era (added 2000)
+
+Hierophant's Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 10
+STR: +4  DEX: +4  STA: +4  CHA: +4  WIS: +4  INT: +4  AGI: +4  HP: +75  MANA: +75
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ Hierophant Prime Grekal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

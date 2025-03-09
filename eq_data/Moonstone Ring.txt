@@ -1,0 +1,33 @@
+ITEM NAME: Moonstone Ring
+
+
+Moonstone Ring
+
+
+MAGIC ITEM
+Slot: FINGER
+STR: +3  MANA: +30
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 9pp 
+
+  Drops From 
+Lower Guk
+
+ a frenzied ghoul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

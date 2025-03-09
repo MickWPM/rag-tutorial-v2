@@ -1,0 +1,36 @@
+ITEM NAME: Cracked Claw of Zlandicar
+
+Velious Era (added December 2000-2001)
+
+
+Cracked Claw of Zlandicar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 14 
+Effect:  Incapacitate (Combat, Casting Time: Instant) at Level 50
+WT: 1.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ Zlandicar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

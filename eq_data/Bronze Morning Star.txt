@@ -1,0 +1,64 @@
+ITEM NAME: Bronze Morning Star
+
+Classic Era (added 1999-2000)
+
+Bronze Morning Star
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 43
+DMG: 7 
+WT: 11.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Crushbone
+
+ orc oracle
+
+Highpass Hold
+
+ a gnoll soothsayer
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ skeleton trooper
+ undead cleric
+ zombie advisor
+ Zombie Commander
+ zombie infantry
+ zombie trooper
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a Dervish Thug
+
+Southern Desert of Ro
+
+ a deepwater goblin
+ an orc priest
+
+The Feerrott
+
+ Cyndreela
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

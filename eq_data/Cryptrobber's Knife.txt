@@ -1,0 +1,35 @@
+ITEM NAME: Cryptrobber's Knife
+
+Kunark Era (added 2000)
+
+Cryptrobber's Knife
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 20
+DMG: 7 
+DEX: +4
+WT: 2.1  Size: MEDIUM
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kaesora
+
+ Frenzied Strathbone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

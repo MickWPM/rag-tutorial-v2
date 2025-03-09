@@ -1,0 +1,33 @@
+ITEM NAME: Jester (PoM)
+
+Velious Era (added December 2000-2001)
+Were you looking for Jester?
+
+Jester
+
+
+MAGIC ITEM LORE ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is the Plane of Mischief version of the card.  Not to be confused with the card that is obtained by a pre-velious quest which is NO DROP. 
+
+  Drops From 
+Plane of Mischief
+
+ Various
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

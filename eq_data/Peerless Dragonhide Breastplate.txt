@@ -1,0 +1,38 @@
+ITEM NAME: Peerless Dragonhide Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+
+Peerless Dragonhide Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 34
+STR: +6  DEX: +6  STA: +6  CHA: +6  WIS: +6  INT: +6  AGI: +6  HP: +80  MANA: +80
+SV FIRE: +6  SV DISEASE: +6  SV COLD: +6  SV MAGIC: +6  SV POISON: +6
+WT: 5.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Klandicar
+ Sontalak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

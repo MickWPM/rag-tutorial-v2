@@ -1,0 +1,26 @@
+ITEM NAME: Muffin Crate
+
+Classic Era (added 1999-2000)
+Muffin Crate
+
+
+WT: 2.0  Weight Reduction: 0%
+Capacity: 10  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Muffin Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

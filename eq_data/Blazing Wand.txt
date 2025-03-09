@@ -1,0 +1,36 @@
+ITEM NAME: Blazing Wand
+
+
+Blazing Wand
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Charges: 5
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 5 
+Effect:  Blaze (Any Slot/Can Equip, Casting Time: Instant) at Level 35
+WT: 1.5  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore (from Identify):  'Blazing Wand'  
+
+  Drops From 
+Kedge Keep
+
+ Undertow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

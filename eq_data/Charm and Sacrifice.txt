@@ -1,0 +1,30 @@
+ITEM NAME: Charm and Sacrifice
+
+ Charm and Sacrifice
+
+
+Charm and Sacrifice
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Found on a table in the quest room in plane of sky at +1300, +560. Respawn time: 24 hours 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

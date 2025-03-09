@@ -1,0 +1,34 @@
+ITEM NAME: Grenk's Head
+
+Velious Era (added December 2000-2001)
+
+
+
+Grenk's Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ Priest Grenk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gloves of Earthcrafting Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

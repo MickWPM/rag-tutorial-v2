@@ -1,0 +1,40 @@
+ITEM NAME: Enchanted Mithril Chain Jointing
+
+
+
+Enchanted Mithril Chain Jointing
+
+
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 95)
+ Yield: Enchanted Mithril Chain Jointing x1
+ In Koada`Dal Forge:
+
+
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Enchanted Mithril Rings - Crafted
+  1 x File - Crafted, Returned on Failure, Returned on Success
+  1 x Morning Dew - Foraged, Dropped, Ground Spawn 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Various High Elf Cultural Recipes
+
+
+
+
+

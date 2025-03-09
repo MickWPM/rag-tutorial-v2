@@ -1,0 +1,494 @@
+ITEM NAME: Staff
+
+
+Staff
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 5 
+WT: 6.5  Size: LARGE
+Class: ALL except
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1074, -1041)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1045, -1011)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1053, -1012)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+   (1253, -715)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+   (1329, -762)
+
+
+ Ak'Anon
+
+ a clockwork priest
+
+
+
+  (1198, -551)
+
+
+ East Cabilis
+
+ Rastok
+
+
+
+  (348, 11)
+
+
+ East Cabilis
+
+ Weaponsmith Grugl
+
+
+
+  (-432, -33)
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ West Commonlands
+
+ Opal Woodchopper
+
+
+
+  (-515, 2576)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ Erudin
+
+ Ayth Niphiria
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Stella Breezemoon
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Fhania Aserdon
+
+
+
+  (-1094, -470)
+
+
+ Erudin
+
+ Palus Weaponsmith
+
+
+
+  (-1023, -94)
+
+
+ Felwithe
+
+ Merchant Dantree
+
+
+
+  (-70, -413)
+
+
+ Felwithe
+
+ Isyna Firspanyl
+
+
+
+  (2, -468)
+
+
+ Felwithe
+
+ Merchant Jewyln
+
+
+
+  (567, -609)
+
+
+ Field of Bone
+
+ Klok Canip
+
+
+
+  (-2261, 3304)
+
+
+ Firiona Vie
+
+ Dran Hieth
+
+
+
+  (-3132, 2953)
+
+
+ East Freeport
+
+ Celanie Xtoria
+
+
+
+  (-205, -312)
+
+
+ North Freeport
+
+ Hulos Ghenar
+
+
+
+  (88, 269)
+
+
+ West Freeport
+
+ Asnod Marnoc
+
+
+
+  (-283, -798)
+
+
+ Greater Faydark
+
+ Bilrio Surecut
+
+
+
+  (-649, 386)
+
+
+ Greater Faydark
+
+ Merchant Winerasea
+
+
+
+  (-270, 89)
+
+
+ Greater Faydark
+
+ Merchant Minamas
+
+
+
+  (-676, 387)
+
+
+ Grobb
+
+ Zumzal
+
+
+
+  (329, -495)
+
+
+ Halas
+
+ Holana Oleary
+
+
+
+  (137, -337)
+
+
+ North Kaladim
+
+ Baleki Nightseer
+
+
+
+  (765, 143)
+
+
+ Kithicor Forest
+
+ Mune Woodchopper
+
+
+
+  (1458, 2263)
+
+
+ Northern Desert of Ro
+
+ Murissa Sandwhisper
+
+
+
+  (3712, 126)
+
+
+ Oggok
+
+ Squeea
+
+
+
+  (647, 977)
+
+
+ Oggok
+
+ Brana
+
+
+
+  (75, 881)
+
+
+ Oggok
+
+ Rora Dirtstamp
+
+
+
+  (212, -372)
+
+
+ The Overthere
+
+ Tin Merchant VIII
+
+
+
+  (2615, 2616)
+
+
+ Paineel
+
+ Jenkin Fleetmore
+
+
+
+  (1097, 439)
+
+
+ Paineel
+
+ Tenralus Brackmar
+
+
+
+  (1225, 523)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+
+ Western Plains of Karana
+
+ Carlan the Young
+
+
+
+  (972, -1868)
+
+
+ Western Plains of Karana
+
+ Maldin the Old
+
+
+
+  (972, -1868)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+
+ South Qeynos
+
+ Stan Cloven
+
+
+
+  (427, -265)
+
+
+ South Qeynos
+
+ Nesiff Tallaherd
+
+
+
+  (440, -243)
+
+
+ North Qeynos
+
+ Tyokan Mekase
+
+
+
+  (-161, -146)
+
+
+ North Qeynos
+
+ Whysia Flock
+
+
+
+  (-161, -146)
+
+
+ North Qeynos
+
+ Shenro Kazpur
+
+
+
+  (257, 302)
+
+
+ Surefall Glade
+
+ Sequea Erthinon
+
+
+
+  (-155, -293)
+
+
+ Rivervale
+
+ Crista Tagglefoot
+
+
+
+  (-69, -381)
+
+
+ Rivervale
+
+ Pipple Purpleroot
+
+
+
+  (-246, -351)
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1008)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

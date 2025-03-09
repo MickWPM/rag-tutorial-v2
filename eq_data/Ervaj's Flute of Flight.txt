@@ -1,0 +1,31 @@
+ITEM NAME: Ervaj's Flute of Flight
+
+
+Ervaj's Flute of Flight
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Wind Instrument: 22
+STR: +8  STA: +10  CHA: +10  INT: +5
+WT: 0.1  Size: TINY
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Pitch
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

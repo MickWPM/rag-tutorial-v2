@@ -1,0 +1,34 @@
+ITEM NAME: Azure Sleeves
+
+Classic Era (added 1999-2000)
+
+Azure Sleeves
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 12
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+These mid-grade sleeves have unusually high AC and low weight. They have no graphic (like Cloth Armor). 
+ Merchant resale value: 6.7p 
+
+  Drops From 
+Lower Guk
+
+ a minotaur patriarch
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

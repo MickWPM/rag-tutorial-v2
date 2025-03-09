@@ -1,0 +1,34 @@
+ITEM NAME: Skull of Jhen`Tra
+
+
+Skull of Jhen`Tra
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+MANA: +20
+SV MAGIC: +3
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Skull of Jhen`Tra 
+
+  Drops From 
+Lake Rathetear
+
+ a gnoll embalmer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Headband Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

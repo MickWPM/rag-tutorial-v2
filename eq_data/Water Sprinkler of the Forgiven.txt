@@ -1,0 +1,37 @@
+ITEM NAME: Water Sprinkler of the Forgiven
+
+Kunark Era (added 2000)
+
+Water Sprinkler of the Forgiven
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 24
+DMG: 11 
+Effect:  Atone (Must Equip, Casting Time: 9.0) at Level 46
+WT: 6.9  Size: LARGE
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Overking Bathezid
+ a sarnak aruspex
+ an apprentice kennelmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Spined Dragon Claws
+
+Classic Era (added 1999-2000)
+
+Spined Dragon Claws
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 10 
+WT: 3.5  Size: MEDIUM
+Class: WAR RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a dracoliche
+ Terror
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

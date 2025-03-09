@@ -1,0 +1,34 @@
+ITEM NAME: Siryn Hair Hood
+
+
+Siryn Hair Hood
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 5
+CHA: +13
+SV FIRE: +10
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Rathe Mountains
+
+ Quid Rilstone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

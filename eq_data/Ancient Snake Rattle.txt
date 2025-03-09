@@ -1,0 +1,31 @@
+ITEM NAME: Ancient Snake Rattle
+
+Stonebrunt Era (added summer 2001)
+
+Ancient Snake Rattle
+
+
+WT: 1.2  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ Slyder the Ancient
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Titan Samples (evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

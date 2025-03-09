@@ -1,0 +1,54 @@
+ITEM NAME: Vibrating Gauntlets of Infuse
+
+Kunark Era (added 2000)
+
+Vibrating Gauntlets of Infuse
+
+
+MAGIC ITEM  LORE ITEM
+Lore Group: Vibrating Gauntlet and Hammer of Infuse
+Slot: HANDS
+EXPENDABLE  Charges: 1
+AC: 23
+STR: +10  STA: +10  WIS: +20  MANA: +50
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Transmute Hammer (Any Slot, Casting Time: Instant)
+WT: 5.0  Size: SMALL
+Class: CLR
+Race: ALL
+
+
+ Item Lore (from Identify): Overking Bathezid's prized possession Converts to Vibrating Hammer of InfuseVibrating Hammer of Infuse
+
+
+MAGIC ITEM  LORE ITEM  
+Lore Group: Vibrating Gauntlet and Hammer of Infuse
+Slot: PRIMARY
+EXPENDABLE  Charges: 1
+Skill: 2H Blunt  Atk Delay: 35
+DMG: 25   AC: 8
+STR: +20  STA: +10  WIS: +10  HP: +100
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Transmute Gauntlets (Any Slot, Casting Time: Instant)
+WT: 13.0  Size: LARGE
+Class: CLR
+Race: ALL
+
+
+ 
+  Drops From 
+Chardok
+
+ Overking Bathezid
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

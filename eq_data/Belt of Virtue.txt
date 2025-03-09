@@ -1,0 +1,41 @@
+ITEM NAME: Belt of Virtue
+
+
+
+Belt of Virtue
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 8
+STR: +5  WIS: +5
+SV MAGIC: +5
+Haste: +16%  
+WT: 0.1  Size: SMALL
+Class: PAL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit
+ a thunder spirit princess
+ an azarack
+ Keeper of Souls
+ Sister of the Spire
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

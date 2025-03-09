@@ -1,0 +1,36 @@
+ITEM NAME: Hooded Black Cloak
+
+Classic Era (added 1999-2000)
+
+Hooded Black Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 10
+STR: +5  HP: +45
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Strongly desired by all melee classes in vanilla, as well as casters looking to beef up their HP. 
+ Merchant resale value: 5p 1g 6s 8c 
+
+  Drops From 
+Mistmoore Castle
+
+ a cloaked dhampyre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

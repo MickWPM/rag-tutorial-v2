@@ -1,0 +1,37 @@
+ITEM NAME: Watcher Signal Torch
+
+Kunark Era (added 2000)
+
+Watcher Signal Torch
+
+
+Slot: SECONDARY
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a goblin watcher
+
+Warsliks Woods
+
+ a goblin watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cures
+ Watcher Torches
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

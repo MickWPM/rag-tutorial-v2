@@ -1,0 +1,44 @@
+ITEM NAME: Bracelet of the Twisted Mind
+
+Velious Era (added December 2000-2001)
+
+
+Bracelet of the Twisted Mind
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STA: +5  INT: +5  HP: +35  MANA: +35
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Bracelet of the Twisted Mind x1
+ In  Deck of Spontaneous Generation:
+
+
+  A White Throne - Dropped
+  A Blue Throne - Dropped
+  A Blue Crown - Dropped
+  A Blue Knight - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

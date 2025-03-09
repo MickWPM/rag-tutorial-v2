@@ -1,0 +1,38 @@
+ITEM NAME: Noble's Walking Staff
+
+Velious Era (added December 2000-2001)
+
+Noble's Walking Staff
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 19
+DMG: 8 
+STR: +2  WIS: +2  INT: +2
+WT: 4.0  Size: LARGE
+Class: CLR DRU MNK SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 23p 4g 4s 7c 
+
+  Drops From 
+Kael Drakkel
+
+ a Kromzek sorcerer
+ a lesser storm giant noble
+ Noble Helssen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

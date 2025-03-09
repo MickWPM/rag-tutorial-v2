@@ -1,0 +1,33 @@
+ITEM NAME: Dreadscale Gauntlets
+
+Kunark Era (added 2000)
+
+Dreadscale Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 10
+DEX: +4  INT: +2
+SV MAGIC: +5
+WT: 3.0  Size: SMALL
+Class: SHD
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dreadscale Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

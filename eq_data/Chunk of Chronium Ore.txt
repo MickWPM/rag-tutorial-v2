@@ -1,0 +1,36 @@
+ITEM NAME: Chunk of Chronium Ore
+
+Velious Era (added December 2000-2001)
+
+
+Chunk of Chronium Ore
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Armor of Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Chronium Plate (Trivial 177 (??))
+
+
+
+
+

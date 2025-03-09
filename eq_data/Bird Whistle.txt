@@ -1,0 +1,34 @@
+ITEM NAME: Bird Whistle
+
+Sky Era (added January 2000)
+
+
+Bird Whistle
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Turn into Sirran the Lunatic on Island five of Plane of Sky to obtain the key to get to Island 5 Avian Key. 
+
+  Drops From 
+Plane of Sky
+
+ a soul harvester
+ an essence harvester
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Plane of Sky Keys
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

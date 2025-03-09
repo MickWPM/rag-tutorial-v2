@@ -1,0 +1,38 @@
+ITEM NAME: Bladesman`s Axe
+
+Velious Era (added December 2000-2001)
+
+Bladesman's Axe
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 6 
+WT: 8.5  Size: LARGE
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a frost giant berserker
+ a storm giant gladiator
+ Bjrakor the Cold
+ Korakaz
+ protector of Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

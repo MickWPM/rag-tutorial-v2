@@ -1,0 +1,49 @@
+ITEM NAME: Essence of Moonlight
+
+
+Essence of Moonlight
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+See thread about drops on P99.
+Seems to have a drop rate of about 1 in 10 from undead in Mistmoore Castle. Given that the undead are only up for a bit less than half the day, this makes Essence of Moonlight annoyingly difficult to come by in any quantity. Soloing as a 50 cleric, I'm happy if I get two an hour, because oftentimes it's none. 
+
+  Drops From 
+Mistmoore Castle
+
+ a soul inveigling
+ a soul seductress
+ a soul temptress
+ a thought corruptor
+ a thought defiler
+ a thought spoiler
+ a vampire noble
+ a vampire oracle
+ a will pillager
+ a will ravisher
+ a will sapper
+ Butler Syncall
+
+Kithicor Forest
+
+ enraged dread wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Moonlight Temper (Trivial: 135)
+
+
+
+
+

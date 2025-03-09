@@ -1,0 +1,833 @@
+ITEM NAME: Loaf of bread
+
+Classic Era (added 1999-2000)
+
+Loaf of Bread
+
+
+This is a meal!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+NOTE: It seems there is a scarcity of Loaf of Bread during the Karana plague event on Green currently. I checked all listed vendors in Freeport, Akanon, Erudin, East Commonlands, and West Commonlands thus far. ~FIsditiil, Green server 2 February, 2022 
+
+  Drops From 
+Butcherblock Mountains
+
+ Barma Dunfire
+ Glynda Smeltpot
+ Keldyn Dunfire
+ Margyl Darklin
+ Peg Leg
+ Qued
+
+Eastern Plains of Karana
+
+ a bandit
+
+Lake Rathetear
+
+ a gnoll high shaman
+
+Rathe Mountains
+
+ a bandit
+
+Steamfont Mountains
+
+ Yendar Starpyre
+
+Velketor's Labyrinth
+
+ a cold shade
+ a cold spectre
+ a frost spectre
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork baker
+
+
+
+  (891, -301)
+
+
+ West Cabilis
+
+ Lybar
+
+
+
+  (292, 523)
+
+
+ West Commonlands
+
+ Innkeep Roster
+
+
+
+  (-149, 452)
+
+
+ West Commonlands
+
+ Innkeep Olissa
+
+
+
+  (-384, 2714)
+
+
+ Eastern Plains of Karana
+
+ Paulina
+
+
+
+  (-732, -194)
+
+
+ Eastern Plains of Karana
+
+ Iago
+
+
+
+  (-695, -134)
+
+
+ Eastern Plains of Karana
+
+ Lucetta
+
+
+
+  (1306, -2757)
+
+
+ Eastern Plains of Karana
+
+ Balthazar
+
+
+
+  (1328, -2722)
+
+
+ East Commonlands
+
+ Innkeep Harold
+
+
+
+  (-187, 117)
+
+
+ East Commonlands
+
+ Innkeep Dolman
+
+
+
+  (1028, 3682)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ East Commonlands
+
+ Innkeep Juna
+
+
+
+  (-334, 3022)
+
+
+ East Commonlands
+
+ Innkeep Blaise
+
+
+
+  (332, 4842)
+
+
+ Erudin
+
+ Beth Breadmaker
+
+
+
+  (136, 109)
+
+
+ Erudin
+
+ Helia BlueHawk
+
+
+
+  (-1186, -333)
+
+
+ The Feerrott
+
+ Bup
+
+
+
+  (1182, 117)
+
+
+ The Feerrott
+
+ Innkeep Gub
+
+
+
+  (1144, 1444)
+
+
+ The Feerrott
+
+ Innkeep Morpa
+
+
+
+  (1144, -145)
+
+
+ Northern Felwithe
+
+ Serenica Greenfinger
+
+
+
+  (147, -455)
+
+
+ Firiona Vie
+
+ Glinya Sweetpie
+
+
+
+  (-2750, 2550)
+
+
+ East Freeport
+
+ Innkeep Paggie
+
+
+
+  (-7, -232)
+
+
+ East Freeport
+
+ Innkeep Rastle
+
+
+
+  (-22, -285)
+
+
+ East Freeport
+
+ Innkeep Nasumi
+
+
+
+  (-77, -720)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ East Freeport
+
+ Winda Lylil
+
+
+
+  (44, -729)
+
+
+ North Freeport
+
+ Rashinda Elore
+
+
+
+  (290, 302)
+
+
+ North Freeport
+
+ Gern Tassel
+
+
+
+  (70, -57)
+
+
+ North Freeport
+
+ Innkeep Palola
+
+
+
+  (-187, -63)
+
+
+ North Freeport
+
+ Innkeep Rille
+
+
+
+  (72, 72)
+
+
+ North Freeport
+
+ Innkeep Evelona
+
+
+
+  (70, 56)
+
+
+ West Freeport
+
+ Olyna Midel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Pincia Brownloe
+
+
+
+  (-276, -698)
+
+
+ Greater Faydark
+
+ Innkeep Anisyla
+
+
+
+  (-247, -435)
+
+
+ Greater Faydark
+
+ Innkeep Wuleran
+
+
+
+  (-337, 141)
+
+
+ Greater Faydark
+
+ Innkeep Larya
+
+
+
+  (940, 306)
+
+
+ Greater Faydark
+
+ Innkeep Linen
+
+
+
+  (726, 459)
+
+
+ Grobb
+
+ Chopper Brenga
+
+
+
+  (238, -275)
+
+
+ Halas
+
+ Teria O`Danos
+
+
+
+  (-6, -33)
+
+
+ Halas
+
+ Hetie McDonald
+
+
+
+  (240, -154)
+
+
+ High Keep
+
+ Baker Jena
+
+
+
+  (46, -260)
+
+
+ Highpass Hold
+
+ Gornolin
+
+
+
+  (396, -231)
+
+
+ Kithicor Forest
+
+ Innkeep Morgan
+
+
+
+  (1441, 2386)
+
+
+ Kithicor Forest
+
+ Innkeep Min
+
+
+
+  (1465, 2383)
+
+
+ Kithicor Forest
+
+ Innkeep Lynnie
+
+
+
+  (-307, 3793)
+
+
+ Kithicor Forest
+
+ Innkeep Jurn
+
+
+
+  (-281, 3821)
+
+
+ Kithicor Forest
+
+ Innkeep Grace
+
+
+
+  (1095, -684)
+
+
+ Kithicor Forest
+
+ Innkeep Darvon
+
+
+
+  (1135, -673)
+
+
+ Lesser Faydark
+
+ Anelia Thrywiel
+
+
+
+  (-307, 1242)
+
+
+ Neriak Foreign Quarter
+
+ Tal Drana
+
+
+
+  (106, -251)
+
+
+ Neriak Foreign Quarter
+
+ Bull Crusher
+
+
+
+  (-390, -252)
+
+
+ Neriak Foreign Quarter
+
+ Sal Drana
+
+
+
+  (106, -238)
+
+
+ Neriak Commons
+
+ Dunred M`Trik
+
+
+
+  (71, -866)
+
+
+ Neriak Commons
+
+ Volkoon D`Dbth
+
+
+
+  (-43, -1030)
+
+
+ Neriak Commons
+
+ Niz L`Crit
+
+
+
+  (82, -884)
+
+
+ Northern Karana
+
+ Innkeep Disda
+
+
+
+  (118, 1382)
+
+
+ Northern Karana
+
+ Innkeep James
+
+
+
+  (156, 1379)
+
+
+ Northern Karana
+
+ Bilbis Briar
+
+
+
+  (-4149, 1201)
+
+
+ Northern Desert of Ro
+
+ Innkeep Valon
+
+
+
+  (3415, 503)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ Oggok
+
+ Chef Dooga
+
+
+
+  (201, -243)
+
+
+ Oggok
+
+ Crunga
+
+
+
+  (548, -176)
+
+
+ Oggok
+
+ Erung
+
+
+
+  (512, -183)
+
+
+ Ocean of Tears
+
+ Cleonae Kalen
+
+
+
+  (503, -9253)
+
+
+ Paineel
+
+ Geomar Hapera
+
+
+
+  (953, 757)
+
+
+ Paineel
+
+ Gorng Alusnein
+
+
+
+  (984, 636)
+
+
+ Paineel
+
+ Iva Tersala
+
+
+
+  (970, 649)
+
+
+ Paineel
+
+ Toryn Roltaire
+
+
+
+  (1040, 641)
+
+
+ Western Plains of Karana
+
+ Innkeep Danin
+
+
+
+  (-1514, -13005)
+
+
+ Western Plains of Karana
+
+ Innkeep Rislarn
+
+
+
+  (326, -4417)
+
+
+ Western Plains of Karana
+
+ Cleet Miller Jr
+
+
+
+  (-3013, -5735)
+
+
+ South Qeynos
+
+ Karn Tassen
+
+
+
+  (-165, -255)
+
+
+ South Qeynos
+
+ Voleen Tassen
+
+
+
+  (-192, -266)
+
+
+ Rathe Mountains
+
+ Philicia Drinn
+
+
+
+  (4002, -1359)
+
+
+ Rathe Mountains
+
+ Sven Drinn
+
+
+
+  (3992, -1383)
+
+
+ Rathe Mountains
+
+ Innkeep Troy
+
+
+
+  (4283, 842)
+
+
+ Rathe Mountains
+
+ Innkeep Serge
+
+
+
+  (4294, 831)
+
+
+ Rivervale
+
+ Bartle Barnick
+
+
+
+  (-142, -358)
+
+
+ Rivervale
+
+ Innkeep
+
+
+
+  (159, -42)
+
+
+ Skyshrine
+
+ Grudash the Baker
+
+
+
+  (161, -473)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ Thurgadin
+
+ Petcas Coldbeard
+
+
+
+  (-57, 94)
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (52, 928)
+
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ Baking (Trivial: 115)
+ Yield: Burnt Loaf of Bread x1
+ In Oven:
+
+
+  1 x Bread Tin - Crafted, Returned on Failure, Returned on Success
+  1 x Clump of Dough - Crafted 
+
+
+  Tradeskill recipes 
+ Baking
+ Bear Sandwich (Trivial: 31)
+ Mammoth Sandwich (Trivial: 31)
+ Rat Sandwich (Trivial: 26)
+ Rat Ear Sandwich (Trivial: 36)
+ Scorpion Sandwich (Trivial: 26)
+ Tundrabear Sandwich (Trivial: 51)
+ Wolf Sandwich (Trivial: 31)
+
+
+
+
+

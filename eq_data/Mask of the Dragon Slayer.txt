@@ -1,0 +1,35 @@
+ITEM NAME: Mask of the Dragon Slayer
+
+Velious Era (added December 2000-2001)
+
+Mask of the Dragon Slayer
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 15
+STR: +8  CHA: +5  AGI: +8  HP: +50
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Lord Yelinak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

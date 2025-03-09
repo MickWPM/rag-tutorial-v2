@@ -1,0 +1,33 @@
+ITEM NAME: Corrosive Venom
+
+Sky Era (added January 2000)
+
+
+Corrosive Venom
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzt Zzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of Shrink
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

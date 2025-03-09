@@ -1,0 +1,36 @@
+ITEM NAME: White Gold Earring
+
+Sky Era (added January 2000)
+
+
+
+White Gold Earring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+DEX: +4  STA: +4  CHA: +4
+WT: 9.0  Size: LARGE
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzt Zzzt (Island 6 Boss)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Thunder
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

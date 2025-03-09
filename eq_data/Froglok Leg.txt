@@ -1,0 +1,42 @@
+ITEM NAME: Froglok Leg
+
+
+
+Froglok Leg
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Slaythe's Leg
+ Item Lore (from Identify): Froglok Leg No Drop, No Rent (not Lore), 0.5 WT
+Two items with different lore and icons. 
+
+  Drops From 
+Upper Guk
+
+ a froglok ton warrior
+
+Lower Guk
+
+ a froglok shin knight
+
+Misty Thicket
+
+ Slaythe
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Eye of Stormhammer Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Code of Zan Fi
+
+
+Code of Zan Fi
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+STR: +2
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Code of the Whistling Fist 
+
+  Drops From 
+Nagafen's Lair
+
+ Targin the Rock
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monks of The Whistling Fist
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

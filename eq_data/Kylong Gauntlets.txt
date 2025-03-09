@@ -1,0 +1,34 @@
+ITEM NAME: Kylong Gauntlets
+
+Kunark Era (added 2000)
+
+Kylong Gauntlets
+
+
+Slot: HANDS
+AC: 12
+WIS: +4  AGI: +4
+SV DISEASE: +2  SV MAGIC: +2
+WT: 3.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+
+  Drops From 
+Howling Stones
+
+ The Undertaker Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

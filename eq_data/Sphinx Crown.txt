@@ -1,0 +1,40 @@
+ITEM NAME: Sphinx Crown
+
+Sky Era (added January 2000)
+
+
+
+Sphinx Crown
+
+
+LORE ITEM
+Slot: HEAD
+AC: 8
+HP: +8  MANA: +8
+SV POISON: +2
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a fatestealer drake
+ a heartsbane drake
+ a windrider drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Gesticulation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

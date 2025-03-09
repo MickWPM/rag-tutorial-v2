@@ -1,0 +1,39 @@
+ITEM NAME: Carved Oak Recurve Bow (Hemp)
+
+Classic Era (added 1999-2000)
+
+Carved Oak Recurve Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 61
+DMG: 20
+WT: 4.0  Range: 125  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 168)
+ Carved Oak Recurve Bow (Hemp)
+ In Fletching Kit:
+
+
+  1 x Oak Bow Staff - Bought
+  1 x Hemp Twine - Bought
+  1 x Whittling Blade - Bought, Returned on Failure or Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

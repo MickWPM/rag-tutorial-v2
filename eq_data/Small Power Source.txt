@@ -1,0 +1,30 @@
+ITEM NAME: Small Power Source
+
+
+
+Small Power Source
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Picture on talk page. 
+
+  Drops From 
+Solusek's Eye
+
+ CWG Model CA
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

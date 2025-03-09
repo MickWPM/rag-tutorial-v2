@@ -1,0 +1,47 @@
+ITEM NAME: Velium Throwing Knife
+
+Velious Era (added December 2000-2001)
+
+
+Velium Throwing Knife
+
+
+MAGIC ITEM  
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 36
+DMG: 6
+WT: 0.3  Range: 55  Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

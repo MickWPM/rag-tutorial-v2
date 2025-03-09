@@ -1,0 +1,41 @@
+ITEM NAME: Winters Fury
+
+Velious Era (added December 2000-2001)
+
+ Casimer wields the Winter's Fury
+Winters Fury
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 13 
+STR: +6  HP: +25
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ A Large Velium Statue
+ Jaelk
+ a shambling cube
+ Kalacs Fe`Dhar
+ Saliz Fe`Dhar
+ Fe`dhar mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,44 @@
+ITEM NAME: Imbued Steelsilk Breastplate (Quellious)
+
+Velious Era (added December 2000-2001)
+
+Imbued Steelsilk Breastplate
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 20
+STR: +5  CHA: +2  WIS: +1  HP: +20  MANA: +30
+SV DISEASE: +2  SV POISON: +10
+WT: 4.5  Size: LARGE
+Class: CLR PAL
+Race: ERU
+Deity: Quellious
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: <=119 or 268?)
+ Yield: Imbued Steelsilk Breastplate x1
+ In Erudite Sewing Kit:
+
+
+  1 x Imbued Topaz - Summoned
+  1 x Platinum Thread - Bought
+  3 x Terrorantula Swatch - Crafted
+  1 x Tunic Pattern - Bought
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

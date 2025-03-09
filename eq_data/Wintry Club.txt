@@ -1,0 +1,36 @@
+ITEM NAME: Wintry Club
+
+Kunark Era (added 2000)
+
+Wintry Club
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 10 
+Effect:  Shock of Ice (Combat, Casting Time: Instant) at Level 35
+WT: 2.0  Size: MEDIUM
+Class: WAR RNG MNK ROG
+Race: ALL
+
+
+
+ Merchant resale value: 4.5p 
+
+  Drops From 
+City of Mist
+
+ gyrating goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

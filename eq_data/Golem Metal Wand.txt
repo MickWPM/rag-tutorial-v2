@@ -1,0 +1,35 @@
+ITEM NAME: Golem Metal Wand
+
+Classic Era (added 1999-2000)
+
+Golem Metal Wand
+
+
+MAGIC ITEM
+Charges: 5
+Effect:  Pillage Enchantment (Any Slot, Casting Time: 1.5)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This charged item is useful for pullers to remove annoying NPC buffs such as Spirit of Wolf or damage shields. It generates less aggro than Wooly Spider Silk Net or Midnight Mallet. It can also be used on self to remove dangerous debuffs such as root, snare, or DoTs. 
+Buyback from a vendor is ~2000 platinum each.
+8/2020: Casting time is no longer instant. About 1.5 seconds. This may have happened when the recharge cost was increased to 2000 plat but cannot say for certain. 
+
+  Drops From 
+Cazic Thule
+
+ a steel golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

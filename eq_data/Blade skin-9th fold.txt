@@ -1,0 +1,42 @@
+ITEM NAME: Blade skin-9th fold
+
+Velious Era (added December 2000-2001)
+
+
+Blade skin-9th fold
+
+
+LORE ITEM  NO DROP
+WT: 9.1  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Blacksmithing (Trivial: 171)
+ Yield: Blade skin-9th fold x1
+ In Forge:
+
+
+  1 x Blade skin-8th fold - Crafted
+  1 x Forging Hammer - Bought, Quested, Dropped, Returned on Failure, Returned on Success
+  1 x Smithing Chisel - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Blade skin-10th fold (Trivial: 171)
+
+
+
+
+

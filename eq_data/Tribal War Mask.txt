@@ -1,0 +1,38 @@
+ITEM NAME: Tribal War Mask
+
+Chardok Revamp Era (added late 2001)
+
+Tribal War Mask
+
+
+LORE ITEM
+Slot: FACE
+AC: 4
+STR: +7  DEX: +3  STA: +5  CHA: -5  INT: +3
+WT: 0.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ A Dizok Sergeant
+ a Di`Zok Legionnaire
+ a Di`zok Recruit
+ a Wizened Herb Collector
+ An Iksar Trustee
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

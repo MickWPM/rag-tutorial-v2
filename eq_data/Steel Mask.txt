@@ -1,0 +1,124 @@
+ITEM NAME: Steel Mask
+
+Classic Era (added 1999-2000)
+Steel Mask
+
+
+Slot: FACE
+AC: 5
+WT: 1.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except DWF TRL OGR HFL GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin
+
+ Jagen Kindlor
+
+
+
+  (-709, -286)
+
+
+ Felwithe
+
+ Merchant Irontree
+
+
+
+  (-106, -384)
+
+
+ Firiona Vie
+
+ Gearin Gaxx
+
+
+
+  (-2844, 2753)
+
+
+ East Freeport
+
+ Ikthar Fireheart
+
+
+
+  (42, -201)
+
+
+ Greater Faydark
+
+ Merchant Tananie
+
+
+
+  (389, 627)
+
+
+ Greater Faydark
+
+ Merchant Tegdian
+
+
+
+  (743, 56)
+
+
+ Paineel
+
+ Faratain
+
+
+
+  (938, 421)
+
+
+ South Qeynos
+
+ Meera Lylon
+
+
+
+  (190, -314)
+
+
+ South Qeynos
+
+ Lanhern Firepride
+
+
+
+  (190, -314)
+
+
+ Rathe Mountains
+
+ Zok Kilikko
+
+
+
+  (-2208, 177)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

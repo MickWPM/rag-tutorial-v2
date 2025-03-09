@@ -1,0 +1,33 @@
+ITEM NAME: A Copper Key
+
+Kunark Era (added 2000)
+
+
+A Copper Key
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Coppernickel Key `I..` 
+
+  Drops From 
+Droga
+
+ a goblin interrogator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Steel
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

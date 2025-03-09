@@ -1,0 +1,38 @@
+ITEM NAME: Matchless Dragonhide Belt
+
+Velious Era (added December 2000-2001)
+
+
+
+Matchless Dragonhide Belt
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 13
+AGI: +7
+SV POISON: +11
+WT: 2.2  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Harla Dar
+ Sivar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

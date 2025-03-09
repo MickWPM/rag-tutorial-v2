@@ -1,0 +1,124 @@
+ITEM NAME: On Languages
+
+
+
+On Languages
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1074, -1041)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1045, -1011)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1053, -1012)
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1008)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+"On Language, Research & Magic" by Geoffrey, Arch Mage of Norrath
+Much of the recent research by young Magi has dealt with the piecing together of old spells. Since many of the spell fragments found are not written in common, I have been asked to write a brief treatment on languages, research and magic.
+The history of magic on Norrath can be divided into four eras.
+The most recent historical period saw conflict between dark elven necromancy and the magic of the forefathers to those who now live on Erudin.
+Books from this period are alternately written in Elder Teir'Dal and Old Erudin.
+Preceding this conflict was the era of the Combine Empire, whose glory stretched across the length of Antonica. This civilization flourished for a handful of decades before their magical powers became so great that the dragons of the world awoke and grew jealous.
+All that remains now of the Combine Empire is steel and ash.
+Scrolls from this period were written in Combine.
+Before the ascent of the Combine Empire was the Age of the Dragons. These powerful beasts ruled all of Norrath under an iron claw and a spell-quick voice. Their wizardry was dark and strong. Magic from this period was recorded in the Runes of Dragon Tongue.
+In the beginning, during the Age of Scale, were those known to me only as the Elder Dragons. Their language is as harsh as it is difficult, as twisted as it is beguiling. The rewards of learning Elder Dragon are, however, plentiful, as to speak their tongue is to know the language of magic itself.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

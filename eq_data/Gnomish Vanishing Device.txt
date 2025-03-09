@@ -1,0 +1,44 @@
+ITEM NAME: Gnomish Vanishing Device
+
+Velious Era (added December 2000-2001)
+
+
+Gnomish Vanishing Device
+
+
+Slot: SECONDARY
+Charges: 5
+Effect:  Invisibility Cloak (Any Slot/Can Equip, Casting Time: 5.0)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Made with gnome cultural tinkering. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 302?)
+ Yield: Gnomish Vanishing Device x1
+ In Deluxe Toolbox:
+
+
+  1 x Diamond - Quested, Dropped
+  1 x Gnomish Bolts - Bought
+  1 x Haze Panther Eye - Dropped
+  1 x Reflective Shard - Bought
+  1 x Small Lantern - Bought, Quested
+  1 x Steel Wire - Bought, Dropped
+  1 x Mana Battery - Class Five - Crafted, Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

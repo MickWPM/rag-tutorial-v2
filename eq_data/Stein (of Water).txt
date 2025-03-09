@@ -1,0 +1,40 @@
+ITEM NAME: Stein (of Water)
+
+Classic Era (added 1999-2000)
+Were you looking for Stein?
+
+
+A Stein
+
+
+MAGIC ITEM  LORE ITEM
+WT: 1.0  Size: SMALL
+Class: ALL except
+Race: ALL
+
+
+Note: Identifies as "Stein of Water". This item was introduced as part of a Temple of Solusek Ro quest Oct 1999 era. [1] 
+
+  Drops From 
+Najena
+
+ a magician
+ a goblin magician
+ dark-boned skeleton
+
+Cazic Thule
+
+ an alligator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Stein Of Ulissa Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

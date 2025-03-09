@@ -1,0 +1,35 @@
+ITEM NAME: Scorpikis Venom
+
+
+Scorpikis Venom
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Overthere
+
+ a scorpikis
+ a scorpikis scrounger
+ Scorpikis Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Soul Burn (Trivial: 302)
+
+
+
+
+

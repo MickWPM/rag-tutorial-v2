@@ -1,0 +1,40 @@
+ITEM NAME: Powered Gloves
+
+
+Powered Gloves
+
+
+QUEST ITEM
+Slot: HANDS
+STR: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: BAR TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 122)
+ Yield: Powered Gloves x1
+ In Toolboxes:
+
+
+  1 x Gears - Bought, Dropped
+  1 x Firewater - Crafted
+  1 x Metal Twine - Bought
+  1 x Sprockets - Bought
+  1 x Steel Lined Gloves - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

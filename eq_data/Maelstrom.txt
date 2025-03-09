@@ -1,0 +1,35 @@
+ITEM NAME: Maelstrom
+
+Kunark Era (added 2000)
+ Woppoz wields Maelstrom in his offhand
+Maelstrom
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 10 
+Effect:  Storm Strike (Combat, Casting Time: Instant) at Level 50
+WT: 4.5  Size: MEDIUM
+Class: WAR PAL SHD RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Druushk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

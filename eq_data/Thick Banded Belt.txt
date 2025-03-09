@@ -1,0 +1,34 @@
+ITEM NAME: Thick Banded Belt
+
+Classic Era (added 1999-2000)
+
+Thick Banded Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 8
+STR: +15
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lower Guk
+
+ a ghoul supplier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

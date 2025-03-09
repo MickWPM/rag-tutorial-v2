@@ -1,0 +1,36 @@
+ITEM NAME: Honed Velium War Lance
+
+Velious Era (added December 2000-2001)
+
+Honed Velium War Lance
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 40
+DMG: 32 
+WT: 6.5  Size: LARGE
+Class: WAR PAL SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari guard
+ a Chetari Dominator
+ Pierre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Wolf Caller's Bracer
+
+Velious Era (added December 2000-2001)
+ 
+Wolf Caller's Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 16
+DEX: +2  WIS: +7  HP: +20  MANA: +15
+Effect: Ultravision (Any Slot/Can Equip, Casting Time: 8.0)
+WT: 3.5  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skyshrine Bracers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

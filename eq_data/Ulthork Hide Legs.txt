@@ -1,0 +1,36 @@
+ITEM NAME: Ulthork Hide Legs
+
+Velious Era (added December 2000-2001)
+
+
+
+Ulthork Hide Legs
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 9
+CHA: +3  INT: -3
+WT: 4.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a ulthork man o war
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

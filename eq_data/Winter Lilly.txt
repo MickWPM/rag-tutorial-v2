@@ -1,0 +1,34 @@
+ITEM NAME: Winter Lilly
+
+
+
+Winter Lilly
+
+
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Everfrost Peaks
+
+ a giant wooly spider
+ a wooly mammoth
+ a wooly mammoth calf
+ goblin lackey
+ vengeful lyricist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

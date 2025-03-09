@@ -1,0 +1,38 @@
+ITEM NAME: Abashi`s Rod of Disempowerment
+
+Velious Era (added December 2000-2001) Red Server First - Abashi's Rod of Disempowerment Modeled by Gongshow <Empire>
+ Green Server First - Abashi`s Rod of Disempowerment - Modeled by Ikssy <Seal Team> "Take that you glimmer drake"
+Abashi`s Rod of Disempowerment
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 30
+DMG: 40 
+STR: +15  DEX: +15  STA: +15  INT: +15  AGI: +15  HP: +100  MANA: +50
+SV FIRE: +15  SV DISEASE: +15  SV COLD: +15  SV MAGIC: +15  SV POISON: +15
+Effect: Abolish Enchantment (Any Slot/Can Equip, Casting Time: 3.0) at Level 55
+WT: 2.5  Size: TINY
+Class: MNK NEC
+Race: ALL
+
+
+Upgrade stats are already in game...
+Effect is right-clickable, targetable, 250 range, excellent for pulling. Only removes beneficial effects. 
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

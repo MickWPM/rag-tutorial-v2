@@ -1,0 +1,48 @@
+ITEM NAME: Reet Froglok Crown
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Reet Froglok Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 12
+SV FIRE: +20  SV COLD: +20
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Not Classic.[1] Not to be confused with Crown of the Froglok Kings.
+
+ Item Lore (from Identify): Reet Froglock Crown 
+
+  Drops From 
+Old Sebilis
+
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

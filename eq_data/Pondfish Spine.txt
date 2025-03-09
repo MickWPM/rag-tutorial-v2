@@ -1,0 +1,37 @@
+ITEM NAME: Pondfish Spine
+
+Kunark Era (added 2000)
+
+
+Pondfish Spine
+
+
+MAGIC ITEM
+Slot: RANGE
+Skill: Throwingv1  Atk Delay: 25
+DMG: 5
+Effect:  Poison (Combat, Casting Time: Instant) at Level 20
+WT: 4.0  Range: 40  Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ pond sturgeon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Pauldron Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

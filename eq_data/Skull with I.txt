@@ -1,0 +1,33 @@
+ITEM NAME: Skull with I
+
+Kunark Era (added 2000)
+
+
+Skull with I
+
+
+LORE ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Cleanser Skull I 
+
+  Drops From 
+Lake of Ill Omen
+
+ a stuffed barracuda
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 2
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

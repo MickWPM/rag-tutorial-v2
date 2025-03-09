@@ -1,0 +1,53 @@
+ITEM NAME: Captain of the Sea
+
+Kunark Era (added 2000)
+
+
+Captain of the Sea
+
+
+LORE ITEM NO TRADE NO RENT
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+Emerald Jungle
+
+ an Iksar tomb raider
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ the Court Chronicler
+
+
+
+  (351, 48)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+370 A.G.: Vlzk, student of the 5th rung, becomes the youngest Iksar monk to attain the title of Tynn Master. He takes his place among the masters of the Court of Pain.
+371 A.G.: Master Vlzk becomes the only Iksar monk to be promoted to the rank of Captain within the Iksar Navy. He is promoted by the great Emperor Rile. This act solidifies the alliance between the monks and the Legion and ushers in a new age of disciplines.
+372 A.G.: During a coastal patrol being conducted by Captain Vlsk, a fierce and sudden water spout hits and splinters his ship. The Navy searches for survivors and none are found.
+406 A.G.: During a Deep Range Patrol, a group of Legionnaires is greeted by Captain Vlsk. He has survived in the Outlands with no aid. His once proud tail has bee ripped from his body by a Trakanasaurus. He becomes a hero. The blacksmiths are ordered to create a tail made of iron. He is now Captain Irontail.
+Captain Irontail is promoted to Captain of the Iron Guard, a roving coastal armada. He is also rewarded with great items of magic. In his honor, the Baron and the Arch Duke create an awesome weapon called the Storm Sabre. They also create a lesser blade for all who serve in the Ironguard–The Tynn Foil.
+406 A.G.: During the Infamous Battle of Timorous Deep, Captain Vlsk Irontail is defeated as well as most of the Sebilisian Navy. A horde of dragons descended upon them. The navy was vastly outnumbered. So was the end of the great Captain Irontail. Long live his spirit.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

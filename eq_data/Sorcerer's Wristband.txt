@@ -1,0 +1,35 @@
+ITEM NAME: Sorcerer's Wristband
+
+Velious Era (added December 2000-2001)
+Sorcerer's Wristband
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+INT: +2  AGI: +5  MANA: +20
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +2  SV MAGIC: +1  SV POISON: +2
+Effect:  Chill Sight (Must Equip, Casting Time: 3.0)
+WT: 0.1  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a rolling plains steed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

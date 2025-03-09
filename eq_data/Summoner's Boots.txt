@@ -1,0 +1,35 @@
+ITEM NAME: Summoner's Boots
+
+Velious Era (added December 2000-2001)
+
+
+Summoner's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 7
+STA: +3  INT: +4  HP: +15  MANA: +20
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Summon Bandages (Must Equip, Casting Time: 10.0) at Level 50
+WT: 0.4  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Kael Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

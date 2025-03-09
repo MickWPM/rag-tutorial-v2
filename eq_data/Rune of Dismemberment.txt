@@ -1,0 +1,41 @@
+ITEM NAME: Rune of Dismemberment
+
+
+Rune of Dismemberment
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 4g 6s 6c 
+
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Eastern Wastes
+
+ a coldain warrior
+
+Ocean of Tears
+
+a gargoyle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Tox Portal (Trivial: ?)
+
+
+
+
+

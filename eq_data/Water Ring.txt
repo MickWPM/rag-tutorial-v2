@@ -1,0 +1,35 @@
+ITEM NAME: Water Ring
+
+
+
+Water Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 2
+WT: 0.1  Size: TINY
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Dagnor's Cauldron
+
+ aqua goblin tidal lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Bracer
+ Circlet of Mist Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

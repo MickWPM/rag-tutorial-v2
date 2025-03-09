@@ -1,0 +1,38 @@
+ITEM NAME: Velium Crystal Staff
+
+Velious Era (added December 2000-2001)
+
+
+
+Velium Crystal Staff
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 21
+DMG: 9 
+STR: -5  STA: -5  WIS: +2  INT: +2
+Effect:  Frost Strike (Combat, Casting Time: Instant) at Level 1
+WT: 5.5  Size: TINY
+Class: CLR MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+This weapon procs at level one but starts out at 93 damage, (since 9/21/2015) 
+
+  Drops From 
+Velketor's Labyrinth
+
+ The Brood Mother
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

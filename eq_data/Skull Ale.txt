@@ -1,0 +1,39 @@
+ITEM NAME: Skull Ale
+
+Classic Era (added 1999-2000)
+
+
+Skull Ale
+
+
+WT: 1.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+Zatok in Grobb at Gunthak's Belch - Loc: 154, -280 
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 151)
+ Yield: Skull Ale x2
+ In Brewing Barrel:
+
+
+  1 x Cyclops skull - Dropped, Returned on Failure, Returned on Success
+  1 x Short Beer - Crafted, Bought, Dropped
+  1 x Spices - Bought
+  1 x Vinegar - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Wind Etched Helm of Ro
+
+Sky Era (added January 2000)
+
+
+Wind Etched Helm of Ro
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 20
+STR: +2  WIS: +5  MANA: +15
+SV MAGIC: +13
+WT: 4.5  Size: SMALL
+Class: PAL
+Race: ALL except IKS
+
+
+Part of the Wind Etched Armor Set 
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

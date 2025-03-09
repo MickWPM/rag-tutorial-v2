@@ -1,0 +1,36 @@
+ITEM NAME: Crescent Gi
+
+Kunark Era (added 2000)
+
+
+Crescent Gi
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 8
+STR: +7  AGI: +3
+SV MAGIC: +4
+WT: 0.5  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+Part of the Crescent Armor Set 
+
+  Drops From 
+Crypt of Dalnir
+
+ a kly cohort
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Nostrolo Tambourine
+
+Kunark Era (added 2000)
+
+ Wood Elf Bard playing Nostrolo Tambourine.
+Nostrolo Tambourine
+
+
+MAGIC ITEM  LORE ITEM  NO TRADE  
+Slot: SECONDARY
+Percussion Instrument: 22
+INT: +5
+WT: 0.5  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rare Coins
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

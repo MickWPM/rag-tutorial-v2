@@ -1,0 +1,39 @@
+ITEM NAME: Silk Thread
+
+
+Silk Thread
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Silk Thread x1
+ In Sewing Kit:
+
+
+  2 x Spiderling Silk - Dropped 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Silk Cord (Trivial: 26)
+ Leather Padding (Trivial: 31)
+ Silk Bandage (Trivial: 21)
+
+
+
+
+

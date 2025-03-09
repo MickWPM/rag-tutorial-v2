@@ -1,0 +1,51 @@
+ITEM NAME: Dwarven Axe
+
+
+Dwarven Axe
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 26
+DMG: 6 
+WT: 4.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 115 and faction at Amiably
+
+ 4 Platinums
+ 9 Golds
+ 4 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ Guard Burr
+ Guard Rundul
+ Guard Hartt
+ Guard Rylin
+
+Crushbone
+
+ Lord Darish
+
+South Kaladim
+
+ Most (all?) Guards
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Taskmaster Earring - Dwarf Male
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

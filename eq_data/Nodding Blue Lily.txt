@@ -1,0 +1,35 @@
+ITEM NAME: Nodding Blue Lily
+
+
+
+Nodding Blue Lily
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Possibly used in Poison Making. Maybe out of era? 
+
+  Drops From 
+Old Sebilis
+
+ Froglok Reet Knight
+ Froglok Reet Shaman
+ Froglok Reet Wizard
+ Froglok Jin Wizard
+ Froglok Jin Shaman
+ Froglok Bok Shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

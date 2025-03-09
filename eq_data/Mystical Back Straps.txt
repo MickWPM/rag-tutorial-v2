@@ -1,0 +1,33 @@
+ITEM NAME: Mystical Back Straps
+
+Sky Era (added January 2000)
+
+
+Mystical Back Straps
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK WRIST
+AC: 5
+STR: +6  STA: +6  CHA: +5  HP: +20
+WT: 0.3  Size: SMALL
+Class: MNK
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Strength
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Glowing Silver Wand
+
+Classic Era (added 1999-2000)
+
+
+Glowing Silver Wand
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 5 
+WT: 1.0  Size: MEDIUM
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+Intermediate item in the Incandescent Wand quest. Give to Raine Beteria along with 50gp. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Incandescent Wand
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

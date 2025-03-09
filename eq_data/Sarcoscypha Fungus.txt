@@ -1,0 +1,53 @@
+ITEM NAME: Sarcoscypha Fungus
+
+
+Sarcoscypha Fungus
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used to make "red berry" color dyes for Fine Plate Armor. 
+
+  Drops From 
+The Estate of Unrest
+
+ mortuary fungus
+
+Innothule Swamp
+
+ a fungus spore
+ fungus man tracker
+
+Upper Guk
+
+ a fungus ancient
+ a fungus breeder
+ a fungus drone
+ a fungus mutant
+ a fungus soldier
+
+Groundspawns in Faerie Village in Lesser Faydark
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making (Trivial: 36)
+ Yield: Red Berry Dye x1
+ In Mortar and Pestle:
+
+
+  1 x Empty Vial - Crafted, Bought
+  1 x Sarcoscypha Fungus - Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+
+
+

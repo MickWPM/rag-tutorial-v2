@@ -1,0 +1,35 @@
+ITEM NAME: Warlock's Wristguard
+
+Velious Era (added December 2000-2001)
+
+
+Warlock's Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+DEX: +5  INT: +2  HP: +20
+SV FIRE: +2  SV DISEASE: +1  SV COLD: +2  SV MAGIC: +1  SV POISON: +1
+Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: 1.0)
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Velium Wristbands
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

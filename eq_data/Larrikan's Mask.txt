@@ -1,0 +1,35 @@
+ITEM NAME: Larrikan's Mask
+
+Kunark Era (added 2000)
+
+Larrikan's Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+Charges: 10
+AC: 6
+Effect:  Superior Camouflage (Must Equip, Casting Time: 9.0) at Level 45
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Rechargeable for 3pp. 10 charges of invis makes this desirable for melee and healers who suffer from limited bag space.  Rechargeable in a Box of the Void (NOT consumed!) with a class 3 mana battery. 
+
+  Drops From 
+Old Sebilis
+
+ sebilite guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

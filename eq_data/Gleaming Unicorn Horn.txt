@@ -1,0 +1,28 @@
+ITEM NAME: Gleaming Unicorn Horn
+
+Epic Quests Era (added Sept 2000)
+Gleaming Unicorn Horn
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): 	Pure Symbol of Tunare 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

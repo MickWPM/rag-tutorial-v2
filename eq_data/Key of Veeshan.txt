@@ -1,0 +1,32 @@
+ITEM NAME: Key of Veeshan
+
+Were you looking for Veeshan's Key (Plane of Sky)?
+Hole Era (added June 2000)
+
+
+Key of Veeshan
+
+
+NODROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This is the key to access Veeshan's Peak. For more information see the Key Compendium.
+Not soulbound until ~July 2000 [1] 1 month into  Hole  Era (Currently soulbound on Blue) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rune of Scale Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

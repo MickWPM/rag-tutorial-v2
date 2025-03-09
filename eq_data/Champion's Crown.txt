@@ -1,0 +1,35 @@
+ITEM NAME: Champion's Crown
+
+Velious Era (added December 2000-2001)
+
+
+Champion's Crown
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 24
+STR: +2  DEX: +2  STA: +7  HP: +35
+SV FIRE: +3
+WT: 9.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior's Velium Helm
+ Custom Plate Helms - Thurgadin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Slime Crystal Staff
+
+Classic Era (added 1999-2000)
+
+Slime Crystal Staff
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 5 
+Effect:  Sicken (Combat, Casting Time: Instant)
+WT: 6.5  Size: LARGE
+Class: BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Rare drop off the reclusive King Xorbb 
+
+  Drops From 
+Beholder's Maze
+
+ King Xorbb
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tibrinn's Quest
+ The Visiting Priestess
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

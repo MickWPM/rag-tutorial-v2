@@ -1,0 +1,35 @@
+ITEM NAME: Monkey Hide Arm Plate
+
+Velious Era (added December 2000-2001)
+
+
+Monkey Hide Arm Plate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 14
+STR: +5  STA: +5  CHA: +5  HP: +25
+SV COLD: +5  SV POISON: +5
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

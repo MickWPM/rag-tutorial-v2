@@ -1,0 +1,38 @@
+ITEM NAME: Onyxbrand
+
+Warrens Era (added spring 2001)
+
+
+Onyxbrand
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 10   AC: 8
+STA: +10 AGI: +3
+SV FIRE: +5
+WT: 5.1  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify): Etching reads: Remember, Garzicor 
+
+  Drops From 
+Crystal Caverns
+
+ Ghost of Burdael
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

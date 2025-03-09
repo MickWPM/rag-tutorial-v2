@@ -1,0 +1,42 @@
+ITEM NAME: Mystic Koada`Dal Mithril Collar
+
+
+Mystic Koada`Dal Mithril Collar
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 9
+STR: +3  CHA: +4  WIS: +4
+WT: 2.1  Size: SMALL
+Class: WAR CLR PAL BRD
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 192)
+ Yield: Mystic Koada`Dal Mithril Collar x1
+ In Koada`Dal Forge:
+
+
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Enchanted Folded Sheet of Mithril - Crafted
+  1 x Enchanted Mithril Chain Jointing - Crafted
+  1 x Leather Padding - Crafted
+  1 x Moonlight Temper - Crafted
+  1 x Plate Gorget Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

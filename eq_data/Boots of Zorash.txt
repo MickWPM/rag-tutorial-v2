@@ -1,0 +1,34 @@
+ITEM NAME: Boots of Zorash
+
+Kunark Era (added 2000)
+Boots of Zorash
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+WT: 10.5  Size: MEDIUM
+Class: WAR SHD
+Race: IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+No worn graphic. 
+
+  Drops From 
+The Overthere
+
+ Zorash
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dreadscale Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

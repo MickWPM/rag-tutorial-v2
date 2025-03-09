@@ -1,0 +1,33 @@
+ITEM NAME: First part of an Iceclad Map
+
+Velious Era (added December 2000-2001)
+
+
+First part of an Iceclad Map
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ dire wolf stalker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Map
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

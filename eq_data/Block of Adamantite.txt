@@ -1,0 +1,87 @@
+ITEM NAME: Block of Adamantite
+
+
+
+Block of Adamantite
+
+
+WT: 15.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Commons
+
+ Trista N`Ryt
+
+
+
+  (70, -857)
+
+
+ Neriak Third Gate
+
+ Draan N`Ryt
+
+
+
+  (694, -1780)
+
+
+ Oggok
+
+ Gralbug
+
+ No longer exists
+
+  (332, 782)
+
+
+ Oggok
+
+ Puglala
+
+ No longer sells
+
+  (95, 846)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 29)
+ Yield: Block of Adamantite x1
+ In Teir`dal Forge:
+
+
+  1 x Neriak Nectar - Bought
+  3 x Large Brick of Adamantite - Crafted, Bought
+
+
+ In Oggok Forge:
+
+
+  1 x Ogre Swill - Bought
+  3 x Large Brick of Adamantite - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Folded Sheet of Adamantite (Trivial: 39)
+
+
+
+
+

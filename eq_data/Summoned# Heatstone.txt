@@ -1,0 +1,32 @@
+ITEM NAME: Summoned: Heatstone
+
+Classic Era (added 1999-2000)
+
+
+Summoned: Heatstone
+
+
+MAGIC ITEM  TEMPORARY
+Slot: NECK PRIMARY SECONDARY AMMO 
+AC: 3
+Effect:  Serpent Sight (Worn)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Cast via Summon Heatstone. Can be equipped in the AMMO slot.[1][2] When equippable in the ammo slot, the AC stat does not transfer. Heatstone may be worn in the ammo slot. after patch November 20th, 2021 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Blackened Alloy Boots
+
+Stonebrunt Era (added summer 2001)
+
+Blackened Alloy Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 8
+WT: 4.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Blackened Alloy Armor Set 
+
+  Drops From 
+Clan Runnyeye
+
+ a Pickclaw Foeseeker
+ Battlelord Paluk
+ Lord Pickclaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

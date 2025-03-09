@@ -1,0 +1,73 @@
+ITEM NAME: Nilitim's Grimoire Pg. 416
+
+Classic Era (added 1999-2000)
+Nilitim's Grimoire Pg. 416
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Howling Stones
+
+ a bile golem
+ a sepulcher skeleton
+
+Kedge Keep
+
+ a swirlspine seahorse
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Ocean of Tears
+
+ Allizewsaur
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a samhain
+ a scareling
+ a spinechiller spider
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Hate
+
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+ a Raptor
+ Dinus
+
+Skyfire Mountains
+
+ Zordakalicus Ragefire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research
+ Blanket of Forgetfulness (Trivial: 182)
+
+
+
+
+

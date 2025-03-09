@@ -1,0 +1,50 @@
+ITEM NAME: Gray Sr Apprentice Robe*
+
+Classic Era (added 1999-2000)
+
+
+Gray Sr Apprentice Robe*
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 6
+MANA: +1
+WT: 0.7  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF
+
+
+The necro robe in the newbie Senior Apprentice Robes line. 
+
+  Drops From 
+Rathe Mountains
+
+ Kazzel D`Leryt
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

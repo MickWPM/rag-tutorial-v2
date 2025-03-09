@@ -1,0 +1,33 @@
+ITEM NAME: Half of a Spell
+
+Classic Era (added 1999-2000)
+
+
+Half of a Spell
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Half of Column of Frost Spell 
+
+  Drops From 
+Toxxulia Forest
+
+ A Kobold Caster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ilanic's Scroll
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

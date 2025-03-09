@@ -1,0 +1,34 @@
+ITEM NAME: Sage's Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+Sage's Sleeves
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 6
+STA: +4  INT: +5  MANA: +35
+SV POISON: +2
+WT: 0.2  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard's Velium Sleeves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

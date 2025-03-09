@@ -1,0 +1,46 @@
+ITEM NAME: Velvet Choker
+
+
+Velvet Choker
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 3
+HP: +5
+WT: 0.5  Size: SMALL
+Class: CLR DRU BRD SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Lake Rathetear
+
+ a gnoll embalmer
+
+Qeynos Hills
+
+ Varsoon the Undying
+
+South Karana
+
+ Ghanex Drah
+
+Kurn's Tower
+
+ Burynai Forager
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Indaria's Doll
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

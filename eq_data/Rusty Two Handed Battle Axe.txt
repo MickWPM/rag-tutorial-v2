@@ -1,0 +1,56 @@
+ITEM NAME: Rusty Two Handed Battle Axe
+
+Classic Era (added 1999-2000)
+
+Rusty Two Handed Battle Axe
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 49
+DMG: 9 
+WT: 13.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+Part of the Rusty Weapons set. 
+
+  Drops From 
+Commonlands
+
+ Shadow Treebright
+ Sil Silverstar
+ Veli Greenwhisper
+ Vuli Greenwhisper
+
+Crushbone
+
+ orc trainer
+
+Erud's Crossing
+
+ a skeleton sailor
+
+Nektulos Forest
+
+ Gollee
+
+Oasis of Marr
+
+ a zombie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranjor's Test
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

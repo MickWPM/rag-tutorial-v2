@@ -1,0 +1,50 @@
+ITEM NAME: Ancient Coin
+
+
+Ancient Coin
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are six different coins, all with this name, that you need to collect. 
+
+  Drops From 
+Dalnir
+
+ a kly imprecator ("Royal Crown of Dalnir")
+
+Kaesora
+
+ failed crypt raider ("Terraz Ton")
+
+Lake of Ill Omen
+
+ a bloodgill goblin ("Veksar Gran")
+
+The Overthere
+
+ a scorpikis scrounger ("Danak Gran")
+
+City of Mist
+
+ Captain of the Guard ("Ik Gran")
+
+Emerald Jungle
+
+ Forage ("Torsis Ton")
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rare Coins
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

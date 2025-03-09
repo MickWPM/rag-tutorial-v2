@@ -1,0 +1,35 @@
+ITEM NAME: Mantle of the Elder Serpent
+
+Stonebrunt Era (added summer 2001)
+
+Mantle of the Elder Serpent
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 6
+INT: +4  AGI: +2
+SV POISON: +5
+WT: 2.5  Size: SMALL
+Class: BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Stonebrunt Mountains
+
+ Slyder the Ancient
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

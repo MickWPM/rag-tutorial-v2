@@ -1,0 +1,36 @@
+ITEM NAME: Tattered Recipe
+
+Classic Era (added 1999-2000)
+
+
+Tattered Recipe
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+
+
+ Item Lore (from Identify): Hehe Meat Recipe 
+
+  Drops From 
+Ocean of Tears
+
+ Nerbilik
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ HEHE Meat Quest 
+
+  Book contents 
+HEHE Recipe By Chef Dooga WUN - HUMAN FLESH WUN - ERUDITE FLESH WUN -
+HIGH ELF FLESH BOILS WIT WUNFLAMING PUNGLA IN DA OVEN. EATS!!
+Impoortent!! Must get flesh froms Innathoole
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

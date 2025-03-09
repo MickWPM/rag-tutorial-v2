@@ -1,0 +1,41 @@
+ITEM NAME: Purified Dagger
+
+Stonebrunt Era (added summer 2001)
+
+Purified Dagger
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 4 
+CHA: +2
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 2.4  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Fading Soul Orb x1
+ In Kejek Forge:
+
+
+  1 x Fading Shadow Dagger - Dropped
+  1 x Soulforge Hammer - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

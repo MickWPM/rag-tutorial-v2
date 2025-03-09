@@ -1,0 +1,42 @@
+ITEM NAME: Ry`Gorr Iron Armguards
+
+Velious Era (added December 2000-2001)
+
+
+
+Ry`Gorr Iron Armguards
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 11
+AGI: +3  HP: +10
+SV COLD: +5  SV MAGIC: +3
+WT: 1.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a Ry`Gorr legionaire
+ a Ry`Gorr prison guard
+ mystic of Ry`Gorr
+ Oracle of Ry`Gorr
+ Poxbreath Yellowfang
+ Ry`Gorr elite guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

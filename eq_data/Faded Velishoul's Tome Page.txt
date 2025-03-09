@@ -1,0 +1,52 @@
+ITEM NAME: Faded Velishoul's Tome Page
+
+
+Faded Velishoul's Tome Page
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are two identically named items - pages 16 and 108.[1]  If you use /outputfile inventory Filenamehere you can tell which faded page you have based off its item id 16084 is 16 (Faded), 11701 is 108 (Faded). 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 2 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from any level ~24-29 mob
+
+Rathe Mountains
+
+ a giant skeleton
+
+South Karana
+
+ A shadowed man
+
+Iceclad Ocean
+
+ a shadow guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Invigor (Pg. 16) (Trivial: 62)
+ Feedback (Pg. 108) (Trivial: 82)
+
+
+
+
+

@@ -1,0 +1,106 @@
+ITEM NAME: Blue Vervain Bulb
+
+
+
+Blue Vervain Bulb
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+8.6p with 90 Charisma and amiably faction 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Klok Scaleroot
+
+
+
+  (407, 511)
+
+
+ West Cabilis
+
+ Klok Greyscale
+
+
+
+  (389, 525)
+
+
+ Firiona Vie
+
+ Marlyn McMerin
+
+
+
+  (-3813, 1669)
+
+
+ Grobb
+
+ Blergagg
+
+
+
+  (417, -427
+
+
+ Halas
+
+ Dargon
+
+
+
+  (354, 356)
+
+
+ Innothule Swamp
+
+ Clork
+
+
+
+  (1165, 549)
+
+
+ Oggok
+
+ Pordopa
+
+
+
+  (281, -364)
+
+
+ Thurgadin
+
+ Hulda
+
+
+
+  (-294, 133)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+
+
+
+

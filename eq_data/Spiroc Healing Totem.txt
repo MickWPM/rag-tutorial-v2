@@ -1,0 +1,34 @@
+ITEM NAME: Spiroc Healing Totem
+
+Sky Era (added January 2000)
+
+
+
+Spiroc Healing Totem
+
+
+LORE ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Resolution
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

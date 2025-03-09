@@ -1,0 +1,42 @@
+ITEM NAME: Rusty Mace
+
+Classic Era (added 1999-2000)
+
+Rusty Mace
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 38
+DMG: 5 
+WT: 8.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 0 Golds
+ 9 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Low Level Monsters
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bone Chips Kaladim
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

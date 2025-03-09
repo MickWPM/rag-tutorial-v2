@@ -1,0 +1,36 @@
+ITEM NAME: Shield of Fury
+
+Velious Era (added December 2000-2001)
+
+
+Shield of Fury
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 40
+STR: +10  INT: +15  HP: +75
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 1.0  Size: SMALL
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Flurry Drakes
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

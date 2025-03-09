@@ -1,0 +1,31 @@
+ITEM NAME: Mammoth's Hide
+
+
+
+Mammoth's Hide
+
+
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Surefall Glade
+
+ Mammoth
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vengeance for Frenway
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Vindication
+
+Velious Era (added December 2000-2001)
+
+Vindication
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 35 
+STR: +8  DEX: +9  HP: +30
+SV DISEASE: +12  SV POISON: +12
+Effect: Cancel Magic (Combat, Casting Time: Instant)
+WT: 10.0  Size: LARGE
+Class: PAL SHD
+Race: ALL
+
+
+The proc does NOT affect the user or party members in its effect radius. Only affects mobs (used sword religiously and never saw a fellow party member/player get affected by it) 
+
+  Drops From 
+Skyshrine
+
+ Jaelk
+ Fe Dhars
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Tome of Instruction
+
+Epic Quests Era (added Sept 2000)
+Tome of Instruction
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest 
+
+  Book contents 
+
+
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

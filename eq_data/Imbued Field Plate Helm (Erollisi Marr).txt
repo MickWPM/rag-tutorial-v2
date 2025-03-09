@@ -1,0 +1,44 @@
+ITEM NAME: Imbued Field Plate Helm (Erollisi Marr)
+
+
+
+Imbued Field Plate Helm (Erollisi Marr)
+
+
+Slot: HEAD
+AC: 13
+CHA: +2   WIS: +4   
+WT: 4.8   Size: SMALL
+Class: WAR CLR PAL BRD
+Race: HUM ELF HEF
+Deity: Erollisi Marr
+
+
+Part of the human cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: ??)
+ Yield: Imbued Field Plate Helm (Erollisi Marr) x1
+ In Antonican Forge:
+
+
+  1 x Smithy Hammer - Bought
+  1 x Sea Temper - Crafted
+  1 x Chain Jointing - Crafted
+  2 x High Quality Folded Sheet Metal - Crafted
+  1 x Imbued Rose Quartz - Summoned
+  1 x Leather Padding - Crafted
+  1 x Plate Helm Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

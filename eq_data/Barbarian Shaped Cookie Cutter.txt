@@ -1,0 +1,48 @@
+ITEM NAME: Barbarian Shaped Cookie Cutter
+
+Classic Era (added 1999-2000)
+
+Barbarian Shaped Cookie Cutter
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 56)
+ Yield: Barbarian Shaped Cookie Cutter x1
+ In Forge:
+
+
+  1 x Barbarian Cookie Mold - Bought
+  1 x Metal Bits - Crafted
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Pottery (Trivial: 17)
+ Yield: Barbarian Shaped Cookie Cutter x1
+ In Kiln:
+
+
+  1 x High Quality Firing Sheet - Bought
+  1 x Unfired Barbarian Cookie Cutter - Crafted 
+
+
+  Tradeskill recipes 
+ Baking
+ Barbarian Shaped Cookie (Trivial: 115)
+
+
+
+
+

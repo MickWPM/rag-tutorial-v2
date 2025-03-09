@@ -1,0 +1,33 @@
+ITEM NAME: Clump of Gorilla Hair
+
+Classic Era (added 1999-2000)
+
+
+Clump of Gorilla Hair
+
+
+NO DROP
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cazic Thule
+
+ a hulking gorilla
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rain Caller Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

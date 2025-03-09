@@ -1,0 +1,37 @@
+ITEM NAME: Tooth of the Cobalt Scar
+
+Velious Era (added December 2000-2001)
+
+
+Tooth of the Cobalt Scar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Dragon Stone of the Cobalt Scar
+This item is found as a ground spawn inside the Dragon Ring in the Cobalt Scar at /loc (-1087, -1593, 296), a few hundred meters east of Skyshrine. It is required for the spells Circle of Cobalt Scar and Cobalt Scar Portal but not required for Translocate: Cobalt Scar. The caster as well as passengers must all possess the tooth in their bags or inventory for receiving the required spells; those who do not have the tooth are left behind. 
+The Tooth of the Cobalt Scar is a "Master key" that allows you to port to Wakening Lands and Great Divide as well. Feel free to destroy your other teeth when you have this one.
+Like the Trakanon Idol and Key to Charasis, this is a so-called soulbound item, which means it appears in your inventory after death and doesn't appear on your corpse. 
+
+  Drops From 
+Cobalt Scar
+
+ Ground Spawn
+ (-1087, -1593, 296) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Icon of the High Scale
+
+
+
+Icon of the High Scale
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Icon of the High Scale 
+
+  Drops From 
+City of Mist
+
+ Ground spawn
+ (132,-369, -13) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,65 @@
+ITEM NAME: Rat Foot
+
+Classic Era (added 1999-2000)
+
+
+Rat Foot
+
+
+LORE ITEM  QUEST ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Added on 2/10/19 [1] 
+
+  Drops From 
+Toxxulia Forest
+
+ an infected rat
+
+Misty Thicket
+
+ a diseased rat
+ a giant thicket rat
+ a large thicket rat
+
+Northern Desert of Ro
+
+ a large rat
+
+Paineel
+
+ a pack rat
+
+Qeynos Aqueducts
+
+ a large rat
+ a sewer rat
+
+Qeynos Hills
+
+ Scruffy
+
+Steamfont Mountains
+
+ a female rat
+ a large rat
+
+West Freeport
+
+ a large rat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rat's Foot Necklace Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

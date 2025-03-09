@@ -1,0 +1,33 @@
+ITEM NAME: A Bone Key
+
+Kunark Era (added 2000)
+
+
+A Bone Key
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Droga Pens Primary 
+
+  Drops From 
+Droga
+
+ A goblin penmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of the Lord (#7)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Wily Warlock Bracer
+
+Velious Era (added December 2000-2001)
+
+
+Wily Warlock Bracer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 6
+DEX: +5  INT: +5  HP: +5  MANA: +25
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 0.1  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

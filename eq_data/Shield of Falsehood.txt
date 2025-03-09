@@ -1,0 +1,31 @@
+ITEM NAME: Shield of Falsehood
+
+Classic Era (added 1999-2000)
+Shield of Falsehood
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 16
+STR: +3  DEX: -3  CHA: -5  WIS: +5  INT: +5  MANA: +30
+WT: 9.7  Size: GIANT
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

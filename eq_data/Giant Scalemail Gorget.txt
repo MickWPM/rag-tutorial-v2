@@ -1,0 +1,64 @@
+ITEM NAME: Giant Scalemail Gorget
+
+Velious Era (added December 2000-2001)
+
+Giant Scalemail Gorget
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 5
+STR: +1  DEX: +1  WIS: +1  AGI: +1  HP: +15
+WT: 2.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF HFL GNM
+
+
+Part of the Giant Scalemail Armor set.
+Selling for 1p 8s 7c @ 105 CHA 
+
+  Drops From 
+Kael Drakkel
+
+ a Protector of Zek
+ Legionnaire Alveyrem
+ Legionnaire Byltor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Yvedrn
+ protector of Zek
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Skulls
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

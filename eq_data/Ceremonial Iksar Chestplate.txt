@@ -1,0 +1,34 @@
+ITEM NAME: Ceremonial Iksar Chestplate
+
+Kunark Era (added 2000)
+
+Ceremonial Iksar Chestplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 19
+Effect: Regeneration (Worn)  
+WT: 6.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ Crusader Zoglic
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

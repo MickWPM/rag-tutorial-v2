@@ -1,0 +1,32 @@
+ITEM NAME: Grizzleknot Bark
+
+
+
+Grizzleknot Bark
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 5.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Southern Karana
+
+ Grizzleknot
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

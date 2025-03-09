@@ -1,0 +1,34 @@
+ITEM NAME: Ripened Mango
+
+Velious Era (added December 2000-2001)
+
+
+Ripened Mango
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Wakening Lands
+ Plane of Growth
+
+

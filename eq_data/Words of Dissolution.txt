@@ -1,0 +1,51 @@
+ITEM NAME: Words of Dissolution
+
+
+Words of Dissolution
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 4 Golds
+ 3 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from level ~20 mobs
+
+The Feerrott
+
+ a spectre
+
+Lake of Ill Omen
+
+A sarnak recruit
+
+Lower Guk
+
+ a dar ghoul knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Shadow Vortex (Trivial: 46)
+
+
+
+
+

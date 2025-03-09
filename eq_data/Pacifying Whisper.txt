@@ -1,0 +1,40 @@
+ITEM NAME: Pacifying Whisper
+
+Classic Era (added 1999-2000)
+
+
+Pacifying Whisper
+
+
+Effect: Muscle Lock III (Combat, Casting Time: Instant) at Level 30
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 215)
+ Yield: Pacifying Whisper x1
+ In Mortar and Pestle:
+
+
+  1 x Constrict Suspension - Bought, Dropped
+  1 x Gelsemium Root - Bought
+  1 x Sealed Poison Vial - Crafted, Bought, Returned on Failure
+  1 x Thorny Ergot - Bought
+  1 x Wolves Bane - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

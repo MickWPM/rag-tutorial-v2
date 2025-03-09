@@ -1,0 +1,37 @@
+ITEM NAME: Ice Wyvern Stinger
+
+Velious Era (added December 2000-2001)
+
+
+Ice Wyvern Stinger
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a wyvern
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Slaggak's Bounty
+ Coldain Ring Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Tainted Avalanche Ale (Trivial: 248)
+
+
+
+
+

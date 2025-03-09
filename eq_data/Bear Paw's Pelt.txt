@@ -1,0 +1,33 @@
+ITEM NAME: Bear Paw's Pelt
+
+Warrens Era (added spring 2001)
+
+
+Bear Paw's Pelt
+
+
+LORE ITEM  NO DROP
+WT: 8.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Warrens
+
+ The Mighty Bear Paw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Azzar's Dreadful Hat, Part 2
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

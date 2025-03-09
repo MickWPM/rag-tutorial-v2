@@ -1,0 +1,33 @@
+ITEM NAME: Beartooth Necklace
+
+Classic Era (added 1999-2000)
+
+Beartooth Necklace
+
+
+Slot: NECK
+STA: +3  HP: +10
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 3p 6g 
+
+  Drops From 
+Southern Karana
+
+ Marik Clubthorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,324 @@
+ITEM NAME: Broad Sword
+
+
+
+Broad Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 32
+DMG: 6 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1253, -715)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1329, -762)
+
+
+ East Cabilis
+
+ Gaxl the scribe
+
+
+
+  (1029, -108)
+
+
+ Erudin
+
+ Ghemna Nyjuss
+
+
+
+  (-1070, -398)
+
+
+ Erudin
+
+ Rem Knarjon
+
+
+
+  (-623, -71)
+
+
+ Felwithe
+
+ Tolis Fearnone
+
+
+
+  (-105, -339)
+
+
+ Felwithe
+
+ Tylar Windspirit
+
+
+
+  (7, -256)
+
+
+ North Freeport
+
+ Mevah Toklius
+
+
+
+  (89, 397)
+
+
+ North Freeport
+
+ Rhensa Steadirt
+
+
+
+  (-10, 534)
+
+
+ North Freeport
+
+ Ardiflah Steadirt
+
+
+
+  (-27, 482)
+
+
+ North Freeport
+
+ Jusia Vapious
+
+
+
+  (244, -133)
+
+
+ Grobb
+
+ Tangiz
+
+
+
+  (433, -239)
+
+
+ Halas
+
+ Kevan McPherson
+
+
+
+  (210, -324)
+
+
+ Highpass Hold
+
+ Dovik Greenbane
+
+
+
+  (-318, -113)
+
+
+ South Kaladim
+
+ Didek Stormhammer
+
+
+
+  (136, 221)
+
+
+ North Kaladim
+
+ Murlond Everhot
+
+
+
+  (367, -173)
+
+
+ North Kaladim
+
+ Darthur Nightseer
+
+
+
+  (947, 143)
+
+
+ Lavastorm Mountains
+
+ Jengo Smirt
+
+
+
+  (432, 769)
+
+
+ Neriak Foreign Quarter
+
+ Kruna
+
+
+
+  (-308, -456)
+
+
+ Neriak Commons
+
+ Zanotix Ixtaz
+
+
+
+  (81, -868)
+
+
+ Northern Karana
+
+ Roule
+
+
+
+  (-645, -221)
+
+
+ Oasis of Marr
+
+ Transan
+
+
+
+  (613, 51)
+
+
+ Oggok
+
+ Varrok Neckchopper
+
+
+
+  (324, -212)
+
+
+ The Overthere
+
+ Tin Merchant VII
+
+
+
+  (2617, 2587)
+
+
+ South Qeynos
+
+ Barthal
+
+
+
+  (-55, -303)
+
+
+ South Qeynos
+
+ Moran Smith
+
+
+
+  (-60, -246)
+
+
+ South Qeynos
+
+ Bisdlo Ravtahm
+
+
+
+  (-258, -525)
+
+
+ Rathe Mountains
+
+ Tarikh Korula
+
+
+
+  (3974, 1422)
+
+
+ Southern Desert of Ro
+
+ Smith Tv`ysa
+
+
+
+  (93, 487)
+
+
+ Thurgadin
+
+ Brigam
+
+
+
+  (-208, 485)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (6, 897)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

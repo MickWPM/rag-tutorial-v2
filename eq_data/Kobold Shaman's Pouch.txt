@@ -1,0 +1,36 @@
+ITEM NAME: Kobold Shaman's Pouch
+
+Stonebrunt Era (added summer 2001)
+
+
+Kobold Shaman's Pouch
+
+
+LORE ITEM  NO DROP
+WT: 0.6  Weight Reduction: 10%
+Capacity: 6  Size Capacity: MEDIUM
+
+
+Lore: Kobold Shaman's Pouch 
+
+  Drops From 
+Stonebrunt Mountains
+
+ a kobold wanderer
+
+The Warrens
+
+ a greater kobold shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kobold Shaman Artifacts
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

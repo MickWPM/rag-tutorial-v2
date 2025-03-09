@@ -1,0 +1,69 @@
+ITEM NAME: Mortar and Pestle
+
+
+
+Mortar and Pestle
+
+
+WT: 0.4  Weight Reduction: 0%
+Capacity: 6  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Dagnor's Cauldron
+
+ Conium Darkblade
+
+
+
+  (-236, -826)
+
+
+ Firiona Vie
+
+ Brak Daggermist
+
+
+
+  (-3608, 2359)
+
+
+ West Freeport
+
+ Toxdil
+
+
+
+  (623, 200)
+
+
+ Western Plains of Karana
+
+ Gindlin Toxfodder
+
+
+
+  (-2986, -13398)
+
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

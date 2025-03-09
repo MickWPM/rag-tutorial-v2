@@ -1,0 +1,38 @@
+ITEM NAME: Amanita Phalloide
+
+Classic Era (added 1999-2000)
+
+Amanita Phalloide
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+stackable 
+ Merchant resale value: 7g 6s 9c 
+
+  Drops From 
+The Estate of Unrest
+
+ a death beetle
+ a festering hag
+ mortuary fungus
+ tormented dead
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Essence of Rallos (Trivial: 268)
+
+
+
+
+

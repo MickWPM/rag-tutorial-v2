@@ -1,0 +1,37 @@
+ITEM NAME: Woe
+
+Kunark Era (added 2000)
+
+
+Woe
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 29
+DMG: 5 
+Effect:  Affliction (Combat, Casting Time: Instant) at Level 20
+WT: 4.3  Size: MEDIUM
+Class: WAR SHD ROG NEC
+Race: ALL except HIE
+
+
+ Item Lore (from Identify):  Woe 
+
+  Drops From 
+Rathe Mountains
+
+ Glaron the Wicked
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

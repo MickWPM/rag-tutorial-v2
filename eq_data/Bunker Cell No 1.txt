@@ -1,0 +1,37 @@
+ITEM NAME: Bunker Cell No 1
+
+Classic Era (added 1999-2000)
+
+
+Bunker Cell #1
+
+
+LORE ITEM  NO DROP
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Zimel's Blanket Hand four unstacked Drom's ChampagneDrom's Champagne
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ to Tykar Renlin to receive this item. 
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Zimel's Blades (SoulFire)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

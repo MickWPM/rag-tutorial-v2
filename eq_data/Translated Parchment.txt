@@ -1,0 +1,34 @@
+ITEM NAME: Translated Parchment
+
+Epic Quests Era (added Sept 2000)
+
+
+Translated Parchment
+
+
+LORE ITEM  NODROP
+WT: 0.1  Size: TINY
+
+
+ Item Lore (from Identify): Note from V'ghera 
+
+  Drops From 
+Steamfont Mountains
+
+ Renux Herkanor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest 
+
+  Book contents 
+Unknown.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

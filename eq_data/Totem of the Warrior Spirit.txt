@@ -1,0 +1,34 @@
+ITEM NAME: Totem of the Warrior Spirit
+
+Kunark Era (added 2000)
+
+Totem of the Warrior Spirit
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE
+STR: +3  WIS: +3  HP: +10
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This item replaced the no longer dropping Totem of the Wizened Spirits. 
+ Merchant resale value: 11.5p 
+
+  Drops From 
+Warsliks Woods
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

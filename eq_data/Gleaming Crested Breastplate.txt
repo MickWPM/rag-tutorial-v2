@@ -1,0 +1,32 @@
+ITEM NAME: Gleaming Crested Breastplate
+
+Epic Quests Era (added Sept 2000)
+ 
+Gleaming Crested Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+Slot: CHEST
+AC: 20
+HP: +30
+WT: 10.0  Size: MEDIUM
+Class: PAL
+Race: ALL
+
+
+ Item Lore (from Identify): Glowing with a bright light 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

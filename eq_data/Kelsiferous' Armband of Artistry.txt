@@ -1,0 +1,35 @@
+ITEM NAME: Kelsiferous' Armband of Artistry
+
+Velious Era (added December 2000-2001)
+ The armband.
+Kelsiferous' Armband of Artistry
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 45
+STR: +10 DEX: +15 STA: +15 CHA: +15 INT: +15 MANA: +40
+SV FIRE: +7 SV DISEASE: +7 SV COLD: +7 SV MAGIC: +7 SV POISON: +7
+WT: 0.0  Size: TINY
+Class: SHD BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Armband of the Chosen 
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

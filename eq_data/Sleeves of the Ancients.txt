@@ -1,0 +1,35 @@
+ITEM NAME: Sleeves of the Ancients
+
+Kunark Era (added 2000)
+
+
+Sleeves of the Ancients
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 16
+STR: +3  CHA: +8
+WT: 7.0  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ Varithyx
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

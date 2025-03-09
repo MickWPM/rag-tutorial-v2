@@ -1,0 +1,33 @@
+ITEM NAME: Frosty key
+
+Velious Era (added December 2000-2001)
+
+
+Frosty key
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): 4th floor key
+Gives access to the 4th floor from the 3rd. See Key Compendium. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an enraged shadow beast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

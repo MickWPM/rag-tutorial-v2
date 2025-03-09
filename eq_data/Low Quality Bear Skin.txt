@@ -1,0 +1,107 @@
+ITEM NAME: Low Quality Bear Skin
+
+Classic Era (added 1999-2000)
+
+Low Quality Bear Skin
+
+
+QUEST ITEM
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 1 Golds
+ 4 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Blackburrow
+
+ a grizzly bear
+
+Commonlands
+
+ a black bear
+ a kodiak
+ a young kodiak
+
+Everfrost Peaks
+
+ a glacier bear
+ a polar bear
+ a polar bear cub
+ Iceberg
+
+Misty Thicket
+
+ a young kodiak
+
+Rathe Mountains
+
+ a black bear
+ a brown bear
+ a grizzly bear
+
+Nektulos Forest
+
+ a black bear
+ a young kodiak
+
+Permafrost
+
+ a giant polar bear
+
+Qeynos Hills
+
+ a brown bear
+
+Surefall Glade
+
+ a bear cub
+
+The Feerrott
+
+ A Marsh Bear
+ a marsh bear cub
+
+Western Plains of Karana
+
+ a brown bear
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bear Hide Armor
+
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Low Quality Bear Skin x1
+ In Sewing Kit:
+
+
+  1 x Medium Quality Bear Skin - Crafted, Quested, Dropped
+  1 x Skinning Knife - Crafted, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Ruined Bear Pelt (Trivial: 15)
+ Leather Padding (Trivial: 31)
+ Tailored Large Bag (Trivial: 41)
+
+
+ Pottery
+ Poison Vial (Trivial: 148)
+ Lined Poison Vial (Trivial: 168)
+ Sealed Poison Vial (Trivial: ?)
+
+
+
+
+

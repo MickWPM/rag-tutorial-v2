@@ -1,0 +1,39 @@
+ITEM NAME: Journeyman Rune (Azia)
+
+Classic Era (added 1999-2000)
+
+
+Journeyman Rune (Azia)
+
+
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (Trivial: No Fail)
+ Yield: Journeyman Rune (Azia) x1
+ In Concordance of Research:
+
+
+  1 x Quill - Bought
+  1 x Piece of Parchment - Bought
+  1 x Jasper - Bought/Dropped
+  1 x Pixie Wing - Dropped
+  1 x Bat Fur - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

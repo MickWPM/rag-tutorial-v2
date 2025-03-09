@@ -1,0 +1,46 @@
+ITEM NAME: Firewater
+
+
+
+Firewater
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 17)
+ Yield: Firewater x 1
+ In: Toolboxes
+
+
+  1 x Gnomish Spirits - Crafted, Bought
+  1 x Water Flask - Crafted, Bought, Dropped 
+
+
+  Tradeskill recipes 
+ Tinkering
+ Gnomish Firework (Trivial: 21)
+ Flameless Lantern (Trivial: 68)
+ Thermal Cloak (Trivial: 82)
+ Stalking Probe (Trivial: 102)
+ Powered Gloves (Trivial: 122)
+ Tinkered Catapult (Trivial: 135)
+ Rebreather (Trivial: 175)
+ Footwarming Boots (Trivial: 235)
+
+
+
+
+

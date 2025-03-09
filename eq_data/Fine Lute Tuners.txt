@@ -1,0 +1,54 @@
+ITEM NAME: Fine Lute Tuners
+
+
+
+Fine Lute Tuners
+
+
+Slot: SECONDARY
+Stringed Instrument: 10
+WT: 0.8  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+
+ South Qeynos
+
+ Ghul Rustem
+
+
+
+  (-307, -28)
+
+  Related quests 
+ Custom Naliedin Lute (Quest)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

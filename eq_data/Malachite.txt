@@ -1,0 +1,506 @@
+ITEM NAME: Malachite
+
+
+Malachite
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 0 Golds
+ 4 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a goblin
+ an emerald drake
+
+Commonlands
+
+ Kizdean Gix
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+The Estate of Unrest
+
+ a tentacle terror
+
+Beholder's Maze
+
+ a goblin lookout
+ a goblin sentry
+ a goblin veteran
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+ a brownie scout
+ a pixie trickster
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a fae drake
+ a faerie maiden
+ a pixie prankster
+ a pixie trickster
+
+Qeynos Aqueducts
+
+ a gelatinous cube
+
+Steamfont Mountains
+
+ a lesser ebon drake
+ a steam elemental
+ Bugglegupp
+
+Swamp of No Hope
+
+ man eating shrub
+
+Toxxulia Forest
+
+ a kobold watcher
+
+The Wakening Land
+
+ a geonid
+
+Upper Guk
+
+ a heart spider
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1120, -1035)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Erudin Palace
+
+ Harban Ranflash
+
+
+
+  (695, 883)
+
+
+ Northern Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Southern Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Southern Felwithe
+
+ Merchant Jewyln
+
+
+
+  (567, -609)
+
+
+ Field of Bone
+
+ Klok Acet
+
+
+
+  (-2463, 2984)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ North Freeport
+
+ Jade
+
+
+
+  (-169, 202)
+
+
+ West Freeport
+
+ Mekoma Buma
+
+
+
+  (145, -761)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Halas
+
+ Greta Terrilon
+
+
+
+  (273, -318)
+
+
+ High Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ High Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Genzal R`Jyen
+
+
+
+  (119, -919)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Camor V`Retta
+
+
+
+  (1334, -1277)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+
+ The Overthere
+
+ Tin Merchant IV
+
+
+
+  (2647, 2525)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Toxxulia Forest
+
+ Tran Lilspin
+
+
+
+  (1761, -736)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+
+ Paineel
+
+ Rallia Hapera
+
+
+
+  (941, 762)
+
+  Related quests 
+ Emerald Warriors' Items
+ Poacher's Head Quest (Erudin)
+ Rat Pelts
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Malachite Ring (Trivial: 17)
+ Electrum Malachite Bracelet (Trivial: 74)
+ Gold Malachite Bracelet (Trivial: 146)
+ Platinum Malachite Ring (Trivial: 218)
+
+
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Blank Scroll Sheets
+
+
+
+Blank Scroll Sheets
+
+
+LORE ITEM
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Surefall Glade
+
+ Sequea Erthinon
+
+
+
+  (-155, -293)
+
+  Related quests 
+ Blank Scrolls 
+
+  Book contents 
+Unknown.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

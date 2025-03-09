@@ -1,0 +1,54 @@
+ITEM NAME: Velium Round Shield
+
+Velious Era (added December 2000-2001)
+
+ 
+Velium Round Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 15
+SV COLD: +10
+WT: 0.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Icewell Keep
+
+ An Icewell Sentinel
+ An Icewell Sentry
+ Royal Guardsman Braxis
+ Royal Guardsman Hauten
+ Royal Guardsman Horix
+ Royal Guardsman Nial
+ Royal Guardsman Raxine
+ Royal Guardsman Rhion
+ Sentinel Anderin
+ Sentinel Fridmar
+ Sentinel Paxin
+ Sentinel Saedis
+ Sentinel Sheila
+ Sentry Ellison
+ Watcher Devin
+
+Thurgadin
+
+ Guard Leif
+ Guard Royt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

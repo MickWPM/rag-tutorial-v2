@@ -1,0 +1,35 @@
+ITEM NAME: Singing Steel Breastplate
+
+Kunark Era (added 2000)
+
+Singing Steel Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 40
+STR: +10  DEX: +10  CHA: +10  AGI: +10
+Effect:  Invigorate (Must Equip, Casting Time: 6.0) at Level 45
+WT: 10.0  Size: LARGE
+Class: BRD
+Race: HUM ELF HEF
+
+
+Part of the Singing Steel armor set. 
+
+  Drops From 
+Old Sebilis
+
+ Trakanon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

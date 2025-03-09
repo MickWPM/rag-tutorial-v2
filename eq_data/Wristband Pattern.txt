@@ -1,0 +1,250 @@
+ITEM NAME: Wristband Pattern
+
+
+
+Wristband Pattern
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Not available until Sep1999 [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (761, 146)
+
+
+ Butcherblock Mountains
+
+ Alga Bruntbuckler
+
+
+
+  (-1185, -1957)
+
+
+ East Cabilis
+
+ Klok Wartol
+
+
+
+  (93, -298)
+
+
+ East Cabilis
+
+ Klok Stitch
+
+
+
+  (128, -9)
+
+
+ Erudin
+
+ Gayle Weaven
+
+
+
+  (245, 88)
+
+
+ Everfrost Peaks
+
+ Seria O`Danos
+
+
+
+  (3608, 701)
+
+
+ The Feerrott
+
+ Murga
+
+
+
+  (1129, -138)
+
+
+ Firiona Vie
+
+ Erica Swiftweave
+
+
+
+  (-3650, 2013)
+
+
+ Firiona Vie
+
+ Dionin Needlespin
+
+
+
+  (-3642, 1985)
+
+
+ East Freeport
+
+ Winsa Tanner
+
+
+
+  (38, -539)
+
+
+ Greater Faydark
+
+ Merchant Gaeadin
+
+
+
+  (-114, -131)
+
+
+ Highpass Hold
+
+ Dyona Rossook
+
+
+
+  (-248, 135)
+
+
+ Misty Thicket
+
+ Tipa Lighten
+
+
+
+  (581, -2202)
+
+
+ Neriak Commons
+
+ Garren D`Vek
+
+
+
+  (-4, -996)
+
+
+ Neriak Third Gate
+
+ Hutyn L`Lozz
+
+
+
+  (747, -1293)
+
+
+ North Qeynos
+
+ Nerissa Clothspinner
+
+
+
+  (-10, -7)
+
+
+ Northern Desert of Ro
+
+ Spoolie Gee
+
+
+
+  (3371, 488)
+
+
+ Oggok
+
+ Gretamog
+
+
+
+  (627, 693)
+
+
+ The Overthere
+
+ Tin Merchant IX
+
+
+
+  (2658, 2615)
+
+
+ Western Plains of Karana
+
+ Alysa
+
+
+
+  (431, -4364)
+
+
+ Western Plains of Karana
+
+ Cleet Miller
+
+
+
+  (-2253, -4128)
+
+
+ Steamfont Mountains
+
+ Freed Fimplefur
+
+
+
+  (-1696, 829)
+
+
+ Thurgadin
+
+ Rexx Frostweaver
+
+
+
+  (-272, 133)
+
+
+ Thurgadin
+
+ Betti Frostweaver
+
+
+
+  (-264, 133)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+
+
+
+

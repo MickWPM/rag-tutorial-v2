@@ -1,0 +1,39 @@
+ITEM NAME: Frost Temper
+
+
+Frost Temper
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 135)
+ Yield: Frost Temper x1
+ In Brew Barrel:
+
+
+  1 x Brandy - Crafted, Bought, Dropped
+  2 x Essence of Winter - Dropped
+  1 x Ice Goblin Blood - Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Barbarian Culture Smithing (Trivial: Various)
+
+
+
+
+

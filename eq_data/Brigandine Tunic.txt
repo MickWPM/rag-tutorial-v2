@@ -1,0 +1,33 @@
+ITEM NAME: Brigandine Tunic
+
+
+Brigandine Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 17
+STR: +7  STA: +4
+WT: 6.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Lower Guk
+
+ a ghoul sentinel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

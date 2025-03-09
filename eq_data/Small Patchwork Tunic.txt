@@ -1,0 +1,30 @@
+ITEM NAME: Small Patchwork Tunic
+
+Were you looking for Large Patchwork Armor Set? Were you looking for Patchwork Armor Set?
+
+Small Patchwork Tunic
+
+
+Slot: CHEST
+AC: 6
+WT: 2.6  Size: MEDIUM
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Patchwork Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 26) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

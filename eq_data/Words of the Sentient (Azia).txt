@@ -1,0 +1,38 @@
+ITEM NAME: Words of the Sentient (Azia)
+
+Classic Era (added 1999-2000)
+
+
+Words of the Sentient (Azia)
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~16-29 mob
+
+Ocean of Tears
+
+ A Shark
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Restless Bones (Trivial: 26)
+
+
+
+
+

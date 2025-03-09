@@ -1,0 +1,34 @@
+ITEM NAME: Scourgetail Bracer
+
+Kunark Era (added 2000)
+
+Scourgetail Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 4
+DEX: +2  STA: +2
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ a scourgetail scorpion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

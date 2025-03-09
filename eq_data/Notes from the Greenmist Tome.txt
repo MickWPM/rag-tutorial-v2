@@ -1,0 +1,55 @@
+ITEM NAME: Notes from the Greenmist Tome
+
+Velious Era (added December 2000-2001)
+
+
+Notes from the Greenmist Tome
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusaders of Greenmist (#8) 
+
+  Book contents 
+I made these notes from my interpretation of the Sarnak tome.
+Read them carefully.
+The weaponsmith who created the Greenmist still exists in some form. He has been
+tormented for a very long time and may not remember his art. If this is the case, there may
+still be some chance of recovering the design of the sacred blade. The key lies
+with the Lich-King's beloved.
+It is rumored the lich had a mirror created that allows his beloved Drusella to see her
+former self in its reflection. Perhaps this artifact can offer you some assistance in this quest.
+Several items will be needed to recreate the Greenmist Khukri. A special hammer was
+specifically created to fold and sculpt the weapon's blade. Both the Greenmist and this
+hammer were created on the same day. Only the year is known. The year was 1406.
+The tome mentions that the Sarnak were actively seeking the tool.
+The formula that will be needed to smelt the Tynnonium is written in the back of this
+book. Use this book when you find the forge needed to create the Khukri. You will
+need a design pattern, the block of Tynnonium, the hammer, and this tome to
+create the Greenmist blade.
+To finish the weapon, you will need the Lord of Pain's Khukri, this tome, the hammer,
+the Greenmist blade, and a Greenmist shard or fragment. We have not found any
+Greenmist fragments.
+All items must be forged in the hottest of all forges, the Forge of Dalnir.
+May the will of Cazic-Thule guide you
+---Zimor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Non-Tradeskill
+ Greenmist Khukri Blade (Trivial: No-Fail)
+
+
+
+
+

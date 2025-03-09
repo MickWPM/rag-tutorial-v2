@@ -1,0 +1,37 @@
+ITEM NAME: Earring of Fire Reflection
+
+
+Earring of Fire Reflection
+
+
+MAGIC ITEM
+Slot: EAR
+AC: 1
+SV FIRE: +5
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Erud's Crossing
+
+ an erudite madman
+
+  Sold by 
+Lavastorm Mountains
+
+ Jengo Smirt
+
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

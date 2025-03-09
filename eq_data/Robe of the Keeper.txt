@@ -1,0 +1,38 @@
+ITEM NAME: Robe of the Keeper
+
+
+ 
+Robe of the Keeper
+
+
+MAGIC ITEM  QUEST ITEM
+Slot: CHEST
+AC: 8
+INT: +2
+WT: 3.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ Ssynthi
+
+Temple of Solusek Ro
+
+ a keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

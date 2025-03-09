@@ -1,0 +1,36 @@
+ITEM NAME: Signet Ring
+
+Velious Era (added December 2000-2001)
+
+
+Signet Ring
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Felkak's Signet Ring 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an undead bridesmaid
+ Daman
+ Nosja
+ Priest Majes Medory
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vkjor's Minor Task (Maybe)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

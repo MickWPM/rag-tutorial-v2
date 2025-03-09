@@ -1,0 +1,44 @@
+ITEM NAME: Bunch of Optic Nerves
+
+Classic Era (added 1999-2000)
+
+Bunch of Optic Nerves
+
+
+MAGIC ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Clan Runnyeye
+
+ an Evil Eye prisoner
+ an Evil Eye (Runnyeye)
+
+Beholder's Maze
+
+ an Evil Eye (Beholder's Maze)
+ Lord Soptyvr
+ Lord Sviir
+ Lord Syrkl
+
+Lower Guk
+
+ An Evil Eye (Lower Guk)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crafted Bracers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Iksar Skull Helm
+
+
+Iksar Skull Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 5
+WIS: +3
+WT: 1.0  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak adherant
+ a Sarnak broodling
+ a Sarnak hatchling
+ a Sarnak legionnaire
+ a Sarnak recruit
+ a Sarnak revenant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

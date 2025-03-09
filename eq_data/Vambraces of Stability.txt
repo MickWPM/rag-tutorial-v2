@@ -1,0 +1,38 @@
+ITEM NAME: Vambraces of Stability
+
+Velious Era (added December 2000-2001)
+
+
+Vambraces of Stability
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 19
+DEX: +3  WIS: +2  HP: +35
+WT: 6.0  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a contemplative thifling
+ a gale wolf
+ a thifling sprite
+ Gale Wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

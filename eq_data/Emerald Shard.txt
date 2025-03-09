@@ -1,0 +1,35 @@
+ITEM NAME: Emerald Shard
+
+
+
+Emerald Shard
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Shard of Stormhammer I
+ Item Lore (from Identify): Shard of Stormhammer II
+Multiple items with the same name. 
+
+  Drops From 
+North Qeynos
+
+ Faldor Hendrys
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scouts Leggings
+ Eye of Stormhammer Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

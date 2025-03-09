@@ -1,0 +1,36 @@
+ITEM NAME: Barbed Ringmail Shoulderpads
+
+Velious Era (added December 2000-2001)
+This is part of the Barbed Ringmail Armor set.
+
+
+Barbed Ringmail Shoulderpads
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 19
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 0.3  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Velketors Experiment
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

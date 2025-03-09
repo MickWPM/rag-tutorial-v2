@@ -1,0 +1,33 @@
+ITEM NAME: Hammerhead Helm
+
+
+Hammerhead Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 13
+STR: +7  STA: +7
+WT: 4.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD
+Race: HUM BAR ERU ELF HIE DEF HEF DWF TRL OGR HFL GNM
+
+
+ Item Lore (from Identify):  'Hammerhead Helmet'  
+
+  Drops From 
+Kedge Keep
+
+ Cauldronbubble
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

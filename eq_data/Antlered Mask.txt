@@ -1,0 +1,37 @@
+ITEM NAME: Antlered Mask
+
+Velious Era (added December 2000-2001)
+
+
+
+Antlered Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 7
+STR: +3  DEX: +2  AGI: +5
+WT: 0.2  Size: SMALL
+Class: WAR RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Reivaj the Battlerager
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bvellos' Bounty
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

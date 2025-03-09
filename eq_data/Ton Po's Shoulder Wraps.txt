@@ -1,0 +1,34 @@
+ITEM NAME: Ton Po's Shoulder Wraps
+
+Sky Era (added January 2000)
+
+
+Ton Po's Shoulder Wraps
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 8
+STR: +4  DEX: +4  AGI: +4
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 0.3  Size: SMALL
+Class: MNK
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Tears
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

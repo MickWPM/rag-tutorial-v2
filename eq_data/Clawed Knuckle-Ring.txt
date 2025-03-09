@@ -1,0 +1,37 @@
+ITEM NAME: Clawed Knuckle-Ring
+
+
+Clawed Knuckle-Ring
+
+
+MAGIC ITEM
+Slot: FINGER
+HP: +20
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+High Keep
+
+ Dyrna Nlith
+ Tyrana Slil
+
+Najena
+
+ Najena (NPC)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

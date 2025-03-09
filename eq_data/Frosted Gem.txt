@@ -1,0 +1,43 @@
+ITEM NAME: Frosted Gem
+
+Velious Era (added December 2000-2001)
+
+
+
+Frosted Gem
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE SECONDARY
+STR: -5  INT: +3  MANA: +30
+WT: 0.5  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a blizzard dervish
+ a snow dervish
+
+Iceclad Ocean
+
+ a snow dervish
+ Pulsating Icestorm
+ A Frost Giant Scout
+ A Frost Giant Elite
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

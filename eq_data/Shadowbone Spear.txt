@@ -1,0 +1,36 @@
+ITEM NAME: Shadowbone Spear
+
+Velious Era (added December 2000-2001)
+
+Shadowbone Spear
+
+
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 27
+DMG: 6 
+AGI: +2
+SV MAGIC: +3
+WT: 6.8  Size: LARGE
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a shadowbone
+ a shadow beast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

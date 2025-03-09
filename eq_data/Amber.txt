@@ -1,0 +1,442 @@
+ITEM NAME: Amber
+
+
+Amber
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used by jewelcrafters
+
+VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 2 Platinums
+ 3 Golds
+ 9 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Mistmoore Castle
+
+ a dark elf noble
+ a dark offerer
+ a dark ritualist
+ a dark sacrificer
+ a ghostly ancille
+ a glyphed forbidder
+ a Mistmoore guard
+ a shadowy sage
+ a shadowy scribe
+ a shadowy scrivener
+ a soul inveigling
+ a soul seductress
+ a soul temptress
+ a spectral ancille
+ a spiritish ancille
+ a thought defiler
+ a thought spoiler
+ a vampire noble
+ a vampire oracle
+ a vampiric ancille
+ a wightish ancille
+ Princess Cherista
+
+Clan Runnyeye
+
+ a goblin warlord
+ an Evil Eye prisoner
+
+Crystal Caverns
+
+ a stalag terror
+
+Eastern Plains of Karana
+
+ a hill giant
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a dry bone skeleton
+ a lurking mummy
+ a skeletal monk
+ dark boned skeleton
+ Torklar Battlemaster
+
+Everfrost Peaks
+
+ an ice giant
+
+Frontier Mountains
+
+ a burynai miner
+
+Beholder's Maze
+
+ an evil eye
+
+Greater Faydark
+
+ a faerie guard
+ a faerie noble
+ a pixie trickster
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ zombie trooper
+
+Lake of Ill Omen
+
+ a goblin warrior
+ goblin warlord
+
+Lesser Faydark
+
+ a faerie
+ a faerie guard
+ Princess Joleena
+ Thistle Underbrush
+
+Najena
+
+ A Necromancer
+
+Northern Karana
+
+ a griffon
+
+Northern Desert of Ro
+
+ a crypt mummy
+ a sand giant
+
+Rathe Mountains
+
+ a hill giant
+ Blackwing
+
+Southern Desert of Ro
+
+ a desert madman
+ a spectre
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Stonebrunt Mountains
+
+ An Elder Panda
+
+Swamp of No Hope
+
+ froglok shin shaman
+ man eating plant
+ man eating vine
+
+The Wakening Land
+
+ a drixie thane
+
+Upper Guk
+
+ a large heart spider
+
+Warsliks Woods
+
+ a forest giant greenwood
+ a skulking brute
+ goblin spirit caller
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Tika Shockstep
+
+
+
+  (917, 721)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ West Freeport
+
+ Zasrin Blueflame
+
+
+
+  (148, -763)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ The Overthere
+
+ Finlay Kitoran
+
+
+
+  (2769, 2365)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+  Related quests 
+ Necromancer Words - X`Ta Tempi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Amber Ring (Trivial: 35)
+ Electrum Amber Earring (Trivial: 100)
+ Golden Amber Earring (Trivial: 172)
+ Platinum Amber Ring (Trivial: 244)
+
+
+
+
+

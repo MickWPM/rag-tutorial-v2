@@ -1,0 +1,33 @@
+ITEM NAME: Shrub Lettuce
+
+
+
+Shrub Lettuce
+
+
+NO DROP  QUEST ITEM
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ man eating shrub
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Catfish Croak Sandwich Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

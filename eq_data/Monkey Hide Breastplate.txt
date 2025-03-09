@@ -1,0 +1,35 @@
+ITEM NAME: Monkey Hide Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Monkey Hide Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 25
+STR: +15  STA: +15  AGI: +10  HP: +60
+SV DISEASE: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.5  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

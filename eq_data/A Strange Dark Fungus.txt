@@ -1,0 +1,31 @@
+ITEM NAME: A Strange Dark Fungus
+
+
+
+A Strange Dark Fungus
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kaladim
+
+ This item is harvested from the ground at Greybloom Farms (#9 on the map) in North Kaladim.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Unknown Use
+
+
+
+

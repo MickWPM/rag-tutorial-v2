@@ -1,0 +1,36 @@
+ITEM NAME: Noctivagant Bracer
+
+Velious Era (added December 2000-2001)
+
+
+Noctivagant Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 15
+STR: +3  STA: +2  HP: +10  MANA: +10
+WT: 3.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+Part of the Noctivagant Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a gale wolf
+ Gale Wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

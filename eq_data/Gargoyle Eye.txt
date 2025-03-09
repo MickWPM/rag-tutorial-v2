@@ -1,0 +1,61 @@
+ITEM NAME: Gargoyle Eye
+
+
+Gargoyle Eye
+
+
+QUEST ITEM
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 9 Platinums
+ 8 Golds
+ 8 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Mistmoore Castle
+
+ a flouting gargoyle
+ a grinning gargoyle
+ a jeering gargoyle
+ a leering gargoyle
+ a sneering gargoyle
+
+Lower Guk
+
+ a basalt gargoyle
+ a clay gargoyle
+
+Ocean of Tears
+
+ a gargoyle
+
+Skyshrine
+
+ A Gargoyle Guardian
+ Patroller Victan
+
+The Overthere
+
+ Tektite
+ Tourmaline
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shovel of Ponz Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

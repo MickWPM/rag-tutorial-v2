@@ -1,0 +1,48 @@
+ITEM NAME: Pixie Dust
+
+Classic Era (added 1999-2000)
+
+Pixie Dust
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Greater Faydark
+
+ a pixie trickster
+
+Lesser Faydark
+
+ a pixie prankster
+ a pixie trickster
+
+Toxxulia Forest
+
+ a pixie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Pixie Dust (Kelethin Ranger)
+ Pixie Dust (Kelethin Rogue)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Pixie Powder Cinnesticks (Trivial: 202)
+
+ Poison Making
+ Essence of Rallos (Trivial: 268)
+
+
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Clean Lakewater
+
+Epic Quests Era (added Sept 2000)
+Clean Lakewater
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify):  Water from Lake Rathe 
+
+  Drops From 
+Lake Rathetear
+
+ corrupted shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

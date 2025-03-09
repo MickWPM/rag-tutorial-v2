@@ -1,0 +1,28 @@
+ITEM NAME: Large Barrel
+
+Velious Era (added December 2000-2001)
+
+
+Large Barrel
+
+
+WT: 9.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: GIANT
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ Bendad the Trader
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

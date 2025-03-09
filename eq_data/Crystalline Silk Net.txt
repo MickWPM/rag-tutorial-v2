@@ -1,0 +1,47 @@
+ITEM NAME: Crystalline Silk Net
+
+Velious Era (added December 2000-2001)
+
+
+
+Crystalline Silk Net
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 2
+Effect:  Ensnaring Roots (Any Slot, Casting Time: 2.0)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Rechargeable for about 1048p (merchants buy for 2 and sell for 1048). Note that if both charges are used, the net disappears. Previously inferior than Wooly Spider Silk Net, especially for tanks and monks. Both have 2 second cast duration now. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 9 Golds
+ 1 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a crystal crawler
+ a crystal spider
+
+Thurgadin
+
+ a crystal spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

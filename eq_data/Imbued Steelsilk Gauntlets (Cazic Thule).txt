@@ -1,0 +1,57 @@
+ITEM NAME: Imbued Steelsilk Gauntlets (Cazic Thule)
+
+Velious Era (added December 2000-2001)
+
+
+Imbued Steelsilk Gauntlets
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 12
+STR: +7  DEX: +6  CHA: -2  INT: +2  HP: +8  MANA: +12
+SV POISON: +4
+WT: 1.8  Size: SMALL
+Class: CLR SHD
+Race: ERU
+Deity: Cazic-Thule
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 262)
+ Yield: Imbued Steelsilk Gauntlets x1
+ In Erudite Sewing Kit:
+
+
+  1 x Imbued Amber - Summoned
+  1 x Glove Pattern - Bought
+  1 x Platinum Thread - Bought
+  2 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Fashionquest 
+
+Teomus, Cleric of Cazic-Thule in full visible Cazic Steelsilk.
+
+
+
+Cultural Tradeskills Pages
+Barbarian • Dark Elf • Dwarf • Erudite • Gnome • Half Elf • Halfling • High Elf • Human • Iksar • Ogre • Troll • Wood Elf
+
+
+
+
+

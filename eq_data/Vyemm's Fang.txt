@@ -1,0 +1,36 @@
+ITEM NAME: Vyemm's Fang
+
+Velious Era (added December 2000-2001)
+ 
+Vyemm`s Fang
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 17
+DMG: 13   AC: 35
+STR: +15  AGI: +15  HP: +50
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.0  Size: TINY
+Class: SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Vyemm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

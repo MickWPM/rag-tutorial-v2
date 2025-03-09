@@ -1,0 +1,39 @@
+ITEM NAME: Platinum Fire Wedding Ring
+
+Classic Era (added 1999-2000)
+
+Platinum Fire Wedding Ring
+
+
+Slot: FINGER
+AC: 5
+HP: +55
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 145p 3g 4s 9c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 268)
+ Platinum Fire Wedding Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Platinum Bar - Summoned
+  1 x Fire Opal - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

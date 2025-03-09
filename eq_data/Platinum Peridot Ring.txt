@@ -1,0 +1,38 @@
+ITEM NAME: Platinum Peridot Ring
+
+
+
+Platinum Peridot Ring
+
+
+Slot: FINGER
+AC: 4
+SV COLD: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 258)
+ Platinum Peridot Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Platinum Bar - Summoned
+  1 x Peridot - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

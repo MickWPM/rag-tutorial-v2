@@ -1,0 +1,71 @@
+ITEM NAME: Words of Burnishing
+
+
+Words of Burnishing
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 2p 3g 3s 5c 
+
+  Drops From 
+Burning Woods
+
+ a tatterback ape
+
+City of Mist
+
+ a phantom
+ a wraith
+
+Howling Stones
+
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+
+Lesser Faydark
+
+ a brownie guard
+
+Lower Guk
+
+ the ghoul arch magus
+
+The Wakening Land
+
+ A Faerie Dragon
+
+Nagafen's Lair
+
+ imp protector
+
+Skyfire Mountains
+
+ a wurm
+
+Timorous Deep
+
+ a Raptor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Dead Man Floating (Trivial: 162) (Research Only)
+
+
+
+
+

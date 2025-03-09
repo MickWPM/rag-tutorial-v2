@@ -1,0 +1,48 @@
+ITEM NAME: Thunder Runed War Spear
+
+Velious Era (added December 2000-2001)
+
+Thunder Runed War Spear
+
+
+MAGIC ITEM  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 30
+DMG: 13   AC: 5
+HP: +25
+SV MAGIC: +5
+WT: 9.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+ Item Lore (from Identify): War Spear of the Kromzek 
+
+  Drops From 
+Kael Drakkel
+
+ Adjutant Cryyrn
+ Adjutant Daggeruk
+ Adjutant Derkan
+ Adjutant Droggren
+ Adjutant Frinevrn
+ Adjutant Hekrandor
+ Adjutant Hoggren
+ Adjutant Jharll
+ Adjutant Khellendor
+ Adjutant Stormkeeper
+ Adjutant Strongaxe
+ Adjutant Thyek
+ Adjutant Velsharek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

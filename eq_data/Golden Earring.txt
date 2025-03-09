@@ -1,0 +1,279 @@
+ITEM NAME: Golden Earring
+
+Classic Era (added 1999-2000)
+
+Golden Earring
+
+
+Slot: EAR
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendor trash. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 7 Golds
+ 6 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Befallen
+
+ Priest Amiaz
+
+Blackburrow
+
+ a gnoll commander
+
+Butcherblock Mountains
+
+ an undead king
+
+Cobalt Scar
+
+ a bulthar
+
+West Commonlands
+
+ a hill giant
+ an air elemental
+ orc oracle
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Erud's Crossing
+
+ a shark
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+
+Lake of Ill Omen
+
+ a goblin skirmisher
+
+Lake Rathetear
+
+ a stone skeleton
+ Cyanelle
+
+Lavastorm Mountains
+
+ a fire drake
+
+Lesser Faydark
+
+ a faerie courtier
+ Whimsy Larktwitter
+
+Rathe Mountains
+
+ a hill giant
+
+Northern Desert of Ro
+
+ a crypt mummy
+ a desert madman
+ a shriveled mummy
+
+Old Sebilis
+
+ myconid warrior
+
+Rivervale
+
+ Nillipuss
+
+Southern Desert of Ro
+
+ an orc priest
+ Cazel
+
+Steamfont Mountains
+
+ a harpy
+ a mountain brownie
+ an earth elemental
+
+Swamp of No Hope
+
+ man eating fern
+
+Upper Guk
+
+ a fungus breeder
+ a fungus drone
+
+Warsliks Woods
+
+ A Forest Giant Evergreen
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ East Freeport
+
+ Tarker Gargurd
+
+
+
+  (61, -890)
+
+
+ East Freeport
+
+ Sun Alemaker
+
+
+
+  (127, -254)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Tin Merchant X
+
+
+
+  (2697, 2620)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

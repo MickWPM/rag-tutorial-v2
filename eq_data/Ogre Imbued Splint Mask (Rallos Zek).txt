@@ -1,0 +1,43 @@
+ITEM NAME: Ogre Imbued Splint Mask (Rallos Zek)
+
+
+
+Ogre Imbued Splint Mask
+
+
+Slot: FACE
+AC: 6
+STR: +3
+WT: 2.5  Size: SMALL
+Class: WAR SHD SHM
+Race: HUM BAR HEF TRL OGR
+Deity: Rallos Zek
+
+
+Part of the ogre cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 143)
+ Yield: Ogre Imbued Splint Mask x1
+ In Oggok Forge:
+
+
+  1 x Blood Temper - Crafted
+  1 x Imbued Jade - Summoned
+  1 x Large Chainmail Veil Pattern - Bought
+  1 x Large Leather Mask - Crafted, Bought
+  1 x Sheet of Adamantite - Crafted, Bought
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

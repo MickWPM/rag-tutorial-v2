@@ -1,0 +1,38 @@
+ITEM NAME: Sarnak Dragoon Helm
+
+Kunark Era (added 2000)
+
+
+Sarnak Dragoon Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  TEMPORARY
+Slot: HEAD
+AC: 8
+SV MAGIC: +5
+WT: 5.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak dragoon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 6
+ (this is a post-Velious era quest and therefore not available on P99)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

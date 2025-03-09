@@ -1,0 +1,241 @@
+ITEM NAME: Natures Beverages
+
+Classic Era (added 1999-2000)
+Natures Beverages
+
+
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork brewmaster
+
+
+
+  (1265, -924)
+
+
+ Butcherblock Mountains
+
+ Inudul Dumirgun
+
+
+
+  (2837, -682)
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Brewer Prixal
+
+
+
+  (678, -26)
+
+
+ Firiona Vie
+
+ Frothy
+
+
+
+  (-2979, 2973)
+
+
+ West Freeport
+
+ Krystin Charcoal
+
+
+
+  (102, 9)
+
+
+ Grobb
+
+ Gartonka
+
+
+
+  (141, -306)
+
+
+ Halas
+
+ Becka McGuzzlin
+
+
+
+  (198, -144)
+
+
+ High Keep
+
+ a clerk
+
+
+
+  (-77, -187)
+
+
+ High Keep
+
+ a dealer
+
+
+
+  (-70, -355)
+
+
+ High Keep
+
+ a dealer
+
+
+
+  (-101, -326)
+
+
+ Highpass Hold
+
+ a dealer
+
+
+
+  (426, -260)
+
+
+ Highpass Hold
+
+ a dealer
+
+
+
+  (340, -244)
+
+
+ Highpass Hold
+
+ Lyn Tarburner
+
+
+
+  (-146, 493)
+
+
+ South Kaladim
+
+ Hanamaf Darkfoam
+
+
+
+  (95, 233)
+
+
+ Neriak Foreign Quarter
+
+ Wiska
+
+
+
+  (159, -104)
+
+
+ Neriak Foreign Quarter
+
+ Ghrag
+
+
+
+  (-259, -260)
+
+
+ Oggok
+
+ Korgarg Swillchugger
+
+
+
+  (182, -235)
+
+
+ Western Plains of Karana
+
+ Cleet Miller
+
+
+
+  (-2253, -4128)
+
+
+ South Qeynos
+
+ Heidi Grainsifter
+
+
+
+  (-169, -278)
+
+
+ Rivervale
+
+ Burtle Barrelbelly
+
+
+
+  (-37, -174)
+
+
+ Thurgadin
+
+ Tobart Dirkins
+
+
+
+  (-332, -9)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Nature's Beverages
+Tunare has blessed us with fruits all over Norrath that
+may be brewed into healthy and refreshing beverages.
+Water may be distilled from the pods of certain plants.
+Four pods of water may be distilled in a brew barrel to
+fill one bottle.
+A vast variety of fruits, berries, and leaves can be
+found on flora throughout Norrath that make tasty
+juices and teas. Two fruits, berries, or leaves and one
+flask of water usually will produce plenty of juice to
+quench one's thirst.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

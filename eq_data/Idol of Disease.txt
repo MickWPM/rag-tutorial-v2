@@ -1,0 +1,33 @@
+ITEM NAME: Idol of Disease
+
+Velious Era (added December 2000-2001)
+
+
+Idol of Disease
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 6.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Semkak Prophet of Vallon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Four Idols
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

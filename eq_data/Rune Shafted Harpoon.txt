@@ -1,0 +1,33 @@
+ITEM NAME: Rune Shafted Harpoon
+
+Velious Era (added December 2000-2001)
+Rune Shafted Harpoon
+
+
+LORE ITEM NO DROP
+Slot: RANGE PRIMARY
+Skill: 1H Piercing Atk Delay: 37
+DMG: 15
+STA: +5 HP: +10 MANA: +10
+SV COLD: +10
+WT: 7.5 Size: LARGE
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Mighty Snowfang Hero
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

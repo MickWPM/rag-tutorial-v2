@@ -1,0 +1,32 @@
+ITEM NAME: Gretta's Baking Supplies
+
+Warrens Era (added spring 2001)
+
+
+Gretta's Baking Supplies
+
+
+LORE ITEM
+WT: 3.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Property of Gretta Mottle
+Dropped on the ground by Buggle Palkin in Butcherblock Mountains (he drops it randomly while walking the road between Kaladim and the docks). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gretta's Baking Supplies Quest
+ Muffin Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

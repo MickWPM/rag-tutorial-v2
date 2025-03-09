@@ -1,0 +1,35 @@
+ITEM NAME: Sash of Infinite Blows
+
+Warrens Era (added spring 2001)
+
+
+Sash of Infinite Blows
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 5
+Haste: +41%  
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: ALL
+
+
+No longer drops? [1] [2] 
+
+  Drops From 
+Plane of Fear
+
+ Dracoliche
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

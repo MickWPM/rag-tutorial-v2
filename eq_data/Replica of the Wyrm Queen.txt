@@ -1,0 +1,36 @@
+ITEM NAME: Replica of the Wyrm Queen
+
+Sky Era (added January 2000)
+
+
+Replica of the Wyrm Queen
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Turn into Sirran the Lunatic on Island eight of Plane of Sky to obtain the key to get to the final Island 8 Veeshan's Key. 
+
+  Drops From 
+Plane of Sky
+
+ a greater sphinx
+ a heartsbane drake
+ an undine spirit
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Plane of Sky Keys
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

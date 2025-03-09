@@ -1,0 +1,37 @@
+ITEM NAME: Sword of the Morning
+
+Kunark Era (added 2000)
+
+ 
+Sword of the Morning
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 16 
+DEX: +10
+Effect:  Tishan's Clash (Combat, Casting Time: Instant) at Level 50
+WT: 1.0  Size: MEDIUM
+Class: PAL
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ Hierophant Prime Grekal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

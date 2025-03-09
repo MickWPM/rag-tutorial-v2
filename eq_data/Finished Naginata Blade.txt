@@ -1,0 +1,40 @@
+ITEM NAME: Finished Naginata Blade
+
+Velious Era (added December 2000-2001)
+
+Finished Naginata Blade
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 20.1  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Blacksmithing (Trivial: 192-200~)
+ Yield: Finished Naginata Blade x1
+ In Forge:
+
+
+  1 x Clay coated blade - Crafted
+  1 x Gray Colored Ice - Ground Spawn 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Ethereal Bladed Naginata
+
+
+
+
+

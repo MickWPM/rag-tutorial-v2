@@ -1,0 +1,88 @@
+ITEM NAME: Bleeding Kromzek
+
+Velious Era (added December 2000-2001)
+
+
+Bleeding Kromzek
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Karey
+
+
+
+  (-38, 84)
+
+
+ Thurgadin
+
+ Celtir Gronback
+
+
+
+  (119, -406)
+
+
+ Thurgadin
+
+ Klarp Bartleby
+
+
+
+  (61, -380)
+
+
+ Thurgadin
+
+ Bixx Bartleby
+
+
+
+  (45, -380)
+
+
+ Thurgadin
+
+ Adia Coldbeard
+
+
+
+  (-57, 107)
+
+
+ Thurgadin
+
+ Durgan Bottlenip
+
+
+
+  (-329, -28)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

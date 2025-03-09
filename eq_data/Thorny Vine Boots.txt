@@ -1,0 +1,39 @@
+ITEM NAME: Thorny Vine Boots
+
+
+
+Thorny Vine Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 14
+STR: +5  STA: +5  AGI: +9
+SV POISON: +7
+WT: 4.9  Size: MEDIUM
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Part of the Thorny Vine Armor set. 
+
+  Drops From 
+Plane of Fear
+
+ a tentacle tormentor
+
+Plane of Hate
+
+ a haunted chest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

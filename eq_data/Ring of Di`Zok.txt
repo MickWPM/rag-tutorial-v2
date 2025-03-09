@@ -1,0 +1,34 @@
+ITEM NAME: Ring of Di`Zok
+
+Chardok Revamp Era (added late 2001)
+
+Ring of Di`zok
+
+
+MAGIC ITEM 
+Slot: FINGER
+AC: 6
+HP: +25 MANA: +50
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Telin: Adjusted a Wizened Herb Collector and a Alchemist's Acolyte loot tables. Added 05/01/2020 [1] 
+
+  Drops From 
+Chardok (Post-Revamp)
+
+ a Alchemist`s Acolyte
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

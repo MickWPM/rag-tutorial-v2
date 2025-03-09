@@ -1,0 +1,35 @@
+ITEM NAME: Fish Rolls
+
+
+Fish Rolls
+
+
+This is a banquet sized meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 135)
+ Yield: Fish Rolls x1
+ In Oven:
+
+
+  1 x Bat Wing - Bought, Dropped
+  1 x Fresh Fish - Bought, Dropped, Fished 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

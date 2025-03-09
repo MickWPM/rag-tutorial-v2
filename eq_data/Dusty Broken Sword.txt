@@ -1,0 +1,35 @@
+ITEM NAME: Dusty Broken Sword
+
+
+
+Dusty Broken Sword
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Found in the mines of Kaladim, ground spawn in the water at roughly +761, +291. 
+
+  Drops From 
+Kaladim
+
+ Ground Spawn
+ (761, 291) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bones of Darak Lightforge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

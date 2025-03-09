@@ -1,0 +1,34 @@
+ITEM NAME: Bronze Statue of Bathezid
+
+Chardok Revamp Era (added late 2001)
+
+Bronze Statue of Bathezid
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE
+STA: +6  HP: +25  MANA: +25
+SV DISEASE: +10
+WT: 3.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Overking Bathezid 
+
+  Drops From 
+Chardok
+
+ Captain Di`ouz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,128 @@
+ITEM NAME: Investigator's Briefing
+
+Warrens Era (added spring 2001)
+
+
+Investigator's Briefing
+
+
+LORE ITEM  NODROP
+WT: 0.1  Size: TINY
+
+
+ Item Lore (from Identify): Briefing to test for and obtain an Investigator's Badge 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Qeynos Badge Quests 
+
+  Book contents 
+Common Tongue:
+
+*Confidential: For Your Eyes Only*
+
+Please read and memorize 
+the instructions in this 
+booklet.
+If your test is successful,
+you shall receive your 
+badge.
+
+It is imperative that you 
+follow the proper protocols
+in the execution of these 
+directives. 
+There is currently an 
+investigator who has been 
+on the trail of three 
+suspected members of the 
+Bloodsabers operating in 
+Southern Qeynos.
+
+You are to locate the 
+investigator and give him 
+this briefing document.
+Ask the investigator for 
+the location of the first, 
+second and third suspects. 
+You are to pursue the 
+suspects in the proper 
+order. 
+
+Then ask the investigator 
+to follow you. Keep him 
+with you at all times. He 
+has been instructed to make
+this test difficult in 
+order to test your ability 
+to memorize and follow 
+protocol.
+
+
+
+The investigator will offer
+assistance in the event a 
+suspect is not cooperative.
+When you locate a suspect, 
+you must confront them with
+the direct question:
+Are you a member of the 
+Bloodsabers?
+
+If they answer in the 
+affirmative you are to ask 
+investigator for a 
+confession
+document.
+Give the suspect the 
+confession document and 
+have them sign it.
+
+
+Tell the investigator to 
+summon a guard. The guard 
+will escort the suspect 
+into custody.
+You are to follow this 
+protocol with all three 
+suspects. Bear in mind that
+once word gets out the 
+suspects may flee. Make 
+haste.
+When you have collected all
+three confessions, you are 
+to give them to the 
+investigator who will then 
+reward you with your 
+Investigator's Badge.
+Note: Any unprovoked 
+hostility against those 
+acting in an official 
+capacity by serving 
+warrants or collecting 
+
+confessions will be taken 
+as an admission of guilt. 
+In this case, the head of 
+the suspect will be 
+accepted in lieu of the 
+signed confession and 
+overwhelming force is both 
+encouraged and recommended.
+
+
+Long Live Antonius Bayle IV
+Regards,
+Vegalys Keldrane,
+Lord Magistrate.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

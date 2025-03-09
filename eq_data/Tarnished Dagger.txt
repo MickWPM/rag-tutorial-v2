@@ -1,0 +1,43 @@
+ITEM NAME: Tarnished Dagger
+
+Classic Era (added 1999-2000)
+
+
+Tarnished Dagger
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 3 
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunare Scouts Dagger
+
+  Player crafted 
+ Blacksmithing (Trivial: 18)
+ Yield: Tarnished Dagger x1
+ In Forge:
+
+
+  1 x Rusty Dagger - Bought, Quested, Dropped, Fished
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

@@ -1,0 +1,44 @@
+ITEM NAME: Silk Evening Tunic
+
+
+Silk Evening Tunic
+
+
+Slot: CHEST
+AC: 1
+CHA: +5
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ South Qeynos
+
+ Iala Lenard
+
+
+
+  (177, -148)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

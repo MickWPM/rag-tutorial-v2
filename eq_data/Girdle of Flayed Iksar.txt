@@ -1,0 +1,34 @@
+ITEM NAME: Girdle of Flayed Iksar
+
+Chardok Revamp Era (added late 2001)
+
+Girdle of Flayed Iksar
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 6
+STA: +8  WIS: +8  MANA: +30
+WT: 3.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Foreman Mirt`akk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

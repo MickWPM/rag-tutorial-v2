@@ -1,0 +1,39 @@
+ITEM NAME: Crystallized Shadow Star
+
+Velious Era (added December 2000-2001)
+
+
+Crystallized Shadow Star
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 37
+DMG: 9 
+STR: +2  STA: +2  CHA: +1  HP: +5
+WT: 10.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a blood familiar
+ an angry librarian
+ an enraged relative
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

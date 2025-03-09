@@ -1,0 +1,34 @@
+ITEM NAME: Gloves of Kromzek Might
+
+Velious Era (added December 2000-2001)
+
+Gloves of Kromzek Might
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 6
+STR: +20
+WT: 2.0  Size: SMALL
+Class: WAR
+Race: ALL except ERU HIE
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ a holgresh raider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Rare Robe Pattern
+
+
+
+Rare Robe Pattern
+
+
+LORE ITEM  NO DROP
+This item can be used in tradeskills.
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Monk Robe of The Lost Circle 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Circle
+ Monks of The Whistling Fist
+ Monk Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

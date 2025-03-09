@@ -1,0 +1,34 @@
+ITEM NAME: Celestial Temper
+
+Classic Era (added 1999-2000)
+
+
+Celestial Temper
+
+
+WT: 0.1  Size: SMALL Class: ALL Race: ALL
+
+
+Used to make Infused Platinum Thread for Leatherfoot Haversack (post-luclin?). Does this really exist on P99? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 136)
+ Yield: Celestial Temper x1
+ In Brewing Barrel:
+
+
+  1 x Blue Diamond Powder - Crafted
+  1 x Purified Water - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

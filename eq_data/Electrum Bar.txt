@@ -1,0 +1,207 @@
+ITEM NAME: Electrum Bar
+
+
+Electrum Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Vendors sell this for approximately 2p6g5s 
+
+  Drops From 
+Beholder's Maze
+
+ a muddite recordkeeper
+ Qlei
+
+Plane of Mischief
+
+ TwentyTwo
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Freeport
+
+ Amber (NPC)
+
+
+
+  (-184, 202)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ Felwithe
+
+ Merchant Nora
+
+
+
+  (144, -414)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ Neriak Commons
+
+ Zartox Ru`Soe
+
+
+
+  (82, -901)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ North Qeynos
+
+ Ziska Ironforge
+
+
+
+  (52, 60)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+ Jewelcrafting
+ Electrum Malachite Bracelet (Trivial: 74)
+ Electrum Lapis Lazuli Earring (Trivial: 76)
+ Electrum Turquoise Engagement Ring (Trivial: 79)
+ Electrum Hematite Choker (Trivial: 82)
+ Electrum Cat Eye Bracelet  (Trivial: 84)
+ Electrum Bloodstone Necklace (Trivial: 87)
+ Electrum Onyx Pendant (Trivial: 90)
+ Electrum Jasper Earring (Trivial: 92)
+ Electrum Carnelian Wedding Ring (Trivial: 95)
+ Electrum Star Amulet (Trivial: 98)
+ Wolf's Eye Electrum Bracelet (Trivial: 103)
+ Jaded Electrum Bracelet  (Trivial: 106)
+ Electrum Pearl Choker (Trivial: 108)
+ Topaz Electrum Earring (Trivial: 111)
+ Electrum Peridot Bracelet (Trivial: 114)
+ Emerald Electrum Bracelet (Trivial: 116)
+ Electrum Opal Amulet (Trivial: 119)
+ Black Pearl Electrum Choker (Trivial: 122)
+ Electrum Fire Wedding Ring (Trivial: 124)
+ Electrum Star Ruby Ring (Trivial: 127)
+ Fire Emerald Electrum Bracelet (Trivial: 130)
+ Ruby Electrum Ring (Trivial: 135)
+ Jacinth Electrum Wedding Ring (Trivial: 138)
+ Black Sapphire Electrum Earring (Trivial: 140)
+ Diamond Electrum Mask (Trivial: 143)
+ Blue Diamond Electrum Earring (Trivial: 148)
+
+
+
+
+

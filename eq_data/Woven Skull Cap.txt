@@ -1,0 +1,34 @@
+ITEM NAME: Woven Skull Cap
+
+Sky Era (added January 2000)
+
+
+Woven Skull Cap
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 4
+MANA: +5
+SV POISON: +2
+WT: 0.1  Size: SMALL
+Class: WIZ
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Focus
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

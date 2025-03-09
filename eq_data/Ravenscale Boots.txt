@@ -1,0 +1,36 @@
+ITEM NAME: Ravenscale Boots
+
+
+Ravenscale Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 10
+DEX: +2  CHA: +5
+SV DISEASE: +2  SV POISON: +2
+WT: 3.6  Size: MEDIUM
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Part of the Ravenscale Armor Set. 
+
+  Drops From 
+Cazic Thule
+
+ Cazic Cenobite
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

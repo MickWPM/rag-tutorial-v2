@@ -1,0 +1,37 @@
+ITEM NAME: Blade of Falling Stars
+
+Hole Era (added June 2000)
+
+
+Blade of Falling Stars
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 28
+DMG: 4 
+SV COLD: +10
+Effect:  Frost Shards (Combat, Casting Time: Instant) at Level 50
+WT: 1.8  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Hoshkar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

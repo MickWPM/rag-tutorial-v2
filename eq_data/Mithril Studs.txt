@@ -1,0 +1,39 @@
+ITEM NAME: Mithril Studs
+
+
+
+Mithril Studs
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 47)
+ Yield: Mithril Studs x2
+ In Fier'Dal Forge:
+
+
+  1 x File - Crafted, Returned on Failure, Returned on Success
+  3 x Mithril Bits - Crafted
+  1 x Morning Dew - Foraged, Dropped, Ground Spawn 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Various Wood Elf Cultural Recipes
+
+
+
+
+

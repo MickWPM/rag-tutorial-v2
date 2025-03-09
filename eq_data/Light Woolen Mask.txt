@@ -1,0 +1,33 @@
+ITEM NAME: Light Woolen Mask
+
+Sky Era (added January 2000)
+
+
+Light Woolen Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE BACK
+AC: 5
+STA: +2  CHA: +2
+WT: 0.2  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Tone
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

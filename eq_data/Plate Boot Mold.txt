@@ -1,0 +1,63 @@
+ITEM NAME: Plate Boot Mold
+
+
+
+Plate Boot Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Northern Felwithe
+
+ Nerrisia Irontree
+
+
+
+  (-88, -395)
+
+
+ East Freeport
+
+ Valentin Fireheart
+
+
+
+  (54, -167)
+
+
+ South Qeynos
+
+ Liln Sedder
+
+
+
+  (537, -45)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Fine Plate Boots (Trivial: 167)
+
+
+
+
+

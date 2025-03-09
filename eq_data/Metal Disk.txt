@@ -1,0 +1,54 @@
+ITEM NAME: Metal Disk
+
+
+
+Metal Disk
+
+
+LORE ITEM
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Freeport
+
+ Svinal Wyspin
+
+
+
+  (64, -154)
+
+
+ North Freeport
+
+ Falia Frikniller
+
+
+
+  (-107, 78)
+
+  Related quests 
+ The Painting
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

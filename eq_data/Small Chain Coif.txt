@@ -1,0 +1,116 @@
+ITEM NAME: Small Chain Coif
+
+
+
+Small Chain Coif
+
+
+Slot: HEAD
+AC: 7
+WT: 3.4  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork armorer
+
+
+
+  (1208, -714)
+
+
+ Ak'Anon
+
+ a clockwork armorer
+
+
+
+  (1228, -706)
+
+
+ Ak'Anon
+
+ a clockwork armorer
+
+
+
+  (1223, -720)
+
+
+ Butcherblock Mountains
+
+ Gand Truelink
+
+
+
+  (-1309, -1994)
+
+
+ North Kaladim
+
+ Dindaek Everhot
+
+
+
+  (392, -174)
+
+
+ Neriak Commons
+
+ Krivn S`Tai
+
+
+
+  (63, -886)
+
+
+ Ocean of Tears
+
+ Doran Vargnus
+
+
+
+  (1287, -9244)
+
+
+ Rivervale
+
+ Kevlin Diggs
+
+
+
+  (-157, -228)
+
+
+ Thurgadin
+
+ Terman Underbelly
+
+
+
+  (-421, -112)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

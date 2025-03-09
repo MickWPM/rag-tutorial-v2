@@ -1,0 +1,50 @@
+ITEM NAME: Sylvan Berries
+
+
+Sylvan Berries
+
+
+This is a meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark (Unconfirmed on P99)
+
+ a brownie
+ a brownie outcast
+ a faerie
+ a faerie guard
+ a fairy guard
+ brownie scout
+ orc centurion
+ orc chief
+ orc oracle
+ tainted brownie
+ Whimsy Larktwitter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Faydwer Schnapps (Trivial: 148)
+ Flask of Sylvan Berry Juice (Trivial: 26)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Lesser Faydark
+ Mistmoore Castle
+
+

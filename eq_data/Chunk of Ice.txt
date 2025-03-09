@@ -1,0 +1,42 @@
+ITEM NAME: Chunk of Ice
+
+Kunark Era (added 2000)
+
+
+Chunk of Ice
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Drops from Golra as of patch 56 of P99 Green server. 
+
+  Drops From 
+Timorous Deep
+
+ a golra
+ a hulking golra
+ Halara
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Root Beer Float (Trivial: 21)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Timorous Deep
+
+

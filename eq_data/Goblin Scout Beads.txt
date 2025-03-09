@@ -1,0 +1,44 @@
+ITEM NAME: Goblin Scout Beads
+
+Kunark Era (added 2000)
+
+
+Goblin Scout Beads
+
+
+NO DROP
+Slot: NECK
+AC: 1
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a goblin scout
+
+Lavastorm Mountains
+
+ goblin scout Item drops Kunark era. [1]
+
+Warsliks Woods
+
+ a goblin scout
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Curscale Shield
+ The Restraining Order
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

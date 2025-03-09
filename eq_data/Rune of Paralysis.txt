@@ -1,0 +1,69 @@
+ITEM NAME: Rune of Paralysis
+
+
+Rune of Paralysis
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+City of Mist
+
+ a phantom
+
+Cobalt Scar
+
+ a siren enchantress
+
+Dreadlands
+
+ a glacier yeti
+ a plaguebone thief
+ a ravishing drolvarg
+
+Eastern Wastes
+
+ a manticore
+ a wooly rhino
+
+Everfrost Peaks
+
+ an ice giant
+
+Karnor's Castle
+
+ a drolvarg sentry
+
+North Kaladim
+
+ Guard Dalthur
+
+Lower Guk
+
+ a zol ghoul knight
+ a dar ghoul knight
+
+The Hole
+
+ an elemental warrior
+
+Timorous Deep
+
+ a Spiroc Warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

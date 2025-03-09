@@ -1,0 +1,45 @@
+ITEM NAME: Ivory Handled Cleaver
+
+Kunark Era (added 2000)
+Ivory Handled Cleaver
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 43
+DMG: 12 
+WT: 11.0  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Mohin
+
+
+
+  (426,590)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Blood Runed Scimitar
+
+Velious Era (added December 2000-2001)
+
+
+Blood Runed Scimitar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 10 
+Effect: Lifedraw (Combat, Casting Time: Instant)
+WT: 5.0  Size: TINY
+Class: WAR SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Failed Experiment
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

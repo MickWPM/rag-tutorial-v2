@@ -1,0 +1,35 @@
+ITEM NAME: Velium Mastodon Fur
+
+Velious Era (added December 2000-2001)
+
+Velium Mastodon Fur
+
+
+MAGIC ITEM
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ a glacier mastodon
+ Tantor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Velium Mastodon Fur Cloak (Trivial: 335)
+
+
+
+
+

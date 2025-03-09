@@ -1,0 +1,32 @@
+ITEM NAME: Live Enchanted Rat: Jar 1
+
+
+
+Live Enchanted Rat: Jar 1
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): Enchanted rat with disease nullifying properties 
+
+  Drops From 
+Western Plains of Karana
+
+ Oobnopterbevny Biddilets
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Researcher's Badge (Badge #3)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Fist of Lightning
+
+
+
+Fist of Lightning
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+Skill: 1H Blunt  Atk Delay: 18
+DMG: 15 
+Haste: +41%  
+STR: +8  DEX: +8  AGI: +8
+SV MAGIC: +10
+WT: 0.0  Size: TINY
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+Does not drop until October 2001 [1] e.g. post Velious-launch, pre Luclin-launch. 
+
+  Drops From 
+Temple of Veeshan
+
+ Eashen of the Sky
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

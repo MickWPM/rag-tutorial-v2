@@ -1,0 +1,31 @@
+ITEM NAME: Jaled Dar's Tomb Key
+
+Velious Era (added December 2000-2001)
+
+
+Jaled Dar's Tomb Key
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Opens the door to Jaled Dar`s shade. Or, a Rogue with 210+ lockpick can also open it? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Key to Jaled Dar's Lair (Neb)
+ Key to Jaled Dar's Lair (Zlandicar)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

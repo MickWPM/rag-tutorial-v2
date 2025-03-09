@@ -1,0 +1,33 @@
+ITEM NAME: A captured message
+
+Chardok Revamp Era (added late 2001)
+A captured message
+
+
+LORE ITEM
+WT: 0.2  Size: SMALL
+
+
+Not known to be part of any quest. Requires skill with Elder Dragon language in order to read. 
+
+  Drops From 
+Chardok
+
+ a Security Advisor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Master Druushk, Several visions have come to me in my sleep over the past week. These dreams could not have been of my own creation. There is some force moving around me that I cannot identify. I fear that this presence will make itself known soon. I must assume at this time that Korucust is working to expose me. Perhaps he has gained some understanding of my true nature. I do not know why he would play these games rather than just expose me to the council. Loyal servant of the Ring, Vrasyk
+
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

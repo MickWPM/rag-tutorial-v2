@@ -1,0 +1,32 @@
+ITEM NAME: Sands of the Mystics
+
+
+
+Sands of the Mystics
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ The Tangrin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

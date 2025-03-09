@@ -1,0 +1,51 @@
+ITEM NAME: Head Housekeeper's Log
+
+Kunark Era (added 2000)
+
+
+Head Housekeeper's Log
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+
+
+ Item Lore (from Identify):  A Book From Ghiosk's Collection 
+
+  Drops From 
+City of Mist
+
+ Lord Ghiosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest 
+
+  Book contents 
+Keeper of the House's log
+1. New wash basins must be acquired. Servant Hujin will see the Quartermaster and
+place the order tomorrow.
+2. The chandelier in the main hall was finally repaired tonight. Payment must be sent
+to the contract holder tomorrow.
+3. Advisor Snith ordered that I personally find and acquire 3 dozen finely made vials.
+What they are for he would not explain and was very firm that I do this as quickly
+as possible. Best to make haste to fulfill the order, rumors abound of the Advisor's
+mastery of the arcane.
+4. We've been low on candles for the last week. There is no explanation for the shortage
+of wax says our civilian contract holder. Perhaps I should send a Palace Reaver escort with
+the next pick up crew. The craftsman may have the intelligence to figure the symbolism.
+5. It is imperative that we return the High Scale's Icon to the church as discretely
+as possible. If Rak Ashiir returns from his journey early and discovers it was found
+in the royal bedroom it may prove disastrous. I cannot decide whether to place it
+ourselves with help of our Black Guard, or to approach one of our contacts in the
+church. The less people that know of this the better. It might be prudent to ..remove..
+the servant who found it within the sheets.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

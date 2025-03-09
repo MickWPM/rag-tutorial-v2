@@ -1,0 +1,180 @@
+ITEM NAME: Claymore
+
+
+
+Claymore
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 43
+DMG: 11 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1253, -715)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1329, -762)
+
+
+ Felwithe
+
+ Tolis Fearnone
+
+
+
+  (-105, -339)
+
+
+ North Freeport
+
+ Rhensa Steadirt
+
+
+
+  (-10, 534)
+
+
+ North Freeport
+
+ Ardiflah Steadirt
+
+
+
+  (-27, 482)
+
+
+ Grobb
+
+ Tangiz
+
+
+
+  (433, -239)
+
+
+ Halas
+
+ Kevan McPherson
+
+
+
+  (210, -324)
+
+
+ Highpass Hold
+
+ Dovik Greenbane
+
+
+
+  (-318, -113)
+
+
+ South Kaladim
+
+ Didek Stormhammer
+
+
+
+  (136, 221)
+
+
+ North Kaladim
+
+ Murlond Everhot
+
+
+
+  (367, -173)
+
+
+ Neriak Foreign Quarter
+
+ Kruna
+
+
+
+  (-308, -456)
+
+
+ Neriak Commons
+
+ Zanotix Ixtaz
+
+
+
+  (81, -868)
+
+
+ Oggok
+
+ Varrok Neckchopper
+
+
+
+  (324, -212)
+
+
+ The Overthere
+
+ Tin Merchant VII
+
+
+
+  (2617, 2587)
+
+
+ South Qeynos
+
+ Barthal
+
+
+
+  (-55, -303)
+
+
+ South Qeynos
+
+ Moran Smith
+
+
+
+  (-60, -246)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

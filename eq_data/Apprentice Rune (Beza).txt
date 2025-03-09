@@ -1,0 +1,39 @@
+ITEM NAME: Apprentice Rune (Beza)
+
+Classic Era (added 1999-2000)
+
+
+Apprentice Rune (Beza)
+
+
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (Trivial: No Fail)
+ Yield: Apprentice Rune (Beza) x1
+ In Concordance of Research:
+
+
+  1 x Quill - Bought
+  1 x Piece of Parchment - Bought
+  1 x Cats Eye Agate - Bought/Dropped
+  1 x Large Snake Rattle - Dropped
+  1 x Any Rusty Piercing or Bludgeoning Weapon - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

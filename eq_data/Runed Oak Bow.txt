@@ -1,0 +1,36 @@
+ITEM NAME: Runed Oak Bow
+
+Classic Era (added 1999-2000)
+
+Runed Oak Bow
+
+
+MAGIC ITEM  
+Slot: RANGE
+Skill: Archery  Atk Delay: 43
+DMG: 21
+WT: 4.5  Range: 125  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+A nice long range dropped bow from vanilla 
+ Merchant resale value: 3p 6g 9s 1c 
+
+  Drops From 
+Southern Karana
+
+ Coloth Meadowgreen
+ Kroldir Thunderhoof
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

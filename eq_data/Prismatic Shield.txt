@@ -1,0 +1,33 @@
+ITEM NAME: Prismatic Shield
+
+
+Prismatic Shield
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+AC: 18
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 7.3  Size: MEDIUM
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Cleric of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

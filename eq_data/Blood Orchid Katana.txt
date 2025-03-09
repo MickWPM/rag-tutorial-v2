@@ -1,0 +1,36 @@
+ITEM NAME: Blood Orchid Katana
+
+Hole Era (added June 2000)
+ 
+Blood Orchid Katana
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 12 
+STR: +6  DEX: +6  STA: +6  AGI: +6
+Effect:  Spirit of Wolf (Must Equip, Casting Time: 8.0) at Level 50
+WT: 2.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Druushk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

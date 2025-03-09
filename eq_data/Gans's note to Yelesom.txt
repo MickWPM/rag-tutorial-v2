@@ -1,0 +1,33 @@
+ITEM NAME: Gans's note to Yelesom
+
+Warrens Era (added spring 2001)
+
+
+Gans's note to Yelesom
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Geologist's Purloined Tools 
+
+  Book contents 
+Written in Common:
+
+Brother, Your report is two weeks late. I fear something has harmed you and have sent this courier to inquire about your well being. Please send the courier backwith message of your health and progress. Regards, Gans.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

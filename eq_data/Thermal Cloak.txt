@@ -1,0 +1,40 @@
+ITEM NAME: Thermal Cloak
+
+Not craftable until July 2000 era: https://www.project1999.com/forums/showthread.php?t=385511
+
+
+Thermal Cloak
+
+
+Slot: BACK
+AC: 6
+SV COLD: +20
+WT: 0.7  Size: MEDIUM
+Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC
+Race: GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 82)
+ Yield: Thermal Cloak x1
+ In: Toolboxes
+
+
+  1 x Tattered Gnomish Cloak - Dropped
+  1 x Metal Rod - Bought
+  1 x Firewater - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

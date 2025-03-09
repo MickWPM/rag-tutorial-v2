@@ -1,0 +1,38 @@
+ITEM NAME: Root Beer Float
+
+Classic Era (added 1999-2000)
+
+
+Root Beer Float
+
+
+This is a drink!
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 21)
+ Yield: Root Beer Float x1
+ In Brewing Barrel:
+
+
+  1 x Chunk of Ice - Foraged, Dropped
+  1 x Frosting - Bought
+  1 x Stormguard Root Beer - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

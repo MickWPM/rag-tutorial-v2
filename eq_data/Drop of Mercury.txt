@@ -1,0 +1,48 @@
+ITEM NAME: Drop of Mercury
+
+
+Drop of Mercury
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Hole
+
+ an elemental deceiver
+ an elemental warrior
+ an elemental channeler
+ an elemental visier
+ an elemental crusader
+ an elemental capturer
+ an elemental harvester
+ an elemental wizard
+
+Steamfont Mountains
+
+ an earth elemental
+
+Najena
+
+ an earth elemental
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Earthen Temper (Trivial: 135)
+
+
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Barnacle-covered Pauldron
+
+Classic Era (added 1999-2000)
+
+Barnacle-covered Pauldron
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 6
+SV COLD: +5
+WT: 4.5  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Dagnor's Cauldron
+
+ Barnacle Bones
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

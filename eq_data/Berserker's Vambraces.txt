@@ -1,0 +1,39 @@
+ITEM NAME: Berserker's Vambraces
+
+Velious Era (added December 2000-2001)
+
+
+Berserker's Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 24
+STR: +4  AGI: +5  HP: +25
+SV DISEASE: +2
+WT: 6.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+Part of the Berserker's Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a feral amalgam
+ a spirit flux wolf
+ Grahl Strongback
+ Sarik the Fang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

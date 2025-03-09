@@ -1,0 +1,37 @@
+ITEM NAME: Nilitim's Grimoire Pg. 415
+
+Classic Era (added 1999-2000)
+Nilitim's Grimoire Pg. 415
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~49 mob
+
+Timorous Deep
+
+ a Raptor
+ Dinus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Blanket of Forgetfulness (Trivial: 182) (Research Only)
+
+
+
+
+

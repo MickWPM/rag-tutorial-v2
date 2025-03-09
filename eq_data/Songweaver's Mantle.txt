@@ -1,0 +1,35 @@
+ITEM NAME: Songweaver's Mantle
+
+Sky Era (added January 2000)
+
+
+Songweaver's Mantle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+Charges: 5
+AC: 9
+DEX: +7  CHA: +5  AGI: +5
+Effect:  Fury (Must Equip, Casting Time: Instant) at Level 45
+WT: 2.5  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Voice
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

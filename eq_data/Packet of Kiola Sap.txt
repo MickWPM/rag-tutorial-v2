@@ -1,0 +1,667 @@
+ITEM NAME: Packet of Kiola Sap
+
+
+
+Packet of Kiola Sap
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Sass
+
+
+
+  (667, -38)
+
+
+ West Commonlands
+
+ Innkeep Seke
+
+
+
+  (-104, 465)
+
+
+ West Commonlands
+
+ Innkeep Redthorn
+
+
+
+  (-401, 2763)
+
+
+ Crystal Caverns
+
+ Gilliad Coldheart
+
+
+
+  (-171, 344)
+
+
+ East Commonlands
+
+ Innkeep Leo
+
+
+
+  (-319, 2977)
+
+
+ East Commonlands
+
+ Innkeep Elora
+
+
+
+  (-184, 71)
+
+
+ East Commonlands
+
+ Innkeep Fenia
+
+
+
+  (1021, 3731)
+
+
+ East Commonlands
+
+ Innkeep Calen
+
+
+
+  (315, 4890)
+
+
+ Firiona Vie
+
+ Samson
+
+
+
+  (-2952, 2977)
+
+
+ East Freeport
+
+ Lynda Tapper
+
+
+
+  (-296, -213)
+
+
+ East Freeport
+
+ Cloud Alemaker
+
+
+
+  (116, -267)
+
+
+ East Freeport
+
+ River Alemaker
+
+
+
+  (127, -270)
+
+
+ East Freeport
+
+ Sun Alemaker
+
+
+
+  (127, -254)
+
+
+ East Freeport
+
+ Roghur Muleson
+
+
+
+  (-24, -492)
+
+
+ North Freeport
+
+ Judicla Riverfield
+
+
+
+  (70, -34)
+
+
+ North Freeport
+
+ Shania Tassel
+
+
+
+  (85, -34)
+
+
+ West Freeport
+
+ Drona Whystlethin
+
+
+
+  (-120, -473)
+
+
+ West Freeport
+
+ Swin Blackeye
+
+
+
+  (-158, -527)
+
+
+ Greater Faydark
+
+ Barkeep Tuviena
+
+
+
+  (132, 822)
+
+
+ Highpass Keep
+
+ Dealer Shonta
+
+
+
+  (-54, -324)
+
+
+ Highpass Hold
+
+ Paulina
+
+
+
+  (-234, 9)
+
+
+ Highpass Hold
+
+ Bartender
+
+
+
+  (395, -184)
+
+
+ Highpass Hold
+
+ Bartender
+
+
+
+  (403, -165)
+
+
+ Highpass Hold
+
+ Bartholemew
+
+
+
+  (-212, 11)
+
+
+ South Kaladim
+
+ Dura Darkfoam
+
+
+
+  (108, 233)
+
+
+ South Kaladim
+
+ Tumpy Irontoe
+
+
+
+  (178, 313)
+
+
+ Kerra Island
+
+ Raarrk
+
+
+
+  (108, 131)
+
+
+ Neriak Foreign Quarter
+
+ Damar Nislan
+
+
+
+  (177, -196)
+
+
+ Neriak Foreign Quarter
+
+ Tala Felton
+
+
+
+  (136, -98)
+
+
+ Neriak Foreign Quarter
+
+ Darien Felton
+
+
+
+  (136, -93)
+
+
+ Neriak Foreign Quarter
+
+ Tanai Tanbor
+
+
+
+  (215, -242)
+
+
+ Neriak Foreign Quarter
+
+ Sera Buelle
+
+
+
+  (255, -262)
+
+
+ Neriak Foreign Quarter
+
+ Uawn Betell
+
+
+
+  (246, -227)
+
+
+ Neriak Foreign Quarter
+
+ Yala Thiss
+
+
+
+  (242, -265)
+
+
+ Neriak Foreign Quarter
+
+ Slunga
+
+
+
+  (-336, -194)
+
+
+ Neriak Commons
+
+ Rysva To`Biath
+
+
+
+  (11, -848)
+
+
+ Neriak Commons
+
+ Marenkor To`Biath
+
+
+
+  (9, -837)
+
+
+ Neriak Commons
+
+ Myrva N`Tan
+
+
+
+  (9, -837)
+
+
+ Neriak Commons
+
+ Myrva N`Tan
+
+
+
+  (-97, -1218)
+
+
+ Neriak Commons
+
+ Lysanda S`Kor
+
+
+
+  (40, -1218)
+
+
+ Neriak Commons
+
+ Frivsa Punox
+
+
+
+  (35, -1238)
+
+
+ Neriak Commons
+
+ Svlis C`Luzz
+
+
+
+  (-90, -1239)
+
+
+ Neriak Commons
+
+ Rista S`lon
+
+
+
+  (-152, -1011)
+
+
+ Neriak Commons
+
+ Tenso H`Rugla
+
+
+
+  (-153, -1042)
+
+
+ Neriak Third Gate
+
+ Grazis L`Crit
+
+
+
+  (703, -1472)
+
+
+ Neriak Third Gate
+
+ Katara L`Crit
+
+
+
+  (701, -1474)
+
+
+ Northern Karana
+
+ Barkeep Milo
+
+
+
+  (432, 2248)
+
+
+ Northern Karana
+
+ Barkeep Jeny
+
+
+
+  (416, 2222)
+
+
+ Oasis of Marr
+
+ Innkeep Tizzy
+
+
+
+  (-1307, -306)
+
+
+ Paineel
+
+ Loleluz
+
+
+
+  (949, 822)
+
+
+ Paineel
+
+ Archenm
+
+
+
+  (945, 829)
+
+
+ Paineel
+
+ Lolenton
+
+
+
+  (950, 836)
+
+
+ Paineel
+
+ Gernatis
+
+
+
+  (944, 848)
+
+
+ Paineel
+
+ Taralani Rahnta
+
+
+
+  (934, 805)
+
+
+ South Qeynos
+
+ Sunsa Jocub
+
+
+
+  (-305, -276)
+
+
+ South Qeynos
+
+ Fish Ranamer
+
+
+
+  (-292, -269)
+
+
+ South Qeynos
+
+ Rucio Divella
+
+
+
+  (330, -507)
+
+
+ South Qeynos
+
+ Sissy Huntlan
+
+
+
+  (231, -129)
+
+
+ South Qeynos
+
+ Tasya Huntlan
+
+
+
+  (259, -69)
+
+
+ South Qeynos
+
+ Nug Rellash
+
+
+
+  (256, -170)
+
+
+ South Qeynos
+
+ Earron Huntlan
+
+
+
+  (254, -191)
+
+
+ North Qeynos
+
+ Ania Klephia
+
+
+
+  (115, 359)
+
+
+ North Qeynos
+
+ Sabnie Blagard
+
+
+
+  (81, 368)
+
+
+ Rivervale
+
+ Mac Deeppockets
+
+  Inside Fool's Gold
+
+  (-64, -188)
+
+
+ Rivervale
+
+ Flyndia Deeppockets
+
+  Inside Fool's Gold
+
+  (-49, -207)
+
+
+ RunnyEye Citadel
+
+ A goblin bartender
+
+
+
+  (75, 90)
+
+
+ Skyshrine
+
+ Barkeep Droz
+
+
+
+  (492, -654)
+
+
+ Timorous Deep
+
+ Portik Grolam
+
+
+
+  (-11592, -2275)
+
+
+ Timorous Deep
+
+ Micus Vloren
+
+
+
+  (-5195, -4335)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+
+
+ Brewing (Trivial: 46)
+ Yield: Heady Kiola x1
+
+
+https://wiki.project1999.com/Heady_Kiola
+
+ In Brew Barrel:
+
+
+  1 x Bottle - Crafted, Bought, Returned on Failure
+  2 x Packet of Kiola Sap - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+

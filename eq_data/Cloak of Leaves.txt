@@ -1,0 +1,32 @@
+ITEM NAME: Cloak of Leaves
+
+
+Cloak of Leaves
+
+
+Slot: BACK
+AC: 5
+AGI: +7  HP: +5
+WT: 2.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+This is not the Cloak of Leaves (Sky) which has the identical name, but is the original (pre-upgrade) reward for the Druid Test of The Eagle. 
+
+  Drops From 
+Southern Karana
+
+ Grizzleknot
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

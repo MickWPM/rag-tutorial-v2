@@ -1,0 +1,34 @@
+ITEM NAME: Runed Protector's Greaves
+
+Velious Era (added December 2000-2001)
+
+
+Runed Protector's Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 24
+STR: +10  DEX: +4  STA: +4  HP: +60
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+WT: 7.0  Size: LARGE
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Velium Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

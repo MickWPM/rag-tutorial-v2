@@ -1,0 +1,80 @@
+ITEM NAME: Hand Drum
+
+
+Hand Drum
+
+
+Slot: SECONDARY
+Percussion Instrument: 18
+WT: 0.5  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Freeport
+
+ Jekel Enhied
+
+
+
+  (-117, 556)
+
+
+ West Freeport
+
+ Fania Esruc
+
+
+
+  (-251, -820)
+
+
+ Greater Faydark
+
+ Merchant Tenra
+
+
+
+  (-215, 255)
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+
+ Rathe Mountains
+
+ Lianna Ferasa
+
+
+
+  (3989, 1477)
+
+  Related quests 
+ Spiderling Silks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

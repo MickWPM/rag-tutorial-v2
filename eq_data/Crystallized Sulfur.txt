@@ -1,0 +1,293 @@
+ITEM NAME: Crystallized Sulfur
+
+
+Crystallized Sulfur
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is used for some Tunare faction quest in Wakening Land. Also used in Poison Making.
+
+VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 1 Golds
+ 5 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a cinder hornet
+ a sarnak champion
+ a sarnak enthusiast
+ a sarnak extremist
+ a sarnak knight
+ a sarnak zealot
+ a scoriae hornet
+ a tatterback ape
+ a tottering gorilla
+ an ash hornet
+ an ember hornet
+ Phurzikon
+
+Chardok
+
+ a Di`Zok Cryptmaster
+ a Di`Zok Dragoon
+ a Di`Zok Legionnaire
+ a Reanimated Berserker
+ a Treasury Guard
+ An Imperial Gravemaster
+ an Imperial Inspector
+ an Imperial Officer
+ Observer Aq`touz
+
+City of Mist
+
+ a black reaver
+ a fog golem
+ a mist golem
+ a phantom
+
+Cobalt Scar
+
+ a haunted seachest
+ a siren enticer
+ a wyvern
+ an Othmir Warrior
+ Bungre Crawcrusher
+
+Crypt of Dalnir
+
+ a kly acolyte
+
+Crystal Caverns
+
+ a geonid
+ a life leech
+ a stalag terror
+ a terror carver
+
+Dragon Necropolis
+
+ a dragon construct
+ an amorphous mass
+ an entropy serpent
+
+Dreadlands
+
+ a dread widow
+ a drolvarg gnasher
+ a glacier yeti
+ a tundra yeti
+
+Emerald Jungle
+
+ a raging gorilla
+
+Erud's Crossing
+
+ a killer shark
+
+The Estate of Unrest
+
+ a dark terror
+ a skeletal monk
+ a tentacle terror
+ mortuary fungus
+
+Firiona Vie
+
+ a drachnid webspinner
+ a drolvarg snarler
+ froglok nok shaman
+ froglok shin knight
+ froglok shin warrior
+ froglok tal shaman
+ froglok ton knight
+ froglok tsu shaman
+
+Frontier Mountains
+
+ a burynai miner
+ a mountain giant tump
+ a mountain giant brae
+
+Howling Stones
+
+ a bottomless gnawer
+ a pyre golem
+ a sepulcher spectre
+
+Kaesora
+
+ guardian Of Xalgoz
+ spectral librarian
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ a Drolvarg warlord
+ spectral knight
+
+Kedge Keep
+
+ a gloomstalker mermaid
+ a gloomwater mermaid
+ Phinigel Autropos
+
+Lower Guk
+
+ a reanimated hand
+
+Rathe Mountains
+
+ a barbed bone skeleton
+ a basalt drake
+ a cyclops
+ a drake
+
+Nagafen's Lair
+
+ fire giant warrior
+ imp protector
+ Warlord Skarlon
+
+Northern Karana
+
+ a griffon
+ Briana Treewhisper
+
+Ocean of Tears
+
+ a cyclops
+ a seafury cyclops
+ a spectre
+ an ancient cyclops
+
+Old Sebilis
+
+ a sebilite golem
+ Froggy
+ froglok zol knight
+ Harbinger Freglor
+ Tolapumj
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a gorgon
+ a scareling
+ a shiverback
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Growth
+
+ a feral amalgam
+ a gale wolf
+
+Plane of Hate
+
+ a hatebone drake (2.0)
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+ Mistress of Scorn (2.0)
+
+Rivervale
+
+ a tavern patron
+
+The Hole
+
+ an elemental crusader
+ an elemental warrior
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a neriad maiden
+ a neriad mistress
+ a siren beguiler
+ a siren enticer
+ a siren myrmidon
+ a siren templar
+ an enthralled bulthar
+
+Skyfire Mountains
+
+ a mature wurm
+ a skycinder drake
+ an old wurm
+ Black Scar
+
+Southern Karana
+
+ a cyclops
+ centaur charger
+
+Southern Desert of Ro
+
+ a spectre
+
+Steamfont Mountains
+
+ Minotaur Guard
+ Minotaur Sentry
+
+Stonebrunt Mountains
+
+ a mature panda
+
+Swamp of No Hope
+
+ Frayk
+
+The Overthere
+
+ Zorash
+ a Sarnak berserker
+ a Sarnak enthusiast
+ a Sarnak knight
+
+The Wakening Land
+
+ a geonid
+ a geonid shaman
+ a holgresh elementalist
+ a suit of sentient armor
+ a tar goo
+
+Trakanon's Teeth
+
+ spectral champion
+
+Warsliks Woods
+
+ a forest giant evergreen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunarean Tasks
+ Ulthork Tusks Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Warlords Rage (Trivial: 308)
+
+
+
+
+

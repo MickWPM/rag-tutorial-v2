@@ -1,0 +1,72 @@
+ITEM NAME: Patch Hide Poncho
+
+Kunark Era (added 2000)
+
+
+Patch Hide Poncho
+
+
+Slot: BACK
+AC: 4
+WT: 0.5  Size: MEDIUM
+Class: WAR SHD MNK SHM NEC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Field of Bone
+
+ Klok Tugin
+
+
+
+  (-2361, 3351)
+
+
+ Lake of Ill Omen
+
+ Klok Foob
+
+
+
+  (6133, -6454)
+
+
+ Swamp of No Hope
+
+ Klok Gokrok
+
+
+
+  (2648, 2727)
+
+
+ Warsliks Woods
+
+ Klok Ryre
+
+
+
+  (-2415, -641)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

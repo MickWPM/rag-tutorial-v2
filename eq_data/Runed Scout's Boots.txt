@@ -1,0 +1,33 @@
+ITEM NAME: Runed Scout's Boots
+
+Velious Era (added December 2000-2001)
+
+
+Runed Scout's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 18
+STR: +3  DEX: +2
+WT: 6.0  Size: MEDIUM
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Velium Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

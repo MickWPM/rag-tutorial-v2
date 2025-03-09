@@ -1,0 +1,33 @@
+ITEM NAME: Flayed Turmoilskin Belt
+
+
+Flayed Turmoilskin Belt
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 9
+DEX: +6  WIS: +5
+WT: 0.5  Size: SMALL
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a turmoil toad
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

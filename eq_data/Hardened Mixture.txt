@@ -1,0 +1,39 @@
+ITEM NAME: Hardened Mixture
+
+Epic Quests Era (added Sept 2000)
+Hardened Mixture
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+ Ranger Epic Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Hardened Mixture x1
+ In Ella's Mixing Bowl:
+
+
+  1 x Chilled Tundra Root - Foraged
+  1 x Sweetened Mudroot - Foraged
+  1 x Speckled Molded Mushroom - Foraged
+  1 x Ripened Heartfruit - Foraged 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

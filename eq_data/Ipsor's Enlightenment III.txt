@@ -1,0 +1,45 @@
+ITEM NAME: Ipsor's Enlightenment III
+
+
+
+Ipsor's Enlightenment III
+
+
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1008)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

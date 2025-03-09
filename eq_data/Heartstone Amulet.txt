@@ -1,0 +1,38 @@
+ITEM NAME: Heartstone Amulet
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+
+Heartstone Amulet
+
+
+MAGIC ITEM
+Slot: NECK
+Charges: 5
+AC: 4
+CHA: +9
+Effect: Beguile Undead (Any Slot, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+Nerfed drop.[1] 
+
+  Drops From 
+Castle Mistmoore
+
+ Vampire Bodyguard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

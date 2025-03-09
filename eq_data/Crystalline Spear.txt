@@ -1,0 +1,37 @@
+ITEM NAME: Crystalline Spear
+
+
+Crystalline Spear
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 30
+DMG: 13 
+WT: 6.8  Size: MEDIUM
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Permafrost
+
+ Lady Vox
+
+Timorous Deep
+
+ Faydedar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

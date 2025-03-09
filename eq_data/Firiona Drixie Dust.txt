@@ -1,0 +1,31 @@
+ITEM NAME: Firiona Drixie Dust
+
+
+
+Firiona Drixie Dust
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ Firiona drixie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 6
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

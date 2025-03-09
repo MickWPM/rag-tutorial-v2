@@ -1,0 +1,31 @@
+ITEM NAME: Crate of Defective Arrows
+
+Classic Era (added 1999-2000)
+
+
+Crate of Defective Arrows
+
+
+LORE ITEM  QUEST ITEM
+WT: 10.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Crate (evil)
+ The Crate (good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

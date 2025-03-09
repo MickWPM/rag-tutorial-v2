@@ -1,0 +1,31 @@
+ITEM NAME: Pearl of Odus
+
+Classic Era (added 1999-2000)
+
+
+Pearl of Odus
+
+
+NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Ground spawns underwater in the harbor of Erudin below sand sharks at (-275, -460); (-215, -475); (+5, -485); (+955, -620). (any other /locs?). Respawns in 1 to 2 ticks. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Peacekeeper Staff Quest
+ Odus Pearls
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

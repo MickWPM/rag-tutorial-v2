@@ -1,0 +1,36 @@
+ITEM NAME: 2x Brewed 2x Stout Dwarven Ale
+
+
+
+2x Brewed 2x Stout Dwarven Ale
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 142)
+ Yield: 2x Brewed 2x Stout Dwarven Ale x2
+ In Brewing Barrel:
+
+
+  1 x Cask - Bought
+  2 x Dwarven Ale - Bought
+  2 x Short Beer - Crafted, Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

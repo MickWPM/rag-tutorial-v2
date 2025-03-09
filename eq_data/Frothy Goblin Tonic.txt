@@ -1,0 +1,32 @@
+ITEM NAME: Frothy Goblin Tonic
+
+
+Frothy Goblin Tonic
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Aura of Marr (Any Slot, Casting Time: Instant) as Level 25
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Heals the user for up to several hundred HP and slows their melee attacks by 10% for 5 minutes. The slow can be cured with several casts of Abolish Poison. Edit: the previous trivia, though fascinating, is irrelevant. This heal is classified as a beneficial spell, so after using the potion the slow can simply be clicked off. No need for poison abolishment. 
+
+  Drops From 
+Solusek's Eye
+
+ goblin drunkard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

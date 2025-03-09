@@ -1,0 +1,33 @@
+ITEM NAME: Faun Flute
+
+
+Faun Flute
+
+
+MAGIC ITEM
+Slot: SECONDARY
+Wind Instrument: 21
+CHA: +6
+WT: 1.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ A Faun
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

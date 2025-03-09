@@ -1,0 +1,32 @@
+ITEM NAME: Shiny Pauldrons
+
+Sky Era (added January 2000)
+
+
+Shiny Pauldrons
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 10
+WT: 9.0  Size: MEDIUM
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Protection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

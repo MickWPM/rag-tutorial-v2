@@ -1,0 +1,37 @@
+ITEM NAME: Unicorn Horn
+
+Classic Era (added 1999-2000)
+
+Unicorn Horn
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+Charges: 5
+Wind Instrument: 22
+Effect:  Purge (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+A very nice light source. Comes with up to 5 charges, but may drop with less if the unicorn dispels you during combat. 
+ Merchant resale value: 24.1p 
+
+  Drops From 
+Lesser Faydark
+
+ Equestrielle
+ Equestrielle the Corrupted
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

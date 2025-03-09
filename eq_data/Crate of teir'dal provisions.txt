@@ -1,0 +1,29 @@
+ITEM NAME: Crate of teir'dal provisions
+
+Kunark Era (added 2000)
+
+
+Crate of teir'dal provisions
+
+
+LORE ITEM  NO DROP
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Innoruuk Regent
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Matchless Dragonskin Mask
+
+Velious Era (added December 2000-2001)
+
+
+
+Matchless Dragonskin Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 14
+CHA: +12
+SV FIRE: +8
+WT: 1.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Atpaev
+ Entariz
+ Gafala
+ Vraptin
+ Yal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

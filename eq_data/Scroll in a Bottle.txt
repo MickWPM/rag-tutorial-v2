@@ -1,0 +1,29 @@
+ITEM NAME: Scroll in a Bottle
+
+
+
+Scroll in a Bottle
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Misscribed Fear Ground spawn underwater in the sea bed at +4230, +4220 in the NW corner of Warsliks Woods. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of the Zealot (#4)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

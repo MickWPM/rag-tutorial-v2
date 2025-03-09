@@ -1,0 +1,36 @@
+ITEM NAME: Shiverback-hide Wristbands
+
+Fear Era (added July 1999)
+
+
+Shiverback-hide Wristbands
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+DEX: +5  STA: +5  AGI: +5
+SV DISEASE: +5  SV POISON: +5
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a shiverback
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

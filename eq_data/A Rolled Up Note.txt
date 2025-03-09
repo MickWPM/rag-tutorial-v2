@@ -1,0 +1,29 @@
+ITEM NAME: A Rolled Up Note
+
+Paineel Era (added February 2000)
+Were you looking for Rolled Up Note?
+A Rolled Up Note
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: None
+Race: None
+
+
+ Item Lore (from Identify):  Note to Auhrik Siet`Ka 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Neonate Cowardice
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Nightgrowth Blade
+
+ Naeth <Awakened> shown in primary
+Warrens Era (added spring 2001)
+
+
+Nightgrowth Blade
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 12 
+STR: +8  WIS: +8
+WT: 5.5  Size: SMALL
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ An Agent of Innoruuk
+ Innoruuk's Chosen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Gift
+
+Classic Era (added 1999-2000)
+
+
+Gift
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Call of Flame Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

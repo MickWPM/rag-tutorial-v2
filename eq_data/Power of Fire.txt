@@ -1,0 +1,36 @@
+ITEM NAME: Power of Fire
+
+Epic Quests Era (added Sept 2000)
+
+
+Power of Fire
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Discussion of the drop: here. 
+
+  Drops From 
+Solusek's Eye
+
+ blazing elemental (confirmed)
+ lava elemental (Confirmed)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

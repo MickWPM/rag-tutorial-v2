@@ -1,0 +1,38 @@
+ITEM NAME: An Illegible Note
+
+Kunark Era (added 2000)
+
+
+An Illegible Note
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: There are four identically named items.  Item Lore (from Identify): Notepage 1-4 of Rott 
+
+  Drops From 
+Warsliks Woods
+
+ a goblin soothsayer
+ goblin spirit caller
+
+Lake of Ill Omen
+
+ a goblin soothsayer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Keeper Rott's Pages
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

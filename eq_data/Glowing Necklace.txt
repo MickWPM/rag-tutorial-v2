@@ -1,0 +1,36 @@
+ITEM NAME: Glowing Necklace
+
+Sky Era (added January 2000)
+
+
+Glowing Necklace
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 2
+SV DISEASE: +5  SV POISON: +5
+WT: 1.0  Size: MEDIUM
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Memorization
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,107 @@
+ITEM NAME: Chain Coif
+
+Classic Era (added 1999-2000)Were you looking for Large Chainmail / Iron Armor Set? Were you looking for Small Chainmail / Iron Armor Set?
+
+Chain Coif
+
+
+Slot: HEAD
+AC: 7
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Chainmail / Iron Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin
+
+ Dunore Steelfinger
+
+
+
+  (-725, -286)
+
+
+ Felwithe
+
+ Merchant Silverkale
+
+
+
+  (-90, -436)
+
+
+ Firiona Vie
+
+ Kaydin Gaxx
+
+
+
+  (-2824, 2744)
+
+
+ East Freeport
+
+ Sir Ranlon
+
+
+
+  (63, -217)
+
+
+ Greater Faydark
+
+ Merchant Ainaiana
+
+
+
+  (-480, 51)
+
+
+ Paineel
+
+ Ishen Lelelan
+
+
+
+  (1212, 523)
+
+
+ South Qeynos
+
+ Rane Sedder
+
+
+
+  (526, -33)
+
+
+ Rathe Mountains
+
+ Zok Caropni
+
+
+
+  (-2194, 248)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

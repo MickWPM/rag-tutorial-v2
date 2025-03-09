@@ -1,0 +1,37 @@
+ITEM NAME: Monkey Hide Greaves
+
+Velious Era (added December 2000-2001)
+
+
+Monkey Hide Greaves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 15
+STA: +15  AGI: +15  HP: +30
+SV DISEASE: +5  SV MAGIC: +5
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

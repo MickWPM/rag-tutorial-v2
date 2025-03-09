@@ -1,0 +1,51 @@
+ITEM NAME: Tiny Jade Inlaid Coffin
+
+Classic Era (added 1999-2000)
+
+Tiny Jade Inlaid Coffin
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Reagent for the Conjure Corpse spell. Compare to Jade Inlaid Coffin. Cost: 94pp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Third Gate
+
+ Dvis Zexus
+
+
+
+  (453, -816)
+
+
+ Paineel
+
+ Nedorl Ipabrun
+
+
+
+  (674, 807)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

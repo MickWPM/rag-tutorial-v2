@@ -1,0 +1,48 @@
+ITEM NAME: Practice Rune (Azia)
+
+Classic Era (added 1999-2000)
+
+
+Practice Rune (Azia)
+
+
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (No Fail)
+ Yield: Practice Rune (Azia) x1
+ In Concordance of Research:
+
+
+  1 x Quill - Bought
+  1 x Piece of Parchment - Bought
+  1 x Lapis Lazuli - Bought/Dropped
+  1 x Bat Wing - Bought/Dropped
+  1 x Bone Chips - Dropped
+  Returns quill upon combine 
+
+
+  Tradeskill recipes 
+ Spell Research (Trivial: 21)
+ Yield: Practice Rune (Complete) x1
+ In Lexicon, Elemental Grimoire, Tome of Endless Enchantments, Book of Dark Bindings:
+
+
+  1 x Practice Rune (Azia) - Crafted
+  1 x Practice Rune (Beza) - Crafted
+
+
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Split Paw Hide Tunic
+
+
+Split Paw Hide Tunic
+
+
+Slot: CHEST
+AC: 9
+SV POISON: +10
+WT: 4.0  Size: TINY
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 3g 7s 3c 
+
+  Drops From 
+Southern Karana
+
+ a Lteth Mal Gnoll
+ a Lteth Mas Gnoll
+ a Lteth Val Gnoll
+ a Rosch Mal Gnoll
+ a Rosch Mas Gnoll
+ a Rosch Val Gnoll
+ a Tesch Mal Gnoll
+ a Tesch Mas Gnoll
+ a Tesch Val Gnoll
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

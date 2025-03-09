@@ -1,0 +1,31 @@
+ITEM NAME: Solvedi Scimitar
+
+
+Solvedi Scimitar
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 6 
+WT: 3.0  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Solvedi Scimitar Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

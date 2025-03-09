@@ -1,0 +1,321 @@
+ITEM NAME: Purse
+
+
+
+Purse
+
+
+WT: 0.2  Weight Reduction: 0%
+Capacity: 4  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1265, -777)
+
+
+ West Commonlands
+
+ Ruby Boxcrafter
+
+
+
+  (-213, 591)
+
+
+ Erudin
+
+ Nerth Sailwind
+
+
+
+  (232, 96)
+
+
+ Erudin
+
+ Luren Renthalis
+
+
+
+  (-1156, -61)
+
+
+ Erudin
+
+ Reihan Wilhemson
+
+
+
+  (-906, -88)
+
+
+ Erudin
+
+ Kisrin Breezeshadow
+
+
+
+  (230, -5)
+
+
+ Erudin
+
+ Reko Saltamer
+
+
+
+  (207, -5)
+
+
+ Erudin Palace
+
+ Vall Stonewisp
+
+
+
+  (590, 832)
+
+
+ Erudin Palace
+
+ Tan Monosty
+
+
+
+  (667, 829)
+
+
+ Erudin Palace
+
+ Judge Monosty
+
+
+
+  (689, 829)
+
+
+ Felwithe
+
+ Merchant Issynal
+
+
+
+  (147, -412)
+
+
+ Greater Faydark
+
+ Merchant Aildien
+
+
+
+  (-496, -133)
+
+
+ Greater Faydark
+
+ Merchant Aluuvila
+
+
+
+  (-94, 224)
+
+
+ Greater Faydark
+
+ Merchant Tilluen
+
+
+
+  (-85, 271)
+
+
+ Grobb
+
+ Graktak
+
+
+
+  (50, -396)
+
+
+ Halas
+
+ Rose McDowell
+
+
+
+  (397, 165)
+
+
+ Highpass Keep
+
+ Merchant Dominik
+
+
+
+  (37, 31)
+
+
+ South Kaladim
+
+ Aarina Ratsbone
+
+
+
+  (183, -138)
+
+
+ Kithicor Forest
+
+ Eithne Walker
+
+
+
+  (1427, -825)
+
+
+ Lake Rathetear
+
+ Srynda
+
+
+
+  (-507, 637)
+
+
+ Neriak Foreign Quarter
+
+ Palais Derekor
+
+
+
+  (205, -111)
+
+
+ Northern Karana
+
+ Mrysila
+
+
+
+  (-688, -159)
+
+
+ Oasis of Marr
+
+ Synthan
+
+
+
+  (597, -6)
+
+
+ Oggok
+
+ Brokk Boxtripper
+
+
+
+  (220, 378)
+
+
+ South Qeynos
+
+ Bassanio Weekin
+
+
+
+  (-40, -219)
+
+
+ South Qeynos
+
+ Fellesha Varshen
+
+
+
+  (487, -310)
+
+
+ South Qeynos
+
+ Gahna Salbeen
+
+
+
+  (4, -220)
+
+
+ South Qeynos
+
+ Raheim Varshen
+
+
+
+  (543, -263)
+
+
+ Rathe Mountains
+
+ Roshmael
+
+
+
+  (1592, -888)
+
+
+ Rivervale
+
+ bag merchant
+
+
+
+  (208, -214)
+
+
+ Toxxulia Forest
+
+ Stylla Parsini
+
+
+
+  (2105, 404)
+
+
+ Toxxulia Forest
+
+ Emil Parsini
+
+
+
+  (2119, 423)
+
+  Related quests 
+ Ivan McMannus' Remains
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

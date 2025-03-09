@@ -1,0 +1,33 @@
+ITEM NAME: Razor Tooth
+
+Classic Era (added 1999-2000)
+
+
+Razor Tooth
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kerra Island
+
+ Razortooth (NPC)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Razortooth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

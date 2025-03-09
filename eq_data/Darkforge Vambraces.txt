@@ -1,0 +1,34 @@
+ITEM NAME: Darkforge Vambraces
+
+Temple Era (added October 1999)
+
+
+
+Darkforge Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 11
+STR: +4
+WT: 3.2  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Darkforge Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

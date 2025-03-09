@@ -1,0 +1,81 @@
+ITEM NAME: Manna Robe
+
+Kunark Era (added 2000)
+
+ Clicky Effect in action.
+Manna Robe
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 14
+INT: +8
+Effect:  Mana Conversion (Must Equip, Casting Time: 3.0) at Level 50
+WT: 3.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+Unlike its classic counterpart Manastone, Manna Robe has no zone restrictions for its use but has a 3 second cast time. 
+Activating this item will burn 60 HP and add 20 mana to the user. This effect is similar to a Shaman's Cannibalize spell line, though it is less HP to mana efficient. The 60 HP loss will first burn through a user's Rune or other damage absorb shield before hitting their hit points. This makes Manna Robe an exceptional tool for Wizards when paired with their epic, Staff of the Four, which can be clicked for a resource free 800 damage absorb shield (13 damage free clicks = 260 mana).
+Magicians and Enchanters will find Manna Robes to be an effective tool when mana is needed in an urgent situation. Necromancers can utilize it the same way, but the HP to mana ratio is significantly lower than their Lich spell line. Necromancers can best utilize a Manna Robe by pairing it with a Shissar Seance Staff or a Shissar Deathspeaker Staff which, similar to the Wizard epic, provides resource free pool to burn down into mana. Unlike Wizards though, Necromancers get a smaller pool from their click and require a target, which makes Stalking Probe or Holgresh Elder Beads a valuable tool when there is no clickable target available.
+It's best to use a Manna Robe in a similar fashion to the Shaman Canni-Dance. Every 6 seconds there is a tick that checks your character's state and processes things like regenerated hit points, regained mana, and so on. It doesn't matter what state the character is in between the ticks, only at the tick. This means you can sit to meditate, watch for the tick to give you mana from meditating, then stand up and click a Manna Robe as a Shaman would cast their Cannibalize spell. You'll burn your HP/absorb and gain mana. Immediately after the casting is complete, sit down so that way when the next tick happens, the game treats you as sitting and meditating, so you'll get mana and HP as if you never stood up.
+
+For Magicians this is hands down the best in slot robe and should be every raiding Mage's priority. Couple this with hit point regen items like Zlandicar's HeartZlandicar's Heart
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+STR: +1  DEX: +2  STA: +1  CHA: -10  WIS: +2  INT: +20  AGI: +3
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Regeneration (Worn) 
+WT: 0.0  Size: MEDIUM
+Class: SHD NEC WIZ MAG ENC
+Race: ALL
+
+
+, Ring of Dain Frostreaver IVRing of Dain Frostreaver IV
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 10
+STR: +10  STA: +10  HP: +100
+SV MAGIC: +10
+Effect:  Frostreaver's Blessing (Must Equip, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+, and Spirit Wracked CordSpirit Wracked Cord
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS ARMS WRIST
+AC: 12
+STA: +5  HP: +100
+SV COLD: +10  SV MAGIC: +5
+Effect: Aura of Battle (Worn)  
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ along with Phantom Armor and Regrowth of the Grove to maximize the hit point loss from using the robe. As a Mage there is no need to canni dance as it is almost as effective to stand and spam click the robe. Spam clicking the robe will yield about 20 clicks in 64 seconds, netting 400 mana versus sitting at 21 mana per tick or 210 mana in 60 seconds. 
+  Drops From 
+Old Sebilis
+
+ Trakanon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,123 @@
+ITEM NAME: Raw-hide Gloves
+
+Classic Era (added 1999-2000)Were you looking for Large Raw-Hide Armor Set? Were you looking for Small Raw-Hide Armor Set?
+
+Raw-hide Gloves
+
+
+Slot: HANDS
+AC: 4
+WT: 2.2  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Raw-hide Armor Set 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 8 Golds
+ 6 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Befallen
+
+ an elf skeleton
+
+Mistmoore Castle
+
+ a glyphed familiar
+ a pledge familiar
+ an initiate familiar
+
+Commonlands
+
+ a ghoul
+ a lesser mummy
+ a zombie
+ an orc legionnaire
+ orc legionnaire
+
+Crushbone
+
+ orc legionnaire
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+Erud's Crossing
+
+ a zombie sailor
+
+The Estate of Unrest
+
+ a ghoul
+
+Highpass Hold
+
+ an orc acolyte
+ an orc warrior
+ Recfek Shralok
+
+High Keep
+
+ a crazed goblin
+
+Lavastorm Mountains
+
+ goblin warrior
+
+Lesser Faydark
+
+ a rancorous ghast
+ orc chief
+
+Rathe Mountains
+
+ Maldyn the Unkempt
+
+Nektulos Forest
+
+ a rotting citizen
+ a rotting initiate
+
+Northern Desert of Ro
+
+ a crypt mummy
+ a desert madman
+ a ghoul
+ a lesser mummy
+ a madman
+ a shriveled mummy
+ a zombie
+ dry bones skeleton
+
+Qeynos Hills
+
+ Misty Storyswapper
+
+Southern Desert of Ro
+
+ a desert madman
+ an orc priest
+ an orc warrior
+
+Stonebrunt Mountains
+
+ a kejekan amir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Skeleton Killing
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

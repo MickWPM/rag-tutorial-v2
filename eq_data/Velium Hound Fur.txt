@@ -1,0 +1,36 @@
+ITEM NAME: Velium Hound Fur
+
+Velious Era (added December 2000-2001)
+
+Velium Hound Fur
+
+
+MAGIC ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ a rogue dire wolf
+ a velium hound
+ Icehackle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Velium Hound Fur Armor (Trivial: >235)
+
+
+
+
+

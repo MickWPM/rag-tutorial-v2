@@ -1,0 +1,34 @@
+ITEM NAME: Sebilite Scale Belt
+
+
+Sebilite Scale Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 8
+HP: +20  MANA: +20
+SV DISEASE: +2  SV MAGIC: +2
+WT: 1.9  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ froglok pickler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

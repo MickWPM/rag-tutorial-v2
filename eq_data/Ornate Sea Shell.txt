@@ -1,0 +1,29 @@
+ITEM NAME: Ornate Sea Shell
+
+
+
+Ornate Sea Shell
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+There are two versions of this item. The first is obtained by giving a Damaged Goblin Crown to Natasha Whitewater.  Identifies as Ornate Sea Shell (I).  The second is obtained by giving Lord Gimblox's Signet Ring to Natasha Whitewater in Timorous Deep and identifies as Ornate Sea Shell (II). Additionally, if you do inventory Output, the "Ornate Sea Shell" from Natasha whitewater Lake Rathe is ID 28047, while the "Ornate Sea Shell" from Natasha Whitewater Timorous Deep is ID 28056. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

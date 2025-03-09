@@ -1,0 +1,46 @@
+ITEM NAME: Foreman's Skull Cap
+
+Velious Era (added December 2000-2001)
+
+
+
+Foreman's Skull Cap
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 8
+STR: +4  DEX: +2  STA: +2
+SV COLD: +10
+WT: 2.0  Size: SMALL
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify):  Foreman's Skull Cap
+
+Acts as a light source (it is a mining cap after all) 
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 11 Platinums
+ 5 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ Foreman Rixact
+ Foreman Smason
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

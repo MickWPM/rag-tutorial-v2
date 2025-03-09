@@ -1,0 +1,33 @@
+ITEM NAME: Velishoul's Tome Pg.43
+
+
+
+Velishoul's Tome Pg. 43
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Various Zones
+
+ Level Appropriate Mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Ultravision (Trivial: 82)
+
+
+
+
+

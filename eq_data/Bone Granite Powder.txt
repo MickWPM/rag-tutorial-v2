@@ -1,0 +1,43 @@
+ITEM NAME: Bone Granite Powder
+
+Kunark Era (added 2000)
+
+
+Bone Granite Powder
+
+
+LORE ITEM  NO DROP  TEMPORARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 3rd Rank
+ Bone Granite Powder Quest
+
+  Player crafted 
+ Blacksmithing (Trivial: 21)
+ Yield: Bone Granite Powder x1
+ In Forge:
+
+
+  2 x Bone Chips - Foraged, Summoned, Bought, Dropped
+  1 x Forging Hammer - Bought, Dropped
+  1 x Pile of Granite Pebbles - Quested 
+
+
+  Tradeskill recipes 
+ Brewing
+ Embalming Fluid (Item) (Trivial: 21)
+
+
+
+
+

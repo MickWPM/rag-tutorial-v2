@@ -1,0 +1,35 @@
+ITEM NAME: Cyclops Charm
+
+
+
+Cyclops Charm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 3
+STR: +3
+WT: 0.1  Size: TINY
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Rathe Mountains
+
+ Tarskuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Helm Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

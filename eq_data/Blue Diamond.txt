@@ -1,0 +1,71 @@
+ITEM NAME: Blue Diamond
+
+Classic Era (added 1999-2000)
+
+Blue Diamond
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Blue Diamond Jewelcrafting combines are Velious era. 
+ Merchant resale value: 250p Max 
+
+  Drops From 
+Swamp of No Hope
+
+ Soblohg
+
+Plane of Fear
+
+ Rare drop from most mobs
+
+Plane of Hate
+
+ Rare drop from most mobs
+
+Old Sebilis
+
+ Rare drop from most mobs
+
+Crystal Caverns
+
+ A Geonid
+
+The Wakening Land
+
+ A shimmering geonid
+
+Ocean of Tears
+
+ Allizewsaur
+
+Chardok (confirmed drops in 2.0 revamp, what about Chardok 1.0?)
+
+ Rare drop from most mobs
+
+Other 50+ zones
+
+Needs more detail
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Blue Diamond Ring (Trivial: 75)
+ Blue Diamond Electrum Earring (Trivial: 148)
+ Golden Blue Diamond Pendant (Trivial: 228)
+ Platinum Blue Diamond Tiara (Trivial: 295)
+ Velium Blue Diamond Bracelet (Trivial: 302?)
+
+
+
+
+

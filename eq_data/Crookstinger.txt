@@ -1,0 +1,34 @@
+ITEM NAME: Crookstinger
+
+
+Crookstinger
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 21
+DMG: 4 
+Effect:  Weak Poison (Combat, Casting Time: Instant)
+WT: 5.0  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+Sells to vendor for 3.1p. 
+
+  Drops From 
+Lesser Faydark
+
+ Crookstinger (mob)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

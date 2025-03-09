@@ -1,0 +1,35 @@
+ITEM NAME: Prayer Shawl
+
+Classic Era (added 1999-2000)
+Were you looking for Coldain Prayer Shawl Quests?
+
+Prayer Shawl
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 5
+WIS: +8
+WT: 0.4  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Kedge Keep
+
+ Estrella of Gloomwater
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

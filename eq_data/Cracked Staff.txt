@@ -1,0 +1,159 @@
+ITEM NAME: Cracked Staff
+
+Classic Era (added 1999-2000)
+
+Cracked Staff
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 32
+DMG: 5 
+WT: 8.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 1 Platinums
+ 2 Golds
+ 0 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Blackburrow
+
+ a scrawny gnoll
+
+Butcherblock Mountains
+
+ a decaying dwarf skeleton
+ a goblin
+ an orc oracle
+ an undead bishop
+ an undead pawn
+
+Commonlands
+
+ a decaying skeleton
+ a skeleton
+ orc legionnaire
+ orc pawn
+
+Crushbone
+
+ orc oracle
+ The Prophet
+
+Everfrost Peaks
+
+ a decaying skeleton
+
+Greater Faydark
+
+ a decaying skeleton
+ a faerie maiden
+ an orc centurion
+ an orc conscript
+ an orc footman
+ an orc shaman
+ orc centurion
+ orc pawn
+
+Highpass Hold
+
+ a gnoll shaman
+ an orc acolyte
+
+Lesser Faydark
+
+ a faerie maiden
+ a skeleton
+
+Misty Thicket
+
+ orc apprentice
+ orc pawn
+
+Rathe Mountains
+
+ a bandit
+ a zombie
+
+Nektulos Forest
+
+ a decaying skeleton
+ a greater skeleton
+ a skeleton
+ an undead annalkeeper
+ Master Whoopal
+
+North Qeynos
+
+ a decaying skeleton
+
+Northern Desert of Ro
+
+ a decaying skeleton
+ a desert madman
+ a skeleton
+
+Qeynos Aqueducts
+
+ Omorb
+
+Qeynos Hills
+
+ a skeleton
+
+Southern Karana
+
+ a skeleton
+
+South Qeynos
+
+ Endric
+
+Southern Desert of Ro
+
+ an orc cleric
+ an orc priest
+
+Steamfont Mountains
+
+ a decaying gnome skeleton
+ a gnome skeleton
+ a kobold runt
+ a runaway clockwork
+
+The Warrens
+
+ a kobold runt
+
+Upper Guk
+
+ a fungus ancient
+ a fungus breeder
+
+West Freeport
+
+ a deathfist pawn
+ a decaying skeleton
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Sarnak Berserker Head
+
+Kunark Era (added 2000)
+Sarnak Berserker Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 2.0  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+The Overthere
+
+ a Sarnak berserker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dreadscale Helm
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

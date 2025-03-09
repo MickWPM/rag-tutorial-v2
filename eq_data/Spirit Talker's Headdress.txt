@@ -1,0 +1,35 @@
+ITEM NAME: Spirit Talker's Headdress
+
+Velious Era (added December 2000-2001)
+ 
+Spirit Talker's Headdress
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 16
+WIS: +12  HP: +20  MANA: +75
+SV MAGIC: +10  SV POISON: +10
+WT: 2.0  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+See Hunting the Spirit Talker's Headdress 
+
+  Drops From 
+Dragon Necropolis
+
+ a Paebala Spirit Talker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

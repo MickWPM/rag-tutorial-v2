@@ -1,0 +1,40 @@
+ITEM NAME: Greenmist Khukri Blade
+
+Velious Era (added December 2000-2001)
+
+
+Greenmist Khukri Blade
+
+
+LORE ITEM  NO DROP
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusaders of Greenmist (#8)
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Greenmist Khukri Blade x1
+ In Dalnir Forge:
+
+
+  1 x Chunk of Tynnonium - Dropped
+  1 x Greenmist Design Pattern - Quested
+  1 x Hammer of 1406 - Dropped
+  1 x Notes from the Greenmist Tome - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

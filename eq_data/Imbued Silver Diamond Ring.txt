@@ -1,0 +1,40 @@
+ITEM NAME: Imbued Silver Diamond Ring
+
+
+
+Imbued Silver Diamond Ring
+
+
+MAGIC ITEM
+Slot: FINGER
+STA: +2 WIS: +3
+SV FIRE: +2 SV DISEASE: +2 SV COLD: +2 SV MAGIC: +2 SV POISON: +2
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+Deity: Mithaniel Marr
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ?)
+ Imbued Silver Diamond Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Silver Bar - Summoned
+  1 x Imbued Diamond - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Enchanted Metal Rings
+
+
+
+Enchanted Metal Rings
+
+
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 51)
+ Yield: Enchanted Metal Rings x2
+ In Forge:
+
+
+  1 x Water Flask - Bought
+  1 x File - Crafted
+  1 x Large Brick of Enchanted Ore - Summoned 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Chain Jointing (Trivial: 106)
+
+
+
+
+

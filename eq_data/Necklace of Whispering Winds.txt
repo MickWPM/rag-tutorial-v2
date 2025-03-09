@@ -1,0 +1,35 @@
+ITEM NAME: Necklace of Whispering Winds
+
+Sky Era (added January 2000)
+
+
+Necklace of Whispering Winds
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+Charges: 2
+AC: 4
+STA: +5  CHA: +10  INT: +5  MANA: +35
+Effect:  Cajoling Whispers (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: TINY
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Memorization
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

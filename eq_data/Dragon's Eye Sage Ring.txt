@@ -1,0 +1,35 @@
+ITEM NAME: Dragon's Eye Sage Ring
+
+Velious Era (added December 2000-2001)
+
+
+Dragon's Eye Sage Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 7
+DEX: +5  WIS: +8  INT: +8  MANA: +50
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Lord Yelinak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

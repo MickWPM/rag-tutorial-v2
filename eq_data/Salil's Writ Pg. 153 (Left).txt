@@ -1,0 +1,46 @@
+ITEM NAME: Salil's Writ Pg. 153 (Left)
+
+
+
+Salil's Writ Pg. 153
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1p 4c 
+
+  Drops From 
+Dreadlands
+
+ a plaguebone thief
+
+Karnor's Castle
+
+ spectral knight
+
+The Hole
+
+ an elemental warrior
+
+The Feerrott
+
+ A Spectre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research
+ Resist Magic (Trivial:142)
+
+
+
+
+

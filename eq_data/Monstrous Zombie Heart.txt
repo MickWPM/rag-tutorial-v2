@@ -1,0 +1,31 @@
+ITEM NAME: Monstrous Zombie Heart
+
+Classic Era (added 1999-2000)
+Monstrous Zombie Heart
+
+
+LORE ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Rathe Mountains
+
+ monstrous zombie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Etched Stone
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

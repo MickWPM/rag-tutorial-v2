@@ -1,0 +1,36 @@
+ITEM NAME: Maleficent Robe
+
+Velious Era (added December 2000-2001) Project 1999 Blue First Maleficent Robe (obtained at level 50)
+ Project1999 Green First Maleficent Robe
+
+
+Maleficent Robe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 22
+STR: +5  STA: +15  CHA: -10  INT: +15  AGI: +5  HP: +100  MANA: +40
+SV FIRE: +5  SV DISEASE: +20  SV COLD: +5  SV MAGIC: +5  SV POISON: +15
+WT: 0.5  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

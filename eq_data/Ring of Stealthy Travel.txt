@@ -1,0 +1,34 @@
+ITEM NAME: Ring of Stealthy Travel
+
+Chardok Revamp Era (added late 2001)
+
+Ring of Stealthy Travel
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+HP: +35  MANA: +35
+Effect:  Gather Shadows (Must Equip, Casting Time: 2.0) at Level 49
+WT: 3.0  Size: SMALL
+Class: RNG SHD DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Interrogator Gi`mok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

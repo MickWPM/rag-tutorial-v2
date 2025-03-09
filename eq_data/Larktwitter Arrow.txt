@@ -1,0 +1,32 @@
+ITEM NAME: Larktwitter Arrow
+
+
+Larktwitter Arrow
+
+
+MAGIC ITEM
+Slot: AMMO
+DMG: 6
+WT: 0.1  Range: 150  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ Whimsy Larktwitter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

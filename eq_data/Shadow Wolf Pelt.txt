@@ -1,0 +1,62 @@
+ITEM NAME: Shadow Wolf Pelt
+
+
+Shadow Wolf Pelt
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+East Commonlands
+
+ a shadow wolf
+
+Nektulos Forest
+
+ a shadow wolf
+
+Western Plains of Karana
+
+ a black wolf
+ a shadow wolf
+
+Southern Plains of Karana
+
+ a black wolf
+ a shadow wolf
+
+Misty Thicket
+
+ a black wolf
+ a shadow wolf
+
+NOTE! Fairly uncommon drop. Got two pelts off about 40 kills in SK.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ ShadowBound Armor Quests (Necro Sol Ro quest)
+ ShadowBound Boots
+ Shadowbound Gloves
+ Robe of Enshroudment
+
+
+ Monks of The Whistling Fist
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Shadow Silk (Trivial: 36)
+ Large Shadow Silk (Trivial: 36)
+ Inky Shadow Silk (Trivial: 36)
+
+
+
+
+

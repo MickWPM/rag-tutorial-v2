@@ -1,0 +1,211 @@
+ITEM NAME: Platinum Bar
+
+
+Platinum Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Unenchanted version of an Enchanted Platinum Bar. Vendors sell this for ~105pp.
+Dont buy from the lady in WC, she sells them for twice the price you get from a city vendor. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1356, -882)
+
+
+ North Freeport
+
+ Amber (NPC)
+
+
+
+  (-184, 202)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ Felwithe
+
+ Merchant Nora
+
+
+
+  (144, -414)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ Neriak Commons
+
+ Zartox Ru`Soe
+
+
+
+  (82, -901)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ North Qeynos
+
+ Ziska Ironforge
+
+
+
+  (52, 60)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+ Jewelcrafting
+ Platinum Malachite Ring (Trivial: 218)
+ Platinum Lapis Lazuli Necklace (Trivial: 220)
+ Platinum Turquoise Bracelet (Trivial: 223)
+ Platinum Hematite Ring (Trivial: 226)
+ Cat Eye Platinum Necklace (Trivial: 228)
+ Platinum Bloodstone Earring (Trivial: 231)
+ Platinum Onyx Bracelet (Trivial: 234)
+ Platinum Jasper Ring (Trivial: 236)
+ Platinum Carnelian Wedding Ring (Trivial: 239)
+ Rose Platinum Engagement Ring (Trivial: 242)
+ Platinum Amber Ring (Trivial: 244)
+ Wolf's Eye Platinum Necklace (Trivial: 247)
+ Jaded Platinum Ring (Trivial: 250)
+ Platinum Pearl Ring (Trivial: 252)
+ Platinum Topaz Necklace (Trivial: 255)
+ Platinum Peridot Ring (Trivial: 258)
+ Platinum Emerald Ring (Trivial: 260)
+ Platinum Opal Engagement Ring (Trivial: 263)
+ Black Pearl Platinum Ring (Trivial: 266)
+ Platinum Fire Wedding Ring (Trivial: 268)
+ Platinum Star Ruby Veil (Trivial: 271)
+ Fire Emerald Platinum Ring (Trivial: 274)
+ Sapphire Platinum Necklace (Trivial: 276)
+ Platinum Ruby Veil (Trivial: 279)
+ Platinum Jacinth Wedding Ring (Trivial: 282)
+ Black Sapphire Platinum Necklace (Trivial: 284)
+ Platinum Diamond Wedding Ring (Trivial: 287)
+ Platinum Blue Diamond Tiara (Trivial: 295)
+
+
+
+
+

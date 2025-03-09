@@ -1,0 +1,33 @@
+ITEM NAME: Fusible Velium Ore
+
+Velious Era (added December 2000-2001)
+
+
+Fusible Velium Ore
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Grats Bladefrenzy 
+
+  Drops From 
+Western Wastes
+
+ Guardian Kozzalym
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fusibility Research
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

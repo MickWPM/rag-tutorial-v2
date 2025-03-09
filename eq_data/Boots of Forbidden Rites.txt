@@ -1,0 +1,34 @@
+ITEM NAME: Boots of Forbidden Rites
+
+Velious Era (added December 2000-2001)
+ Myni models the Boots of Forbidden Rites (custom version).
+Boots of Forbidden Rites
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 21
+STR: +2  STA: +5
+SV FIRE: +1  SV COLD: +1  SV MAGIC: +1
+Effect:  Abundant Drink (Must Equip, Casting Time: 10.0) at level 3
+WT: 6.0  Size: MEDIUM
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Velium Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Walrus Hide Pauldrons
+
+Velious Era (added December 2000-2001)
+
+
+Walrus Hide Pauldrons
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 15
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 8.0  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad mistress
+ a siren beguiler
+ a siren myrmidon
+ a siren templar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

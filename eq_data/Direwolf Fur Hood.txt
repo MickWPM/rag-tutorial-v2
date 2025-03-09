@@ -1,0 +1,33 @@
+ITEM NAME: Direwolf Fur Hood
+
+Velious Era (added December 2000-2001)
+
+
+Direwolf Fur Hood
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 6
+DEX: +5  HP: +20
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Direwolf Fur Hood Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

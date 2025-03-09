@@ -1,0 +1,33 @@
+ITEM NAME: Finely Woven Cloth Cord
+
+Sky Era (added January 2000)
+
+
+Finely Woven Cloth Cord
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 3
+MANA: +10
+WT: 9.0  Size: LARGE
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Illusion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Jambiya
+
+Classic Era (added 1999-2000)
+
+Jambiya
+
+
+MAGIC ITEM 
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 26
+DMG: 7 
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Oasis of Marr
+
+ Hatar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Faceted Hyacinth Telesm
+
+
+
+Faceted Hyacinth Telesm
+
+
+MAGIC ITEM LORE ITEM NO TRADE
+Slot: NECK
+STR: -25 STA: -25 WIS: -25
+WT: 0.3 Size: SMALL
+Class: SHD NEC
+Race: ALL
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Etched Stone
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

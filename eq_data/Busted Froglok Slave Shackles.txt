@@ -1,0 +1,35 @@
+ITEM NAME: Busted Froglok Slave Shackles
+
+Kunark Era (added 2000)
+
+
+Busted Froglok Slave Shackles
+
+
+NO DROP
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ an escaped froglok
+ escaped froglok slave
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Geozite Tool Quest
+ Granite Pebbles
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

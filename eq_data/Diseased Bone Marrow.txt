@@ -1,0 +1,33 @@
+ITEM NAME: Diseased Bone Marrow
+
+Classic Era (added 1999-2000)
+
+
+Diseased Bone Marrow
+
+
+NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Steamfont Mountains
+
+ a brittle skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bertoxxulous Initiate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

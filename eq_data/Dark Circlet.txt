@@ -1,0 +1,35 @@
+ITEM NAME: Dark Circlet
+
+Classic Era (added 1999-2000)
+
+Dark Circlet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 4
+CHA: -2  INT: +4  HP: +10
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ Item Lore (from Identify):  Dark Circlet 
+
+  Drops From 
+Najena
+
+ Trazdon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crafted Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

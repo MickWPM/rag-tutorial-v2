@@ -1,0 +1,36 @@
+ITEM NAME: Priceless Velium War Lance
+
+Velious Era (added December 2000-2001)
+ Rums wields the toothpick
+Priceless Velium War Lance
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 44
+DMG: 45   AC: 12
+STR: +7  DEX: +7  STA: +7  CHA: +7  WIS: +7  INT: +7  AGI: +7  HP: +35  MANA: +35
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+WT: 6.5  Size: LARGE
+Class: WAR PAL SHD
+Race: ALL
+
+
+Part of the Priceless Velium Weapons set. 
+
+  Drops From 
+Sleeper's Tomb
+
+ an ancient sentry
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

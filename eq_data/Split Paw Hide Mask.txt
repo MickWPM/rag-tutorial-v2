@@ -1,0 +1,48 @@
+ITEM NAME: Split Paw Hide Mask
+
+Classic Era (added 1999-2000)
+
+Split Paw Hide Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 3
+SV MAGIC: +5  SV POISON: +5
+WT: 0.5  Size: TINY
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+This item works as a Light source, the intensity slightly less than a Greater Lightstone,  which makes it great for low level humans/barbarians/erudites. 
+ Merchant resale value: 3g 6s 7c 
+
+  Drops From 
+Southern Karana
+
+ a Lteth Mal Gnoll
+ a Lteth Mas Gnoll
+ a Lteth Val Gnoll
+ a Rosch Mal Gnoll
+ a Rosch Mas Gnoll
+ a Rosch Val Gnoll
+ a Tesch Mal Gnoll
+ a Tesch Mas Gnoll
+ a Tesch Val Gnoll
+ Nisch Val Torash Mashk
+
+Splitpaw Lair
+
+ Various
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Indigo Sabre
+
+
+Indigo Sabre
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 7 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kithicor Forest
+
+ Brigadier G`tav
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 104)
+ Yield: Indigo Sabre x1
+ In Teir`Dal Forge:
+
+
+  1 x Curved Blade Mold - Bought
+  1 x Folded Sheet of Adamantite - Crafted
+  1 x Hilt Mold - Bought
+  1 x Neriak Nectar - Bought, Quested
+  1 x Pommel Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

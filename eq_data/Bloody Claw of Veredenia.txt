@@ -1,0 +1,47 @@
+ITEM NAME: Bloody Claw of Veredenia
+
+
+
+
+ 
+
+ Notice: This article is being considered for deletion.
+Please add comments or information below, as to whether this page applies to p99 and should be kept or not.
+Feel free to edit the article, but please do not blank it or remove this notice. (See: deletion policy or image policy)
+
+
+
+Velious Era (added December 2000-2001)
+
+
+Bloody Claw of Veredenia
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 9 
+WT: 5.0  Size: TINY
+Class: WAR PAL RNG SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Veredenia
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vkjor's Major Task
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

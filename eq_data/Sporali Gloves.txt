@@ -1,0 +1,37 @@
+ITEM NAME: Sporali Gloves
+
+Warrens Era (added spring 2001)
+
+Sporali Gloves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 2
+SV DISEASE: -2  SV POISON: -2
+Haste: +9%  
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Runnyeye 2.0 
+
+  Drops From 
+Clan Runnyeye
+
+ The Sporali Moldmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Raw Darkwater Piranha
+
+Classic Era (added 1999-2000)
+
+
+Raw Darkwater Piranha
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Nektulos Forest
+
+ a darkwater piranha
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fish Dinner
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

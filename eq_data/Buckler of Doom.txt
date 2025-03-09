@@ -1,0 +1,42 @@
+ITEM NAME: Buckler of Doom
+
+Velious Era (added December 2000-2001)
+ The Buckler of Doom
+Buckler of Doom
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+AC: 10
+STR: +15  HP: +45  MANA: +40
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Doom 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Buckler of Doom x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Black Throne - Dropped
+  A Black Crown - Dropped
+  A Black Knight - Dropped
+  A Black Squire - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

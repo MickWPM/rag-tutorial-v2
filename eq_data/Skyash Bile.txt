@@ -1,0 +1,39 @@
+ITEM NAME: Skyash Bile
+
+
+Skyash Bile
+
+
+QUEST ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyfire Mountains
+
+ a shadow drake
+ a skyash drake
+ a skycinder drake
+ a skyfire drake
+ Black Scar
+ Felia Goldenwing
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Paradoxical Peptide (Trivial: 247)
+ Rending Swiftness (Trivial: 315)
+
+
+
+
+

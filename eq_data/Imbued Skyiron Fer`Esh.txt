@@ -1,0 +1,47 @@
+ITEM NAME: Imbued Skyiron Fer`Esh
+
+Kunark Era (added 2000)
+
+
+Imbued Skyiron Fer`Esh
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 7 
+STA: +4  WIS: +2
+SV COLD: +1
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+Deity: Cazic-Thule
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 108)
+ Yield: Imbued Skyiron Fer`Esh x1
+ In Iksar Forge:
+
+
+  1 x Fer`Esh Blade Mold - Bought
+  1 x Folded Skyiron Sheet - Crafted
+  1 x Hilt Mold - Bought
+  1 x Imbued Amber - Summoned
+  1 x Pommel Mold - Bought
+  1 x Scale Temper - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

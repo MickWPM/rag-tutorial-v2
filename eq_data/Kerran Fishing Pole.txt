@@ -1,0 +1,33 @@
+ITEM NAME: Kerran Fishing Pole
+
+
+
+Kerran Fishing Pole
+
+
+NO DROP
+Slot: PRIMARY
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wislen Mamluk's Catfish
+
+  See Also 
+ Fishing
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Scintillating Bracer of Protection
+
+Sky Era (added January 2000)
+
+
+Scintillating Bracer of Protection
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 9
+STR: +3  DEX: +3  WIS: +2
+SV FIRE: +8  SV DISEASE: +8  SV COLD: +8  SV MAGIC: +8  SV POISON: +8
+WT: 2.5  Size: MEDIUM
+Class: ROG
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Stealth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

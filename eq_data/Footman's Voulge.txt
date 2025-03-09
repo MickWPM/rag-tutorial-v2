@@ -1,0 +1,31 @@
+ITEM NAME: Footman's Voulge
+
+
+Footman's Voulge
+
+
+LORE ITEM
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 56
+DMG: 12 
+WT: 16.0  Size: GIANT
+Class: WAR SHD
+Race: ALL except HIE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Halfling Raider Helms
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

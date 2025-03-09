@@ -1,0 +1,35 @@
+ITEM NAME: Journal of Greater Enchantment
+
+Classic Era (added 1999-2000)
+
+
+Journal of Greater Enchantment
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Possibly non-Classic. 
+
+  Drops From 
+Splitpaw Lair
+
+ a Lteth Val Scribe
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gnoll Slayer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Ravenscale Coif
+
+
+Ravenscale Coif
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 12
+CHA: +2  WIS: +2  INT: +5
+SV MAGIC: +5
+WT: 3.5  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Part of the Ravenscale Armor Set. 
+
+  Drops From 
+Cazic Thule
+
+ a stone golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

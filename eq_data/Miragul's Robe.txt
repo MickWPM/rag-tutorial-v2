@@ -1,0 +1,36 @@
+ITEM NAME: Miragul's Robe
+
+
+
+Miragul's Robe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 11
+DEX: +5  STA: +5  INT: +5  MANA: +20
+SV DISEASE: +10  SV POISON: +10
+WT: 1.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Everfrost Peaks
+
+ Miragul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Fiery Avenger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

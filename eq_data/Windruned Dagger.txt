@@ -1,0 +1,35 @@
+ITEM NAME: Windruned Dagger
+
+Kunark Era (added 2000)
+
+Windruned Dagger
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 20
+DMG: 2 
+Effect:  Careless Lightning (Combat, Casting Time: Instant) at Level 15
+WT: 1.0  Size: SMALL
+Class: RNG ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ A Sarnak Assassin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

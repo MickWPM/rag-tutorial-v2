@@ -1,0 +1,38 @@
+ITEM NAME: Aviak Chick Talon
+
+
+
+Aviak Chick Talon
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a Krag chick
+
+Steamfont Mountains
+
+ a krag chick
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Aviak Chicks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

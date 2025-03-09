@@ -1,0 +1,73 @@
+ITEM NAME: Nilitim's Grimoire Pg. 401
+
+
+
+Nilitim's Grimoire Pg. 401
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1p 1g 2s 1c 
+
+  Drops From 
+Kedge Keep
+
+ a swirlspine seahorse
+ Estrella of Gloomwater
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Old Sebilis
+
+ froglok bok shaman
+
+Permafrost
+
+ an ice giant
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ Amygdalan knight
+ phoboplasm
+
+Plane of Hate
+
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+ A Vicious Raptor
+ Dinus
+
+
+Skyfire Mountains
+
+ a guardian wurm
+ a mature chromadrac
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research
+ Paralyzing Earth (Trivial:182)
+
+
+
+
+

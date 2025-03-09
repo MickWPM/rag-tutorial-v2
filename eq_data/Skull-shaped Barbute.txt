@@ -1,0 +1,36 @@
+ITEM NAME: Skull-shaped Barbute
+
+Classic Era (added 1999-2000)
+
+Skull-shaped Barbute
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 13
+HP: +35
+SV MAGIC: +10
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+
+ Merchant resale value: 59p 9g 8s 5c 
+
+  Drops From 
+Lower Guk
+
+ the ghoul lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

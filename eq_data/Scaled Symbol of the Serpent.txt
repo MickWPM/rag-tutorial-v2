@@ -1,0 +1,30 @@
+ITEM NAME: Scaled Symbol of the Serpent
+
+Epic Quests Era (added Sept 2000)
+
+
+Scaled Symbol of the Serpent
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: Tiny
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Scaled Symbol of the Serpent 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

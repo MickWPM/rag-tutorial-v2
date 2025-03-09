@@ -1,0 +1,35 @@
+ITEM NAME: Tserrina`s Key
+
+Velious Era (added December 2000-2001)
+
+
+Tserrina's Key
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Allows access to the Mirror Room from Floor 1 of the Tower of Frozen Shadow. 
+Does not currently function as a master key within the mirror room. Other keys are still required to access other floors.[1]
+
+ Item Lore (from Identify): The gates are yours to control 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Tserrina Syl`Tor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

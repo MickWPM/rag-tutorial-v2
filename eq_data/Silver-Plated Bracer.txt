@@ -1,0 +1,35 @@
+ITEM NAME: Silver-Plated Bracer
+
+Classic Era (added 1999-2000)
+
+Silver-Plated Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 7
+SV DISEASE: +5  SV POISON: +5
+WT: 1.0  Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: HUM BAR ERU ELF HIE DEF HEF DWF TRL OGR HFL
+
+
+
+ Merchant resale value: 1p 2g 
+
+  Drops From 
+Upper Guk
+
+ the froglok shin lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

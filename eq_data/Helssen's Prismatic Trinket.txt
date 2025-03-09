@@ -1,0 +1,33 @@
+ITEM NAME: Helssen's Prismatic Trinket
+
+Velious Era (added December 2000-2001)
+
+Helssen's Prismatic Trinket
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 5
+CHA: +8  MANA: +55
+SV MAGIC: +5
+WT: 0.3  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reinforcements for The Tunarean Regiment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

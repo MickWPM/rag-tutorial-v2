@@ -1,0 +1,43 @@
+ITEM NAME: Imbued Mithril Reinforced Mantle
+
+
+
+Imbued Mithril Reinforced Mantle
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 6
+CHA: +2  WIS: +1
+WT: 1.0  Size: SMALL
+Class: WAR CLR PAL RNG DRU BRD ROG
+Race: HUM ELF HIE HEF
+Deity: Tunare
+
+
+Part of the wood elf cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 228)
+ Yield: Imbued Mithril Reinforced Mantle x1
+ In Feir'Dal Sewing Kit:
+
+
+  1 x Excellent Sabertooth Tiger Hide - Dropped
+  1 x Imbued Emerald - Summoned
+  2 x Mithril Boning - Crafted
+  1 x Oak Bark Tannin - Crafted
+  1 x Shoulderpad Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

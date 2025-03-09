@@ -1,0 +1,53 @@
+ITEM NAME: Evergreen Leaf
+
+Classic Era (added 1999-2000)
+
+ Looks like this on the ground.
+Evergreen Leaf
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used to make "green" color dyes for Fine Plate Armor. Ground spawn in Greater Faydark.
+Went looking for these today and found nine scattered throughout the Kelethin newbie area (the ruined druid circle). Look around the bases of the trees to find them, as every second or third tree had one. I'm not sure what the respawn timer is, but it's longer than ten minutes.
+Some (but probably not all) confirmed locations:  
+
+ (-402, -55)
+ (286, -367)
+ (65, 162)
+ (395, -436)
+ (150, -380)
+ (506, -631) 
+
+  Drops From 
+Greater Faydark
+
+ Ground Spawns 
+ (-402, -55) 
+ (286, -367) 
+ (65, 162) 
+ (395, -436) 
+ (150, -380) 
+ (506, -631) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Evergreen Extract (Trivial: 36)
+
+ Alchemy
+ Evergreen Extract (Trivial: 36)
+
+
+
+
+

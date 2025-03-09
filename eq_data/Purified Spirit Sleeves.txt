@@ -1,0 +1,39 @@
+ITEM NAME: Purified Spirit Sleeves
+
+Chardok Revamp Era (added late 2001)
+Purified Spirit Sleeves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 2
+STR: +2  DEX: +3  CHA: +2  MANA: +5
+WT: 0.2  Size: SMALL
+Class: ALL except SHD NEC WIZ MAG ENC
+Race: ALL except DEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Purified Spirit Sleeves x1
+ In Kejek Forge:
+
+
+  1 x Crystallized Shadow Sleeves - Dropped
+  1 x Soulforge Hammer - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

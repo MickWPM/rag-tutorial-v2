@@ -1,0 +1,55 @@
+ITEM NAME: Orc Scalp
+
+Classic Era (added 1999-2000)
+
+Orc Scalp
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Dec 18 2011 Patch: "orc scalps no longer drop all over norrath. They drop in and around the Deathfist areas." 40 Scalps will give a Gnome Wizard 100% of level 16. 21 scalps will give a high elf Enchanter 100% of 12.
+Green/Teal: Because of the increased spawn rate of mobs on these servers, these scalps reward significantly less XP than they otherwise would. 
+
+  Drops From 
+West Commonlands
+
+ orc legionnaire
+ orc weaponsmith
+
+Highpass Hold
+
+ an orc acolyte
+ an orc berserker
+ an orc conscript
+ an orc fanatic
+ an orc medic
+ an orc mercenary
+ an orc soldier
+ an orc warrior
+
+Kithicor Forest
+
+ Chief Gan`Shralok
+ C`Habrel Shralok
+ Hargvex Shralok
+ Wrek Shralok
+
+Misty Thicket
+
+ orc centurion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Orc Scalp Collecting
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

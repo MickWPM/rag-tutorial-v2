@@ -1,0 +1,52 @@
+ITEM NAME: Aloe Swatch
+
+
+
+Aloe Swatch
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Commonlands
+
+ A Shady Swashbuckler
+
+
+
+  (-1677, -141)
+
+
+ East Commonlands
+
+ Innkeep Dolman
+
+
+
+  (1028, 3682) (Inn 3)
+
+  Related quests 
+ Watcher Torches
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

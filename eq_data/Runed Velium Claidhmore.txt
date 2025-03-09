@@ -1,0 +1,34 @@
+ITEM NAME: Runed Velium Claidhmore
+
+Velious Era (added December 2000-2001)
+
+Runed Velium Claidhmore
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 2H Slashing  Atk Delay: 38
+DMG: 32 
+WT: 5.7  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari Dominator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

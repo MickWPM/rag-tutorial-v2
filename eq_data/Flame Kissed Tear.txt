@@ -1,0 +1,70 @@
+ITEM NAME: Flame Kissed Tear
+
+Velious Era (added December 2000-2001)
+Flame Kissed Tear
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Dozekar the Cursed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Request of the Strong -- Silver Mask of the SlayerSilver Mask of the Slayer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 25
+STR: +12  DEX: +12  STA: +12  HP: +80
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+Effect:  Aura of Battle (Worn)
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ Poison Tear
+ Silver Tear
+ Flame Kissed Tear
+ Serrated Tear
+
+ Wisdom - The Long Battle -- Boots of Silent StridingBoots of Silent Striding
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 35
+STA: +10  WIS: +15  MANA: +50
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Aura of Battle (Worn)  
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+ Runed Tear
+ Flame Kissed Tear
+ Black Symbol (from Krigara or Ymmeln)
+ Glowing Drake Orb (from any HOT Named)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

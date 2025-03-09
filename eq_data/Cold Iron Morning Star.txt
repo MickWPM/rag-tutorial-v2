@@ -1,0 +1,34 @@
+ITEM NAME: Cold Iron Morning Star
+
+Classic Era (added 1999-2000)
+
+Cold Iron Morning Star
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 9 
+WT: 4.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Permafrost
+
+ a goblin preacher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Beer Stained Coldain Tunic
+
+Velious Era (added December 2000-2001)
+
+Beer Stained Coldain Tunic
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 12
+STR: +5  STA: +5  HP: +15
+SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 2.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU ROG
+Race: DWF HFL GNM
+
+
+
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an enraged relative
+ Priest Majes Medory
+ Zorglim the Dead
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,196 @@
+ITEM NAME: Vaashar's Sweet Treats
+
+
+
+Vaashar's Sweet Treats
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Lizard on a Stick
+It is almost as fun watching the skin shrivel on these stringy little critters while they cook as it is catching them!
+Ingredients: Lizard meat, Spices, and Jug of Sauces, Skewers
+Cooking Instructions: Fire a spit for high heat. Gently impale whole lizard onto skewer and
+season with spices and sauces. Carefully char and blacken without breaking the legs off.
+Tastes great with: Meat Pie and Ale
+Pickled Froglok
+Many are afraid to eat froglok but once tried all say it "tastes just like gator". Pickling
+helps enhance the natural latent flavors in the meat.
+Ingredients: Froglok, Vinegar, 1 Jar
+Cooking Instructions: Dump froglok chunklets into a jar. Add enough vinegar to cover froglok.
+Allow to ripen in the sun until vinegar turns a seafoam green color.
+Tastes great with: Gator Steaks and Bog Juice
+Beer Braised Gator
+Don't let the slime green color fool you - Gator is as hot as vindaloo. This
+rubbery meat globs up when cooked, extending the chewing time enough to burn your taste buds.
+Ingredients: Gator Meat, Spices, Short Beer
+Cooking instructions: Fire a spit or oven, and place a pan underneath to catch falling globs.
+Season and marinate in beer until foamy, then grill. Larger clumps are saved for honored guests.
+Tastes great with: Fish Head Soup and Short Beer
+Batwing Crunchies
+Gnawing on these tasty treats helps blacken the teeth and build jaws of monstrous proportions.
+When you've finished chewing the webbing, use the bones to pick your teeth. The perfect snack!
+Ingredients: Batwings and Frosting
+Cooking Instructions: Fire oven for low heat. Smother batwings in frosting and place in oven.
+Remove when hardened and frosting crystallizes.
+Tastes great with: Wolf Steaks and Ale
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

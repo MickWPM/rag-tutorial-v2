@@ -1,0 +1,32 @@
+ITEM NAME: Lock of Blessed Unicorn Hair
+
+Velious Era (added December 2000-2001)
+
+
+Lock of Blessed Unicorn Hair
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a rolling plains steed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

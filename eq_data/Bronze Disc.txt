@@ -1,0 +1,35 @@
+ITEM NAME: Bronze Disc
+
+Sky Era (added January 2000)
+
+
+
+Bronze Disc
+
+
+LORE ITEM
+WT: 20.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ an azarack
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Cunning
+ Warrior Test of Strength
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

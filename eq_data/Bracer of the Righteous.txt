@@ -1,0 +1,36 @@
+ITEM NAME: Bracer of the Righteous
+
+Warrens Era (added spring 2001)
+
+
+Bracer of the Righteous
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 15
+STR: +1  STA: +2  WIS: +4  HP: +10  MANA: +10
+SV COLD: +1
+WT: 3.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ A Knight of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

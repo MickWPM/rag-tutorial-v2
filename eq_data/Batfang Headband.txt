@@ -1,0 +1,44 @@
+ITEM NAME: Batfang Headband
+
+Classic Era (added 1999-2000)
+
+Batfang Headband
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 2
+WIS: +3  INT: +3
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a carrion bat
+ a Chetari guard
+
+Timorous Deep
+
+ The Great Oowomp
+
+Western Plains of Karana
+
+ an ogre priestess
+ Chief Goonda
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Wu's Fighting Sleeves
+
+Velious Era (added December 2000-2001)
+
+Wu's Fighting Sleeves
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 5
+AGI: +3
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+Part of the Wu's Fighting Armor Set. Sells to vendor for roughly 6p 5g. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 151)
+ Yield: Wu's Fighting Sleeves x1
+ In Sewing Kit:
+
+
+  4 x Heady Kiola - Crafted
+  2 x Silk Swatch - Crafted
+  1 x Sleeve Pattern - Bought
+  1 x Vial of Viscous Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

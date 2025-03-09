@@ -1,0 +1,88 @@
+ITEM NAME: Low Quality Wolf Skin
+
+
+Low Quality Wolf Skin
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a blood wolf
+
+East Commonlands
+
+ a black wolf
+ a shadow wolf
+
+Eastern Plains of Karana
+
+ a silvermist wolf
+ a war wolf
+
+Greater Faydark
+
+ a black wolf
+
+Lesser Faydark
+
+ a mist wolf
+
+Misty Thicket
+
+ a black wolf
+
+Nektulos Forest
+
+ a black wolf
+ a shadow wolf
+
+Qeynos Hills
+
+ a gray wolf
+
+Southern Karana
+
+ a shadow wolf
+
+West Freeport
+
+ a gray wolf
+
+Western Plains of Karana
+
+ a black wolf
+ a mist wolf
+ a shadow wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wolf Hide Armor
+
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Low Quality Wolf Skin x1
+ In Sewing Kit:
+
+
+  1 x Medium Quality Wolf Skin - Crafted, Quested, Dropped
+  1 x Skinning Knife - Crafted, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Ruined Wolf Pelt (Trivial: 15)
+ Leather Padding (Trivial: 31)
+
+
+
+
+

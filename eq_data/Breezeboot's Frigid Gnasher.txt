@@ -1,0 +1,37 @@
+ITEM NAME: Breezeboot's Frigid Gnasher
+
+Velious Era (added December 2000-2001)
+ NERF ALERT (see notes)
+
+
+ Various angles and lighting for the famous BFG.
+Breezeboot's Frigid Gnasher
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY
+Skill: Archery  Atk Delay: 50
+DMG: 20
+Effect:  Knockback (Must Equip, Casting Time: 10.0) at Level 35
+WT: 25.0  Range: 150  Size: GIANT
+Class: WAR PAL RNG SHD ROG
+Race: HUM BAR ELF DEF HEF DWF
+TRL OGR HFL GNM IKS
+
+
+ Item Lore (from Identify): Model 9000  This weapon is technically still obtainable if the Seaworthy Planking is MQed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Pirate Ship
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

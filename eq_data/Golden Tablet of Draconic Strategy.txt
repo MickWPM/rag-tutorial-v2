@@ -1,0 +1,33 @@
+ITEM NAME: Golden Tablet of Draconic Strategy
+
+Velious Era (added December 2000-2001)
+
+
+Golden Tablet of Draconic Strategy
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a dragon construct
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Strategies of the Ancient Dragons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

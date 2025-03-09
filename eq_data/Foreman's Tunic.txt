@@ -1,0 +1,33 @@
+ITEM NAME: Foreman's Tunic
+
+
+Foreman's Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 10
+STR: +3  WIS: +3
+WT: 0.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Solusek's Eye
+
+ flame goblin foreman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

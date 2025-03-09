@@ -1,0 +1,35 @@
+ITEM NAME: Darkforge Boots
+
+Temple Era (added October 1999)
+
+
+
+Darkforge Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 11
+STA: +3
+WT: 1.5  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+
+ Merchant resale value: 3g 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Darkforge Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

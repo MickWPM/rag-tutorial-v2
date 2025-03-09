@@ -1,0 +1,51 @@
+ITEM NAME: Excellent Sabertooth Tiger Hide
+
+
+Excellent Sabertooth Tiger Hide
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a sabertooth cat
+ a sabertooth grimalkin
+ a sabertooth tiger
+ a sabertooth tigress
+
+The Overthere
+
+ a sabertooth tiger
+ a sabertooth tigress
+ sabretooth tiger
+ sabretooth tigress
+
+Trakanon's Teeth
+
+ sabretooth tiger
+ sabretooth tigress
+
+Tower of Frozen Shadow
+
+ oozing flesh (yes, really.)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Used in Wood Elf tailoring.
+
+
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Robe of the Grove
+
+Epic Quests Era (added Sept 2000)
+ The Robe of the Grove.
+Robe of the Grove
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: CHEST 
+AC: 10
+WIS: +5 INT: +5
+WT: 2.0  Size: SMALL
+Class: CLR DRU NEC WIZ MAG ENC
+Race: HIE DEF GNM
+
+
+According to players, DRU was listed as a class when the item originally came out. Item acts as a light source. 
+
+  Drops From 
+Ocean of Tears
+
+ Seplawishinl Bladeblight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

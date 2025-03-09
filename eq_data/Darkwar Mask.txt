@@ -1,0 +1,36 @@
+ITEM NAME: Darkwar Mask
+
+Velious Era (added December 2000-2001)
+
+
+Darkwar Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 10
+STR: +5  DEX: +5  AGI: +5
+WT: 2.5  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a revultant rat
+ An Agent of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

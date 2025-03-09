@@ -1,0 +1,36 @@
+ITEM NAME: Soulbound Hammer
+
+Epic Quests Era (added Sept 2000)
+
+
+Soulbound Hammer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 50
+DMG: 2 
+WT: 5.0  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Hole
+
+ Jaeil the Insane
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

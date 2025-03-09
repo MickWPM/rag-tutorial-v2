@@ -1,0 +1,33 @@
+ITEM NAME: A Mandible
+
+Kunark Era (added 2000)
+
+
+A Mandible
+
+
+LORE ITEM  NO TRADE
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ a rogue shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 2
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Old Dragon Horn
+
+Velious Era (added December 2000-2001)
+
+
+Old Dragon Horn
+
+
+QUEST ITEM
+WT: 4.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari guard
+ a Chetari master
+ a Chetari Scavenger
+ a Chetari Warrior
+ a Chetari worker
+ an escaped worker
+ Vilefang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

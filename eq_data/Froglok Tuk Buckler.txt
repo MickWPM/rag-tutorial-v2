@@ -1,0 +1,40 @@
+ITEM NAME: Froglok Tuk Buckler
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+ NERF ALERT (see notes)
+
+
+Froglok Tuk Buckler
+
+
+NODROP
+Slot: SECONDARY
+WT: 3.0 Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM BST
+Race: HUM BAR ERU ELF HIE DEF HEF TRL OGR IKS VAH
+
+
+Used for a Cabilis quest post-Luclin. Bugged drop until next 2017 patch on P99.[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

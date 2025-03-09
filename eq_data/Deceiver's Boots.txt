@@ -1,0 +1,33 @@
+ITEM NAME: Deceiver's Boots
+
+Velious Era (added December 2000-2001)
+
+
+Deceiver's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 24
+STR: +2  STA: +5  AGI: +4  HP: +20
+WT: 6.0  Size: MEDIUM
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Kael Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

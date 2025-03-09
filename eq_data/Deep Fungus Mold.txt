@@ -1,0 +1,209 @@
+ITEM NAME: Deep Fungus Mold
+
+Velious Era (added December 2000-2001)
+
+
+Deep Fungus Mold
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Gartonka
+
+
+
+  (141, -306)
+
+
+ Highpass Hold
+
+ a dealer
+
+
+
+  (426, -260)
+
+
+ Highpass Hold
+
+ a dealer
+
+
+
+  (340, -244)
+
+
+ Highpass Hold
+
+ Lyn Tarburner
+
+
+
+  (-146, 493)
+
+
+ Western Plains of Karana
+
+ Cleet Miller
+
+
+
+  (-2253, -4128)
+
+
+ Butcherblock Mountains
+
+ Inudul Dumirgun
+
+
+
+  (2837, -682)
+
+
+ West Freeport
+
+ Krystin Charcoal
+
+
+
+  (102, 9)
+
+
+ Halas
+
+ Becka McGuzzlin
+
+
+
+  (198, -144)
+
+
+ High Keep
+
+ a clerk
+
+
+
+  (-77, -187)
+
+
+ High Keep
+
+ Dealer Maeline
+
+
+
+  (-101, -326)
+
+
+ Neriak Foreign Quarter
+
+ Wiska
+
+
+
+  (159, -104)
+
+
+ Oggok
+
+ Korgarg Swillchugger
+
+
+
+  (182, -235)
+
+
+ South Qeynos
+
+ Heidi Grainsifter
+
+
+
+  (-169, -278)
+
+
+ Rivervale
+
+ Burtle Barrelbelly
+
+
+
+  (-37, -174)
+
+
+ Ak'Anon
+
+ a clockwork brewmaster
+
+
+
+  (1265, -924)
+
+
+ East Cabilis
+
+ Brewer Prixal
+
+
+
+  (678, -26)
+
+
+ Firiona Vie
+
+ Frothy
+
+
+
+  (-2979, 2973)
+
+
+ Neriak Foreign Quarter
+
+ Ghrag
+
+
+
+  (-260, -261)
+
+
+ Thurgadin
+
+ Tobart Dirkins
+
+
+
+  (-332, -9)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

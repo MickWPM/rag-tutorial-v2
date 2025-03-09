@@ -1,0 +1,89 @@
+ITEM NAME: Maneater Plant Salve
+
+Kunark Era (added 2000)
+
+
+Maneater Plant Salve
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Works as a bandage. These give extra healing of +4 to +8. Skill 100 normally gives 25pts of healing, but using these gains you 29 to 33 pts of healing.
+Vendor sells for: 2g 6s 5cp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Lake of Ill Omen
+
+ Klok Gnask
+
+
+
+
+
+
+ Field of Bone
+
+ Klok Acet
+
+
+
+
+
+
+ Warsliks Wood
+
+ Klok Gragin
+
+
+
+
+
+
+ Warsliks Wood
+
+ Klok Rogalin
+
+
+
+
+
+
+ Swamp of No Hope
+
+ Klok Migo
+
+
+
+
+
+
+ East Cabilis
+
+ Klok Dytar
+
+
+
+
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

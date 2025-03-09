@@ -1,0 +1,69 @@
+ITEM NAME: Block of Velium
+
+Velious Era (added December 2000-2001)
+
+
+
+Block of Velium
+
+
+QUEST ITEM
+WT: 18.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This is vendor trash. Conversion recipes removed in Oct 23rd, 2024 patch [1] 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 12 Platinums
+ 4 Golds
+ 6 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr miner
+
+Icewell Keep
+
+ an avalanche golem
+ Frosticube
+
+Skyshrine
+
+ Patroller Doruuk
+ Patroller Imochen
+ Patroller Sven
+ Patroller Unelorn
+ Patroller Victan
+
+Tower of Frozen Shadow
+
+ a crystallized shadow guard
+ a golem usher
+
+Velketor's Labyrinth
+
+ a crystal destroyer
+ a crystal gargoyle
+ a crystal sentinel
+ a crystalline gargoyle
+ a crystalline sentinel
+ a crystalline watcher
+ a velium hunter
+ Rijoely
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

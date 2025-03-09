@@ -1,0 +1,128 @@
+ITEM NAME: The Scent of Marr
+
+
+The Scent of Marr
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 7 Golds
+ 1 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+
+City of Mist
+
+ a phantom
+
+Eastern Wastes
+
+ a manticore
+ a ulthork man o war
+ kromriff guardsman
+ Ry`Gorr elite guard
+
+Howling Stones
+
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+
+Lake of Ill Omen
+
+A sarnak recruit
+
+Lesser Faydark
+
+ a brownie guard
+
+Lower Guk
+
+ a wan ghoul knight
+
+Rathe Mountains
+
+ a cyclops
+
+Nagafen's Lair
+
+ lava duct crawler
+
+Ocean of Tears
+
+ a gargoyle
+
+Old Sebilis
+
+ froglok jin shaman
+
+Timorous Deep
+
+ a Raptor
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1074, -1041)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Greater Summoning: Air (Trivial: 82)
+ Minor Conjuration: Air (Trivial: 122)
+ Conjuration: Air (Trivial: 162)
+
+
+ Baking
+
+
+
+

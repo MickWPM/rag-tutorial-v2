@@ -1,0 +1,40 @@
+ITEM NAME: Polar Bear Skin
+
+
+Polar Bear Skin
+
+
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Everfrost Peaks
+
+ a glacier bear
+ a polar bear
+ a polar bear cub
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Polar Bear Cloak Quest
+ Cindl's Polar Bear Collection
+ Leatherfoot Raiders
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+ Recipe name(s)? (Trivial: ?)
+
+ Pottery
+ Unfired Lined Poison Vial (Trivial: 168)
+
+
+
+
+

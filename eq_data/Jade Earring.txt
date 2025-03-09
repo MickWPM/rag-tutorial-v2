@@ -1,0 +1,289 @@
+ITEM NAME: Jade Earring
+
+
+Jade Earring
+
+
+Slot: EAR
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 4 Platinums
+ 4 Golds
+ 4 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Befallen
+
+ an elf skeleton
+
+Beholder's Maze
+
+ an evil eye
+
+Crystal Caverns
+
+ a Ry`Gorr inspector
+ a Ry`Gorr miner
+ a stalag terror
+
+Dreadlands
+
+ a tundra yeti
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a skeletal monk
+ dark boned skeleton
+ Torklar Battlemaster
+
+Everfrost Peaks
+
+ an ice giant
+ Karg IceBear
+
+Lake of Ill Omen
+
+ a goblin warrior
+ a Sarnak adherant
+
+Lake Rathetear
+
+ a gnoll embalmer
+
+Lesser Faydark
+
+ a faerie
+ a faerie guard
+ a fairy guard
+ Princess Joleena
+ Thistle Underbrush
+
+Lower Guk
+
+ a deadly black widow
+
+Nagafen's Lair
+
+ fire giant warrior
+ imp protector
+
+Northern Karana
+
+ Callowwing
+
+South Kaladim
+
+ Guard Stump
+
+Mistmoore Castle
+
+ a dark elf noble
+ a dark offerer
+ a dark ritualist
+ a dark sacrificer
+ a ghostly ancille
+ a glyphed forbidder
+ a Mistmoore guard
+ a negotiator
+ a shadowy sage
+ a shadowy scribe
+ a shadowy scrivener
+ a soul inveigling
+ a soul seductress
+ a soul temptress
+ a spectral ancille
+ a spiritish ancille
+ a thought corruptor
+ a thought defiler
+ a thought spoiler
+ a vampire oracle
+ a vampiric ancille
+ a wightish ancille
+ Princess Cherista
+
+Rathe Mountains
+
+ a hill giant
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Swamp of No Hope
+
+ man eating plant
+
+The Feerrott
+
+ Bouncer Flerb
+
+The Overthere
+
+ a barbed succulent
+
+The Wakening Land
+
+ a suit of sentient armor
+
+Upper Guk
+
+ a fungus ancient
+ a fungus mutant
+
+Warsliks Woods
+
+ a skulking brute
+4.3pp at vendor.
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Finlay Kitoran
+
+
+
+  (2769, 2365)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Warsliks Woods
+
+ Klok Rogalin
+
+
+
+  (-1882, -600)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

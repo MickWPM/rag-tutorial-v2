@@ -1,0 +1,41 @@
+ITEM NAME: White Wolf-hide Cloak
+
+
+White Wolf-hide Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 7
+STR: +3  DEX: +3
+SV COLD: +5
+WT: 0.3  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 4 Platinums
+ 6 Golds
+ 0 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Permafrost
+
+ King Thex`Ka IV
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

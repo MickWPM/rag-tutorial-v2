@@ -1,0 +1,36 @@
+ITEM NAME: Small Mosquito Wing
+
+Kunark Era (added 2000)
+Small Mosquito Wing
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+East Cabilis
+
+ a mosquito
+
+Swamp of No Hope
+
+ a large mosquito
+ a mosquito
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cursed Wafers Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

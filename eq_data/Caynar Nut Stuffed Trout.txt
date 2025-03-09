@@ -1,0 +1,40 @@
+ITEM NAME: Caynar Nut Stuffed Trout
+
+
+
+Caynar Nut Stuffed Trout
+
+
+STA: +2
+SV DISEASE: +2
+This is a banquet sized meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+"Any trout" should work. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 128)
+ Yield: Caynar Nut Stuffed Trout x2
+ In Oven:
+
+
+  1 x Bag of Caynar Nuts - Foraged
+  1 x Bloodfin Trout or Fogwater Trout or Cauldron Trout or Frosty Cave Trout - Fished
+  1 x Garnish - Bought
+  1 x Spices - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

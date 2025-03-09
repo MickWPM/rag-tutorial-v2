@@ -1,0 +1,37 @@
+ITEM NAME: Ulthork Hide Gloves
+
+Velious Era (added December 2000-2001)
+
+
+
+Ulthork Hide Gloves
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 8
+CHA: -3  INT: +3
+WT: 1.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 1pp 7gp 
+
+  Drops From 
+Eastern Wastes
+
+ an ulthork warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

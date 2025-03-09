@@ -1,0 +1,34 @@
+ITEM NAME: Torn Sash
+
+
+
+Torn Sash
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+CHA: -1  AGI: +1
+WT: 1.0  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore (from Identify): Exiled Monk Sash 
+
+  Drops From 
+Oasis of Marr
+
+ a young ronin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Rock
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

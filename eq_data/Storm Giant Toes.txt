@@ -1,0 +1,96 @@
+ITEM NAME: Storm Giant Toes
+
+Velious Era (added December 2000-2001)
+
+
+
+Storm Giant Toes
+
+
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Give to Sentry Kcor for CoV and Yelinak faction (1 at a time). 
+ Merchant resale value: 9.6p 
+
+  Drops From 
+Kael Drakkel
+
+ a Protector of Zek
+ Adjutant Brunkin
+ Adjutant Cryyrn
+ Adjutant Daggeruk
+ Adjutant Derkan
+ Adjutant Droggren
+ Adjutant Frinevrn
+ Adjutant Frinvan
+ Adjutant Hekrandor
+ Adjutant Hoggren
+ Adjutant Jharll
+ Adjutant Khellendor
+ Adjutant Stormkeeper
+ Adjutant Strongaxe
+ Adjutant Thyek
+ Adjutant Velsharek
+ Captain Bvellos
+ Guard Dryndomar
+ Guard Ragern
+ Guard Sjior
+ Legionnaire Alveyrem
+ Legionnaire Blizzardwalker
+ Legionnaire Evbarjor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Whiteaxe
+ Legionnaire Yervin
+ Legionnaire Yvedrn
+ Lieutenant Steinern
+ Senior Guard Randeil
+ Senior Guard Whiteaxe
+ Sergeant Fjrak
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+ Veteran Eiyloren
+ Veteran Icecaller
+ Veteran Kltrem
+ Veteran Mjrlind
+ Veteran Skeldek
+ Veteran Surlren
+ Veteran Yllhaydm
+ Watchman Baelsteirn
+ Watchman Bremmn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Storm Giant Toes to Sentry Kcor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

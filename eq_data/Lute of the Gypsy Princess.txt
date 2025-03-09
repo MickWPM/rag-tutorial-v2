@@ -1,0 +1,33 @@
+ITEM NAME: Lute of the Gypsy Princess
+
+
+Lute of the Gypsy Princess
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+Stringed Instruments: 21
+WT: 0.8  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+ Item Lore (from Identify): Mynthis Lute 
+
+  Drops From 
+Mistmoore Castle
+
+ a werewolf
+ Mynthi Davissi
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

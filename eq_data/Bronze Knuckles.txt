@@ -1,0 +1,97 @@
+ITEM NAME: Bronze Knuckles
+
+Classic Era (added 1999-2000)
+
+Bronze Knuckles
+
+
+Slot: PRIMARY
+Skill: Hand to Hand  Atk Delay: 22
+DMG: 3 
+WT: 3.0  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Befallen
+
+ an elf skeleton
+
+Mistmoore Castle
+
+ a glyphed familiar
+ a pledge familiar
+ an initiate familiar
+
+Commonlands
+
+ a Dervish Thug
+ orc legionnaire
+
+Crushbone
+
+ Emperor Crush
+ Lord Darish
+ orc legionnaire
+ orc warlord
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Erud's Crossing
+
+ a zombie sailor
+
+The Estate of Unrest
+
+ a ghoul
+ dark boned skeleton
+ tormented dead
+
+Everfrost Peaks
+
+ an orcish mountaineer
+
+Greater Faydark
+
+ a faerie courtier
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ a faerie
+ a faerie courtier
+ a faerie guard
+ orc chief
+
+Najena
+
+ a greater skeleton
+ an ogre guard
+
+Upper Guk
+
+ a fungus drone
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

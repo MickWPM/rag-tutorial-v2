@@ -1,0 +1,34 @@
+ITEM NAME: Scouts Blade
+
+Classic Era (added 1999-2000)
+
+Scouts Blade
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 24
+DMG: 5 
+STR: +2  INT: +2
+WT: 2.5  Size: MEDIUM
+Class: ROG
+Race: ELF HEF
+
+
+ Item Lore (from Identify): Crysknife 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bloody Shank
+ Scout Blade
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

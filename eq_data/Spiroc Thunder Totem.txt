@@ -1,0 +1,34 @@
+ITEM NAME: Spiroc Thunder Totem
+
+Sky Era (added January 2000)
+
+
+
+Spiroc Thunder Totem
+
+
+LORE ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Fixed as of 2/10/19[1] 
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Thunder
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

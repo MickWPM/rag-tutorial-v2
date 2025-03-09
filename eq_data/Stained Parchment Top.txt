@@ -1,0 +1,32 @@
+ITEM NAME: Stained Parchment Top
+
+
+Stained Parchment Top
+
+
+LORE ITEM
+AC: 4
+WT: 1.0  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+North Kaladim
+
+ Founy Jestands
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

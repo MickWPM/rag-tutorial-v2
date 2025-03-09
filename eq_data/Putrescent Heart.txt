@@ -1,0 +1,32 @@
+ITEM NAME: Putrescent Heart
+
+
+
+Putrescent Heart
+
+
+MAGIC ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ a rancorous ghast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunare Initiate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

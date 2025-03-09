@@ -1,0 +1,31 @@
+ITEM NAME: Torch of Misty
+
+Epic Quests Era (added Sept 2000)
+
+
+Torch of Misty
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM  
+Slot: PRIMARY
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Wurm Tendon Whip
+
+Velious Era (added December 2000-2001)
+
+Wurm Tendon Whip
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 26
+DMG: 12 
+STA: +6
+WT: 1.0  Size: MEDIUM
+Class: WAR RNG BRD
+Race: ALL
+
+
+
+ Merchant resale value: 48p 
+
+  Drops From 
+Great Divide
+
+ shardwurm matriarch
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

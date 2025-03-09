@@ -1,0 +1,37 @@
+ITEM NAME: Starmetal Ore
+
+Kunark Era (added 2000)
+
+Starmetal Ore
+
+
+MAGIC ITEM  
+Slot: RANGE
+SV MAGIC: +2
+WT: 1.4  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Overthere
+
+ a cliff golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Portion of Starmetal (Trivial: 173)
+
+
+
+
+

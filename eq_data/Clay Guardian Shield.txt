@@ -1,0 +1,36 @@
+ITEM NAME: Clay Guardian Shield
+
+Kunark Era (added 2000)
+
+ Project 1999 Blue - Clay Guardian Shield
+Clay Guardian Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 25
+HP: +50
+WT: 7.3  Size: MEDIUM
+Class: WAR CLR PAL SHD SHM
+Race: ALL
+
+
+
+ Merchant resale value: 88p Max 
+
+  Drops From 
+Old Sebilis
+
+ Brogg
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

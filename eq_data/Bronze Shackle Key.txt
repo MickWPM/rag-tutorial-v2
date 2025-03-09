@@ -1,0 +1,33 @@
+ITEM NAME: Bronze Shackle Key
+
+Warrens Era (added spring 2001)
+
+
+Bronze Shackle Key
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Warrens
+
+ Jailer Mkrarrg
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Erudite Prisoners
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

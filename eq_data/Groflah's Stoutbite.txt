@@ -1,0 +1,31 @@
+ITEM NAME: Groflah's Stoutbite
+
+
+Groflah's Stoutbite
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 28
+DMG: 5 
+WT: 6.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Sell to NPC for 4g 7s 6c at indifferently 110 CHA 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Weapons Delivery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

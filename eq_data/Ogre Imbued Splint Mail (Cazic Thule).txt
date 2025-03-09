@@ -1,0 +1,43 @@
+ITEM NAME: Ogre Imbued Splint Mail (Cazic Thule)
+
+
+
+Ogre Imbued Splint Mail
+
+
+Slot: CHEST
+AC: 18
+STR: +1  WIS: +2
+WT: 9.0  Size: MEDIUM
+Class: WAR SHD SHM
+Race: HUM BAR HEF TRL OGR
+Deity: Cazic-Thule
+
+
+Part of the ogre cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 168)
+ Yield: Ogre Imbued Splint Mail x1
+ In Oggok Forge:
+
+
+  1 x Blood Temper - Crafted
+  1 x Imbued Amber - Summoned
+  1 x Large Chainmail Tunic Pattern - Bought
+  1 x Large Leather Tunic - Crafted, Bought
+  3 x Sheet of Adamantite - Crafted, Bought
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

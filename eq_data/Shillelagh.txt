@@ -1,0 +1,35 @@
+ITEM NAME: Shillelagh
+
+Sky Era (added January 2000)
+
+
+Shillelagh
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 10   AC: 2
+CHA: +4  WIS: +9  AGI: +2  MANA: +50
+SV FIRE: +5
+WT: 4.0  Size: LARGE
+Class: DRU
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of The Tree
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

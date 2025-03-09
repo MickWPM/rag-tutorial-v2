@@ -1,0 +1,35 @@
+ITEM NAME: Gnomish Pirate Rapier
+
+Velious Era (added December 2000-2001)
+
+Gnomish Pirate Rapier
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 20
+DMG: 4 
+STR: +3  DEX: +3
+WT: 2.0  Size: SMALL
+Class: WAR RNG SHD BRD ROG
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ gnomish pirate
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

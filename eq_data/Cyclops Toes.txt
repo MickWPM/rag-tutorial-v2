@@ -1,0 +1,58 @@
+ITEM NAME: Cyclops Toes
+
+
+Cyclops Toes
+
+
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 8 Golds
+ 6 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Eastern Plains of Karana
+
+ a cyclops
+ Broon
+
+Rathe Mountains
+
+ a cyclops
+ Tarskuk
+
+Ocean of Tears
+
+ a cyclops
+ a seafury cyclops
+ an ancient cyclops
+ Gornit
+
+Southern Karana
+
+ a cyclops
+
+Western Plains of Karana
+
+ Froon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Broom of Trilon Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

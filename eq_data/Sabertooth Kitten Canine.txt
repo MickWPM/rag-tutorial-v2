@@ -1,0 +1,34 @@
+ITEM NAME: Sabertooth Kitten Canine
+
+Kunark Era (added 2000)
+
+
+Sabertooth Kitten Canine
+
+
+NO DROP
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Not to be confused with Sabertooth Cub Canine... 
+
+  Drops From 
+Lake of Ill Omen
+
+ a sabertooth kitten
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Curscale Shield
+ The Restraining Order
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

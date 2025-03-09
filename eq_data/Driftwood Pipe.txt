@@ -1,0 +1,33 @@
+ITEM NAME: Driftwood Pipe
+
+
+
+Driftwood Pipe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Ocean of Tears
+
+ an isle goblin wizard
+ an isle goblin chieftan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Cloak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

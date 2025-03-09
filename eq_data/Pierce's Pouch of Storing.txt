@@ -1,0 +1,26 @@
+ITEM NAME: Pierce's Pouch of Storing
+
+
+Pierce's Pouch of Storing
+
+
+WT: 0.4  Weight Reduction: 20%
+Capacity: 8  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

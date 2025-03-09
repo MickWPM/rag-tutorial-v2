@@ -1,0 +1,33 @@
+ITEM NAME: Azure Ruby Ring
+
+Sky Era (added January 2000)
+
+
+Azure Ruby Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 5
+STR: +6  DEX: +9  STA: +6
+WT: 0.1  Size: TINY
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Skill
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

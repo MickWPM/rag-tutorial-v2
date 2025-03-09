@@ -1,0 +1,38 @@
+ITEM NAME: Student's Log
+
+
+
+Student's Log
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+
+
+ Item Lore (from Identify):  Report Information 6 of 6 
+
+  Drops From 
+City of Mist
+
+ spectral courier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest 
+
+  Book contents 
+Item lore: Report Information 6 of 6
+Missed mass again today. This is the third time this week now. It is a worthy sacrifice however as I was able to attend the Master's National Coin exchange class.
+Perhaps the clergy will change the time of their masses, then I'll be able to attend regularly.
+Although with the appointment of the new Arch Priest it appears mass may be discontinued altogether. I honestly hope so.
+I could attend many more classes as well as spend more time rubbing elbows with merchants at the bazaars. I think I'll have to miss tomorrow's mass as well.
+I heard the Laughing Leech Guild is taking members again.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

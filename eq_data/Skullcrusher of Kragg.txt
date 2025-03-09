@@ -1,0 +1,36 @@
+ITEM NAME: Skullcrusher of Kragg
+
+Hole Era (added June 2000)
+
+
+Skullcrusher of Kragg
+
+
+MAGIC ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 16 
+Effect:  Stun (Combat, Casting Time: Instant)
+WT: 2.5  Size: MEDIUM
+Class: WAR MNK BRD ROG
+Race: ALL
+
+
+Procs at level 1 
+
+  Drops From 
+Veeshan's Peak
+
+ Druushk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

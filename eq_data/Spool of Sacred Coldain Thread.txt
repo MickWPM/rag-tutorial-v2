@@ -1,0 +1,43 @@
+ITEM NAME: Spool of Sacred Coldain Thread
+
+Velious Era (added December 2000-2001)
+
+
+Spool of Sacred Coldain Thread
+
+
+MAGIC ITEM  NO DROP
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #6: Embroidered Coldain Prayer Shawl
+
+  Player crafted 
+ Tailoring (Trivial: 162)
+ Yield: Spool of Sacred Coldain Thread x1
+ In Loom:
+
+
+  2 x Drakkel Wolf Whisker - Dropped
+  2 x Manticore Mane - Dropped
+  2 x Siren Hair - Dropped
+  1 x Woven Frost Giant Beard - Dropped 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Embroidered Coldain Prayer Shawl (Trivial: 208)
+
+
+
+
+

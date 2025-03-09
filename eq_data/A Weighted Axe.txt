@@ -1,0 +1,54 @@
+ITEM NAME: A Weighted Axe
+
+Kunark Era (added 2000)
+A Weighted Axe
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 150
+DMG: 45 
+WT: 9.4  Size: LARGE
+Class: WAR SHD
+Race: BAR TRL OGR
+
+
+Makes for an amazing archery damage boosting tool for warriors due to the incredible delay. Pets cannot use. 
+ Merchant resale value: ~2pp 
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+ a forest giant verdant
+ Carpenter Grundo
+
+Dreadlands
+
+ a mountain giant craig
+
+Firiona Vie
+
+ a forest giant arbor
+
+Frontier Mountains
+
+ a mountain giant craig
+ a mountain giant tump
+
+Warslik's Woods
+
+ a forest giant greenwood
+ A Forest Giant Evergreen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

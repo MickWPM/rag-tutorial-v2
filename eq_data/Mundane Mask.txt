@@ -1,0 +1,31 @@
+ITEM NAME: Mundane Mask
+
+Paineel Era (added February 2000)
+
+
+Mundane Mask
+
+
+LORE ITEM NO DROP
+AC: 2
+WT: 2.0  Size: SMALL
+Class: CLR
+Race: HUM ERU
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Terror
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

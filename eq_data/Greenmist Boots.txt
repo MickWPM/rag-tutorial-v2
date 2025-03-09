@@ -1,0 +1,35 @@
+ITEM NAME: Greenmist Boots
+
+Warrens Era (added spring 2001)
+
+
+Greenmist Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 17
+STR: +5  STA: +5  INT: +5  AGI: +5  HP: +30  MANA: +30
+WT: 3.5  Size: MEDIUM
+Class: SHD
+Race: IKS
+
+
+Part of the Greenmist Armor set. 
+
+  Drops From 
+Plane of Fear
+
+ a nightmare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

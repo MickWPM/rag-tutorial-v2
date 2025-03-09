@@ -1,0 +1,48 @@
+ITEM NAME: A Sparkling Sapphire
+
+
+
+Sparkling Sapphire
+
+
+LORE ITEM NO TRADE 
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are two identically named items. The one purchased from Noresa has Item Lore Mezonium Qate. The second is given by Bubar, and has Item Lore: Gem Of Righteousness.
+
+ Item Lore (from Identify): Mezonium Qate
+ Item Lore (from Identify): Gem of Righteousness
+Sale price reduced on 17 Feb, 2013 patch. Costs 503 platinum, 9 gold, 9 silver, 9 copper to buy. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

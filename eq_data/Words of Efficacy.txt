@@ -1,0 +1,38 @@
+ITEM NAME: Words of Efficacy
+
+
+Words of Efficacy
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 2p 5g 3s 4c 
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~34 mob
+ Sand Giant
+
+Lower Guk
+
+a wan ghoul knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Surge of Enfeeblement (Trivial: 120)
+
+
+
+
+

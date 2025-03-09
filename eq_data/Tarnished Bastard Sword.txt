@@ -1,0 +1,32 @@
+ITEM NAME: Tarnished Bastard Sword
+
+
+
+Tarnished Bastard Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 40
+DMG: 6 
+WT: 9.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Orc Hatchets
+
+  Player crafted 
+ Blacksmithing (Trivial: 25) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

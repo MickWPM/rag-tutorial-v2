@@ -1,0 +1,43 @@
+ITEM NAME: Words of Enlightenment
+
+
+Words of Enlightenment
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 5 Golds
+ 7 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Lower Guk
+
+ a zol ghoul knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Identify (Trivial: 41)
+
+
+
+
+

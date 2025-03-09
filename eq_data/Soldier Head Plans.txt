@@ -1,0 +1,32 @@
+ITEM NAME: Soldier Head Plans
+
+
+
+Soldier Head Plans
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Recieved from War Baron Eator in return for the three gems and the previous pike. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #3 (Soldier's Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Soldier's Pike Head (Trivial: 15)
+
+
+
+
+

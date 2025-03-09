@@ -1,0 +1,35 @@
+ITEM NAME: Earthcaller
+
+Epic Quests Era (added Sept 2000)
+
+Earthcaller
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 14 
+STR: +15  DEX: +10  STA: +5  HP: +50
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Earthcall (Combat, Casting Time: Instant) at Level 50
+WT: 2.0  Size: MEDIUM
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+ Item Lore (from Identify): Blessed by the Earth Goddess 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

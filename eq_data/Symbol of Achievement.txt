@@ -1,0 +1,29 @@
+ITEM NAME: Symbol of Achievement
+
+Classic Era (added 1999-2000)
+Symbol of Achievement
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+CHA: +1
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Call of Flame Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Flute of the Sacred Glade
+
+Velious Era (added December 2000-2001)
+
+
+
+Flute of the Sacred Glade
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+Wind Instrument: 25
+CHA: +8  WIS: +4
+SV DISEASE: +10
+WT: 1.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ Prince Thirneg
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

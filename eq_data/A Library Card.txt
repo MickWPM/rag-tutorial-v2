@@ -1,0 +1,35 @@
+ITEM NAME: A Library Card
+
+Velious Era (added December 2000-2001)
+
+
+A Library Card
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Giving the library card to Posie the Librarian results in the Book of Mischief. 
+
+  Drops From 
+Plane of Mischief
+
+ gorillas
+ Glonk
+ Jumbo Gorilla King (?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

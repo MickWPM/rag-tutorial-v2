@@ -1,0 +1,32 @@
+ITEM NAME: Tome Binder
+
+Kunark Era (added 2000)
+
+
+Tome Binder
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Weight Reduction: 0%
+Capacity: 10  Size Capacity: TINY
+
+
+10-slot container! 
+
+  Drops From 
+Swamp of No Hope
+
+ froglok raider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of Pain (#2)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

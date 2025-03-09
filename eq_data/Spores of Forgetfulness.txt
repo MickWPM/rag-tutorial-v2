@@ -1,0 +1,33 @@
+ITEM NAME: Spores of Forgetfulness
+
+
+Spores of Forgetfulness
+
+
+MAGIC ITEM  LORE ITEM
+EXPENDABLE  Charges: 1
+Effect:  Blanket of Forgetfulness (Any Slot, Casting Time: Instant)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ myconid reaver
+ myconid Priest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

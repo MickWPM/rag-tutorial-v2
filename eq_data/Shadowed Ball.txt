@@ -1,0 +1,41 @@
+ITEM NAME: Shadowed Ball
+
+
+Shadowed Ball
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY  
+Slot: PRIMARY SECONDARY
+AC: 5
+WT: 0.5  Size: SMALL
+Class: NONE
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Lesser Faydark
+
+ a shadowed man
+
+Nektulos Forest
+
+ a shadowed man
+
+Southern Karana
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tishan's Kilt Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

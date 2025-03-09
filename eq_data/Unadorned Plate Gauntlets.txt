@@ -1,0 +1,117 @@
+ITEM NAME: Unadorned Plate Gauntlets
+
+Velious Era (added December 2000-2001)
+
+Unadorned Plate Gauntlets
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+WT: 5.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+(ToV East mobs)
+
+ an ancient guardian wurm
+ an ancient tigerclaw racnar
+ an elder shard wyvern
+ a burning guardian
+ a fiery drake
+ a greater sky drake
+ an ancient frost guardian
+ an ancient shard wyvern
+ a raging wyvern
+ a vehement wyvern
+ a shimmer drake
+ a racnar
+ an emerald watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Related quests 
+Bard Skyshrine Gauntlets (Gauntlets of TwilightGauntlets of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 17
+STR: +4  DEX: +3  STA: +3  CHA: +3  AGI: +3  HP: +15
+SV FIRE: +2  SV COLD: +2  SV MAGIC: +2
+WT: 4.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+)
+Cleric Skyshrine Gauntlets (Akkirus' Chestplate of the RisenAkkirus' Chestplate of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 50
+STA: +9  WIS: +15  AGI: +5  HP: +50  MANA: +90
+SV FIRE: +8  SV DISEASE: +9  SV COLD: +8  SV MAGIC: +9  SV POISON: +8
+Effect:  Mark of Karn (Must Equip, Casting Time: 9.0) at level 46
+WT: 8.0  Size: LARGE
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+)
+Paladin Skyshrine Gauntlets (Scaled Knight's GauntletsScaled Knight's Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 18
+STR: +3  DEX: +1  STA: +3  WIS: +2  AGI: +1  HP: +40  MANA: +10
+SV MAGIC: +5
+WT: 4.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+)
+Shadowknight Skyshrine Gauntlets (Blood Lord's GauntletsBlood Lord's Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 18
+STR: +5  DEX: +3  STA: +3  INT: +3  AGI: +3  MANA: +10
+SV MAGIC: +4
+WT: 4.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+)
+Warrior Skyshrine Gauntlets (Gauntlets of the MyrmidonGauntlets of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 27
+DEX: +8  HP: +90
+WT: 5.5  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+)
+
+

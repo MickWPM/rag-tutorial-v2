@@ -1,0 +1,35 @@
+ITEM NAME: Obsidian Coldain Insignia Ring
+
+Velious Era (added December 2000-2001)
+
+
+Obsidian Coldain Insignia Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 5
+STR: +5
+SV MAGIC: +5
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #6: Mithril Coldain Insignia Ring
+ Coldain Ring #5: Obsidian Coldain Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Iksar Berserker Club
+
+Kunark Era (added 2000)
+
+Iksar Berserker Club
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 18
+DMG: 7 
+STR: +4  WIS: +4  INT: -2
+Effect:  Fleeting Fury (Combat, Casting Time: Instant) at Level 10
+WT: 8.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ Skeletal Caretaker
+
+Kurn's Tower
+
+ an undead jester
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

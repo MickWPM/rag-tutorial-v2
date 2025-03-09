@@ -1,0 +1,68 @@
+ITEM NAME: Sarnak Earring of Station
+
+Kunark Era (added 2000)
+
+Sarnak Earring of Station
+
+
+MAGIC ITEM  NO DROP
+Slot: EAR
+AC: 5
+STR: +5
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+For a discussion on the best places to camp this, see [1]. 
+
+  Drops From 
+Burning Woods
+
+ a sarnak extremist
+ a sarnak zealot
+
+Chardok
+
+ a Di`zok Invoker
+ a Di`zok Librarian
+ a Di`zok Soldier
+ a Shai`din Soldier
+ Arch Inspector Nibi`zi
+
+Crypt of Dalnir
+
+ a kly acolyte
+ a kly believer
+ a kly invoker
+ a kly evoker
+ A Kly Imprecator
+
+Frontier Mountains
+
+ a Sarnak enthusiast
+ A sarnak partisan
+
+Lake of Ill Omen
+
+ a Sarnak adherant
+ a Sarnak revealer
+ a Sarnak revenant
+
+ a Sarnak gem oracle
+
+The Overthere
+
+ a Sarnak enthusiast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

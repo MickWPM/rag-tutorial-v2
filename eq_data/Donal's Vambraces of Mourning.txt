@@ -1,0 +1,34 @@
+ITEM NAME: Donal's Vambraces of Mourning
+
+Kunark Era (added 2000)
+
+Donal's Vambraces of Mourning
+
+
+LORE ITEM
+Slot: ARMS
+AC: 21
+Effect:  Valor (Must Equip, Casting Time: 12.0) at Level 45
+WT: 6.5  Size: SMALL
+Class: CLR
+Race: ALL except IKS
+
+
+Part of the Donal's Armor of Mourning set. 
+
+  Drops From 
+Old Sebilis
+
+ froglok ostiary
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

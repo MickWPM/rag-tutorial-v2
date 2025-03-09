@@ -1,0 +1,33 @@
+ITEM NAME: Large Sky Diamond
+
+Sky Era (added January 2000)
+
+
+Large Sky Diamond
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Eye of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Test of Compassion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

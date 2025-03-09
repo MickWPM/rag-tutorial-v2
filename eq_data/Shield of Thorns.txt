@@ -1,0 +1,35 @@
+ITEM NAME: Shield of Thorns
+
+Velious Era (added December 2000-2001)For the spell of the same name, see Shield of Thorns (Spell)
+ Red1999's first Shield of Thorns - Tamtam <Empire>
+Shield of Thorns
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 33
+WIS: +15  HP: +50  MANA: +40
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+WT: 1.0  Size: TINY
+Class: DRU
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Temple of Veeshan
+
+ Flurry Drakes
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

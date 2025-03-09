@@ -1,0 +1,35 @@
+ITEM NAME: Wrist Guard of Thunder
+
+Velious Era (added December 2000-2001)
+
+Wrist Guard of Thunder
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+AC: 20
+STR: +10  DEX: +5  AGI: +5  HP: +50
+SV FIRE: +10  SV MAGIC: +10  SV POISON: +10
+WT: 0.1  Size: TINY
+Class: MNK
+Race: ALL
+
+
+Post Velious Stat Upgrade (currently live) 
+
+  Drops From 
+Kael Drakkel
+
+ King Tormax
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

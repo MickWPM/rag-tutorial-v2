@@ -1,0 +1,34 @@
+ITEM NAME: A bloody protector of Zek's Head
+
+Velious Era (added December 2000-2001)
+
+
+A bloody protector of Zek's Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a Protector of Zek
+ protector of Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Helm of the Tracker Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

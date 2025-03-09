@@ -1,0 +1,33 @@
+ITEM NAME: Rowyl's Vambraces of Nature
+
+Velious Era (added December 2000-2001)
+
+
+Rowyl's Vambraces of Nature
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 7
+WIS: +2  MANA: +30
+WT: 1.5  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid's Velium Sleeves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

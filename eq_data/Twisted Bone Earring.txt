@@ -1,0 +1,36 @@
+ITEM NAME: Twisted Bone Earring
+
+Kunark Era (added 2000)
+
+Twisted Bone Earring
+
+
+MAGIC ITEM  LORE ITEM
+Slot: EAR
+AC: 5
+DEX: +5  INT: +6  HP: +20
+WT: 0.2  Size: TINY
+Class: ALL
+Race: HUM BAR ERU ELF HIE DEF TRL OGR HFL IKS
+
+
+ Item Lore (from Identify): Twisted Bone Earring 
+
+  Drops From 
+Lake Rathetear
+
+ a bone golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Not usable by Gnomes, Half-Elves, or Dwarves.
+
+

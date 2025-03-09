@@ -1,0 +1,74 @@
+ITEM NAME: Large Brick of Mithril
+
+
+
+Large Brick of Mithril
+
+
+WT: 10.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Can be converted into an Enchanted Lrg. Brick of Mithril with the Enchant Mithril spell. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Felwithe
+
+ Tanalin Silverkale
+
+
+
+  (117, -414)
+
+
+ Felwithe
+
+ Opal Leganyn
+
+
+
+  (-80, -413)
+
+
+ Greater Faydark
+
+ Merchant Niwiny
+
+
+
+  (-188, 136)
+
+Vendor cost: 17p8g1s1c or higher. 
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 29)
+ Yield: Large Brick of Mithril x1
+ In Koada`Dal Forge:
+
+
+  1 x Morning Dew - Foraged, Dropped, Ground Spawn
+  3 x Small Brick of Mithril - Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Mithril Rings (Trivial: 46)
+ Block of Mithril (Trivial: 120)
+
+
+
+
+

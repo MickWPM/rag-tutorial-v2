@@ -1,0 +1,45 @@
+ITEM NAME: Rune of Neglect
+
+
+Rune of Neglect
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: ~1pp 
+
+  Drops From 
+Various Zones
+
+ Level Appropriate Mobs
+
+Gorge of King Xorbb
+
+ a gorge minotaur
+
+Lower Guk
+
+ a zol ghoul knight
+
+Nektulos Forest
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Enstill (Trivial: 41)
+
+
+
+
+

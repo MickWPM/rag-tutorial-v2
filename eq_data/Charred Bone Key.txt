@@ -1,0 +1,33 @@
+ITEM NAME: Charred Bone Key
+
+Classic Era (added 1999-2000)
+
+Charred Bone Key
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Unlocks west second floor locked door in Befallen. 
+
+  Drops From 
+Befallen
+
+ a shadowknight (Dark Elf Female)
+ a shadowknight (Human)
+ a shadowknight (Ogre)
+ a shadowknight (Troll)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

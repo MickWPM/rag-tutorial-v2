@@ -1,0 +1,47 @@
+ITEM NAME: Velium Throwing Spear
+
+Velious Era (added December 2000-2001)
+
+
+Velium Throwing Spear
+
+
+MAGIC ITEM  
+Slot: RANGE
+Skill: Throwingv1  Atk Delay: 34
+DMG: 8
+WT: 1.5  Range: 210  Size: LARGE
+Class: WAR RNG MNK BRD ROG
+Race: ALL
+
+
+Doesn't stack. Probably the longest range, vendor sold throwing weapon for monks, if they have the bag space. Consider buying the Velium Shuriken instead. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

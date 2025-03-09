@@ -1,0 +1,42 @@
+ITEM NAME: Gold Full Plate Bracer
+
+
+
+Gold Full Plate Bracer
+
+
+Slot: WRIST
+AC: 12
+WT: 4.4  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: HUM BAR ERU HEF
+
+
+Part of the human cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 204)
+ Yield: Gold Full Plate Bracer x1
+ In Antonican Forge:
+
+
+  1 x Chain Jointing - Crafted
+  1 x Full Plate Bracer Mold - Bought
+  1 x Gold Bar - Bought
+  1 x High Quality Folded Sheet Metal - Crafted
+  1 x Leather Padding - Crafted
+  1 x Royal Temper - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

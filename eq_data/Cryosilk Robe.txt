@@ -1,0 +1,36 @@
+ITEM NAME: Cryosilk Robe
+
+Fear Era (added July 1999)
+ NERF ALERT (see notes)
+Cryosilk Robe
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 11
+DEX: +9  STA: +13  INT: +13  MANA: +35
+WT: 1.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Cryosilk Armor set
+No longer drops.
+Ceases to drop with plane of Hate Era (November 1999). 
+
+  Drops From 
+Plane of Fear
+
+ a spinechiller spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

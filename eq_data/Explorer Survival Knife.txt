@@ -1,0 +1,33 @@
+ITEM NAME: Explorer Survival Knife
+
+
+
+Explorer Survival Knife
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a lead explorer
+ an explorer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Explorer Survival Knives
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

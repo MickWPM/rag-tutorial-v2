@@ -1,0 +1,37 @@
+ITEM NAME: Sphinx Tallow
+
+Sky Era (added January 2000)
+
+
+
+Sphinx Tallow
+
+
+LORE ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a fatestealer drake
+ a heartsbane drake
+ a windrider drake
+ an undine spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Ranged Attack
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

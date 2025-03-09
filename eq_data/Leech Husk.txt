@@ -1,0 +1,52 @@
+ITEM NAME: Leech Husk
+
+
+
+Leech Husk
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+East Cabilis
+
+ a giant swamp leech
+ a swamp leech
+
+Swamp of No Hope
+
+ a giant swamp leech
+ a swamp leech
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Swamp of No Hope
+
+ Klok Bygle
+
+  Roof of ruins near entrance to Cabilis.
+
+  (2714, 2816)
+
+  Related quests 
+ Sparring Armor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

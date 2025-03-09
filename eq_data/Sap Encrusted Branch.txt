@@ -1,0 +1,38 @@
+ITEM NAME: Sap Encrusted Branch
+
+Velious Era (added December 2000-2001)
+
+
+Sap Encrusted Branch
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 19
+DMG: 14   AC: 5
+STA: +16
+SV FIRE: +12  SV DISEASE: +12  SV POISON: +12
+Effect: Ensnare (Combat, Casting Time: Instant) at Level 49
+WT: 0.5  Size: MEDIUM
+Class: CLR RNG DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ Tunare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

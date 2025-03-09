@@ -1,0 +1,37 @@
+ITEM NAME: Legionnaire Scale Breastplate
+
+Warrens Era (added spring 2001)
+
+
+Legionnaire Scale Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 33
+STR: +15  DEX: +15  STA: +15  HP: +50
+SV DISEASE: +5  SV MAGIC: +10  SV POISON: +5
+WT: 7.0  Size: LARGE
+Class: WAR
+Race: IKS
+
+
+Part of the Legionnaire Scale Armor set. 
+
+  Drops From 
+Plane of Hate
+
+ a kiraikuei
+ Grandmaster R`Tal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

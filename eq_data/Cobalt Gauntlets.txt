@@ -1,0 +1,35 @@
+ITEM NAME: Cobalt Gauntlets
+
+Kunark Era (added 2000)
+
+Cobalt Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 25
+Effect:  Reckless Strength (Must Equip, Casting Time: 10.0) at Level 45
+WT: 5.0  Size: SMALL
+Class: WAR
+Race: ALL except IKS
+
+
+Part of Cobalt Armor set. 
+ Merchant resale value: 430p 3g 5s 8c at Kindly faction and 75 CHA 
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

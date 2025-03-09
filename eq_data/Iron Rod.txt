@@ -1,0 +1,44 @@
+ITEM NAME: Iron Rod
+
+
+
+Iron Rod
+
+
+NO DROP
+WT: 10.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Weaponsmith Grugl
+
+
+
+  (-432, -33)
+
+  Related quests 
+ Warrior Pike #4 (Trooper's Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

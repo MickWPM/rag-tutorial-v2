@@ -1,0 +1,33 @@
+ITEM NAME: Shield of Nife
+
+
+
+Shield of Nife
+
+
+MAGIC ITEM LORE ITEM  
+Slot: SECONDARY
+AC: 11
+STR: -1  STA: +1  WIS: +1  CHA: +1  HP: +10
+SV DISEASE: +3  SV MAGIC: +10  SV POISON: +3
+WT: 7.5  Size: LARGE
+Class: CLR PAL
+Race: HUM HEF
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Putrid Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

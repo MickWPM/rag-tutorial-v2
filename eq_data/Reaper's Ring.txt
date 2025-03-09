@@ -1,0 +1,35 @@
+ITEM NAME: Reaper's Ring
+
+Velious Era (added December 2000-2001)
+
+Reaper's Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 10
+STA: +15  HP: +50  MANA: +50
+Effect: Grim Aura (Any Slot, Casting Time: Instant)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Also a reward from the P99 2016 Halloween GM Event scavenger hunt. 
+
+  Drops From 
+Temple of Veeshan
+
+ Aaryonar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

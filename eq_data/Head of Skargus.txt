@@ -1,0 +1,34 @@
+ITEM NAME: Head of Skargus
+
+Chardok Revamp Era (added late 2001)
+
+Head of Skargus
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): Ick
+
+Icky! 
+
+  Drops From 
+Temple of Droga
+
+ Warlord Skargus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Regal Band of Bathezid Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

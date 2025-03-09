@@ -1,0 +1,54 @@
+ITEM NAME: Lizard Meat
+
+Classic Era (added 1999-2000)
+
+Lizard Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 0 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Rathe Mountains
+
+ a lizard man guard
+ a lizard man scout
+ a lizardman mystic
+ a lizardman robber
+ a lizardman warrior
+
+The Feerrott
+
+ a lizardman mystic
+ lizard man broodling
+ Roror
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lizard Meat Quest
+ Lizard Meat No 2
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Pickled Lizard (Trivial: 51)
+ Lizard-on-a-Stick (Trivial: 56)
+
+
+
+
+

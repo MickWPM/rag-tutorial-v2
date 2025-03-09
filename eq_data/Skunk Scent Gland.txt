@@ -1,0 +1,37 @@
+ITEM NAME: Skunk Scent Gland
+
+
+
+Skunk Scent Gland
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a large skunk
+
+Toxxulia Forest
+
+ a skunk
+ a large skunk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Skunk Hunting
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Ring of the Frost Spiders
+
+Velious Era (added December 2000-2001)
+
+Ring of the Frost Spiders
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+AC: 5
+WIS: +2  INT: +2  HP: +25  MANA: +25
+SV POISON: +10
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify):  Ring of the Frost Spiders
+This item can't be equipped by any class until  Aug  '01, at which point it may be worn by the listed classes. 
+
+  Drops From 
+Velketor's Labyrinth
+
+ a Frenzied Velium Stalker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

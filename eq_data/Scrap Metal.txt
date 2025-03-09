@@ -1,0 +1,51 @@
+ITEM NAME: Scrap Metal
+
+
+
+Scrap Metal
+
+
+QUEST ITEM
+WT: 7.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Different items with different lore and stats.
+ Item Lore (from Identify): ScrapMetalCleanerVII LORE ITEM NO DROP 
+
+  Drops From 
+Ak'Anon
+
+ Clockwork MX
+Clockwork XVD
+Clockwork XVE
+Clockwork XXVIC
+Clockwork XVIIC
+Guide I
+Guide II
+Guide III
+Guide IV
+Guide V
+
+North Kaladim
+
+ Cleaner VII
+
+Steamfont Mountains
+
+ rogue clockwork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleaner Clockwork
+ Scrap Metal Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

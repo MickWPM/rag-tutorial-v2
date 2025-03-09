@@ -1,0 +1,32 @@
+ITEM NAME: Shadow Gauntlets
+
+Velious Era (added December 2000-2001)
+Shadow Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 16
+STR: +5  DEX: +3  STA: +2  AGI: +5
+SV MAGIC: +4
+WT: 4.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Skyshrine Gauntlets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Blackened Crystalline Robe
+
+Velious Era (added December 2000-2001)
+
+ 
+Blackened Crystalline Robe
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 8
+CHA: +5  INT: +6
+SV COLD: +10
+WT: 3.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Drops from both mobs below. It is a rare drop from both (~10%?) but the life leech is easier to spawn and to get to than the herbalist, which cannot be camped in a reliable fashion. 
+
+  Drops From 
+Crystal Caverns
+
+ a life leech
+ a Ry`Gorr herbalist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Shard of Night
+
+Chardok Revamp Era (added late 2001)
+
+Shard of Night
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 24
+DMG: 21 
+STR: +5  INT: +5  MANA: +25
+SV DISEASE: +5  SV POISON: +5
+WT: 0.6  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Overseer Dal`guur
+ Queen Velazul Di`zok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

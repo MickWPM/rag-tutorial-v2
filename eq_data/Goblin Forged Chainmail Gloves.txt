@@ -1,0 +1,35 @@
+ITEM NAME: Goblin Forged Chainmail Gloves
+
+Kunark Era (added 2000)
+
+Goblin Forged Chainmail Gloves
+
+
+Slot: HANDS
+AC: 7
+HP: +10
+SV POISON: -2
+WT: 6.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+ Merchant resale value: 29pp 
+
+  Drops From 
+Temple of Droga
+
+ ?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

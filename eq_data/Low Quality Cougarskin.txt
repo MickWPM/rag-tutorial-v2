@@ -1,0 +1,36 @@
+ITEM NAME: Low Quality Cougarskin
+
+Velious Era (added December 2000-2001)
+
+Low Quality Cougarskin
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Vendors for ~5c 
+
+  Drops From 
+Iceclad Ocean
+
+ a snow cougar
+ rabid snow cougar
+
+Eastern Wastes
+
+ a snow cougar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cougarskin Sleeves Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

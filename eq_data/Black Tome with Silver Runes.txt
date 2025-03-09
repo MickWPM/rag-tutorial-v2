@@ -1,0 +1,38 @@
+ITEM NAME: Black Tome with Silver Runes
+
+Classic Era (added 1999-2000)
+
+Black Tome with Silver Runes
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+INT: +4  MANA: +30
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 37p 5g 1s 5c 
+
+  Drops From 
+Lower Guk
+
+ a froglok tactician
+
+Najena
+
+ Najena (NPC)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

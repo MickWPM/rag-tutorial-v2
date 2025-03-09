@@ -1,0 +1,35 @@
+ITEM NAME: Ruined Gnoll Chain Coat
+
+
+
+Ruined Gnoll Chain Coat
+
+
+LORE ITEM
+Slot: CHEST
+AC: 8
+WT: 10.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a gnoll
+ a gnoll guardsman
+ Nixx Darkpaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

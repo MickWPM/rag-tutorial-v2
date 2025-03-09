@@ -1,0 +1,138 @@
+ITEM NAME: Hunting Bow
+
+
+Hunting Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 43
+DMG: 5
+WT: 3.5  Range: 50  Size: MEDIUM
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+Vendors for 2 gold 3 silver 1 copper. 
+
+  Drops From 
+Blackburrow
+
+ a gnoll
+
+Butcherblock Mountains
+
+ an aqua goblin
+ an aqua goblin wizard
+
+Dagnor's Cauldron
+
+ Dwigus Lowater
+
+Innothule Swamp
+
+ Gwynn Marthank
+ Rell Ostodl
+
+Lake Rathetear
+
+ a deepwater goblin
+ tainted aquagoblin
+
+Ocean of Tears
+
+ aqua goblin sacrifice
+
+Southern Karana
+
+ centaur archer
+ centaur charger
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+The Warrens
+
+ Huntmaster Furgrl
+ A kobold archer
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Granthrow
+
+
+
+  (-508, -311)
+
+
+ Firiona Vie
+
+ Rafron Brandin
+
+
+
+  (-3833, 1671)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Lake Rathetear
+
+ Turga
+
+
+
+  (3126, -1815)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Surefall Glade
+
+ Bukem Breewood
+
+
+
+  (106, -79)
+
+
+ Timorous Deep
+
+ Micus Vloren
+
+
+
+  (-5195, -4335)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

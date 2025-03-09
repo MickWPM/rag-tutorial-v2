@@ -1,0 +1,32 @@
+ITEM NAME: Gossamer Leggings
+
+
+Gossamer Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 5
+WT: 0.7  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Gossamer Armor Set 
+
+  Drops From 
+The Estate of Unrest
+
+ a festering hag
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

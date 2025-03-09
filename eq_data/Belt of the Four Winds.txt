@@ -1,0 +1,35 @@
+ITEM NAME: Belt of the Four Winds
+
+Sky Era (added January 2000) Actual graphic.
+
+
+Belt of the Four Winds
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 5
+STR: +12  DEX: +6  STA: +12  AGI: +6
+SV MAGIC: +5
+Haste: +41%  
+WT: 2.0  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Think
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

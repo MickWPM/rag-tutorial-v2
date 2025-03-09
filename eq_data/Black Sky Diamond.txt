@@ -1,0 +1,35 @@
+ITEM NAME: Black Sky Diamond
+
+Sky Era (added January 2000)
+
+
+
+Black Sky Diamond
+
+
+LORE ITEM
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a greater sphinx
+ an undine spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Incapacitation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

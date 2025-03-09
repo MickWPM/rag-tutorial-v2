@@ -1,0 +1,29 @@
+ITEM NAME: Archeologist Pack
+
+
+Archeologist Pack
+
+
+LORE ITEM
+WT: 0.4  Weight Reduction: 25%
+Capacity: 6  Size Capacity: LARGE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Permafrost
+
+ a goblin archeologist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

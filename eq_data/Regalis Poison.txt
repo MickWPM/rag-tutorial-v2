@@ -1,0 +1,39 @@
+ITEM NAME: Regalis Poison
+
+
+
+Regalis Poison
+
+
+Charges: 1
+Effect:  Weakening Poison I (Combat) at Level 10
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 22)
+ Yield: Regalis Poison x1
+ In Mortar and Pestle:
+
+
+  1 x Froglok Poison Gland - Dropped
+  1 x Poison Vial - Crafted, Bought, Returned on Failure
+  1 x Suspension - Bought
+  1 x Urticating Hairs - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

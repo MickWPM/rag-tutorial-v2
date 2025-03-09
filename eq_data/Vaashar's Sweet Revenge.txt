@@ -1,0 +1,190 @@
+ITEM NAME: Vaashar's Sweet Revenge
+
+
+
+Vaashar's Sweet Revenge
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Meat Pie
+Only the most skillful chefs can make a proper Meat Pie, but with a little practice, this
+recipe can even be made by a Troll (or out of Troll if you prefer).
+Ingredients: Clump of Dough, Chunk of Meat, Spices, 1 Pie Tin
+Cooking Instructions: For crust, line the bottom of a pie tin with a clump
+of dough. Mix a chunk of meat with spices and plop onto the crust. Decorate
+top with extra dough. Bake at high heat until juices ooze out the sides.
+Tastes great with: Rat Ear Crunchies and Ale
+Berry Pie
+This perfectly picked purple pie pleases peoples' pallets and plumps puny people properly.
+Ingredients: Clump of Dough, Berries, Spices, 1 Pie Tin
+Cooking Instructions: For crust, line the bottom of a pie tin with a clump
+of dough. Combine berries and spices and pour onto the crust. Weave strips
+of dough across the top. Bake until golden.
+Tastes great with: Beer Braised Lion and Short Beer
+Cupcakes
+Lumpy, bumpy and delicious. Cupcakes were originally created by a clumsy traveler who
+dropped his last clump of dough into some frosting.
+Ingredients: Clump of Dough, Spices, Frosting, 1 Muffin Tin
+Cooking Instructions: Combine a clump of dough and some spices. Pour into a muffin tin. Bake
+at medium heat until gray and lumps begin to rise. Allow to cool, then dunk tops in frosting and eat.
+Tastes great with: Blackened Teir'Dal and Ale
+Vegetable Pie
+Also known as "Picker's Pie". A forager's favorite because it can be made from just about anything
+you can dig up. Just scrounge, chop, and bake.
+Ingredients: Clump of Dough, Vegetables, Spices, 1 Pie Tin
+Cooking Instructions: For crust, line the bottom of a pie tin with a clump of dough. Combine chop-
+ped vegetables and spices and dump onto the crust. Top with extra dough. Bake at high heat until
+juices ooze out the sides.
+Tastes great with: Pickled Troll and Ale.
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

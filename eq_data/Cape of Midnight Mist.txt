@@ -1,0 +1,35 @@
+ITEM NAME: Cape of Midnight Mist
+
+
+Cape of Midnight Mist
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 2
+STR: +5
+SV MAGIC: +7
+WT: 0.1  Size: SMALL
+Class: CLR DRU BRD SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 4.2p 
+
+  Drops From 
+Mistmoore Castle
+
+ Butler Syncall
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

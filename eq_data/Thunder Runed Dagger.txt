@@ -1,0 +1,40 @@
+ITEM NAME: Thunder Runed Dagger
+
+Velious Era (added December 2000-2001)
+
+
+Thunder Runed Dagger
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 18
+DMG: 9 
+INT: +3  MANA: +30
+SV MAGIC: +4
+WT: 1.0  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a guardian of Zek
+ Adjutant Cryyrn
+ Armor of Zek
+ Klraggek the Slayer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

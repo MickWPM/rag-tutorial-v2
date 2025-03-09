@@ -1,0 +1,40 @@
+ITEM NAME: Mermaid Scale
+
+
+Mermaid Scale
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Erud's Crossing
+
+ Hastashi
+
+Kedge Keep
+
+ a gloomstalker mermaid
+ a gloomwater mermaid
+ Coralyn Kelpmaiden
+
+Ocean of Tears
+
+ an alluring siren
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Stein Of Ulissa Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

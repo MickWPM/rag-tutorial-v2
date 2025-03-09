@@ -1,0 +1,35 @@
+ITEM NAME: Holy Partisan of Underfoot
+
+Classic Era (added 1999-2000)
+
+
+Holy Partisan of Underfoot
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 46
+DMG: 14 
+HP: +25    SV MAGIC: +5
+WT: 12.0  Size: GIANT
+Class: PAL
+Race: HUM HIE DWF
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Effect:  Skin like Rock (5 charges) and BACK SLOT was added at some time...[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Chalice of Conquest Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

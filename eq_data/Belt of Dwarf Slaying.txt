@@ -1,0 +1,35 @@
+ITEM NAME: Belt of Dwarf Slaying
+
+Velious Era (added December 2000-2001)
+
+
+Belt of Dwarf Slaying
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 20
+STR: +15  WIS: +15  INT: +15  HP: +100  MANA: +100
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Aura of Battle (Worn)  
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dain's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

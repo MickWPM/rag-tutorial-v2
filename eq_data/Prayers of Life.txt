@@ -1,0 +1,36 @@
+ITEM NAME: Prayers of Life
+
+
+Prayers of Life
+
+
+MAGIC ITEM
+Charges: 5
+Effect:  Word of Healing (Any Slot, Casting Time: 2.0)
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+~1200pp buyback each to recharge. Nice chunk of aggro. 10,000 platinum buyback since April 2020 patch. 20,000 platinum to recharge one Prayers of Life (Max vendor 23.712PP, Min buyback 10088.063pp at 104 CHA w/Indifferent or better faction) This item now has a cast time of ~2.0 seconds. 
+
+  Drops From 
+Dreadlands
+
+ Gorenaire
+
+Nagafen's Lair
+
+ Lord Nagafen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,28 @@
+ITEM NAME: Enchanted Gold Bar
+
+
+
+Enchanted Gold Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Created by casting Enchant Gold. Uses a Gold Bar. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kilij's Plans
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

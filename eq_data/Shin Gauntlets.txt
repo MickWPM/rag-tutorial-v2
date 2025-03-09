@@ -1,0 +1,39 @@
+ITEM NAME: Shin Gauntlets
+
+
+
+Shin Gauntlets
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 7
+SV POISON: +5
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Lower Guk
+
+ a froglok shin knight
+ a froglok shin warrior
+ a shin ghoul knight
+
+Only drops off the Lower Guk variants of these mobs, not Upper Guk.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lambent Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

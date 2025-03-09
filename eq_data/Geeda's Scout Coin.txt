@@ -1,0 +1,29 @@
+ITEM NAME: Geeda's Scout Coin
+
+Classic Era (added 1999-2000)
+
+
+Useless Token
+
+
+LORE ITEM NO TRADE
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Geeda's Scout Coin 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scouts Cape Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

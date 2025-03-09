@@ -1,0 +1,56 @@
+ITEM NAME: Words of the Suffering
+
+
+Words of the Suffering
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 4 Golds
+ 3 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from any level ~34-39 mob
+
+Lower Guk
+
+ a zol ghoul knight
+ a dar ghoul knight
+
+The Feerrott
+
+ A Spectre
+
+The Wakening Land
+
+ A suit of sentient armor
+ A Geonid
+ a frost giant sentinel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Invoke Shadow (Trivial: 122) (Research Only)
+ Malignant Dead (Trivial: 142) (Research Only pre-Kunark)
+
+
+
+
+

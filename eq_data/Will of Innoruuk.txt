@@ -1,0 +1,33 @@
+ITEM NAME: Will of Innoruuk
+
+Epic Quests Era (added Sept 2000)
+ 
+Will of Innoruuk
+
+
+MAGIC ITEM  LORE ITEM NO DROP
+Slot: CHEST
+AC: 40
+STR: +15 STA: +10 INT: +8 HP: +25
+SV FIRE: +15 SV MAGIC: +10
+WT: 1.0  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

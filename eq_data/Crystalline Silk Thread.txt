@@ -1,0 +1,45 @@
+ITEM NAME: Crystalline Silk Thread
+
+Velious Era (added December 2000-2001)
+
+
+Crystalline Silk Thread
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+These are not stackable
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ A crystalline devourer
+ a crystalline hunter
+ a crystalline watcher
+ a velium broodling
+ a velium hunter
+ a velium stalker
+ Crystal Fang
+ Icy Guardian
+ The Brood Master
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #5: Silk Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Crystalline Silk Fiber (Trivial: 51)
+
+
+
+
+

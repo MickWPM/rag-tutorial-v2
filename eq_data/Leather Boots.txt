@@ -1,0 +1,114 @@
+ITEM NAME: Leather Boots
+
+
+Leather Boots
+
+
+Slot: FEET
+AC: 4
+WT: 2.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Leather Armor Set 
+
+  Drops From 
+Commonlands
+
+ a decaying skeleton
+
+Lesser Faydark
+
+ a skeleton
+
+Najena
+
+ a greater skeleton
+
+Ocean of Tears
+
+ a greater skeleton
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Felwithe
+
+ Merchant Deerchaser
+
+
+
+  (148, -456)
+
+
+ West Freeport
+
+ Ping Fuzzlecutter
+
+
+
+  (-269, 535)
+
+
+ West Freeport
+
+ Lindie Rains
+
+
+
+  (-39, 12)
+
+
+ Kithicor Forest
+
+ Lena Leatherspinner
+
+
+
+  (-265, 4000)
+
+
+ Kithicor Forest
+
+ Clomen Walker
+
+
+
+  (1443, -840)
+
+
+ North Qeynos
+
+ Rodgar the Tall
+
+
+
+  (-89, -7)
+
+
+ North Qeynos
+
+ Gerault Takenmaul
+
+
+
+  (-64, 19)
+
+  Related quests 
+ Taskmaster Earring - Wood Elf Female
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

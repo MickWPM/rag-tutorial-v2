@@ -1,0 +1,33 @@
+ITEM NAME: Head of Azibelle Spavin
+
+Stonebrunt Era (added summer 2001)
+
+
+Head of Azibelle Spavin
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Qeynos Aqueducts
+
+ Azibelle Spavin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Qeynos Badge of Honor (Badge #4)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

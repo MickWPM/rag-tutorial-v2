@@ -1,0 +1,83 @@
+ITEM NAME: Large Leather Boots
+
+
+
+Large Leather Boots
+
+
+Slot: FEET
+AC: 4
+WT: 3.1  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Iskopa
+
+
+
+  (508, -236)
+
+
+ Halas
+
+ Cindl
+
+
+
+  (270, -171)
+
+
+ Neriak Foreign Quarter
+
+ Farlain Stonethrower
+
+
+
+  (199, -57)
+
+
+ Oggok
+
+ Uoola
+
+
+
+  (659, 684)
+
+
+ South Qeynos
+
+ Wrin Liltin
+
+
+
+  (96, -204)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 36) 
+
+  Tradeskill recipes 
+ Blacksmithing
+ Brewing
+
+
+
+

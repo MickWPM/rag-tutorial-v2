@@ -1,0 +1,33 @@
+ITEM NAME: Fine Steel Tachi
+
+Stonebrunt Era (added summer 2001)
+
+Fine Steel Tachi
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 5 
+WT: 8.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a highland kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Visions of Sebilite
+
+Kunark Era (added 2000)
+
+Visions of Sebilite
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Divination
+Mana Cost: 50
+Effect:  Illusion: Iksar
+WT: 0.1  Size: SMALL
+Class: ENC
+Race: NONE
+
+
+Teaches the Spell Illusion: Iksar When Scribed. The reward spell is tradeable. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Illusion: Iksar Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

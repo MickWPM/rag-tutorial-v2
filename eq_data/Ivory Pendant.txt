@@ -1,0 +1,39 @@
+ITEM NAME: Ivory Pendant
+
+Sky Era (added January 2000)
+
+
+
+Ivory Pendant
+
+
+LORE ITEM
+Slot: NECK
+AC: 2
+WIS: +2  INT: +2
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul carrier
+ an essence carrier
+ an essence tamer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Shielding
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Melodic Vambraces
+
+Velious Era (added December 2000-2001)
+
+
+Melodic Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 19
+STR: +3  DEX: +4  STA: +4  HP: +20
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+WT: 6.0  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a glade stalker
+ a serene forest spirit
+ Grahl Strongback
+ Sarik the Fang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Sifaye messenger's report
+
+Velious Era (added December 2000-2001)
+
+
+Sifaye messenger's report
+
+
+LORE ITEM  NO DROP  TEMPORARY  QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ A sifaye messenger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reinforcements for the Tunarean Regiment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

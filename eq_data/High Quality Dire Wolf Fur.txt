@@ -1,0 +1,43 @@
+ITEM NAME: High Quality Dire Wolf Fur
+
+Velious Era (added December 2000-2001)
+
+High Quality Dire Wolf Fur
+
+
+MAGIC ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a dire wolf
+ a savage dire wolf
+
+Great Divide
+
+ a drakkel dire wolf
+
+Iceclad Ocean
+
+ a dire wolf
+ Garou
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Captain Nalot's Triple Strength Rum
+ Learn the Ways of Skinning and Tailoring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

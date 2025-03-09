@@ -1,0 +1,33 @@
+ITEM NAME: Prestidigitator's Gloves
+
+Velious Era (added December 2000-2001)
+ Cinderrella models the Prestidigitator's Wristband which transitions from purple to blue which feeds nicely into the blue Prestidigitator's gloves.
+Prestidigitator's Gloves
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 5
+STR: +3  INT: +10  AGI: +10  HP: +35  MANA: +25
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 0.4  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Skyshrine Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

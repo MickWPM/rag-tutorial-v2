@@ -1,0 +1,32 @@
+ITEM NAME: Faded Cloak
+
+Classic Era (added 1999-2000)
+
+
+Faded Cloak
+
+
+LORE ITEM  NO DROP
+Slot: BACK
+AC: 5
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Intermediate item in the quest. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Mystic Cloak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,90 @@
+ITEM NAME: Main Gauche
+
+
+
+Main Gauche
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 3 
+WT: 3.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+   (1253, -715)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+   (1329, -762)
+
+
+ Chardok
+
+ Haggle Baron Dry`dn
+
+
+
+  (-93, 351)
+
+
+ North Freeport
+
+ Markin Ironwhite
+
+
+
+  (194, -116)
+
+
+ Western Plains of Karana
+
+ Ollysa Bladefinder
+
+
+
+  (488, -4223)
+
+
+ Skyshrine
+
+ Barkeep Dablen
+
+
+
+  (469, -708)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

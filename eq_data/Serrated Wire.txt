@@ -1,0 +1,34 @@
+ITEM NAME: Serrated Wire
+
+Kunark Era (added 2000)
+
+
+Serrated Wire
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.7  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): A Dwarven Tool 
+
+  Drops From 
+Crypt of Dalnir
+
+ a coerced dwarf (female)
+ a coerced dwarf (male)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Iksar Prisoner Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

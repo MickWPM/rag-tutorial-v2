@@ -1,0 +1,75 @@
+ITEM NAME: Lion Meat
+
+
+Lion Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Commonlands
+
+ a lion
+ a lioness
+
+Eastern Plains of Karana
+
+ a lion
+ a lion patriarch
+ a lioness
+ a lioness matriarch
+ a rogue lion
+
+Northern Karana
+
+ a highland lion
+ a lion
+ a lioness
+ Swiftclaw
+
+Southern Karana
+
+ a lion
+ a lioness
+
+Western Plains of Karana
+
+ a plains lion
+ a plains lioness
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Lion Steaks (Trivial: 41)
+ Beer Braised Lion (Trivial: 68)
+
+
+
+
+

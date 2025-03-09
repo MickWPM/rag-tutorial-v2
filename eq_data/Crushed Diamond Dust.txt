@@ -1,0 +1,61 @@
+ITEM NAME: Crushed Diamond Dust
+
+Velious Era (added December 2000-2001)
+
+Crushed Diamond Dust
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is Vendor Trash on P99 
+ Merchant resale value: 25p Max 
+
+  Drops From 
+Cobalt Scar
+
+ a haunted seachest
+ a siren enchantress
+
+Great Divide
+
+ a young shardwurm
+ an elder shardwurm
+
+Icewell Keep
+
+ a frost spike
+ an avalanche golem
+ Frosticube
+
+Siren's Grotto
+
+ an enthralled bulthar
+
+The Wakening Land
+
+ a geonid shaman
+ a suit of sentient armor
+ Grand Vizier Poolakacha`tei
+ Korzak Stonehammer
+ Rapticor
+
+Velketor's Labyrinth
+
+ a crystalline watcher
+ an Icepaw kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

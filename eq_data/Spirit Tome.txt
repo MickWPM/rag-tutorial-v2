@@ -1,0 +1,35 @@
+ITEM NAME: Spirit Tome
+
+Kunark Era (added 2000)
+
+Spirit Tome
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+WIS: +6  INT: +6
+WT: 0.0  Size: SMALL
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 6p 1g 
+
+  Drops From 
+Kaesora
+
+ spectral librarian
+ tortured librarian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

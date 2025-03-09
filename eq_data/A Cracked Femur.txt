@@ -1,0 +1,42 @@
+ITEM NAME: A Cracked Femur
+
+Kunark Era (added 2000)
+
+
+A Cracked Femur
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 3 
+SV DISEASE: +2
+WT: 0.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Scalebone Femur 
+
+  Drops From 
+Kurn's Tower
+
+ greater scalebone
+ scalebone skeleton
+
+Lake of Ill Omen
+
+ greater scalebone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 4th Rank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

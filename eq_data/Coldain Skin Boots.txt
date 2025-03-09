@@ -1,0 +1,34 @@
+ITEM NAME: Coldain Skin Boots
+
+Velious Era (added December 2000-2001)
+
+Coldain Skin Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 3
+WIS: +8  INT: +8  MANA: +35
+WT: 2.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Yetarr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tiny Savages
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Coldain Skin Boots
+

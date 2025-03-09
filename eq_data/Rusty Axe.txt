@@ -1,0 +1,69 @@
+ITEM NAME: Rusty Axe
+
+Classic Era (added 1999-2000)
+
+Rusty Axe
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 36
+DMG: 5 
+WT: 6.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 2 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Various Zones
+
+Various Mobs Level 1 - 15
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Harg Tonicka
+
+
+
+  (-41, -493)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86, -457)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

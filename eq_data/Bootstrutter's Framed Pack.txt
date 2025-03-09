@@ -1,0 +1,28 @@
+ITEM NAME: Bootstrutter's Framed Pack
+
+
+
+Bootstrutter's Framed Pack
+
+
+LORE ITEM  NO DROP
+WT: 2.5  Weight Reduction: 10%
+Capacity: 10  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Duster Models
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

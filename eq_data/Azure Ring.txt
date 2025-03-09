@@ -1,0 +1,36 @@
+ITEM NAME: Azure Ring
+
+Sky Era (added January 2000)
+
+
+Azure Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 2
+DEX: +2
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+Gorgalosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Skill
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

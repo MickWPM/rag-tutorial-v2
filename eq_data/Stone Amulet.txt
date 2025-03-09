@@ -1,0 +1,35 @@
+ITEM NAME: Stone Amulet
+
+Sky Era (added January 2000)
+
+
+Stone Amulet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+STR: +4  DEX: +4
+WT: 1.0  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Keeper of Souls
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Strength
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

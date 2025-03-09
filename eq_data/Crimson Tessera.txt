@@ -1,0 +1,33 @@
+ITEM NAME: Crimson Tessera
+
+Sky Era (added January 2000)
+
+Crimson Tessera
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Illusion
+ Magician Test of Clarification
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

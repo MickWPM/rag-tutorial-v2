@@ -1,0 +1,44 @@
+ITEM NAME: Blue Flower of Functionality
+
+Velious Era (added December 2000-2001)
+
+
+
+Blue Flower of Functionality
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+Effect:  Aura of Blue Petals (Any Slot/Can Equip, Casting Time: 2.0)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Floats in the airBuffs MR by 50. Does not stack with Group Resist Magic. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Blue Flower of Functionality x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Black Throne - Dropped
+  A White Throne - Dropped
+  A Red Throne - Dropped
+  A Blue Throne - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Bloodstained Mantle
+
+
+Bloodstained Mantle
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 6
+STR: +3
+SV MAGIC: +10
+WT: 3.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+ Merchant resale value: 18p 6g 5s 4c 
+
+  Drops From 
+The Estate of Unrest
+
+ an undead knight of Unrest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

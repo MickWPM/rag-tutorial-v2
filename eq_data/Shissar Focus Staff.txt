@@ -1,0 +1,36 @@
+ITEM NAME: Shissar Focus Staff
+
+Hole Era (added June 2000)
+ Shissar Focus Staff - Snivelton <KWSM>.
+Shissar Focus Staff
+
+
+MAGIC ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 40
+DMG: 12 
+CHA: +8  INT: +11  MANA: +60
+Effect:  Alluring Whispers (Must Equip, Casting Time: 16.0) at Level 50
+WT: 8.7  Size: LARGE
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Druushk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Buckler of Insight
+
+Velious Era (added December 2000-2001)
+ Kinsman <Perdition> on Red Pecatus <Kingdom> on Green
+Buckler of Insight
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+AC: 45
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +12  INT: +12  AGI: +5  HP: +75  MANA: +75
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Flowing Thought I (Worn) 
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Test of the Emerald Tear
+ Emerald Tear (from Dozekar the Cursed)
+ Flame Kissed Symbol (from Krigara or Ymmeln)
+ Poison Symbol (from Casalen or Tavekalem)
+ Emerald Symbol (from Grozzmel or Midayor)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

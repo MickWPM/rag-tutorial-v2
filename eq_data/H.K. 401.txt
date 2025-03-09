@@ -1,0 +1,33 @@
+ITEM NAME: H.K. 401
+
+Classic Era (added 1999-2000)
+
+
+H.K. 401
+
+
+LORE ITEM  NODROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Highkeep Strongbox Key#401 
+
+  Drops From 
+Eastern Plains of Karana
+
+ Tallus Holton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ High Guard Battlestaff
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Chipped Jade
+
+Velious Era (added December 2000-2001)
+
+
+Chipped Jade
+
+
+MAGIC ITEM
+AC: 1
+HP. +3 MANA +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 68 and faction at Kindly
+
+ 3 Platinums
+ 3 Golds
+ 1 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a focus gem
+ a gem collector
+ A geonid (CC)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Unfired Pie Tin
+
+
+
+Unfired Pie Tin
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 115)
+ Yield: Unfired Pie Tin x1
+ In Pottery Wheel:
+
+
+  2 x Block of Clay - Crafted, Bought, Dropped
+  1 x Pie Tin Sketch - Bought
+  1 x Water Flask - Crafted, Bought, Dropped 
+
+
+  Tradeskill recipes 
+ Pottery
+ Pie Tin (Trivial: 17)
+
+
+
+
+

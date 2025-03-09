@@ -1,0 +1,37 @@
+ITEM NAME: Velium Spiked Skull Helm
+
+Velious Era (added December 2000-2001)
+
+
+Velium Spiked Skull Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+STR: +5  CHA: +5  MANA: +20
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify): It radiates authority
+This item has no visible graphic when worn. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an enraged relative
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

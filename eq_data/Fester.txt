@@ -1,0 +1,44 @@
+ITEM NAME: Fester
+
+Chardok Revamp Era (added late 2001)
+
+
+ 
+
+ Notice: This page was carbon-copied from Allakhazam. It is probably missing vital information.
+It also may contain info which is incorrect for the Project 1999 Timeline. Please revise accordingly and then remove this message.
+
+
+Fester
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 12 
+HP: +50
+SV POISON: +10
+Effect:  Flesh Rot II (Combat, Casting Time: Instant) at Level 49
+WT: 1.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Chardok
+
+ Foreman Mirt`akk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

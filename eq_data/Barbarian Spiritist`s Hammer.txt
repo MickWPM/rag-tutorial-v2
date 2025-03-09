@@ -1,0 +1,43 @@
+ITEM NAME: Barbarian Spiritist`s Hammer
+
+Fear Era (added July 1999)
+
+Barbarian Spiritist`s Hammer
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 43
+DMG: 22 
+WIS: +13  INT: +13
+Effect:  Winter's Roar (Combat, Casting Time: Instant) at Level 30
+WT: 10.0  Size: LARGE
+Class: SHM
+Race: BAR
+
+
+Sells to vendors for up to 24p. Buyback 1220pp approximately 
+
+  Drops From 
+Plane of Fear
+
+ Post-Revamp (Current)
+ Fright
+ Dread
+ Terror
+
+Pre-Revamp
+ Cazic Thule (God)
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

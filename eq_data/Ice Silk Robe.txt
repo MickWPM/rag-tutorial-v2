@@ -1,0 +1,38 @@
+ITEM NAME: Ice Silk Robe
+
+Velious Era (added December 2000-2001)
+
+
+
+Ice Silk Robe
+
+
+MAGIC ITEM Slot: CHEST AC: 12 DEX: +11  CHA: +10  INT: +14  HP: +15  MANA: +25
+SV COLD: +10 WT: 1.0  Size: MEDIUM Class: NEC WIZ MAG ENC Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 342)
+ Yield: Ice Silk Robe x1
+ In Loom:
+
+
+  3 x Ice Silk Swatch - Crafted
+  1 x Platinum Thread - Bought
+  1 x Robe Pattern - Bought
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

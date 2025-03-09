@@ -1,0 +1,35 @@
+ITEM NAME: Staff of the Observers
+
+Classic Era (added 1999-2000)
+
+Staff of the Observers
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Charges: 20
+Skill: 2H Blunt  Atk Delay: 35
+DMG: 12 
+WIS: +5  INT: +5  MANA: +30
+Effect:  Sentinel (Any Slot, Casting Time: Instant)
+WT: 10.0  Size: LARGE
+Class: CLR DRU SHM WIZ MAG ENC
+Race: ALL
+
+
+This item acts as a major light source when equipped. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Telescope
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Sky Pearl
+
+Sky Era (added January 2000)
+
+
+
+Sky Pearl
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul carrier
+ a soul harvester
+ an essence carrier
+ an essence tamer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Deception
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

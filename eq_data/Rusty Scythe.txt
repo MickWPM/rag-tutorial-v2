@@ -1,0 +1,167 @@
+ITEM NAME: Rusty Scythe
+
+Classic Era (added 1999-2000)
+
+
+Rusty Scythe
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 51
+DMG: 8 
+WT: 12.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 60 and faction at Indifferent
+
+ 0 Platinums
+ 1 Golds
+ 8 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Blackburrow
+
+ a burly gnoll
+ a gnoll
+ a gnoll brewer
+ a gnoll commander
+ a gnoll guardsman
+ a gnoll pup
+ a gnoll scout
+ a gnoll tactician
+ a patrolling gnoll
+ a scrawny gnoll
+ an elite gnoll guard
+
+Butcherblock Mountains
+
+ a goblin
+ an orc scoutsman
+
+Commonlands
+
+ an orc legionnaire
+ Guard Colin
+ orc legionnaire
+ orc pawn
+ orc weaponsmith
+ Shadow Treebright
+ Sil Silverstar
+ Veli Greenwhisper
+ Vuli Greenwhisper
+
+Crushbone
+
+ orc trainer
+
+Dagnor's Cauldron
+
+ an exiled legionnaire
+ an orc scout
+
+Greater Faydark
+
+ a faerie maiden
+ an orc conscript
+ an orc footman
+ an orc seer
+ an orc shaman
+ an orc witchdoctor
+ orc centurion
+ orc pawn
+
+Lake Rathetear
+
+ a gnoll shaman
+
+Lesser Faydark
+
+ a faerie maiden
+
+Misty Thicket
+
+ orc centurion
+ orc pawn
+
+Rathe Mountains
+
+ a lizardman robber
+ a zombie
+
+Northern Desert of Ro
+
+ a deathfist pawn
+
+Ocean of Tears
+
+ a spectre
+
+Qeynos Hills
+
+ a gnoll avenger
+ a gnoll hunter
+ a gnoll watcher
+
+Southern Desert of Ro
+
+ a spectre
+
+Steamfont Mountains
+
+ a decaying gnome skeleton
+ a kobold runt
+
+The Feerrott
+
+ Grak
+
+Tower of Frozen Shadow
+
+ a lesser ice shade
+
+West Freeport
+
+ a deathfist pawn
+ Deathfist Pawn
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Harg Tonicka
+
+
+
+  (-41, -493)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86, -457)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

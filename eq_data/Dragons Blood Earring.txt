@@ -1,0 +1,35 @@
+ITEM NAME: Dragons Blood Earring
+
+Velious Era (added December 2000-2001)
+
+Dragons Blood Earring
+
+
+MAGIC ITEM  LORE ITEM
+Slot: EAR
+AC: 10
+STR: +7  DEX: +7  HP: +10
+SV DISEASE: +5  SV POISON: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+There is also a version of this earring that has the same stats, but is NO DROP. 
+
+  Drops From 
+Skyshrine
+
+ Lord Yelinak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

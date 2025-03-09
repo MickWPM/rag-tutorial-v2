@@ -1,0 +1,43 @@
+ITEM NAME: Crown of Elemental Mastery
+
+Sky Era (added January 2000)
+
+
+
+Crown of Elemental Mastery
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 5
+INT: +5
+SV FIRE: +5  SV COLD: +5
+WT: 8.0  Size: MEDIUM
+Class: MAG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a fatestealer drake
+ a greater sphinx
+ a heartsbane drake
+ a windrider drake
+ an undine spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+ Magician Test of Displacement
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

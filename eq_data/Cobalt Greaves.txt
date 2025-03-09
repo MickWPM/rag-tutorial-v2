@@ -1,0 +1,39 @@
+ITEM NAME: Cobalt Greaves
+
+Kunark Era (added 2000)
+Cobalt Greaves provide warriors with unlimited charges of right-click invisibility, making them the most prized and valuable piece of warrior-specific armor in Kunark.
+
+
+
+ They're cobalt.
+Cobalt Greaves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 35
+STR: +8  DEX: +8  STA: +8
+Effect:  Invisibility (Must Equip, Casting Time: 8.0) at Level 45
+WT: 7.5  Size: LARGE
+Class: WAR
+Race: ALL except IKS
+
+
+Part of the Cobalt Armor set. 
+
+  Drops From 
+Karnor's Castle
+
+ Venril Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Bone Shield
+
+
+Bone Shield
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+AC: 8
+SV DISEASE: +1
+WT: 9.5  Size: LARGE
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Lavastorm Mountains
+
+ a warbone spearman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mining Caps
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

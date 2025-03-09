@@ -1,0 +1,40 @@
+ITEM NAME: Dwarf Head
+
+
+
+Dwarf Head
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Need both heads if they are different 
+
+  Drops From 
+Butcherblock Mountains
+
+ Blyle Bundin
+
+South Qeynos
+
+ Trumpy Irontoe (NPC)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Blyle Bundin's Head
+ Trumpy's Head
+ Trumpy Irontoe
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

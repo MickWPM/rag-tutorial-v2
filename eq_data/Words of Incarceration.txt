@@ -1,0 +1,100 @@
+ITEM NAME: Words of Incarceration
+
+
+Words of Incarceration
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 8g 4s 
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+ a tatterback ape
+
+City of Mist
+
+ a phantom
+ gyrating goo
+
+Cobalt Scar
+
+ a bulthar
+
+Eastern Wastes
+
+ a manticore
+
+Howling Stones
+
+ a sepulcher skeleton
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ a Drolvarg warlord
+ spectral knight
+
+Lesser Faydark
+
+ a brownie guard
+
+Lower Guk
+
+ the ghoul arch magus
+
+Nagafen's Lair
+
+ imp protector
+
+Old Sebilis
+
+ froglok dar knight
+ froglok jin shaman
+
+Permafrost
+
+ an ice giant
+
+Temple of Solusek Ro
+
+ Tazgar
+
+The Wakening Land
+
+ A Faerie Dragon
+ an elder holgresh
+
+Timorous Deep
+
+ a Raptor
+
+Trakanon's Teeth
+
+ Spectral partisan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Conjuration: Air (Trivial: 142) (Research Only)
+ Conjuration: Earth (Trivial: 142) (Research Only)
+ Conjuration: Water (Trivial: 142) (Research Only)
+ Conjuration: Fire (Trivial: 142)
+
+
+
+
+

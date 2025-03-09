@@ -1,0 +1,32 @@
+ITEM NAME: Glidara's Ring
+
+Classic Era (added 1999-2000)
+
+
+Glidara's Ring
+
+
+MAGIC ITEM LORE ITEM NO DROP
+Slot: FINGER
+SV MAGIC: +5
+WT: 0.1  Size: TINY
+Class: WAR CLR PAL RNG DRU MNK BRD ROG WIZ MAG ENC
+Race: HUM ELF HIE HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Orc Impaler
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

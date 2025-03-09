@@ -1,0 +1,34 @@
+ITEM NAME: Totemic Bracers
+
+
+Totemic Bracers
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 9
+DEX: +5
+WT: 2.3  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+Rathe Mountains
+
+ Oculys Ogrefiend
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

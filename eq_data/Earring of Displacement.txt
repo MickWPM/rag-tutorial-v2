@@ -1,0 +1,35 @@
+ITEM NAME: Earring of Displacement
+
+Sky Era (added January 2000)
+
+
+Earring of Displacement
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+Charges: 2
+AC: 6
+CHA: +4  INT: +4  MANA: +25
+Effect:  Gravity Flux (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: TINY
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Disillusion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

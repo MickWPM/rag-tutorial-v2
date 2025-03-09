@@ -1,0 +1,41 @@
+ITEM NAME: Matchless Dragonhorn Bracers
+
+Velious Era (added December 2000-2001)
+
+Matchless Dragonhorn Bracers
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 15
+CHA: +8  WIS: +12
+WT: 1.8  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Ayillish
+ Derasinal
+ Makala
+ Crial
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Dark Elf 
+
+
+
+

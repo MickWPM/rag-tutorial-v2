@@ -1,0 +1,39 @@
+ITEM NAME: Sword of Pain
+
+Velious Era (added December 2000-2001)
+
+
+
+ Logan of <FoH> with the Sword of Pain
+Sword of Pain
+
+
+MAGIC ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 19   AC: 10
+MANA: +50
+Effect:  Grim Aura (Must Equip, Casting Time: Instant) at Level 5
+WT: 5.0  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Gregendek Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

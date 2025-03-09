@@ -1,0 +1,223 @@
+ITEM NAME: Longbow
+
+
+Longbow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 51
+DMG: 8
+WT: 5.0  Range: 100  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+This widely available store-bought bow can be purchased for less than 4 platinum pieces. Though inferior to many other bows, it has sufficient range for pulling and is a good bow for first time archers. 
+
+  Drops From 
+Innothule Swamp
+
+ Tann Cellus
+
+Kithicor Forest
+
+ Kithicor
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork bowyer
+
+
+
+  (1250, -879)
+
+
+ East Cabilis
+
+ Granthrow
+
+
+
+  (-508, -311)
+
+
+ East Commonlands
+
+ Joryd Longarms
+
+
+
+  (985, 3765)
+
+
+ Eastern Plains of Karana
+
+ Bryan
+
+
+
+  (-886, -12)
+
+
+ Felwithe
+
+ Merchant Longarrow
+
+
+
+  (-70, -342)
+
+
+ Firiona Vie
+
+ Rafron Brandin
+
+
+
+  (-3833, 1671)
+
+
+ Greater Faydark
+
+ Merchant Winerasea
+
+
+
+  (-270, 89)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Grobb
+
+ Zazhar
+
+
+
+  (441, -271)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ South Kaladim
+
+ Alanury Stormhammer
+
+
+
+  (137, 232)
+
+
+ Kithicor Forest
+
+ Mune Woodchopper
+
+
+
+  (1458, 2263)
+
+
+ Kithicor Forest
+
+ Krile Arrowsmith
+
+
+
+  (-332, 3882)
+
+
+ Oggok
+
+ Praak
+
+
+
+  (-329, 496)
+
+
+ Oggok
+
+ Squeea
+
+
+
+  (647, 977)
+
+
+ Western Plains of Karana
+
+ Brenzl McMannus
+
+
+
+  (-3686, -2002)
+
+
+ South Qeynos
+
+ Danon Fletcher
+
+
+
+  (414, -259)
+
+
+ South Qeynos
+
+ Stan Cloven
+
+
+
+  (427, -265)
+
+
+ South Qeynos
+
+ Nesiff Tallaherd
+
+
+
+  (440, -243)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+  Related quests 
+ Orc Runner (Kelethin)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

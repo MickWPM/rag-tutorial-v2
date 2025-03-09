@@ -1,0 +1,35 @@
+ITEM NAME: Focused Ethereal Greatsword
+
+Velious Era (added December 2000-2001)
+
+Focused Ethereal Greatsword
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 42
+DMG: 12 
+DEX: +2  AGI: +4
+WT: 5.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+Part of the Focused Ethereal Weapons set. 
+
+  Drops From 
+Skyshrine
+
+ a Gargoyle Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Orb of Slime
+
+
+Orb of Slime
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+HP: +5  MANA: +15
+WT: 1.0  Size: SMALL
+Class: CLR DRU BRD SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Clan Runnyeye
+
+ a slime elemental
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

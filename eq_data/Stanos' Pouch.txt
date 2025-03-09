@@ -1,0 +1,33 @@
+ITEM NAME: Stanos' Pouch
+
+Epic Quests Era (added Sept 2000)
+
+
+Stanos' Pouch
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+Slot: PRIMARY
+Charges: 20
+Effect: Summon Throwing Dagger (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+WT: 0.1  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+ Item Lore (from Identify): Bag of Knives 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,314 @@
+ITEM NAME: Halberd
+
+
+
+Halberd
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 50
+DMG: 14 
+WT: 14.0  Size: GIANT
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ Scout Treekill
+ Scout Bowfist
+ Scout Bladethorn
+ Scout Tallstump
+ Private Blackbark
+ Others?
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1313, -886)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1331, -707)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1324, -749)
+
+
+ East Cabilis
+
+ Smithy Qag
+
+
+
+  (-525, -7)
+
+
+ East Cabilis
+
+ Smithy Ygen
+
+
+
+  (-620, -28)
+
+
+ East Cabilis
+
+ Gaxl the scribe
+
+
+
+  (1029, -108)
+
+
+ West Commonlands
+
+ Parus the Strong
+
+
+
+  (-279, 534)
+
+
+ Erudin
+
+ Ghemna Nyjuss
+
+
+
+  (-1070, -398)
+
+
+ Erudin
+
+ Rem Knarjon
+
+
+
+  (-623, -71)
+
+
+ Felwithe
+
+ Tylar Windspirit
+
+
+
+  (7, -256)
+
+
+ Field of Bone
+
+ Klok Canip
+
+
+
+  (-2261, 3304)
+
+
+ Firiona Vie
+
+ Quizan Gaxx
+
+
+
+  (-2873, 2733)
+
+
+ East Freeport
+
+ Klan Smith
+
+
+
+  (-184, -164)
+
+
+ East Freeport
+
+ Gord Smith
+
+
+
+  (-184, -138)
+
+
+ North Freeport
+
+ Mevah Toklius
+
+
+
+  (89, 397)
+
+
+ North Freeport
+
+ Jusia Vapious
+
+
+
+  (244, -133)
+
+
+ Greater Faydark
+
+ Merchant Gerienae
+
+
+
+  (-643, 364)
+
+
+ Grobb
+
+ Hartok
+
+
+
+  (433, -201)
+
+
+ Highpass Hold
+
+ Mardon Smith
+
+
+
+  (-378, -112)
+
+
+ South Kaladim
+
+ Hindaek Stormhammer
+
+
+
+  (139, 371)
+
+
+ North Kaladim
+
+ Darthur Nightseer
+
+
+
+  (947, 143)
+
+
+ Lake of Ill Omen
+
+ Klok Sargin
+
+
+
+  (6022, -6338)
+
+
+ Oggok
+
+ Cikoona
+
+
+
+  (446, 476)
+
+
+ Paineel
+
+ Dilche Orlezcha
+
+
+
+  (900, 470)
+
+
+ South Qeynos
+
+ Bisdlo Ravtahm
+
+
+
+  (-258, -525)
+
+
+ Swamp of No Hope
+
+ Klok Bygle
+
+
+
+  (2714, 2816)
+
+
+ Thurgadin
+
+ Brigam
+
+
+
+  (-208, 485)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (6, 897)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+
+ Warsliks Woods
+
+ Klok Nogolin
+
+
+
+  (-2419, -566)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

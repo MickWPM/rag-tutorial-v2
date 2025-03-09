@@ -1,0 +1,31 @@
+ITEM NAME: Normon's axe
+
+
+
+Normon's axe
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 35
+DMG: 5 AC:3
+WT: 7.0  Size: LARGE
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+ Item Lore (from Identify):  Dull pickaxe
+The returned Says Sharpened pickaxe. Is 6/34 ac4, 7.2 large 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+  Related quests 
+ The Velium Focus
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

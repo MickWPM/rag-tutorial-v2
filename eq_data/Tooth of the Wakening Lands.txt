@@ -1,0 +1,31 @@
+ITEM NAME: Tooth of the Wakening Lands
+
+Velious Era (added December 2000-2001)
+
+
+Tooth of the Wakening Lands
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This item is found as a ground spawn inside the Dragon Ring in the Wakening Lands. It is required for the spells Circle of Wakening Lands and Wakening Lands Portal. The caster as well as passengers must all possess the tooth in their bags or inventory; those who do not have it are left behind. 
+The Tooth of the Wakening Lands also allows teleportation to the Great Divide as well. Feel free to destroy your Tooth of the Great Divide when you have this one. The Tooth of the Cobalt Scar works for all three.
+Like the Trakanon Idol and Key to Charasis, this is a so-called soulbound item, which means it appears in your inventory after death. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

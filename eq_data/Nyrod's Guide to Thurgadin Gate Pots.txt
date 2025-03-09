@@ -1,0 +1,113 @@
+ITEM NAME: Nyrod's Guide to Thurgadin Gate Pots
+
+Vial of Velium Vapors or "Thurdagin Gate Pot" is arguably one of the easiest, if not the cheapest "gate" potions that one can acquire in Everquest. With as little as ~1pp per combine, anyone can have continuous access to rapid transportation to Velious from just about anywhere in Norrath with 3 simple things:
+
+a small investment in Pottery
+faction with Thurgadin Dwarves
+a bit of farming in Crystal Caverns
+
+
+Here is a brief overview on these:
+
+POTTERY: There are other guides out there on this and it is a very cheap crafting skill to work on. You will need 122 for the first combine to be trivial.
+
+FACTION: For starters, those that don't have faction with the Thurgadin Dwarves, killing giants and working on your faction is priority. Though you could theoretically have a mule purchase the materials needed for the combines, you will still need to be non-kos with Frundle Frenkler to receive the Velium Purifier that is needed for the final combine.
+
+FARMING: Though there are a few places that Crystalline Silks and Velium can be farmed, Crystal Caverns is the lowest level area and offers the quickest and easiest way for a solo farmer to obtain their materials. Crystal Caverns is in Eastern Wastes which is connected by 3 zones: Iceclad Ocean (get there by boat or Druid port), Kael, and Greater Divide (also has a Druid port rings). When entering Crystal Caverns, you can clear from the top to the bottom with Velium drops mostly near the top and Crystalline Silks mostly near the bottom. Don't forget to check vendors for materials others may have sold to them.
+
+  Images 
+
+
+
+ Map of Thurgadin
+ Thurgadin 
+
+ 2. Thurgadin Mining Company with Nimren Stonecutter who sells  Coldain Velium Temper
+ 11. Underbelly Arms with Forge
+ 17. Thurgadin Exchange with Bank, Pottery Wheel and Kiln - Gilthan Brittleblade who sells  Glass Shard and  High Quality Firing Sheet
+ 19. Frundle Frenkler who sells Potions and gives  Velium Purifier when asked "What velium vapors?".
+
+
+
+
+  First Combine 
+ Combine in a Pottery Wheel:
+
+  3 x Crystalline Silk - Dropped | Easily farmed in Crystal Caverns
+  2 x Glass Shard - Sold by Gilthan Brittleblade in the far corner of the Thurgadin Bank for ~8s 4cp. #17 on the map.
+  1 x Small Brick of Velium - Dropped | Can be crafted from a Large Brick of Velium
+
+
+
+
+ Yield:  1 x Unfired Velium Vial
+
+  Second Combine 
+ Combine in a Kiln:
+
+  1 x High Quality Firing Sheet - Sold by Gilthan Brittleblade in the far corner of the Thurgadin Bank for ~4s 2cp. #17 on the map.
+  1 x Unfired Velium Vial - Crafted in Step 1
+
+
+
+
+ Yield:  1 x Velium Vial
+
+  Final Combine 
+ Acquire a  Velium Purifier by asking Frundle Frenkler "What velium vapors?". #19 on the map
+ Combine in Velium Purifier:
+
+  2 x Small Piece of Velium - Dropped | Can be crafted from a Small Brick of Velium
+  1 x Velium Vial - Crafted in Step 2
+
+
+
+
+ Yield:  1 x Vial of Velium Vapors
+
+  Tips 
+Farming your materials in Crystal Caverns is soloable with any level 60 but using a pet classes is most effective.
+-
+Check vendors in Crystal Caverns and Thurgadin for materials such as Crystalline Silks and Velium Blocks/Bricks as they are often sold to for plat.
+-
+If you are running out of space while farming, holding Block of Velium (which break down when chiseled in a Forge - #11 on the map) saves space as only Small Piece of Velium are stackable. These combines are trivial at 50 Smithing skill.
+
+
+ 1 Block of Velium + Smithing Chisel in a Forge = 2 x Large Brick of Velium
+ 1 Large Brick of Velium + Smithing Chisel in a Forge = 2 x Small Brick of Velium
+ 1 Small Brick of Velium + Smithing Chisel in a Forge = 2 x Small Piece of Velium
+ 1 Block of Velium with no fails = 8 x Small Piece of Velium or 4 final combines.
+
+-
+The final gate pot is Lore but you can have as many Velium Vial and Small Piece of Velium(stackable) for the final combine as you can fit in your bank.
+
+-
+In a pinch for materials you can use Coldain Velium Temper purchased from Nimren Stonecutter (#2 on the map) to turn 3 x Small Piece of Velium into 1 x Small Brick of Velium but each temper is ~30pp.
+
+
+Vial of Velium Vapors
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+EXPENDABLE  Charges: 1
+Effect: Thurgadin Gate (Any Slot, Casting Time: 10.0)
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Oakleaf Girdle
+
+Velious Era (added December 2000-2001)
+
+Oakleaf Girdle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 4
+HP: +40  MANA: +40
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ Farstride Unicorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

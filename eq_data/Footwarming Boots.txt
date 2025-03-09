@@ -1,0 +1,43 @@
+ITEM NAME: Footwarming Boots
+
+Velious Era (added December 2000-2001)
+
+
+Footwarming Boots
+
+
+Slot: FEET
+AC: 10
+SV COLD: +5
+WT: 5.5  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Made with gnome cultural tinkering. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 235)
+ Yield: Footwarming Boots x1
+ In Deluxe Toolbox:
+
+
+  1 x Firewater - Crafted
+  1 x Gnomish Bolts - Bought
+  2 x Metal Rod - Bought
+  1 x Metal Twine - Bought
+  1 x Sharkskin Tubing - Bought
+  1 x Small Fine Plate Boots - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

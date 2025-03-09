@@ -1,0 +1,34 @@
+ITEM NAME: Ancient Leather Sleeves
+
+Velious Era (added December 2000-2001)
+
+Ancient Leather Sleeves
+
+
+LORE ITEM  NO DROP
+Slot: ARMS
+WT: 1.5  Size: TINY
+Class: DRU MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ West Wing mobs?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Kael Sleeves
+ Druid Kael Sleeves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

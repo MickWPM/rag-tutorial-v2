@@ -1,0 +1,104 @@
+ITEM NAME: Bronze Battle Axe
+
+Classic Era (added 1999-2000)
+
+Bronze Battle Axe
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 37
+DMG: 6 
+WT: 9.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 2 Platinums
+ 6 Golds
+ 8 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Mistmoore Castle
+
+ a glyphed familiar
+ a pledge familiar
+ an initiate familiar
+
+Crushbone
+
+ Emperor Crush
+ orc legionnaire
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Dreadlands
+
+ a drolvarg rager
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+Erud's Crossing
+
+ a zombie sailor
+
+The Estate of Unrest
+
+ a ghoul
+ dark boned skeleton
+ tormented dead
+
+Everfrost Peaks
+
+ an orcish mountaineer
+
+High Keep
+
+ Jail Clerk Maryl
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ a faerie courtier
+ orc chief
+
+Najena
+
+ a skeleton
+ a greater skeleton
+ an ogre guard
+
+Northern Desert of Ro
+
+ a ghoul
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

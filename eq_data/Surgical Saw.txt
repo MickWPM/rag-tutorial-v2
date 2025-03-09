@@ -1,0 +1,45 @@
+ITEM NAME: Surgical Saw
+
+
+
+Surgical Saw
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 31
+DMG: 5 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ a mortician
+
+
+
+  (161, 667)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Cobalt Drake Gorget
+
+Velious Era (added December 2000-2001)
+
+
+Cobalt Drake Gorget
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 7
+STA: +5  MANA: +5
+SV COLD: +4
+WT: 0.5  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Cobalt Drake Gorget x1
+ In Loom:
+
+
+  1 x Cobalt Drake Hide - Dropped
+  1 x Drake Egg Oil - Crafted
+  1 x Gorget Pattern - Bought
+  1 x Velium Boning - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

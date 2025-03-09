@@ -1,0 +1,35 @@
+ITEM NAME: Large Clay Jar
+
+Classic Era (added 1999-2000)
+
+
+Large Clay Jar
+
+
+WT: 6.0  Weight Reduction: 0%
+Capacity: 8  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 17)
+ Yield: Large Clay Jar x1
+ In Kiln:
+
+
+  1 x Quality Firing Sheet - Bought
+  1 x Unfired Large Container - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

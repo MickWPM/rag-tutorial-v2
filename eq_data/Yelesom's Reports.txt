@@ -1,0 +1,30 @@
+ITEM NAME: Yelesom's Reports
+
+Warrens Era (added spring 2001)
+
+
+Yelesom's Reports
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: None
+Race: None
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Geologist's Purloined Tools
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

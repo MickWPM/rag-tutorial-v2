@@ -1,0 +1,35 @@
+ITEM NAME: Earring of Blazing Energy
+
+Chardok Revamp Era (added late 2001)
+
+Earring of Blazing Energy
+
+
+MAGIC ITEM  LORE ITEM
+Slot: EAR
+AC: 2
+CHA: +2  HP: +35  MANA: +35
+Effect:  Feedback (Must Equip, Casting Time: 4.0) at Level 49
+WT: 0.3  Size: TINY
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Chardok (Post-Revamp)
+
+ Grave Master Zo`lun
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

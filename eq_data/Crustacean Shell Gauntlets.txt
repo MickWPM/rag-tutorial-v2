@@ -1,0 +1,36 @@
+ITEM NAME: Crustacean Shell Gauntlets
+
+Velious Era (added December 2000-2001)
+
+Crustacean Shell Gauntlets
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 11
+STR: +8  CHA: -5
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+Part of the Crustacean Shell Armor set. 
+ Merchant resale value: 44p 
+
+  Drops From 
+Cobalt Scar
+
+ an Othmir Warrior
+ an Othmir Shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,46 @@
+ITEM NAME: Crystallized Marrow
+
+Classic Era (added 1999-2000)
+
+Crystallized Marrow
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Befallen
+
+ ice boned skeleton
+
+Everfrost Peaks
+
+ ice boned skeleton
+
+Lower Guk
+
+ a greater ice bones
+
+Rathe Mountains
+
+ ice bone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Crystal Eritus (Trivial: 42)
+
+
+
+
+

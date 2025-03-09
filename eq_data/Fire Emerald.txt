@@ -1,0 +1,342 @@
+ITEM NAME: Fire Emerald
+
+Classic Era (added 1999-2000)
+
+Fire Emerald
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 83pp 9g 8s 
+
+  Drops From 
+Burning Woods
+
+ a forest giant verdant
+ a sarnak zealot
+ a scoriae hornet
+ a tatterback ape
+ an ember hornet
+ greater plague skeleton
+ plaguebone skeleton
+
+Chardok
+
+ a Di`Zok Legionnaire
+
+City of Mist
+
+ a fog golem
+ a haze golem
+ a mist golem
+ a phantom
+ a shadow
+ a vapor golem
+ a wraith
+ an apparition
+ greater plaguebone
+ greater spurbone
+ gyrating goo
+ spurbone skeleton
+
+Crystal Caverns
+
+ a geonid
+
+High Keep
+
+ Captain Boshinko
+
+Erud's Crossing
+
+ a killer shark
+
+Everfrost Peaks
+
+ an ice giant
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ Construct of Sathir
+ spectral knight
+
+Kedge Keep
+
+ a gloomstalker mermaid
+ a gloomwater mermaid
+
+Ocean of Tears
+
+ a seafury cyclops
+ corrupted seafury cyclops
+
+Old Sebilis
+
+ a leprous scarab
+ a necrosis scarab
+ a pox scarab
+ a sebilite golem
+ a sepsis scarab
+ an iksar necromancer
+ Brogg
+ dar ghoul knight
+ frenzied pox scarab
+ Froggy
+ froglok bok knight
+ froglok bok shaman
+ froglok bok wizard
+ froglok dar knight
+ froglok dar wizard
+ froglok ilis knight
+ froglok ilis shaman
+ froglok ilis wizard
+ froglok jin shaman
+ froglok jin wizard
+ froglok kor shaman
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ froglok zol knight
+ Gangrenous Scarab
+ krup ghoul knight
+ Myconid Adept
+ Myconid Priest
+ myconid reaver
+ myconid spore king
+ myconid warrior
+ sebilite guardian
+ sebilite juggernaut
+ sebilite protector
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a samhain
+ a spinechiller spider
+ Amygdalan knight
+
+Plane of Mischief
+
+ a clever sphinx
+ a dastardly rascal
+ a false treasure chest
+
+Siren's Grotto
+
+ a neriad mistress
+ a siren beguiler
+ a siren myrmidon
+ a siren templar
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a skycinder drake
+
+Skyshrine
+
+ Bezeb
+ Chymot
+ Commander Leuz
+ Jaylorx
+ Norsirx
+ Suez
+ Yaced
+ Zalerez
+
+The Wakening Land
+
+ a geonid
+
+Great Divide
+
+ an elder shardwurm
+
+  Sold by 
+Able to be bought from merchants after the July 1999 patch.
+
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ North Freeport
+
+ Amber
+
+
+
+  (-184, 202)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Qeynos
+
+ Ziska Ironforge
+
+
+
+  (52, 60)
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1347, -952)
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1332, -917)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Tin Merchant X
+
+
+
+  (2697, 2620)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ Scaled Mystic Greaves
+ The Bones of Darak Lightforge
+ Ivy Etched Bracer
+ Crafted Vambraces
+ Torch Of Alna Quest
+ Trooper Scale Pauldron
+ Ulthork Tusks Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Antonian Long Sword (Fire Emerald) (Trivial: 142)
+
+
+ Jewelcrafting
+ Silvered Fire Emerald Ring (Trivial: 58)
+ Fire Emerald Electrum Bracelet (Trivial: 130)
+ Fire Emerald Golden Bracelet (Trivial: 202)
+ Fire Emerald Platinum Ring (Trivial: 274)
+ Fire Emerald Velium Ring (Trivial: 276)
+
+
+
+
+

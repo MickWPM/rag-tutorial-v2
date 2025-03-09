@@ -1,0 +1,45 @@
+ITEM NAME: Well-Balanced Scimitar
+
+Classic Era (added 1999-2000)
+Well-Balanced Scimitar
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 5 
+WT: 8.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+Sold by shady for the low, low price of 453pp 6g 0s 1c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Commonlands
+
+ A Shady Swashbuckler
+
+
+
+  (-1677, -141)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

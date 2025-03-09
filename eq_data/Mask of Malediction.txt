@@ -1,0 +1,35 @@
+ITEM NAME: Mask of Malediction
+
+Velious Era (added December 2000-2001)
+
+Mask of Malediction
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+WIS: -4  INT: +5  MANA: +10
+SV FIRE: -5  SV COLD: -5
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Bjoskhua Blackfist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Strife to the Coldain
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

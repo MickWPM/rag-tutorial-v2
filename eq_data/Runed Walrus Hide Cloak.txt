@@ -1,0 +1,39 @@
+ITEM NAME: Runed Walrus Hide Cloak
+
+Velious Era (added December 2000-2001)
+
+
+Runed Walrus Hide Cloak
+
+
+LORE ITEM  NO DROP
+Slot: BACK
+AC: 15
+WIS: +10  HP: +45  MANA: +45
+WT: 0.0  Size: TINY
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad mistress
+ a neriad weaver
+ a siren beguiler
+ a siren myrmidon
+ a siren templar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

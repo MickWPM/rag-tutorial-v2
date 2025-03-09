@@ -1,0 +1,32 @@
+ITEM NAME: Short Sword of Morin
+
+
+Short Sword of Morin
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 6 
+STR: +3  AGI: +3
+WT: 3.0  Size: MEDIUM
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Morin's Sword
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Shiny Golden Coin
+
+Classic Era (added 1999-2000)
+
+Shiny Golden Coin
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+CHA: +5  HP: +10  MANA: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Renders as a held bag in the slot it is equipped in, similar to Fire Beetle Eye. 
+
+  Drops From 
+Dagnor's Cauldron
+
+ Flotsam
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,156 @@
+ITEM NAME: Spider Silk
+
+Classic Era (added 1999-2000)
+
+Spider Silk
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Spider silk (and the refined Silk Swatch) are valued by journeyman tailors looking to increase their skill. It's especially efficient to farm these in Field of Bone, East Karana and anywhere else large numbers of spiders (not spiderlings) can be found.
+Not to be confused with Spiderling Silk harvested from the weaker a spiderling. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 9 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a large spider
+
+Mistmoore Castle
+
+ a Mistmoore guard
+
+Commonlands
+
+ a giant spider
+
+Dreadlands
+
+ a drachnid recluse
+ a drachnid silkmistress
+ a drachnid silkstrander
+ a drachnid webmaster
+ a drachnid widow
+ a dread widow
+
+Eastern Plains of Karana
+
+ a carrion spider
+ a crag spider
+
+Erud's Crossing
+
+ a kerra spider
+
+Everfrost Peaks
+
+ a giant wooly spider
+
+Field of Bone
+
+ a bonebinder
+ bonecrawler
+
+Firiona Vie
+
+ a drachnid silklurker
+ a drachnid silkspinner
+ a drachnid weblurker
+ a drachnid webspinner
+ a drachnid webstrander
+
+Frontier Mountains
+
+ Briarweb Spider
+
+Kaesora
+
+ Briarweb Spider
+ Bristleweb Spider
+ Frenzied Strathbone
+ strathbone healer
+ Strathbone Runelord
+ strathbone spider
+
+Kithicor Forest
+
+ a cliff spider
+
+Lesser Faydark
+
+ a giant spider
+
+Lower Guk
+
+ a deadly black widow
+
+Nagafen's Lair
+
+ lava duct crawler
+
+Najena
+
+ A Giant Black Widow
+
+Nektulos Forest
+
+ a giant widow
+ a large arachneidae
+
+Northern Desert of Ro
+
+ a desert tarantula
+ a dune tarantula
+
+Permafrost
+
+ giant wooly spider
+
+Southern Desert of Ro
+
+ a desert tarantula
+ a dune tarantula
+
+Upper Guk
+
+ a heart spider
+ a large heart spider
+
+Western Karana
+
+ a giant spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Silk Swatch (Trivial: 15)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Mistmoore Castle
+ Erud's Crossing
+ Everfrost Peaks
+ Field of Bone
+ Nektulos Forest
+ Southern Desert of Ro
+ Steamfont Mountains
+
+

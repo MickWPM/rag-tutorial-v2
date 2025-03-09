@@ -1,0 +1,37 @@
+ITEM NAME: Spirit Talker's War Lance
+
+Velious Era (added December 2000-2001)
+
+
+Spirit Talker's War Lance
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 30
+DMG: 25 
+STR: +8  WIS: +16  HP: +15  MANA: +45
+SV MAGIC: +6
+WT: 7.5  Size: LARGE
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Paebala Spirit Talker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

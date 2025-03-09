@@ -1,0 +1,34 @@
+ITEM NAME: War Tactics of the Frostreavers
+
+Velious Era (added December 2000-2001)
+
+
+War Tactics of the Frostreavers
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 5.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a coldain missionary
+ other coldain?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Books of Tactics
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

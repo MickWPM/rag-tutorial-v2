@@ -1,0 +1,36 @@
+ITEM NAME: Withered Totem of Widdershins
+
+
+Withered Totem of Widdershins
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 42
+DMG: 20 
+DEX: +9  WIS: +15
+Effect:  Malaisement (Combat, Casting Time: Instant) at Level 35
+WT: 6.5  Size: LARGE
+Class: SHM
+Race: TRL OGR
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Dracoliche
+ Dread
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

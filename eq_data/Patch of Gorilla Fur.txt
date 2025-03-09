@@ -1,0 +1,33 @@
+ITEM NAME: Patch of Gorilla Fur
+
+Stonebrunt Era (added summer 2001)
+
+
+Patch of Gorilla Fur
+
+
+QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 4 silver 
+
+  Drops From 
+Stonebrunt Mountains
+
+ an elder graniteback
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

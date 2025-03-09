@@ -1,0 +1,36 @@
+ITEM NAME: Mask of War
+
+Velious Era (added December 2000-2001)
+
+Mask of War
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 9
+STR: +2  STA: +5  WIS: +9
+Effect: Yaulp II (Any Slot/Can Equip, Casting Time: 2.0) at Level 35
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a storm giant warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mask of War Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

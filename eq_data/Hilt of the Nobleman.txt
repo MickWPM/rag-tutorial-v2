@@ -1,0 +1,34 @@
+ITEM NAME: Hilt of the Nobleman
+
+Warrens Era (added spring 2001)
+
+
+Hilt of the Nobleman
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Najena
+
+ A Skeleton (Najena)
+ Ekeros
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Sword of Nobility
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

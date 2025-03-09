@@ -1,0 +1,33 @@
+ITEM NAME: Shroud of the Dar Brood
+
+Velious Era (added December 2000-2001)
+
+Shroud of the Dar Brood
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK CHEST
+AC: 14
+STA: +8  WIS: +9  INT: +9  HP: +20  MANA: +50
+SV FIRE: +10  SV COLD: +10  SV MAGIC: +10
+Haste: +34%  
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Aid the Dar Brood
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Qnos AFK wearing the Shroud of the Dar Brood while the raid also afks and  begs for enchanter buffs durring the engage.
+

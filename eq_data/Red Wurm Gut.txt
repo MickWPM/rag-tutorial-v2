@@ -1,0 +1,33 @@
+ITEM NAME: Red Wurm Gut
+
+Epic Quests Era (added Sept 2000)
+
+Red Wurm Gut
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Red Wurm Gut 
+
+  Drops From 
+Burning Woods
+
+ Nezekezena
+ Phurzikon (?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

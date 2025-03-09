@@ -1,0 +1,33 @@
+ITEM NAME: Reinforced Rhino Chest Guard
+
+Kunark Era (added 2000)
+
+Reinforced Rhino Chest Guard
+
+
+Slot: CHEST
+AC: 9
+WT: 4.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ a burynai excavator
+ scalebone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,99 @@
+ITEM NAME: Throwing Spear
+
+
+
+Throwing Spear
+
+
+Slot: RANGE
+Skill: Throwing  Atk Delay: 34
+DMG: 7
+WT: 2.0  Range: 200  Size: LARGE
+Class: WAR RNG MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Greater Faydark
+
+ Merchant Winerasea
+
+
+
+  (-270, 89)
+
+
+ Kithicor Forest
+
+ Mune Woodchopper
+
+
+
+  (1458, 2263)
+
+
+ Oggok
+
+ Squeea
+
+
+
+  (647, 977)
+
+
+ Western Plains of Karana
+
+ Carlan the Young
+
+
+
+  (972, -1868)
+
+
+ Western Plains of Karana
+
+ Maldin the Old
+
+
+
+  (972, -1868)
+
+
+ South Qeynos
+
+ Stan Cloven
+
+
+
+  (427, -265)
+
+
+ South Qeynos
+
+ Nesiff Tallaherd
+
+
+
+  (440, -243)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Skeletal Feet
+
+Kunark Era (added 2000)
+
+
+Skeletal Feet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ thick boned skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dreadscale Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

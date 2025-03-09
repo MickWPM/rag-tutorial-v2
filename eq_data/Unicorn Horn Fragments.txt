@@ -1,0 +1,33 @@
+ITEM NAME: Unicorn Horn Fragments
+
+
+Unicorn Horn Fragments
+
+
+MAGIC ITEM
+Charges: 2
+Effect:  Purge (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 6p 1g 7c 
+
+  Drops From 
+Lesser Faydark
+
+ Equestrielle the Corrupted
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

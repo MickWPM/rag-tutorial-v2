@@ -1,0 +1,63 @@
+ITEM NAME: Coldain Velium Temper
+
+Velious Era (added December 2000-2001)
+
+
+
+Coldain Velium Temper
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Minimum price: 29.6p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Nimren Stonecutter
+
+
+
+  (46, -109)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+  Tradeskill recipes 
+ Blacksmithing
+ Velium Bits (Trivial: ?)
+ Sheet of Velium (Trivial: ?)
+ Velium Studs (Trivial: ?)
+ Velium Boning (Trivial: 45)
+ Velium Rings  (Trivial: 49)
+ Large Brick of Velium (Trivial: 27?)
+ Block of Velium (Trivial: 27)
+ Forged Velium 2-Handed Sword (Trivial: 122)
+ Forged Velium Dagger (Trivial: 95)
+ Forged Velium Long Sword (Trivial: 115)
+ Forged Velium Morning Star (Trivial: 119)
+ Forged Velium Scimitar (Trivial: 115)
+ Forged Velium Short Sword (Trivial: 108)
+ Forged Velium Shuriken (Trivial: 104)
+ Forged Velium Throwing Axe (Trivial: 102)
+ Forged Velium Throwing Knife (Trivial: 98)
+ Forged Velium Throwing Spear (Trivial: 106)
+
+
+
+
+

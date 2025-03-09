@@ -1,0 +1,228 @@
+ITEM NAME: Cup of Flour
+
+Classic Era (added 1999-2000)
+Cup of Flour
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'anon
+
+ a clockwork baker
+
+
+
+  (885, -300)
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ The Feerrott
+
+ Bup
+
+
+
+  (1182, 117)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ Neriak Commons
+
+ Niz L`Crit
+
+
+
+  (82, -884)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ South Qeynos
+
+ Karn Tassen
+
+
+
+  (-165, -255)
+
+
+ South Qeynos
+
+ Voleen Tassen
+
+
+
+  (-192, -266)
+
+
+ Rivervale
+
+ Bartle Barnick
+
+
+
+  (-142, -358)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Petcas Coldbeard
+
+
+
+  (-57, 94)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ West Freeport
+
+ Pincia Brownloe
+
+
+
+  (-278,-691)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Western Plains of Karana
+
+ Cleet Miller Jr
+
+
+
+  (-3013, -5735)
+
+  Related quests 
+ Rat Ear Pie Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Clump of Dough (Trivial: 17)
+ Uncooked Rat Ear Pie (Trivial: 28)
+
+
+ Brewing
+
+
+
+

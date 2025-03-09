@@ -1,0 +1,34 @@
+ITEM NAME: Blackened Iron Waistband
+
+Classic Era (added 1999-2000)
+⏱️ REVAMP ALERT (see notes)
+
+Blackened Iron Waistband
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 5
+WT: 4.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Blackened Iron Armor Set 
+
+  Drops From 
+Clan Runnyeye
+
+ The Goblin King
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

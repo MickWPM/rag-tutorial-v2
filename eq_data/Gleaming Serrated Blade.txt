@@ -1,0 +1,36 @@
+ITEM NAME: Gleaming Serrated Blade
+
+Kunark Era (added 2000)
+
+
+Gleaming Serrated Blade
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 30
+DMG: 12   AC: 2
+STR: +2  HP: +5
+WT: 10.0  Size: LARGE
+Class: WAR SHD
+Race: IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+City of Mist
+
+ a black reaver
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

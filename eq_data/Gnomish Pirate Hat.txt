@@ -1,0 +1,34 @@
+ITEM NAME: Gnomish Pirate Hat
+
+Velious Era (added December 2000-2001)
+
+Gnomish Pirate Hat
+
+
+MAGIC ITEM  QUEST ITEM
+Slot: HEAD
+AC: 10
+DEX: +3
+WT: 2.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except HUM ERU HEF
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ gnomish pirate
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

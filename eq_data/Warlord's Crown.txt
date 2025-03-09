@@ -1,0 +1,34 @@
+ITEM NAME: Warlord's Crown
+
+Velious Era (added December 2000-2001) Warlords Crown, Velious Plate, Male, Troll, Has No Graphic.
+
+
+Warlord's Crown
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 30
+STR: +4  DEX: +3  STA: +7  HP: +35
+SV DISEASE: +4
+WT: 9.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Kael Helm
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

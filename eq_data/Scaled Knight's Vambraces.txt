@@ -1,0 +1,34 @@
+ITEM NAME: Scaled Knight's Vambraces
+
+Velious Era (added December 2000-2001)
+
+
+Scaled Knight's Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 25
+STR: +4  DEX: +3  STA: +7  HP: +50
+SV FIRE: +3  SV MAGIC: +5
+WT: 6.0  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Skyshrine Armplates
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

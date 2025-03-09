@@ -1,0 +1,33 @@
+ITEM NAME: Sash of Woven Vine
+
+GM Event item (info)
+
+
+Sash of Woven Vine
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 7
+STR: +3  WIS: +3
+SV FIRE: +15
+WT: 0.1  Size: SMALL
+Class: RNG
+Race: ALL
+
+
+GM Event item [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

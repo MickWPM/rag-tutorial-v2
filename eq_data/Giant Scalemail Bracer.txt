@@ -1,0 +1,64 @@
+ITEM NAME: Giant Scalemail Bracer
+
+Velious Era (added December 2000-2001)
+
+Giant Scalemail Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 6
+AGI: +5 HP: +10
+WT: 2.5 Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: HUM BAR ERU ELF HIE DEF HEF TRL OGR IKS
+
+
+Part of the Giant Scalemail Armor set. 
+
+  Drops From 
+Kael Drakkel
+
+ a Protector of Zek
+ Legionnaire Alveyrem
+ Legionnaire Byltor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Yvedrn
+ protector of Zek
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+ Watcher Hodstaen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Skulls
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

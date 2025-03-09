@@ -1,0 +1,34 @@
+ITEM NAME: Chipped Star Rose Quartz
+
+Velious Era (added December 2000-2001)
+
+
+Chipped Star Rose Quartz
+
+
+MAGIC ITEM
+INT: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 0p 9g 8s 8c (CHA: 116/ Faction: Indifferent) 
+
+  Drops From 
+Crystal Caverns
+
+ A geonid (CC)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

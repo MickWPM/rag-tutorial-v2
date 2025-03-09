@@ -1,0 +1,43 @@
+ITEM NAME: Scorpion Pincer
+
+
+Scorpion Pincer
+
+
+QUEST ITEM  
+Slot: SECONDARY
+Wind Instrument: 20
+WT: 0.1  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 55 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 9 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Field of Bone
+
+ a giant scorpion
+ a heartsting scorpion
+ a large scorpion
+ a scorpion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scorpion Pincers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

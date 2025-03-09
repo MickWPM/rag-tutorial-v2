@@ -1,0 +1,44 @@
+ITEM NAME: On Terrorantula Silk
+
+
+
+On Terrorantula Silk
+
+
+The book is closed.
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Kamzar
+
+
+
+  (184, 544)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+I recently had the fortune to purchase a strange silk from a traveler hailing from the deserts of Ro. After experimenting for quite some time with the new material I discovered that when sewn into swatches it could be cured with Purified Mana, threaded with Platinum thread, and using an appropriate pattern tailored into an armor as strong as steel!! One swatch was sufficient to craft a helm, collar, mask, pauldron, or bracer. Two swatches were needed for a waistband, vambraces, gauntlets, or boots. Three swatches were needed for a breastplate, cloak, or greaves.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

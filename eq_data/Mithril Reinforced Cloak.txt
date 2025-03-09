@@ -1,0 +1,39 @@
+ITEM NAME: Mithril Reinforced Cloak
+
+
+
+Mithril Reinforced Cloak
+
+
+Slot: BACK
+AC: 7
+WT: 1.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG
+Race: ELF HIE HEF
+
+
+Part of the wood elf cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 215)
+ Yield: Mithril Reinforced Cloak x1
+ In Feir'Dal Sewing Kit:
+
+
+  1 x Cloak Pattern - Bought
+  1 x Excellent Sabertooth Tiger Hide - Dropped
+  2 x Mithril Boning - Crafted
+  1 x Oak Bark Tannin - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

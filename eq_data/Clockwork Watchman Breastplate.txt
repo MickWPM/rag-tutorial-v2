@@ -1,0 +1,46 @@
+ITEM NAME: Clockwork Watchman Breastplate
+
+Velious Era (added December 2000-2001)
+
+Clockwork Watchman Breastplate
+
+
+Slot: CHEST
+Charges: 10
+AC: 20
+Effect:  Invisibility Cloak (Any Slot/Can Equip, Casting Time: 6.0) at Level 20
+WT: 7.5  Size: LARGE
+Class: WAR CLR
+Race: GNM
+
+
+Made with gnome cultural tinkering. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 252)
+ Yield: Clockwork Watchman Breastplate x1
+ In Deluxe Toolbox:
+
+
+  1 x Cogs - Bought
+  1 x Gnomish Bolts - Bought
+  1 x Grease - Bought
+  1 x Gnomish Vanishing Device - Crafted
+  1 x Mana Battery - Class Five - Crafted, Bought, Dropped
+  1 x Metal Fastening - Bought
+  1 x Metal Twine - Bought
+  1 x Small Fine Steel Breastplate - Crafted
+  1 x Sprockets - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

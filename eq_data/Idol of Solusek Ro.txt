@@ -1,0 +1,42 @@
+ITEM NAME: Idol of Solusek Ro
+
+Velious Era (added December 2000-2001)
+
+
+Idol of Solusek Ro
+
+
+MAGIC ITEM  
+Slot: RANGE PRIMARY SECONDARY
+INT: +4
+SV FIRE: +2
+WT: 0.1  Size: TINY
+Class: BRD WIZ
+Race: HUM ERU ELF HIE DEF HEF GNM
+Deity: Solusek Ro
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 262)
+ Idol of Solusek Ro
+ In Kiln:
+
+
+  1 x Divine Crystalline Glaze - Crafted
+  1 x High Quality Firing Sheet - Crafted, Bought
+  1 x Unfired Idol (of Solusek Ro) - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

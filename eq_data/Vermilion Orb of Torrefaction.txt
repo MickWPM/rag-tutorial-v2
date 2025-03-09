@@ -1,0 +1,37 @@
+ITEM NAME: Vermilion Orb of Torrefaction
+
+Velious Era (added December 2000-2001)
+
+
+
+Vermilion Orb of Torrefaction
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 15
+INT: +10  MANA: +35
+Effect:  Inferno Shock (Must Equip, Casting Time: 10.0) at Level 40
+WT: 0.0  Size: TINY
+Class: WIZ
+Race: ALL
+
+
+This item's clicky effect is a mid-level 250 damage magic nuke. With a 10 second cast time, it can put out 25 DPS. Compare to Solist's Robe of Invocation, Vermilion Robe of Torrefaction, Shissar Elementalist's Staff, Sage's Robe or Solist's Icy Wand. 
+
+  Drops From 
+Velketor's Labyrinth
+
+ Velketor the Sorcerer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

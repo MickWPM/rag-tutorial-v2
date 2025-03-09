@@ -1,0 +1,83 @@
+ITEM NAME: Words of Collection (Caza)
+
+
+
+Words of Collection (Caza)
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: ~2pp 
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+
+City of Mist
+
+ a phantom
+
+Eastern Wastes
+
+ Ry`Gorr elite guard
+
+Great Divide
+
+ Murdrick Tardok
+
+Howling Stones
+
+ a sepulcher skeleton
+ a sepulcher spectre
+ elementalbone skeleton
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+
+Lesser Faydark
+
+ a brownie guard
+
+Nagafen's Lair
+
+ imp protector
+
+The Wakening Land
+
+ A Faerie Dragon
+
+Permafrost
+
+ a giant dire wolf
+
+Trakanon's Teeth
+
+ Spectral Keepers
+
+Timorous Deep
+
+a Raptor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tempi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Cackling Bones (Trivial: 164) (Research Only pre-Kunark)
+
+
+
+
+

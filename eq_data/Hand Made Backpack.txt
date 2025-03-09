@@ -1,0 +1,34 @@
+ITEM NAME: Hand Made Backpack
+
+
+Hand Made Backpack
+
+
+WT: 3.0  Weight Reduction: 10%
+Capacity: 10  Size Capacity: LARGE
+
+
+This player made backpack is cheap and often available in EC. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Feskr's Supplies
+
+  Player crafted 
+ Tailoring (Trivial: 88)
+ Yield: Hand Made Backpack x1
+ In Loom or Large Sewing Kit:
+
+
+  1 x Backpack Pattern - Bought
+  1 x High Quality Bear Skin - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

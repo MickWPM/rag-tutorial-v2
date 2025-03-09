@@ -1,0 +1,70 @@
+ITEM NAME: Snake Venom Sac
+
+Classic Era (added 1999-2000)
+
+Snake Venom Sac
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a giant snake
+
+Commonlands
+
+ a giant rattlesnake
+ an asp
+
+Dagnor's Cauldron
+
+ a sandbar serpent
+ a shoal serpent
+
+Eastern Plains of Karana
+
+ a chasm crawler
+
+Erud's Crossing
+
+ a kerra snake
+
+Northern Desert of Ro
+
+ a cistern asp
+ a giant rattlesnake
+
+Southern Desert of Ro
+
+ a cistern asp
+ a darkweed snake
+ a giant rattlesnake
+ an asp
+
+Stonebrunt Mountains
+
+ an emerald adder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Toxdil's Poison
+ Gindlin's Poison
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Snake Venom (Trivial: 20)
+ Cyclan Butil (Trivial: 48)
+
+
+
+
+

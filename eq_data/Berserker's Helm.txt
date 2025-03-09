@@ -1,0 +1,36 @@
+ITEM NAME: Berserker's Helm
+
+Velious Era (added December 2000-2001)
+
+
+Berserker's Helm
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 24
+STR: +7  DEX: +2  STA: +2  HP: +35
+SV POISON: +3
+WT: 9.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+Part of the Berserker's Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a spirit flux wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

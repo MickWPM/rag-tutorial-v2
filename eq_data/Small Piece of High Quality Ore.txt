@@ -1,0 +1,32 @@
+ITEM NAME: Small Piece of High Quality Ore
+
+
+
+Small Piece of High Quality Ore
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+No longer crafted.
+Recipe removed in 10/23/2024 patch. [1]
+
+  Tradeskill recipes 
+ Blacksmithing
+ High Quality Metal Bits (Trivial: 20) (Defunct)
+
+
+
+
+

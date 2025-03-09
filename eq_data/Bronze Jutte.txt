@@ -1,0 +1,38 @@
+ITEM NAME: Bronze Jutte
+
+
+
+Bronze Jutte
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 3 
+WT: 4.0  Size: SMALL
+Class: ALL except CLR PAL DRU MNK
+Race: ALL
+
+
+
+
+  Drops From 
+The Feerrott
+
+ Cyndreela
+
+The Warrens
+
+ a rabid kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

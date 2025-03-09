@@ -1,0 +1,36 @@
+ITEM NAME: Spectral Shroud
+
+Kunark Era (added 2000)
+
+Spectral Shroud
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 5
+SV MAGIC: +5  SV POISON: +5
+WT: 1.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 33p 1g 
+
+  Drops From 
+Kaesora
+
+ spectral librarian
+ enraged spectral librarian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

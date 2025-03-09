@@ -1,0 +1,37 @@
+ITEM NAME: Onyx Ring
+
+
+Onyx Ring
+
+
+MAGIC ITEM
+Slot: FINGER
+HP: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+1 platinum 5 gold 8 silver 1 copper 
+
+  Drops From 
+Clan Runnyeye
+
+ an Evil Eye prisoner
+
+Gorge of King Xorbb (Beholder's Maze)
+
+ an evil eye
+ an evil eye pet
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

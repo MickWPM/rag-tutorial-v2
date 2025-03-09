@@ -1,0 +1,48 @@
+ITEM NAME: Red Headband (Kunark)
+
+Were you looking for Red Headband?
+Kunark Era (added 2000)
+
+
+Red Headband (Kunark)
+
+
+MAGIC ITEM LORE ITEM NO DROP
+Slot: HEAD
+AC: 3
+DEX: +1 CHA: -10
+WT: 0.0 Size: SMALL
+Class: ALL
+Race: ALL
+
+
+The item name is actually "Red Headband" (same as the monk headband). 
+
+  Drops From 
+Firiona Vie
+
+ goblin raider
+
+Lake of Ill Omen
+
+ a goblin hunter
+ a goblin outrider
+ a goblin watcher
+
+Warsliks Wood
+
+ a goblin hunter
+ a goblin watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Goblin Raiders
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

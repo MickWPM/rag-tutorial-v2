@@ -1,0 +1,36 @@
+ITEM NAME: Efreeti Mace
+
+Sky Era (added January 2000)
+
+Efreeti Mace
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 10 
+WT: 1.0  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Theurgy
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

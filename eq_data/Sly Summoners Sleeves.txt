@@ -1,0 +1,35 @@
+ITEM NAME: Sly Summoners Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+Sly Summoners Sleeves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 10
+STR: +4  INT: +4  HP: +20  MANA: +20
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV POISON: +10
+WT: 0.4  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

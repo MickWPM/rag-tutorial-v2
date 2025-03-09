@@ -1,0 +1,41 @@
+ITEM NAME: Zaharn's Coronet
+
+
+Zaharn's Coronet
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 5
+STR: +3  MANA: +25
+WT: 5.0  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL except TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 3 Platinums
+ 5 Golds
+ 9 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Permafrost
+
+ High Priest Zaharn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Headband Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

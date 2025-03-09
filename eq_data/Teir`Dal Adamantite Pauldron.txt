@@ -1,0 +1,43 @@
+ITEM NAME: Teir`Dal Adamantite Pauldron
+
+Were you looking for Teir`Dal Adamantite Pauldron (Enchanted)?
+Were you looking for Teir`Dal Adamantite Pauldron (Imbued)?
+
+Teir`Dal Adamantite Pauldron
+
+
+Slot: SHOULDERS
+AC: 11
+WT: 2.4  Size: SMALL
+Class: WAR CLR SHD BRD
+Race: DEF HEF
+
+
+Part of the dark elf cultural smithing armor sets.
+Prices on this page are not accurate. All 3 versions share the same name, thus prices are intermixed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 190)
+ Yield: Teir`Dal Adamantite Pauldron x1
+ In Teir`Dal Forge:
+
+
+  1 x Adamantite Chain Jointing - Crafted
+  2 x Folded Sheet of Adamantite - Crafted
+  1 x Leather Padding - Crafted
+  1 x Shadow Temper - Crafted
+  1 x Small Plate Pauldron Mold - Bought
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

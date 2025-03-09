@@ -1,0 +1,29 @@
+ITEM NAME: Fine Steel Jutte
+
+Stonebrunt Era (added summer 2001)
+Fine Steel Jutte
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 21
+DMG: 4 
+WT: 4.0  Size: SMALL
+Class: ALL except CLR PAL DRU MNK
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Kylong Hunting Knife
+
+Kunark Era (added 2000)
+
+
+Kylong Hunting Knife
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 9 
+STR: +3  WIS: +3
+WT: 1.0  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Kaesora
+
+ failed crypt raider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Shield of Rainbow Hues
+
+Classic Era (added 1999-2000)
+
+ Project 1999 Green - Cheekpoker <Safe Space> models the Shield of Rainbow Hues
+Shield of Rainbow Hues
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+AC: 18
+SV FIRE: +20  SV DISEASE: +20  SV COLD: +20  SV MAGIC: +20  SV POISON: +20
+WT: 0.5  Size: MEDIUM
+Class: WAR PAL RNG SHD MNK ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+Post-Revamp (Current)
+
+ Fright
+ Dread
+ Terror
+
+Pre-Revamp
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

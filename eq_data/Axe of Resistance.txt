@@ -1,0 +1,34 @@
+ITEM NAME: Axe of Resistance
+
+Velious Era (added December 2000-2001)
+Axe of Resistance
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 15 AC: 20
+SV FIRE: +20  SV DISEASE: +20  SV COLD: +20  SV MAGIC: +20  SV POISON: +20
+WT: 4.0  Size: TINY
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Note: Showing post-upgrade stats, previously had a 15/35 ratio without 20 AC. 
+
+  Drops From 
+Temple of Veeshan
+
+ Sevalak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

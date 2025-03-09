@@ -1,0 +1,61 @@
+ITEM NAME: Empty Vial
+
+Classic Era (added 1999-2000)
+Empty Vial
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Steamfont Mountains
+
+ Godbin Strumharp
+
+
+
+  (43, -618)
+
+
+ North Freeport
+
+ Trudie Steelbone
+
+
+
+ (-34, 470)
+
+
+ Rathe Mountains
+
+ Ukla
+
+
+
+  (1731, 1289)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Make Poison
+ Alchemy
+
+
+
+

@@ -1,0 +1,29 @@
+ITEM NAME: Empty Crest Case
+
+Velious Era (added December 2000-2001)
+
+
+Empty Crest Case
+
+
+LORE ITEM  NO DROP
+WT: 0.2  Weight Reduction: 0%
+Capacity: 6  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Friend of the Tunarean Court
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

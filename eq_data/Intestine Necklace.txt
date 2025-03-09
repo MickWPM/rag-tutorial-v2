@@ -1,0 +1,33 @@
+ITEM NAME: Intestine Necklace
+
+
+Intestine Necklace
+
+
+Slot: NECK
+HP: +5
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Innothule Swamp
+
+ Basher Nkekta
+ Basher Sklama
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Marda's Secret Mission
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

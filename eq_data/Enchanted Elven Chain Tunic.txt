@@ -1,0 +1,41 @@
+ITEM NAME: Enchanted Elven Chain Tunic
+
+
+Enchanted Elven Chain Tunic
+
+
+Slot: CHEST
+AC: 14
+WIS: +4  INT: +4
+SV MAGIC: +2
+WT: 1.5  Size: MEDIUM
+Class: ALL except SHD MNK SHM NEC
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 155)
+ Yield: Enchanted Elven Chain Tunic x1
+ In Koada`Dal Forge:
+
+
+  1 x Chainmail Tunic Pattern - Bought
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  3 x Enchanted Mithril Rings - Crafted
+  1 x Moonlight Temper - Crafted
+  1 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

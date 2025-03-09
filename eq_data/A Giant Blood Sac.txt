@@ -1,0 +1,42 @@
+ITEM NAME: A Giant Blood Sac
+
+
+
+A Giant Blood Sac
+
+
+NO DROP  QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+East Cabilis
+
+ a giant swamp leech
+
+Swamp of No Hope
+
+ a giant swamp leech
+ a marsh leech
+ a giant marsh leech
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Curscale Shield
+ Cures
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Legion Lager (Trivial: 36)
+
+
+
+
+

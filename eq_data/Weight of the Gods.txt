@@ -1,0 +1,41 @@
+ITEM NAME: Weight of the Gods
+
+Sky Era (added January 2000)
+
+
+Weight of the Gods
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 12
+WIS: +5  AGI: +5  MANA: +50
+SV MAGIC: +25
+WT: 3.0  Size: MEDIUM
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit princess
+ an azarack
+ an essence tamer
+ Keeper of Souls
+ Noble Dojorn
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

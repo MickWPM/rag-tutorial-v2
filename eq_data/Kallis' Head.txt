@@ -1,0 +1,33 @@
+ITEM NAME: Kallis' Head
+
+Velious Era (added December 2000-2001)
+
+
+Kallis' Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Kallis Stormcaller
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Helm of the Tracker Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

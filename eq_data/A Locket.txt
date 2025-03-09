@@ -1,0 +1,34 @@
+ITEM NAME: A Locket
+
+Temple Era (added October 1999)
+
+
+A Locket
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Sentinel Alechin's Locket 
+
+  Drops From 
+Southern Karana
+
+ a werewolf
+ Sentry Alechin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gauntlets of Ro
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

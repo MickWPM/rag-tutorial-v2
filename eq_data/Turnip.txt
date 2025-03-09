@@ -1,0 +1,60 @@
+ITEM NAME: Turnip
+
+
+
+Turnip
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Western Plains of Karana
+
+ Cleet Miller Jr
+
+
+
+  (-3013, -5735)
+
+
+ Rivervale
+
+ Daleen Leafsway
+
+
+
+  (-87, -343)
+
+
+ Thurgadin
+
+ Petcas Coldbeard
+
+
+
+  (-57, 94)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+
+
+

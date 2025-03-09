@@ -1,0 +1,30 @@
+ITEM NAME: Air Tight Box
+
+
+
+Air Tight Box
+
+
+LORE ITEM  NO DROP
+WT: 6.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Air Tight Box Quest
+
+  Player crafted 
+ Non-Tradeskill (Intermediate Quest Result) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

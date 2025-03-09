@@ -1,0 +1,39 @@
+ITEM NAME: Vale Reinforced Boots
+
+
+
+Vale Reinforced Boots
+
+
+Slot: FEET
+AC: 7
+WT: 1.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the halfling cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 215)
+ Yield: Vale Reinforced Boots x1
+ In Vale Sewing Kit:
+
+
+  1 x Acorn Oil - Crafted
+  1 x Boot Pattern - Bought
+  1 x High Quality Brute Hide - Dropped
+  3 x Steel Boning - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Bronze Tachi
+
+Velious Era (added December 2000-2001)
+
+
+Bronze Tachi
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 32
+DMG: 5 
+WT: 8.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+The Warrens
+
+ High Shaman Drogik
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

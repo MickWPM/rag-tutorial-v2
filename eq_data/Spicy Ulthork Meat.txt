@@ -1,0 +1,43 @@
+ITEM NAME: Spicy Ulthork Meat
+
+Velious Era (added December 2000-2001)
+
+
+Spicy Ulthork Meat
+
+
+NO DROP
+This is a meal!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ Baking (Trivial: 82)
+ Yield: Spicy Ulthork Meat x1
+ In Mixing Bowl:
+
+
+  1 x Spices - Bought
+  2 x Ulthork Meat - Dropped
+  1 x Vinegar - Bought 
+
+
+  Tradeskill recipes 
+ Baking
+ Ulthork Meat Pie (Trivial: 95)
+
+
+
+
+

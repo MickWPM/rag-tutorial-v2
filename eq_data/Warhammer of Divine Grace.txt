@@ -1,0 +1,39 @@
+ITEM NAME: Warhammer of Divine Grace
+
+Classic Era (added 1999-2000)
+
+Warhammer of Divine Grace
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 39
+DMG: 18 
+Effect:  Yaulp III (Combat, Casting Time: Instant) at Level 40
+WT: 7.3  Size: MEDIUM
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Dreadlands
+
+ Gorenaire
+
+Permafrost
+
+ Lady Vox
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

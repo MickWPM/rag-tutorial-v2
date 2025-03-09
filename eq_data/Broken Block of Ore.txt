@@ -1,0 +1,43 @@
+ITEM NAME: Broken Block of Ore
+
+Classic Era (added 1999-2000)
+
+
+Broken Block of Ore
+
+
+WT: 25.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Harban Ranflash
+
+
+
+  (695, 883)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

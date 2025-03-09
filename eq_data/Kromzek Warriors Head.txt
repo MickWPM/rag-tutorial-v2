@@ -1,0 +1,32 @@
+ITEM NAME: Kromzek Warriors Head
+
+Velious Era (added December 2000-2001)
+Kromzek Warriors Head
+
+
+LORE ITEM NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Drendar Blackblade
+ Vkjen Thunderslayer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Unknown  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

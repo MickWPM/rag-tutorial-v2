@@ -1,0 +1,46 @@
+ITEM NAME: Enchanted Dwarven Plate Helm
+
+
+Enchanted Dwarven Plate Helm
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 16
+STR: +4  STA: +4
+SV FIRE: +4  SV MAGIC: +5
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL SHD
+Race: DWF HFL GNM
+
+
+Part of the dwarven cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 210)
+ Yield: Enchanted Dwarven Plate Helm x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought
+  1 x Earthen Temper - Crafted
+  1 x Enchanted Brellium Jointing - Crafted
+  2 x Enchanted Folded Brellium Sheet - Crafted
+  1 x Leather Padding - Crafted
+  1 x Small Plate Helm Mold - Bought
+
+
+
+
+ Sir Messerschmidt channeling the spirit of Brell by chanting "Dirts me favorite color"
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

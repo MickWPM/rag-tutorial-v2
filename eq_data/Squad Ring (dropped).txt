@@ -1,0 +1,38 @@
+ITEM NAME: Squad Ring (dropped)
+
+Classic Era (added 1999-2000)
+Were you looking for Squad Ring (Quest Item)?
+
+Squad Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+CHA: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Wall Squad Ring There are two items named Squad Ring. This version drops from the halfling guards around the wall and inside the city.  It gives a +5 CHA boost, but has No spell effect. 
+
+  Drops From 
+Misty Thicket
+
+ Wall Guards
+
+Rivervale
+
+ Most Guards
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

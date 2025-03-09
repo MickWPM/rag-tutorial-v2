@@ -1,0 +1,39 @@
+ITEM NAME: Robe of the Ishva
+
+
+Robe of the Ishva
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 8
+CHA: +5  MANA: +50
+SV POISON: +14
+WT: 1.8  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kithicor Forest
+
+ Coercer Q`ioul
+
+Splitpaw Lair
+
+ The Ishva Mal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

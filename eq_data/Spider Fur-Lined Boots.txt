@@ -1,0 +1,34 @@
+ITEM NAME: Spider Fur-Lined Boots
+
+Velious Era (added December 2000-2001)
+
+Spider Fur-Lined Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 6
+CHA: +5  HP: +45
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ a blizzard hunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

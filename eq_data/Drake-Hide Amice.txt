@@ -1,0 +1,35 @@
+ITEM NAME: Drake-Hide Amice
+
+Sky Era (added January 2000)
+
+
+Drake-Hide Amice
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+Charges: 10
+AC: 6
+STA: +5  HP: +50  MANA: +50
+Effect:  Malaise (Must Equip, Casting Time: Instant) at Level 45
+WT: 2.5  Size: SMALL
+Class: MAG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Summoning
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

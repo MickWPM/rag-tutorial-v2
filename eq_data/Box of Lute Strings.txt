@@ -1,0 +1,324 @@
+ITEM NAME: Box of Lute Strings
+
+Classic Era (added 1999-2000)
+
+
+Box of Lute Strings
+
+
+QUEST ITEM
+WT: 0.5 SIZE: TINY
+CLASS: ALL
+RACE: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Commonlands
+
+ Innkeep Harold
+
+
+
+  (-187, 117)
+
+
+ East Commonlands
+
+ Innkeep Dolman
+
+
+
+  (1028, 3682)
+
+
+ East Commonlands
+
+ Innkeep Juna
+
+
+
+  (-334, 3022)
+
+
+ East Commonlands
+
+ Innkeep Blaise
+
+
+
+  (332, 4842)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ East Freeport
+
+ Innkeep Nasumi
+
+
+
+  (-77, -720)
+
+
+ Firiona Vie
+
+ Leala Swiftarrow
+
+
+
+  (-3299, 3338)
+
+
+ Greater Faydark
+
+ Innkeep Larya
+
+
+
+  (940, 306)
+
+
+ Greater Faydark
+
+ Innkeep Linen
+
+
+
+  (726, 459)
+
+
+ Greater Faydark
+
+ Innkeep Wuleran
+
+
+
+  (-337, 141)
+
+
+ Halas
+
+ Hetie McDonald
+
+
+
+  (240, -154)
+
+
+ Kithicor Forest
+
+ Innkeep Jurn
+
+
+
+  (-281, 3821)
+
+
+ Kithicor Forest
+
+ Innkeep Grace
+
+
+
+  (1095, -684)
+
+
+ Kithicor Forest
+
+ Innkeep Darvon
+
+
+
+  (1135, -673)
+
+
+ Kithicor Forest
+
+ Innkeep Lynnie
+
+
+
+  (-307, 3793)
+
+
+ Lesser Faydark
+
+ Anelia Thrywiel
+
+
+
+  (-307, 1242)
+
+
+ Neriak Foreign Quarter
+
+ Bull Crusher
+
+
+
+  (-390, -252)
+
+
+ Neriak Commons
+
+ Dunred M`Trik
+
+
+
+  (71, -866)
+
+
+ North Freeport
+
+ Innkeep Palola
+
+
+
+  (-187, -63)
+
+
+ Northern Karana
+
+ Innkeep Disda
+
+
+
+  (118, 1382)
+
+
+ Northern Karana
+
+ Innkeep James
+
+
+
+  (156, 1379)
+
+
+ Northern Desert of Ro
+
+ Innkeep Valon
+
+
+
+  (3415, 503)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ Rathe Mountains
+
+ Philicia Drinn
+
+
+
+  (4002, -1359)
+
+
+ Rathe Mountains
+
+ Sven Drinn
+
+
+
+  (3992, -1383)
+
+
+ Rathe Mountains
+
+ Innkeep Troy
+
+
+
+  (4283, 842)
+
+
+ Rathe Mountains
+
+ Innkeep Serge
+
+
+
+  (4294, 831)
+
+
+ The Feerrott
+
+ Innkeep Gub
+
+
+
+  (1144, 1444)
+
+
+ The Feerrott
+
+ Innkeep Morpa
+
+
+
+  (1144, -145)
+
+
+ West Commonlands
+
+ Innkeep Roster
+
+
+
+  (-149, 452)
+
+
+ West Commonlands
+
+ Innkeep Olissa
+
+
+
+  (-384, 2714)
+
+
+ Western Plains of Karana
+
+ Innkeep Rislarn
+
+
+
+  (326, -4417)
+
+  Related quests 
+ Custom Naliedin Lute (Quest)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

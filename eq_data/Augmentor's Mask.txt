@@ -1,0 +1,33 @@
+ITEM NAME: Augmentor's Mask
+
+Sky Era (added January 2000)
+
+
+Augmentor's Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 6
+DEX: +4  INT: +9  AGI: +8  MANA: +9
+WT: 0.5  Size: MEDIUM
+Class: WIZ
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Concentration
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

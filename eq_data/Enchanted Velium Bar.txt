@@ -1,0 +1,27 @@
+ITEM NAME: Enchanted Velium Bar
+
+
+
+Enchanted Velium Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+An enchanter casts Enchant Velium, consuming one Velium Bar from inventory, and creating an Enchanted Velium Bar on the cursor. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

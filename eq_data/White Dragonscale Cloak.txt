@@ -1,0 +1,33 @@
+ITEM NAME: White Dragonscale Cloak
+
+Classic Era (added 1999-2000)
+
+White Dragonscale Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 10
+WIS: +9  INT: +9  MANA: +75
+SV COLD: +25
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+99 out of 100 bards hate you for having this. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ White Dragonscale Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Blackened Iron Boots
+
+Classic Era (added 1999-2000)
+⏱️ REVAMP ALERT (see notes)
+
+Blackened Iron Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 5
+WT: 6.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Blackened Iron Armor Set 
+
+  Drops From 
+Clan Runnyeye
+
+ The Goblin King
+ a Pickclaw Foeslicer
+ a Pickclaw Zekspeaker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

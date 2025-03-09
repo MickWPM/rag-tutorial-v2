@@ -1,0 +1,35 @@
+ITEM NAME: Obulus Mantle
+
+Kunark Era (added 2000)
+
+
+Obulus Mantle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 10
+STR: +5  STA: +5  MANA: +30
+WT: 4.5  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ crypt caretaker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

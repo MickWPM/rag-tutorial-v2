@@ -1,0 +1,32 @@
+ITEM NAME: Band of Tunare
+
+
+Band of Tunare
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+AC: 1
+WIS: +1  MANA: +2
+SV FIRE: -5
+WT: 0.2  Size: SMALL
+Class: WAR CLR PAL RNG DRU
+Race: HUM ELF HIE HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Merona's Brother
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

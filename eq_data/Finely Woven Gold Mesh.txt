@@ -1,0 +1,35 @@
+ITEM NAME: Finely Woven Gold Mesh
+
+Sky Era (added January 2000)
+
+
+
+Finely Woven Gold Mesh
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+WT: 8.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Protector of Sky
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Strength
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

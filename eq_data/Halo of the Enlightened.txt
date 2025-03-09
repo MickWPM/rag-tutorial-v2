@@ -1,0 +1,36 @@
+ITEM NAME: Halo of the Enlightened
+
+Velious Era (added December 2000-2001)
+
+Halo of the Enlightened
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 25
+STR: +10  STA: +10  WIS: +15  HP: +100  MANA: +100
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+Effect: See Invisible (Worn)  
+WT: 0.1  Size: SMALL
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

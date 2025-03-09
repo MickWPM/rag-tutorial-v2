@@ -1,0 +1,33 @@
+ITEM NAME: Dented Brass Mask
+
+
+Dented Brass Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 4
+STR: +3
+WT: 0.8  Size: SMALL
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Permafrost
+
+ a goblin archeologist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

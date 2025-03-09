@@ -1,0 +1,81 @@
+ITEM NAME: Battle Staff
+
+Classic Era (added 1999-2000)
+
+Battle Staff
+
+
+LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 28
+DMG: 5 
+CHA: +10
+WT: 6.5  Size: LARGE
+Class: CLR PAL
+Race: ERU
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Wielded by the High Guard of Erudin 
+ Merchant resale value: 3p 9g 6s 8c 
+
+  Drops From 
+Erudin
+
+ Sentinel Adrial
+ Sentinel Aegeo
+ Sentinel Belario
+ Sentinel Cymbelin
+ Sentinel Demitri
+ Sentinel Gressio
+ Sentinel Malvol
+ Sentinel Mercutil
+ Sentinel Phylos
+ Sentinel Polix
+ Sentinel Silvis
+ Sentinel Tybal
+ Sentinel Ursulo
+ Sentinel Venci
+
+Erudin Palace
+
+ Sentinel Balthar
+ Sentinel Charin
+ Sentinel Cholis
+ Sentinel Colm
+ Sentinel Corin
+ Sentinel Dadil
+ Sentinel Desde
+ Sentinel Edan
+ Sentinel Golas
+ Sentinel Hylin
+ Sentinel Jeast
+ Sentinel Knox
+ Sentinel Laphis
+ Sentinel Lixen
+ Sentinel Nolbain
+ Sentinel Ogen
+ Sentinel Phis
+ Sentinel Rysin
+ Sentinel Thron
+ Sentinel Tigonus
+ Sentinel Vanil
+ Sentinel Wren
+
+Toxxulia Forest
+
+ Sentinel Creot
+ Sentinel Drom
+ Sentinel Flavius
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

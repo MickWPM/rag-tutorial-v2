@@ -1,0 +1,33 @@
+ITEM NAME: Orc Impaler
+
+
+
+Orc Impaler
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 7
+STR: +3  WIS: +4  HP: +10
+WT: 3.0  Range: 40  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Orc Impaler
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

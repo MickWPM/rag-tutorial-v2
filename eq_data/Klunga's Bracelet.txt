@@ -1,0 +1,32 @@
+ITEM NAME: Klunga's Bracelet
+
+
+
+Klunga's Bracelet
+
+
+LORE ITEM  NO DROP
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Rathe Mountains
+
+ Nicholas - Gives it to you when you mention the Chalice of Conquest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Chalice of Conquest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

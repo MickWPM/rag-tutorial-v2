@@ -1,0 +1,35 @@
+ITEM NAME: Crystal Chitin Leggings
+
+Velious Era (added December 2000-2001)
+
+Crystal Chitin Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 15
+STA: +5  MANA: +35
+WT: 4.0  Size: TINY
+Class: WAR CLR PAL RNG SHD DRU BRD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ a Frenzied Velium Broodling
+ The Brood Mother
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

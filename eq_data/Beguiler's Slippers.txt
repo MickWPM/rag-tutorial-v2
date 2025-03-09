@@ -1,0 +1,35 @@
+ITEM NAME: Beguiler's Slippers
+
+Velious Era (added December 2000-2001)
+
+
+Beguiler's Slippers
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 5
+CHA: +4  MANA: +35
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+Effect:  Invisibility (Must Equip, Casting Time: 8.0)
+WT: 0.5  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Velium Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

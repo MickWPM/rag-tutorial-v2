@@ -1,0 +1,38 @@
+ITEM NAME: Iceflame
+
+Velious Era (added December 2000-2001)
+
+
+
+Iceflame
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 44
+DMG: 35 
+Effect:  Smolder (Combat, Casting Time: Instant) at Level 35
+WT: 15.0  Size: MEDIUM
+Class: WAR PAL SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Khelkar Icepaw
+
+ Sir Messerschmidt wielding both Ice and Flame
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

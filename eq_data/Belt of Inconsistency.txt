@@ -1,0 +1,45 @@
+ITEM NAME: Belt of Inconsistency
+
+Velious Era (added December 2000-2001)
+
+
+Belt of Inconsistency
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 15
+STR: +1  DEX: +1  WIS: +1  INT: +1  AGI: +1  HP: +70  MANA: +70
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Belt of Inconsistency x1
+ In  Deck of Spontaneous Generation:
+
+
+  A White Throne - Dropped
+  A Blue Throne - Dropped
+  A White Crown - Dropped
+  A Blue Crown - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

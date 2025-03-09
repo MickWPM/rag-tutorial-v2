@@ -1,0 +1,27 @@
+ITEM NAME: Deluxe Sewing Kit
+
+Velious Era (added December 2000-2001)
+
+
+Deluxe Sewing Kit
+
+
+WT: 4.0  Weight Reduction: 0%
+Capacity: 10  Size Capacity: GIANT
+
+
+Limited item - no longer obtainable. At some point during Velious all current Large Sewing Kits were retroactively converted to 10-slot containers. Realizing that this tanked the market for Hand Made Backpacks, they reversed the decision and reverted the 10-slot Large Sewing Kits back to 8-slots on vendors, while retroactively renaming all current 10-slotters to Deluxe Sewing Kits so that players wouldn't lose their items being stored in those containers, and those are the only ones that will ever exist on the server. This has not yet occurred on Project 1999. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

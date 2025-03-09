@@ -1,0 +1,55 @@
+ITEM NAME: Splinted Bronze Cloak
+
+Classic Era (added 1999-2000)Were you looking for Large Bronze Armor Set? Were you looking for Small Bronze Armor Set?
+
+Splinted Bronze Cloak
+
+
+Slot: BACK
+AC: 8
+WT: 6.7  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Bronze Armor Set. 
+ Merchant resale value: 3p 6g Max 
+
+  Drops From 
+Mistmoore Castle
+
+ a deathly harbinger
+ a deathly herald
+ a deathly usher
+ a will pillager
+ a will ravisher
+ a will sapper
+ Butler Syncall
+
+Dreadlands
+
+ a drolvarg gnasher
+
+Firiona Vie
+
+ a drolvarg snarler
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ greater kobold
+ Solusek kobold
+ Solusek kobold shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Tinkered Catapult
+
+
+Tinkered Catapult
+
+
+QUEST ITEM
+Slot: SECONDARY
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used for a quest that is not in the timeline. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 135)
+ Yield: Tinkered Catapult x1
+ In Toolboxes:
+
+
+  1 x Firewater - Crafted
+  1 x Gears - Bought, Dropped
+  1 x Metal Twine - Bought
+  1 x Shaped Ashwood Recurve Bow (hemp) - Crafted
+  1 x Sprockets - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

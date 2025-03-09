@@ -1,0 +1,34 @@
+ITEM NAME: Elder Spiritist's Boots
+
+Kunark Era (added 2000)
+
+Elder Spiritist's Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 8
+Effect:  Levitate (Must Equip, Casting Time: 6.0) at Level 45
+WT: 6.5  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+Part of the Elder Spiritist's Armor set. Requires and consumes 1 Bat Wing in inventory to click 
+
+  Drops From 
+Howling Stones (Charasis)
+
+ Mortiferous Protector
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

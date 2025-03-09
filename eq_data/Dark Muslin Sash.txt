@@ -1,0 +1,35 @@
+ITEM NAME: Dark Muslin Sash
+
+Warrens Era (added spring 2001)
+
+Dark Muslin Sash
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 5
+WT: 0.2  Size: SMALL
+Class: DRU MNK NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Dark Muslin Armor Set 
+
+  Drops From 
+RunnyEye Citadel
+
+ Battlewizard Unak
+ A Pickclaw Slayspell
+ A Pickclaw Zekspeaker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

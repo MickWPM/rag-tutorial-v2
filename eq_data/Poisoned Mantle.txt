@@ -1,0 +1,36 @@
+ITEM NAME: Poisoned Mantle
+
+Kunark Era (added 2000)
+
+
+Poisoned Mantle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 15
+STR: +7  DEX: +7  STA: +7  AGI: +7
+SV POISON: -15
+WT: 1.5  Size: SMALL
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: HUM IKS
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ Trakanon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Blood Lord's Greaves
+
+Velious Era (added December 2000-2001)
+
+Blood Lord's Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 31
+STR: +6  STA: +9  INT: +9  HP: +70  MANA: +30
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 7.0  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Skyshrine Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

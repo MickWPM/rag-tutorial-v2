@@ -1,0 +1,40 @@
+ITEM NAME: Large Banded Gauntlets
+
+Were you looking for Banded Armor Set? Were you looking for Small Banded Armor Set?
+Not craftable until October 1999 era: https://www.project1999.com/forums/showthread.php?t=358577
+
+
+Large Banded Gauntlets
+
+
+Slot: HANDS
+AC: 7
+WT: 3.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: BAR TRL OGR
+
+
+Part of the Large Banded Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 168)
+ Yield: Large Banded Gauntlets x1
+ In Forge:
+
+
+  1 x Large Gauntlet Mold - Bought
+  2 x Sheet Metal - Crafted, Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

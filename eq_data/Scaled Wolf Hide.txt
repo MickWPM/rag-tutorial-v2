@@ -1,0 +1,41 @@
+ITEM NAME: Scaled Wolf Hide
+
+
+
+Scaled Wolf Hide
+
+
+WT: 6.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known Classic use. 
+ Merchant resale value: ~9 silver 
+
+  Drops From 
+Field of Bone
+
+ a scaled wolf
+ a scaled wolf cub
+ a scaled wolf hunter
+ a scaled wolf prowler
+ a scaled wolf pup
+ a scaled wolf stalker
+ a scaled wolf tracker
+ a scaled prowler
+
+Warsliks Wood
+
+ a scaled wolf elder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

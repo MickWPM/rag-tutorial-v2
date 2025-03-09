@@ -1,0 +1,36 @@
+ITEM NAME: Robe of the Invoker
+
+Velious Era (added December 2000-2001) Robe of the Invoker
+ Robe of the Invoker
+
+
+Robe of the Invoker
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 14
+STA: +15  INT: +14  HP: +50  MANA: +90
+SV FIRE: +10  SV DISEASE: +7  SV MAGIC: +7  SV POISON: +7
+Effect: Enticement of Flame (Must Equip, Casting Time: 25.0) at Level 50
+WT: 0.5  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+The clicky effect is a low-level lure nuke for 360 damage. With a 25 second cast time, this robe can put out 14.4 DPS mana free. Compare to Solist's Icy Wand and Solist's Robe of Invocation. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Kael Robe
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

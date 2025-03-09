@@ -1,0 +1,29 @@
+ITEM NAME: Magnetized Platinum Bar
+
+Temple Era (added October 1999)
+
+
+Magnetized Platinum Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Give one Enchanted Platinum Bar to Ostorm. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Greaves of the Penitent
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

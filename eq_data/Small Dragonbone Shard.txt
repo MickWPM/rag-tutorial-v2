@@ -1,0 +1,36 @@
+ITEM NAME: Small Dragonbone Shard
+
+Velious Era (added December 2000-2001)
+
+
+
+Small Dragonbone Shard
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 26
+DMG: 13 
+WT: 4.0  Size: SMALL
+Class: WAR ROG
+Race: DWF HFL GNM
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a dragon construct
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

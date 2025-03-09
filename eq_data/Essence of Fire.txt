@@ -1,0 +1,37 @@
+ITEM NAME: Essence of Fire
+
+
+
+Essence of Fire
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Sells to Indifferent NPC @ CHA 95 for 4g 5c 
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire elemental
+
+Solusek's Eye
+
+ blazing elemental
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

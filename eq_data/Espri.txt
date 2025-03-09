@@ -1,0 +1,35 @@
+ITEM NAME: Espri
+
+Sky Era (added January 2000)
+
+
+Espri
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 10 
+DEX: +9  WIS: +9  MANA: +50
+Effect:  Combust (Combat, Casting Time: Instant) at Level 45
+WT: 2.0  Size: MEDIUM
+Class: DRU
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of Nature
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

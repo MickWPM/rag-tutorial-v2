@@ -1,0 +1,35 @@
+ITEM NAME: Goblin Sparring Gloves
+
+
+
+Goblin Sparring Gloves
+
+
+NO DROP
+Slot: HANDS
+AC: 3
+SV POISON: +1
+WT: 0.4  Size: SMALL
+Class: MNK
+Race: IKS
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ a goblin pit fighter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Shackle Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

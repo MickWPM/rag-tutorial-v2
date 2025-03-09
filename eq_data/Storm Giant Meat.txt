@@ -1,0 +1,131 @@
+ITEM NAME: Storm Giant Meat
+
+Velious Era (added December 2000-2001)
+
+
+
+Storm Giant Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a Protector of Zek
+ Adjutant Brunkin
+ Adjutant Cryyrn
+ Adjutant Daggeruk
+ Adjutant Derkan
+ Adjutant Droggren
+ Adjutant Frinevrn
+ Adjutant Frinvan
+ Adjutant Hekrandor
+ Adjutant Hoggren
+ Adjutant Jharll
+ Adjutant Khellendor
+ Adjutant Stormkeeper
+ Adjutant Strongaxe
+ Adjutant Thyek
+ Adjutant Velsharek
+ Captain Bvellos
+ Derakor the Vindicator
+ Guard Bluehammer
+ Guard Dluerkin
+ Guard Drakkerender
+ Guard Dryndomar
+ Guard Falldrryn
+ Guard Fjorlek
+ Guard Fleshflayer
+ Guard Greybeard
+ Guard Gyll
+ Guard Hallenban
+ Guard Immendrel
+ Guard Kelldrevn
+ Guard Khyosr
+ Guard Nocslein
+ Guard Ragern
+ Guard Rolkin
+ Guard Sjior
+ Guard Stonebender
+ Guard Svatek
+ Guard Taalen
+ Guard Ulfhedinn
+ Guard Uthallern
+ Korakaz
+ Legionnaire Alveyrem
+ Legionnaire Blizzardwalker
+ Legionnaire Evbarjor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Whiteaxe
+ Legionnaire Yervin
+ Legionnaire Yvedrn
+ Lieutenant Steinern
+ Noble Helssen
+ Senior Guard Akurr
+ Senior Guard Dhryell
+ Senior Guard Hammerfall
+ Senior Guard Mjredner
+ Senior Guard Randeil
+ Senior Guard Skendeldorn
+ Senior Guard Tymul
+ Senior Guard Whiteaxe
+ Senior Guard Yrrelken
+ Sergeant Fjrak
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+ Veteran Eiyloren
+ Veteran Icecaller
+ Veteran Kltrem
+ Veteran Mjrlind
+ Veteran Skeldek
+ Veteran Surlren
+ Veteran Yllhaydm
+ Watchman Bremmn
+ Watchman Vedravik
+
+The Wakening Land
+
+ Lieutenant Krofer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Pickled Storm Giant (Trivial: 88)
+ Storm Giant Steak (Trivial: 142)
+
+
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Petrified Bark Leggings
+
+GM Event item (info)
+
+Petrified Bark Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 18
+STA: +10  MANA: +20
+WT: 7.0  Size: LARGE
+Class: RNG
+Race: ALL except IKS
+
+
+Item only obtained during a GM event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

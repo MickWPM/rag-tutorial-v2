@@ -1,0 +1,87 @@
+ITEM NAME: Words of Descrying
+
+
+Words of Descrying
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1p 4g 1c 
+
+  Drops From 
+City of Mist
+
+ a phantom
+ greater plaguebone
+
+Commonlands
+
+ Sergeant Slate
+
+Crystal Caverns
+
+ a stalag terror
+
+Dreadlands
+
+ a drolvarg rager
+ a glacier yeti
+
+Eastern Wastes
+
+ a manticore
+
+Everfrost Peaks
+
+ an ice giant
+
+Karnor's Castle
+
+ a drolvarg sentry
+ decayed soldier
+
+Lesser Faydark
+
+ Equestrielle the Corrupted
+
+Lower Guk
+
+ a zol ghoul knight
+ a dar ghoul knight
+
+Nagafen's Lair
+
+ sonic bat
+
+The Hole
+
+ an elemental warrior
+
+The Wakening Land
+
+ a suit of sentient armor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: 140)
+ Yield: Spell: Nullify Magic x1
+ In Book of Dark Bindings:
+
+
+  1 x Words of Descrying - Dropped
+  1 x Words of Seizure - Dropped
+  1 x Words of Disillusionment - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

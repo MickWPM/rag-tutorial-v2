@@ -1,0 +1,31 @@
+ITEM NAME: Vial of Noble's Blood
+
+Velious Era (added December 2000-2001)
+Vial of Noble's Blood
+
+
+MAGIC ITEM  NO DROP
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a fallen noble
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Visiting Priestess
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

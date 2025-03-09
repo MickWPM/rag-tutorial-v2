@@ -1,0 +1,38 @@
+ITEM NAME: Broom of Trilon
+
+Temple Era (added October 1999)
+
+
+
+Broom of Trilon
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 6 
+INT: +2  AGI: +3
+Effect:  Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
+Focus Effect: Minion of Air
+WT: 3.5  Size: LARGE
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+Although only magicians can equip, spell confirmed usable by DRU, NEC, SHM and SHD from inventory. Probably any pet summon class can use. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+ Broom Of Trilon Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

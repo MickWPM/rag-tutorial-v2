@@ -1,0 +1,33 @@
+ITEM NAME: Paineel Steel Breastplate
+
+
+Paineel Steel Breastplate
+
+
+Slot: CHEST
+AC: 22
+WT: 10.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD SHM
+Race: ALL except DWF TRL OGR HFL GNM IKS
+
+
+Part of the Paineel Steel Armor Set 
+
+  Drops From 
+The Hole
+
+ a revenant
+ a wanderer
+ A Ratman Warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

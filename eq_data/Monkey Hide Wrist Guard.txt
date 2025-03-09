@@ -1,0 +1,35 @@
+ITEM NAME: Monkey Hide Wrist Guard
+
+Velious Era (added December 2000-2001)
+
+
+Monkey Hide Wrist Guard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STR: +5  DEX: +5  WIS: +5  HP: +20
+SV FIRE: +5  SV POISON: +5
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

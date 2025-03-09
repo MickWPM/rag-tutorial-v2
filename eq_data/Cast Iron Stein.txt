@@ -1,0 +1,36 @@
+ITEM NAME: Cast Iron Stein
+
+Warrens Era (added spring 2001)
+
+
+Cast Iron Stein
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 31
+DMG: 5   AC: 3
+STA: +2  WIS: +3
+WT: 4.3  Size: SMALL
+Class: CLR PAL DRU SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Warrens
+
+ The Muglwump
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

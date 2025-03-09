@@ -1,0 +1,156 @@
+ITEM NAME: Armor and Weapons Guide
+
+
+
+Armor and Weapons Guide
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Everfrost Peaks
+
+ Dansie McVicker
+
+
+
+  (3638, 697)
+
+
+ East Freeport
+
+ Daria Smith
+
+
+
+  (46, -226)
+
+
+ East Freeport
+
+ Issilyn Ristan
+
+
+
+  (72, -214)
+
+
+ Toxxulia Forest
+
+ Win Karnam
+
+
+
+  (2247, 979)
+
+
+ Western Plains of Karana
+
+ Sera McMannus
+
+
+
+  (-4011, -2222)
+
+
+ Qeynos Hills
+
+ Marton Sayer
+
+
+
+  (1381, 278)
+
+
+ The Feerrott
+
+ Mugu
+
+
+
+  (972, 1236)
+
+
+ Greater Faydark
+
+ Merchant Linolyen
+
+
+
+  (110, 345)
+
+
+ Rivervale
+
+ Frankle Ironhair
+
+
+
+  (-251, -107)
+
+
+ East Cabilis
+
+ Klok Nalgoz
+
+
+
+  (239, -290)
+
+
+ East Cabilis
+
+ Brewer Prixal
+
+
+
+  (678, -26)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+THE BLACKSMITHS GUIDE TO ARMS AND ARMOR
+A detailed guide to the construction of arms and armor for the experienced blacksmith.
+Reference manual needed: The Guide to Blacksmithing
+Required: 
+
+ A forge
+ Earth
+ Fire
+ Water
+ Skill
+
+ON SIZING AND ARMOR
+Some types of armor must be sized to your client. There are three sizes of armor:
+Small, medium and large. Some races can wear more than one size of armor.
+Barbarians, ogres and trolls wear large armor.
+Barbarians, elves, Erudites, half-elves and humans wear medium armor.
+Dwarves, elves, gnomes and halflings wear small armor.
+BANDED ARMOR (SMALL, MEDIUM & LARGE)
+Each piece of banded armor can be sized to a small, medium or large client.
+The size of the armor is determined by the mold used.
+Each section of banded armor requires a sheet of metal and a mold appropriate to
+that section of the body. Each also requires a flask of water to cool it.
+Belts, cloaks, helms, masks, mantles, and sleeves require 2 sheets of metal.
+Leggings, and mail require 3 sheets of metal.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

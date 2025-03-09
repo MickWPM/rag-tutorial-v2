@@ -1,0 +1,206 @@
+ITEM NAME: Ice Cream is Good - Part 1
+
+
+
+Ice Cream is Good - Part 1
+
+
+WT: 1.0  Size: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ The Feerrott
+
+ Bup
+
+
+
+  (1182, 117)
+
+
+ West Freeport
+
+ Pincia Brownloe
+
+
+
+  (-276, -698)
+
+
+ Neriak Commons
+
+ Niz L`Crit
+
+
+
+  (82, -884)
+
+
+ Rivervale
+
+ Bartle Barnick
+
+
+
+  (-142, -358)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Ice Cream is Good - Part 1
+by Gnerbil Firewood
+I'm a tinker by nature,
+like most of us Gnomes. I
+love to fiddle around with
+things and make new things
+out of them. Now I often
+find myself in the kitchen
+tinkering around with my
+dinner. The wife doesn't
+usually like what I make
+	and she doesn't usually let
+me work the oven.
+So I went into the basement
+and started thinking of a
+way to make my own food. I
+tried to think of what I
+would want to eat if I
+could have anything at all.
+I figured it would be
+something sweet, obviously.
+I also wanted something
+
+cold to make the heat in my
+workroom seem less
+oppressive. Now, I get a
+lot of things sent to me by
+my lunatic nephew,
+Brinewillow. He likes to
+wander into dangerous
+places and pick stuff up
+from the natives and send
+them to me. A few days
+into thinking up a new way
+to make my cold treats, a
+	package arrived. The young
+halfling that delivered it
+was happy to get rid of it.
+That's pretty reasonable
+considering that it was
+cold and had a chilly mist
+pouring out of it.
+Well, the note said that it
+was the hide of some beast
+called a Gelidran. I've
+never seen one of these
+
+things, but they must be an
+amazing sight. Even dead,
+this things icy hide was
+incredibly cold. Now, you
+can only imagine how this
+sent my tinker's mind into
+a frenzy.
+I gathered up an old metal
+container I had and lined
+it with this hide, but the
+metal eventually froze and
+	wasn't very useful. I
+found, however, that an old
+unfired medium-sized
+container would hold up
+better under the low
+temperatures.
+Then I found a boot gasket
+that one of my contacts had
+just sewed up for me from
+the severed tentacle of
+something he called a Feran
+
+and fitted that on the
+thing to prevent spillage.
+Now I had a very cold
+container that I could use
+to make my treats!
+I started by putting all
+sorts of things in there
+and stirring them around
+with a heavy spoon I
+borrowed from the kitchen
+while the wife was out. I
+	started to find some
+interesting concoctions,
+but stirring them up was
+quickly becoming more work
+than the results were
+worth. So I started
+tinkering around again.
+All I had to do was add a
+couple of sprockets and a
+couple of metal rods to do
+the stirring and hook them
+
+up to one of my
+steam-powered pistons. Now
+all I have to do is throw
+tasty stuff into the thing
+and it will stir itself up!
+Of course this is where the
+trouble started. I soon
+learned that when I chose
+the stuff to stir up and
+freeze the results weren't
+very tasty. Eventually I
+	broke down and brought my
+new device upstairs. The
+wife is a great cook and
+without her help I knew I
+wasn't going to be able
+make anything tasty. The
+only thing that I had to
+fear was that she'd try to
+feed me into the thing.
+It took some cajoling on my
+part, but soon Brunelda was
+
+thinking up all sorts of
+tasty things! The best
+ones were made with cream
+and some ice from Velious.
+Soon enough that's all we
+were making in the thing,
+so we named it Gnerbil
+Firewood's Amazing Ice
+Cream Churning Device. I
+suppose, as usual, folks
+will change the name...
+	The wife hates it when I
+give out her recipes, but
+since this is my device,
+I'm going to tell you some
+of the best stuff to put
+into it. It's probably
+best if you have someone
+that knows how to cook do
+this or you'll probably
+regret the way it tastes.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

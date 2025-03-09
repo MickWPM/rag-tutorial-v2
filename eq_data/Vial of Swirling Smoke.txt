@@ -1,0 +1,154 @@
+ITEM NAME: Vial of Swirling Smoke
+
+Classic Era (added 1999-2000)
+
+Vial of Swirling Smoke
+
+
+MAGIC ITEM  LORE ITEM
+EXPENDABLE  Charges: 1
+Effect:  Gate (Any Slot, Casting Time: Instant) as Level 10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+The price of ~1000pp is rather high! 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork alchemist
+
+
+
+  (891, -301)
+
+
+ West Cabilis
+
+ Jondin
+
+
+
+  (-36, 508)
+
+
+ Erudin Palace
+
+ Sharin Denuen
+
+
+
+  (661, 539)
+
+
+ Felwithe
+
+ Merchant Yisasan
+
+
+
+  (448, -805)
+
+
+ Firiona Vie
+
+ Shrub Marwood
+
+
+
+  (-3253, 2267)
+
+
+ West Freeport
+
+ Olyna Mudel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Torlig Mudel
+
+
+
+  (82, -917)
+
+
+ South Kaladim
+
+ Baldoleky Rockfinder
+
+
+
+  (254, -186)
+
+
+ Neriak Foreign Quarter
+
+ Gambel Quick
+
+
+
+  (253, -60)
+
+
+ Western Plains of Karana
+
+ Spinner
+
+
+
+  (-1453, -12837)
+
+
+ South Qeynos
+
+ Drawna Opimsor
+
+
+
+  (303, -550)
+
+
+ Rivervale
+
+ Byl Babbinsbort
+
+
+
+  (-146, -114)
+
+
+ Rivervale
+
+ Bimble Babbinsbort
+
+
+
+  (-162, -118)
+
+  Related quests 
+ Red Dragonscale Armor Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Withered Leather Leggings
+
+Hole Era (added June 2000)
+
+
+
+Withered Leather Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 6
+WIS: +4  AGI: +8  MANA: +5
+SV DISEASE: +10
+WT: 4.0  Size: MEDIUM
+Class: CLR DRU SHM
+Race: ALL
+
+
+ Item Lore (from Identify):  Withered Leather LeggingsPart of the Withered Leather Armor Set 
+
+  Drops From 
+The Hole
+
+ Initiate Sirlis
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

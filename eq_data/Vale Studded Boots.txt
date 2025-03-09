@@ -1,0 +1,39 @@
+ITEM NAME: Vale Studded Boots
+
+
+
+Vale Studded Boots
+
+
+Slot: FEET
+AC: 6
+WT: 1.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the halfling cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 106)
+ Yield: Vale Studded Boots x1
+ In Vale Sewing Kit:
+
+
+  1 x Acorn Oil - Crafted
+  1 x Boot Pattern - Bought
+  1 x Brute Hide - Dropped
+  4 x Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

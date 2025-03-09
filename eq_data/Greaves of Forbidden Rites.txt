@@ -1,0 +1,38 @@
+ITEM NAME: Greaves of Forbidden Rites
+
+Velious Era (added December 2000-2001)
+ Myni models the Greaves of Forbidden Rites (custom version).
+Greaves of Forbidden Rites
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 24
+WIS: +10  HP: +80  MANA: +40
+SV COLD: +3
+Effect:  Word of Health (Must Equip, Casting Time: 12.0) at level 3
+WT: 7.0  Size: LARGE
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Velium Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Dark Elf 
+
+
+
+

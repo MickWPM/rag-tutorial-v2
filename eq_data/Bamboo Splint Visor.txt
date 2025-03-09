@@ -1,0 +1,28 @@
+ITEM NAME: Bamboo Splint Visor
+
+Chardok Revamp Era (added late 2001)
+Bamboo Splint Visor
+
+
+Slot: FACE
+AC: 3
+WT: 1.3  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

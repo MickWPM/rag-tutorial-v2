@@ -1,0 +1,35 @@
+ITEM NAME: Chokidai Hide Pauldrons
+
+Chardok Revamp Era (added late 2001)
+
+Chokidai Hide Pauldrons
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 5
+STR: -10  STA: +15  HP: +55
+SV DISEASE: -10  SV POISON: +10
+WT: 2.5  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Deathfang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

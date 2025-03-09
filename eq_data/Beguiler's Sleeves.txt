@@ -1,0 +1,34 @@
+ITEM NAME: Beguiler's Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+Beguiler's Sleeves
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 6
+CHA: +4  INT: +5  HP: +10  MANA: +20
+SV POISON: +2
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Velium Sleeves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

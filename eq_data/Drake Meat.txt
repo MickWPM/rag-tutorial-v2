@@ -1,0 +1,48 @@
+ITEM NAME: Drake Meat
+
+Velious Era (added December 2000-2001)
+
+
+
+Drake Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a cobalt drake
+
+Skyshrine
+
+ Jahuta Botara
+ Orivin Vor`Tun
+ Vren T`Nek
+ Welenor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking (Trivial: <=81)
+ Yield: Pickled Drake x2
+ In Oven: Spit
+
+
+  1 x Drake Meat - Dropped
+  1 x Jug of Oyster Sauces - Bought
+  1 x Seaweed Vinegar - Bought
+
+
+
+
+

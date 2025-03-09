@@ -1,0 +1,49 @@
+ITEM NAME: A White Knight
+
+Velious Era (added December 2000-2001)
+
+
+
+White Knight
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Mischief
+
+ a white stallion
+ Tribunal Puppet
+ Innoruuk Puppet
+ Erollisi Puppet
+ Rallos Puppet
+ Solusek Puppet
+ Tunare Puppet
+ Bristlebane Puppet
+ A Dastardly Rascal
+ A False Treasure Chest
+ Chuckles the Great
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+ Boots of Distraction
+ Gloves of Distraction
+ Wristguard of Distraction
+ Red Flower of Functionality
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

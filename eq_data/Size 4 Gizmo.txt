@@ -1,0 +1,43 @@
+ITEM NAME: Size 4 Gizmo
+
+Classic Era (added 1999-2000)
+
+
+Size 4 Gizmo
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known classic use. 
+
+  Drops From 
+Lesser Faydark
+
+ Gearheart
+
+Ocean of Tears
+
+ Toko Binlittle
+
+Steamfont Mountains
+
+ Cargo Clockwork
+ Charlotte
+ Frebin Tinderhue
+ rogue clockwork
+ Zondo Hyzill
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

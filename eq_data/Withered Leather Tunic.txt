@@ -1,0 +1,34 @@
+ITEM NAME: Withered Leather Tunic
+
+
+Withered Leather Tunic
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 11
+WIS: +4  MANA: +90
+SV MAGIC: +10
+WT: 3.5  Size: MEDIUM
+Class: CLR DRU SHM
+Race: ALL
+
+
+Part of the Withered Leather Armor Set 
+
+  Drops From 
+The Hole
+
+ Dartain the Lost
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

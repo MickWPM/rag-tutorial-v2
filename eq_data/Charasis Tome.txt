@@ -1,0 +1,33 @@
+ITEM NAME: Charasis Tome
+
+Kunark Era (added 2000)
+
+
+Charasis Tome
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 2.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ a drachnid spy
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of Betrayal (#5)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

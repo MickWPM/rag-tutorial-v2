@@ -1,0 +1,33 @@
+ITEM NAME: Frozen Orb
+
+Velious Era (added December 2000-2001)
+
+Frozen Orb
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE
+AC: 2
+WIS: +3  INT: +3  MANA: +40
+WT: 1.0  Size: MEDIUM
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ Scarbrow Ga`Hruk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

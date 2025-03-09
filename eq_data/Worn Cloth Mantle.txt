@@ -1,0 +1,33 @@
+ITEM NAME: Worn Cloth Mantle
+
+
+Worn Cloth Mantle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 6
+STR: +5  CHA: +5  AGI: +9
+WT: 0.3  Size: SMALL
+Class: CLR DRU BRD SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ a sebilite golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

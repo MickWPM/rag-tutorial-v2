@@ -1,0 +1,33 @@
+ITEM NAME: Choker of the Wretched
+
+Velious Era (added December 2000-2001)
+
+Choker of the Wretched
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 8
+STR: +8  CHA: +8  WIS: +8  INT: +8  HP: +40  MANA: +40
+Effect: Flowing Thought I
+WT: 0.1  Size: SMALL
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #10: Ring of Dain Frostreaver IV
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

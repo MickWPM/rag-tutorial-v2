@@ -1,0 +1,440 @@
+ITEM NAME: Throwing Axe
+
+Classic Era (added 1999-2000)
+Throwing Axe
+
+
+Slot: RANGE AMMO
+Skill: Throwingv1  Atk Delay: 30
+DMG: 6
+WT: 1.0  Range: 120  Size: MEDIUM
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+Not stackable as of 4/6/2015 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1313, -886)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1331, -707)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1324, -749)
+
+
+ East Cabilis
+
+ Granthrow
+
+
+
+  (-508, -311)
+
+
+ East Cabilis
+
+ Rastok
+
+
+
+  (348, 11)
+
+
+ East Cabilis
+
+ Smithy Qag
+
+
+
+  (-525, -7)
+
+
+ East Cabilis
+
+ Smithy Ygen
+
+
+
+  (-620, -28)
+
+
+ Chardok
+
+ Haggle Baron Dry`dn
+
+
+
+  (-93, 351)
+
+
+ East Commonlands
+
+ Ponila Quickfingers
+
+
+
+  (193, -855)
+
+
+ Field of Bone
+
+ Klok Canip
+
+
+
+  (-2261, 3304)
+
+
+ Firiona Vie
+
+ Dran Hieth
+
+
+
+  (-3132, 2953)
+
+
+ Firiona Vie
+
+ Rafron Brandin
+
+
+
+  (-3833, 1671)
+
+
+ Firiona Vie
+
+ Quizan Gaxx
+
+
+
+  (-2873, 2733)
+
+
+ East Freeport
+
+ Klan Smith
+
+
+
+  (-184, -164)
+
+
+ East Freeport
+
+ Gord Smith
+
+
+
+  (-184, -138)
+
+
+ East Freeport
+
+ Tenni Kohern
+
+
+
+  (-223, -886)
+
+
+ North Freeport
+
+ Markin Ironwhite
+
+
+
+  (194, -116)
+
+
+ North Freeport
+
+ Jekel Enhied
+
+
+
+  (-117, 556)
+
+
+ West Freeport
+
+ Asnod Marnoc
+
+
+
+  (-283, -798)
+
+
+ West Freeport
+
+ Fania Esruc
+
+
+
+  (-251, -820)
+
+
+ Greater Faydark
+
+ Merchant Gerienae
+
+
+
+  (-643, 364)
+
+
+ Greater Faydark
+
+ Merchant Tenra
+
+
+
+  (-215, 255)
+
+
+ Greater Faydark
+
+ Merchant Gililya
+
+
+
+  (-481, -211)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Grobb
+
+ Hartok
+
+
+
+  (433, -201)
+
+
+ Halas
+
+ Elona McMahon
+
+
+
+  (212, 184)
+
+
+ Highpass Hold
+
+ Mardon Smith
+
+
+
+  (-378, -112)
+
+
+ South Kaladim
+
+ Hindaek Stormhammer
+
+
+
+  (139, 371)
+
+
+ North Kaladim
+
+ Kafia Ratsbone
+
+
+
+  (594, 238)
+
+
+ Lake of Ill Omen
+
+ Klok Sargin
+
+
+
+  (6022, -6338)
+
+
+ Neriak Third Gate
+
+ Jerris W`Selo
+
+
+
+  (630, -1402)
+
+
+ Neriak Third Gate
+
+ Kanthu M`Rekkor
+
+
+
+  (621, -1351)
+
+
+ Oggok
+
+ Cikoona
+
+
+
+  (446, 476)
+
+
+ South Qeynos
+
+ Moran Smith
+
+
+
+  (-60, -246)
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+
+ North Qeynos
+
+ Rendallen Ironforge
+
+
+
+  (50, 86)
+
+
+ North Qeynos
+
+ Shenro Kazpur
+
+
+
+  (257, 302)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Rathe Mountains
+
+ Lianna Ferasa
+
+
+
+  (3989, 1477)
+
+
+ Rivervale
+
+ Gaffin Deeppockets
+
+
+
+  (-53, -178)
+
+
+ Skyshrine
+
+ Barkeep Dablen
+
+
+
+  (469, -708)
+
+
+ Skyshrine
+
+ Raelrik
+
+
+
+  (353, -625)
+
+
+ Skyshrine
+
+ Tulgadin
+
+
+
+  (383, -625)
+
+
+ Swamp of No Hope
+
+ Klok Bygle
+
+
+
+  (2714, 2816)
+
+
+ Warsliks Woods
+
+ Klok Nogolin
+
+
+
+  (-2419, -566)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Hero's Khukri
+
+Kunark Era (added 2000)
+
+Hero's Khukri
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Charges: 3
+Skill: 1H Slashing  Atk Delay: 26
+DMG: 10 
+STR: +5  WIS: +5  INT: +5
+Effect:  Enduring Breath (Any Slot/Can Equip, Casting Time: Instant) at Level 20
+WT: 4.0  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Tests (#6)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

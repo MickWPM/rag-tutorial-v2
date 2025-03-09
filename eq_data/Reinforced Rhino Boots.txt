@@ -1,0 +1,32 @@
+ITEM NAME: Reinforced Rhino Boots
+
+Kunark Era (added 2000)
+
+Reinforced Rhino Boots
+
+
+Slot: FEET
+AC: 5
+WT: 3.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ a burynai excavator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

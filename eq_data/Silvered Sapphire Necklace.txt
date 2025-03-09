@@ -1,0 +1,36 @@
+ITEM NAME: Silvered Sapphire Necklace
+
+
+Silvered Sapphire Necklace
+
+
+Slot: NECK
+STR: +4  INT: +4
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 60)
+ Silvered Sapphire Necklace
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Silver Bar - Summoned
+  1 x Sapphire - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

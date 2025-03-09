@@ -1,0 +1,33 @@
+ITEM NAME: Arrow of Poison
+
+
+
+Arrow of Poison
+
+
+MAGIC ITEM
+Slot: AMMO
+DMG: 4
+WT: 0.1  Range: 100  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Rivervale
+
+ Nillipuss
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

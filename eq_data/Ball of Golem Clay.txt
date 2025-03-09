@@ -1,0 +1,34 @@
+ITEM NAME: Ball of Golem Clay
+
+Classic Era (added 1999-2000)
+
+Ball of Golem Clay
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Illusion: Earth Elemental (Any Slot, Casting Time: Instant) as Level 50
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Besides the obvious fashion implications, this item is useful for temporarily boosting certain factions (though it may lower others, use with care).
+This item also has value to high end raid racers that need to instantly change sizes mid-race. You can likely sell these for significantly more than they are normally listed. 
+
+  Drops From 
+Cazic Thule
+
+ a clay golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

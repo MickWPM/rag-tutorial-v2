@@ -1,0 +1,61 @@
+ITEM NAME: Forest Loop
+
+Kunark Era (added 2000)
+
+Forest Loop
+
+
+MAGIC ITEM
+Slot: EAR
+AC: 2
+DEX: +3  WIS: +3  AGI: +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 280p
+Estimated Drop Rate = .125% to .2% 
+1 loop in ~800~ giants over 22 hours camped by Barthorn (Barthroll).
+Recorded May 2023 
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+ a forest giant arbor
+ a forest giant verdant
+ Gorgul Paclock
+
+Dreadlands
+
+ a mountain giant craig
+ a mountain giant patriarch
+ a mountain giant steep
+
+Frontier Mountains
+
+ A Mountain Giant Hillock
+ A Mountain Giant Tump
+ a mountain giant patriarch
+ mountain giant prospector
+
+Warsliks Woods
+
+ a forest giant
+ a forest giant evergreen
+ a forest giant greenwood
+ a forest giant sapling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

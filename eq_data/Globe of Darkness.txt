@@ -1,0 +1,44 @@
+ITEM NAME: Globe of Darkness
+
+Velious Era (added December 2000-2001)
+
+
+Globe of Darkness
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+STA: +7
+SV DISEASE: +15
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Globe of Darkness x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Black Throne - Dropped
+  A Blue Throne - Dropped
+  A Black Crown - Dropped
+  A Blue Crown - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

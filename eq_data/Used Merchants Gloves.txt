@@ -1,0 +1,32 @@
+ITEM NAME: Used Merchants Gloves
+
+Classic Era (added 1999-2000)
+
+Used Merchants Gloves
+
+
+Slot: HANDS
+AGI: +1
+WT: 0.2  Size: SMALL
+Class: WAR RNG BRD ROG
+Race: HUM BAR ERU ELF HIE DEF HEF DWF HFL GNM
+
+
+ Item Lore (from Identify): Beur's Old Gloves 
+ Merchant resale value: 5c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ale for Beur
+ Note for Janam
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

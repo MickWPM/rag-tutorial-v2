@@ -1,0 +1,306 @@
+ITEM NAME: Lockpicks
+
+Classic Era (added 1999-2000)
+
+Lockpicks
+
+
+WT: 0.1  Size: TINY
+Class: BRD ROG
+Race: ALL
+
+
+Used for picking locks. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork rogue
+
+
+
+ (1182, -558, -52)
+
+
+ East Commonlands
+
+ Bubar
+
+
+
+  (-1519, -116)
+
+
+ East Commonlands
+
+ Ponila Quickfingers
+
+
+
+  (193, -855)
+
+
+ Firiona Vie
+
+ Dran Hieth
+
+
+
+  (-3131, 2952)
+
+
+ East Freeport
+
+ Tenni Kohern
+
+
+
+  (-223, -886)
+
+
+ North Freeport
+
+ Jekel Enhied
+
+
+
+  (-117, 556)
+
+
+ West Freeport
+
+ Fania Esruc
+
+
+
+  (-251, -820)
+
+
+ Greater Faydark
+
+ Merchant Tenra
+
+
+
+  (-215, 255)
+
+
+ Greater Faydark
+
+ Merchant Gililya
+
+
+
+  (-481, -211)
+
+
+ Halas
+
+ Elona McMahon
+
+
+
+  (212, 184)
+
+
+ Highpass Hold
+
+ Gornolin
+
+
+
+  (396, -231)
+
+
+ HighKeep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ North Kaladim
+
+ Kafia Ratsbone
+
+
+
+  (594, 238)
+
+
+ Kithicor Forest
+
+ Elsbyth
+
+
+
+  (-776, 3082)
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ Lavastorm Mountains
+
+ Jenah Wheelspinner
+
+
+
+  (401, 826)
+
+
+ Neriak Third Gate
+
+ Jerris W`Selo
+
+
+
+  (630, -1402)
+
+
+ Neriak Third Gate
+
+ Kanthu M`Rekkor
+
+
+
+  (621, -1351)
+
+
+ Northern Karana
+
+ Romella
+
+
+
+  (-682, -201)
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+
+ Rathe Mountains
+
+ Viira Bali
+
+
+
+  (1644, -875)
+
+
+ Rathe Mountains
+
+ Susanna
+
+
+
+  (2908, -769)
+
+
+ Rathe Mountains
+
+ Chandra Kali
+
+
+
+  (3922, 1390)
+
+
+ Rathe Mountains
+
+ Lianna Ferasa
+
+
+
+  (3989, 1477)
+
+
+ Rivervale
+
+ Gaffin Deeppockets
+
+
+
+  (-53, -178)
+
+
+ Skyshrine
+
+ Raelrik
+
+
+
+  (353, -625)
+
+
+ Skyshrine
+
+ Tulgadin
+
+
+
+  (383, -625)
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 88)
+ Yield: Lockpicks x1
+ In Forge:
+
+
+  1 x Lockpick Mold - Bought
+  1 x Metal Bits - Crafted
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Tinkering
+ Mechanized Lockpicks (Trivial: 62)
+
+
+
+
+

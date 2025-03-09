@@ -1,0 +1,66 @@
+ITEM NAME: Green Froglok Skin
+
+Classic Era (added 1999-2000)
+
+
+Green Froglok Skin
+
+
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+No known Classic use? (9s9c max vendor) 
+
+  Drops From 
+Firiona Vie
+
+ froglok nok shaman
+ froglok shin warrior
+ froglok tsu shaman
+
+Old Sebilis
+
+ froglok bok knight
+ froglok bok shaman
+ froglok bok wizard
+ froglok dar knight
+ froglok dar wizard
+ froglok ilis knight
+ froglok ilis shaman
+ froglok ilis wizard
+ froglok jin shaman
+ froglok jin wizard
+ froglok kor shaman
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+ froglok zol knight
+
+Swamp of No Hope
+
+ froglok raider
+ froglok gaz knight
+
+Upper Guk
+
+ a froglok sentry
+ a froglok idealist
+ a froglok summoner
+ the froglok warden
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

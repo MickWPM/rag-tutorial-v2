@@ -1,0 +1,42 @@
+ITEM NAME: Molkor Hide
+
+Velious Era (added December 2000-2001)
+
+
+
+Molkor Hide
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ an enthralled molkor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Fletching (Trivial:135)
+ Burin x1
+ In Fletching Kit:
+
+
+  1 x Ulthork Tusks - Dropped
+  1 x Swordfish Tooth - Dropped
+  1 x Molkor Hide - Dropped
+
+
+
+
+

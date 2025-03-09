@@ -1,0 +1,39 @@
+ITEM NAME: Pestilence Scythe
+
+
+Pestilence Scythe
+
+
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY
+Charges: 1
+Skill: 2H Slashing Atk Delay: 48
+DMG: 16
+SV DISEASE: +10 SV POISON: +10
+Effect: Vampiric Curse (Any Slot, Casting Time: Instant)
+WT: 12.0 Size: LARGE
+Class: WAR SHD NEC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Called An Opal Scythe in the 1999 timeline.[1] See also Pestilence Scythe (droppable). 
+
+  Drops From 
+Southern Karana
+
+ Lord Grimrot
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Aegis of Life Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

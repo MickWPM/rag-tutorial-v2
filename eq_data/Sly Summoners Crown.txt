@@ -1,0 +1,36 @@
+ITEM NAME: Sly Summoners Crown
+
+Velious Era (added December 2000-2001)
+
+
+Sly Summoners Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+WIS: +10  INT: +7  HP: +25  MANA: +25
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+Effect:  Ultravision (Worn, Casting Time: Instant)
+WT: 0.2  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: A Hollowed Pixie's Rib
+
+GM Event item (info)
+
+
+A Hollowed Pixie's Rib
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 1
+WIS: +4 HP: +20 MANA: +20
+WT: 0.1  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+GM Event item dropped in Qeynos Hills Undead Invasion. Also given away during 12/22/2020 Christmas event hosted by players (but GMs attended). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

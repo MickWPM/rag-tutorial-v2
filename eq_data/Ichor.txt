@@ -1,0 +1,33 @@
+ITEM NAME: Ichor
+
+
+Ichor
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Everfrost Peaks
+
+ a giant wooly spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cazic Thule Disciple
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Sweet Lathyris (Trivial: 66)
+
+
+
+
+

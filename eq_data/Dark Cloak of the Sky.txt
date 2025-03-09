@@ -1,0 +1,33 @@
+ITEM NAME: Dark Cloak of the Sky
+
+
+
+Dark Cloak of the Sky
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 6
+STR: +7  DEX: +7  WIS: +7  AGI: +7  HP: +55
+Effect:  Haste (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+WT: 5.0  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+Post-upgrade PoS quest reward. The effect is a 35% 50% haste buff similar to the monk epic except only haste. This is not usable by non-rangers from an inventory slot. Clicks from level 40 (source: Phirebolt's delevelled ranger). The Haste Effect was changed from 50% to 35% on P1999 on the Patch Tuesday, June 24th, 2014. https://www.project1999.com/forums/showthread.php?t=155457 "Haste (o) updated atk speed max 150 => 135" Appears to be 50% haste not 35%. See discussion for details. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Defense
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

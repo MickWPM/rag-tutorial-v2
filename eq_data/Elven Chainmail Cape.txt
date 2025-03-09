@@ -1,0 +1,40 @@
+ITEM NAME: Elven Chainmail Cape
+
+
+
+Elven Chainmail Cape
+
+
+Slot: BACK
+AC: 6
+WT: 1.5  Size: LARGE
+Class: ALL except SHD MNK SHM NEC
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 188)
+ Yield: Elven Chainmail Cape x1
+ In Koada`Dal Forge:
+
+
+  1 x Chainmail Cloak Pattern - Bought
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  3 x Mithril Rings - Crafted
+  1 x Moonlight Temper - Crafted
+  1 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

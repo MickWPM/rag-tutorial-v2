@@ -1,0 +1,35 @@
+ITEM NAME: Nebulous Ruby
+
+Sky Era (added January 2000)
+
+
+
+Nebulous Ruby
+
+
+LORE ITEM
+WT: 10.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Seems to be a mistake in the "Necromancer Test of Finger" text, no "Nebulous Ring" exists only a "Nebulous Ruby", which according to allakhazaam is what is required for this quest. 
+
+  Drops From 
+Plane of Sky
+
+ Bizazzzt
+ Bzzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Test of The Finger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

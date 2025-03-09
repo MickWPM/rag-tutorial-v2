@@ -1,0 +1,38 @@
+ITEM NAME: Pickled Storm Giant
+
+Velious Era (added December 2000-2001)
+
+Pickled Storm Giant
+
+
+STR: +3  STA: +3
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 88)
+ Yield: Pickled Storm Giant x2
+ In Oven:
+
+
+  1 x Jug of Oyster Sauces - Bought
+  1 x Seaweed Vinegar - Bought
+  1 x Storm Giant Meat - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

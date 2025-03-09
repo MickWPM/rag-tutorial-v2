@@ -1,0 +1,36 @@
+ITEM NAME: Cryosilk Cloak
+
+Fear Era (added July 1999)
+
+
+Cryosilk Cloak
+
+
+MAGIC ITEM  NO DROP
+Slot: BACK
+AC: 5
+INT: +1  AGI: +2  MANA: +10
+SV FIRE: +10
+WT: 0.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Cryosilk Armor set 
+
+  Drops From 
+Plane of Fear
+
+ a spinechiller spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

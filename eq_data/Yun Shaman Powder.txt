@@ -1,0 +1,33 @@
+ITEM NAME: Yun Shaman Powder
+
+Kunark Era (added 2000)
+
+Yun Shaman Powder
+
+
+LORE ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ froglok yun shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cannibalize II (Good)
+ Cannibalize II (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,91 @@
+ITEM NAME: Black Symbol
+
+Velious Era (added December 2000-2001)
+Black Symbol
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Krigara
+ Ymmeln
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wisdom - The Long Battle -- Boots of Silent StridingBoots of Silent Striding
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 35
+STA: +10  WIS: +15  MANA: +50
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Aura of Battle (Worn)  
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+ Runed Tear
+ Flame Kissed Tear
+ Black Symbol (from Krigara or Ymmeln)
+ Glowing Drake Orb (from any HOT Named)
+
+ Test of the Platinum Tear -- Silver Bracelet of SpeedSilver Bracelet of Speed
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 38
+STR: +10  STA: +10  WIS: +10  INT: +10  HP: +100
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Haste: +41%  
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Platinum Tear
+ Black Symbol (from Krigara or Ymmeln)
+ Serrated Symbol (from Lepethida)
+ Runed Symbol (from Grozzmel or Midayor)
+
+ Test of the Living Flame -- Earring of the Living FlameEarring of the Living Flame
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 20
+STR: +15  STA: +10
+SV FIRE: +20
+Effect:  Truesight (Worn)
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ Black Tear
+ Black Symbol (from Krigara or Ymmeln)
+ Poison Symbol (from Casalen or Tavekalem)
+ Serrated Symbol (from Lepethida)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

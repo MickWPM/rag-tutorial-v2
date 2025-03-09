@@ -1,0 +1,59 @@
+ITEM NAME: Pot
+
+Classic Era (added 1999-2000)
+
+Pot
+
+
+QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Pauldron
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ Blacksmithing (Trivial: 122)
+ Yield: Pot x1
+ In Forge:
+
+
+  1 x Metal Bits - Crafted
+  1 x Pot Mold - Bought
+  1 x Standing Legs Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Pottery (Trivial: 56, 31)
+ Yield: Pot x1
+ In Kiln:
+
+
+  1 x High Quality Firing Sheet - Bought
+  1 x Unfired Pot - Crafted 
+
+
+  Tradeskill recipes 
+ Baking
+ Fish Head Soup (Trivial: 68)
+ Rabbit Stew (Trivial: 68)
+ Vegetable Soup (Trivial: 68)
+ Snow Bunny Stew (Trivial: 68)
+ Spine Poison Extract (Trivial: 21)
+
+ Poison Making
+ Spine Poison Extract (Trivial: 21)
+
+
+
+
+

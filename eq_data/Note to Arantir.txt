@@ -1,0 +1,32 @@
+ITEM NAME: Note to Arantir
+
+Epic Quests Era (added Sept 2000)
+
+
+Note to Arantir
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+
+
+ Item Lore (from Identify):  Give him a fish!
+Obtained from Kandin Firepot in return for his bag back. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Epic Quest 
+
+  Book contents 
+The fish thank you for the people you sent me! Oh also if you ever come across my lantern please let me know.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

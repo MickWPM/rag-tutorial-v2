@@ -1,0 +1,33 @@
+ITEM NAME: First Half of Al`Tarlkal's Tome
+
+Velious Era (added December 2000-2001)
+
+
+First Half of Al`Tarlkal's Tome
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Harla Dar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Ancient Tomes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

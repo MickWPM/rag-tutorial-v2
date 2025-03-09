@@ -1,0 +1,90 @@
+ITEM NAME: Sheet Metal
+
+Classic Era (added 1999-2000)
+
+
+Sheet Metal
+
+
+WT: 2.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors sell these for a little over 1pp each. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Issilyn Ristan
+
+  Inside Armor by Ikthar
+
+  (72, -214)
+
+
+ Toxxulia Forest
+
+ Win Karnam
+
+
+
+  (2247, 979)
+
+
+ Qeynos Hills
+
+ Marton Sayer
+
+
+
+  (1381, 278)
+
+
+ Greater Faydark
+
+ Merchant Linolyen
+
+
+
+  (110, 345)
+
+
+ East Cabilis
+
+ Klok Nalgoz
+
+
+
+  (239, -290)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 56)
+
+ Yield: Sheet Metal x1
+ In Forge:
+
+
+  2 x Small Brick of Ore - Crafted, Bought, Dropped
+  1 x Water Flask - Foraged, Crafted, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Tinkering
+ Blacksmithing
+
+
+
+

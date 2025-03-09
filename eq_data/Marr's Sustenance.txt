@@ -1,0 +1,31 @@
+ITEM NAME: Marr's Sustenance
+
+
+
+Marr's Sustenance
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Regeneration (Any Slot, Casting Time: Instant) as Level 15
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Message
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

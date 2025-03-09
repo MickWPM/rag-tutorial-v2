@@ -1,0 +1,343 @@
+ITEM NAME: Ruby
+
+Classic Era (added 1999-2000)
+
+Ruby
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+These are sold by merchants to players for ~132pp 
+ Merchant resale value: 129p 6g 7s 4c 
+
+  Drops From 
+Chardok
+
+ a Di`Zok Dragoon
+ a Reanimated Berserker
+ A Shai`din Conscript
+ A Shai`din Nightfear
+ An Enslaved Iksar Miner
+
+Kedge Keep
+
+ Phinigel Autropos
+
+Old Sebilis
+
+ a leprous scarab
+ a necrosis scarab
+ a pox scarab
+ a sebilite golem
+ a sepsis scarab
+ an iksar necromancer
+ Brogg
+ dar ghoul knight
+ frenzied pox scarab
+ Froggy
+ froglok bok knight
+ froglok bok shaman
+ froglok bok wizard
+ froglok dar knight
+ froglok dar wizard
+ froglok ilis knight
+ froglok ilis shaman
+ froglok ilis wizard
+ froglok jin shaman
+ froglok jin wizard
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+ Gangrenous Scarab
+ krup ghoul knight
+ sebilite guardian
+ sebilite juggernaut
+ sebilite protector
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a samhain
+ Amygdalan knight
+
+Plane of Hate
+
+ a forsaken revenant
+ a hatebone drake
+ a haunted chest
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ a scorn banshee
+ a spite golem
+ an abhorrent
+ an ashenbone drake
+
+ Plane of Mischief 
+
+  a clever sphinx 
+  a dastardly rascal 
+  a false treasure chest 
+  A Mischievous Performer 
+
+ Skyshrine 
+
+  Bezeb 
+  Chymot 
+  Commander Leuz 
+  Norsirx 
+  Suez 
+  Yaced 
+  Zalerez 
+
+ The Wakening Land 
+
+  a geonid 
+
+Veeshan's Peak
+
+ a mature flame protector
+ a mature frost protector
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ South Felwithe
+
+ Merchant Tyslin (South Felwithe)
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Lake Rathetear
+
+ Turga
+
+
+
+  (3126, -1815)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+  Related quests 
+ Respecialization
+ Niblek's Gems
+ Scaled Mystic Gauntlets
+ Lynuga's Gem Collection
+ Ivy Etched Tunic
+ Necromancer Words - X`Ta Tompi
+ Crafted Helm
+ Crafted Breastplate
+ Shovel Of Ponz Quest
+ Ulthork Tusks Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+ Jewelcrafting
+ Silver Ruby Veil (Trivial: 63)
+ Ruby Electrum Ring (Trivial: 135)
+ Golden Ruby Ring (Trivial: 207)
+ Platinum Ruby Veil (Trivial: 279)
+ Velium Ruby Veil (Trivial: ?)
+
+
+
+
+ Tailoring
+ Erudite Cultural Tailoring (Various Recipes)
+ Velium Hound Fur Armor (Velious Tailoring)
+ Ice Silk Armor (Various Recipes)
+
+
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Lion-skin Leggings
+
+
+Lion-skin Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 6
+INT: +2  AGI: +2
+WT: 4.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 2 Platinums
+ 1 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Northern Karana
+
+ Swiftclaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,72 @@
+ITEM NAME: Gator Meat
+
+Classic Era (added 1999-2000)
+
+Gator Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Innothule Swamp
+
+ a bull alligator
+ a swamp alligator
+
+Lavastorm Mountains
+
+ a firescale crocodile
+
+Southern Desert of Ro
+
+ a caiman
+ a crocodile
+ a deepwater caiman
+ a deepwater crocodile
+
+The Feerrott
+
+ a swamp alligator
+
+Upper Guk
+
+ a saltwater croc
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Gator Steaks (Trivial: 41)
+ Pickled Gator (Trivial: 51)
+ Beer Braised Gator (Trivial: 68)
+ Gator Rolls (Trivial: 135)
+
+
+
+
+

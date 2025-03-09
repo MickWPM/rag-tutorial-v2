@@ -1,0 +1,38 @@
+ITEM NAME: Fire Drake Scale
+
+
+Fire Drake Scale
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 5s 5c 
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire drake
+
+Solusek's Eye
+
+ Singe
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Torch of Alna Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Expert Rune (Azia) (Trivial: 142)
+
+
+
+
+

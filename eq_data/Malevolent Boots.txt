@@ -1,0 +1,33 @@
+ITEM NAME: Malevolent Boots
+
+Velious Era (added December 2000-2001)
+
+
+Malevolent Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 28
+STR: +5  INT: +3
+WT: 5.5  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Kael Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

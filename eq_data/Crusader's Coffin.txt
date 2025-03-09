@@ -1,0 +1,50 @@
+ITEM NAME: Crusader's Coffin
+
+Kunark Era (added 2000)
+
+
+Crusader's Coffin
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+EXPENDABLE  Charges: 1
+Effect:  Summon Golin (Any Slot, Casting Time: Instant)
+WT: 15.0  Size: GIANT
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+Note: You first purchase this item (with no effect), then follow the quest to create an identically named item but with 1 charge. 
+ Item Lore (from Identify): R.I.P. Crusader
+ Item Lore (from Identify): R.I.P. Crusader Golin 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ a mortician
+
+
+
+  ?
+
+  Related quests 
+ Spirit of Golin
+
+  Player crafted 
+ Non-Tradeskill (Trivial: None) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

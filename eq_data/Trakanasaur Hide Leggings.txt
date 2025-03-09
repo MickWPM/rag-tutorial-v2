@@ -1,0 +1,36 @@
+ITEM NAME: Trakanasaur Hide Leggings
+
+Kunark Era (added 2000)
+
+Trakanasaur Hide Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 11
+STA: +5
+SV DISEASE: +5
+WT: 0.5  Size: LARGE
+Class: WAR SHD SHM
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ a trakanasaur
+ Bloodeye
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

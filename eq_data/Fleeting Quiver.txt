@@ -1,0 +1,36 @@
+ITEM NAME: Fleeting Quiver
+
+
+Fleeting Quiver
+
+
+WT: 0.4
+Capacity: 6  Size Capacity: MEDIUM
+
+
+"Weight Reduction: 60%" (20% bow haste) added in Velious. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 222)
+ Yield: Fleeting Quiver x1
+ In Loom:
+
+
+  1 x Aviak Egg Oil - Crafted
+  1 x Fleeting Quiver Pattern - Bought
+  1 x Griffon Feathers - Dropped
+  1 x High Quality Lion Skin - Dropped
+  1 x Vial of Distilled Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

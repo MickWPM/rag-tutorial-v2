@@ -1,0 +1,36 @@
+ITEM NAME: Custom Frostreaver's Velium Crown
+
+Velious Era (added December 2000-2001)
+
+
+Custom Frostreaver's Velium Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 30
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +20  SV POISON: +5
+Effect: Truesight (Worn)
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Custom Plate Helms - Kael Drakkel
+ Custom Plate Helms - Skyshrine
+ Custom Plate Helms - Thurgadin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

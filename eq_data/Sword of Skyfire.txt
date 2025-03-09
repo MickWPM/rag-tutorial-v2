@@ -1,0 +1,38 @@
+ITEM NAME: Sword of Skyfire
+
+Kunark Era (added 2000)
+
+Sword of Skyfire
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 10 
+CHA: +5  HP: +25
+SV COLD: +15
+Effect:  Rain of Fire (Combat, Casting Time: Instant) at Level 45
+WT: 2.5  Size: MEDIUM
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+ Merchant resale value: 28p 
+
+  Drops From 
+Old Sebilis
+
+ Hierophant Prime Grekal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

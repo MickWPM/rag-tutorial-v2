@@ -1,0 +1,35 @@
+ITEM NAME: Blackened Wand
+
+
+Blackened Wand
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+STA: +1
+SV MAGIC: +5
+WT: 0.5  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Marnek's Wand 
+
+  Drops From 
+Befallen
+
+ Priest Amiaz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Sash Quests
+ The Burning Dead
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

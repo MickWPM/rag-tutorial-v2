@@ -1,0 +1,36 @@
+ITEM NAME: Frozen Turban
+
+Velious Era (added December 2000-2001)
+
+
+Frozen Turban
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 25
+AGI: +15
+Effect: Resist Cold (Any Slot/Can Equip, Casting Time: 25.0)
+WT: 0.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Lord Doljonijiarnimorinar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

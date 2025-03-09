@@ -1,0 +1,37 @@
+ITEM NAME: Forge Hammer of Dalnir
+
+Kunark Era (added 2000)
+Forge Hammer of Dalnir
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 50
+DMG: 6 
+WT: 15.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC
+WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Crypt of Dalnir
+
+ an undead blacksmith
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Long Iron Rod Quest
+ Visceral Dagger
+ Necromancer Skullcap Quests (#7)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

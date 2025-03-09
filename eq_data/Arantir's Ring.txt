@@ -1,0 +1,28 @@
+ITEM NAME: Arantir's Ring
+
+Epic Quests Era (added Sept 2000)
+Arantir's Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+Obtained from Arantir Karondor and must be delivered to Challice. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

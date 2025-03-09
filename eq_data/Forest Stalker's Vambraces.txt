@@ -1,0 +1,34 @@
+ITEM NAME: Forest Stalker's Vambraces
+
+Velious Era (added December 2000-2001)
+
+
+Forest Stalker's Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 24
+STR: +2  WIS: +7  AGI: +2  MANA: +30
+SV MAGIC: +3  SV POISON: +2
+WT: 6.0  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Kael Sleeves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

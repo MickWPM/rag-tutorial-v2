@@ -1,0 +1,40 @@
+ITEM NAME: Pack of Materials
+
+Classic Era (added 1999-2000)
+
+
+Pack of Materials
+
+
+LORE ITEM  NO DROP
+WT: 10.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trueshot Longbow Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail?)
+ Yield: Pack of Materials x1
+ In: Material Pack:
+
+
+  1 x Dwarven Wire - Quested
+   1 x Micro Servo - Dropped
+  1 x Spiderling Silk - Foraged, Dropped
+  1 x Wooden Shards - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,106 @@
+ITEM NAME: Ruined Cat Pelt
+
+Classic Era (added 1999-2000)
+
+Ruined Cat Pelt
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Commonlands
+
+ a plains cat
+ a puma
+ a lion
+ a lioness
+ a young plains cat
+
+Eastern Plains of Karana
+
+ a lion
+ a lion patriarch
+ a lioness
+ a rogue lion
+
+Emerald Jungle
+
+ a raging tiger
+
+Everfrost Peaks
+
+ a snow leopard
+
+Lake of Ill Omen
+
+ a sabertooth cat
+ a sabertooth cub
+ a sabertooth grimalkin
+ a sabertooth kit
+ a sabertooth tiger
+ a sabertooth tigress
+
+Northern Karana
+
+ a lion
+ a lioness
+
+Northern Desert of Ro
+
+ a puma
+
+Southern Karana
+
+ a lion
+ a lioness
+
+Southern Desert of Ro
+
+ a puma
+
+Steamfont Mountains
+
+ a mountain lion
+ a small mountain lion
+
+The Overthere
+
+ a sabertooth cat
+ a sabertooth tiger
+ a sabertooth tigress
+ sabretooth tiger
+ sabretooth tigress
+
+Trakanon's Teeth
+
+ sabretooth tiger
+ sabretooth tigress
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Ruined Cat Pelt x1
+ In Sewing Kit:
+
+
+  1 x Low Quality Cat Pelt - Crafted, Dropped
+  1 x Skinning Knife - Crafted, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

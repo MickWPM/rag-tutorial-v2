@@ -1,0 +1,35 @@
+ITEM NAME: Umbral Platemail Vambraces
+
+
+
+Umbral Platemail Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 16
+STR: +5  DEX: +5
+SV FIRE: +10
+WT: 4.9  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Amygdalan knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

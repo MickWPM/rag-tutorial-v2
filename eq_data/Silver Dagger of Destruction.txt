@@ -1,0 +1,35 @@
+ITEM NAME: Silver Dagger of Destruction
+
+Velious Era (added December 2000-2001)
+
+
+Silver Dagger of Destruction
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 20
+DMG: 19 Dmg Bonus: 6 AC: 50
+STR: +25 INT: +15 MANA: +50
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Cekenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Stevewilson increasing his piercing skill on Calias
+

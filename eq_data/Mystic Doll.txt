@@ -1,0 +1,40 @@
+ITEM NAME: Mystic Doll
+
+
+
+Mystic Doll
+
+
+NO DROP  
+Slot: SECONDARY
+CHA: +3
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Rathe Mountains
+
+ a lizardman mystic
+ Mortificator Syythrak
+
+The Feerrott
+
+ a lizardman mystic
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rallos Zek Initiate
+ Lizard Dolls
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

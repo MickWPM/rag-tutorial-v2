@@ -1,0 +1,33 @@
+ITEM NAME: Embroidered Shawl Pattern
+
+Velious Era (added December 2000-2001)
+
+
+Embroidered Shawl Pattern
+
+
+NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #6: Embroidered Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Embroidered Coldain Prayer Shawl (Trivial: 208)
+
+
+
+
+

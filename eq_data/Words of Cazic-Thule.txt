@@ -1,0 +1,89 @@
+ITEM NAME: Words of Cazic-Thule
+
+
+Words of Cazic-Thule
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 2 Golds
+ 6 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from any level ~20-34 mob
+
+City of Mist
+
+ a phantom
+ greater plaguebone
+
+Cobalt Scar
+
+ a wyvern
+
+Great Divide
+
+ a frost giant elite
+
+Crystal Caverns
+
+ a stalag terror
+
+Dreadlands
+
+ a drolvarg rager
+
+The Feerrott
+
+ a spectre
+
+Eastern Plains of Karana
+
+ a crag spider
+ a gorge hound
+
+Everfrost Peaks
+
+ an ice giant
+
+Lower Guk
+
+ a zol ghoul knight
+ a dar ghoul knight
+
+Temple of Droga
+
+ a goblin stalagknight
+
+Ocean of Tears
+
+An isle goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Word of Shadow (Trivial: 46)
+ Breath of the Dead (Trivial: 71)
+ Surge of Enfeeblement (Trivial: 120)
+ Word of Souls (Trivial: 140)
+
+
+
+
+

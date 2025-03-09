@@ -1,0 +1,39 @@
+ITEM NAME: Etched Chitin Shield
+
+Warrens Era (added spring 2001)
+
+
+Etched Chitin Shield
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+Charges: 2
+AC: 11
+HP: +10
+SV FIRE: +7  SV POISON: +2
+Effect: Rune I (Any Slot, Casting Time: 0.5)
+WT: 9.8  Size: LARGE
+Class: WAR CLR PAL RNG SHD DRU SHM
+Race: ALL
+This clicky requires that you have Cat's Eye Agate.
+
+
+ Item Lore (from Identify): Shield of Tsanirk 
+
+  Drops From 
+The Warrens
+
+ The Muglwump
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

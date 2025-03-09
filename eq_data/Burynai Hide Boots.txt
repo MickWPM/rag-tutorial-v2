@@ -1,0 +1,34 @@
+ITEM NAME: Burynai Hide Boots
+
+Kunark Era (added 2000)
+
+Burynai Hide Boots
+
+
+Slot: FEET
+AC: 5
+STR: +2  WIS: +2
+WT: 3.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Burynai Hide Armor set. 
+
+  Drops From 
+Kurn's Tower
+
+ lesser icebone skeleton
+ Greater Scalebone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

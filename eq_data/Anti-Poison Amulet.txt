@@ -1,0 +1,30 @@
+ITEM NAME: Anti-Poison Amulet
+
+
+Anti-Poison Amulet
+
+
+MAGIC ITEM
+Slot: NECK
+SV POISON: +15
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

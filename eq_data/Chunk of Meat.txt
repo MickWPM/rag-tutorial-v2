@@ -1,0 +1,212 @@
+ITEM NAME: Chunk of Meat
+
+Classic Era (added 1999-2000)
+
+Chunk of Meat
+
+
+QUEST ITEM
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a grizzly bear
+
+Butcherblock Mountains
+
+ a lowland basilisk
+
+Mistmoore Castle
+
+ a blood wolf
+
+Commonlands
+
+ a black bear
+ a black wolf
+ a kodiak
+ a plains cat
+ a puma
+ a shadow wolf
+ a lion
+ a lioness
+ a young kodiak
+ a young plains cat
+
+Eastern Plains of Karana
+
+ a dark stalker
+ a gorge hound
+ a lion
+ a lion patriarch
+ a lioness
+ a lioness matriarch
+ a rogue lion
+ a silvermist wolf
+ a war wolf
+
+Emerald Jungle
+
+ a raging tiger
+
+Everfrost Peaks
+
+ a glacier bear
+ a snow leopard
+
+Greater Faydark
+
+ a black wolf
+
+Innothule Swamp
+
+ a bull alligator
+ a swamp alligator
+
+Lake of Ill Omen
+
+ a sabertooth cat
+ a sabertooth tiger
+ a sabertooth tigress
+
+Lavastorm Mountains
+
+ a firescale crocodile
+ a lava basilisk
+
+Lesser Faydark
+
+ a mist wolf
+
+Misty Thicket
+
+ a black wolf
+ a young kodiak
+
+Rathe Mountains
+
+ a basilisk
+ a black bear
+ a brown bear
+ a grizzly bear
+
+Nektulos Forest
+
+ a black bear
+ a black wolf
+ a shadow wolf
+ a young kodiak
+
+Northern Karana
+
+ a grizzly bear
+ a highland lion
+ a lion
+ a lioness
+ Ashenpaw
+ Bristletoe
+
+Northern Desert of Ro
+
+ a coyote
+ a jackal
+ a puma
+
+Permafrost
+
+ a giant polar bear
+
+Qeynos Hills
+
+ a brown bear
+ a gray wolf
+
+Southern Karana
+
+ a lion
+ a lioness
+ a shadow wolf
+ a werewolf
+
+Southern Desert of Ro
+
+ a caiman
+ a coyote
+ a crocodile
+ a deepwater caiman
+ a deepwater crocodile
+ a jackal
+ a puma
+
+Steamfont Mountains
+
+ a coyote
+ a mountain lion
+ a small coyote
+ a small mountain lion
+
+The Feerrott
+
+ a swamp alligator
+
+The Overthere
+
+ a sabertooth cat
+ a sabertooth tiger
+ a sabertooth tigress
+ sabretooth tigress
+
+The Wakening Land
+
+ a haze panther
+ a panther
+ a tigeraptor
+
+Trakanon's Teeth
+
+ sabretooth tigress
+
+Upper Guk
+
+ a saltwater croc
+
+West Freeport
+
+ a gray wolf
+
+Western Plains of Karana
+
+ a black wolf
+ a brown bear
+ a mist wolf
+ a shadow wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Beastchoker (Trivial: 166)
+
+
+ Baking
+ Meat-Filled Pie (Trivial: 142)
+
+
+ Pottery
+ recipes?
+
+
+
+
+

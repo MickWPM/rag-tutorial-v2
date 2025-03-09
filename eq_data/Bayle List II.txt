@@ -1,0 +1,36 @@
+ITEM NAME: Bayle List II
+
+
+
+Bayle List II
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Surefall Glade
+
+ Mammoth
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bayle List
+ Bonethunder Staff Quest 
+
+  Book contents 
+FSUTDU EMEZMI GOPOP HIMMOP JIMTJOP
+Possible Translation (substitution cipher: abcdefghijklmnopqrstuvwxyz => uxbcadfgehzklminpqrsotqwxy)
+DROSCO ALAYLE FININ GELLIN HELSHIN
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

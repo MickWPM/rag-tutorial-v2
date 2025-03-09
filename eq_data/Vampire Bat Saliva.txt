@@ -1,0 +1,29 @@
+ITEM NAME: Vampire Bat Saliva
+
+Classic Era (added 1999-2000)
+Vampire Bat Saliva
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Erud's Crossing
+
+ a vampire bat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

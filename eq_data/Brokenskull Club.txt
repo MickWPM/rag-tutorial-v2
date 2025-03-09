@@ -1,0 +1,37 @@
+ITEM NAME: Brokenskull Club
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Brokenskull Club
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE PRIMARY AMMO
+Skill: 2H Blunt  Atk Delay: 41
+DMG: 33  AC: -15
+DEX: -10  INT: -10  AGI: -15
+SV DISEASE: -15  SV POISON: -15
+WT: 15.0  Range: 50  Size: LARGE
+Class: WAR SHD
+Race: BAR TRL OGR
+
+
+No longer drops. (removed as per the classic timeline on 4/17/11 patch) 
+
+  Drops From 
+Karnor's Castle
+
+ ?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

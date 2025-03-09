@@ -1,0 +1,37 @@
+ITEM NAME: Cekenar's Claw
+
+Velious Era (added December 2000-2001)
+
+
+Cekenar's Claw
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 10   AC: 15
+HP: +100
+SV DISEASE: +25
+WT: 3.5  Size: TINY
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Cekenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

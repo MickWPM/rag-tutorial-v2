@@ -1,0 +1,36 @@
+ITEM NAME: Deadwood Stave
+
+Kunark Era (added 2000)
+
+Deadwood Stave
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 8 
+Effect:  Lifedraw (Combat, Casting Time: Instant) at Level 30
+WT: 0.8  Size: MEDIUM
+Class: WAR SHD
+Race: ALL
+
+
+Solid pet weapon for enchanters/necros, and expendable as it's non-lore and a common drop. 
+ Merchant resale value: 5pp 
+
+  Drops From 
+Kaesora
+
+ Warder of Xalgoz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

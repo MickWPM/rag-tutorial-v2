@@ -1,0 +1,249 @@
+ITEM NAME: Parrying Dagger
+
+Classic Era (added 1999-2000)
+
+Parrying Dagger
+
+
+Slot: SECONDARY
+AC: 4
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a greater skeleton
+
+Everfrost Peaks
+
+ a decaying skeleton
+ ice boned skeleton
+
+Greater Faydark
+
+ a decaying skeleton
+
+Lesser Faydark
+
+ a skeleton
+
+Rathe Mountains
+
+ a zombie
+
+Najena
+
+ a greater skeleton
+
+Nektulos Forest
+
+ a decaying skeleton
+ a lesser mummy
+ a rotting citizen
+
+North Qeynos
+
+ a decaying skeleton
+
+Northern Desert of Ro
+
+ a lesser mummy
+ a shriveled mummy
+ a zombie
+
+Southern Karana
+
+ a skeleton
+
+Steamfont Mountains
+
+ a skeleton
+
+West Freeport
+
+ a decaying skeleton
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ East Freeport
+
+ Hundle Quatvel
+
+
+
+  (-187, -233)
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ East Freeport
+
+ Tenni Kohern
+
+
+
+  (-223, -886)
+
+
+ Greater Faydark
+
+ Merchant Gililya
+
+
+
+  (-481, -211)
+
+
+ Halas
+
+ Elona McMahon
+
+
+
+  (212, 184)
+
+
+ North Kaladim
+
+ Kafia Ratsbone
+
+
+
+  (594, 238)
+
+
+ Neriak Foreign Quarter
+
+ Ootok
+
+
+
+  (-417, -457)
+
+
+ Neriak Third Gate
+
+ Jerris W`Selo
+
+
+
+  (630, -1402)
+
+
+ Neriak Third Gate
+
+ Kanthu M`Rekkor
+
+
+
+  (621, -1351)
+
+
+ The Overthere
+
+ Finlay Kitoran
+
+
+
+  (2769, 2365)
+
+
+ Paineel
+
+ Lillean Han Oni
+
+
+
+  (1213, 549)
+
+
+ Western Plains of Karana
+
+ Ollysa Bladefinder
+
+
+
+  (488, -4223)
+
+
+ South Qeynos
+
+ Ton Firepride
+
+
+
+  (173, -327)
+
+
+ Rivervale
+
+ Gaffin Deeppockets
+
+
+
+  (-53, -178)
+
+
+ Skyshrine
+
+ Raelrik
+
+
+
+  (353, -625)
+
+
+ Skyshrine
+
+ Tulgadin
+
+
+
+  (383, -625)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

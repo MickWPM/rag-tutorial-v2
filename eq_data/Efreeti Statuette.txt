@@ -1,0 +1,36 @@
+ITEM NAME: Efreeti Statuette
+
+Sky Era (added January 2000)
+
+
+
+Efreeti Statuette
+
+
+LORE ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ an essence harvester
+ an essence tamer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of The Bee
+ Wizard Test of Conception
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

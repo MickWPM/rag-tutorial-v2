@@ -1,0 +1,42 @@
+ITEM NAME: Silvery Mask
+
+Velious Era (added December 2000-2001)
+
+
+
+Silvery Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 5
+HP: +25
+Effect:  Identify (Must Equip, Casting Time: 3.0) at Level 25
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: Priceless (merchants will not buy) 
+
+  Drops From 
+Kael Drakkel
+
+ a Kromzek sorcerer
+ a lesser storm giant noble
+ Noble Helssen
+ Wenglawks Kkeak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bvellos' Bounty
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

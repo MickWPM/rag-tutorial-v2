@@ -1,0 +1,38 @@
+ITEM NAME: Crystallized Shadow Helm
+
+Velious Era (added December 2000-2001)
+
+
+Crystallized Shadow Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 4
+CHA: +1  WIS: +2  INT: +2  HP: +10  MANA: +3
+WT: 1.0  Size: SMALL
+Class: ALL except RNG DRU NEC WIZ MAG ENC
+Race: ALL except HIE HEF DWF HFL
+
+
+ Item Lore (from Identify): You sense a trapped soul
+Part of the Crystallized Shadow Armor set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a ghostly student
+ Librarian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Glowing Club
+
+Kunark Era (added 2000)
+
+Glowing Club
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 20
+DMG: 6 
+Effect:  Reckless Strength (Combat, Casting Time: Instant) at Level 1
+WT: 2.0  Size: MEDIUM
+Class: RNG
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ a berserk brute
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

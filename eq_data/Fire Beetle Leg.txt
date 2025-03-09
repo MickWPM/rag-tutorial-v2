@@ -1,0 +1,76 @@
+ITEM NAME: Fire Beetle Leg
+
+
+Fire Beetle Leg
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally &
+VALUE TO VENDOR with CHA : 60 and faction at Indifferent
+
+ 0 Platinums
+ 0 Golds
+ 1 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Commonlands
+
+ a fire beetle
+
+Rathe Mountains
+
+ a fire beetle
+
+Nektulos Forest
+
+ a pyre beetle
+
+Northern Karana
+
+ a borer beetle
+
+North Qeynos
+
+ a klicnik drone
+ Prince Klicnik
+ Princess Klicnik
+
+Northern Desert of Ro
+
+ a fire beetle
+
+Qeynos Aqueducts
+
+ a fire beetle
+
+Toxxulia Forest
+
+ a fire beetle
+
+West Freeport
+
+ a fire beetle
+
+Western Plains of Karana
+
+ a fire beetle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bat Fur and Beetle Legs
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

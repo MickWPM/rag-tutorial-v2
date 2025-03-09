@@ -1,0 +1,281 @@
+ITEM NAME: Cloth Sleeves
+
+Classic Era (added 1999-2000)Were you looking for Large Cloth Armor Set? Were you looking for Small Cloth Armor Set?
+
+Cloth Sleeves
+
+
+Slot: ARMS
+AC: 2
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL except DWF HFL GNM
+
+
+Part of the Cloth Armor Set. 
+
+  Drops From 
+Various Zones
+
+ Newbie mobs
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Tempar
+
+
+
+  (142, -19)
+
+
+ East Cabilis
+
+ Klok Sass
+
+
+
+  (667, -38)
+
+
+ West Cabilis
+
+ Kamzar
+
+
+
+  (184, 544)
+
+
+ West Commonlands
+
+ Peron ThreadSpinner
+
+
+
+  (-400, 2666)
+
+
+ Eastern Plains of Karana
+
+ Merchant Silvia
+
+
+
+  (1309, -2503)
+
+
+ East Commonlands
+
+ Loric Weaver
+
+
+
+  (-318, 3073)
+
+
+ Erudin
+
+ Galbasi Weaver
+
+
+
+  (-755, -112)
+
+
+ Erudin
+
+ Monita Weaver
+
+
+
+  (-899, -159)
+
+
+ Felwithe
+
+ Merchant Silvenspin
+
+
+
+  (106, -454)
+
+
+ Felwithe
+
+ Merchant Moonthread
+
+
+
+  (435, -872)
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ East Freeport
+
+ Celanie Xtoria
+
+
+
+  (-205, -312)
+
+
+ North Freeport
+
+ Wahnig Nooz
+
+
+
+  (-84, -184)
+
+
+ North Freeport
+
+ Jallen Nooz
+
+
+
+  (-104, -199)
+
+
+ North Freeport
+
+ Lystyn Wyspin
+
+
+
+  (27, -139)
+
+
+ North Freeport
+
+ Svinal Wyspin
+
+
+
+  (64, -154)
+
+
+ North Freeport
+
+ Falia Frikniller
+
+
+
+  (-107, 78)
+
+
+ West Freeport
+
+ Linadian
+
+
+
+  (56, -299)
+
+
+ West Freeport
+
+ Lindie Rains
+
+
+
+  (-39, 12)
+
+
+ Greater Faydark
+
+ Linadian
+
+
+
+  (-142, -545)
+
+
+ Oasis of Marr
+
+ Gadallion
+
+
+
+  (493, 0)
+
+
+ Paineel
+
+ Pardas Nalue
+
+
+
+  (944, 678)
+
+
+ Western Plains of Karana
+
+ Minya Coldtoes
+
+
+
+  (855, -1831)
+
+
+ Western Plains of Karana
+
+ Silna Weaver
+
+
+
+  (855, -1831)
+
+
+ South Qeynos
+
+ Solani Dayadil
+
+
+
+  (-11, -195)
+
+
+ North Qeynos
+
+ Nerissa Clothspinner
+
+
+
+  (83, 346)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

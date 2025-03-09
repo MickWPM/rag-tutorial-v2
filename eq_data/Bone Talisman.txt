@@ -1,0 +1,31 @@
+ITEM NAME: Bone Talisman
+
+
+Bone Talisman
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SECONDARY
+WIS: +4
+SV MAGIC: +10
+WT: 0.1  Size: TINY
+Class: WAR CLR PAL RNG DRU MNK BRD ROG SHM WIZ MAG ENC
+Race: HUM BAR ELF HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Health Potion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Knave's Khukri
+
+Kunark Era (added 2000)
+
+
+Knave's Khukri
+
+
+LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 26
+DMG: 5 
+WT: 5.5  Size: MEDIUM
+Class: SHD
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Tests (#1)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

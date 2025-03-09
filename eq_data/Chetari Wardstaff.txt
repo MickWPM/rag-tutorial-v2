@@ -1,0 +1,43 @@
+ITEM NAME: Chetari Wardstaff
+
+Velious Era (added December 2000-2001)
+
+Chetari Wardstaff
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 40
+DMG: 22   AC: 5
+STR: +2  DEX: +6  STA: +3  CHA: +8  WIS: +1  INT: +14  AGI: +2  HP: +15  MANA: +10
+SV FIRE: +3  SV DISEASE: +8  SV COLD: +12  SV MAGIC: +7  SV POISON: +11
+Effect:  Knockback (Combat, Casting Time: Instant) at Level 45
+WT: 8.5  Size: LARGE
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari dustshaper
+ a Chetari hoarder
+ a Chetari Packrat
+ a Chetari Warrior
+ Dustbinder Grakina
+ Seeker Bulava
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

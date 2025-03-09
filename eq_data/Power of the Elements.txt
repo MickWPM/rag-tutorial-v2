@@ -1,0 +1,29 @@
+ITEM NAME: Power of the Elements
+
+
+
+Power of the Elements
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+Received after turning in the four powers to Walnan. This MAY be multiquested as of 2022-04-26. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Heart of Ice
+
+Kunark Era (added 2000)
+Heart of Ice
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ greater icebone
+ icebone skeleton
+
+Swamp of No Hope
+
+ icebone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Bronze
+ Illusion: Iksar Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

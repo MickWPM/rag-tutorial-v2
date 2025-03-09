@@ -1,0 +1,39 @@
+ITEM NAME: Blackened Alloy Coif
+
+Stonebrunt Era (added summer 2001)
+
+Blackened Alloy Coif
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 8
+STR: +6
+SV FIRE: +6  SV DISEASE: +6  SV COLD: +6  SV MAGIC: +6  SV POISON: +6
+WT: 4.0  Size: SMALL
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Part of the Blackened Alloy Armor Set. 
+
+  Drops From 
+Clan Runnyeye
+
+ a Pickclaw Foeseeker
+ Battlelord Paluk
+ Lord Pickclaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

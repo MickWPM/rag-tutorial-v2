@@ -1,0 +1,35 @@
+ITEM NAME: Otterhide Gloves
+
+Velious Era (added December 2000-2001)
+
+ 
+Otterhide Gloves
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 4
+DEX: +3
+WT: 2.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: HUM BAR ERU ELF HIE DEF HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ Snowfang icehunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

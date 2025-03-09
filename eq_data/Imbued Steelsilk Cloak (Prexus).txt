@@ -1,0 +1,45 @@
+ITEM NAME: Imbued Steelsilk Cloak (Prexus)
+
+Velious Era (added December 2000-2001)
+
+
+Imbued Steelsilk Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 11
+STR: +8  DEX: +2  WIS: +2  HP: +15  MANA: +20
+SV POISON: +8
+WT: 2.0  Size: LARGE
+Class: CLR PAL
+Race: ERU
+Deity: Prexus
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 275)
+ Yield: Imbued Steelsilk Cloak x1
+ In Erudite Sewing Kit:
+
+
+  1 x Cloak Pattern - Bought
+  1 x Imbued Black Pearl - Summoned
+  1 x Platinum Thread - Bought
+  3 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

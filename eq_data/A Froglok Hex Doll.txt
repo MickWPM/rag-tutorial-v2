@@ -1,0 +1,35 @@
+ITEM NAME: A Froglok Hex Doll
+
+Kunark Era (added 2000)
+
+
+A Froglok Hex Doll
+
+
+LORE ITEM  NO DROP  
+Slot: SECONDARY
+CHA: +3
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Goblin Hex Doll 
+
+  Drops From 
+Warsliks Woods
+
+ a goblin hextracer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 3
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Scaled Mystic Greaves
+
+
+Scaled Mystic Greaves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 10
+CHA: +5  MANA: +5
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+WT: 4.2  Size: LARGE
+Class: SHM
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

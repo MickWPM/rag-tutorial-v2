@@ -1,0 +1,38 @@
+ITEM NAME: Frozen Long Sword
+
+Velious Era (added December 2000-2001)
+
+
+
+Frozen Long Sword
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 26
+DMG: 7 
+WT: 4.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 19pp+ to vendor. 
+
+  Drops From 
+Crystal Caverns
+
+ Foreman Smason
+ Foreman Rixact
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

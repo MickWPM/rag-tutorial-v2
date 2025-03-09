@@ -1,0 +1,40 @@
+ITEM NAME: Essence of Rallos
+
+Classic Era (added 1999-2000)
+
+
+Essence of Rallos
+
+
+Effect: Berserker Madness III (Combat, Casting Time: Instant) 
+at Level 40
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 268)
+ Yield: Essence of Rallos x1
+ In Mortar and Pestle:
+
+
+  2 x Amanita Phalloide - Dropped
+  1 x Larent Suspension - Bought
+  1 x Pixie Dust - Dropped
+  1 x Sealed Poison Vial - Crafted, Bought, Returned on Failure 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Qeynos Badge of Honor
+
+Warrens Era (added spring 2001)
+
+Qeynos Badge of Honor
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 5
+STR: +4  WIS: +4  INT: +4  AGI: +4  HP: +25  MANA: +25
+Effect: See Invisible (Worn)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Medal for distinquished service to Qeynos (Classic typo?)  This quest went live with the March 2001 Hate & Fear revamp and Warrens release patch. [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Qeynos Badge Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

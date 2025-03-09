@@ -1,0 +1,33 @@
+ITEM NAME: Hobby's Wondrous Super Cookie
+
+
+
+Hobby's Wondrous Super Cookie
+
+
+MAGIC ITEM  NO RENT TEMPORARY  
+This is a snack!
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ blue flurry mob
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Unknown  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

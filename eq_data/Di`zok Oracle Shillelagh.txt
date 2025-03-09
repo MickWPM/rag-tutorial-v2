@@ -1,0 +1,37 @@
+ITEM NAME: Di`zok Oracle Shillelagh
+
+Chardok Revamp Era (added late 2001)
+
+ 
+Di`zok Oracle Shillelagh
+
+
+MAGIC ITEM  LORE ITEM 
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 16 
+WIS: +5  MANA: +20
+Effect: Togor's Insects (Combat, Casting Time: Instant, Level 51)
+WT: 3.0  Size: LARGE
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+Makes for an excellent, albeit somewhat pricey pet weapon for enchanters or necromancers. Acts as a major light source. 
+
+  Drops From 
+Chardok
+
+ The Bridge Keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

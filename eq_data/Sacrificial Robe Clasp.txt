@@ -1,0 +1,36 @@
+ITEM NAME: Sacrificial Robe Clasp
+
+Kunark Era (added 2000)
+
+
+Sacrificial Robe Clasp
+
+
+MAGIC ITEM  LORE ITEM NORENT
+Charges: 1
+Effect:  Pact of Shadow (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is the key to the North Boss in HS. It is NO RENT. 
+
+  Drops From 
+Howling Stones
+
+ Ground Spawn
+ (375, 190) , center room of North Wing
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

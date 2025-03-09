@@ -1,0 +1,39 @@
+ITEM NAME: Zlandicar's Heart
+
+Velious Era (added December 2000-2001)
+
+
+
+Zlandicar's Heart
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+STR: +1  DEX: +2  STA: +1  CHA: -10  WIS: +2  INT: +20  AGI: +3
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Regeneration (Worn)  
+WT: 0.0  Size: MEDIUM
+Class: SHD NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ Zlandicar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Key to Jaled Dar's Lair (Neb)
+
+ <Empire> Officer Omai weilding Zlandicar's Heart on red99
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

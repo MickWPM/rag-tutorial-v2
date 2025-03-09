@@ -1,0 +1,42 @@
+ITEM NAME: Silvered Throwing Axe
+
+Classic Era (added 1999-2000)
+
+
+Silvered Throwing Axe
+
+
+MAGIC ITEM  
+Slot: RANGE
+Skill: Throwingv1  Atk Delay: 27
+DMG: 7
+WT: 1.0  Range: 125  Size: MEDIUM
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Silvered Throwing Axe x1
+ In Forge:
+
+
+  1 x Enchanted Sheet Metal - Crafted
+  1 x Enchanted Silver Bar - Summoned
+  1 x Throwing Axe Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

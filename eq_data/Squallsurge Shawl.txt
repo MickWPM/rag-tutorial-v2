@@ -1,0 +1,33 @@
+ITEM NAME: Squallsurge Shawl
+
+
+Squallsurge Shawl
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 5
+STA: +5  MANA: +50
+WT: 0.3  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Kedge Keep
+
+ Undertow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

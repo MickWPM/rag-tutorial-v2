@@ -1,0 +1,31 @@
+ITEM NAME: Crest of the Wood Nymphs
+
+Velious Era (added December 2000-2001)
+
+
+Crest of the Wood Nymphs
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Friend of the Tunarean Court
+ Crest of the Wood Nymphs Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

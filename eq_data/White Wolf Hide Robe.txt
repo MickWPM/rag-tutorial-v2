@@ -1,0 +1,45 @@
+ITEM NAME: White Wolf Hide Robe
+
+Velious Era (added December 2000-2001)
+White Wolf Hide Robe
+
+
+Slot: CHEST
+AC: 8
+INT: +3
+SV COLD: +5
+WT: 3.5  Size: MEDIUM
+Class: MNK NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Costs about 750 plat 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Kael Drakkel
+
+ Graggaz Fleshflayer
+
+
+
+  (245, 872)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

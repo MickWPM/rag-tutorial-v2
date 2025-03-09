@@ -1,0 +1,45 @@
+ITEM NAME: Imbued Steelsilk Bracers (Quellious)
+
+Velious Era (added December 2000-2001)
+
+
+Imbued Steelsilk Bracers
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 10
+STR: +2  DEX: +4  CHA: +2  WIS: +1  HP: +4  MANA: +5
+SV DISEASE: +2  SV POISON: +2
+WT: 1.3  Size: SMALL
+Class: CLR PAL
+Race: ERU
+Deity: Quellious
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: <=119 or 242?)
+ Yield: Imbued Steelsilk Bracers x1
+ In Erudite Sewing Kit:
+
+
+  1 x Imbued Topaz - Summoned
+  1 x Platinum Thread - Bought
+  1 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned
+  1 x Wristband Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

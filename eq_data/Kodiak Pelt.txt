@@ -1,0 +1,43 @@
+ITEM NAME: Kodiak Pelt
+
+Velious Era (added December 2000-2001)
+
+
+
+Kodiak Pelt
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 3
+STR: +2  DEX: +1
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a tundra kodiak
+
+Great Divide
+
+ A Feral Cave Kodiak
+ a ferocious cave kodiak
+ A Savage Cave Kodiak
+ Bloodmaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

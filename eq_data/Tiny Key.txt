@@ -1,0 +1,30 @@
+ITEM NAME: Tiny Key
+
+Classic Era (added 1999-2000)
+
+
+Tiny Key
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+There are two different Tiny Keys used in this quest, they are not interchangeable. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Imbued Black Sapphire
+
+
+
+Imbued Black Sapphire
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Created from a normal Black Sapphire with the Imbue Black Sapphire spell. Creates items that are diety restricted to Bertoxxulous. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Human (Freeport) Cultural Smithing (Trivial: Various)
+
+
+ Jewelcrafting
+ Imbued Black Sapphire Silvered Necklace
+ Imbued Black Sapphire Electrum Earring
+ Imbued Golden Black Sapphire Earring
+ Imbued Black Sapphire Platinum Necklace
+
+
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Sceptre of Ixiblat Fer
+
+Kunark Era (added 2000)
+
+Sceptre of Ixiblat Fer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 32
+DMG: 15 
+SV FIRE: +10
+WT: 0.1  Size: SMALL
+Class: ALL except BRD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+This item is used in the Cleric Epic Quest, but also has a surprisingly decent ratio and light weight. For this reason it's not a terrible backup weapon for casters, and can be easy to obtain as a byproduct of farming Ixiblat for Cloak of Flames. 
+
+  Drops From 
+Burning Woods
+
+ Ixiblat Fer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,92 @@
+ITEM NAME: Constrict Suspension
+
+Classic Era (added 1999-2000)
+
+
+Constrict Suspension
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Dagnor's Cauldron
+
+ Conium Darkblade
+
+
+
+  (-236, -826)
+
+
+ Firiona Vie
+
+ Brak Daggermist
+
+
+
+  (-3608, 2359)
+
+
+ Lake of Ill Omen
+
+ Nubs Blackgranite
+
+
+
+  (-2517, -2920)
+
+
+ West Freeport
+
+ Toxdil
+
+
+
+  (623, 200)
+
+
+ Western Plains of Karana
+
+ Gindlin Toxfodder
+
+
+
+  (-2986, -13398)
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Beastchoker (Trivial: 166)
+ others
+
+
+
+
+

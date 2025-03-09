@@ -1,0 +1,35 @@
+ITEM NAME: Blood Runed Girdle
+
+Velious Era (added December 2000-2001)
+
+Blood Runed Girdle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 15
+STR: +15  AGI: +15  HP: +40
+WT: 2.0  Size: TINY
+Class: WAR SHD
+Race: ALL
+
+
+
+ Merchant resale value: 494p 5g 3s 7c 
+
+  Drops From 
+Velketor's Labyrinth
+
+ Khelkar Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

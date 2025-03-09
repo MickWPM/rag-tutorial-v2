@@ -1,0 +1,36 @@
+ITEM NAME: Insignia Protector
+
+Kunark Era (added 2000)
+
+ 
+Insignia Protector
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 20
+CHA: +5  WIS: +10  INT: +10  MANA: +20
+SV FIRE: +10  SV COLD: +10  SV MAGIC: +10
+WT: 3.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Queen Velazul Di`zok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

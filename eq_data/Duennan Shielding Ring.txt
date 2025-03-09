@@ -1,0 +1,36 @@
+ITEM NAME: Duennan Shielding Ring
+
+Sky Era (added January 2000)
+
+
+Duennan Shielding Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+Charges: 1
+AC: 4
+WIS: +5  INT: +5  MANA: +30
+Effect:  Harmshield (Must Equip, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: MAG
+Race: ALL
+
+
+ Item Lore (from Identify): Duennan Shielding Ring - Class 5
+Note: Can be recharged with a Mana Battery - Class Five in a Box of the Void. The box is consumed on combine and is only available in the Plane of Sky. The ring can be immediately recharged and used again with no cool down. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Interpretation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Folded Sheet of Brellium
+
+
+
+Folded Sheet of Brellium
+
+
+WT: 10.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 39)
+ Yield: Folded Sheet of Brellium x2
+ In Forge:
+
+
+  1 x Block of Brellium - Crafted, Bought
+  1 x Dwarven Ale - Bought
+  1 x Dwarven Smithy Hammer - Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

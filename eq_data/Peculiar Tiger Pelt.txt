@@ -1,0 +1,33 @@
+ITEM NAME: Peculiar Tiger Pelt
+
+Classic Era (added 1999-2000)
+
+
+Peculiar Tiger Pelt
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kithicor Forest
+
+ Reggit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Grim's Tiger Revenge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

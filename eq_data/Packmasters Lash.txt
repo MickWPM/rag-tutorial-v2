@@ -1,0 +1,35 @@
+ITEM NAME: Packmasters Lash
+
+Warrens Era (added spring 2001)
+
+Packmaster's Lash
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 4   AC: 3
+Effect:  Choking (Combat, Casting Time: Instant) at Level 20
+WT: 2.5  Size: TINY
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+The Warrens
+
+ Packmaster Dledsh
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

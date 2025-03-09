@@ -1,0 +1,29 @@
+ITEM NAME: Ringmail Visor
+
+Were you looking for Large Ringmail Armor Set? Were you looking for Small Ringmail Armor Set?
+
+
+Ringmail Visor
+
+
+Slot: FACE
+AC: 3
+WT: 1.1  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Ringmail Armor Set. 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

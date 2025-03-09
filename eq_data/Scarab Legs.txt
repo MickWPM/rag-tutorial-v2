@@ -1,0 +1,42 @@
+ITEM NAME: Scarab Legs
+
+Classic Era (added 1999-2000)
+Scarab Legs
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 1 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a worker scarab
+
+Field of Bone
+
+ a carrion beetle hatchling
+ carrion shredder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scarab Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

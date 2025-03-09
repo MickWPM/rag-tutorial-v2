@@ -1,0 +1,77 @@
+ITEM NAME: Giant Snake Fang
+
+
+Giant Snake Fang
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 27
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a giant snake
+
+Commonlands
+
+ an asp
+
+Dagnor's Cauldron
+
+ a shoal serpent
+
+Erud's Crossing
+
+ a kerra snake
+
+Rathe Mountains
+
+ a giant moccasin
+
+Nektulos Forest
+
+ a black mamba
+
+Northern Desert of Ro
+
+ a cistern asp
+ a giant rattlesnake
+
+Splitpaw
+
+ a gaduladian widemouth
+
+Southern Desert of Ro
+
+ a cistern asp
+ a darkweed snake
+ a giant rattlesnake
+ an asp
+
+Stonebrunt Mountains
+
+ an emerald adder
+
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cazic Thule Symbol Quests
+ Health Potion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

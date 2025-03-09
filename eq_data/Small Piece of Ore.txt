@@ -1,0 +1,185 @@
+ITEM NAME: Small Piece of Ore
+
+
+
+Small Piece of Ore
+
+
+QUEST ITEM
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+1 gold 7 silver 2 copper; Stackable; 3 platinum 4 gold 4 silver per stack 
+
+  Drops From 
+Beholder's Maze
+
+ a muddite elder
+ a muddite minor
+ a muddite recordkeeper
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork miner
+
+
+
+  (760, -155)
+
+
+ Cabilis (East)
+
+ Klok Toren
+
+
+
+  (190, -303)
+
+
+ Erudin
+
+ Shinan Orefinder
+
+
+
+  (-683, -246)
+
+
+ Freeport (North)
+
+ Kyrin Steelbone
+
+  In Groflah's Forge
+
+  (-21, 470)
+
+
+ Grobb
+
+ Okun
+
+
+
+  (683, -412)
+
+
+ Halas
+
+ Greta O`Reilly
+
+
+
+  (78, -245)
+
+
+ Halas
+
+ April
+
+
+
+  (173, -306)
+
+
+ High Keep
+
+ Miner Harton
+
+
+
+  (42, -273)
+
+
+ Kaladim (North)
+
+ Bloarn Norkhitter
+
+
+
+  (727, 213)
+
+
+ Neriak Commons
+
+ Glazn D`Unnar
+
+
+
+  (46, -796)
+
+
+ Oggok
+
+ Blergerda
+
+
+
+  (191, 915)
+
+
+ Paineel
+
+ Tentus Brackmar
+
+
+
+  (995, 810)
+
+
+ Steamfont Mountains
+
+ Godbin Strumharp
+
+
+
+  (43, -618)
+
+
+ Stonebrunt Mountains
+
+ Kevar Claypaws
+
+
+
+  (1390, -579)
+
+
+ Thurgadin
+
+ Nimren Stonecutter
+
+
+
+  (46, -109)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Metal Bits (Trivial: 18)
+
+
+ Poison Making
+ Iron Sulphide (Trivial: ?)
+
+
+ Pottery
+ ?
+
+
+
+
+

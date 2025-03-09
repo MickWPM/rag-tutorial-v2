@@ -1,0 +1,33 @@
+ITEM NAME: Custom Warlord's Crown
+
+Velious Era (added December 2000-2001) Custom Warlords Crown, Velious Plate, Male, Troll.
+
+Custom Warlord's Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 30
+STR: +4  DEX: +3  STA: +7  HP: +35
+SV DISEASE: +4
+WT: 9.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Custom Plate Helms - Kael Drakkel
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

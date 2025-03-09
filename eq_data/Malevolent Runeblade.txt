@@ -1,0 +1,39 @@
+ITEM NAME: Malevolent Runeblade
+
+
+Hole Era (added June 2000)
+
+
+
+Malevolent Runeblade
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 13 
+STR: +10  DEX: +5  STA: +10  AGI: +5
+Effect:  Froglok Poison (Combat, Casting Time: Instant) at Level 50
+WT: 4.5  Size: MEDIUM
+Class: WAR BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Xygoz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

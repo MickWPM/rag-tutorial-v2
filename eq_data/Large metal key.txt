@@ -1,0 +1,32 @@
+ITEM NAME: Large metal key
+
+Velious Era (added December 2000-2001)
+
+
+Large metal key
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): 7th floor key Gains access to 7th floor from the 6th. See Key Compendium. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ VhalSera
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

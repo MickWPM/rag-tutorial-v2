@@ -1,0 +1,57 @@
+ITEM NAME: Imbued Steelsilk Bracers (Cazic Thule)
+
+Velious Era (added December 2000-2001)
+
+
+Imbued Steelsilk Bracers
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 10
+STR: +3  DEX: +4  CHA: -2  INT: +2  HP: +4  MANA: +5
+SV POISON: +2
+WT: 1.3  Size: SMALL
+Class: CLR SHD
+Race: ERU
+Deity: Cazic-Thule
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 242)
+ Yield: Imbued Steelsilk Bracers x1
+ In Erudite Sewing Kit:
+
+
+  1 x Imbued Amber - Summoned
+  1 x Platinum Thread - Bought
+  1 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned
+  1 x Wristband Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Fashionquest 
+
+Teomus, Cleric of Cazic-Thule in full visible Cazic Steelsilk.
+
+
+
+Cultural Tradeskills Pages
+Barbarian • Dark Elf • Dwarf • Erudite • Gnome • Half Elf • Halfling • High Elf • Human • Iksar • Ogre • Troll • Wood Elf
+
+
+
+
+

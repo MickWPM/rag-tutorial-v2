@@ -1,0 +1,33 @@
+ITEM NAME: Essence Lens
+
+Chardok Revamp Era (added late 2001)
+Essence Lens
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+AC: 15
+HP: +75  MANA: +75
+SV FIRE: +15  SV DISEASE: +15  SV COLD: +15  SV MAGIC: +15  SV POISON: +15
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: Only exists post-Sleeper awakening.
+ Item Lore (from Identify): Lens containing Lendinaria's essence 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Essence Lens Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

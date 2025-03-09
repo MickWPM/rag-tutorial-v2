@@ -1,0 +1,31 @@
+ITEM NAME: Note from Arantir
+
+Epic Quests Era (added Sept 2000)
+
+
+Note from Arantir
+
+
+LORE ITEM NO DROP
+WT: 0.0 Size: TINY
+
+
+ Item Lore (from Identify):  What is lost must be found 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Epic Quest 
+
+  Book contents 
+Greetings Sir Gnome, I hope this letter reaches you in good health.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

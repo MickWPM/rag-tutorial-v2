@@ -1,0 +1,39 @@
+ITEM NAME: Ry`Gorr Chain Leggings
+
+Velious Era (added December 2000-2001)
+
+Ry`Gorr Chain Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 13
+DEX: +2  STA: +2  HP: +5
+SV COLD: +5  SV MAGIC: +3
+WT: 5.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Ry`Gorr Chain Armor set. 
+
+  Drops From 
+Eastern Wastes
+
+ a Ry`Gorr legionaire
+ a Ry`Gorr prison guard
+ mystic of Ry`Gorr
+ Oracle of Ry`Gorr
+ Ry`Gorr elite guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

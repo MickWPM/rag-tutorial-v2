@@ -1,0 +1,33 @@
+ITEM NAME: Froglok Skin Mask
+
+Classic Era (added 1999-2000)
+
+Froglok Skin Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 2
+DEX: +2  INT: +2
+WT: 0.4  Size: SMALL
+Class: WAR CLR SHD ROG SHM NEC
+WIZ MAG ENC
+Race: DEF TRL OGR GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Froglok Skin Mask Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,124 @@
+ITEM NAME: Small Brick of Velium
+
+Velious Era (added December 2000-2001)
+
+Small Brick of Velium
+
+
+WT: 7.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 3 Platinums
+ 5 Golds
+ 0 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr miner
+
+Icewell Keep
+
+ an avalanche golem
+ Frosticube
+
+Skyshrine
+
+ A Golem Adjudicator
+ Patroller Doruuk
+ Patroller Imochen
+ Patroller Sven
+ Patroller Unelorn
+ Patroller Victan
+ Trezum
+
+Tower of Frozen Shadow
+
+ a crystallized shadow guard
+ a golem usher
+
+Velketor's Labyrinth
+
+ a crystal destroyer
+ a crystal gargoyle
+ a crystal sentinel
+ a crystaline sentinel
+ a crystalline gargoyle
+ a crystalline hunter
+ a crystalline sentinel
+ a crystalline statue
+ a crystalline watcher
+ a velium hunter
+ an icy watcher
+ Bledrek
+ Crystal Fang
+ Kerdelb
+ Leljemor
+ Rijoely
+ The Brood Master
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing (Trivial: 30)
+ Yield: Velium Boning x1
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  1 x File - Crafted(returned)
+  1 x Small Brick of Velium - Crafted, Dropped
+
+
+ Blacksmithing (Trivial: 30)
+ Yield: Small Brick of Velium x1
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  3 x Small Piece of Velium - Crafted, Dropped
+
+
+ Blacksmithing (Trivial: ? but between 28 and 41)
+ Yield: Small Brick of Velium x2
+ In Forge:
+
+
+  1 x Smithing Chisel - Bought, Returned on Failure, Returned on Success
+  1 x Large Brick of Velium - Crafted, Dropped
+
+
+ Blacksmithing (Trivial: 30)
+ Yield: Small Piece of Velium x2
+ In Forge:
+
+
+  1 x Small Brick of Velium - Crafted, Dropped
+  1 x Smithing Chisel - Bought, Returned on Failure, Returned on Success
+
+
+ Pottery (Trivial: 122)
+ Yield: Unfired Velium Vial x1
+ In Pottery Wheel:
+
+
+  3 x Crystalline Silk - Dropped
+  2 x Glass Shard - Bought
+  1 x Small Brick of Velium - Crafted, Dropped
+
+
+
+
+

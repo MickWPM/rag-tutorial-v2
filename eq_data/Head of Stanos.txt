@@ -1,0 +1,33 @@
+ITEM NAME: Head of Stanos
+
+Epic Quests Era (added Sept 2000)
+
+
+Head of Stanos
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): Severed Head of Stanos 
+
+  Drops From 
+Highpass Hold
+
+ Stanos Herkanor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Stanos' Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

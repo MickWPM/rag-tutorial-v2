@@ -1,0 +1,33 @@
+ITEM NAME: Shorn Head of Narandi
+
+Velious Era (added December 2000-2001)
+
+
+Shorn Head of Narandi
+
+
+LORE ITEM  NO DROP  TEMPORARY
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ Narandi the Wretched
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #10: Ring of Dain Frostreaver IV
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

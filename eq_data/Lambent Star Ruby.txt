@@ -1,0 +1,30 @@
+ITEM NAME: Lambent Star Ruby
+
+Temple Era (added October 1999)
+
+
+Lambent Star Ruby
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+To obtain the Lambent Star Ruby give one Lambent Stone and two Star Rubies to Genni 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Lambent Helm
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

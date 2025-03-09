@@ -1,0 +1,34 @@
+ITEM NAME: Lizardman Scout Fife
+
+Classic Era (added 1999-2000)
+
+Lizardman Scout Fife
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Can not be sold to vendors, has no sell value. 
+
+  Drops From 
+The Feerrott
+
+ a lizardman scout
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Greenblood Shadowknight Tunic
+ Urako's Big Mistake
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+.
+
+

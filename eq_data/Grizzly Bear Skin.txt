@@ -1,0 +1,52 @@
+ITEM NAME: Grizzly Bear Skin
+
+Classic Era (added 1999-2000)
+Were you looking for Thick Grizzly Bear Skin?
+
+Grizzly Bear Skin
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a grizzly bear
+
+Rathe Mountains
+
+ a grizzly bear
+
+Northern Karana
+
+ a grizzly bear
+ A rabid grizzly
+
+Western Karana
+
+ a grizzly bear
+
+Qeynos Hills
+
+ a rabid grizzly
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Leatherfoot Raiders
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Bearskin Potion Bag (Trivial: 68)
+
+
+
+
+

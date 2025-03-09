@@ -1,0 +1,29 @@
+ITEM NAME: Tattered Cloth Sandal
+
+
+Tattered Cloth Sandal
+
+
+Slot: FEET
+AC: 1
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magic Elixir for the Warriors
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

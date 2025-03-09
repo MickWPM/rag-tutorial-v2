@@ -1,0 +1,38 @@
+ITEM NAME: Order of Thunder (Drosco)
+
+Were you looking for Order of Thunder?
+Classic Era (added 1999-2000)
+
+Order of Thunder
+
+
+MAGIC ITEM  LORE ITEM  QUEST ITEM
+Slot: NECK
+AC: 2
+CHA: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Two items with the same name, different attributes. The version which drops from Drosco is only CHA +5. For the other version see Order of Thunder
+ Item Lore (from Identify): Drosco's Medal 
+
+  Drops From 
+Qeynos Aqueducts
+
+Drosco
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Drosco the Zombie (good)
+ Drosco the Zombie (evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Radiant Coin of Tash
+
+Classic Era (added 1999-2000)
+
+
+Radiant Coin of Tash
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coin of Tash (Tashania spell)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

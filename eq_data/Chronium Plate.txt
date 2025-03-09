@@ -1,0 +1,40 @@
+ITEM NAME: Chronium Plate
+
+Velious Era (added December 2000-2001)
+
+
+Chronium Plate
+
+
+LORE ITEM  NO DROP
+WT: 0.9  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Blacksmithing (Trivial: <157)
+ Yield: Chronium Plate x1
+ In Forge:
+
+
+  1 x Chunk of Chronium Ore - Dropped
+  1 x Forging Hammer - Bought, Quested, Dropped, Returned on Failure, Not Returned on Success
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Was trivial at 163 on p99 (10/15/2016) and didn't return the Forging Hammer.
+
+

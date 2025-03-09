@@ -1,0 +1,35 @@
+ITEM NAME: Violet Flame Lantern
+
+Warrens Era (added spring 2001)
+
+
+Violet Flame Lantern
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+CHA: +3  INT: +2  MANA: +15
+SV COLD: +5
+WT: 0.8  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Warrens
+
+ The Muglwump
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

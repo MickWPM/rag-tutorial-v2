@@ -1,0 +1,33 @@
+ITEM NAME: Large Sky Sapphire (Enchanter)
+
+Sky Era (added January 2000)
+
+
+ Enchanter Version Icon
+Large Sky Sapphire
+
+
+LORE ITEM  NO DROP
+WT: 15.0 Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+There are two different versions of this item: this is the 15-weight version that looks like a Sapphire, for the Enchanter quest ("Azure Star Sapphire").
+The other version has 0.1 weight and is for the wizard quest. 
+
+  Drops From 
+ Eye of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Incapacitation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Enchanted Folded Brellium Sheet
+
+
+
+Enchanted Folded Brellium Sheet
+
+
+WT: 10.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 63)
+ Yield: Enchanted Folded Brellium Sheet x1
+ In Forge:
+
+
+  1 x Dwarven Ale - Bought
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Enchanted Block of Brellium - Crafted 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Dwarven Cultural Smithing Armor (Trivial: Various)
+
+
+
+
+

@@ -1,0 +1,86 @@
+ITEM NAME: Lexicon
+
+Classic Era (added 1999-2000)
+
+Lexicon
+
+
+WT: 0.4  Weight Reduction: 0%
+Capacity: 4  Size Capacity: LARGE
+
+
+For Researching spells for a wizard. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1045, -1011)
+
+
+ Erudin Palace
+
+ Andane Starinen
+
+
+
+  (864, 737)
+
+
+ Felwithe
+
+ Merchant Earlyn
+
+
+
+  (464, -348)
+
+
+ West Freeport
+
+ Voglan Dransed
+
+
+
+  (155, -762)
+
+
+ Neriak Commons
+
+ Mirzna N`Mar
+
+
+
+  (167, -875)
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1008)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

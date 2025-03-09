@@ -1,0 +1,36 @@
+ITEM NAME: Sandwich of Foul Smelling Herbs
+
+Chardok Revamp Era (added late 2001)
+
+Sandwich of Foul Smelling Herbs
+
+
+MAGIC ITEM  
+Slot: RANGE
+STA: +5  HP: +50
+This is a miraculous meal!
+WT: 3.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Range slot item! Warning! This item can and will be consumed as a food item if its not equiped in your range slot. Just keep it well below a stack of food to avoid a "doh" moment if not currently using.. [1]
+
+ Item Lore (from Identify): A sandwich this big could last for days! 
+
+  Drops From 
+Chardok
+
+ a Wizened Herb Collector
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

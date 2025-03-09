@@ -1,0 +1,36 @@
+ITEM NAME: BladeStorm, Katana of Steel Sleet
+
+ Green Server First of Three - BladeStorm, Katana of Steel Sleet
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+BladeStorm, Katana of Steel Sleet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 30 
+Effect:  Rain of Swords (Combat, Casting Time: Instant) at Level 40
+WT: 2.0  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+No longer drops. 
+
+  Drops From 
+Plane of Fear
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

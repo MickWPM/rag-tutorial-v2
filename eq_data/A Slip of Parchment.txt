@@ -1,0 +1,38 @@
+ITEM NAME: A Slip of Parchment
+
+Classic Era (added 1999-2000)
+
+
+Slip of Parchment
+
+
+LORE ITEM
+WT: 0.0  Size: TINY
+
+
+ Item Lore (from Identify): Invoice-Nesiff's Wooden Weapons 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Crate (evil)
+ The Crate (good) 
+
+  Book contents 
+
+
+INVOICE - NESIFF'S WOODEN WEAPONS
+QEYNOS: 19 CRATES
+LONG FLIGHT ARROWS
+36 GP CREDIT OF 1 GP AND 9 SP REMAINING DUE TO DEFECTIVE CRATE
+CUSTOMER: WELETH, ON BEHALF OF QEYNOS MILITIA
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

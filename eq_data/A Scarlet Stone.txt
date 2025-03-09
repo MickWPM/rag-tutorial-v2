@@ -1,0 +1,34 @@
+ITEM NAME: A Scarlet Stone
+
+
+
+A Scarlet Stone
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ a drolvarg scavenger
+ Dropped twice 2015/07/04: Called "A Scarlet Stone" which identifies as "Sulfur Stone"
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Bronze
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

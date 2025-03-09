@@ -1,0 +1,59 @@
+ITEM NAME: Jumjum Stalk
+
+Classic Era (added 1999-2000)
+
+
+Jumjum Stalk
+
+
+This is a snack.
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: There are three different items with the same name. Only the dropped one from Nillipuss works for the quest.
+ Item Lore (from Identify): Nillipuss' Jumjum or
+ Item Lore (from Identify): Stolen Jumjum Stalk or
+ Item Lore (from Identify): Jumjum Stalk
+The "Stolen Jumjum Stalk" is a ground spawn in Rivervale at (-136, -426) in the druid garden. Respawn is 12 minutes. 
+
+  Drops From 
+Rivervale
+
+ Nillipuss
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Rivervale
+
+ Daleen Leafsway
+
+
+
+  (-88, -352)
+
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Jumjum Cake?
+ Jumjum Salad?
+
+ Brewing
+ Jumjum Spiced Beer?
+
+
+
+
+

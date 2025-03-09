@@ -1,0 +1,38 @@
+ITEM NAME: Black Ice Leggings
+
+Velious Era (added December 2000-2001)
+
+
+
+Black Ice Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 13
+STR: +7
+WT: 10.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+These stupid pants are the common drop of it seems like every named dog in Velketor's Labyrinth. 
+ Merchant resale value: 44p 4g 6s 
+
+  Drops From 
+Velketor's Labyrinth
+
+ Errkak Icepaw
+ Ular Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

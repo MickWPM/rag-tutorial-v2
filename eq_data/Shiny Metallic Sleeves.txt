@@ -1,0 +1,35 @@
+ITEM NAME: Shiny Metallic Sleeves
+
+Velious Era (added December 2000-2001)
+ Close up of the sleeves. Normally covered by robes.
+Shiny Metallic Sleeves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 15
+STA: +15  INT: +9  MANA: +70
+SV FIRE: +8  SV COLD: +8
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+Note: Unsure if this is a Velious-launch era item, or introduced later. 
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Kreizenn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

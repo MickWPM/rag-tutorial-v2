@@ -1,0 +1,37 @@
+ITEM NAME: Shard Wurm Fang
+
+Velious Era (added December 2000-2001)
+
+
+Shard Wurm Fang
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ A young shardwurm
+ a crystaline shardwurm
+ an ancient shardwurm
+ an elder shardwurm
+ Shardwurm Broodmother
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Slaggak's Bounty
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

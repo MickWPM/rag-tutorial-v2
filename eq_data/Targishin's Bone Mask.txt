@@ -1,0 +1,33 @@
+ITEM NAME: Targishin's Bone Mask
+
+Kunark Era (added 2000)
+
+Targishin's Bone Mask
+
+
+LORE ITEM
+Slot: FACE
+AC: 12
+WT: 0.0 Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: took 32 targishin kills to get a mask, <10% sounds right, if not 5%. 
+
+  Drops From 
+Field of Bone
+
+ Targishin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

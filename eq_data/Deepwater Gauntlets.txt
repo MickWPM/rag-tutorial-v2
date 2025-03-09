@@ -1,0 +1,35 @@
+ITEM NAME: Deepwater Gauntlets
+
+Kunark Era (added 2000)
+
+Deepwater Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 16
+Effect:  Cancel Magic (Must Equip, Casting Time: 7.0) at Level 45
+WT: 5.0  Size: SMALL
+Class: PAL
+Race: ALL except IKS
+
+
+Part of the Deepwater Armor set. 
+ Merchant resale value: 430p 3g 5s 8c at Kindly faction and 75 CHA 
+
+  Drops From 
+Karnor's Castle
+
+ skeletal scryer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

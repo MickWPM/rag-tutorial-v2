@@ -1,0 +1,44 @@
+ITEM NAME: Dabner's Staff of Recall
+
+
+
+
+ 
+
+ Contents of this page has been identified as part of a current Server Issue (a "bug") on Project 1999 server(s).Remove this message when the active issue is resolved.
+
+Classic Era (added 1999-2000)
+
+
+Dabner's Staff of Recall
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 22
+DMG: 7 
+WIS: +8  MANA: +50
+Effect: Gate (Any Slot/Can Equip, Casting Time: 20.0) at Level 5
+WT: 1.0  Size: MEDIUM
+Class: CLR DRU SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Staff used by Dabner Drednever when he is lonely 
+
+  Drops From 
+Neriak Commons
+
+ Vorshar the Despised
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

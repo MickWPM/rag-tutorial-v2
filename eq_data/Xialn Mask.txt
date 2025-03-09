@@ -1,0 +1,72 @@
+ITEM NAME: Xialn Mask
+
+Velious Era (added December 2000-2001)
+
+
+Xialn Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 12
+CHA: +6  WIS: +6  INT: +6
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV POISON: +5
+WT: 0.4  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ A Shambling Cube
+ Dalshim Fe`Dhar
+ Deoryn Fe`Dhar
+ Dygwyn Fe`Dhar
+ Dyr Fe`Dhar
+ Elder Hajnix
+ Elder Kajind
+ Elder Kalur
+ Eldriaks Fe`Dhar
+ Elyshum Fe`Dhar
+ Glydoc Fe`Dhar
+ Jualicn
+ Kalacs Fe`Dhar
+ Laoch Ealkiq
+ Laoch Zalbryn
+ Lawyla
+ Lignark
+ Medry Fe`Dhar
+ Morachii Fe`Dhar
+ Oct Velic
+ Oglard
+ Placlis
+ Poalgin Fe`Dhar
+ Qalcnic Fe`Dhar
+ Quadrix Velic
+ Ralgyn
+ Riran Fe`Dhar
+ Taegria Fe`Dhar
+ Talgixn Fe`Dhar
+ Talnifs
+ Talon Velic
+ Tonvan Fe`Dhar
+ Tri Velic
+ Tyddyn Fe`Dhar
+ Vellyn Fe`Dhar
+ Vobryn Fe`Dhar
+ Zaldin Fe`Dhar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

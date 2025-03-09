@@ -1,0 +1,44 @@
+ITEM NAME: Enchanted Full Plate Boots (silver)
+
+
+
+Enchanted Full Plate Boots (silver)
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 13
+STA: +4  AGI: +3
+WT: 7.5  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: HUM BAR ERU HEF
+
+
+Part of the human cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: ??)
+ Yield: Enchanted Full Plate Boots (silver) x1
+ In Royal Qeynos Forge:
+
+
+  1 x Smithy Hammer - Bought
+  1 x Royal Temper - Crafted
+  1 x Enchanted Chain Jointing - Crafted
+  2 x Enchanted Folded Sheet Metal - Crafted
+  1 x Enchanted Silver Bar - Summoned
+  1 x Leather Padding - Crafted
+  1 x Full Plate Boot Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

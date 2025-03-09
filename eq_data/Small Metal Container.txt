@@ -1,0 +1,37 @@
+ITEM NAME: Small Metal Container
+
+
+
+Small Metal Container
+
+
+WT: 3.0  Weight Reduction: 0%
+Capacity: 2  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 31)
+ Yield: Small Metal Container x1
+ In Forge:
+
+
+  1 x Hinge Mold - Bought
+  1 x Metal Bits - Crafted
+  1 x Small Container Base Mold - Bought
+  1 x Small Container Lid Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

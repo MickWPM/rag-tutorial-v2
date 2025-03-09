@@ -1,0 +1,41 @@
+ITEM NAME: Netted Kelp Sash
+
+Velious Era (added December 2000-2001)
+
+
+
+Netted Kelp Sash
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 5
+STR: +6  STA: +3  CHA: -2  INT: +5
+SV FIRE: +8
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad maiden
+ a neriad mistress
+ a neriad sea princess
+ an enthralled molkor
+ an enthralled ulthork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Twisted Nature Leggings
+
+Velious Era (added December 2000-2001)
+
+
+Twisted Nature Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 25
+STA: +10  WIS: +5  AGI: +10  HP: +20  MANA: +20
+SV DISEASE: +5  SV COLD: +5
+Effect: Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 2.5  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

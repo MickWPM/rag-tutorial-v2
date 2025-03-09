@@ -1,0 +1,38 @@
+ITEM NAME: Blue Crystal Staff
+
+Classic Era (added 1999-2000)
+
+ 
+Blue Crystal Staff
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 10 
+INT: +10  HP: +10  MANA: +30
+SV FIRE: +20  SV COLD: +20
+WT: 0.6  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore (from Identify):  'The power of Solusek Ro radiates from this item.' This staff is 2hb until Nov 2000 in the classic timeline. [1] 
+
+  Drops From 
+Kedge Keep
+
+ Phinigel Autropos
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Blade of the Swarm
+
+ Stilgard <Kingdom> wields the Blade of the Swarm taken from the hands of Tunare herself
+Velious Era (added December 2000-2001)
+
+
+Blade of the Swarm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 14 
+STR: +10  HP: +40
+Effect: Swarming Pain (Combat, Casting Time: Instant) at Level 50
+WT: 2.5  Size: MEDIUM
+Class: WAR SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ Tunare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

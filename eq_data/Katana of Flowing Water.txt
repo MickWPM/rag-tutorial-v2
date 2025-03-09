@@ -1,0 +1,37 @@
+ITEM NAME: Katana of Flowing Water
+
+Kunark Era (added 2000)
+
+
+Katana of Flowing Water
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 33
+DMG: 19 
+CHA: +10  AGI: +10
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 2.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Phara Dar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

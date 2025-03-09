@@ -1,0 +1,36 @@
+ITEM NAME: Blade of Strategy
+
+Epic Quests Era (added Sept 2000)
+
+Blade of Strategy
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY  SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 14 
+STR: +10  STA: +15  HP: +50
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Rage of Vallon (Combat, Casting Time: Instant) at Level 50
+WT: 2.5  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Usable in both Primary and Secondary hands in Oct 2001 timeline.[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

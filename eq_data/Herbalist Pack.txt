@@ -1,0 +1,30 @@
+ITEM NAME: Herbalist Pack
+
+Velious Era (added December 2000-2001)
+
+Herbalist Pack
+
+
+LORE ITEM
+WT: 1.0  Weight Reduction: 25%
+Capacity: 6  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr herbalist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

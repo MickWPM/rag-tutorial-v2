@@ -1,0 +1,32 @@
+ITEM NAME: Lustrous Russet Bracer
+
+
+
+Lustrous Russet Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 12
+STR: +3  DEX: +3
+SV FIRE: +7  SV COLD: +7  SV MAGIC: +7
+WT: 3.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except IKS
+
+
+Part of the Lustrous Russet Armor set, which no longer drops. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

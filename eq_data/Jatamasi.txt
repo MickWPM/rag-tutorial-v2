@@ -1,0 +1,84 @@
+ITEM NAME: Jatamasi
+
+
+
+Jatamasi
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+6.9p with 90 Charisma and amiably faction 
+
+  Drops From 
+Chardok
+
+ a Di`zok Herbalist
+ a Sarnak Herb Collector
+ An Apprentice Herbalist
+ Grand Herbalist Mak`ha
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Jaxxtz
+
+
+
+  (-41, 513)
+
+
+ Grobb
+
+ Grabah
+
+
+
+  (413, -418)
+
+
+ Halas
+
+ Spirita
+
+
+
+  (348, 343)
+
+
+ Oggok
+
+ Garakbar
+
+
+
+  (281, -364)
+
+
+ Thurgadin
+
+ Brynjar
+
+
+
+  (-302, 133)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

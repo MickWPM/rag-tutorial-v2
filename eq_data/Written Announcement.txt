@@ -1,0 +1,42 @@
+ITEM NAME: Written Announcement
+
+Kunark Era (added 2000)
+
+
+Written Announcement
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+
+
+ Item Lore (from Identify):  Report information 4 of 6. 
+
+  Drops From 
+City of Mist
+
+ a fog golem
+ a haze golem
+ a vapor golem
+ greater spurbone
+ gyrating goo
+ plaguebone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest 
+
+  Book contents 
+Written in Lizardman:
+Hear all Torsis! It is with great regret that we inform you of our Queen, Neh
+Ashiir's disappearance. Our best scouts have begun searching the surrounding countries for her trail. The Lord Rak
+Ashiir also authorized the hire of mercenaries to venture into the Froglok Territories to search for traces of the Queen. All interested parties should report to the royal Quartermaster's office. Fear not citizens, our Queen will be found. Wisdom guide us.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Nature Walker's Greaves
+
+Velious Era (added December 2000-2001)
+
+
+Nature Walker's Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 14
+DEX: +6  WIS: +7  HP: +20  MANA: +70
+SV FIRE: +3  SV COLD: +3
+Effect:  Circle of Misty (Must Equip, Casting Time: 24.0) at Level 50
+WT: 4.0  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+Confirmed not clickable until lvl 50 09/17/22
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Kael Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

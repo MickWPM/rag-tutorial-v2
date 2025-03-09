@@ -1,0 +1,48 @@
+ITEM NAME: Woven Grass Amulet
+
+
+
+Woven Grass Amulet
+
+
+NO DROP
+Slot: NECK
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Nektulos Forest
+
+ Initiate Abber
+ Initiate Guanin
+ Initiate Hart
+ Initiate Pool
+ Initiate Rambel
+ Initiate Umbra
+ Leatherfoot Captain
+ Leatherfoot Corporal
+ Leatherfoot Scout
+ Leatherfoot Sergeant
+ Master Whoopal
+ Neophyte Edel
+ Neophyte Halle
+ Quester Dunden
+ Quester Hannil
+ Quester Hannin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Innoruuk Initiate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

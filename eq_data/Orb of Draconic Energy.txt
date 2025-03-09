@@ -1,0 +1,43 @@
+ITEM NAME: Orb of Draconic Energy
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Orb of Draconic Energy
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 15
+MANA: +50
+SV FIRE: +10  SV COLD: +10
+WT: 1.0  Size: TINY
+Class: ALL except WAR MNK ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ancient Dragon Tome
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

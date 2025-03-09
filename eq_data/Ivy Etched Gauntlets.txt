@@ -1,0 +1,32 @@
+ITEM NAME: Ivy Etched Gauntlets
+
+Temple Era (added October 1999)
+
+Ivy Etched Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 11
+SV FIRE: +7  SV COLD: +7
+WT: 2.8  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

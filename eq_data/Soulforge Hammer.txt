@@ -1,0 +1,33 @@
+ITEM NAME: Soulforge Hammer
+
+Chardok Revamp Era (added late 2001)
+
+Soulforge Hammer
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 40
+DMG: 6 
+WT: 18.0  Size: SMALL
+Class: ALL except
+Race: ALL
+Deity: Bertoxxulous Cazic-Thule Innoruuk Rallos Zek
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

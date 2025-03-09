@@ -1,0 +1,33 @@
+ITEM NAME: Cold Steel Gauntlets
+
+Classic Era (added 1999-2000)
+
+Cold Steel Gauntlets
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 17
+WT: 8.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Ular Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

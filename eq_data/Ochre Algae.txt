@@ -1,0 +1,43 @@
+ITEM NAME: Ochre Algae
+
+
+
+Ochre Algae
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Cobalt Scar
+
+ Blumblum Swigwater
+
+
+
+  (237, -1485)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+
+
+
+

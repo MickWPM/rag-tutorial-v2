@@ -1,0 +1,35 @@
+ITEM NAME: Mammoth Hide Leggings
+
+
+Mammoth Hide Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 6
+STA: +3
+SV COLD: +5
+WT: 4.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 22pp 
+
+  Drops From 
+Permafrost
+
+ a goblin alchemist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

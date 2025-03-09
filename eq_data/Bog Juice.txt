@@ -1,0 +1,40 @@
+ITEM NAME: Bog Juice
+
+Classic Era (added 1999-2000)
+
+Bog Juice
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Zimel's Blades (SoulFire)
+
+  Player crafted 
+ Brewing (Trivial: 21)
+ Yield: Bog Juice x1
+ In Brewing Barrel:
+
+
+  1 x Bottle - Crafted, Bought
+  1 x Snake Scales - Bought, Dropped
+  1 x Water Flask - Crafted, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Brewing
+ Embalming Fluid (Item) (Trivial: 21)
+
+
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Crushbone Battle Beads
+
+
+
+Crushbone Battle Beads
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crushbone
+
+ Emperor Crush
+ Lord Darish
+ orc centurion
+ orc emissary
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

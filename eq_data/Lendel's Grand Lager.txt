@@ -1,0 +1,52 @@
+ITEM NAME: Lendel's Grand Lager
+
+
+
+Lendel's Grand Lager
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Rivervale
+
+ Mac Deeppockets
+
+
+
+  (-64, -188)
+
+
+ Rivervale
+
+ Flyndia Deeppockets
+
+
+
+  (-49, -207)
+
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

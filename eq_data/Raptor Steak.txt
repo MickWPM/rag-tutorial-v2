@@ -1,0 +1,34 @@
+ITEM NAME: Raptor Steak
+
+Velious Era (added December 2000-2001)
+
+Raptor Steak
+
+
+This is a meal! STR: +2 STA: +1WT: 0.1   Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 41)
+ Yield: Raptor Steak x1
+ In Oven:
+
+
+  1 x Raptor Meat - Dropped
+  1 x Jug of Sauces - Bought
+  1 x Spices - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

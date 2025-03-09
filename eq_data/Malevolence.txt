@@ -1,0 +1,39 @@
+ITEM NAME: Malevolence
+
+GM Event item (info)
+Stonebrunt Era (added summer 2001)
+
+
+Malevolence
+
+
+MAGIC ITEM  LORE ITEM  ARTIFACT  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 29
+DMG: 19 
+STR: +10  DEX: +10  WIS: +20  INT: +20  MANA: +80
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Malevolent Grasp (Combat, Casting Time: Instant)
+WT: 0.1  Size: MEDIUM
+Class: WAR CLR SHD SHM NEC WIZ MAG ENC
+Race: HUM DEF HEF TRL GNM
+Deity: Innoruuk
+
+
+Part of a Live GM event during a "Death of Lanys T`Vyl" quest.[1] Also included a player title.[2]
+
+ Item Lore (from Identify): Ancient Artifact. Governor of the Wicked. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

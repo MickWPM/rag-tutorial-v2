@@ -1,0 +1,34 @@
+ITEM NAME: Resonant Greaves
+
+Velious Era (added December 2000-2001)
+
+
+Resonant Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 24
+STR: +5  DEX: +5  STA: +4  CHA: +5  AGI: +4  HP: +60
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 7.0  Size: LARGE
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard's Velium Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

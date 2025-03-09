@@ -1,0 +1,28 @@
+ITEM NAME: Shestar's Unfinished Coif
+
+Kunark Era (added 2000)
+Shestar's Unfinished Coif
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shestar's Scaled Coif Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

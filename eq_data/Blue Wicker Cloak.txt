@@ -1,0 +1,33 @@
+ITEM NAME: Blue Wicker Cloak
+
+Warrens Era (added spring 2001)
+
+
+Blue Wicker Cloak
+
+
+Slot: BACK
+AC: 5
+WT: 3.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a greater kobold shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

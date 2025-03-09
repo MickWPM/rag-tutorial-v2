@@ -1,0 +1,36 @@
+ITEM NAME: Rod of Health
+
+
+
+Rod of Health
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Charges: 5
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 6 
+Effect:  Word of Health (Any Slot/Can Equip, Casting Time: Instant) at Level 35
+WT: 1.5  Size: MEDIUM
+Class: CLR
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kedge Keep
+
+ a seahorse matriarch
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

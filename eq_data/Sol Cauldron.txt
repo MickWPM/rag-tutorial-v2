@@ -1,0 +1,29 @@
+ITEM NAME: Sol Cauldron
+
+Temple Era (added October 1999)
+
+
+Sol Cauldron
+
+
+LORE ITEM  NO DROP
+WT: 7.5  Weight Reduction: 0%
+Capacity: 6  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Armor of Ro Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

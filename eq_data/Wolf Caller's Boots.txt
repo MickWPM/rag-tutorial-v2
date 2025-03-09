@@ -1,0 +1,33 @@
+ITEM NAME: Wolf Caller's Boots
+
+Velious Era (added December 2000-2001)
+ 
+Wolf Caller's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 21
+STA: +6  WIS: +5  HP: +20  MANA: +25
+Effect: Extinguish Fatigue (Any Slot/Can Equip, Casting Time: 5.5)
+WT: 3.0  Size: MEDIUM
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skyshrine Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

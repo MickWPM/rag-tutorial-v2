@@ -1,0 +1,42 @@
+ITEM NAME: Priceless Velium Knuckledusters
+
+
+
+
+ 
+
+ Notice: This page was carbon-copied from Allakhazam. It is probably missing vital information.
+It also may contain info which is incorrect for the Project 1999 Timeline. Please revise accordingly and then remove this message.
+
+Velious Era (added December 2000-2001)
+
+
+Priceless Velium Knuckledusters
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 20
+DMG: 13   AC: 5
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +5  INT: +5  AGI: +5  HP: +25  MANA: +25
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 1.0  Size: TINY
+Class: WAR MNK ROG
+Race: ALL except ERU HIE
+
+
+Loc of drop? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,44 @@
+ITEM NAME: Large Leather Kilt
+
+
+
+Large Leather Kilt
+
+
+Slot: LEGS
+AC: 5
+WT: 5.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Halas
+
+ Cindl
+
+
+
+  (270, -171)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

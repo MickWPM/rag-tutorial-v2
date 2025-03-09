@@ -1,0 +1,35 @@
+ITEM NAME: Ivory Tessera
+
+Sky Era (added January 2000)
+
+
+
+Ivory Tessera
+
+
+LORE ITEM
+WT: 4.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Thievery
+ Warrior Test of Skill
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

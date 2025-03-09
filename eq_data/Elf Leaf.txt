@@ -1,0 +1,107 @@
+ITEM NAME: Elf Leaf
+
+
+
+Elf Leaf
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Blergagg
+
+
+
+  (417, -427)
+
+
+ Kithicor Forest
+
+ Elsbyth
+
+
+
+  (-776, 3082)
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ Northern Karana
+
+ Romella
+
+
+
+  (-682, -201)
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ Rathe Mountains
+
+ Viira Bali
+
+
+
+  (1644, -875)
+
+
+ Rathe Mountains
+
+ Susanna
+
+
+
+  (2908, -769)
+
+
+ Rathe Mountains
+
+ Chandra Kali
+
+
+
+  (3922, 1390)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+
+Spiced Cinnamon Powder
+
+
+

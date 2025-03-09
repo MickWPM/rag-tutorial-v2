@@ -1,0 +1,31 @@
+ITEM NAME: Cutting Shells
+
+Velious Era (added December 2000-2001)
+
+
+Cutting Shells
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Ground spawn in the water in Cobalt Scar. * Spawn Locations : 
+(432,434) ; (547,335) ; (570,600) ; (542,207) ; (532,-63) ; (470,-343) ; (370, -535) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cougarskin Boots Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

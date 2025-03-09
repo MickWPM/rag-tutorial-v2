@@ -1,0 +1,43 @@
+ITEM NAME: Words of Refuge
+
+
+Words of Refuge
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 5 Golds
+ 6 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Eastern Plains of Karana
+
+ a crag spider
+
+Lake of Ill Omen
+
+A sarnak recruit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Harmshield (Trivial: 41) (Research Only)
+
+
+
+
+

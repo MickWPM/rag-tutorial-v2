@@ -1,0 +1,34 @@
+ITEM NAME: Earring of Grachnist
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+Earring of Grachnist
+
+
+MAGIC ITEM  LORE ITEM
+Slot: EAR
+AC: 5
+STR: +2  HP: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Apparently replaced by Shrunken Goblin Skull Earring somewhere in the timeline. 
+
+  Drops From 
+Warsliks Woods
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

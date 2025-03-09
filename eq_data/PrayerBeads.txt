@@ -1,0 +1,31 @@
+ITEM NAME: PrayerBeads
+
+Classic Era (added 1999-2000)
+
+
+PrayerBeads
+
+
+LORE ITEM  QUEST ITEM
+Slot: NECK
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Blessed Oil
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

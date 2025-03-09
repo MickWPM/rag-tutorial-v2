@@ -1,0 +1,35 @@
+ITEM NAME: Malevolent Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Malevolent Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 54
+STR: +15  DEX: +7  STA: +7  INT: +7  AGI: +7  HP: +40  MANA: +60
+SV COLD: +3  SV MAGIC: +8
+Effect: Invigorate (Any Slot/Can Equip, Casting Time: 14.5) at Level 50
+WT: 9.0  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Kael Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

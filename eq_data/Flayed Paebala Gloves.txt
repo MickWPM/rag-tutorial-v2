@@ -1,0 +1,38 @@
+ITEM NAME: Flayed Paebala Gloves
+
+Velious Era (added December 2000-2001)
+
+
+Flayed Paebala Gloves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 12
+DEX: +15
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 1.0  Size: TINY
+Class: ALL except WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari master
+ a Chetari dominator
+ Dominator Yisaki
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

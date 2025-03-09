@@ -1,0 +1,37 @@
+ITEM NAME: Serpent's Tooth
+
+Hole Era (added June 2000)
+
+
+
+Serpent's Tooth
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 27
+DMG: 13 
+STR: +3
+WT: 2.3  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Hole
+
+ Master Yael
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

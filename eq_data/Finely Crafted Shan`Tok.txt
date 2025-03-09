@@ -1,0 +1,55 @@
+ITEM NAME: Finely Crafted Shan`Tok
+
+Kunark Era (added 2000)
+
+
+
+Finely Crafted Shan`Tok
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 36
+DMG: 8 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 2p 3g 1c with 56 Charisma 
+
+  Drops From 
+Field of Bone
+
+ Kerosh Blackhand
+
+Howling Stones
+
+ a sepulcher skeleton
+ greater plaguebone
+ greater war boned skeleton
+
+Kurn's Tower
+
+ lesser icebone skeleton
+
+Lake of Ill Omen
+
+ charbone skeleton
+ icebone skeleton
+
+Warsliks Woods
+
+ Iksar exile
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

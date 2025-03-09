@@ -1,0 +1,35 @@
+ITEM NAME: Ring of the Rockchanters
+
+Kunark Era (added 2000)
+
+Ring of the Rockchanters
+
+
+MAGIC ITEM
+Slot: FINGER
+AC: 4
+STA: +3  WIS: +3
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ a goblin boneslaver
+ A goblin rockchanter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

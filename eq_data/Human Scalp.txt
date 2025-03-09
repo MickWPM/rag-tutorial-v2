@@ -1,0 +1,36 @@
+ITEM NAME: Human Scalp
+
+Classic Era (added 1999-2000)
+
+
+Human Scalp
+
+
+LORE ITEM
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Two different items with this same name exist:
+ Item Lore (from Identify): Sven Drinn's Scalp
+ Item Lore (from Identify): Philicia Drinn's Scalp 
+
+  Drops From 
+Rathe Mountains
+
+ Sven Drinn
+ Philicia Drinn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Noble Hunters
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

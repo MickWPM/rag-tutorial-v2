@@ -1,0 +1,37 @@
+ITEM NAME: Training Rune (Complete)
+
+Classic Era (added 1999-2000)
+
+
+Training Rune (Complete)
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (Trivial: 62)
+ Yield: Training Rune (Complete) x1
+ In Lexicon, Elemental Grimoire, Tome of Endless Enchantments, Book of Dark Bindings:
+
+
+  1 x Training Rune (Azia) - Crafted
+  1 x Training Rune (Beza) - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

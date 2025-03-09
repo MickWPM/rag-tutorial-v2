@@ -1,0 +1,31 @@
+ITEM NAME: Ebon Drake Scales
+
+Classic Era (added 1999-2000)
+
+
+Ebon Drake Scales
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Confirmed to exist on p99? 
+
+  Drops From 
+Steamfont Mountains
+
+ A Lesser Ebon Drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

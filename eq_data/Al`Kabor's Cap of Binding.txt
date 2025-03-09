@@ -1,0 +1,36 @@
+ITEM NAME: Al`Kabor's Cap of Binding
+
+Sky Era (added January 2000)
+
+
+Al`Kabor's Cap of Binding
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+Charges: 4
+AC: 6
+STR: +5  INT: +8  HP: +40  MANA: +20
+SV FIRE: +10  SV COLD: +10
+Effect:  Bonds of Force (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.2  Size: SMALL
+Class: WIZ
+Race: ALL
+
+
+This Item is NOT Rechargable. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Focus
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Dove Slippers
+
+Sky Era (added January 2000)
+
+
+Dove Slippers
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 2
+DEX: +3  AGI: +3
+WT: 0.2  Size: SMALL
+Class: MNK
+Race: ALL
+
+
+
+
+  Drops From 
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Speed
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Small Mammoth Tusks
+
+
+
+Small Mammoth Tusks
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 3 Golds
+ 2 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Everfrost Peaks
+
+ a mammoth calf
+
+Southern Karana
+
+ a bull elephant
+ an adult elephant
+ an elephant
+ an elephant calf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

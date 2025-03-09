@@ -1,0 +1,35 @@
+ITEM NAME: Flarefire Seeds
+
+Kunark Era (added 2000)
+
+
+Flarefire Seeds
+
+
+NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crest of the Wood Nymphs Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Field of Bone
+
+

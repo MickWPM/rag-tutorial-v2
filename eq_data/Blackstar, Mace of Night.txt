@@ -1,0 +1,38 @@
+ITEM NAME: Blackstar, Mace of Night
+
+Velious Era (added December 2000-2001) Project1999 Blue First - Blackstar, Mace of Night:  Gerhart <Rampage>
+
+
+Blackstar, Mace of Night
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 20
+STR: +15 STA: +25 WIS: +20 HP: +100 MANA: +100
+SV FIRE: +15 SV DISEASE: +15 SV COLD: +15 SV MAGIC: +15 SV POISON: +15
+Effect:  Blessing of the Blackstar (Combat, Casting Time: Instant)
+WT: 0.0  Size: TINY
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Cekenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

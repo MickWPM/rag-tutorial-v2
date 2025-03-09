@@ -1,0 +1,43 @@
+ITEM NAME: Ghoulbane
+
+
+ 
+Ghoulbane
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 34
+DMG: 15 
+Effect: Dismiss Undead (Combat, Casting Time: Instant) at Level 20
+WT: 9.5  Size: LARGE
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Can someone confirm that both have same lore? 
+
+  Drops From 
+Upper Guk
+
+ the froglok shin lord
+
+Southern Felwithe
+
+ Joren Nobleheart
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Fiery Avenger
+ Shadow Knight Epic Quest
+ The Sword of Nobility
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

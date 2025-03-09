@@ -1,0 +1,36 @@
+ITEM NAME: Bracers of Erollisi
+
+Classic Era (added 1999-2000)
+
+Bracers of Erollisi
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+AC: 5
+STR: +5
+WT: 1.0  Size: SMALL
+Class: ALL except SHD NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 2p 0g 3s 7c 
+
+  Drops From 
+Ocean of Tears
+
+ Capt Surestout
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bracers of Erollisi Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

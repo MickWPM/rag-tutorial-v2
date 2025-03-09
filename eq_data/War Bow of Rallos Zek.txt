@@ -1,0 +1,37 @@
+ITEM NAME: War Bow of Rallos Zek
+
+Velious Era (added December 2000-2001)
+
+ 
+War Bow of Rallos Zek
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+Skill: Archery  Atk Delay: 45
+DMG: 43
+STR: +25  DEX: +25  HP: +100
+Effect: Torment (Combat, Casting Time: Instant)
+WT: 0.0  Range: 180  Size: TINY
+Class: WAR RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ The Avatar of War
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

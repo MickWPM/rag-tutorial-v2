@@ -1,0 +1,32 @@
+ITEM NAME: Watchman's Spectacles
+
+Kunark Era (added 2000)
+
+Watchman's Spectacles
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Timorous Deep
+
+ Raider Watchman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

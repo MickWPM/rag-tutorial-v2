@@ -1,0 +1,37 @@
+ITEM NAME: Mischievous Dazzler Shoes
+
+Velious Era (added December 2000-2001)
+
+
+Mischievous Dazzler Shoes
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+Charges: 10
+AC: 12
+STA: +5  AGI: +5  HP: +15  MANA: +20
+SV DISEASE: +5  SV POISON: +5
+Effect:  Scale of Wolf (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.5  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

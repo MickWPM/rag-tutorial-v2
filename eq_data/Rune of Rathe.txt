@@ -1,0 +1,100 @@
+ITEM NAME: Rune of Rathe
+
+
+Rune of Rathe
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players. 
+ Merchant resale value: 1p 4g 9s 4c 
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+ a tatterback ape
+ Ixiblat Fer
+
+City of Mist
+
+ a phantom
+ a wraith
+
+Eastern Wastes
+
+ a manticore
+ Scarbrow Ga`Hruk
+
+Howling Stones
+
+ a bile golem
+ a sepulcher skeleton
+ greater war boned skeleton
+ Hexbone Skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+
+Kedge Keep
+
+ a swirlspine seahorse
+
+Lesser Faydark
+
+ a brownie guard
+
+Nagafen's Lair
+
+ fire giant warrior
+ imp protector
+
+Plane of Fear
+
+ a glare lord
+ Amygdalan warrior
+
+Plane of Hate
+
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+The Overthere
+
+ an undead marine
+
+Timorous Deep
+
+ a Raptor
+ a Vicious Raptor
+ Dinus
+
+Skyfire Mountains
+
+ a soul devourer
+
+The Wakening Land
+
+ A Faerie Dragon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Paralyzing Earth (Trivial: 184)
+ Gravity Flux (Trivial: 162) (Research Only)
+
+
+
+
+

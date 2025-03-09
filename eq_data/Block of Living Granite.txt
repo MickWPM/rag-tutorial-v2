@@ -1,0 +1,36 @@
+ITEM NAME: Block of Living Granite
+
+Velious Era (added December 2000-2001)
+
+Block of Living Granite
+
+
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Geonid Granite 
+ Merchant resale value: ~1pp 
+
+  Drops From 
+The Wakening Land
+
+ a geonid shaman
+ Phenocryst
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Living Granite Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Clockwork Watchman Gauntlets (Trivial: 236)
+
+
+
+
+

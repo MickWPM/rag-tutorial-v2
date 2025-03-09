@@ -1,0 +1,32 @@
+ITEM NAME: Enchanted Lrg. Brick of Brellium
+
+
+
+Enchanted Lrg. Brick of Brellium
+
+
+WT: 18.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Created from a Large Brick of Brellium using the Enchant Brellium spell. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Sm. Brick of Brellium (Trivial: 21)
+ Enchanted Block of Brellium (Trivial: 32)
+ Enchanted Brellium Rings (Trivial: 51)
+
+
+
+
+

@@ -1,0 +1,56 @@
+ITEM NAME: Crushed Emerald
+
+Velious Era (added December 2000-2001)
+
+Crushed Emerald
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is vendor trash 
+ Merchant resale value: 25p Max 
+
+  Drops From 
+Cobalt Scar
+
+ a haunted seachest
+
+Icewell Keep
+
+ a frost spike
+ an avalanche golem
+ Frosticube
+ Glucose
+ Grizznot
+
+Siren's Grotto
+
+ an enthralled bulthar
+
+The Wakening Land
+
+ Korzak Stonehammer
+ A storm giant surveyor
+ A suit of sentient armor
+ a Faerie Dragon
+
+Velketor's Labyrinth
+
+ a crystalline watcher
+ an Icepaw kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

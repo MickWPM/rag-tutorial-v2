@@ -1,0 +1,94 @@
+ITEM NAME: Spell: Aegolism
+
+Velious Era (added December 2000-2001)
+
+
+Spell: Aegolism
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Abjuration
+Mana Cost: 750
+Effect:  Aegolism
+WT: 0.1  Size: SMALL
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ Kelorek`Dar
+
+Dragon Necropolis
+
+ Queen Raltaas
+ Zlandicar
+
+Iceclad Ocean
+
+ Lodizal
+
+Icewell Keep
+
+ Dain Frostreaver IV
+
+Kerafyrm's Lair
+
+ Master of the Guard
+ The Final Arbiter
+ The Progenitor
+
+Plane of Growth
+
+ a serene forest spirit
+ a thifling focuser
+ Prince Thirneg
+ Rumbleroot
+ Tunare
+ Undogo Digolo
+
+Siren's Grotto
+
+ Mistress Latazura
+ Mistress of the Darkwater
+
+Velketor's Labyrinth
+
+ Velketor the Sorcerer
+
+Western Wastes
+
+ Bufa
+ Derasinal
+ Gafala
+ Gangel
+ Glati
+ Harla Dar
+ Honvar
+ Karkona
+ Klandicar
+ Mazi
+ Nintal
+ Onava
+ Quoza
+ Sontalak
+ Vitaela
+ Yeldema
+ Zil Sapara
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: 224) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

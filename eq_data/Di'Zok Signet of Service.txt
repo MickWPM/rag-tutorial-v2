@@ -1,0 +1,37 @@
+ITEM NAME: Di'Zok Signet of Service
+
+Kunark Era (added 2000)
+Di'Zok Signet of Service
+
+
+MAGIC ITEM  LORE ITEM  NO TRADE
+Slot: FINGER
+AC: 2
+CHA: +1  WIS: +1 INT: +1
+HP: +65 MANA: +45
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This is the first obtained Chardok quest ring, which the player may receive for simply having warmly faction. 
+
+  Drops From 
+Chardok
+
+ Herald Telcha
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Di'Zok Signet of Service Quest
+ Regal Band of Bathezid Quest
+ Spirit Wracked Cord Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

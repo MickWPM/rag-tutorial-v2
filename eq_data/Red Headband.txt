@@ -1,0 +1,33 @@
+ITEM NAME: Red Headband
+
+Were you looking for Red Headband (Kunark) AKA Goblin Raider Headband?
+Classic Era (added 1999-2000)
+
+Red Headband
+
+
+MAGIC ITEM LORE ITEM
+Slot: HEAD
+DEX: +1 STA: +2 CHA: +2 AGI: +2 HP: +2
+WT: 0.0 Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+An identically named item that drops from goblins is moved to Red Headband (Kunark). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monks of The Whistling Fist
+ Monk Headband Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

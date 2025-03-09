@@ -1,0 +1,35 @@
+ITEM NAME: Grim Pauldrons
+
+Kunark Era (added 2000)
+
+
+Grim Pauldrons
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 13
+STR: +10
+WT: 4.5  Size: MEDIUM
+Class: WAR CLR PAL SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ Dreadlord Fanrik
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

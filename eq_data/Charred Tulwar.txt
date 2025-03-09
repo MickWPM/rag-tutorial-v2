@@ -1,0 +1,41 @@
+ITEM NAME: Charred Tulwar
+
+Kunark Era (added 2000)
+
+Charred Tulwar
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 36
+DMG: 14 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+ Item Lore (from Identify): Charred Saber 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 72 and faction at Amiable
+
+ 33 Platinums
+ 1 Golds
+ 8 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Crypt of Dalnir
+
+ a coerced Teir`Dal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

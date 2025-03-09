@@ -1,0 +1,39 @@
+ITEM NAME: Wurm Scale
+
+Kunark Era (added 2000)
+
+
+Wurm Scale
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+Used for an Omens era quest "Collection of Scales". No known use in classic. Drop possibly a bug. 
+
+  Drops From 
+Burning Woods
+
+ Phurzikon
+
+Skyfire Mountains
+
+ a mature wurm
+ a wurm
+ a wurm spirit
+ a Guardian Wurm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

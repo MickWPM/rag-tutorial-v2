@@ -1,0 +1,43 @@
+ITEM NAME: Tome of Dark Healing
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Tome of Dark Healing
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.5  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+Used in the quest, Marsinger Priest No. 3 (Ykesha-era). 
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk
+ Maestro of Rancor
+ Master of Spite
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,53 @@
+ITEM NAME: Large Plate Greaves Mold
+
+Epic Quests Era (added Sept 2000)
+
+
+Large Plate Greaves Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Halas
+
+ Ambril McRohrer
+
+
+
+  (316, -307)
+
+
+ Oggok
+
+ Bubbgrib
+
+
+
+  (288, -211)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

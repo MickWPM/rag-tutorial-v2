@@ -1,0 +1,36 @@
+ITEM NAME: Goblin Head-Spear
+
+Kunark Era (added 2000)
+
+Goblin Head-Spear
+
+
+LORE ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 29
+DMG: 8 
+CHA: -10
+SV DISEASE: +10  SV POISON: +10
+WT: 4.9  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD
+Race: ALL except HUM ERU HEF
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ goblin iksar slayer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

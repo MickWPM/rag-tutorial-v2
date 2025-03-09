@@ -1,0 +1,28 @@
+ITEM NAME: Thullian Mudskipper
+
+Classic Era (added 1999-2000)
+
+Thullian Mudskipper
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+On 6/24/19 in The Feerrott at Fishing skill 125 I used 1 Fishing Pole and 60 Fishing Grubs to catch 19 Rusty Dagger, 14 Fish Scales, 12 Fresh Fish, 11 Tattered Cloth Sandal, & 5 Thullian Mudskipper. Also confirmed Filleting Knife cannot be made with Blacksmithing Skill on P99, therefore Prepared Fish cannot be made with Baking Skill, therefore this fish can only be eaten as it is. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,197 @@
+ITEM NAME: Sorin's Treats on the Go
+
+
+
+Sorin's Treats on the Go
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Wolf Sandwich
+Everyone likes a sandwich, especially when it's covered with hair! Not only does the bread stick to
+the roof of your mouth, but the fine hairs get stuck between your teeth for added appeal!
+Ingredients: Wolf Meat and Bread
+Cooking Instructions: Tenderly dump chunks of hairy wolf meat onto a slice of bread. Top with
+second slice of bread, and serve.
+Tastes great with: Vegetable Soup and Ale
+Bear Sandwich
+This stringy, straggly sandwich has a highly robust flavor that confuses your mouth so you
+are never really sure if you have finished eating it.
+Ingredients: Bear Meat and Bread
+Cooking Instructions: Pile long strings of bear meat onto a slice of bread, trying to keep
+most of it from hanging over the sides. Top with second slice of bread, and serve.
+Tastes great with: Bug Bites and Ale
+Mammoth Sandwich
+Only a fool, or maybe an ogre, would ever think of eating an entire Mammoth Sandwich by himself, but
+legends of mighty men who swallowed the beast still put forth the challenge to this day.
+Ingredients: Mammoth Meat and Bread
+Cooking Instructions: Spread of several slices of bread in a long line. Hoist mammoth meat onto
+bread. Top with several more slices of bread, and serve.
+Tastes great with: Cookies and Ale
+Muffins
+Entertainment while you eat! Muffins are a fun and frivolous accompaniment to any dish. Just
+toss them across the table and watch them bounce onto your plate.
+Ingredients: Clump of Dough, Fruit, 1 Muffin Tin
+Cooking Instructions: Pour a clump of dough and some fruit into muffin tins. Bake at extremely
+low heat to allow batter to gloss and become rubbery. Throw onto plates and serve warm.
+Tastes great with: Beer Braised Rat and Short Beer
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

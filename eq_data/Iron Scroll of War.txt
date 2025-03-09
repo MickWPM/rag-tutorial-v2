@@ -1,0 +1,37 @@
+ITEM NAME: Iron Scroll of War
+
+Velious Era (added December 2000-2001)
+
+
+Iron Scroll of War
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+EXPENDABLE Charges: 2
+AC: 35
+WIS: +10  INT: +10  MANA: +50
+Effect:  Supernova (Must Equip, Casting Time: Instant)
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+Destroyed when out of charges. Sigh. 
+
+  Drops From 
+Kael Drakkel
+
+ The Statue of Rallos Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,504 @@
+ITEM NAME: Pearl
+
+Classic Era (added 1999-2000)
+
+Pearl
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Reagent for Call of the Hero, Death Pact, and Thicken Mana. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 4 Platinums
+ 3 Golds
+ 1 Silvers
+ 6 Coppers
+
+For your magician restocking needs, one stack of pearls costs 90p 7g with 117 cha from an amiable merchant. 
+
+  Drops From 
+Mistmoore Castle
+
+ a dark elf noble
+ a dark offerer
+ a dark ritualist
+ a dark sacrificer
+ a ghostly ancille
+ a glyphed forbidder
+ a Mistmoore guard
+ a negotiator
+ a shadowy sage
+ a shadowy scribe
+ a shadowy scrivener
+ a soul inveigling
+ a soul seductress
+ a soul temptress
+ a spectral ancille
+ a spiritish ancille
+ a thought defiler
+ a thought spoiler
+ a vampire noble
+ a vampire oracle
+ a vampiric ancille
+ a wightish ancille
+ Princess Cherista
+
+Clan Runnyeye
+
+ a goblin warlord
+
+ Crystal Caverns 
+
+  a Ry`Gorr miner 
+  a stalag terror 
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a dry bone skeleton
+ a lurking mummy
+ a skeletal monk
+ dark boned skeleton
+ Torklar Battlemaster
+
+Everfrost Peaks
+
+ an ice giant
+ Karg IceBear
+
+Beholder's Maze
+
+ an evil eye
+
+Greater Faydark
+
+ Guard Marshmoor
+
+Highpass Keep
+
+ Dyrna Nlith
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ zombie trooper
+
+Lake of Ill Omen
+
+ a goblin warrior
+ goblin warlord
+
+Lavastorm Mountains
+
+ a fire elemental
+
+Lesser Faydark
+
+ a faerie
+ a faerie guard
+ a fairy guard
+ Jayla Nybright
+ Thistle Underbrush
+
+Lower Guk
+
+ a deadly black widow
+
+Rathe Mountains
+
+ a hill giant
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+ imp protector
+
+Northern Karana
+
+ a griffon
+
+Northern Desert of Ro
+
+ a crypt mummy
+ a sand giant
+
+Southern Karana
+
+ The Ishva Mal
+
+Southern Desert of Ro
+
+ a desert madman
+ a spectre
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+ Stonebrunt Mountains 
+
+  An Elder Panda 
+
+Swamp of No Hope
+
+ froglok gaz knight
+ man eating plant
+ man eating vine
+
+ The Wakening Land 
+
+  a tar goo 
+
+ Thurgadin 
+
+  a crystal spider 
+
+Upper Guk
+
+ a fungus ancient
+ a large heart spider
+ a skeleton monk
+
+Warsliks Woods
+
+ a skulking brute
+ goblin spirit caller
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ Cabilis (East)
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ Cabilis (West)
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ Crystal Caverns
+
+ Gilliad Coldheart
+
+
+
+  (-176, 344)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ Freeport (East)
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ Freeport (North)
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Highpass Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ The Overthere
+
+ Finlay Kitoran
+
+
+
+  (2769, 2365)
+
+
+ The Overthere
+
+ Tin Merchant X
+
+
+
+  (2697, 2620)
+
+
+ The Overthere
+
+ Tin Merchant IV
+
+
+
+  (2614, 2557)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+  Related quests 
+ The Bones of Darak Lightforge
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silvered Pearl Ring (Trivial: 42)
+ Electrum Pearl Choker (Trivial: 108)
+ Golden Pearl Choker (Trivial: 180)
+ Platinum Pearl Ring (Trivial: 252)
+
+
+ Spell Research
+ Master Rune (Azia) (Trivial: 162)
+
+
+
+
+

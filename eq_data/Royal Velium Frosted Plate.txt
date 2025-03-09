@@ -1,0 +1,42 @@
+ITEM NAME: Royal Velium Frosted Plate
+
+Velious Era (added December 2000-2001)
+
+
+Royal Velium Frosted Plate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 32
+STR: +7  DEX: +5  STA: +5
+SV COLD: +10  SV MAGIC: +4
+WT: 11.5  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Icewell Keep
+
+ Royal Guardsman Braxis
+ Royal Guardsman Hauten
+ Royal Guardsman Horix
+ Royal Guardsman Nial
+ Royal Guardsman Raxine
+ Royal Guardsman Rhion
+ Watcher Devin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Bronze Yari
+
+Warrens Era (added spring 2001)
+
+Bronze Yari
+
+
+QUEST ITEM  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 32
+DMG: 5 
+WT: 8.0  Size: LARGE
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+ Merchant resale value: 3pp 
+
+  Drops From 
+The Warrens
+
+ a rabid kobold
+ other kobolds
+
+Oasis of Marr
+
+ A Deepwater Goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

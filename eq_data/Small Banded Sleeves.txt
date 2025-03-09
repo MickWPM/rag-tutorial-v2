@@ -1,0 +1,40 @@
+ITEM NAME: Small Banded Sleeves
+
+Were you looking for Banded Armor Set? Were you looking for Large Banded Armor Set?
+
+
+
+Small Banded Sleeves
+
+
+Slot: ARMS
+AC: 7
+WT: 2.6  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Banded Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 102)
+ Yield: Small Banded Sleeves x1
+ In Forge:
+
+
+  2 x Sheet Metal - Crafted, Bought
+  1 x Small Sleeves Sectional Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

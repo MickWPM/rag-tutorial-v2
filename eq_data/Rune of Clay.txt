@@ -1,0 +1,42 @@
+ITEM NAME: Rune of Clay
+
+
+
+Rune of Clay
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Rune of Clay (Top)
+ Item Lore (from Identify): Rune of Clay (Right)
+ Item Lore (from Identify): Rune of Clay (Left)
+ Item Lore (from Identify): Rune of Clay (Bottom)
+Note: Four different pieces. 
+
+  Drops From 
+Rathe Mountains
+
+ Findlegrob (Top)
+ Bindlegrob (Right)
+ Sindlegrob (Left)
+
+Ocean of Tears
+
+ A Goblin Headmaster (Bottom)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Clay Bracelet Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

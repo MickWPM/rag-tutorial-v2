@@ -1,0 +1,31 @@
+ITEM NAME: Testament of Vanear
+
+
+Testament of Vanear
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+WIS: +10  MANA: +10
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Every priest's best friend for life 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Testament of Vanear Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

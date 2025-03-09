@@ -1,0 +1,39 @@
+ITEM NAME: Power of the Orb
+
+
+
+Power of the Orb
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+
+
+Obtained from Rykas during the Mage epic. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest 
+
+  Book contents 
+An Elementalist's power comes from the Orb of Mastery. The Elements of Earth, Fire, Wind and Water are contained
+within the Orb. The Master of Elements holds the Orb.
+He can be found within the Plane of Air. No mortal has been able contain the true power of the Orb.
+Trilith Magi'kot presented himself to the Master of Elements and the Orb of Mastery. The power of
+elements brought agony to his mind and body. Magi'kot was not of Balance.
+Fire burned his eyes unto blindness, Wind put his mind into a spin, Earth entered his body and aged him like the
+mountains,and finally, Water washed his memories of mortal life away.
+Failing his test, the Orb exacted its terrible price, and now Magikot is part of the Orb.
+The bearer of this tome should seek out the Master of Fire and present it to
+him, for there is much left to be revealed.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

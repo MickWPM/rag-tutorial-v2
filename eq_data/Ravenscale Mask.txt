@@ -1,0 +1,37 @@
+ITEM NAME: Ravenscale Mask
+
+Epic Quests Era (added Sept 2000)
+
+Ravenscale Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 8
+CHA: +5
+SV POISON: +10
+Effect:  See Invisible (Worn)
+WT: 0.8  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Part of the Ravenscale Armor Set. 
+
+  Drops From 
+Steamfont Mountains
+
+ Renux Herkanor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Kejekan Tool Kit
+
+Warrens Era (added spring 2001)
+
+
+Kejekan Tool Kit
+
+
+WT: 5.0  Weight Reduction: 30%
+Capacity: 8  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+ Obtained by trading Taralani Rahnta 1000pp in Paineel.  See his page for loc.
+ Hand these, the Chronium Plate, Mandala sketch to Koajin to receive the Finished Tsuba.  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,60 @@
+ITEM NAME: Spell: Form of the Great Bear
+
+Velious Era (added December 2000-2001)
+
+
+Spell: Form of the Great Bear
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Alteration
+Mana Cost: 135
+Effect:  Form of the Great Bear
+WT: 0.1  Size: SMALL
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a feral amalgam
+
+Siren's Grotto
+
+ Fellspine
+
+Velketor's Labyrinth
+
+ a velium hunter
+ a velium stalker
+ Crystal Guardian
+ Icy Guardian
+
+Western Wastes
+
+ Glati
+ Icehackle
+ Ionat
+ Karkona
+ Mraaka
+ Neordla
+ Nintal
+ Tranala
+ Travala
+ Vitaela
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

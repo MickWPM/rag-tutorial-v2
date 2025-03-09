@@ -1,0 +1,36 @@
+ITEM NAME: Silver Moon Pants
+
+Velious Era (added December 2000-2001)
+Silver Moon Pants
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 6
+STA: +5  AGI: +5  HP: +30
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+Effect:  Spirit of Ox (Must Equip, Casting Time: 20.0)
+WT: 0.1  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+Part of the Silver Moon Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a sylvan protector
+ Galiel Spirithoof
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

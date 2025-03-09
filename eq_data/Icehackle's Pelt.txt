@@ -1,0 +1,36 @@
+ITEM NAME: Icehackle's Pelt
+
+Velious Era (added December 2000-2001)
+
+
+Icehackle's Pelt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 15
+CHA: +9  AGI: +3  HP: +34
+SV COLD: +5
+WT: 0.7  Size: MEDIUM
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Icehackle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

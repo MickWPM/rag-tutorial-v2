@@ -1,0 +1,35 @@
+ITEM NAME: Forest Stalker's Breastplate
+
+Velious Era (added December 2000-2001) Forest Stalker's Breastplate and Greaves
+
+
+Forest Stalker's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 48
+STR: +14  DEX: +7  STA: +7  WIS: +7  AGI: +7  HP: +50  MANA: +50
+SV COLD: +5  SV MAGIC: +7
+Effect: Call of Earth (Any Slot/Can Equip, Casting Time: 10.0) at Level 50
+WT: 8.0  Size: LARGE
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Kael Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

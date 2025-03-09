@@ -1,0 +1,36 @@
+ITEM NAME: Block of High Quality Ore
+
+
+Block of High Quality Ore
+
+
+WT: 18.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No longer drops as of 2/10/19 [1]. 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 55)
+ Yield: Block of High Quality Ore x1
+ In Forge:
+
+
+  3 x Large Brick of High Quality Ore - Crafted, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ High Quality Folded Sheet Metal (Trivial: 39)
+
+
+
+
+

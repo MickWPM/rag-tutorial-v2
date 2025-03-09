@@ -1,0 +1,71 @@
+ITEM NAME: Dwarf Pickles
+
+
+Dwarf Pickles
+
+
+QUEST ITEM
+STA: +1
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Freeport
+
+ Boomba the Big
+
+
+
+  (-24, -32)
+
+
+ Grobb
+
+ Wista
+
+
+
+  (131, -373)
+
+
+ Grobb
+
+ Zatok
+
+
+
+  (155, -280)
+
+
+ Oggok
+
+ Chef Dooga
+
+
+
+  (201, -243)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

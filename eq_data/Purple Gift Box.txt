@@ -1,0 +1,32 @@
+ITEM NAME: Purple Gift Box
+
+Velious Era (added December 2000-2001)
+
+
+Purple Gift Box
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+EXPENDABLE  Charges: 5
+Effect:  Open Purple Box (Any Slot, Casting Time: 1.0) as Level 45
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Effect summons a Mischievous Dazzler Doll for the Enchanter PoM class armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

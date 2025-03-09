@@ -1,0 +1,35 @@
+ITEM NAME: Mammoth Tusks
+
+
+
+Mammoth Tusks
+
+
+WT: 10.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+This item sells for about 10pp to vendors. 
+
+  Drops From 
+Everfrost Peaks
+
+ a wooly mammoth
+
+Southern Karana
+
+ a bull elephant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mammoth Tusks Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

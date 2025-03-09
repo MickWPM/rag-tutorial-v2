@@ -1,0 +1,35 @@
+ITEM NAME: Crimson Ring of Desinence
+
+Sky Era (added January 2000)
+
+
+Crimson Ring of Desinence
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+Charges: 2
+DEX: +3  WIS: +6
+SV DISEASE: +20
+Effect:  Feign Death (Must Equip, Casting Time: Instant) at Level 45
+WT: 2.0  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of The Snake
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

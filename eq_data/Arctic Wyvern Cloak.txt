@@ -1,0 +1,42 @@
+ITEM NAME: Arctic Wyvern Cloak
+
+Velious Era (added December 2000-2001)
+
+Arctic Wyvern Cloak
+
+
+MAGIC ITEM  QUEST ITEM
+Slot: BACK
+AC: 9
+STR: +5  STA: +8  CHA: +6  WIS: +8
+SV COLD: +8
+WT: 2.0  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Arctic Wyvern Cloak x1
+ In Coldain Tanners Kit:
+
+
+  1 x Arctic Wyvern Hide - Dropped
+  1 x Cloak Pattern - Bought
+  1 x Cod Oil - Crafted
+  4 x Velium Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

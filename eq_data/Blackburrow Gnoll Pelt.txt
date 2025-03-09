@@ -1,0 +1,52 @@
+ITEM NAME: Blackburrow Gnoll Pelt
+
+
+Blackburrow Gnoll Pelt
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a burly gnoll
+ a gnoll
+ a gnoll brewer
+ a gnoll commander
+ a gnoll guardsman
+ a gnoll pup
+ a gnoll scout
+ a gnoll shaman
+ a gnoll tactician
+ a patrolling gnoll
+ a scrawny gnoll
+ an elite gnoll guard
+ Refugee Splitpaw
+
+Lake Rathetear
+
+ a gnoll shaman
+
+Qeynos Hills
+
+ a gnoll avenger
+ a gnoll hunter
+ a gnoll watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Orange Headband
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

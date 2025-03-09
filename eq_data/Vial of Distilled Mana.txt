@@ -1,0 +1,33 @@
+ITEM NAME: Vial Of Distilled Mana
+
+
+
+Vial of Distilled Mana
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Summoned by Enchanters using the spell Distill Mana. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Fleeting Quiver (Trivial: 222)
+ Holgresh Fur Armor (Velious Tailoring) (Trivial: >235)
+
+
+
+
+

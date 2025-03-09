@@ -1,0 +1,33 @@
+ITEM NAME: Courier's Head
+
+Classic Era (added 1999-2000)
+
+
+Courier's Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+WT: 1.7  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Teir`Dal Operative 1 
+
+  Drops From 
+Qeynos Hills
+
+ erudite traveler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cold Iron
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

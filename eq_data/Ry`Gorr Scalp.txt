@@ -1,0 +1,34 @@
+ITEM NAME: Ry`Gorr Scalp
+
+Velious Era (added December 2000-2001)
+
+
+Ry`Gorr Scalp
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Vendors will not buy. 
+
+  Drops From 
+Eastern Wastes
+
+ a Ry`Gorr centurion
+ a Ry`Gorr prison guard
+ a Ry`Gorr snow trooper
+ Ry'Gorr Messenger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

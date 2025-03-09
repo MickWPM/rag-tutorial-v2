@@ -1,0 +1,36 @@
+ITEM NAME: Heavy Dragonhide Gauntlets
+
+Velious Era (added December 2000-2001)
+
+Heavy Dragonhide Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 13
+STR: +6
+SV FIRE: +10
+WT: 1.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Gangel
+ Klandicar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

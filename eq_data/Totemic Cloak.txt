@@ -1,0 +1,34 @@
+ITEM NAME: Totemic Cloak
+
+
+Totemic Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 10
+STA: +5
+WT: 3.0  Size: LARGE
+Class: SHM
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+Rathe Mountains
+
+ Oculys Ogrefiend
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

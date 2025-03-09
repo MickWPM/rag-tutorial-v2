@@ -1,0 +1,39 @@
+ITEM NAME: Sea Dragon Meat
+
+Velious Era (added December 2000-2001)
+
+Sea Dragon Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ Kelorek`Dar
+
+Temple of Veeshan
+
+ Lord Koi`Doken
+
+Timorous Deep
+
+ Faydedar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Saucy Salted Seadragon Steak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

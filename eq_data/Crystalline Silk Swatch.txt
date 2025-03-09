@@ -1,0 +1,47 @@
+ITEM NAME: Crystalline Silk Swatch
+
+
+Crystalline Silk Swatch
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Crystalline Silk Swatch x1
+ In: Sewing Kit
+
+
+  2 x Crystalline Silk
+
+
+  Tradeskill recipes 
+Crystalline Silk Armor
+
+ Crystalline Silk Cap
+ Crystalline Silk Cloak
+ Crystalline Silk Collar
+ Crystalline Silk Gloves
+ Crystalline Silk Mantle
+ Crystalline Silk Mask
+ Crystalline Silk Pantaloons
+ Crystalline Silk Sash
+ Crystalline Silk Shirt
+ Crystalline Silk Sleeves
+ Crystalline Silk Slippers
+ Crystalline Silk Wristbands
+
+
+
+

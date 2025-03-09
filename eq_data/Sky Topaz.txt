@@ -1,0 +1,36 @@
+ITEM NAME: Sky Topaz
+
+Sky Era (added January 2000)
+
+
+
+Sky Topaz
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul carrier
+ an essence carrier
+ an essence tamer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Meditation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

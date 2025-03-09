@@ -1,0 +1,30 @@
+ITEM NAME: Bloodforge Legplates
+
+
+Bloodforge Legplates
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 7
+WT: 7.0  Size: MEDIUM
+Class: WAR CLR PAL
+Race: DWF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ogre Heads
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

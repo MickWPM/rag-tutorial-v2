@@ -1,0 +1,38 @@
+ITEM NAME: Cloak of the Fire Storm
+
+Velious Era (added December 2000-2001)
+Cloak of the Fire Storm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 24
+STR: +15  DEX: +15  STA: +15  AGI: +15  HP: +100
+SV FIRE: +35
+Haste: +40%  
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Test of the Fire Storm
+ Poison Tear (from Dozekar the Cursed)
+ Serrated Tear (from Dozekar the Cursed)
+ Ruby Symbol (from Lepethida)
+ Flame Kissed Symbol (from Krigara or Ymmeln)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Juliah's Head
+
+Velious Era (added December 2000-2001)
+Juliah's Head
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Icewell Keep
+
+ Councilor Juliah Lockheart
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #9: Coldain Hero's Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

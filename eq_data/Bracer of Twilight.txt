@@ -1,0 +1,34 @@
+ITEM NAME: Bracer of Twilight
+
+Velious Era (added December 2000-2001)
+
+
+Bracer of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 18
+STR: +3  STA: +2  AGI: +5
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +5  SV POISON: +1
+WT: 3.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Skyshrine Bracers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

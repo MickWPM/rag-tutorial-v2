@@ -1,0 +1,40 @@
+ITEM NAME: Wolves Bane
+
+
+Wolves Bane
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Southern Karana
+
+ a hiding gnoll
+ a Nisch Mas Gnoll
+ a Rosch Val Gnoll
+ a Tesch Mas Gnoll
+
+Splitpaw
+
+ a Rosch Val Gnoll
+ a Rosch Mas Gnoll
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Monk's Hood Aconite (Trivial: 194)
+
+
+
+
+

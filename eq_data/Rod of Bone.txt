@@ -1,0 +1,35 @@
+ITEM NAME: Rod of Bone
+
+Temple Era (added October 1999)
+
+
+Rod of Bone
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+SV DISEASE: +1  SV MAGIC: +1
+WT: 0.5  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Lake Rathetear
+
+ a stone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Staff of Temperate Flux Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

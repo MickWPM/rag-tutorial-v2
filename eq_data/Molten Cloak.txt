@@ -1,0 +1,32 @@
+ITEM NAME: Molten Cloak
+
+
+Molten Cloak
+
+
+Slot: BACK
+AC: 4
+WIS: +4  INT: +4
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Solusek's Eye
+
+ Gabbie Mardoddle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

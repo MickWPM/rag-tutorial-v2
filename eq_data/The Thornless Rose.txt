@@ -1,0 +1,31 @@
+ITEM NAME: The Thornless Rose
+
+Classic Era (added 1999-2000)
+
+
+The Thornless Rose
+
+
+LORE ITEM  QUEST ITEM
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Aenia and Behroe 
+
+  Book contents 
+The Thornless Rose by Behroe Dlexon Oh beautiful thornless rose, growing in the briar patch. Oh glistening crimson rose, you would be such a catch. Oh beautiful thornless rose, your essence has no match. Oh glistening crimson rose, your love I must snatch.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

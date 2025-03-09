@@ -1,0 +1,35 @@
+ITEM NAME: Ropy Tendril
+
+Kunark Era (added 2000)
+
+Ropy Tendril
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 28
+DMG: 7 
+Effect:  Stun (Combat, Casting Time: Instant) at Level 40
+WT: 6.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify): Paralyzing feeler from an ebon lotus 
+
+  Drops From 
+Trakanon's Teeth
+
+ Ebon Lotus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

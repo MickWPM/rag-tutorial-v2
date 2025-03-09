@@ -1,0 +1,37 @@
+ITEM NAME: Golden Leaf Earring
+
+Velious Era (added December 2000-2001)
+
+
+Golden Leaf Earring
+
+
+LORE ITEM  NO DROP
+Slot: EAR
+AC: 10
+STR: +10  STA: +10  WIS: +15  HP: +80  MANA: +100
+SV FIRE: +12  SV DISEASE: +12  SV POISON: +12
+Effect: Flowing Thought III
+WT: 0.1  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ Tunare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

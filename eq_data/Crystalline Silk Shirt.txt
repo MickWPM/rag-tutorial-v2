@@ -1,0 +1,39 @@
+ITEM NAME: Crystalline Silk Shirt
+
+Velious Era (added December 2000-2001)
+
+Crystalline Silk Shirt
+
+
+Slot: CHEST
+AC: 7
+SV MAGIC: +4
+WT: 0.1  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Part of the Crystalline Silk Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 131)
+ Yield: Crystalline Silk Shirt x1
+ In: Deluxe Sewing Kit, Large Sewing Kit, Loom
+
+
+  1 x Tunic Pattern
+  1 x Silver Thread
+  3 x Crystalline Silk Swatch
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

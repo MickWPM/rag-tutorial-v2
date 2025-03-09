@@ -1,0 +1,35 @@
+ITEM NAME: Silver Disc
+
+Sky Era (added January 2000)
+
+
+
+Silver Disc
+
+
+LORE ITEM
+WT: 10.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ an azarack
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Metamorphism
+ Necromancer Test of Power
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

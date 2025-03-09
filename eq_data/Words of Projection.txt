@@ -1,0 +1,84 @@
+ITEM NAME: Words of Projection
+
+
+Words of Projection
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ a sarnak extremist
+
+City of Mist
+
+ a phantom
+
+Dreadlands
+
+ a drachnid recluse
+ a glacier yeti
+
+Eastern Wastes
+
+ a manticore
+ a Ry`Gorr legionaire
+
+Everfrost Peaks
+
+ an ice giant
+
+Karnor's Castle
+
+ a drolvarg sentry
+ decayed soldier
+
+Lower Guk
+
+ a zol ghoul knight
+ a dar ghoul knight
+
+Nagafen's Lair
+
+ sonic bat
+
+Ocean of Tears
+
+ a seafury cyclops
+
+Permafrost
+
+ a giant dire wolf
+
+The Feerrott
+
+ a spectre
+
+The Hole
+
+ an elemental warrior
+
+South Kaladim
+
+ Guard Gabbles
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research
+ Word of Souls (Trivial: 140) 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

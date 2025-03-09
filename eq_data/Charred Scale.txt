@@ -1,0 +1,31 @@
+ITEM NAME: Charred Scale
+
+Epic Quests Era (added Sept 2000)
+Charred Scale
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Remains of the Fist of Fire 
+
+  Drops From 
+Lavastorm Mountains
+
+ Eejag
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

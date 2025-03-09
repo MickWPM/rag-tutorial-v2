@@ -1,0 +1,34 @@
+ITEM NAME: A Sapphire
+
+Kunark Era (added 2000)
+
+
+A Sapphire
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is for the Iksar Warrior Warrior Pike Quests, not to be confused with Sapphire. 
+ Merchant resale value: 0cp 
+
+  Drops From 
+Kurn's Tower
+
+ thick boned skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

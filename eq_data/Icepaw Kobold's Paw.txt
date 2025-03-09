@@ -1,0 +1,51 @@
+ITEM NAME: Icepaw Kobold's Paw
+
+Velious Era (added December 2000-2001)
+
+
+Icepaw Kobold's Paw
+
+
+QUEST ITEM
+WT: 1.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 24p 7g (109 CHA, Ally Faction) 
+
+  Drops From 
+Velketor's Labyrinth
+
+ An Icepaw Champion
+ an Icepaw cleric
+ an Icepaw kobold
+ an Icepaw kobold priest
+ an Icepaw kobold warrior
+ an Icepaw prophet
+ Errkak Icepaw
+ Gregendek Icepaw
+ Icepaw kobold
+ Jelek Icepaw
+ Kalik Icepaw
+ Khelkar Icepaw
+ Laryk Icepaw
+ Marlek Icepaw
+ Rowwek Icepaw
+ Tpos Icepaw
+ Ular Icepaw
+ Venar Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bvellos' Bounty
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

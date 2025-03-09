@@ -1,0 +1,36 @@
+ITEM NAME: Woven Grass Chestguard
+
+Velious Era (added December 2000-2001)
+ Figgan the Heirophant modeling Woven Grass Chestguard.
+Woven Grass Chestguard
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 20
+STR: +5  STA: +7  WIS: +14  HP: +50  MANA: +80
+SV FIRE: +9  SV MAGIC: +9  SV POISON: +9
+Effect: Regrowth of the Grove (Must Equip, Casting Time: 9.0)
+Confirmed click effect works on a level 9 Druid
+(Most likely level 1)
+WT: 3.5  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Skyshrine Tunic
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

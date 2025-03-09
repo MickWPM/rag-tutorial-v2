@@ -1,0 +1,84 @@
+ITEM NAME: Combine Dagger
+
+
+Combine Dagger
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 3 
+WT: 2.4  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+Price 31 plat - Lavastorm Mountains from Cyspeth 
+
+  Drops From 
+Everfrost Peaks
+
+ Dark Assassin
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Vyx
+
+
+
+  (-427, -215)
+
+
+ Northern Karana
+
+ Roule
+
+
+
+  (-645, -221)
+
+
+ Oasis of Marr
+
+ Transan
+
+
+
+  (613, 51)
+
+
+ Rathe Mountains
+
+ Tarikh Korula
+
+
+
+  (3974, 1422)
+
+
+ Southern Desert of Ro
+
+ Smith Tv`ysa
+
+
+
+  (93, 487)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

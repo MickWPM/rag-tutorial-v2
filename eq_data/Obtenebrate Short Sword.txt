@@ -1,0 +1,36 @@
+ITEM NAME: Obtenebrate Short Sword
+
+Kunark Era (added 2000)
+
+ Obtenebrate Short Sword in Offhand (Blue Server)
+Obtenebrate Short Sword
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 11 
+Effect:  Dooming Darkness (Combat, Casting Time: Instant) at Level 50
+WT: 4.5  Size: MEDIUM
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones (Charasis)
+
+ A Howling Spectre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

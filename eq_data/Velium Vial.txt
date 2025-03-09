@@ -1,0 +1,41 @@
+ITEM NAME: Velium Vial
+
+Velious Era (added December 2000-2001)
+
+
+Velium Vial
+
+
+NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Misspelled as Veluim Vial to be intentionally Classic. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #4: Fur-Lined Coldain Prayer Shawl
+
+  Player crafted 
+ Pottery (Trivial: 122)
+ Yield: Velium Vial x1
+ In Kiln:
+
+
+  1 x High Quality Firing Sheet - Bought
+  1 x Unfired Velium Vial - Crafted 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill
+ Vial of Velium Vapors (No-Fail?)
+
+
+
+
+

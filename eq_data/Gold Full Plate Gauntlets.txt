@@ -1,0 +1,42 @@
+ITEM NAME: Gold Full Plate Gauntlets
+
+
+
+Gold Full Plate Gauntlets
+
+
+Slot: HANDS
+AC: 14
+WT: 5.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: HUM BAR ERU HEF
+
+
+Part of the human cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 211)
+ Yield: Gold Full Plate Gauntlets x1
+ In Antonican Forge:
+
+
+  1 x Chain Jointing - Crafted
+  1 x Full Plate Gauntlet Mold - Bought
+  1 x Gold Bar - Bought
+  2 x High Quality Folded Sheet Metal - Crafted
+  1 x Leather Padding - Crafted
+  1 x Royal Temper - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

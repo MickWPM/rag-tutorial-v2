@@ -1,0 +1,89 @@
+ITEM NAME: Two Handed Battle Axe
+
+
+Two Handed Battle Axe
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 44
+DMG: 12 
+WT: 13.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Freeport
+
+ Rhensa Steadirt
+
+
+
+  (-10, 534)
+
+
+ North Freeport
+
+ Ardiflah Steadirt
+
+
+
+  (-27, 482)
+
+
+ Halas
+
+ Kevan McPherson
+
+
+
+  (210, -324)
+
+
+ Oggok
+
+ Varrok Neckchopper
+
+
+
+  (324, -212)
+
+
+ North Kaladim
+
+ Murlond Everhot
+
+
+
+  (367, -173)
+
+
+ Paineel
+
+ Dilche Orlezcha
+
+
+
+  (900, 470)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

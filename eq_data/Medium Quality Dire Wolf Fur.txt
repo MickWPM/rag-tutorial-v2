@@ -1,0 +1,49 @@
+ITEM NAME: Medium Quality Dire Wolf Fur
+
+Velious Era (added December 2000-2001)
+
+Medium Quality Dire Wolf Fur
+
+
+MAGIC ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 2 Golds
+ 4 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Eastern Wastes
+
+ a dire wolf
+ a savage dire wolf
+
+Great Divide
+
+ a drakkel dire wolf
+
+Iceclad Ocean
+
+ a dire wolf
+ Garou
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Direwolf Fur Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

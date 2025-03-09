@@ -1,0 +1,38 @@
+ITEM NAME: Shattered Choppers
+
+Kunark Era (added 2000)
+
+
+Shattered Choppers
+
+
+NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known classic use. 
+
+  Drops From 
+Frontier Mountains
+
+ a mangy brute
+ Boogoog
+
+Warsliks Woods
+
+ a pygmy skulking brute
+ a skulking brutling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

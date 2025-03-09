@@ -1,0 +1,79 @@
+ITEM NAME: Rain Water
+
+
+Rain Water
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1g 4s 
+
+  Drops From 
+Blackburrow
+
+ a gnoll
+ Splitpaw Commander
+
+Eastern Plains of Karana
+
+ a gnoll reaver
+ Chief Sanre`Rexsa
+ Hukex Mucktail
+
+Highpass Hold
+
+ a gnoll
+ a gnoll brawler
+ a gnoll shaman
+
+Iceclad Ocean
+
+ Errgriz
+
+Lake Rathetear
+
+ a gnoll high shaman
+ a gnoll shaman
+
+Southern Karana
+
+ a Rosch Val Gnoll
+ a Tesch Mas Gnoll
+ a Tesch Val Gnoll
+ an Ishva Lteth gnoll
+ Brother Drash
+
+Western Plains of Karana
+
+ Furball Miller
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Royal Temper (Trivial: 135)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Blackburrow
+ Eastern Plains of Karana
+ Highpass Hold
+ Lake Rathetear
+ Qeynos Hills
+ Southern Karana
+ Western Plains of Karana
+
+

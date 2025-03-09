@@ -1,0 +1,47 @@
+ITEM NAME: Conch Shell Horn
+
+Velious Era (added December 2000-2001)
+
+
+
+Conch Shell Horn
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+Brass Instruments: 21
+WT: 4.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ A Siren Enchantress
+ a siren enticer
+ a siren seductress
+
+Siren's Grotto
+
+ a siren beguiler
+ a siren enchantress
+ a siren enticer
+ a siren myrmidon
+ a siren sorceress
+ a siren templar
+ a neriad mistress
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

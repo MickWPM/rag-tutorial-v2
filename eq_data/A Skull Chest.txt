@@ -1,0 +1,29 @@
+ITEM NAME: A Skull Chest
+
+
+
+A Skull Chest
+
+
+LORE ITEM  NO TRADE
+WT: 1.5  Weight Reduction: 0%
+Capacity: 6  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest #3
+ Shaman Skull Quest #4
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Words of Radiance
+
+
+Words of Radiance
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 5 Golds
+ 9 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Lower Guk
+
+ a zol ghoul knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Word of Shadow (Trivial: 41)
+
+
+
+
+

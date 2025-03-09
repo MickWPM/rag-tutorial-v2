@@ -1,0 +1,43 @@
+ITEM NAME: Ogre Imbued Splint Belt (Rallos Zek)
+
+
+
+Ogre Imbued Splint Belt
+
+
+Slot: WAIST
+AC: 8
+STR: +3
+WT: 4.0  Size: SMALL
+Class: WAR SHD SHM
+Race: HUM BAR HEF TRL OGR
+Deity: Rallos Zek
+
+
+Part of the ogre cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 148)
+ Yield: Ogre Imbued Splint Belt x1
+ In Oggok Forge:
+
+
+  1 x Blood Temper - Crafted
+  1 x Imbued Jade - Summoned
+  1 x Large Chainmail Skirt Pattern - Bought
+  1 x Large Leather Belt - Crafted, Bought
+  2 x Sheet of Adamantite - Crafted, Bought
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

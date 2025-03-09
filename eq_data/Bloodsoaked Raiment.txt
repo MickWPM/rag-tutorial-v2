@@ -1,0 +1,33 @@
+ITEM NAME: Bloodsoaked Raiment
+
+Sky Era (added January 2000)
+
+
+Bloodsoaked Raiment
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 4
+DEX: +3  INT: +5  HP: +30  MANA: +65
+WT: 0.3  Size: SMALL
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Test of The Mind
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

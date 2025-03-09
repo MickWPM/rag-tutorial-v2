@@ -1,0 +1,35 @@
+ITEM NAME: Efreeti Long Sword
+
+Sky Era (added January 2000)
+
+Efreeti Long Sword
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 28
+DMG: 11 
+WT: 0.1  Size: SMALL
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of The Blade
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

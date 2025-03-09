@@ -1,0 +1,45 @@
+ITEM NAME: Gleaming Crystal Scepter
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Gleaming Crystal Scepter
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+MANA: +10
+SV MAGIC: +5
+WT: 2.0  Size: MEDIUM
+Class: WIZ MAG ENC
+Race: ALL
+Deity: Karana
+
+
+
+
+  Drops From 
+The Hole
+
+ Urwenae the Cold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

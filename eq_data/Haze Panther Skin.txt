@@ -1,0 +1,44 @@
+ITEM NAME: Haze Panther Skin
+
+Velious Era (added December 2000-2001)
+
+Haze Panther Skin
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Wakening Lands
+
+ A haze panther
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+  Tailoring 
+ Haze Panther Tunic Trivial 335
+ Haze Panther Leggings Trivial 335
+ Haze Panther Skullcap Trivial 335
+ Haze Panther Cloak Trivial 335
+ Haze Panther Wristbands Trivial 335
+ Haze Panther Mask Trivial 335
+ Haze Panther Gloves Trivial 335
+ Haze Panther Shoulderpads Trivial 335
+ Haze Panther Belt Trivial 335
+ Haze Panther Sleeves Trivial 335
+ Haze Panther Boots Trivial 335
+Various other combines.
+
+
+
+
+

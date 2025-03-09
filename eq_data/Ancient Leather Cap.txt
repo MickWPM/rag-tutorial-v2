@@ -1,0 +1,34 @@
+ITEM NAME: Ancient Leather Cap
+
+Velious Era (added December 2000-2001)
+
+Ancient Leather Cap
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+WT: 1.5  Size: TINY
+Class: DRU MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ West Wing mobs?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Kael Cap
+ Druid Kael Cap
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

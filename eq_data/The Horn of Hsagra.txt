@@ -1,0 +1,40 @@
+ITEM NAME: The Horn of Hsagra
+
+Velious Era (added December 2000-2001)
+
+
+
+ The Horn of Hsagra held in the offhand.
+The Horn of Hsagra
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 20
+DMG: 13   AC: 35
+STA: +10  HP: +75
+SV COLD: +25
+WT: 0.1  Size: TINY
+Class: WAR RNG SHD ROG
+Race: ALL
+
+
+Post-upgrade stats above (current on p99).
+The best tradable rogue weapon in the game. 
+
+  Drops From 
+Kael Drakkel
+
+ King Tormax
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

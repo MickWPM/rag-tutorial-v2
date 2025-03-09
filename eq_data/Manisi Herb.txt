@@ -1,0 +1,37 @@
+ITEM NAME: Manisi Herb
+
+Epic Quests Era (added Sept 2000)
+
+
+Manisi Herb
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Manisi Herb 
+
+  Drops From 
+Chardok (Pre-Revamp)
+
+ Royal Sarnak Herbalist?
+
+Chardok (Post-Revamp)
+
+ Grand Herbalist Mak`ha
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

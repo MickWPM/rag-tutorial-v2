@@ -1,0 +1,80 @@
+ITEM NAME: Low Quality Cat Pelt
+
+Classic Era (added 1999-2000)
+
+Low Quality Cat Pelt
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Commonlands
+
+ a puma
+ a young plains cat
+
+Eastern Plains of Karana
+
+ a lion
+ a lioness
+
+Northern Desert of Ro
+
+ a puma
+
+Southern Karana
+
+ a lion
+ a lioness
+
+Southern Desert of Ro
+
+ a puma
+
+Steamfont Mountains
+
+ a mountain lion
+ a small mountain lion
+
+Stonebrunt Mountains
+
+ A Feral Leopard
+ a highland tiger
+ A Highland Tigress
+ A Kejek Leopardess
+ Merow
+ Spowry
+
+Lake of Ill Omen
+
+ a sabertooth cub
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Low Quality Cat Pelt x1
+ In Sewing Kit:
+
+
+  1 x Medium Quality Cat Pelt - Crafted, Quested, Dropped
+  1 x Skinning Knife - Crafted 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Ruined Cat Pelt (Trivial: 15)
+ Leather Padding (Trivial: 31)
+
+
+
+
+

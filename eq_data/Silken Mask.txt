@@ -1,0 +1,36 @@
+ITEM NAME: Silken Mask
+
+Sky Era (added January 2000)
+
+
+Silken Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 2
+DEX: +3  AGI: +3
+WT: 5.0  Size: MEDIUM
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Deception
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

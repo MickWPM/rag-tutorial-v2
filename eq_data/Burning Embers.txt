@@ -1,0 +1,37 @@
+ITEM NAME: Burning Embers
+
+Epic Quests Era (added Sept 2000)
+
+
+Burning Embers
+
+
+NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Burning Woods
+
+ Gylton
+ Nezekezena
+ Phurzikon
+
+The Burning Embers are a light source and will make the wurm glow if it has them.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

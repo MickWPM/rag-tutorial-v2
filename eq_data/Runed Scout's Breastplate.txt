@@ -1,0 +1,35 @@
+ITEM NAME: Runed Scout's Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Runed Scout's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 37
+STR: +6  DEX: +6  STA: +6  WIS: +14  AGI: +6  HP: +40  MANA: +60
+SV MAGIC: +7  SV POISON: +3
+Effect:  Call of Earth (Must Equip, Casting Time: 10.0)
+WT: 8.0  Size: LARGE
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Velium Tunic
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

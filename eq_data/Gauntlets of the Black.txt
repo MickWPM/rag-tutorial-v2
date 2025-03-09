@@ -1,0 +1,35 @@
+ITEM NAME: Gauntlets of the Black
+
+Velious Era (added December 2000-2001)
+
+Gauntlets of the Black
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 15
+STR: +4  WIS: +3
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+ Merchant resale value: 18.8p 
+
+  Drops From 
+Eastern Wastes
+
+ Firbrand the Black
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

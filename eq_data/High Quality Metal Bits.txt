@@ -1,0 +1,38 @@
+ITEM NAME: High Quality Metal Bits
+
+
+
+High Quality Metal Bits
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used exclusively for halfling cultural smithing. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 20)
+ Yield: High Quality Metal Bits x1
+ In Forge:
+
+
+  2 x Small Piece of High Quality Ore - Crafted
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Vale Sewing Kit (Trivial: 162)
+
+
+
+
+

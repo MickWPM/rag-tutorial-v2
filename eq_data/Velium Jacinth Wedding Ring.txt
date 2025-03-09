@@ -1,0 +1,37 @@
+ITEM NAME: Velium Jacinth Wedding Ring
+
+Velious Era (added December 2000-2001)
+
+Velium Jacinth Wedding Ring
+
+
+Slot: FINGER
+SV MAGIC: +14
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 284)
+ Velium Jacinth Wedding Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Velium Bar - Bought
+  1 x Jacinth - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

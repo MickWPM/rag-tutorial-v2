@@ -1,0 +1,29 @@
+ITEM NAME: Mountain Lion Cape
+
+
+Mountain Lion Cape
+
+
+Slot: BACK
+AC: 5
+WT: 3.0  Size: LARGE
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sir Morgan's Armor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

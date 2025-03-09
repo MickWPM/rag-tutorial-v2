@@ -1,0 +1,117 @@
+ITEM NAME: Unadorned Plate Helmet
+
+Velious Era (added December 2000-2001)
+
+Unadorned Plate Helmet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+WT: 5.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+(ToV East mobs)
+
+ an ancient guardian wurm
+ an ancient tigerclaw racnar
+ an elder shard wyvern
+ a burning guardian
+ a fiery drake
+ a greater sky drake
+ an ancient frost guardian
+ an ancient shard wyvern
+ a raging wyvern
+ a vehement wyvern
+ a shimmer drake
+ a racnar
+ an emerald watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Related quests 
+Bard Skyshrine Helm (Helm of TwilightHelm of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 22
+DEX: +5  STA: +5  CHA: +5  HP: +45
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 5.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+)
+Cleric Skyshrine Helm (Akkirus' Crown of the RisenAkkirus' Crown of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 22
+STR: +3  STA: +2  WIS: +6  HP: +30  MANA: +35
+SV DISEASE: +3  SV COLD: +3  SV MAGIC: +4
+WT: 5.5  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+)
+Paladin Skyshrine Helm (Scaled Knight's HelmScaled Knight's Helm
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 22
+STR: +3  STA: +6  WIS: +6  HP: +30
+SV COLD: +5  SV MAGIC: +5
+WT: 5.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+)
+Shadowknight Skyshrine Helm (Blood Lord's CrownBlood Lord's Crown
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 22
+STR: +6  DEX: +3  STA: +6  MANA: +40
+SV COLD: +4  SV MAGIC: +4
+WT: 5.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+)
+Warrior Skyshrine Helm (Crown of the MyrmidonCrown of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 27
+STR: +3  DEX: +12  STA: +2  HP: +35
+SV COLD: +5
+WT: 9.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+)
+
+

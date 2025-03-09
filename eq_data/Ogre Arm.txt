@@ -1,0 +1,33 @@
+ITEM NAME: Ogre Arm
+
+Classic Era (added 1999-2000)
+
+
+Ogre Arm
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Nork's Arm 
+
+  Drops From 
+Innothule Swamp
+
+ a fat alligator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crude Stein Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

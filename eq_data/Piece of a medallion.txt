@@ -1,0 +1,56 @@
+ITEM NAME: Piece of a medallion
+
+Hole Era (added June 2000)
+
+
+Piece of a medallion
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are nine identically named items. The top, middle, and bottom portions of the three Medallions for the Rune of Scale Quest.
+Medallions can be "Identified" to differentiate between them.   
+(Jarsath: Top) is a ground spawn in the Swamp of No Hope at 52, 2935, -6.
+(Kylong: Bottom) is a group spawn on 2nd floor in the library in Kaesora. 55, -439. Respawn is 8 hours.
+Due to a known bug, ground spawns might not be visible until the zone is reloaded. [1] 
+
+  Drops From 
+Dreadlands
+
+ rotting skeleton (Obulus: Top)
+
+Firiona Vie
+
+ an ancient Jarsath (Jarsath: Middle)
+
+Karnor's Castle
+
+ Verix Kyloxs Remains (Kylong: Middle)
+
+Lake of Ill Omen
+
+ a bloodgill marauder (Jarsath: Bottom)
+
+Trakanon's Teeth
+
+ Pained Soul (Obulus: Bottom)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rune of Scale Quest
+ Burnished Wooden Staff Quest (Obulus: Middle)
+ Niblek's Gems (Kylong: Top)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

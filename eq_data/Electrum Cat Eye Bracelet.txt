@@ -1,0 +1,36 @@
+ITEM NAME: Electrum Cat Eye Bracelet
+
+
+Electrum Cat Eye Bracelet
+
+
+Slot: WRIST
+CHA: +4
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 84)
+ Electrum Cat Eye Bracelet x1
+ In Jeweler's Kit:
+
+
+  1 x Electrum Bar - Bought
+  1 x Cat's Eye Agate - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

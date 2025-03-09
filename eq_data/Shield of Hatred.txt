@@ -1,0 +1,44 @@
+ITEM NAME: Shield of Hatred
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+ NERF ALERT (see notes)
+
+
+Shield of Hatred
+
+
+MAGIC ITEM NODROP
+Slot: SECONDARY
+AC: 25
+STR: +7 CHA: -25 WIS: +5
+SV FIRE: +15 SV DISEASE: -20 SV MAGIC: +15
+Effect: Regeneration
+WT: 8.0 Size: LARGE
+Class: WAR CLR PAL SHD ROG SHM
+Race: DEF TRL OGR
+
+
+ Item Lore (from Identify): Laarthik's Ribcage Possibly a GM Event item? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

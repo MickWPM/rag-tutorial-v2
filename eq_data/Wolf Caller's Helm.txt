@@ -1,0 +1,34 @@
+ITEM NAME: Wolf Caller's Helm
+
+Velious Era (added December 2000-2001)
+
+
+Wolf Caller's Helm
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 19
+STR: +6  WIS: +7  MANA: +25
+SV MAGIC: +4
+WT: 5.0  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skyshrine Coif
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Scepter
+
+
+
+Scepter
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+Note: There are two identically named (a?) "scepter"s: sorrow and tears. 
+
+  Drops From 
+Lower Guk
+
+ Ground Spawn (of Tears) pos 1648 neg 475
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowbound Armor Quests
+ Solusek's Flower (of Sorrow)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

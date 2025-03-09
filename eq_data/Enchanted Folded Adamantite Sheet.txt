@@ -1,0 +1,47 @@
+ITEM NAME: Enchanted Folded Adamantite Sheet
+
+
+
+Enchanted Folded Adamantite Sheet
+
+
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 39)
+ Yield: Enchanted Folded Adamantite Sheet x1
+ In Teir`dal Forge:
+
+
+  1 x Enchanted Block of Adamantite - Crafted
+  1 x Neriak Nectar - Bought, Quested
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success
+
+
+ In Oggok Forge:
+
+
+  1 x Enchanted Block of Adamantite - Crafted
+  1 x Ogre Swill - Bought, Quested
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Various Dark Elf and Ogre Cultural Recipes
+
+
+
+
+

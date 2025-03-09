@@ -1,0 +1,59 @@
+ITEM NAME: Celestial Solvent
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Celestial Solvent
+
+
+WT: 0.1  Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Crystal Caverns
+
+ Gilliad Coldheart
+
+
+
+  (-176, 344)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

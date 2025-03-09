@@ -1,0 +1,70 @@
+ITEM NAME: Rusty Dagger
+
+Classic Era (added 1999-2000)
+
+Rusty Dagger
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 24
+DMG: 3 
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+EFP merchants perhaps non-classic? 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 2 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Common drop from low-level humanoids
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Harg Tonicka
+
+
+
+  (-41, -493)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86, -457)
+
+  Related quests 
+ Tunare Scouts Dagger
+ Black Wolf Skin
+ Runnyeye Warbeads (Kaladim Rogue)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Tarnished Dagger (Trivial: 18)
+
+
+
+
+

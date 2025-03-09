@@ -1,0 +1,218 @@
+ITEM NAME: Silver Bar
+
+
+
+Silver Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Vendors sell this for approximately 5g3s 
+
+  Drops From 
+Beholder's Maze
+
+ a muddite elder
+ a muddite minor
+ a muddite recordkeeper
+ Qlei
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Freeport
+
+ Amber (NPC)
+
+
+
+  (-184, 202)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ Felwithe
+
+ Merchant Nora
+
+
+
+  (144, -414)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ Neriak Commons
+
+ Zartox Ru`Soe
+
+
+
+  (82, -901)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+  In Fortunes' Fancy
+
+  (1092, 722)
+
+
+ North Qeynos
+
+ Ziska Ironforge
+
+
+
+  (52, 60)
+
+
+ Skyshrine
+
+ Barkeep Droz
+
+
+
+  (492, -654)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ Werewolf Hunters
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Need Info
+
+
+ Jewelcrafting
+ Silver Malachite Ring (Trivial: 17)
+ Silver Turquoise Bracelet   (Trivial: 20)
+ Silver Lapis Lazuli Necklace (Trivial: 21)
+ Silver Hematite Ring (Trivial: 22)
+ Silver Cat Eye Necklace (Trivial: 24)
+ Silver Bloodstone Earring (Trivial: 26)
+ Silver Onyx Bracelet (Trivial: 28)
+ Silver Jasper Ring (Trivial: 30)
+ Silver Carnelian Wedding Ring (Trivial: 32)
+ Silver Rose Engagement Ring (Trivial: 34)
+ Silver Amber Ring (Trivial: 35)
+ Silver Wolf's Eye Necklace (Trivial: 38)
+ Jaded Silver Ring (Trivial: 40)
+ Silvered Pearl Ring (Trivial: 42)
+ Topaz Silver Necklace (Trivial: 44)
+ Silvered Peridot Ring (Trivial: 46)
+ Silver Emerald Ring (Trivial: 48)
+ Silver Opal Engagement Ring (Trivial: 50)
+ Blackened Pearl Silver Ring (Trivial: 52)
+ Silver Fire Wedding Ring (Trivial: 54)
+ Silvered Star Ruby Veil  (Trivial: 56)
+ Silvered Fire Emerald Ring (Trivial: 58)
+ Silvered Sapphire Necklace (Trivial: 60)
+ Silver Ruby Veil (Trivial: 63)
+ Silver Jacinth Wedding Ring (Trivial: 66)
+ Black Sapphire Silvered Necklace (Trivial: 68)
+ Silver Diamond Wedding Ring (Trivial: 71)
+ Silver Blue Diamond Ring (Trivial: 75)
+
+
+
+
+

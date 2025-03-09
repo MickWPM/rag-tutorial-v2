@@ -1,0 +1,38 @@
+ITEM NAME: Desert Tarantula Chitin
+
+
+Desert Tarantula Chitin
+
+
+QUEST ITEM
+STR: -2  DEX: -2
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Northern Desert of Ro
+
+ a desert tarantula
+ a dune tarantula
+
+Southern Desert of Ro
+
+ a desert tarantula
+ a dune tarantula
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yellow Sash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

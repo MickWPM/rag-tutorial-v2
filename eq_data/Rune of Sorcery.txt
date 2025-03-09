@@ -1,0 +1,93 @@
+ITEM NAME: Rune of Sorcery
+
+Classic Era (added 1999-2000)
+
+Rune of Sorcery
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 1 Platinums
+ 2 Golds
+ 4 Silvers
+ 7 Coppers
+
+This item is sold in stacks of 20 by Crisyn in Steamfont at the Druid Ring. 
+
+  Drops From 
+Butcherblock Mountains
+
+ Gann Dunbull
+
+Mistmoore Castle
+
+ a deathly harbinger
+ a leering gargoyle
+ a shadowy sage
+ a will ravisher
+
+City of Mist
+
+ a haze golem
+
+Crystal Caverns
+
+ a stalag terror
+
+Dreadlands
+
+ a plaguebone thief
+ a tundra yeti
+
+Eastern Wastes
+
+ a wooly mammoth
+ a wooly rhino
+
+Firiona Vie
+
+ a drolvarg snarler
+
+Frontier Mountains
+
+ a goblin slavedriver
+
+Great Divide
+
+ a frost giant scout
+
+Kaesora
+
+ strathbone healer
+
+Lower Guk
+
+ an urd ghoul wizard
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+ Minotaur Guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

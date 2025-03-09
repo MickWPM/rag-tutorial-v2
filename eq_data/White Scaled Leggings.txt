@@ -1,0 +1,38 @@
+ITEM NAME: White Scaled Leggings
+
+Velious Era (added December 2000-2001)
+
+White Scaled Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 5
+INT: +2
+WT: 3.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 9.4p 
+
+  Drops From 
+Great Divide
+
+ a crystaline shardwurm
+ a young shardwurm
+ an ancient shardwurm
+ an elder shardwurm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

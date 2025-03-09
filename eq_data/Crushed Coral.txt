@@ -1,0 +1,57 @@
+ITEM NAME: Crushed Coral
+
+Velious Era (added December 2000-2001)
+
+Crushed Coral
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Melee Helm Gem 
+ Merchant resale value: 24p 7g 
+
+  Drops From 
+Cobalt Scar
+
+ a haunted seachest
+ a siren enchantress
+ A wyvern (Cobalt Scar)
+
+Icewell Keep
+
+ an avalanche golem
+ Frosticube
+
+Siren's Grotto
+
+ an enthralled molkor
+ an enthralled ulthork
+
+The Wakening Land
+
+ a suit of sentient armor
+ A Faerie Dragon
+
+Velketor's Labyrinth
+
+ a crystalline gargoyle
+ a crystalline watcher
+ an Icepaw kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velious Class Armor
+ Melee Helm  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

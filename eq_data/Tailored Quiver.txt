@@ -1,0 +1,33 @@
+ITEM NAME: Tailored Quiver
+
+
+Tailored Quiver
+
+
+WT: 0.4  Weight Reduction: 22%
+Capacity: 6  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 115)
+ Yield: Tailored Quiver x1
+ In Loom:
+
+
+  1 x High Quality Cat Pelt - Dropped
+  1 x Quiver Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

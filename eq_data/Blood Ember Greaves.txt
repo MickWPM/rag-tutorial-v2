@@ -1,0 +1,34 @@
+ITEM NAME: Blood Ember Greaves
+
+
+Blood Ember Greaves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 26
+STR: +7  INT: +7  HP: +25
+Effect:  Feign Death (Must Equip, Casting Time: 3.0) at Level 45
+WT: 7.5  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+Part of the Blood Ember Armor set. 
+
+  Drops From 
+Karnor's Castle
+
+ Venril Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

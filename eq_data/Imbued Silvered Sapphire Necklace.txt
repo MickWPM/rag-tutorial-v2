@@ -1,0 +1,38 @@
+ITEM NAME: Imbued Silvered Sapphire Necklace
+
+
+
+Imbued Silvered Sapphire Necklace
+
+
+Slot: NECK
+STR: +3  DEX: +2  INT: +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Innoruuk
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Silvered Sapphire Necklace x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Silver Bar - Summoned
+  1 x Imbued Sapphire - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

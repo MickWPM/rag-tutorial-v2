@@ -1,0 +1,34 @@
+ITEM NAME: Cracked Paineel Shield
+
+
+ 
+Cracked Paineel Shield
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+AC: 2
+WT: 2.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Powerful fashion quest for monks as the shield displays a cool skull. 
+
+  Drops From 
+The Hole
+
+ a revenant
+ a wanderer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

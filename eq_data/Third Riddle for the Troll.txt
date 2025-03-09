@@ -1,0 +1,34 @@
+ITEM NAME: Third Riddle for the Troll
+
+
+
+Third Riddle for the Troll
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+West Commonlands
+
+ a willowisp
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+You have done well, you have done right, the 
+potions are almost within your sight. In a place 
+not to far, where the dead live again, is the place 
+you must seek for a fellow named...
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Stoneleer Emerald Plume
+
+
+
+Stoneleer Emerald Plume
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Overthere
+
+ a stoneleer cockatrice
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Entalon's Quest
+ Shaman Skull Quest No. 6
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

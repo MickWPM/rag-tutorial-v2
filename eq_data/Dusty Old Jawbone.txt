@@ -1,0 +1,34 @@
+ITEM NAME: Dusty Old Jawbone
+
+
+
+Dusty Old Jawbone
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore' (from Identify):  'Jaw of Darak LightforgeGround spawn at +4537, -5234 in Everfrost Peaks.  Seems to have a long respawn timer. 
+
+  Drops From 
+Everfrost Peaks
+
+ Ground Spawn
+ (+4537, -5234) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bones of Darak Lightforge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

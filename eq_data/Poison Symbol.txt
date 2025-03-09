@@ -1,0 +1,91 @@
+ITEM NAME: Poison Symbol
+
+Velious Era (added December 2000-2001)
+Poison Symbol
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Casalen
+ Tavekalem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The First Arcane Test -- White Dragon StatueWhite Dragon Statue
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+AC: 15
+STA: +15  INT: +15  HP: +50  MANA: +100
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+Effect: Flowing Thought I (Worn)  
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Poison Tear
+ Poison Symbol (from Casalen or Tavekalem)
+ Runed Symbol (from Grozzmel or Midayor)
+ Serrated Symbol (from Lepethida)
+
+ Test of the Emerald Tear -- Buckler of InsightBuckler of Insight
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+AC: 45
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +12  INT: +12  AGI: +5  HP: +75  MANA: +75
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Flowing Thought I (Worn)  
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Emerald Tear
+ Flame Kissed Symbol (from Krigara or Ymmeln)
+ Poison Symbol (from Casalen or Tavekalem)
+ Emerald Symbol (from Grozzmel or Midayor)
+
+ Test of the Living Flame -- Earring of the Living FlameEarring of the Living Flame
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 20
+STR: +15  STA: +10
+SV FIRE: +20
+Effect:  Truesight (Worn)
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ Black Tear
+ Black Symbol (from Krigara or Ymmeln)
+ Poison Symbol (from Casalen or Tavekalem)
+ Serrated Symbol (from Lepethida)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

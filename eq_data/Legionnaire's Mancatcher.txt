@@ -1,0 +1,42 @@
+ITEM NAME: Legionnaire's Mancatcher
+
+
+
+Legionnaire's Mancatcher
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK PRIMARY
+Skill: Piercing  Atk Delay: 40
+DMG: 12   AC: 6
+SV MAGIC: +10
+WT: 12.0  Size: GIANT
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #5 (Legionnaire's Mancatcher)
+
+  Player crafted 
+ Blacksmithing (Trivial: 170)
+ Yield: Legionnaire's Mancatcher x1
+ In Forge:
+
+
+  1 x Forging Hammer - Bought, Dropped, Returned on Failure, Returned on Success
+  1 x Legionnaire's Mancatcher Crown - Crafted, Returned on Failure
+  1 x Steel Rod - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

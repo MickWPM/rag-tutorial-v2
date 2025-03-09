@@ -1,0 +1,30 @@
+ITEM NAME: Bearskin Gloves
+
+
+Bearskin Gloves
+
+
+Slot: HANDS
+AC: 5
+WT: 2.1  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bandit Sisters
+ Bearskin Gloves Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

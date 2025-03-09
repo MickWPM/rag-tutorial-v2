@@ -1,0 +1,34 @@
+ITEM NAME: Heavy Shadowknight Helm
+
+Velious Era (added December 2000-2001)
+
+
+
+Heavy Shadowknight Helm
+
+
+NO DROP
+Slot: HEAD
+AC: 14
+INT: +3
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 5.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

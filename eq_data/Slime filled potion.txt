@@ -1,0 +1,34 @@
+ITEM NAME: Slime filled potion
+
+Kunark Era (added 2000)
+
+
+Slime filled potion
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect: Greater Healing (Any Slot, Casting Time: Instant)
+WT: 0.0  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ A Sarnak bloodbinder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

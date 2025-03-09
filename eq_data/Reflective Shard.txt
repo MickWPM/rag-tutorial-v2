@@ -1,0 +1,70 @@
+ITEM NAME: Reflective Shard
+
+
+
+Reflective Shard
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Firiona Vie
+
+ Leala Swiftarrow
+
+
+
+  (-3299, 3338)
+
+
+ Kael Drakkel
+
+ Bendad the Trader
+
+
+
+  (-1658, 1953)
+
+
+ The Overthere
+
+ Tin Merchant V
+
+
+
+  (2612, 2527)
+
+
+ Steamfont Mountains
+
+ Bom Knotwood
+
+
+
+  (175, -875)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+
+
+
+

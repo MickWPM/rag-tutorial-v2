@@ -1,0 +1,41 @@
+ITEM NAME: Ry`Gorr Chain Collar
+
+Velious Era (added December 2000-2001)
+
+Ry`Gorr Chain Collar
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 9
+STA: +4  MANA: +10
+SV MAGIC: +4
+WT: 2.8  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Ry`Gorr Chain Armor set. 
+ Merchant resale value: 1.2p 
+
+  Drops From 
+Eastern Wastes
+
+ a Ry`Gorr centurion
+ a Ry`Gorr legionaire
+ a Ry`Gorr prison guard
+ mystic of Ry`Gorr
+ Oracle of Ry`Gorr
+ Ry`Gorr elite guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

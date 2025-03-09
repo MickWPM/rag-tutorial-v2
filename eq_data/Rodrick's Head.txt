@@ -1,0 +1,33 @@
+ITEM NAME: Rodrick's Head
+
+Velious Era (added December 2000-2001)
+
+
+Rodrick's Head
+
+
+LORE ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Head of a treacherous Coldain 
+
+  Drops From 
+Eastern Wastes
+
+ Rodrick Tardok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #6: Mithril Coldain Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

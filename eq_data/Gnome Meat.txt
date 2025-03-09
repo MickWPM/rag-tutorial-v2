@@ -1,0 +1,81 @@
+ITEM NAME: Gnome Meat
+
+
+Gnome Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Befallen
+
+ a necro theurgist
+
+Butcherblock Mountains
+
+ Happ Findlefinn
+
+Crushbone
+
+ Retlon Brenclog
+
+Dagnor's Cauldron
+
+ Ghilanbiddle Nylwadil
+
+The Estate of Unrest
+
+ Khrix Fritchoff
+
+Plane of Mischief
+
+ a lost gnome
+
+Rathe Mountains
+
+ Bindlegrob
+ Findlegrob
+ Sindlegrob
+ Hasten Bootstrutter
+
+Ocean of Tears
+
+ Toko Binlittle
+
+Solusek's Eye
+
+ CWG Model CA
+
+Southern Desert of Ro
+
+ Lockjaw
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+ Thetherthag Wakintrob
+
+West Freeport
+
+ Zigg Flin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Gnome Kabobs (Trivial: 56)
+
+
+
+
+

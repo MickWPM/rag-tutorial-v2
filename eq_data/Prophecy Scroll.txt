@@ -1,0 +1,32 @@
+ITEM NAME: Prophecy Scroll
+
+Velious Era (added December 2000-2001)
+Prophecy Scroll
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+CHA: +2  WIS: +8  MANA: +50
+WT: 1.0  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Amontehepna
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

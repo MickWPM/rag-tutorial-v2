@@ -1,0 +1,313 @@
+ITEM NAME: Fishcakes
+
+
+
+Fishcakes
+
+
+This is a meal!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork grocer
+
+
+
+  (904, -284)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (733, 153)
+
+
+ East Cabilis
+
+ Klok Foxmyr
+
+
+
+  (123, -201)
+
+
+ West Commonlands
+
+ Maula Fishcatcher
+
+
+
+  (405, 2408)
+
+
+ Eastern Plains of Karana
+
+ Sharna
+
+
+
+  (-3790, -2399)
+
+
+ Erud's Crossing
+
+ Renna
+
+
+
+  (-1479, 857)
+
+
+ The Feerrott
+
+ Kogg
+
+
+
+  (1045, 1462)
+
+
+ Felwithe
+
+ Elytan Rantas
+
+
+
+  (41, -673)
+
+
+ Felwithe
+
+ Tam Slyspan
+
+
+
+  (245, -703)
+
+
+ Felwithe
+
+ Fishmonger Jassa
+
+
+
+  (162, -588)
+
+
+ Felwithe
+
+ Fishmonger Issa
+
+
+
+  (258, -626)
+
+
+ Firiona Vie
+
+ Dorg McMerin
+
+
+
+  (-3866, 1641)
+
+
+ East Freeport
+
+ Lunce Nasin
+
+
+
+  (-233, -863)
+
+
+ East Freeport
+
+ Nesin Tapper
+
+
+
+  (-280, -205)
+
+
+ East Freeport
+
+ Rolfic Gohar
+
+
+
+  (-189, -277)
+
+
+ East Freeport
+
+ Winda Lylil
+
+
+
+  (44, -729)
+
+
+ East Freeport
+
+ Tanlok Harson
+
+
+
+  (87, -850)
+
+
+ East Freeport
+
+ Iseba Gargurd
+
+
+
+  (61, -882)
+
+
+ East Freeport
+
+ Tarker Gargurd
+
+
+
+  (61, -890)
+
+
+ Halas
+
+ Quillion O`Zinn
+
+
+
+  (-15, 66)
+
+
+ Kerra Island
+
+ Roary Fishpouncer
+
+
+
+  (632, -681)
+
+
+ Kerra Island
+
+ Melixis
+
+
+
+  (519, 179)
+
+
+ Neriak Commons
+
+ Mariz Ixtaz
+
+
+
+  (-163, -938)
+
+
+ Northern Desert of Ro
+
+ Juni Sandfisher
+
+
+
+  (2185, -754)
+
+
+ Northern Desert of Ro
+
+ Tira Sandfisher
+
+
+
+  (2294, -790)
+
+
+ Oggok
+
+ Chef Dooga
+
+
+
+  (201, -243)
+
+
+ Ocean of Tears
+
+ Cleonae Kalen
+
+
+
+  (503, -9253)
+
+
+ Western Plains of Karana
+
+ Misla McMannus
+
+
+
+  (-4023, -2344)
+
+
+ South Qeynos
+
+ Captain Rohand
+
+
+
+  (15, -40)
+
+
+ Rivervale
+
+ dock merchant
+
+
+
+  (203, -216)
+
+
+ Rivervale
+
+ Fiddy Bobick
+
+
+
+  (19, -428)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

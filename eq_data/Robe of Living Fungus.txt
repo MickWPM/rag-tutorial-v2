@@ -1,0 +1,47 @@
+ITEM NAME: Robe of Living Fungus
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Robe of Living Fungus
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 10
+STA: +12  WIS: +4
+SV FIRE: +10
+WT: 0.2  Size: MEDIUM
+Class: CLR DRU MNK
+Race: HUM ERU HIE DEF IKS
+
+
+Regeneration (+15 hp/tick) was retroactively removed approximately 2 months after Kunark's release, following the live timeline.  Seeking better source, though Fungal Regrowth may have been on this robe until just after Velious launch. Comment reactions circa 2001, including a comment regarding regen removal early 2001. [1] 
+
+  Drops From 
+Old Sebilis
+
+ myconid spore king
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ Fashion
+
+Female Human
+
+A Robe of Living Fungus
+(Robe of the Kedge,
+with Dell Green tint)
+
+
+
+ 
+

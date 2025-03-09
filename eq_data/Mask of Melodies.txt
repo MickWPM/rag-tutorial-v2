@@ -1,0 +1,47 @@
+ITEM NAME: Mask of Melodies
+
+Velious Era (added December 2000-2001)
+
+
+Mask of Melodies
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 14
+CHA: +15  HP: +50
+WT: 0.0  Size: TINY
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Mask of Melodies x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Red Throne - Dropped
+  A Red Crown - Dropped
+  A Red Knight - Dropped
+  A Red Squire - Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill
+ Funny Money (Trivial: No-Fail)
+
+
+
+
+

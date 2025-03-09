@@ -1,0 +1,35 @@
+ITEM NAME: Charred Guardian Breastplate
+
+Classic Era (added 1999-2000)
+
+Charred Guardian Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 16
+STR: +3  STA: +6
+WT: 9.0  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 7p 
+
+  Drops From 
+Solusek's Eye
+
+ CWG Model EXG
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

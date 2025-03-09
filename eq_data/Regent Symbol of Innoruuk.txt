@@ -1,0 +1,35 @@
+ITEM NAME: Regent Symbol of Innoruuk
+
+Kunark Era (added 2000)
+
+
+Regent Symbol of Innoruuk
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 7
+INT: +2  WIS: +3  MANA: +15
+Effect:  Clinging Darkness (Must Equip, Casting Time: 6.0) at Level 15
+WT: 0.1  Size: TINY
+Class: CLR SHM
+Race: HUM DEF TRL
+Deity: Innoruuk
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Innoruuk Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

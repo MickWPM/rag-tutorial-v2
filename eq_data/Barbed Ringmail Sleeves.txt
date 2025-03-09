@@ -1,0 +1,36 @@
+ITEM NAME: Barbed Ringmail Sleeves
+
+Velious Era (added December 2000-2001)
+This is part of the Barbed Ringmail Armor set.
+
+
+Barbed Ringmail Sleeves
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 20
+DEX: +3  WIS: +3
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Kerd
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

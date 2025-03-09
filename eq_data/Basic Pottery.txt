@@ -1,0 +1,288 @@
+ITEM NAME: Basic Pottery
+
+
+
+Basic Pottery
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork potter
+
+
+
+  (750, -173)
+
+
+ Butcherblock Mountains
+
+ Izbal Brightblaze
+
+
+
+  (-1287, -1972)
+
+
+ East Cabilis
+
+ Klok Hoga
+
+
+
+  (253, -202)
+
+
+ East Commonlands
+
+ Merra Clayfinger
+
+
+
+  (-135, 21)
+
+
+ West Freeport
+
+ Gurb Smithson
+
+
+
+  (-183, -329)
+
+
+ Greater Faydark
+
+ Merchant Legweien
+
+
+
+  (420, 373)
+
+
+ Halas
+
+ Merin
+
+
+
+  (260, 273)
+
+
+ Highpass Hold
+
+ Winn Greenbane
+
+
+
+  (-364, -124)
+
+
+ South Kaladim
+
+ Dooni
+
+
+
+  (224, -254)
+
+
+ Misty Thicket
+
+ Topper Drodo
+
+
+
+  (585, -2357)
+
+
+ Neriak Foreign Quarter
+
+ ChonChon
+
+
+
+  (147, -92)
+
+
+ Oggok
+
+ Helgara Dirtcarver
+
+
+
+  (225, 743)
+
+
+ The Overthere
+
+ Tin Merchant VI
+
+
+
+  (2614, 2557)
+
+
+ Paineel
+
+ Evus Doracmal
+
+
+
+  (996, 817)
+
+
+ Paineel
+
+ Taria Clayspinner
+
+
+
+  (994, 804)
+
+
+ Western Plains of Karana
+
+ Tarnar
+
+
+
+  (1008, -2087)
+
+
+ Southern Desert of Ro
+
+ Merchant Ulyssa
+
+
+
+  (128, 495)
+
+
+ Stonebrunt Mountains
+
+ Jaimiou Claypaws
+
+
+
+  (1391, -536)
+
+
+ Thurgadin
+
+ Gilthan Brittleblade
+
+
+
+  (-249, 134)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+GUIDE TO POTTERY
+Pottery is the art of making containers and other useful items from earth, water and fire.
+Before you under take your work as a potter, you will need a Pottery Wheel and a Kiln. Both can be found in most cities.
+Place your raw materials on the pottery wheel. Once you have your product, you will need to fire your work in the Kiln.
+Note: You will ALWAYS need A Flask of Water to work with.
+Once you have constructed your item, put it upon appropriate firing sheet and place in the Kiln.
+CONVERSIONS
+BLOCK OF CLAY
+3 Small Blocks of Clay OR A Large Block of Clay
+SMALL BLOCK OF CLAY
+A Block of Clay
+LARGE BLOCK OF CLAY
+3 Blocks of Clay
+SKEWERS
+A Block of Clay
+Quality Firing Sheet
+Skewers Sketch
+CERAMIC LINING
+A Small Block of Clay
+Ceramic Lining Sketch
+Quality Firing Sheet
+CLAY JAR
+A Block of Clay
+Quality Firing Sheet
+Appropriate Jar Sketch
+POT
+A Large Block of Clay
+Metal Bits
+Pot Sketch
+High Quality Firing Sheet
+SMOKER
+A Large Block of Clay
+A Smoker Sketch
+2 High Quality Firing Sheets
+COOKIE CUTTERS
+A Small Block of Clay
+Appropriate Template
+High Quality Firing Sheet
+SMALL BOWL
+A Small Block of Clay
+Bowl Sketch
+High Quality Firing Sheet
+PIE TIN
+2 Blocks of Clay
+A Pie Tin Sketch
+High Quality Firing Sheet
+CAKE ROUND
+A Block of Clay
+Glass Shards
+A Cake Round Sketch
+High Quality Firing Sheet
+MEDIUM BOWL
+A Block of Clay
+A Medium Bowl Sketch
+2 High Quality Firing Sheet
+MUFFIN TIN
+A Block of Clay
+Metal Bits
+A Muffin Tin Sketch
+High Quality Firing Sheet
+MIXING BOWL
+2 Large Blocks of Clay
+A Large Bowl Sketch
+A Firing Sheet
+LARGE BOWL
+A Large Block of Clay
+Glass Shards
+A Large Bowl Sketch
+High Quality Firing Sheet
+POISON VIAL
+A Small Block of Clay
+Vial Sketch
+An Animal Skin or Pelt
+High Quality Firing Sheet
+LINED POISON VIAL
+A Small Block of Clay
+Lined Vial Sketch
+An Animal Skin or Pelt
+High Quality Firing Sheet
+SEALED POISON VIAL
+A Small Block of Clay
+Sealed Vial Sketch
+An Animal Skin or Pelt
+High Quality Firing Sheet
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

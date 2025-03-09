@@ -1,0 +1,40 @@
+ITEM NAME: Seafarers Buckler Shield
+
+
+
+Seafarers Buckler Shield
+
+
+Slot: SECONDARY
+AC: 7
+DEX: +2
+WT: 3.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: HUM BAR ERU HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 88)
+ Yield: Seafarers Buckler Shield x1
+ In Antonican Forge:
+
+
+  1 x Buckler Mold - Bought
+  1 x High Quality Sheet Metal - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

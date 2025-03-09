@@ -1,0 +1,53 @@
+ITEM NAME: Large Brick of Brellium
+
+
+
+Large Brick of Brellium
+
+
+WT: 18.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Kaladim
+
+ Bloarn Norkhitter
+
+
+
+  (727, 213)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 29)
+ Yield: Large Brick of Brellium x1
+ In Forge:
+
+
+  1 x Dwarven Ale - Bought
+  3 x Small Brick of Brellium - Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Brellium Rings (Trivial: 46)
+
+
+
+
+

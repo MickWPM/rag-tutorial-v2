@@ -1,0 +1,33 @@
+ITEM NAME: Researcher's Badge
+
+Stonebrunt Era (added summer 2001)
+
+
+Researcher's Badge
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 4
+STR: +3  WIS: +3  INT: +3  AGI: +3  HP: +15  MANA: +15
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Badge worn by Qeynos Epidemiologists 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Qeynos Badge Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

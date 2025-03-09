@@ -1,0 +1,35 @@
+ITEM NAME: High Elf Flesh
+
+Classic Era (added 1999-2000)
+ The High Elf Flesh that dropped from Jyle Windstorm was able to be handed to Chef Dooga for Feeding Dooga
+
+
+High Elf Flesh
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Innothule Swamp
+
+ Hogus Durmas
+ Jyle Windstorm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Feeding Dooga
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Sanctum Guardian's Earring
+
+Warrens Era (added spring 2001)
+Sanctum Guardian's Earring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 5
+STR: +10  STA: +10  CHA: +10  HP: +50  MANA: +80
+SV DISEASE: +15  SV POISON: +15
+WT: 0.2  Size: TINY
+Class: CLR DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Dazzling Robe
+
+Velious Era (added December 2000-2001)
+ Dazzling Robe
+Dazzling Robe
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 14
+STA: +7  CHA: +7  INT: +14  HP: +60  MANA: +60
+SV FIRE: +10  SV DISEASE: +8  SV MAGIC: +8  SV POISON: +8
+Effect:  Rune IV (Must Equip, Casting Time: 30.0) at Level 50
+WT: 0.5  Size: MEDIUM
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ Rune IV effect consumes a Peridot when clicked. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Kael Robe
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

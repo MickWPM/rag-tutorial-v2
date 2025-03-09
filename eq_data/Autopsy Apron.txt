@@ -1,0 +1,45 @@
+ITEM NAME: Autopsy Apron
+
+Kunark Era (added 2000)
+
+Autopsy Apron
+
+
+LORE ITEM
+Slot: WAIST
+AC: 8
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ a mortician
+
+
+
+  (161, 667)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

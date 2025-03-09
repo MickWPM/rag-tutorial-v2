@@ -1,0 +1,35 @@
+ITEM NAME: Kylong Chestplate
+
+Kunark Era (added 2000)
+
+
+Kylong Chestplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 22
+STR: +5  DEX: -2  WIS: +3
+WT: 0.8  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+
+  Drops From 
+Howling Stones
+
+ Skeletal Procurator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Melodious Truncheon
+
+Kunark Era (added 2000)
+
+Melodious Truncheon
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 23
+DMG: 11 
+Effect:  Melodious Befuddlement (Combat, Casting Time: Instant) at Level 50
+WT: 1.5  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones (Charasis)
+
+ Sentient Bile
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

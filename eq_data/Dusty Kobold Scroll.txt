@@ -1,0 +1,65 @@
+ITEM NAME: Dusty Kobold Scroll
+
+Warrens Era (added spring 2001)
+
+
+Dusty Kobold Scroll
+
+
+WT: 0.1  Size: TINY
+
+
+At least 7 versions of the scroll exist. 
+
+  Drops From 
+The Warrens
+
+ Lorekeeper Roggik
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lorekeeper's Scrolls 
+
+  Book contents 
+1 Kobolds in the Age of Scale
+
+ "In the age of scale we arrived. The scaled beasts of the Dragon Queen ruled the surface and skies.  All else belonged to our people. By Brell Serilis' hands we were created and delivered ot the Underfoot of Norrath. As the numbers of our ancestors grew, so did the powers of the ancient shaman.  Tribes began to form and territory became disputed.  For ages the blood flowed and the powers of stone and steel were discovered."
+
+
+2 Rise of King Gkar and Klan Kolbok
+
+ "In the time of scale a powerful shaman gifted by Brell with the insight needed to unite the ancient tribes rose to power. Under the guidance of King Gkar the ancients developed new techniques of forging ore, replacing old tools with new. Brells most devoted kobolds refined shamanistic rituals to harness the powers of the Plane of Underfoot, blessing the miners with divine strength and spped, and resistance to the harsh volcanic and frozen regions of their subterranean world. The united ancient tribes constructed a city for their king. The capital of Kolbok was constructed and many monuments were erected to King Gkar and his patron, Brell Serilis."
+
+
+3 The Council and the Dwarves
+
+ "It was during King Gkar's reign when Brell decided he alone could not break Veeshans grasp on the world of Norrath. Brell met with Tunare, Prexus, and Rallos Zek and told them of Veeshans New World. Brell kept the source of his information about the world a secret as he made a pact with the gathered Gods. They agreed they would assist Brell in releasing the world from Veeshan only if Norrath was divided equally among them. Brells greed overcame him and he decided to keep our people a secret and created a new race called Dwarf."
+
+
+4 The Fall of Kolbok
+
+ "Three hundred years after the fall of King Gkar, Brell recognized the opportunity to form a second pact thus allowing him to strengthen his hold on the subterranean lands. This time Fizzlethorpe, Cazic-Thule, and Rallos Zek agreed to the pact. Brell created the Gnomes and placed them near the lands of the Dwarves. The societies of the Dwarves and Gnomes expanded rapidly at this time and we kobolds now reduced to a tribal people inevitably discovered the Kingdoms of the younger races. Recognizing the monuments erected by the short ones as being devoted to Brell we Kobolds were enraged and a great bloody war began beneath the surface of Norrath."
+
+
+5 The Kobold Age of Blood
+
+ "Brell had not anticipated the attentiveness of his peers, especially the War Lord Rallos Zek. Mostly out of fear of the Warlords wrath for his deception Brell turned his back on our people. Leaving our King without guidance and our shamans powerless with prayers unanswered. King Gkar fell into despair as his people and kingdom crumbled around him. He died with no successor and our people were thrust into chaos. The howls of our people echoed throughout the caverns of Norrath as we defiled the monuments devoted to the God that abandoned us."
+
+
+6 The Arrival of Rallos Zek
+
+ "The surface races consumed in their own wars against the minions of Rallos Zek paid little heed to the turmoil beneath the surface. So mighty were the mortal forces of Zek that the other Gods also overlooked the subterranean war, but Rallos Zek confident in his forces' might and innately attracted to warfare and bloodshed silently watched the developing conflict and chuckled at the bloody result of Brells folly and deception. Seeing the opportunity to strengthen his forces and gain a strong grip on the subterranean realms, Rallos Zek appeared before our people."
+
+
+7 The Ascension of Rolfron Zek
+
+ "As Rallos walked among us he gazed into our souls, seeking one with the most rage, the strongest will, and the most disciplined mind. Rallos found what he sought within an elderly shaman whose years of powerlessness had fed his despair and resentment of Brell and the short ones. His heart had turned black and his spirit was at the brink of decaying to oblivion. Rallos swept the elderly shaman into his plane and yanked the remnants of the shamans spirit from his body, replacing it with a bit of The Warlords own life. Rallos then forged the despair ridden soul into a sword for his new demi-god, Rolfron Zek, the Lord of Despair."
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

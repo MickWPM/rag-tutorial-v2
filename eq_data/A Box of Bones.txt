@@ -1,0 +1,32 @@
+ITEM NAME: A Box of Bones
+
+Classic Era (added 1999-2000)
+
+
+Box of Bones
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Skeleton Killing
+ Crush the Undead
+
+  Player crafted 
+ Non-Tradeskill
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

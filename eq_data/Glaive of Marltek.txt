@@ -1,0 +1,33 @@
+ITEM NAME: Glaive of Marltek
+
+Kunark Era (added 2000)
+
+Glaive of Marltek
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 5 
+Effect:  Snare (Combat, Casting Time: Instant) at Level 15
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG DRU ROG
+Race: ALL
+
+
+ Item Lore (from Identify): Bola Blade 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Captain Nealith's Brother
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Gnarled Staff
+
+Epic Quests Era (added Sept 2000)
+
+Gnarled Staff
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 10 
+INT: +15  HP: +15  MANA: +45
+SV COLD: +20  SV MAGIC: +25
+WT: 0.6  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+This staff is 2hb until Nov 2000 in the classic timeline [1]. Can be MQ'd at amiable faction. 
+
+  Drops From 
+Karnor's Castle
+
+ Venril Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

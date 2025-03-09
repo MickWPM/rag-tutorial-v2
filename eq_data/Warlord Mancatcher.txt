@@ -1,0 +1,46 @@
+ITEM NAME: Warlord Mancatcher
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Warlord Mancatcher
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK PRIMARY
+Skill: Piercing  Atk Delay: 30
+DMG: 14   AC: 8
+STR: +5  STA: +10
+SV MAGIC: +10
+Effect:  Stun (Combat, Casting Time: Instant) at Level 20
+WT: 12.0  Size: GIANT
+Class: WAR
+Race: IKS
+
+
+May exist post-Velious, but likely never on p99. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike Quests (#7)  
+
+  Player crafted 
+ Blacksmithing (Trivial: 85) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

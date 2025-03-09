@@ -1,0 +1,43 @@
+ITEM NAME: Imbued Northman Mace
+
+
+Imbued Northman Mace
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 36
+DMG: 9 
+STA: +4  WIS: +2
+WT: 8.5  Size: MEDIUM
+Class: WAR BRD ROG SHM
+Race: HUM BAR HEF TRL OGR IKS
+Deity: The Tribunal
+
+
+Unsure if the other version with Imbued Jade (Rallos Zek) exists? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Imbued Northman Mace x1
+ In Northman Forge:
+
+
+  1 x Frost Temper - Crafted
+  1 x Imbued Ivory - Summoned
+  1 x Mace Head Mold - Bought
+  1 x Medium Quality Sheet Metal - Crafted, Bought
+  1 x Oak Shaft - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

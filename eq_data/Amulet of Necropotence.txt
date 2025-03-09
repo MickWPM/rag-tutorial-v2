@@ -1,0 +1,43 @@
+ITEM NAME: Amulet of Necropotence
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Amulet of Necropotence
+
+
+MAGIC ITEM
+Slot: NECK
+INT: +13  HP: -100
+SV MAGIC: +10
+Effect:  Illusion: Skeleton (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: ENC MAG NEC WIZ
+Race: ALL
+
+
+Clickable from inventory. Changed to be only equippable by pure casters (effect can still be used by anyone from inventory) on 2/13/13 patch. 
+
+  Drops From 
+Plane of Fear
+Post-Revamp (Current)
+
+ Fright
+ Dread
+ Terror
+
+Pre-Revamp
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

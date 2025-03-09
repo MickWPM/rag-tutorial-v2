@@ -1,0 +1,31 @@
+ITEM NAME: Shattering Hammer
+
+Velious Era (added December 2000-2001)
+
+Shattering Hammer
+
+
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 30
+DMG: 9
+WT: 1.0  Range: 55  Size: SMALL
+Class: ALL except ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+Stackable. Summoned by Bracer of Hammerfal. Allows CLR, DRU, SHM, PAL, SHD, classes that don't normally have a throwing skill to level up throwing... to 275.[1] This value is not shown in the skills menu though.[2] However, the skill going up from 1 to 275 does seem to significantly impact accuracy and damage. Notably these hammers are rentable (not NO RENT) and will persist in your inventory through play sessions. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velium Retrieval
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,59 @@
+ITEM NAME: Permafrost Crystals
+
+
+Permafrost Crystals
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used to make "blue" color dyes for Fine Plate Armor. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Everfrost Peaks
+
+ an ice giant
+
+Permafrost
+
+ a goblin evoker
+ a goblin priest
+ a goblin prelate
+ an elite goblin guard
+ an ice giant
+ an ice giant magus
+ an ice giant priest
+ an ice goblin
+ an icy terror
+ the goblin sage
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+ Permafrost Extract (Trivial: 36)
+
+ Poison Making
+ Permafrost Extract (Trivial: 36)
+
+ Blacksmithing
+ Fine Plate blue dyes
+
+
+
+
+

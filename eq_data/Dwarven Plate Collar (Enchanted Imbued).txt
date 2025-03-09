@@ -1,0 +1,45 @@
+ITEM NAME: Dwarven Plate Collar (Enchanted Imbued)
+
+
+Dwarven Plate Collar
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 10
+STR: +4  STA: +6  WIS: +3
+SV FIRE: +1  SV MAGIC: +4
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL
+Race: DWF HFL GNM
+Deity: Brell Serilis
+
+
+This is the imbued, deity restricted version of Enchanted Dwarven Plate Collar. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 232)
+ Yield: Dwarven Plate Collar x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Enchanted Brellium Jointing - Crafted
+  1 x Enchanted Folded Brellium Sheet - Crafted
+  1 x Imbued Ruby - Summoned
+  1 x Leather Padding - Crafted
+  1 x Small Plate Gorget Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Power of Water
+
+Epic Quests Era (added Sept 2000)
+
+
+Power of Water
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+Need confirmation which types of mobs this drops off of in Kaesora on p99. 
+
+  Drops From 
+Kaesora
+
+ enraged ravener
+ famished ravener (only this one?)
+ Frenzied Strathbone
+ Gorged Ravener (Dropped 12/7/13 on Red99)+1 (dropped 6/3/19 on blue), (dropped 1st kill p99 blue 2022-11-05) (dropped on green Feb 19, 2023 @ 184, -635)
+ Hungered Ravener (Dropped on 1/18/2017 on Blue99) (dropped 1st kill p99 blue 01/02/19)
+ Ravener(After 22 1/2 Hours It never dropped P99 Blue 5/7/16)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

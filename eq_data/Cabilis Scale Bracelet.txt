@@ -1,0 +1,39 @@
+ITEM NAME: Cabilis Scale Bracelet
+
+Kunark Era (added 2000)
+
+Cabilis Scale Bracelet
+
+
+Slot: WRIST
+AC: 7
+WT: 1.5  Size: SMALL
+Class: WAR SHD SHM
+Race: IKS
+
+
+Iksar cultural blacksmithing. Part of the Unimbued Cabilis Scale Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 122)
+ Yield: Cabilis Scale Bracelet x1
+ In Iksar Forge:
+
+
+  1 x Bracer Sectional Mold - Bought
+  1 x Flask of Bloodwater - Bought
+  1 x Skyiron Scales - Crafted
+  1 x Skyiron Sheet - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

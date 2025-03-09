@@ -1,0 +1,62 @@
+ITEM NAME: Flute Mouthpiece
+
+
+
+Flute Mouthpiece
+
+
+Slot: SECONDARY
+Wind Instrument
+WT: 0.5  Size: TINY
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Firiona Vie
+
+ Leala Swiftarrow
+
+
+
+  (-3299, 3338)
+
+
+ Kael Drakkel
+
+ Bendad the Trader
+
+
+
+  (-1658, 1953)
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

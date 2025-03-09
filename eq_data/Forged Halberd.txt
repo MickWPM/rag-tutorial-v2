@@ -1,0 +1,40 @@
+ITEM NAME: Forged Halberd
+
+Classic Era (added 1999-2000)
+
+Forged Halberd
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 48
+DMG: 14 
+WT: 14.0  Size: GIANT
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 82)
+ Yield: Forged Halberd x1 (no fail cost 28p2g3s2c)
+ In Forge:
+
+
+  1 x Halberd Head Mold - (26p2g7c) Bought
+  1 x Oak Shaft - (1p7c) Bought
+  1 x Sheet Metal - (1p8c) Crafted, Bought
+  1 x Water Flask - (1s) Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

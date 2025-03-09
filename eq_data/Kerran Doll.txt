@@ -1,0 +1,43 @@
+ITEM NAME: Kerran Doll
+
+Classic Era (added 1999-2000)
+Were you looking for Kerran Toy?
+
+
+Kerran Doll
+
+
+WT: 0.3  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): A doll of Kejaan 
+
+  Drops From 
+Qeynos Hills
+
+ Tovax Vmar
+
+South Qeynos
+
+ Lomarc
+
+Kerra Island
+
+ kerran tiger spahi
+ the Kerran Sha`rr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Package from Lomarc
+ Cazic Thule Disciple
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Wee Harvester
+
+Classic Era (added 1999-2000)
+
+Wee Harvester
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Charges: 20
+Skill: 2H Blunt  Atk Delay: 45
+DMG: 10 
+STR: +1  STA: +1  WIS: +3
+Effect: Summon Food (Any Slot, Casting Time: Instant)
+WT: 6.0  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shakey's Stuffing
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

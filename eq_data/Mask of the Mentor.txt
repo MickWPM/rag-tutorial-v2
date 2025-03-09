@@ -1,0 +1,33 @@
+ITEM NAME: Mask of the Mentor
+
+GM Event item (info)
+
+
+Mask of the Mentor
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 10
+AGI: +5
+SV FIRE: +5 SV MAGIC: +5 SV POISON: +5
+WT: 1.0  Size: SMALL
+Class: MNK
+Race: ALL
+
+
+Obtained during a GM event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Shackle of Copper
+
+Kunark Era (added 2000)
+A fairly bright light source.
+
+
+Shackle of Copper
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 5
+WT: 0.2  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Shackle Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

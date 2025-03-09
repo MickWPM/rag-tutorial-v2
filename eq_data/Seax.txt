@@ -1,0 +1,32 @@
+ITEM NAME: Seax
+
+Classic Era (added 1999-2000)
+
+
+Seax
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 21
+DMG: 3 
+WT: 3.0  Size: SMALL
+Class: WAR ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Seax
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

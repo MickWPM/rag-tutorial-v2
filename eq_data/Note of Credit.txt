@@ -1,0 +1,27 @@
+ITEM NAME: Note of Credit
+
+Classic Era (added 1999-2000)
+a note of credit
+
+
+LORE ITEM  NO TRADE
+WT: 0.1  Size: TINY
+CLASS: NONE
+RACE: NONE
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Call of Flame Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

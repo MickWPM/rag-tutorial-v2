@@ -1,0 +1,42 @@
+ITEM NAME: Greaves of Avoidance
+
+
+
+
+ 
+
+ Contents of this page has been identified as part of a current Server Issue (a "bug") on Project 1999 server(s).Remove this message when the active issue is resolved.
+
+Velious Era (added December 2000-2001)
+
+Greaves of Avoidance
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 12
+STR: +3
+SV MAGIC: +5
+WT: 8.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD
+Race: ALL
+
+
+HUM BAR ERU HEF is classic race list[1] 
+
+  Drops From 
+Kael Drakkel
+
+ Klaggan Iceshard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

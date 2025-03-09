@@ -1,0 +1,178 @@
+ITEM NAME: Silver Stud
+
+Classic Era (added 1999-2000)
+
+Silver Stud
+
+
+Slot: EAR
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors for aproximately 1 gold 4 silver. 
+
+  Drops From 
+Beholder's Maze
+
+ a goblin lookout
+ a goblin sentry
+ a goblin veteran
+
+Butcherblock Mountains
+
+ a goblin wizard
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+
+Greater Faydark
+
+ a bandit lookout
+ a faerie maiden
+ a pixie trickster
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a brownie outcast
+ a fae drake
+ a faerie maiden
+ a pixie prankster
+ a pixie trickster
+
+Northern Desert of Ro
+
+ Dorn B`Dynn
+
+Steamfont Mountains
+
+ a kobold scout
+ a lesser ebon drake
+ Bugglegupp
+
+West Commonlands
+
+ Kizdean Gix
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ Emerald Warriors' Items
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

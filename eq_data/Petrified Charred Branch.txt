@@ -1,0 +1,33 @@
+ITEM NAME: Petrified Charred Branch
+
+
+
+Petrified Charred Branch
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 6.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+ a forest giant arbor
+ a forest giant verdant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

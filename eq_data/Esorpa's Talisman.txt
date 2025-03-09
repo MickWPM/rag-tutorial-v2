@@ -1,0 +1,36 @@
+ITEM NAME: Esorpa's Talisman
+
+Velious Era (added December 2000-2001)
+
+
+Esorpa's Talisman
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 6
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +5  INT: +5  AGI: +5  HP: +20  MANA: +20
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Part of the Dragon Talismans armor set. 
+
+  Drops From 
+Western Wastes
+
+ Esorpa of the Ring
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

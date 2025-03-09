@@ -1,0 +1,52 @@
+ITEM NAME: Velium Shuriken
+
+Velious Era (added December 2000-2001)
+
+
+Velium Shuriken
+
+
+MAGIC ITEM  
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 26
+DMG: 5
+WT: 0.3  Range: 70  Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+Stackable. This improved Shuriken is only sold in Thurgadin. 
+
+  Drops From 
+Great Divide
+
+ a furious tizmak warrior
+ a tizmak champion
+ a tizmak warrior
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

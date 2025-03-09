@@ -1,0 +1,36 @@
+ITEM NAME: Singing Steel Greaves
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Singing Steel Greaves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 26
+STR: +8  DEX: +8  CHA: +8  AGI: +8
+Effect:  Angstlich's Appalling Screech (Must Equip, Casting Time: 4.0) at Level 45
+WT: 7.5  Size: LARGE
+Class: BRD
+Race: HUM ELF HEF
+
+
+Summon Drink was the former effect.Part of the Singing Steel armor set. 
+
+  Drops From 
+Karnor's Castle
+
+ Venril Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Finely Crafted Amulet
+
+Sky Era (added January 2000)
+
+
+Finely Crafted Amulet
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Gorgalosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Bash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

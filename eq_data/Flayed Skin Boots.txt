@@ -1,0 +1,36 @@
+ITEM NAME: Flayed Skin Boots
+
+Kunark Era (added 2000)
+
+Flayed Skin Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 8
+STR: +6  INT: +2
+WT: 2.5  Size: MEDIUM
+Class: SHD NEC
+Race: HUM ERU
+
+
+
+ Merchant resale value: 18pp 
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg sentry
+ decayed soldier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

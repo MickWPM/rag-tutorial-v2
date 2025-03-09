@@ -1,0 +1,33 @@
+ITEM NAME: Wand of Swiftness
+
+
+Wand of Swiftness
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 4
+Effect:  Swift Like the Wind (Any Slot/Can Equip, Casting Time: Instant) at Level 45
+WT: 1.0  Size: SMALL
+Class: ENC
+Race: ALL except BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a forsaken revenant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

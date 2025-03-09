@@ -1,0 +1,67 @@
+ITEM NAME: Weighted Gloves
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+Weighted Gloves
+
+
+Slot: PRIMARY
+Skill: Hand to Hand  Atk Delay: 27
+DMG: 4 
+WT: 5.0  Size: MEDIUM
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Ak'Anon
+
+ a mechanic
+
+The Estate of Unrest
+
+ a carrion ghoul
+ tormented dead
+
+Firiona Vie
+
+ froglok ton warrior
+
+Misty Thicket
+
+ Orc Pawn
+
+Kaladim
+
+ Guard Doradek
+
+Solusek's Eye
+
+ fire goblin
+
+The Feerrott
+
+ a Tae Ew defender
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

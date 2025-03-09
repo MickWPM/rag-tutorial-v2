@@ -1,0 +1,160 @@
+ITEM NAME: Spear Head Mold
+
+
+
+Spear Head Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Clockwork SmithXIII
+
+
+
+  (2163, -540)
+
+
+ East Cabilis
+
+ Smithy Krikt
+
+
+
+  (-437, -202)
+
+
+ The Feerrott
+
+ Murg
+
+
+
+  (1005, 1234)
+
+
+ Felwithe
+
+ Opal Leganyn
+
+
+
+  (-80, -413)
+
+
+ East Freeport
+
+ Jenna Smith
+
+
+
+  (-166, -171)
+
+
+ East Freeport
+
+ Jillian Dayson
+
+
+
+  (158, -371)
+
+
+ West Freeport
+
+ Olyna Mudel(*not on Green)
+
+
+
+  (83, -904)
+
+
+ Halas
+
+ April
+
+
+
+  (173, -306)
+
+
+ North Kaladim
+
+ Bndainy Everhot
+
+
+
+  (401, -156)
+
+
+ Neriak Commons
+
+ Sivy G`Noir
+
+
+
+  (61, -799)
+
+
+ North Qeynos
+
+ Dren Ironforge
+
+
+
+  (20, 50)
+
+
+ Rivervale
+
+ Bipdo Hargin
+
+
+
+  (-222, -68)
+
+
+ Skyshrine
+
+ Grudash the Baker
+
+
+
+  (161, -474)
+
+
+ Stonebrunt Mountains
+
+ Kalaaro Steelclaws
+
+
+
+  (1381, -586)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

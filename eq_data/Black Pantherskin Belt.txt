@@ -1,0 +1,44 @@
+ITEM NAME: Black Pantherskin Belt
+
+Velious Era (added December 2000-2001)
+
+Black Pantherskin Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 6
+DEX: +4  STA: +4  HP: +5
+WT: 0.3  Size: SMALL
+Class: MNK
+Race: HUM BAR ELF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Black Pantherskin Belt x1
+ In Coldain Tanners Kit:
+
+
+  1 x Black Panther Skin - Dropped
+  1 x Belt Pattern - Bought
+  2 x Velium Boning - Crafted
+  1 x Yew Leaf Tannin - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
+Part of the Black Pantherskin Armor set.
+
+

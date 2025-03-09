@@ -1,0 +1,40 @@
+ITEM NAME: Eyeburn Solution
+
+Classic Era (added 1999-2000)
+
+
+Eyeburn Solution
+
+
+QUEST ITEM
+Effect: Blinding Poison II (Combat, Casting Time: Instant) at Level 20
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 108)
+ Yield: Eyeburn Solution x1
+ In Mortar and Pestle:
+
+
+  1 x Constrict Suspension - Bought, Dropped
+  2 x Coyotetail - Bought
+  1 x Lined Poison Vial - Crafted, Bought, Dropped, Returned on Failure
+  1 x Muddite Mud - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

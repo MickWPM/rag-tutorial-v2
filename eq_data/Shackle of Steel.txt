@@ -1,0 +1,34 @@
+ITEM NAME: Shackle of Steel
+
+Warrens Era (added spring 2001)
+
+
+Shackle of Steel
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 9
+STR: +5  STA: +5
+SV MAGIC: +5
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore (from Identify): 7th Rung of Swifttail 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Shackle Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

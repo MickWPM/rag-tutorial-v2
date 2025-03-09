@@ -1,0 +1,32 @@
+ITEM NAME: Dread Diamond
+
+Kunark Era (added 2000)
+
+
+Dread Diamond
+
+
+LORE ITEM
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Note: A Dread Diamond is obtained by trading a Dufrenite to a charmed gem cutter skeleton in Dreadlands. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cannibalize II (Good)
+ Cannibalize II (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

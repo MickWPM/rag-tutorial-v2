@@ -1,0 +1,42 @@
+ITEM NAME: Sack of Hay
+
+
+
+Sack of Hay
+
+
+MAGIC ITEM  LORE ITEM
+WT: 10.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Grain of Karana
+In addition to being a drop from NPCs in the area, the sacks can be found as ground spawns in the Miller's field: -2306,-5770 / -2306,-4223 / -3280, -5470 / -3855,-4223 / -3855,-5770  
+
+  Drops From 
+Western Plains of Karana
+
+ Tiny Miller
+ a scarecrow
+ Ground Spawns 
+ (-2306, -5770) 
+ (-2306, -4223) 
+ (-3280, -5470) 
+ (-3855, -4223) 
+ (-3855,-5770) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gathering Grain
+ Shakey's Stuffing
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

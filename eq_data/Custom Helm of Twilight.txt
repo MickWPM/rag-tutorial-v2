@@ -1,0 +1,33 @@
+ITEM NAME: Custom Helm of Twilight
+
+Velious Era (added December 2000-2001)
+ Custom Helm of Twilight on extremely important Half-Elf
+Custom Helm of Twilight
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 22
+DEX: +5  STA: +5  CHA: +5  HP: +45
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 5.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Custom Plate Helms - Skyshrine
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Spiroc Battle Staff
+
+Sky Era (added January 2000)
+
+
+Spiroc Battle Staff
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 8 
+WIS: +2  MANA: +10
+WT: 5.0  Size: MEDIUM
+Class: ALL except BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of The Tree
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Initiate Symbol of Brell Serilis
+
+Warrens Era (added spring 2001)
+
+
+Initiate Symbol of Brell Serilis
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 3
+WIS: +1  MANA: +3
+Effect:  Strengthen (Must Equip, Casting Time: 4.0)
+WT: 0.1  Size: TINY
+Class: CLR
+Race: DWF GNM
+Deity: Brell Serilis
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brell Serilis Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

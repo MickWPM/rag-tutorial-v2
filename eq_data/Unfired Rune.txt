@@ -1,0 +1,42 @@
+ITEM NAME: Unfired Rune
+
+Velious Era (added December 2000-2001)
+
+
+
+Unfired Rune
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Pottery (Trivial:162)
+ Unfired Rune x1
+ In Pottery Wheel:
+
+
+  1 x Enchanted Velium Powder - Crafted
+  1 x Water Flask - Bought 
+
+
+  Tradeskill recipes 
+ Pottery
+ Blank Rune (Trivial:15)
+
+
+
+
+

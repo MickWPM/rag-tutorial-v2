@@ -1,0 +1,33 @@
+ITEM NAME: Wispy Choker of Vigor
+
+Sky Era (added January 2000)
+
+
+Wispy Choker of Vigor
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 5
+STR: +9  DEX: +9  AGI: +3  HP: +20
+WT: 0.1  Size: TINY
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Plane of Sky Tests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

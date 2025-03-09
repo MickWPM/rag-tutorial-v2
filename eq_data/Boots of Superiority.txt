@@ -1,0 +1,34 @@
+ITEM NAME: Boots of Superiority
+
+Velious Era (added December 2000-2001) Coffeeblack is wearing Boots of Superiority
+Boots of Superiority
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 30
+STR: +4  DEX: +4  STA: +4  CHA: +4  WIS: +4  INT: +4  AGI: +4
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 5.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lendiniara the Keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

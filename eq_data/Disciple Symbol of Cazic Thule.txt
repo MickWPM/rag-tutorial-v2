@@ -1,0 +1,35 @@
+ITEM NAME: Disciple Symbol of Cazic Thule
+
+Kunark Era (added 2000)
+
+
+Disciple Symbol of Cazic Thule
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 5
+STR: +1  WIS: +2  MANA: +7
+Effect:  Panic Animal (Must Equip, Casting Time: 2.0) at Level 5
+WT: 0.1  Size: TINY
+Class: CLR SHM
+Race: ERU TRL IKS
+Deity: Cazic-Thule
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cazic Thule Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,49 @@
+ITEM NAME: Cutthroat Insignia Ring
+
+
+Cutthroat Insignia Ring
+
+
+QUEST ITEM
+Slot: FINGER
+AC: 1
+DEX: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+VALUE TO VENDOR with CHA : 56 and faction at Indifferent
+
+ 0 Platinums
+ 2 Golds
+ 0 Silvers
+ 2 Coppers
+ 
+  Drops From 
+West Commonlands
+
+ a Dervish Cutthroat
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+
+Southern Desert of Ro
+
+ a Dervish Cutthroat
+ a young ronin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ortallius' Cutthroat Rings
+ Cutthroat Rings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Bracelet of Sacrifice
+
+Velious Era (added December 2000-2001)
+
+Bracelet of Sacrifice
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: -5
+STR: -2  CHA: +1  WIS: +6  HP: -20
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Books of Tactics
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

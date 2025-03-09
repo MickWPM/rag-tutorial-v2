@@ -1,0 +1,41 @@
+ITEM NAME: Illegible Cantrip
+
+Classic Era (added 1999-2000)
+
+Illegible Cantrip
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Orc Apprentice Cantrip 
+
+  Drops From 
+East Commonlands
+
+ orc apprentice
+
+West Commonlands
+
+ orc apprentice
+
+Misty Thicket
+
+ orc apprentice
+ orc oracle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Illegible Scrolls
+ Illegible Cantrip Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

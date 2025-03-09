@@ -1,0 +1,35 @@
+ITEM NAME: Sandals of Alacrity
+
+Sky Era (added January 2000)
+
+
+Sandals of Alacrity
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+Charges: 2
+AC: 6
+STR: +10  AGI: +10  HP: +20
+Effect:  Alacrity (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.5  Size: SMALL
+Class: MNK
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Speed
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

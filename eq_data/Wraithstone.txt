@@ -1,0 +1,33 @@
+ITEM NAME: Wraithstone
+
+Classic Era (added 1999-2000)
+
+Wraithstone
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a worry wraith
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

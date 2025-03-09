@@ -1,0 +1,35 @@
+ITEM NAME: Wrath Orc Wristbands
+
+
+Wrath Orc Wristbands
+
+
+Slot: WRIST
+AC: 2
+CHA: -2
+WT: 1.9  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Everfrost Peaks
+
+ a snow orc shaman
+ a snow orc trooper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cindl's Wristband Collection
+ The Seax
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

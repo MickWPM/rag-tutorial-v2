@@ -1,0 +1,41 @@
+ITEM NAME: Opoline Helm
+
+Classic Era (added 1999-2000)
+
+
+Opoline Helm
+
+
+LORE ITEM  NO DROP
+Slot: HEAD
+AC: 8
+WT: 6.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+ Item Lore (from Identify):  Opoline Helm 
+
+  Drops From 
+Lake Rathetear
+
+ a deepwater goblin
+ a goblin net master
+ tainted aquagoblin
+
+Oasis of Marr
+
+ a deepwater goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Lambent Helm
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

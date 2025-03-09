@@ -1,0 +1,45 @@
+ITEM NAME: Dwarven Breastplate (Enchanted Imbued)
+
+
+Dwarven Plate Breastplate
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 30
+STR: +8  STA: +10  WIS: +4
+SV FIRE: +5
+WT: 11.5  Size: LARGE
+Class: WAR CLR PAL
+Race: DWF HFL GNM
+Deity: Brell Serilis
+
+
+This is the imbued, deity restricted version of Enchanted Dwarven Breastplate. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 255)
+ Yield: Dwarven Plate Breastplate x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Enchanted Brellium Jointing - Crafted
+  3 x Enchanted Folded Brellium Sheet - Crafted
+  1 x Imbued Ruby - Summoned
+  1 x Leather Padding - Crafted
+  1 x Small Breastplate Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

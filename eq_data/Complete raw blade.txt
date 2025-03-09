@@ -1,0 +1,43 @@
+ITEM NAME: Complete raw blade
+
+Velious Era (added December 2000-2001)
+
+
+Complete raw blade
+
+
+LORE ITEM  NO DROP
+WT: 19.2  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Blacksmithing (Trivial: 206)
+ Yield: Complete raw blade x1
+ In Forge:
+
+
+  1 x Blade skin-10th fold - Crafted
+  1 x Forging Hammer - Bought, Quested, Dropped, Returned on Failure, Returned on Success
+  1 x Shaped blade core - Crafted
+  1 x Smithing Chisel - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Pottery
+ Clay coated blade (Trivial: 128)
+
+
+
+
+

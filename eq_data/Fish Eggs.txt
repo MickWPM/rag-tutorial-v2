@@ -1,0 +1,32 @@
+ITEM NAME: Fish Eggs
+
+Classic Era (added 1999-2000)
+
+Fish Eggs
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+To make Fish Eggs, combine either a Thunder Salmon or Greengill Salmon and a Skinning Knife in a Tackle Box (Trivial Fishing 135). It will produce 2 Fish Eggs and 2 Fish Scales. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Saucy Salted Seadragon Steak
+
+  Player crafted 
+ Fishing (Trivial: 135) 
+
+  Tradeskill recipes 
+ Brewing
+ Fish Oil (Trivial: 68)
+
+
+
+
+

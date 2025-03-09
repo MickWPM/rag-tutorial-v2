@@ -1,0 +1,40 @@
+ITEM NAME: Robe of the Bonecaster
+
+Velious Era (added December 2000-2001)
+ Project 1999 Blue - Robe of the Bonercaster
+Robe of the Bonecaster
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 12
+STA: +15  INT: +14  HP: +70  MANA: +50
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Conjure Corpse (Must Equip, Casting Time: 25.0)
+WT: 0.5  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a rolling plains steed
+ Ail the Elder
+ Rumbleroot
+ Treah Greenroot
+ Tunare (only?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

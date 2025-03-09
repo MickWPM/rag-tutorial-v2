@@ -1,0 +1,221 @@
+ITEM NAME: Crown of Distraction
+
+Velious Era (added December 2000-2001)
+
+
+Crown of Distraction
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 18
+STR: +3  DEX: +3  STA: +3  CHA: +3  WIS: +3  INT: +3  AGI: +3
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 0.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+ Plane of Mischief Armor Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Crown of Distraction x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Red Throne - Dropped
+  A Blue Throne - Dropped
+  A Red Crown - Dropped
+  A Blue Crown - Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Plane of Mischief Armor: Head x1
+ In  Empty Pot of Gold:
+
+
+  1 x Crown of Distraction - Crafted
+  1 x The Gift Box Doll - Crafted
+
+
+
+
+
+
+ Plane of Mischief Armor Result 
+ Doll 
+ Class
+
+
+ Crazy Cleric HelmCrazy Cleric Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 35
+CHA: +10  WIS: +10  HP: +20  MANA: +25
+SV FIRE: +5  SV COLD: +5
+Effect:  Ultravision (Worn, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+ Crazy Cleric Doll 
+ Cleric
+
+
+ Twisted Nature CrownTwisted Nature Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 15
+CHA: +10  WIS: +10  INT: +5  HP: +25  MANA: +25
+SV FIRE: +5  SV COLD: +5
+Effect: Ultravision (Worn, Casting Time: Instant)
+WT: 0.5  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+ Twisted Druid Doll 
+ Druid
+
+
+ Monkey Hide HelmMonkey Hide Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 15
+DEX: +10  INT: +5  HP: +30
+SV FIRE: +5  SV COLD: +5
+Effect:  Ultravision (Worn)
+WT: 0.1  Size: TINY
+Class: MNK
+Race: HUM IKS
+
+
+
+
+ Mad Monkey Doll 
+ Monk
+
+
+ Shamanistic Shenannigan HelmShamanistic Shenannigan Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 24
+CHA: +10  WIS: +10  INT: +5  HP: +25  MANA: +20
+SV FIRE: +5  SV COLD: +5
+Effect:  Ultravision (Worn)
+WT: 1.0  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+ Shamanistic Shenannigan Doll 
+ Shaman
+
+
+ Maleficent CrownMaleficent Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+CHA: -10  WIS: +4  INT: +10  HP: +35  MANA: +15
+SV MAGIC: +5  SV POISON: +5
+Effect:  Ultravision (Worn)
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+ Maleficent Necromancer Doll 
+ Necromancer
+
+
+ Wily Warlock CrownWily Warlock Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+CHA: +5  WIS: +10  INT: +10  HP: +25  MANA: +35
+SV MAGIC: +10
+Effect:  Ultravision (Worn, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ Wily Warlock Doll 
+ Wizard
+
+
+ Sly Summoners CrownSly Summoners Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+WIS: +10  INT: +7  HP: +25  MANA: +25
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+Effect:  Ultravision (Worn, Casting Time: Instant)
+WT: 0.2  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ Sly Summoner Doll 
+ Magician
+
+
+ Mischievous Dazzler CrownMischievous Dazzler Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 14
+CHA: +10  WIS: +5  INT: +10  HP: +20  MANA: +30
+SV MAGIC: +15
+Effect:  Ultravision (Worn)
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ A Mischievous Dazzler Doll 
+ Enchanter
+
+
+

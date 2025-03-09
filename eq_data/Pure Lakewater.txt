@@ -1,0 +1,31 @@
+ITEM NAME: Pure Lakewater
+
+Epic Quests Era (added Sept 2000)
+Pure Lakewater
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify):  Water from Ill Omen 
+
+  Drops From 
+Lake of Ill Omen
+
+ corrupted barracuda
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

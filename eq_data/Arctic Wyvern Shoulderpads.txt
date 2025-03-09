@@ -1,0 +1,42 @@
+ITEM NAME: Arctic Wyvern Shoulderpads
+
+Classic Era (added 1999-2000)
+
+Arctic Wyvern Shoulderpads
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 7
+STR: +2  STA: +6  CHA: +8
+SV COLD: +5
+WT: 1.5  Size: SMALL
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Arctic Wyvern Shoulderpads x1
+ In Coldain Tanners Kit:
+
+
+  1 x Arctic Wyvern Hide - Dropped
+  1 x Cod Oil - Crafted
+  1 x Shoulderpad Pattern - Bought
+  3 x Velium Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

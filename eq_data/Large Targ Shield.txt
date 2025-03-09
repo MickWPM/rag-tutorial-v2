@@ -1,0 +1,52 @@
+ITEM NAME: Large Targ Shield
+
+Classic Era (added 1999-2000)
+
+Large Targ Shield
+
+
+Slot: SECONDARY
+AC: 7
+WT: 8.3  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ Oggok
+
+ Grop
+
+
+
+  (512, 490)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

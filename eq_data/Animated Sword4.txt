@@ -1,0 +1,68 @@
+ITEM NAME: Animated Sword4
+
+Classic Era (added 1999-2000)
+
+
+Animated Sword4
+
+
+MAGIC ITEM  NO DROP  TEMPORARY  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 4 
+WT: 5.0  Size: MEDIUM
+Class: WAR
+Race: NONE
+
+
+
+
+  Drops From 
+Beholder's Maze
+
+ an evil eye pet
+
+Kithicor Forest
+
+ Coercer Q`ioul Pet
+
+Old Sebilis
+
+ froglok krup enchanter pet
+ Tolapumj Pet
+
+Plane of Fear
+
+ a worry wraith pet
+
+Plane of Hate
+
+ a forsaken revenant pet
+
+Plane of Sky
+
+ a watchful guard pet
+
+Qeynos Aqueducts
+
+ Reania Jukle pet
+
+Skyshrine
+
+ Drookas Pet
+ Erepon pet
+ Orivin Vor`Tun Pet
+ Osino pet
+ Suez pet
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

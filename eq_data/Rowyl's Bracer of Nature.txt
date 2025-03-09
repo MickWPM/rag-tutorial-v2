@@ -1,0 +1,34 @@
+ITEM NAME: Rowyl's Bracer of Nature
+
+Velious Era (added December 2000-2001)
+
+Rowyl's Bracer of Nature
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 7
+WIS: +7  MANA: +20
+SV FIRE: +2
+Effect:  Drones of Doom (Must Equip, Casting Time: 7.5) at Level 46
+WT: 1.0  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid's Velium Bracers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

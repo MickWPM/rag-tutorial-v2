@@ -1,0 +1,36 @@
+ITEM NAME: Songshawl
+
+Warrens Era (added spring 2001)
+
+
+Songshawl
+
+
+MAGIC ITEM  LORE ITEM  NO TRADE
+Slot: SHOULDERS
+AC: 10
+STR: +6  DEX: +6  CHA: +6  AGI: +6  HP: +50
+WT: 1.0  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ A Disciple of Innoruuk
+ A Champion of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

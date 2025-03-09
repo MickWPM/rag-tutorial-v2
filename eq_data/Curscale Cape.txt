@@ -1,0 +1,32 @@
+ITEM NAME: Curscale Cape
+
+Kunark Era (added 2000)
+
+Curscale Cape
+
+
+Slot: BACK
+AC: 3
+SV COLD: +2
+WT: 0.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 1gp 2sp to vendor. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Curscale Armor Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,79 @@
+ITEM NAME: Velium Warhammer
+
+Velious Era (added December 2000-2001)
+
+
+
+Velium Warhammer
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 6 
+Effect:  Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 6.8  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+vendors for ~ 5p 2g 4s 2c 
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari guard
+ a Chetari hoarder
+ a Chetari hunter
+ a Chetari runemage
+ a Chetari servant
+ a Chetari Warrior
+ a Chetari worker
+ a Paebala Rebel
+ a Paebala Spirit Talker
+ a Paebala warrior
+
+Eastern Wastes
+
+ a frost giant savage
+ a frost giant scout
+ a Ry`Gorr prison guard
+ a ulthork man o war
+ an ulthork hunter
+ an ulthork warrior
+ mystic of Ry`Gorr
+
+Great Divide
+
+ a frost giant scout
+ a furious tizmak warrior
+ a tizmak champion
+ a tizmak warrior
+
+Iceclad Ocean
+
+ a frost giant elite
+ a frost giant scout
+
+Icewell Keep
+
+ a coldain skeleton
+ An Icewell Sentry
+
+Tower of Frozen Shadow
+
+ a blood familiar
+ an armored shadow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

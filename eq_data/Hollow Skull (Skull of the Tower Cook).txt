@@ -1,0 +1,33 @@
+ITEM NAME: Hollow Skull (Skull of the Tower Cook)
+
+Kunark Era (added 2000)
+
+Hollow Skull
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: MEDIUM
+
+
+ Item Lore (from Identify): Skull of the Tower Cook
+
+Used as a container to make two combines for the quest. 
+
+  Drops From 
+Kurn's Tower
+
+ an undead jester
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mirgon Dower's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

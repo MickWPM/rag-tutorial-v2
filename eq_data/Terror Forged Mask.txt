@@ -1,0 +1,36 @@
+ITEM NAME: Terror Forged Mask
+
+Paineel Era (added February 2000)
+ NERF ALERT (see notes)
+
+
+Terror Forged Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 4
+CHA: -5  WIS: +7
+SV MAGIC: +5
+Effect:  Fear (Any Slot/Can Equip, Casting Time: 6.0) at Level 25
+WT: 1.5  Size: SMALL
+Class: CLR
+Race: HUM ERU
+
+
+The right-click effect has been nerfed (3/27/11) from Call of Bones to Fear following the original live timeline. Nerfed on Green as of 11/14/2020 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Terror
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

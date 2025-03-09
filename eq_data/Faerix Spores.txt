@@ -1,0 +1,31 @@
+ITEM NAME: Faerix Spores
+
+
+Faerix Spores
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Upper Guk
+
+ a fungus mutant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shiny Rings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

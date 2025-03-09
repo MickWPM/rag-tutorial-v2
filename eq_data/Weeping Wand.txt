@@ -1,0 +1,36 @@
+ITEM NAME: Weeping Wand
+
+Temple Era (added October 1999)
+
+
+Weeping Wand
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Charges: 2
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 5   AC: 3
+INT: +3
+Effect:  Strip Enchantment (Any Slot/Can Equip, Casting Time: Instant) at Level 20
+WT: 1.0  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Weeping Wand Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

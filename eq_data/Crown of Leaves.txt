@@ -1,0 +1,32 @@
+ITEM NAME: Crown of Leaves
+
+
+Crown of Leaves
+
+
+Slot: HEAD
+AC: 1
+WIS: +5
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No helm graphic 
+
+  Drops From 
+Southern Karana
+
+ Narra Tanith
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

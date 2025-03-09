@@ -1,0 +1,34 @@
+ITEM NAME: Helm of Rile
+
+Kunark Era (added 2000)
+
+Helm of Rile
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 6
+STR: +9  AGI: +5
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: IKS
+
+
+Vendors for 74p with average CHA. 
+
+  Drops From 
+Karnor's Castle
+
+ Construct of Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

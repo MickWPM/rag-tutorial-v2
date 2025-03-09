@@ -1,0 +1,43 @@
+ITEM NAME: Shaped Darkwood 1-Cam Bow (Silk)
+
+Classic Era (added 1999-2000)
+Were you looking for Shaped Darkwood 1-Cam Bow (Hemp)?
+Were you looking for Shaped Darkwood 1-Cam Bow (Linen)?
+
+
+Shaped Darkwood 1-Cam Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 46
+DMG: 20
+WT: 4.0  Range: 150  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 215)
+ Shaped Darkwood 1-Cam Bow (Silk)
+ In Fletching Kit:
+
+
+  1 x Darkwood Bow Staff - Bought
+  1 x Silk String - Bought
+  1 x Planing Tool - Bought, Returned on Success or Failure
+  1 x Standard Bow Cam - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

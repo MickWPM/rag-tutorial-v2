@@ -1,0 +1,55 @@
+ITEM NAME: Russet Oxide
+
+
+Russet Oxide
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used to make "brown rust" color dyes for Fine Plate Armor. 
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire elemental
+
+Najena
+
+ an earth elemental
+
+The Hole
+
+ an elemental warrior
+
+Solusek's Eye
+
+ blazing elemental
+
+Steamfont Mountains
+
+ an earth elemental
+
+The Overthere
+
+ a cliff golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Recipe name(s)? (Trivial: ?)
+
+ Alchemy
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

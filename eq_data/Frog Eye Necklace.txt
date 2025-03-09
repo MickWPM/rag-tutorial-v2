@@ -1,0 +1,36 @@
+ITEM NAME: Frog Eye Necklace
+
+Classic Era (added 1999-2000)
+
+Frog Eye Necklace
+
+
+Slot: NECK
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Two items with the same name. The Captain Necklace provides more reward in Emissary quest.
+
+ Item Lore (from Identify): Troll Slayer Necklace
+ Item Lore (from Identify): Troll Slayer Capt. Necklace 
+
+  Drops From 
+Innothule Swamp
+
+ a troll slayer (standard Necklace)
+ Slayer Captain (Capt. Necklace)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Emissary
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

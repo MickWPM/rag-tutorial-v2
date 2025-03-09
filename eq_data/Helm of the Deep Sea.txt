@@ -1,0 +1,36 @@
+ITEM NAME: Helm of the Deep Sea
+
+Velious Era (added December 2000-2001)
+
+Helm of the Deep Sea
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 30
+STA: +5  HP: +35
+SV COLD: +10
+Effect: Enduring Breath (Worn)
+WT: 3.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+Original stats. See discussion. Has green plate appearance. 
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Koi`Doken
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

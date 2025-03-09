@@ -1,0 +1,38 @@
+ITEM NAME: Ice Silk Veil
+
+Velious Era (added December 2000-2001)
+
+
+
+Ice Silk Veil
+
+
+MAGIC ITEM Slot: FACE AC: 3 CHA: +4  INT: +4  HP: +5  MANA: +10
+SV COLD: +5  SV MAGIC: +5 WT: 0.2  Size: SMALL Class: NEC WIZ MAG ENC Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 282)
+ Yield: Ice Silk Veil x1
+ In Loom:
+
+
+  1 x Ice Silk Swatch - Crafted
+  1 x Mask Pattern - Bought
+  1 x Platinum Thread - Bought
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

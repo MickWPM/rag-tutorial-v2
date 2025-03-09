@@ -1,0 +1,33 @@
+ITEM NAME: Dainty Gloves
+
+Velious Era (added December 2000-2001)
+Dainty Gloves
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 7
+CHA: +20  INT: +10  MANA: +30
+WT: 1.0  Size: TINY
+Class: BRD ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Sleeper's Tomb
+
+ Tukaarak the Warder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

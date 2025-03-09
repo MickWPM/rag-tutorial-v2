@@ -1,0 +1,33 @@
+ITEM NAME: Dawnchaser
+
+Classic Era (added 1999-2000)
+Dawnchaser
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 11 
+WT: 3.0  Size: LARGE
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

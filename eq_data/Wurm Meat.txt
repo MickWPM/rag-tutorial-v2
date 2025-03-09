@@ -1,0 +1,75 @@
+ITEM NAME: Wurm Meat
+
+
+Wurm Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ Entalon
+ Phurzikon
+ A Wurm
+
+Great Divide
+
+ a crystaline shardwurm
+ a guardian shardwurm
+ a young shardwurm
+ an ancient shardwurm
+ an elder shardwurm
+ Shardtooth
+ Shardwurm Broodmother
+ shardwurm matriarch
+ Vluudeen
+
+Skyfire Mountains
+
+ a guardian wurm
+ a mature wurm
+ a wandering wurm
+ a wurm
+ an old wurm
+
+Skyshrine
+
+ Oglard
+
+Temple of Veeshan
+
+ a burning guardian
+ a fiery guardian
+ a fiery temple guardian
+ an ancient frost guardian
+ an ancient guardian wurm
+ an ancient ice wurm defender
+ an elder temple defender
+
+Western Wastes
+
+ a cragwyrm
+ a lindwyrm
+ Mraaka
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Pickled Wurm (Trivial: 75)
+
+
+
+
+

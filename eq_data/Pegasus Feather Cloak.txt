@@ -1,0 +1,36 @@
+ITEM NAME: Pegasus Feather Cloak
+
+Classic Era (added 1999-2000)
+
+Pegasus Feather Cloak
+
+
+MAGIC ITEM  NO DROP
+Slot: SHOULDERS
+AC: 6
+DEX: +7
+Effect:  Levitate (Any Slot, Casting Time: 6.0)
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Does not require bat wings to click. Duration 12 minutes. 
+
+  Drops From 
+Southern Karana
+
+ Quillmane
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Ring of Dain Frostreaver IV
+
+Velious Era (added December 2000-2001)
+
+ Bambush becomes blessed by Dain.
+Ring of Dain Frostreaver IV
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 10
+STR: +10  STA: +10  HP: +100
+SV MAGIC: +10
+Effect:  Frostreaver's Blessing (Must Equip, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Dain's Insignia Ring
+
+The instant click effect provides +10 regen, +10 damage shield, and +10 ATK.  Does not stack with the click effect of Chestplate of Fiery Might or the Regeneration line of spells, but does stack with worn regeneration and the Magician/Druid line of damage shields. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #10: Ring of Dain Frostreaver IV
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

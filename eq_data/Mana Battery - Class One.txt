@@ -1,0 +1,55 @@
+ITEM NAME: Mana Battery - Class One
+
+Classic Era (added 1999-2000)
+
+
+Mana Battery - Class One
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Costs about 11 platinum
+Can mana batteries currently be used to recharge PoS items? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Plane of Sky
+
+ Key Master
+
+
+
+  (1384, 601)
+
+
+ Iceclad Ocean
+
+ Adinel Jailbar
+
+
+
+  (4540, 1287)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 54) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

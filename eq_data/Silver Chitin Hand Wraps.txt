@@ -1,0 +1,36 @@
+ITEM NAME: Silver Chitin Hand Wraps
+
+Velious Era (added December 2000-2001)
+
+Silver Chitin Hand Wraps
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 5
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Haste: +22%  
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is a good budget haste item for monks and rogues without epics and other melee who don't mind giving up their hand slot for it. 
+
+  Drops From 
+Velketor's Labyrinth
+
+ a Frenzied Velium Broodling
+ a Frenzied Velium Stalker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

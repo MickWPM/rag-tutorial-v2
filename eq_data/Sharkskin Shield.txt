@@ -1,0 +1,30 @@
+ITEM NAME: Sharkskin Shield
+
+
+
+Sharkskin Shield
+
+
+Slot: SECONDARY
+AC: 3
+WT: 3.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shark Hunting
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

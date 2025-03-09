@@ -1,0 +1,31 @@
+ITEM NAME: Serpent's Drink
+
+Classic Era (added 1999-2000)
+
+
+Serpent's Drink
+
+
+EXPENDABLE  Charges: 1
+Effect: Scale Skin (Any Slot, Casting Time: 2.5)
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+(Was renamed to "Turtle's Drink" and improved slightly on live; this is the Project 1999 version.) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy 63 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

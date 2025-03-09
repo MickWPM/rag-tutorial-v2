@@ -1,0 +1,36 @@
+ITEM NAME: Bracer of Scale
+
+Velious Era (added December 2000-2001)
+
+
+Bracer of Scale
+
+
+MAGIC ITEM LORE ITEM NO DROP
+Slot: WRIST
+AC: 6
+STR: +6
+SV MAGIC: +5
+WT: 2.0 Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL except DWF HFL GNM IKS
+
+
+
+
+  Drops From 
+Great Divide
+
+ Shardwurm Matriarch
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

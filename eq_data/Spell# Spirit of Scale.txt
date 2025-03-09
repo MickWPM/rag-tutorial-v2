@@ -1,0 +1,96 @@
+ITEM NAME: Spell: Spirit of Scale
+
+Kunark Era (added 2000)
+
+
+Spell: Spirit of Scale
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Alteration
+Mana Cost: 150
+Effect:  Spirit of Scale
+WT: 0.1  Size: SMALL
+Class: DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+ a scoriae hornet
+ a tatterback ape
+ greater plague skeleton
+
+City of Mist
+
+ a fog golem
+ a haze golem
+ a vapor golem
+
+Howling Stones
+
+ a sepulcher skeleton
+ greater war boned skeleton
+
+Old Sebilis
+
+ a leprous scarab
+ a pox scarab
+ a sebilite golem
+ a sepsis scarab
+ an iksar necromancer
+ dar ghoul knight
+ froglok dar knight
+ froglok dar wizard
+ froglok ilis knight
+ froglok ilis wizard
+ froglok jin shaman
+ froglok jin wizard
+ froglok kor shaman
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ krup ghoul knight
+
+Plane of Sky
+
+ a thunder spirit
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a lava walker (Wyvern)
+ a mature wurm
+ a mature wyvern
+ a skycinder drake
+ a wandering wurm
+ a wurm
+ a wurm spirit
+ a wyvern
+ an elder wyvern
+ Black Scar
+ Faerie of Dismay
+
+Trakanon's Teeth
+
+ froglok forager
+ froglok hunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Spells
+ Shaman Spells (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

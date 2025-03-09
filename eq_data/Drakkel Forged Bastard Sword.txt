@@ -1,0 +1,43 @@
+ITEM NAME: Drakkel Forged Bastard Sword
+
+Velious Era (added December 2000-2001)
+
+
+
+Drakkel Forged Bastard Sword
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 20 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL except DWF HFL GNM
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 9 Platinums
+ 5 Golds
+ 9 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Great Divide
+
+ a frost giant scout
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

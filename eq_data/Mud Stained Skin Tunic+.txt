@@ -1,0 +1,32 @@
+ITEM NAME: Mud Stained Skin Tunic*
+
+
+
+Mud Stained Skin Tunic*
+
+
+LORE ITEM
+Slot: Chest
+AC: 4
+WT: 1.6  Size: MEDIUM
+Class: WAR
+Race: OGR
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Starter tunic quest for Ogre Warriors. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

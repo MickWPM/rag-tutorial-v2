@@ -1,0 +1,35 @@
+ITEM NAME: Blade of the Green Dragon Eye
+
+Epic Quests Era (added Sept 2000)
+
+Blade of the Green Dragon Eye
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 13 
+SV POISON: +5
+WT: 2.0  Size: MEDIUM
+Class: WAR SHD ROG
+Race: ALL
+
+
+Replaced the Blade of the Black Dragon Eye as a Sebilis drop in November 2000. 
+
+  Drops From 
+Old Sebilis
+
+ froglok reet knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

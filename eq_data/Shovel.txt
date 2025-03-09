@@ -1,0 +1,71 @@
+ITEM NAME: Shovel
+
+Classic Era (added 1999-2000)
+Were you looking for Shovel (of Earth)?
+
+Shovel
+
+
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 27
+DMG: 4 
+WT: 6.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+This is not the shovel for the mage focus item. It is however one of the fastest and most affordable/accessible 2HB weapons in the game. 
+
+  Drops From 
+Western Plains of Karana
+
+ Furball Miller
+
+Chardok
+
+ a froglok slave
+ other slaves
+ a sarnak slavedriver
+ a Sarnak Slavemaster
+ A Slaveblock Guard
+ an off duty Slavemaster
+
+Frontier Mountains
+
+ burynai squad leader
+
+Old Sebilis
+
+ Gangrenous Scarab
+
+Timorous Deep
+
+ Xiblin Fizzlebik
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Dytar
+
+
+
+  (51, -197)
+
+  Related quests 
+ Crusader's Test of the Zealot (#4)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

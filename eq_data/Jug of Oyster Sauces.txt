@@ -1,0 +1,62 @@
+ITEM NAME: Jug of Oyster Sauces
+
+Velious Era (added December 2000-2001)
+
+
+
+Jug of Oyster Sauces
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Cobalt Scar
+
+ Bloogy Shellcracker
+
+
+
+  (186, -1513)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Mammoth Steaks (Trivial: 41)
+ Pickled Drake (Trivial: 75)
+ Pickled Wurm (Trivial: 75)
+ Pickled Wyvern (Trivial: 75)
+ Siren Pickles (Trivial: 75)
+ Yakman Steak (Trivial: 75)
+ Shark Fillet (Trivial: 82)
+ Pickled Frost Giant (Trivial: 88)
+ Pickled Storm Giant (Trivial: 88)
+ Salty Whitefish Fillets (Trivial: 88)
+ Pickled Faun (Trivial: 95)
+ Orange Flavored Cod (Trivial: 102)
+ Pickled Unicorn (Trivial: 108)
+ Pickled Dragon (Trivial: 115)
+ Vegetable Roughy (Trivial: 115)
+ Frost Giant Steak (Trivial: 142)
+
+
+
+
+

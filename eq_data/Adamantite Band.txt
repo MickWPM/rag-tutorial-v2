@@ -1,0 +1,34 @@
+ITEM NAME: Adamantite Band
+
+
+Adamantite Band
+
+
+MAGIC ITEM
+Slot: FINGER
+HP: +75
+SV MAGIC: -10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Popular for Enchanters who like to charm for the negative magic resist. You can give multiple rings to a pet. [1] 
+
+  Drops From 
+Lower Guk
+
+ a reanimated hand
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Call of Flame Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

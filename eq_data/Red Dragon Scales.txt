@@ -1,0 +1,42 @@
+ITEM NAME: Red Dragon Scales
+
+
+Red Dragon Scales
+
+
+MAGIC ITEM
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Nagafen's Lair
+
+ Lord Nagafen
+ Zordakalicus Ragefire
+
+The Hole
+
+ Nortlav the Scalekeeper (Fear/Hate 2.0 Era)
+
+Skyfire Mountains
+
+ Talendor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+ Warrior Epic Quest
+ Red Dragonscale Armor Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,85 @@
+ITEM NAME: Hill Giant Toes
+
+
+Hill Giant Toes
+
+
+QUEST ITEM
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 8 Golds
+ 0 Silvers
+ 7 Coppers
+ 
+  Drops From 
+West Commonlands
+
+ a hill giant
+ a nightfall giant
+
+Dreadlands
+
+ a mountain giant brae
+ a mountain giant craig
+ a mountain giant steep
+
+Eastern Plains of Karana
+
+ a hill giant
+ Tarbul Earthstrider
+
+Frontier Mountains
+
+ a mountain giant tump
+
+Rathe Mountains
+
+ a hill giant
+
+Ocean of Tears
+
+ Gornit
+
+Western Plains of Karana
+
+ a hill giant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shovel of Ponz Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy (Trivial: 131)
+ Yield: Potion of Dulsehound x1
+ In Medicine Bag:
+
+
+  1 x Balm Leaves - Bought
+  1 x Hill Giant Toes - Dropped
+
+
+  Spell Research (Trivial: No Fail)
+ Yield: Magi Rune (Beza) x1
+ In Concordance of Research:
+ 1 x Quill - Bought
+ 1 x Topaz - Bought or Dropped
+ 1 x Piece of Parchment - Bought
+ 1 x Hill Giant Toes - Dropped
+ 1 x Any Fine Steel Piercing or Bludgeoning Weapon - Dropped
+
+
+
+
+
+

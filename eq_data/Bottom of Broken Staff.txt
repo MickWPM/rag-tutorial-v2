@@ -1,0 +1,32 @@
+ITEM NAME: Bottom of Broken Staff
+
+
+
+Bottom of Broken Staff
+
+
+MAGIC ITEM  LORE ITEM
+WT: 8.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Bottom of Jaggedpine Crook 
+
+  Drops From 
+Qeynos Hills
+
+ a gnoll hunter (Rare)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Jagged Pine Crook Staff
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

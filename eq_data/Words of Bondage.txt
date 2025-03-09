@@ -1,0 +1,104 @@
+ITEM NAME: Words of Bondage
+
+
+Words of Bondage
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Prince Selrach Di`zok
+
+East Freeport
+
+ Sir Lucan D`Lere
+
+Howling Stones
+
+ a bile golem
+ a sepulcher skeleton
+
+Kedge Keep
+
+ a swirlspine seahorse
+ Estrella of Gloomwater
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+ King Tranix
+
+Ocean of Tears
+
+ Allizewsaur
+
+Old Sebilis
+
+ froglok bok shaman
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+
+Permafrost
+
+ an ice giant
+
+Plane of Fear
+
+ a boogeyman
+ a fetid fiend
+ a glare lord
+ a samhain
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Growth
+
+ Undogo Digolo
+
+Plane of Hate
+
+ a haunted chest
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+a Vicious Raptor
+
+Skyfire Mountains
+
+ a mature wyvern
+ a wurm
+
+South Kaladim
+
+ King Kazon Stormhammer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Greater Conjuration: Air (Trivial: 182)
+ Greater Conjuration: Fire (Trivial: 182)
+ Greater Conjuration: Water (Trivial: 182)
+
+
+
+
+

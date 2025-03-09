@@ -1,0 +1,38 @@
+ITEM NAME: Tar goo strands
+
+Velious Era (added December 2000-2001)
+
+
+
+Tar goo strands
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 5
+STR: +3  HP: +20
+SV FIRE: -5  SV DISEASE: +4  SV POISON: +4
+WT: 0.8  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ a tar goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reinforcements for The Tunarean Regiment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

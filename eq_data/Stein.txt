@@ -1,0 +1,37 @@
+ITEM NAME: Stein
+
+Kunark Era (added 2000)
+Were you looking for Stein (of Water)?
+
+Stein
+
+
+LORE ITEM  NO DROP  
+Slot: SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 2 
+WT: 1.0  Size: SMALL
+Class: ALL except
+Race: ALL
+
+
+ Item Lore (from Identify):  crafted in West Cabilis - GRYPE
+Give this back to Grype in return for a Foot of Candlestick. 
+
+  Drops From 
+Firiona Vie
+
+ Halfling Swashbuckler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 6th Skullcap
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

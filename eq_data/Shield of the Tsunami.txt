@@ -1,0 +1,37 @@
+ITEM NAME: Shield of the Tsunami
+
+Velious Era (added December 2000-2001)
+
+Shield of the Tsunami
+
+
+LORE ITEM  
+Slot: SECONDARY
+AC: 26
+MANA: +65
+WT: 8.0  Size: MEDIUM
+Class: PAL SHD
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Siren's Grotto
+
+ Shimmering Sea Spirit
+
+ Fashion
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

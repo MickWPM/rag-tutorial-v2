@@ -1,0 +1,41 @@
+ITEM NAME: Solist's Icy Wand
+
+Kunark Era (added 2000)
+
+
+
+ Solist's Icy Wand
+Solist's Icy Wand
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Effect:  Shock of Ice (Must Equip, Casting Time: 5.0) at Level 12
+WT: 1.0  Size: SMALL
+Class: WIZ
+Race: ALL
+
+
+This item's clicky effect is a 38 damage cold nuke. With a 5 second cast time, it can put out 7.6 DPS. Compare to Sage's Robe or Solist's Robe of Invocation.
+Note: This wand is a very very rare drop. I once AE'ed kurn's basement for days and I've never seen it.
+ Item Lore (from Identify):  Solist’s Icy Wand : Shock of Ice 
+
+  Drops From 
+Kurn's Tower
+
+ Burynai Excavator
+ lesser icebone skeleton
+ a greater skeleton
+ greater scalebone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

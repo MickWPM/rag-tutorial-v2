@@ -1,0 +1,44 @@
+ITEM NAME: Othmir Hide Tunic
+
+Velious Era (added December 2000-2001)
+Othmir Hide Tunic
+
+
+Slot: CHEST
+AC: 8
+SV COLD: +3
+WT: 3.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Costs about 11 plat 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Kael Drakkal
+
+ Graggaz Fleshflayer
+
+
+
+  (247,872)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

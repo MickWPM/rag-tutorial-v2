@@ -1,0 +1,37 @@
+ITEM NAME: Wrapped Entropy Serpent Spine
+
+Velious Era (added December 2000-2001)
+
+Wrapped Entropy Serpent Spine
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY WAIST
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 11   AC: 12
+AGI: +5
+SV MAGIC: +5  SV POISON: +5
+Effect:  Blinding Poison III (Combat, Casting Time: Instant) at Level 1
+WT: 3.6  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Also Known as The WESS 
+
+  Drops From 
+Dragon Necropolis
+
+ an entropy serpent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

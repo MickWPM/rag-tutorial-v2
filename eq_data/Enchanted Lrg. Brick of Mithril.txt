@@ -1,0 +1,32 @@
+ITEM NAME: Enchanted Lrg. Brick of Mithril
+
+
+
+Enchanted Lrg. Brick of Mithril
+
+
+WT: 10.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Created from a Large Brick of Mithril with the Enchant Mithril spell.
+Used for High Elf cultural smithing. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Mithril Rings (Trivial: 51)
+ Enchanted Block of Mithril (Trivial: 175)
+
+
+
+
+

@@ -1,0 +1,430 @@
+ITEM NAME: Gorget Pattern
+
+
+
+Gorget Pattern
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork tanner
+
+
+
+  (954, -37)
+
+
+ Ak'Anon
+
+ a clockwork tanner
+
+
+
+  (977, -37)
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (761, 146)
+
+
+ Butcherblock Mountains
+
+ Alga Bruntbuckler
+
+
+
+  (-1185, -1957)
+
+
+ Butcherblock Mountains
+
+ Fugan Mumfur
+
+
+
+  (-1500, 2876)
+
+
+ East Cabilis
+
+ Klok Wartol
+
+
+
+  (93, -298)
+
+
+ East Cabilis
+
+ Klok Stitch
+
+
+
+  (128, -9)
+
+
+ Erudin
+
+ Gayle Weaven
+
+
+
+  (245, 88)
+
+
+ Erudin
+
+ Demicla Tanner
+
+
+
+  (-689, -101)
+
+
+ Everfrost Peaks
+
+ Seria O`Danos
+
+
+
+  (3608, 701)
+
+
+ The Feerrott
+
+ Murga
+
+
+
+  (1129, -138)
+
+
+ Felwithe
+
+ Merchant Tissan
+
+
+
+  (-122, -359)
+
+
+ Firiona Vie
+
+ Erica Swiftweave
+
+
+
+  (-3650, 2013)
+
+
+ Firiona Vie
+
+ Dionin Needlespin
+
+
+
+  (-3642, 1985)
+
+
+ East Freeport
+
+ Sissin Tanner
+
+
+
+  (44, -550)
+
+
+ East Freeport
+
+ Sanhan Tanner
+
+
+
+  (72, -568)
+
+
+ East Freeport
+
+ Winsa Tanner
+
+
+
+  (38, -539)
+
+
+ East Freeport
+
+ Winlar Tanner
+
+
+
+  (38, -561)
+
+
+ Greater Faydark
+
+ Merchant Aluwenae
+
+
+
+  (-336, -116)
+
+
+ Greater Faydark
+
+ Merchant Gaeadin
+
+
+
+  (-114, -131)
+
+
+ Grobb
+
+ Bimuk
+
+
+
+  (517, -221)
+
+
+ Grobb
+
+ Jarlok
+
+
+
+  (390, -301)
+
+
+ Halas
+
+ Cindl
+
+
+
+  (270, -171)
+
+
+ Highpass Hold
+
+ Dyona Rossook
+
+
+
+  (-248, 135)
+
+
+ South Kaladim
+
+ Kalameky Darkfoam
+
+   no patterns as off 5/12/19
+
+  (173, 389)
+
+
+ Kithicor Forest
+
+ Lena Leatherspinner
+
+
+
+  (-265, 4000)
+
+
+ Misty Thicket
+
+ Tipa Lighten
+
+
+
+  (581, -2202)
+
+
+ Misty Thicket
+
+ Sonsa Fromp
+
+
+
+  (672, -2211)
+
+
+ Neriak Foreign Quarter
+
+ Jarvah
+
+
+
+  (-222, -366)
+
+
+ Neriak Commons
+
+ Garren D`Vek
+
+
+
+  (-4, -996)
+
+
+ Neriak Third Gate
+
+ Hutyn L`Lozz
+
+
+
+  (747, -1293)
+
+
+ Neriak Third Gate
+
+ Medron Y`Lask
+
+
+
+  (769, -1310)
+
+
+ Northern Desert of Ro
+
+ Spoolie Gee
+
+
+
+  (3371, 488)
+
+
+ Oggok
+
+ Juk Hidebeater
+
+
+
+  (368, -202)
+
+
+ Oggok
+
+ Gretamog
+
+
+
+  (627, 693)
+
+
+ The Overthere
+
+ Tin Merchant IX
+
+
+
+  (2658, 2615)
+
+
+ Western Plains of Karana
+
+ Alysa
+
+
+
+  (431, -4364)
+
+
+ South Qeynos
+
+ Fhara Semhart
+
+
+
+  (399, -80)
+
+
+ Rathe Mountains
+
+ Chizzlik
+
+
+
+  (1719, 1310)
+
+
+ Rivervale
+
+ Twippie Diggs
+
+
+
+  (-116, -211)
+
+
+ Steamfont Mountains
+
+ Freed Fimplefur
+
+
+
+  (-1696, 829)
+
+
+ Thurgadin
+
+ Mauren Frostbeard
+
+
+
+  (-146, 218)
+
+
+ Thurgadin
+
+ Rexx Frostweaver
+
+
+
+  (-272, 133)
+
+
+ Thurgadin
+
+ Betti Frostweaver
+
+
+
+  (-264, 133)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+
+
+
+

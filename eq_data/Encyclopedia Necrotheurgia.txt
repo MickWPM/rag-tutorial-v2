@@ -1,0 +1,34 @@
+ITEM NAME: Encyclopedia Necrotheurgia
+
+
+Encyclopedia Necrotheurgia
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Effect:  Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+Focus Effect: Minion of Hate
+WT: 2.0  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+The only known focus item for Necromancers. Casting a pet with the Encyclopedia equipped will add +1 level, make the pet much larger and more HP. See Pet Guide for more details. 
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God) (Prevamp)
+ Ashenbone Broodmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

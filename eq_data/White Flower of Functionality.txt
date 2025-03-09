@@ -1,0 +1,44 @@
+ITEM NAME: White Flower of Functionality
+
+Velious Era (added December 2000-2001)
+
+
+
+White Flower of Functionality
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+Effect:  Aura of White Petals (Any Slot/Can Equip, Casting Time: 2.0)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Floats in the air50 CR, stacks with Circle of Summer. Does NOT stack with Resist Cold Item from Frozen_Turban 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: White Flower of Functionality x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Black Crown - Dropped
+  A White Crown - Dropped
+  A Red Crown - Dropped
+  A Blue Crown - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

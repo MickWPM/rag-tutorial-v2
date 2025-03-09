@@ -1,0 +1,44 @@
+ITEM NAME: Nectar of Isolation
+
+
+
+Nectar of Isolation
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Timorous Deep
+
+ Portik Grolam
+
+
+
+  (-11592, -2275)
+
+  Related quests 
+ Scaled Mystic Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

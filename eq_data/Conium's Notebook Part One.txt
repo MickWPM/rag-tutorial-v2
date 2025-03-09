@@ -1,0 +1,104 @@
+ITEM NAME: Conium's Notebook Part One
+
+ It's Nubs from the book!
+
+
+Conium's Notebook Part One
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Dagnor's Cauldron
+
+ Conium Darkblade
+
+
+
+  (-236, -826)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Conium's Notebook One
+Nubs Came to Visit.
+My old friend Nubs returned
+from his journey to the Lava-
+storm Mountains, his hands
+still stained red with the
+blood of the goblins native
+to those lands. Among his bag
+of trophies I found a strange
+black fungus. Nubs calls it a
+DEATH CAP due to a white
+vaguely skull-shaped marking
+adorning the cap. Nubs tells
+me they are grown by kobolds
+who live in the volcano of
+Solusek's Eye, and that two,
+combined with BLACK HENBANE,
+also grown by the kobolds,
+create a poison that numbs a
+person's mind so that they are
+oblivious to actions around
+them. Be sure to have a SEALED
+POISON VIAL and LARENT
+SUSPENSION for storage. Heh,
+Nubs says the kobold shamans
+ingest it themselves in prayer
+to their god.
+
+A Really Angry Goblin.
+I had just returned from the
+Lesser Faydarks where I had
+gone to collect some PIXIE
+DUST so that I may experiment
+with the rumor that the dust
+can sometimes drive a person
+crazy. Upon opening my pack I
+discovered that the dust had
+spilt and now coated the
+AMANITA PHALLOIDE fungi I had
+collected from the rotten
+mulch that passes for a lawn
+in the Estate of Unrest.
+Thinking my pixie dust wasted
+I went ahead and prepared the
+fungi in the usual manner
+with a SEALED POISON VIAL and
+LARENT SUSPENSION and set out
+to hunt goblins. I found me a
+goblin all right and boy was
+I surprised when the fungi
+poison I had coated my blades
+with made him go berserk.
+I've never seen a goblin
+fight so desperately in all my
+years slaying the vermin.
+Fortunately the ugly critter
+dropped dead within minutes
+of the poison taking effect.
+
+  See Also 
+ Player Tradeskill Poison Making
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

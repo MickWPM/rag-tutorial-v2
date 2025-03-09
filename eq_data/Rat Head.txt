@@ -1,0 +1,36 @@
+ITEM NAME: Rat Head
+
+
+
+Rat Head
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+North Qeynos
+
+ a mangy rat
+
+Qeynos Hills
+
+ a mangy rat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sneed's Rat Infestation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

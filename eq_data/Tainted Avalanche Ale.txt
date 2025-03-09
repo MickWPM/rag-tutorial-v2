@@ -1,0 +1,42 @@
+ITEM NAME: Tainted Avalanche Ale
+
+Velious Era (added December 2000-2001)
+
+Tainted Avalanche Ale
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #9: Coldain Hero's Insignia Ring
+
+  Player crafted 
+ Brewing (Trivial: 248)
+ Yield: Tainted Avalanche Ale x1
+ In Brew Barrel:
+
+
+  1 x Arctic Mussels - Foraged, Ground Spawn
+  1 x Bottle - Crafted, Bought, Returned on Failure
+  1 x Ice Wyvern Stinger - Dropped
+  1 x Iceball - Dropped
+  1 x Mind Melt - Crafted
+  1 x Runed Sea Shell (Cloud) - Dropped
+  1 x Seahorse Scales - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

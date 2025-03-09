@@ -1,0 +1,33 @@
+ITEM NAME: Gnome Tinkered Toy
+
+Classic Era (added 1999-2000)
+
+
+Gnome Tinkered Toy
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Steamfont Mountains
+
+ Nilits Contraption
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gnomish Toy
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

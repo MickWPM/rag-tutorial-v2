@@ -1,0 +1,37 @@
+ITEM NAME: Stone Totem
+
+Classic Era (added 1999-2000)
+
+Stone Totem
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+HP: +5  MANA: +5
+WT: 0.8  Size: SMALL
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Ocean of Tears
+
+ an isle goblin wizard
+
+Najena
+
+ a goblin magician
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

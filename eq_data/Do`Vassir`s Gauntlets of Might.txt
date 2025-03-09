@@ -1,0 +1,36 @@
+ITEM NAME: Do`Vassir`s Gauntlets of Might
+
+Velious Era (added December 2000-2001)
+
+
+Do`Vassir`s Gauntlets of Might
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 40
+STR: +20  DEX: +15  STA: +15  CHA: +15  WIS: +15  INT: +15  AGI: +15  HP: +100  MANA: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 2.0  Size: TINY
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Gauntlets of the Chosen 
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

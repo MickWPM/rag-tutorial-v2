@@ -1,0 +1,33 @@
+ITEM NAME: Drixie Remains
+
+Velious Era (added December 2000-2001)
+
+
+Drixie Remains
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ Yvolcarn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crest of the Drixie Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

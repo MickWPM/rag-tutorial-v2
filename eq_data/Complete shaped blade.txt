@@ -1,0 +1,41 @@
+ITEM NAME: Complete shaped blade
+
+Velious Era (added December 2000-2001)
+
+
+Complete shaped blade
+
+
+LORE ITEM  NO DROP
+WT: 19.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Blacksmithing (Trivial: 188)
+ Yield: Complete shaped blade x1
+ In Forge:
+
+
+  1 x Complete raw blade - Crafted
+  1 x Forging Hammer - Bought, Quested, Dropped, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Pottery
+ Clay coated blade (Trivial: 128)
+
+
+
+
+

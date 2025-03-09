@@ -1,0 +1,355 @@
+ITEM NAME: How To Sew: Small Sizes
+
+
+
+How To Sew: Small Sizes
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork tanner
+
+
+
+  (954, -37)
+
+
+ Ak'Anon
+
+ a clockwork tanner
+
+
+
+  (977, -37)
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (1313, -915)
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (771, 172)
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (963, -63)
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (987, -52)
+
+
+ Butcherblock Mountains
+
+ Alga Bruntbuckler
+
+
+
+  (-1185, -1957)
+
+
+ Butcherblock Mountains
+
+ Fugan Mumfur
+
+
+
+  (-1500, 2876)
+
+
+ East Cabilis
+
+ Klok Stitch
+
+
+
+  (128, -9)
+
+
+ West Commonlands
+
+ Sorsha Hobbitfriend
+
+
+
+  (-196, 468)
+
+
+ East Commonlands
+
+ Dena Loommistress
+
+
+
+  (317, 4797)
+
+
+ Erudin
+
+ Gayle Weaven
+
+
+
+  (245, 88)
+
+
+ Everfrost Peaks
+
+ Seria O`Danos
+
+
+
+  (3608, 701)
+
+
+ Firiona Vie
+
+ Dionin Needlespin
+
+
+
+  (-3642, 1985)
+
+
+ East Freeport
+
+ Sissin Tanner
+
+
+
+  (44, -550)
+
+
+ Greater Faydark
+
+ Merchant Gaeadin
+
+
+
+  (-114, -131)
+
+
+ Highpass Hold
+
+ Dyona Rossook
+
+
+
+  (-248, 135)
+
+
+ South Kaladim
+
+ Gurtha Yaptongue
+
+
+
+  (224, -254)
+
+
+ South Kaladim
+
+ Kalameky Darkfoam
+
+
+
+  (173, 389)
+
+
+ Misty Thicket
+
+ Tipa Lighten
+
+
+
+  (581, -2202)
+
+
+ Misty Thicket
+
+ Sonsa Fromp
+
+
+
+  (672, -2211)
+
+
+ Neriak Foreign Quarter
+
+ Mordant Tather
+
+
+
+  (130, -175)
+
+
+ Neriak Commons
+
+ Mikaela S`Kor
+
+
+
+  (-5, -1002)
+
+
+ Neriak Third Gate
+
+ Hutyn L`Lozz
+
+
+
+  (747, -1293)
+
+
+ Neriak Third Gate
+
+ Medron Y`Lask
+
+
+
+  (769, -1310)
+
+
+ Northern Desert of Ro
+
+ Spoolie Gee
+
+
+
+  (3371, 488)
+
+
+ The Overthere
+
+ Tin Merchant IX
+
+
+
+  (2658, 2615)
+
+
+ Western Plains of Karana
+
+ Alysa
+
+
+
+  (431, -4364)
+
+
+ South Qeynos
+
+ Iala Lenard
+
+
+
+  (177, -148)
+
+
+ Rivervale
+
+ Meeka Diggs
+
+
+
+  (-18, -243)
+
+
+ Steamfont Mountains
+
+ Freed Fimplefur
+
+
+
+  (-1696, 829)
+
+
+ Thurgadin
+
+ Mauren Frostbeard
+
+
+
+  (-146, 218)
+
+
+ Thurgadin
+
+ Kyla Frostbeard
+
+
+
+  (-113, 230)
+
+
+ Thurgadin
+
+ Cobi Frostbeard
+
+
+
+  (-114, 219)
+
+
+ Thurgadin
+
+ Rexx Frostweaver
+
+
+
+  (-272, 133)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+The short guide reads:
+
+With your sewing kit, place the
+appropriate pattern and a ruined wolf
+pelt into the sewing kit. If you follow
+through skillfully, you will produce the
+appropriate small sized clothing.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

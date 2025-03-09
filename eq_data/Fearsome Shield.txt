@@ -1,0 +1,36 @@
+ITEM NAME: Fearsome Shield
+
+Warrens Era (added spring 2001)
+ 
+Fearsome Shield
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 40
+STR: +15  STA: +15
+SV DISEASE: +15  SV POISON: +15
+Effect: Aura of Battle (Must Equip, Casting Time: Instant)
+WT: 0.1  Size: LARGE
+Class: WAR CLR PAL SHD
+Race: ALL
+
+
+This was equippable in the back slot for a very short time after release. [1] 
+
+  Drops From 
+Plane of Fear
+
+ a dracoliche
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

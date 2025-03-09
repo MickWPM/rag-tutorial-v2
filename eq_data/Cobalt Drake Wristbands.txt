@@ -1,0 +1,42 @@
+ITEM NAME: Cobalt Drake Wristbands
+
+Velious Era (added December 2000-2001)
+
+Cobalt Drake Wristbands
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 7
+STR: +3  WIS: +3  MANA: +5
+SV COLD: +3
+WT: 1.0  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Cobalt Drake Wristbands x1
+ In Loom:
+
+
+  1 x Cobalt Drake Hide - Dropped
+  1 x Drake Egg Oil - Crafted
+  1 x Velium Boning - Crafted
+  1 x Wristband Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

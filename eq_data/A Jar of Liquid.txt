@@ -1,0 +1,27 @@
+ITEM NAME: A Jar of Liquid
+
+
+
+A Jar of Liquid
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+
+
+Obtained from Palon Deskeb during the Marr Minnows for Palon quest. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Marr Minnows for Palon
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

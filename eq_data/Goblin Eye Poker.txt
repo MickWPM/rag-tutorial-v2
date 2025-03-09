@@ -1,0 +1,32 @@
+ITEM NAME: Goblin Eye Poker
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+
+Goblin Eye Poker
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 3 
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ALL/ALL. "This item could drop off any goblin in the Lake of Ill Omen zone."[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

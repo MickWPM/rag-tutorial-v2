@@ -1,0 +1,37 @@
+ITEM NAME: Amethyst Amulet
+
+Sky Era (added January 2000)
+
+
+
+Amethyst Amulet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 2
+STR: +3  STA: +3
+WT: 0.1  Size: MEDIUM
+Class: WIZ
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Visualization
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

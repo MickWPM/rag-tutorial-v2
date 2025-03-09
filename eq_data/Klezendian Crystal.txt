@@ -1,0 +1,39 @@
+ITEM NAME: Klezendian Crystal
+
+Velious Era (added December 2000-2001)
+
+
+
+Klezendian Crystal
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+HP: +10
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr miner
+ a Ry`Gorr watchman
+ A geonid (CC)
+ A Ry`Gorr oracle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Supply Run - Great Divide
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

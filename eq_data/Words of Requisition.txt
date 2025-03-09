@@ -1,0 +1,42 @@
+ITEM NAME: Words of Requisition
+
+
+Words of Requisition
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Timorous Deep
+
+ A Vicious Raptor
+ Dinus
+
+Erud's Crossing 
+
+ A thought bleeder?
+
+Various Zones
+
+ Random drop from any level ~49 mob
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Invoke Death (Trivial: 184) (Research Only)
+
+
+
+
+

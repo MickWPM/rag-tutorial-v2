@@ -1,0 +1,34 @@
+ITEM NAME: Deepwater Goblin Net
+
+Temple Era (added October 1999)
+
+
+Deepwater Goblin Net
+
+
+NO DROP
+WT: 3.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake Rathetear
+
+ a goblin net master
+ a deepwater goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bracer of Ro
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

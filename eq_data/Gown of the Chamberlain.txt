@@ -1,0 +1,33 @@
+ITEM NAME: Gown of the Chamberlain
+
+Velious Era (added December 2000-2001)
+
+Gown of the Chamberlain
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 18
+WIS: +3  INT: +3  HP: +10  MANA: +20
+WT: 3.0  Size: MEDIUM
+Class: CLR
+Race: HUM ERU HIE DEF
+
+
+
+
+  Drops From 
+Icewell Keep
+
+ Chamberlain Krystorf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Project 1999 Blue Server - Dooce O'Hearts <Riot>
+

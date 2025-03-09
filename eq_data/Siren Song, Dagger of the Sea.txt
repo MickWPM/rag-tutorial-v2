@@ -1,0 +1,37 @@
+ITEM NAME: Siren Song, Dagger of the Sea
+
+Velious Era (added December 2000-2001)
+ The Siren Song dagger wielded in the offhand for the purpose of this screen shot only.
+Siren Song, Dagger of the Sea
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 15   AC: 15
+STR: +10  CHA: +7  HP: +70
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+Effect: Song of the Deep Seas (Combat, Casting Time: Instant)
+WT: 4.5  Size: TINY
+Class: BRD
+Race: ALL
+
+
+See discussion for changes to this item that took place. 
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Koi`Doken
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

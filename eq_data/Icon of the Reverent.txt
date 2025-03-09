@@ -1,0 +1,30 @@
+ITEM NAME: Icon of the Reverent
+
+Temple Era (added October 1999)
+
+
+Icon of the Reverent
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtain Lianna's Flute and return it to Lianna Ferasa to obtain the icon. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bracers of the Reverent
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

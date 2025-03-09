@@ -1,0 +1,31 @@
+ITEM NAME: Summoned: Black Bread
+
+Classic Era (added 1999-2000)
+
+
+Summoned: Black Bread
+
+
+TEMPORARY
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Player summoned with the Summon Food, Cornucopia, or Gift of Xev spells. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Power of the Gatecallers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

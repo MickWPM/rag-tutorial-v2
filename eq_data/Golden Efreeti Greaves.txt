@@ -1,0 +1,36 @@
+ITEM NAME: Golden Efreeti Greaves
+
+Sky Era (added January 2000)
+
+
+Golden Efreeti Greaves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 15
+DEX: +10  AGI: +9
+WT: 5.6  Size: LARGE
+Class: ALL
+Race: ALL except IKS
+
+
+Part of the Golden Efreeti Armor Set 
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

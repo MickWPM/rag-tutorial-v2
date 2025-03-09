@@ -1,0 +1,38 @@
+ITEM NAME: Embalming Fluid (Item)
+
+Kunark Era (added 2000)
+
+
+Embalming Fluid
+
+
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 3rd Rank
+
+  Player crafted 
+ Brewing (Trivial: <=21)
+ Yield: Embalming Fluid x1
+ In Brewing Barrel:
+
+
+  2 x Bog Juice - Crafted
+  1 x Bone Granite Powder - Crafted (p99: Returned on Failure)
+  1 x Rubbing Alcohol - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

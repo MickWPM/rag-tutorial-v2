@@ -1,0 +1,54 @@
+ITEM NAME: Gnomish Compass
+
+
+
+Gnomish Compass
+
+
+QUEST ITEM
+Slot: SECONDARY
+The compass points East.
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ Lake Rathetear
+
+  gypsies
+
+ {{{3}}}
+
+ {{{4}}}
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

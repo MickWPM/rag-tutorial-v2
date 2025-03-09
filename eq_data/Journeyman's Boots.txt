@@ -1,0 +1,41 @@
+ITEM NAME: Journeyman's Boots
+
+Classic Era (added 1999-2000)
+ Jboots on an erudite wizard, it has a black shoe graphic.
+Journeyman's Boots
+
+
+MAGIC ITEM  NODROP
+Slot: FEET
+AC: 1
+Effect:  JourneymanBoots (Any Slot, Casting Time: Instant)
+WT: 2.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+AKA "JBoots". Formerly dropped from Drelzna in Najena before the Journeyman's Boots Quest was implemented on October 13, 1999.[1].  
+See: Green_Server#Anticipated_Patch_Release_Schedule
+
+
+Outdoor use only.
+This item may be clicked from an inventory slot or equipped, but cannot be used from inside a bag or container. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Journeyman's Boots Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  See also 
+ Black Fur Boots
+ Traveler's Boots
+
+

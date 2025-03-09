@@ -1,0 +1,33 @@
+ITEM NAME: Drake-hide Leggings
+
+
+Drake-hide Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 5
+DEX: +5  CHA: +5
+WT: 0.1  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Solusek's Eye
+
+ fire goblin bartender
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

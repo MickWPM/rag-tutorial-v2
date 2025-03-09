@@ -1,0 +1,31 @@
+ITEM NAME: Driftwood Treasure Chest
+
+
+Driftwood Treasure Chest
+
+
+WT: 10.0  Weight Reduction: 100%
+Capacity: 10  Size Capacity: GIANT
+
+
+Spawn rate for the named appears to be roughly 5% based on a sample size of 140 spawns 7 of them being named. Chest drop rate could be close to 10%. The last of the 7 named sharks finally dropped a chest. This camp is not for the faint of heart. (info provided by Gluebert Theshoeburglar a druid in Kittens)
+263 Kills (246 Cauldron / 17 Ferocious) 7% Named rate
+6 Driftwood Treasure Chest drops 35% per named, 2.3% per spawn (Cauldron + Ferocious)
+(Info provided by Curzate) 
+
+  Drops From 
+Kedge Keep
+
+ a ferocious hammerhead
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

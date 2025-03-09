@@ -1,0 +1,38 @@
+ITEM NAME: Boots of the Vindicator
+
+Velious Era (added December 2000-2001)
+
+
+
+ The boots appear as Velious plate type 2.
+Boots of the Vindicator
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 30
+STR: +5  STA: +5  WIS: +5  INT: +5  HP: +50
+SV DISEASE: +13
+WT: 15.0  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD SHM
+Race: ALL
+
+
+Velious texture [Sep2001] [1] 
+
+  Drops From 
+Kael Drakkel
+
+ Derakor the Vindicator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

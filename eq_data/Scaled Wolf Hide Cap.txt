@@ -1,0 +1,35 @@
+ITEM NAME: Scaled Wolf Hide Cap
+
+Kunark Era (added 2000)
+
+Scaled Wolf Hide Cap
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 4
+INT: +2
+SV FIRE: +3  SV COLD: +3
+WT: 2.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

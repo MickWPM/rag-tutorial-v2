@@ -1,0 +1,37 @@
+ITEM NAME: Grey Damask Cloak
+
+Sky Era (added January 2000)
+
+
+Grey Damask Cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 4
+INT: +1
+SV FIRE: +3  SV DISEASE: +3
+WT: 1.0  Size: SMALL
+Class: WIZ
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Gorgalosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Concentration
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

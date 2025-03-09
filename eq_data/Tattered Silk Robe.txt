@@ -1,0 +1,36 @@
+ITEM NAME: Tattered Silk Robe
+
+Velious Era (added December 2000-2001)
+
+Tattered Silk Robe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+WT: 5.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ ToV East Mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Skyshrine Robe
+ Magician Skyshrine Robe
+ Necromancer Skyshrine Robe
+ Wizard Skyshrine Robe
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

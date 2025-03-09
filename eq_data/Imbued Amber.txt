@@ -1,0 +1,30 @@
+ITEM NAME: Imbued Amber
+
+
+Imbued Amber
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Created from a normal Amber with the Imbue Amber spell. Creates items that are diety restricted to Cazic Thule. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+   Imbued Ogre War Plate (Cazic Thule) (Trivials: 200-242)
+  Imbued Cabilis Scale Armor (Trivial: 189)
+
+
+
+
+

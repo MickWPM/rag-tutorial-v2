@@ -1,0 +1,36 @@
+ITEM NAME: 5 Dose Potion of the Frost
+
+
+
+5 Dose Potion of the Frost
+
+
+EXPENDABLE  Charges: 5
+Effect:  Frost Port (Any Slot, Casting Time: 30.0)
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Teleports the user (self-only) to loc +115,+919 in Everfrost Peaks. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: No-Fail)
+ Yield: 5 Dose Potion of the Frost x1
+ In Bearskin Potion Bag:
+
+
+  5 x Potion of the Frost - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

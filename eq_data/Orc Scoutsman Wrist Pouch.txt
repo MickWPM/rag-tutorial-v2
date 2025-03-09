@@ -1,0 +1,34 @@
+ITEM NAME: Orc Scoutsman Wrist Pouch
+
+
+
+Orc Scoutsman Wrist Pouch
+
+
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ an orc scoutsman
+
+Crushbone
+
+ Orc Scoutsman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

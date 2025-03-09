@@ -1,0 +1,30 @@
+ITEM NAME: Lionhide Backpack
+
+
+Lionhide Backpack
+
+
+WT: 0.4  Weight Reduction: 35%
+Capacity: 8  Size Capacity: LARGE
+
+
+
+ Merchant resale value: 6.3p 
+
+  Drops From 
+Southern Karana
+
+ Groi Gutblade
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Solvedi Scimitar Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

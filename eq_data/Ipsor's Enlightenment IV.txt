@@ -1,0 +1,91 @@
+ITEM NAME: Ipsor's Enlightenment IV
+
+
+
+Ipsor's Enlightenment IV
+
+
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a reanimated hand
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1045, -1011)
+
+
+ Erudin Palace
+
+ Andane Starinen
+
+
+
+  (864, 737)
+
+
+ Felwithe
+
+ Merchant Earlyn
+
+
+
+  (464, -348)
+
+
+ West Freeport
+
+ Voglan Dransed
+
+
+
+  (155, -762)
+
+
+ Neriak Commons
+
+ Mirzna N`Mar
+
+
+
+  (167, -875)
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1008)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

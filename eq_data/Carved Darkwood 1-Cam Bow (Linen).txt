@@ -1,0 +1,43 @@
+ITEM NAME: Carved Darkwood 1-Cam Bow (Linen)
+
+Classic Era (added 1999-2000)
+Were you looking for Carved Darkwood 1-Cam Bow (Hemp)?
+Were you looking for Carved Darkwood 1-Cam Bow (Silk)?
+
+
+Carved Darkwood 1-Cam Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 55
+DMG: 22
+WT: 4.0  Range: 150  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 215)
+ Carved Darkwood 1-Cam Bow (Linen)
+ In Fletching Kit:
+
+
+  1 x Darkwood Bow Staff - Bought
+  1 x Linen String - Bought
+  1 x Standard Bow Cam - Crafted, Bought
+  1 x Whittling Blade - Bought, Returned on Success or Failure 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

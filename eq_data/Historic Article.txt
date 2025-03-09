@@ -1,0 +1,34 @@
+ITEM NAME: Historic Article
+
+Kunark Era (added 2000)
+
+
+Historic Article
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+
+
+ Item Lore (from Identify):  A Book From Ghiosk's Collection 
+
+  Drops From 
+City of Mist
+
+ Lord Ghiosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest 
+
+  Book contents 
+" Neh`Ashiir's disappearance will always be cloaked in mystery. We in Torsis have a saying that goes "Neh's chances." We all know this used to define an innumerable variable but not many know of its relation to the event in the early years of our fair city. For as many people as there were in Torsis there were that many theories regarding Neh`Ashiir's disappearance. Others say there were political tensions between the queen and her lord, so much so that she had to leave to escape death. And for good measure a few pointed to the stars and said that people from beyond the sky took her. One thing all agreed upon however is that the relationship between the royal couple was decaying. Political scrutinizers noted small personal habits between the two that implied a separation of intimacy during their public appearances. Many even tie the highly publicized Crusade of Kirn into the disappearance of Neh as Kirn left the city only a few weeks before. It is recorded in many texts that the visage of Rak`Ashiir reflected his despair over his wife's vanishing although it is a well known fact that it was mostly an act played by the King to keep up his illusion of nobility. Perhaps one day we will find the truth but at this point it would mean little to the public. " 
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

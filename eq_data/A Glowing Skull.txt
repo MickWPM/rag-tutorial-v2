@@ -1,0 +1,36 @@
+ITEM NAME: A Glowing Skull
+
+Kunark Era (added 2000)
+
+
+A Glowing Skull
+
+
+LORE ITEM  NO DROP  TEMPORARY
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ greater scalebone
+ lesser charbone skeleton
+ lesser icebone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of Suffering (#3)
+ Mirgon Dower's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

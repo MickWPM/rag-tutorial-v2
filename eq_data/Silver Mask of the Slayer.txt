@@ -1,0 +1,39 @@
+ITEM NAME: Silver Mask of the Slayer
+
+Velious Era (added December 2000-2001)
+ The legendary mask on male, human
+Silver Mask of the Slayer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 25
+STR: +12  DEX: +12  STA: +12  HP: +80
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+Effect:  Aura of Battle (Worn)
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Request of the Strong
+ Poison Tear (from Dozekar the Cursed)
+ Silver Tear (from Dozekar the Cursed)
+ Flame Kissed Tear (from Dozekar the Cursed)
+ Serrated Tear (from Dozekar the Cursed)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

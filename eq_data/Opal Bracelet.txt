@@ -1,0 +1,102 @@
+ITEM NAME: Opal Bracelet
+
+
+Opal Bracelet
+
+
+Slot: WRIST
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendor trash worth up to 83p 9g 8s. 
+
+  Drops From 
+Burning Woods
+
+ a moldering gorilla
+ a sarnak zealot
+ a scoriae hornet
+ an ember hornet
+
+City of Mist
+
+ a phantom
+
+Cobalt Scar
+
+ a siren enticer
+
+Erud's Crossing
+
+ a killer shark
+
+Howling Stones
+
+ a pyre golem
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ spectral knight
+
+Kedge Keep
+
+ a gloomstalker mermaid
+ a gloomwater mermaid
+
+Ocean of Tears
+
+ a seafury cyclops
+ an ancient cyclops
+
+Old Sebilis
+
+ a sebilite golem
+ froglok jin wizard
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a nightmare
+ a samhain
+ Amygdalan knight
+ Amygdalan warrior
+
+Siren's Grotto
+
+ a neriad mistress
+ a siren beguiler
+ a siren enticer
+ a siren myrmidon
+ a siren templar
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a skycinder drake
+ an old wurm
+ Guardian of Felia
+
+The Wakening Land
+
+ a geonid
+
+Trakanon's Teeth
+
+ spectral champion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

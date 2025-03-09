@@ -1,0 +1,39 @@
+ITEM NAME: Lyssa`s Darkwood Piccolo
+
+
+Lyssa`s Darkwood Piccolo
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+Wind Instrument: 24
+WT: 0.5  Size: TINY
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+Post-Revamp (Current)
+
+ Fright
+ Dread
+ Terror
+
+Pre-Revamp
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Left Goblin Ear
+
+
+Left Goblin Ear
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+High Keep
+
+ A Pickclaw Visionary
+ A Pickclaw Raider
+ A pickclaw warrior
+ A Pickclaw Spiritist
+ A Pickclaw Cabalist
+ A Pickclaw Lookout
+ a Pickclaw seer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Left Goblin Ears
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

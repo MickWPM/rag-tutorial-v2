@@ -1,0 +1,29 @@
+ITEM NAME: Potion of Disease Warding
+
+Classic Era (added 1999-2000)
+
+Potion of Disease Warding
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Putrid Skeletons
+ Paladin Message
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

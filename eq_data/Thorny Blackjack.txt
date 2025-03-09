@@ -1,0 +1,34 @@
+ITEM NAME: Thorny Blackjack
+
+Kunark Era (added 2000)
+
+Thorny Blackjack
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 11 
+WT: 2.0  Size: MEDIUM
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones
+
+ The Undertaker Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

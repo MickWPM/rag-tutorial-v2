@@ -1,0 +1,31 @@
+ITEM NAME: Gray Colored Ice
+
+Kunark Era (added 2000)
+
+
+Gray Colored Ice
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Ground spawn  in Frontier Mountains 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+ Trooper Scale Pauldron
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Black Ice Wrist Guard
+
+Velious Era (added December 2000-2001)
+
+
+Black Ice Wrist Guard
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 12
+STR: +4  DEX: +4
+WT: 3.5  Size: MEDIUM
+Class: WAR SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Errkak Icepaw
+ Velketors Experiment
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

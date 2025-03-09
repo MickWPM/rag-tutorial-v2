@@ -1,0 +1,73 @@
+ITEM NAME: Rusty Long Sword
+
+Classic Era (added 1999-2000)
+
+
+Rusty Long Sword
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 35
+DMG: 5 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Part of the Rusty Weapons set. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 60 and faction at Indifferent
+
+ 0 Platinums
+ 1 Golds
+ 8 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Drops from low-level humanoids
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Harg Tonicka
+
+
+
+  (-41, -493)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86, -457)
+
+  Related quests 
+ Bladed Weapons
+ Vasty Deep Water
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

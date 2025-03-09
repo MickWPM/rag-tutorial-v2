@@ -1,0 +1,56 @@
+ITEM NAME: Funny Money
+
+Velious Era (added December 2000-2001)
+
+
+Funny Money
+
+
+NO DROP
+AC: 2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Comical Currency... DUH!
+If you give Peachy D`Vicci 2x Funny Money you will receive a random colored Gift Box in return.
+Make sure you turn in the money unstacked and take care that this quest can not be multiquested.
+To make funny money, you have to combine one Words of Wealth with an Armor of Distraction in the Pot of Gold.
+You receive one funny money per combine. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Funny Money x1
+ In Empty Pot of Gold:
+
+
+  1 x Words of Wealth - Crafted
+  1 x Mask of Melodies - Crafted
+
+
+ In Empty Pot of Gold:
+
+
+  1 x Words of Wealth - Crafted
+  1 x Wristguard of Distraction - Crafted
+
+
+ In Empty Pot of Gold:
+
+
+ other Armor combines, TODO 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

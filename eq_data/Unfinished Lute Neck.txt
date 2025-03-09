@@ -1,0 +1,63 @@
+ITEM NAME: Unfinished Lute Neck
+
+
+
+Unfinished Lute Neck
+
+
+Slot: SECONDARY
+Stringed Instrument
+WT: 0.8  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Firiona Vie
+
+ Leala Swiftarrow
+
+
+
+  (-3299, 3338)
+
+
+ Kael Drakkel
+
+ Bendad the Trader
+
+
+
+  (-1658, 1953)
+
+
+ Rivervale
+
+ Crista Tagglefoot
+
+
+
+  (-69, -381)
+
+  Related quests 
+ Custom Naliedin Lute (Quest)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

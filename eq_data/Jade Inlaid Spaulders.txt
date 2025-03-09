@@ -1,0 +1,35 @@
+ITEM NAME: Jade Inlaid Spaulders
+
+Chardok Revamp Era (added late 2001)
+
+Jade Inlaid Spaulders
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 8
+STA: +5  INT: +3  AGI: +3  MANA: +30
+SV MAGIC: +5
+WT: 2.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Jade Inlaid Spaulders 
+
+  Drops From 
+Chardok
+
+ Watch Captain Hir`roul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

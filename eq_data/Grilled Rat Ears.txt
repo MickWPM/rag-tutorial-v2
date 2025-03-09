@@ -1,0 +1,33 @@
+ITEM NAME: Grilled Rat Ears
+
+Classic Era (added 1999-2000)
+
+
+Grilled Rat Ears
+
+
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Qeynos Hills
+
+ Rephas
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rat Ear Pie Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

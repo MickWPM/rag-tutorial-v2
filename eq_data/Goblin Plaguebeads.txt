@@ -1,0 +1,36 @@
+ITEM NAME: Goblin Plaguebeads
+
+Kunark Era (added 2000)
+
+
+Goblin Plaguebeads
+
+
+LORE ITEM  NO DROP
+Slot: NECK
+Charges: 1
+AC: 2
+Effect: Disease Cloud (Any Slot/Can Equip, Casting Time: Instant) at Level 5
+WT: 1.0  Size: SMALL
+Class: SHD NEC
+Race: ALL
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ a goblin plaguebringer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Encased Velium etched rune
+
+Velious Era (added December 2000-2001)
+
+
+Encased Velium etched rune
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Jewelcrafting (Trivial: 162)
+ Yield: Encased Velium etched rune x1
+ In Jeweler's Kit:
+
+
+  1 x Rune casing - Crafted
+  1 x Velium etched rune - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

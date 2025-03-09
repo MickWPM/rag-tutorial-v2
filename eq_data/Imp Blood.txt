@@ -1,0 +1,38 @@
+ITEM NAME: Imp Blood
+
+
+
+Imp Blood
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used to brew a "Fiery Temper" for "Forged Firebrand" weapons. <does drop in classic> 
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire imp
+
+Nagafen's Lair
+
+ imp protector
+
+Solusek's Eye
+
+ Kindle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

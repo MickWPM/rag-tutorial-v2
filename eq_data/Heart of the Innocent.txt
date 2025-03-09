@@ -1,0 +1,29 @@
+ITEM NAME: Heart of the Innocent
+
+Classic Era (added 1999-2000)
+
+Heart of the Innocent
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+Combine the Heart of Kyrenna with the Soulcase to produce the Heart of the Innocent. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

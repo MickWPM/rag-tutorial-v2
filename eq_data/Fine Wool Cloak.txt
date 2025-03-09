@@ -1,0 +1,33 @@
+ITEM NAME: Fine Wool Cloak
+
+Sky Era (added January 2000)
+
+
+Fine Wool Cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 4
+STR: +2  STA: +2
+WT: 1.0  Size: MEDIUM
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Stealth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

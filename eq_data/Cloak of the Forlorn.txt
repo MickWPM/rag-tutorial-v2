@@ -1,0 +1,35 @@
+ITEM NAME: Cloak of the Forlorn
+
+Warrens Era (added spring 2001)
+
+Cloak of the Forlorn
+
+
+LORE ITEM
+Slot: BACK
+AC: 2
+WIS: -3  INT: +3  MANA: +5
+SV MAGIC: +1
+WT: 0.7  Size: MEDIUM
+Class: SHD BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Cloak of the Kolbok Prince 
+
+  Drops From 
+The Warrens
+
+ Prince Bragnar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

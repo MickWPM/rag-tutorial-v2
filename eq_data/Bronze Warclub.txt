@@ -1,0 +1,40 @@
+ITEM NAME: Bronze Warclub
+
+Classic Era (added 1999-2000)
+Bronze Warclub
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 5 
+WT: 6.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Northern Desert of Ro
+
+ a Dervish Thug
+
+The Feerrott
+
+ Cyndreela
+
+The Overthere
+
+ Gogu the Smasher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

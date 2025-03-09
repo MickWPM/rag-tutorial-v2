@@ -1,0 +1,43 @@
+ITEM NAME: Raptor Meat
+
+Velious Era (added December 2000-2001)
+
+
+Raptor Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ Rapticor
+ A tigeraptor
+ a tigesaurous
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reinforcements for The Tunarean Regiment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking (Trivial: <=61)
+ Yield: Raptor Steak x1 (STR: +2, STA: +1, Meal)
+ In Oven:
+
+
+  1 x Raptor Meat - Dropped
+  1 x Jug of Sauces - Bought
+  1 x Spices - Bought
+
+
+
+
+

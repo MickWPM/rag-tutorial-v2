@@ -1,0 +1,36 @@
+ITEM NAME: Wily Warlock Robe
+
+ Project 1999 First Wily Warlock Robe - Chilis <Taken>
+Velious Era (added December 2000-2001)
+
+
+Wily Warlock Robe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 22
+STR: +5  INT: +20  AGI: +10  HP: +40  MANA: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 0.5  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

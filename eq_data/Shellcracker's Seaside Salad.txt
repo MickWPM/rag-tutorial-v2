@@ -1,0 +1,43 @@
+ITEM NAME: Shellcracker's Seaside Salad
+
+
+Shellcracker's Seaside Salad
+
+
+DEX: +5  CHA: +5
+SV COLD: +5
+This meal is a feast!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+All ingredients come from Cobalt Scar 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 180)
+ Yield: Shellcracker's Seaside Salad x6
+ In Oven:
+
+
+  1 x Arctic King Crab - Foraged (Velious)
+  1 x Arctic Mussels - Foraged (Velious)
+  1 x Arctic Scallop - Foraged (Velious)
+  1 x Cobalt Abalone - Foraged (Cobalt Scar)
+  1 x Cobalt Rock Crab - Foraged (Cobalt Scar)
+  1 x Small Clam - Foraged (Velious)
+  1 x Snapper Oil - Crafted (Dragon Bay Snapper fished in Cobalt Scar)
+  1 x Vegetables - Foraged (Anywhere) 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

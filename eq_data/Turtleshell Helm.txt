@@ -1,0 +1,38 @@
+ITEM NAME: Turtleshell Helm
+
+
+Turtleshell Helm
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 5
+STR: +3
+WT: 6.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Timorous Deep
+
+ The Great Oowomp
+
+Western Plains of Karana
+
+ an ogre shaman
+ Chief Goonda
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

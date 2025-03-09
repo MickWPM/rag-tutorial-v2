@@ -1,0 +1,43 @@
+ITEM NAME: Crushed Diamonds
+
+Kunark Era (added 2000)
+
+Crushed Diamonds
+
+
+MAGIC ITEM  LORE ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: Alternately you can pick up the completed item as a ground spawn in Timorous Deep. It spawns on the Golra island at loc (-8850, -6040). The item respawned immediately after picking it up. The Golra's do not see invis. 
+
+  Drops From 
+ Timorous Deep
+ Ground Spawn
+ (-8850, -6040) 
+
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cannibalize II (Good)
+ Cannibalize II (Evil)
+
+  Player crafted 
+ Alchemy (Trivial: ?)
+ Yield: Crushed Diamonds x1
+ In Medicine Bag:
+
+
+  1 x Dread Diamond - Returned on Failure
+  1 x Spectral Pestle - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Shield of the Immaculate
+
+Classic Era (added 1999-2000)
+
+Shield of the Immaculate
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: BACK SECONDARY
+AC: 25
+STR: +10
+SV DISEASE: +25
+Effect:  Cure Disease (Any Slot, Casting Time: Instant)
+WT: 7.3  Size: MEDIUM
+Class: PAL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Note: Changed to ALL/ALL in 2006 (PAL only on p99). 
+
+  Drops From 
+Plane of Hate
+Post-Revamp (Current)
+
+Lord of Ire
+
+Pre-Revamp
+
+ Innoruuk (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Platinum Armband
+
+Classic Era (added 1999-2000)
+
+Platinum Armband
+
+
+MAGIC ITEM
+Slot: ARMS
+STR: +3  WIS: +3
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Treasured by many mid-level Clerics with puny STR who have trouble carrying their plate armor. This equipment has no graphic (like cloth). 
+
+  Drops From 
+Solusek's Eye
+
+ reckless efreeti
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

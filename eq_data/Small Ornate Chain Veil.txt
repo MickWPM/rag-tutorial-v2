@@ -1,0 +1,40 @@
+ITEM NAME: Small Ornate Chain Veil
+
+Classic Era (added 1999-2000)
+
+Small Ornate Chain Veil
+
+
+Slot: FACE
+AC: 5
+WT: 0.3  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 116)
+ Yield: Small Ornate Chain Veil x1
+ In Forge:
+
+
+  1 x High Quality Metal Rings - Crafted
+  1 x Silver Bar - Bought, Dropped
+  1 x Small Chainmail Veil Pattern - Bought
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

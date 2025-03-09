@@ -1,0 +1,134 @@
+ITEM NAME: Large Round Shield
+
+Classic Era (added 1999-2000)
+
+Large Round Shield
+
+
+Slot: SECONDARY
+AC: 6
+WT: 6.2  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: BAR ELF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ West Commonlands
+
+ Ranon Strongarm
+
+
+
+  (-463, 2827)
+
+
+ East Commonlands
+
+ Altunic Jartin
+
+
+
+  (-117, 4731)
+
+
+ Grobb
+
+ Kagbkek
+
+
+
+  (210, -213)
+
+
+ Grobb
+
+ Zumzal
+
+
+
+  (329, -495)
+
+
+ Halas
+
+ Holana Oleary
+
+
+
+  (137, -337)
+
+
+ Oggok
+
+ Grop
+
+
+
+  (512, 490)
+
+
+ Oggok
+
+ Rora Dirtstamp
+
+
+
+  (212, -372)
+
+
+ Paineel
+
+ Kervis Ackblor
+
+
+
+  (1097, 428)
+
+
+ South Qeynos
+
+ Wrin Liltin
+
+
+
+  (96, -204)
+
+
+ South Qeynos
+
+ Raffy Conticede
+
+
+
+  (-282, -491)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

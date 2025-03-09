@@ -1,0 +1,55 @@
+ITEM NAME: Rune of Fortune
+
+
+Rune of Fortune
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are three identically named Runes of Fortune - top, bottom, and middle. 
+
+  Drops From 
+Mistmoore Castle
+
+ Enynti (Top)
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Third Gate
+
+ Mizr N`Mar (Bottom)
+
+  Neriak City Library
+
+  (-41, -493)
+
+
+ South Qeynos
+
+ Madame Serena (Middle)
+
+  South side of the Mermaid's Lure on the docks.
+
+  (-86, -457)
+
+  Related quests 
+ Incandescent Mask
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

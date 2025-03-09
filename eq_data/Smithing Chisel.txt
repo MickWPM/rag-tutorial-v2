@@ -1,0 +1,137 @@
+ITEM NAME: Smithing Chisel
+
+
+
+Smithing Chisel
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 30
+DMG: 2 
+WT: 0.7  Size: SMALL
+Class: ALL except CLR DRU MNK SHM
+Race: ALL
+
+
+No longer usable to break down bricks or blocks of velium as of 10/23/2024 patch. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork miner
+
+
+
+  (760, -155)
+
+
+ East Cabilis
+
+ Klok Toren
+
+
+
+  (190, -303)
+
+
+ Erudin
+
+ Shinan Orefinder
+
+
+
+  (-683, -246)
+
+
+ North Freeport
+
+ Kyrin Steelbone
+
+
+
+  (-21, 470)
+
+
+ Grobb
+
+ Okun
+
+
+
+  (683, -412)
+
+
+ Halas
+
+ Greta O`Reilly
+
+
+
+  (78, -245)
+
+
+ High Keep
+
+ Miner Harton
+
+
+
+  (42, -273)
+
+
+ Neriak Commons
+
+ Glazn D`Unnar
+
+
+
+  (46, -796)
+
+
+ Oggok
+
+ Blergerda
+
+
+
+  (191, 915)
+
+
+ Rivervale
+
+ Bodbin Gimple
+
+
+
+  (-80, -370)
+
+
+ Stonebrunt Mountains
+
+ Kevar Claypaws
+
+
+
+  (1390, -579)
+
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

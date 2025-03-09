@@ -1,0 +1,37 @@
+ITEM NAME: Registration Letter
+
+
+
+Registration Letter
+
+
+NO DROP
+WT: 0.0  Size: TINY
+
+
+Given on character creation to Good Gnome Casters. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+Guild Summons - Libary Mechanimagica Enchanter
+Guild Summons - Libary Mechanimagica Magician
+Guild Summons - Libary Mechanimagica Wizard 
+
+  Book contents 
+Enchanter
+Greetings young pupil, your new school awaits you.  Seek out the Eldritch Collective at the Library Mechanimagica.  Give this Registration Letter to master Juline Urncaller, she will introduce you to your new course of studies.
+Magician
+Welcome new student of the Eldritch Collective.  Take this Registration Letter to master Wuggan Azusphere at the Library Mechanimagica.  He will be your new instructor.  Study hard, and you shall obtain your goals.
+Wizard
+Welcome to the Library Mechanimagica.  Take this Registration Letter to Tobon Starpyre, Master Wizard of the Eldritch Collective.  He will get you started with your new studies and training.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

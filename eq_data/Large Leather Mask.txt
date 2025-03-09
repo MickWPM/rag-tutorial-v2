@@ -1,0 +1,90 @@
+ITEM NAME: Large Leather Mask
+
+
+Large Leather Mask
+
+
+Slot: FACE
+AC: 2
+WT: 0.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Bimuk
+
+
+
+  (517, -221)
+
+
+ Grobb
+
+ Jarlok
+
+
+
+  (390, -301)
+
+
+ Halas
+
+ Cindl
+
+
+
+  (270, -171)
+
+
+ Neriak Foreign Quarter
+
+ Jarvah
+
+
+
+  (-222, -366)
+
+
+ Oggok
+
+ Juk Hidebeater
+
+
+
+  (368, -202)
+
+
+ Rathe Mountains
+
+ Chizzlik
+
+
+
+  (1719, 1310)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 36) 
+
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

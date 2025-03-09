@@ -1,0 +1,39 @@
+ITEM NAME: Gold Malachite Bracelet
+
+
+Gold Malachite Bracelet
+
+
+Slot: WRIST
+SV POISON: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Note: Make sure to enchant the bar by an enchanter before combining. If you don't do that you will not get any stats on your created gear.
+
+
+ Jewelry Making (Trivial: 146)
+ Gold Malachite Bracelet x1
+ In Jeweler's Kit:
+
+
+  1 x Gold Bar - Bought
+  1 x Malachite - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

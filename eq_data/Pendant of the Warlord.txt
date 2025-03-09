@@ -1,0 +1,33 @@
+ITEM NAME: Pendant of the Warlord
+
+GM Event item (info)
+
+
+Pendant of the Warlord
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 4
+STR: +4
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 0.1  Size: TINY
+Class: WAR
+Race: ALL
+
+
+GM Event item. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

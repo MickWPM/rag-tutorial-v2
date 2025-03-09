@@ -1,0 +1,38 @@
+ITEM NAME: Scorpikis Claw Impaler
+
+Kunark Era (added 2000)
+
+Scorpikis Claw Impaler
+
+
+MAGIC ITEM  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 8
+STR: +4
+SV POISON: +10
+Effect:  Poison (Combat, Casting Time: Instant) at Level 30
+WT: 0.6  Range: 75  Size: MEDIUM
+Class: WAR SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 6pp 
+
+  Drops From 
+Howling Stones
+
+ The Golem Master
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

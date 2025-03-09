@@ -1,0 +1,44 @@
+ITEM NAME: Runed Branding Iron
+
+
+
+
+ 
+
+ Notice: This page was carbon-copied from Allakhazam. It is probably missing vital information.
+It also may contain info which is incorrect for the Project 1999 Timeline. Please revise accordingly and then remove this message.
+
+Velious Era (added December 2000-2001)
+
+
+Runed Branding Iron
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 8 
+Effect: Burst of Flame (Combat, Casting Time: Instant) at Level 25
+WT: 5.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+see https://www.project1999.com/forums/showthread.php?t=303500 
+
+  Drops From 
+South Qeynos
+
+ a rude individual ?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

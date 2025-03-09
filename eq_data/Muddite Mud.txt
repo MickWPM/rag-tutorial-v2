@@ -1,0 +1,34 @@
+ITEM NAME: Muddite Mud
+
+
+Muddite Mud
+
+
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+4 gold 9 silver 4 copper. 
+
+  Drops From 
+Beholder's Maze
+
+ a muddite elder
+ a muddite minor
+ a muddite recordkeeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Eyeburn Solution (Trivial: 108)
+
+
+
+
+

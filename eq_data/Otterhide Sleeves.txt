@@ -1,0 +1,35 @@
+ITEM NAME: Otterhide Sleeves
+
+Velious Era (added December 2000-2001)
+
+ 
+Otterhide Sleeves
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 8
+AGI: +3
+WT: 1.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: HUM BAR ERU ELF HIE DEF HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ Snowfang icehunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

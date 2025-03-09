@@ -1,0 +1,36 @@
+ITEM NAME: True Mithril Breastplate
+
+Velious Era (added December 2000-2001) Kingclub with a True Mithril Breastplate
+
+
+True Mithril Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 57
+DEX: +10  STA: +10  AGI: +20  HP: +50
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 8.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Telkorenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

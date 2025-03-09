@@ -1,0 +1,34 @@
+ITEM NAME: Sphinx Eye Amulet
+
+Sky Era (added January 2000)
+
+
+Sphinx Eye Amulet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 8
+STR: +7  CHA: +3  WIS: +3  INT: +14  MANA: +25
+Effect:  Ultravision (Worn, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: SHD
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Test of Bash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Large Muddy Sandals
+
+
+
+Large Muddy Sandals
+
+
+LORE ITEM  NO DROP
+Slot: FEET
+AC: 1
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: BAR ELF TRL OGR IKS
+
+
+ Item Lore (from Identify):  Brokk's Muddy Sandals
+Found on the floor in Oggok at 230, 400) . 
+
+  Drops From 
+Oggok
+
+ Ground spawn
+ (230, 400) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

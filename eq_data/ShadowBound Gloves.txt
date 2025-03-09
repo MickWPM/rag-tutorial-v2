@@ -1,0 +1,34 @@
+ITEM NAME: ShadowBound Gloves
+
+Temple Era (added October 1999)
+
+
+
+ShadowBound Gloves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 6
+STR: +3  DEX: +3  INT: +3  MANA: +3
+WT: 0.7  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ ShadowBound Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

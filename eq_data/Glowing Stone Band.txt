@@ -1,0 +1,33 @@
+ITEM NAME: Glowing Stone Band
+
+
+Glowing Stone Band
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+AC: 2
+Effect:  Serpent Sight (Worn)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Solusek's Eye
+
+ goblin high shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

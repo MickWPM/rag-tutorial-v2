@@ -1,0 +1,39 @@
+ITEM NAME: Tarnished Battle Axe
+
+Classic Era (added 1999-2000)
+
+
+Tarnished Battle Axe
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 40
+DMG: 6 
+WT: 8.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 24)
+ Yield: Tarnished Battle Axe x1
+ In Forge:
+
+
+  1 x Rusty Battle Axe - Bought, Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

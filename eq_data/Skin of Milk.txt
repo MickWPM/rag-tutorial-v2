@@ -1,0 +1,29 @@
+ITEM NAME: Skin of Milk
+
+Classic Era (added 1999-2000)
+
+Skin of Milk
+
+
+NO DROP
+This is a hearty meal.
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+
+
+You get 5 of these along with 5 Bread Cakes* as part of your starting inventory. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

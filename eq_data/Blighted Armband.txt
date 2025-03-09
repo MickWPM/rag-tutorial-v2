@@ -1,0 +1,34 @@
+ITEM NAME: Blighted Armband
+
+
+
+Blighted Armband
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 3
+STR: +4  DEX: +5  MANA: +15
+WT: 0.3  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+Part of the Blighted Armor set 
+
+  Drops From 
+Plane of Fear
+
+ a boogeyman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

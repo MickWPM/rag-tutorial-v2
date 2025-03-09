@@ -1,0 +1,33 @@
+ITEM NAME: Crimson Ring of the Djinni
+
+
+
+Crimson Ring of the Djinni
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 8
+STR: +7  DEX: +7  INT: +5
+SV MAGIC: +5
+WT: 0.1  Size: TINY
+Class: SHD
+Race: ALL
+
+
+ Item Lore (from Identify): Finger Ring of the Djinni 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Smash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Crystallized Shadow Long Sword
+
+Velious Era (added December 2000-2001)
+
+Crystallized Shadow Long Sword
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 7 
+STR: +2  STA: +2  CHA: +1  HP: +5
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify): You sense a trapped soul 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an angry librarian
+ an enraged relative
+ Priest Majes Medory
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

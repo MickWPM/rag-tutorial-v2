@@ -1,0 +1,33 @@
+ITEM NAME: Disciple Symbol of Brell Serilis
+
+Warrens Era (added spring 2001)
+Disciple Symbol of Brell Serilis
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+Slot: NECK
+AC: 5
+STA: +1  WIS: +2  MANA: +7
+Effect:  Summon Holy Ale of Brell (Must Equip, Casting Time: 4.0) at Level 4
+WT: 0.1  Size: TINY
+Class: CLR
+Race: DWF GNM
+Deity: Brell Serilis
+
+
+Requires Summoned: Globe of Water as a reagent. (1 water summons multiple ale.) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brell Serilis Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

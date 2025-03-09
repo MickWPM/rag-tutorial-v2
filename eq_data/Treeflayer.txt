@@ -1,0 +1,36 @@
+ITEM NAME: Treeflayer
+
+Kunark Era (added 2000)
+
+
+Treeflayer
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 31
+DMG: 6 
+WT: 6.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Treeflayer is an item not an NPC. A vendor loot axe that sells for about 16 or so plat if I remember.
+It drops off of giants in Dreadlands. Not certain if it's a specific type of giant.
+Note: Item does not exist on Allahkazam, need stats from p99 (current stats are taken from Axe). 
+
+  Drops From 
+Dreadlands
+
+ various giants
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

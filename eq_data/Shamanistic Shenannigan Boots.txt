@@ -1,0 +1,35 @@
+ITEM NAME: Shamanistic Shenannigan Boots
+
+Velious Era (added December 2000-2001)
+
+Shamanistic Shenannigan Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+Charges: 10
+AC: 45
+STR: +5  STA: +10  AGI: +10  HP: +50  MANA: +10
+SV DISEASE: +5  SV COLD: +5
+Effect:  Scale of Wolf (Must Equip, Casting Time: Instant) at Level 45
+WT: 3.0  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+Made by combining a Boots of Distraction and a Shamanistic Shenannigan Doll in the Pot of Gold from Bob the Painter. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Shamanistic Shenannigan Boots
+

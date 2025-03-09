@@ -1,0 +1,32 @@
+ITEM NAME: Decaying Heart
+
+
+Decaying Heart
+
+
+LORE ITEM NO DROP
+SV DISEASE: -25
+WT: 0.2 Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Southern Karana
+
+ Lord Grimrot (undead)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Aegis of Life Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

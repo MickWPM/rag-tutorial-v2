@@ -1,0 +1,106 @@
+ITEM NAME: Lore of Malignancy
+
+
+
+Lore of Malignancy
+
+
+WT: 0.0  Size: TINY
+
+
+Item appears to be written in Dragon. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Invoke Fear:
+Words of Resolve
+Words of Quivering
+Words of Duration
+Call of Bones:
+Words of Motion
+Words of Neglect
+Words of Endurance
+Surge of Enfeeblement:
+Words of Abatement
+Words of Cazic-Thule
+Words of Efficacy
+Invoke Shadow:
+Words of Dark Paths
+Words of Haunting
+Words of the Suffering
+Nullify Magic:
+Words of Descrying
+Words of Seizure
+Words of Dissolution
+Word of Souls:
+Words of Projection
+Words of Cazic-Thule
+Words of the Specter
+Malignant Dead:
+Words of Bidding
+Words of Suffering
+Words of Collection (Beza)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

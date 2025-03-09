@@ -1,0 +1,43 @@
+ITEM NAME: Aqualung
+
+
+Aqualung
+
+
+MAGIC ITEM  QUEST ITEM
+Slot: HEAD
+Charges: 50
+AC: 1
+Effect:  Breath of the Dead (Any Slot, Casting Time: Instant)
+WT: 10.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+How much does this cost to recharge? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 148)
+ Yield: Aqualung x1
+ In Toolboxes:
+
+
+  1 x Fine Coral Mesh - Bought
+  1 x Fresh Fish - Bought, Caught
+  1 x Gnomish Bolts - Bought
+  1 x Metal Rod - Bought
+  1 x Metal Twine - Bought
+  1 x Silk Lined Steel Helm - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

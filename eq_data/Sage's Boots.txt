@@ -1,0 +1,35 @@
+ITEM NAME: Sage's Boots
+
+Velious Era (added December 2000-2001)
+
+
+Sage's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 5
+STA: +3  MANA: +35
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+Effect:  O'Keils Radiation (Must Equip, Casting Time: 3.0)
+WT: 0.4  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard's Velium Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

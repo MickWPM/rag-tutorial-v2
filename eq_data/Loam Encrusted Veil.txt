@@ -1,0 +1,34 @@
+ITEM NAME: Loam Encrusted Veil
+
+Hole Era (added June 2000)
+
+Loam Encrusted Veil
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 3
+CHA: +3  INT: +1  HP: +20  MANA: +5
+WT: 0.2  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+ Item Lore (from Identify):  Loam Encrusted VeilPart of the Loam Encrusted Armor Set. 
+
+  Drops From 
+The Hole
+
+ Bejeweled Elemental
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,29 @@
+ITEM NAME: Elf Skull
+
+Kunark Era (added 2000)
+Elf Skull
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crypt of Dalnir
+
+ lumpy goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

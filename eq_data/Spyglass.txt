@@ -1,0 +1,40 @@
+ITEM NAME: Spyglass
+
+Classic Era (added 1999-2000)
+
+Spyglass
+
+
+QUEST ITEM
+Effect:  Telescope (Any Slot, Casting Time: Instant)
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: as gnomes start with 50 tinkering, a level 1 gnome can attempt this at ~20p per attempt, but at a ~10% success rate (I went 2/20). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 95)
+ Yield: Spyglass x1
+ In Toolboxes:
+
+
+  1 x Bottle - Crafted, Bought
+  1 x Collapsible Fishing Pole - Crafted
+  1 x Metal Rod - Bought
+  1 x Metal Twine - Bought
+  1 x Reflective Shard - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

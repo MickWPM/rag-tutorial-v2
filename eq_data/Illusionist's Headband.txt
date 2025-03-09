@@ -1,0 +1,33 @@
+ITEM NAME: Illusionist's Headband
+
+Velious Era (added December 2000-2001)
+
+Illusionist's Headband
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 6
+STA: +7  CHA: +15  INT: +10  HP: +15
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +7  SV POISON: +2
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Skyshrine Cap
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

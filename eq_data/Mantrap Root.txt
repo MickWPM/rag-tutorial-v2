@@ -1,0 +1,44 @@
+ITEM NAME: Mantrap Root
+
+
+
+Mantrap Root
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Emerald Jungle
+
+ Erollisi mantrap
+
+Swamp of No Hope
+
+ Weeping Mantrap
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Handy Shillelagh
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Emerald Jungle
+ Swamp of No Hope
+ The Overthere
+ Trakanon's Teeth
+
+

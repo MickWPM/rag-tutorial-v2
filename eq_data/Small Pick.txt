@@ -1,0 +1,36 @@
+ITEM NAME: Small Pick
+
+Sky Era (added January 2000)
+
+
+Small Pick
+
+
+LORE ITEM
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a sprited harpie
+ a watchful guard
+ a gorgalask (need confirmation on this Oct/2023)
+ Gorgalosk (need confirmation on this Oct/2023)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Strength
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

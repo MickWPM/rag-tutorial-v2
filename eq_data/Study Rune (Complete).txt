@@ -1,0 +1,36 @@
+ITEM NAME: Study Rune (Complete)
+
+Classic Era (added 1999-2000)
+
+
+Study Rune (Complete)
+
+
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (Trivial: 122)
+ Yield: Study Rune (Complete) x1
+ In Lexicon, Elemental Grimoire, Tome of Endless Enchantments, Book of Dark Bindings:
+
+
+  1 x Study Rune (Azia) - Crafted
+  1 x Study Rune (Beza) - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

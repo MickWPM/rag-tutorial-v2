@@ -1,0 +1,33 @@
+ITEM NAME: Iksar Head
+
+Kunark Era (added 2000)
+
+
+Iksar Head
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Two identically-named items exist.  Item Lore (from Identify): Bugrin's Head 
+
+  Drops From 
+East Cabilis
+
+ Bugrin the Gatherer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #1 (Militia Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

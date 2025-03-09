@@ -1,0 +1,35 @@
+ITEM NAME: Crown of the Myrmidon
+
+Velious Era (added December 2000-2001)
+
+
+Crown of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 27
+STR: +3  DEX: +12  STA: +2  HP: +35
+SV COLD: +5
+WT: 9.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Skyshrine Helm
+ Custom Plate Helms - Skyshrine
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

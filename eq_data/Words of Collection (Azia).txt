@@ -1,0 +1,62 @@
+ITEM NAME: Words of Collection (Azia)
+
+
+
+Words of Collection (Azia)
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 2 Platinums
+ 8 Golds
+ 7 Silvers
+ 8 Coppers
+ 
+  Drops From 
+City of Mist
+
+ greater plaguebone
+
+Lower Guk
+
+ a dar ghoul knight
+
+
+
+ Various mobs Level 36-45
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This spell is crafted with the Research skill (Trivial:  142)
+ Yield: Spell:  Summon Ring of Flight  x1
+ In an Elemental Grimoire:
+
+
+  1 x  Words of Collection (Azia)  - Dropped
+  1 x  Star Rose Quartz  - Dropped
+
+
+
+
+ This spell is crafted with the Research skill (Trivial:  142)
+ Yield: Spell:  Dagger of Symbols  x1
+ In an Elemental Grimoire:
+
+
+  1 x  Words of Collection (Azia)  - Dropped
+  1 x  Dagger   - Bought/Dropped
+
+
+

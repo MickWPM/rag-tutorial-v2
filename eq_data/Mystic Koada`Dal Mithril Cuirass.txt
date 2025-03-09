@@ -1,0 +1,42 @@
+ITEM NAME: Mystic Koada`Dal Mithril Cuirass
+
+
+Mystic Koada`Dal Mithril Cuirass
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 26
+DEX: +10  CHA: +8
+WT: 5.2  Size: LARGE
+Class: WAR CLR PAL BRD
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 207)
+ Yield: Mystic Koada`Dal Mithril Cuirass x1
+ In Koada`Dal Forge:
+
+
+  1 x Breastplate Mold - Bought
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  3 x Enchanted Folded Sheet of Mithril - Crafted
+  1 x Enchanted Mithril Chain Jointing - Crafted
+  1 x Leather Padding - Crafted
+  1 x Moonlight Temper - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

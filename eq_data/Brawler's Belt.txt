@@ -1,0 +1,43 @@
+ITEM NAME: Brawler's Belt
+
+Velious Era (added December 2000-2001)
+
+
+
+
+
+  MISSING INFO! Please expand the content.
+
+
+
+
+Brawler's Belt
+
+
+MAGIC ITEM LORE ITEM 
+Slot: WAIST
+AC: 5
+STR: +2 STA:+2
+WT: 1.7  Size: MEDIUM
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+It is a Lore Item 
+
+  Drops From 
+The Warrens
+
+ Grodl Ripclaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

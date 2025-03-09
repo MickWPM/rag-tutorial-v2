@@ -1,0 +1,80 @@
+ITEM NAME: Size 4 Sprocket
+
+
+
+Size 4 Sprocket
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This item has no known use. 
+
+  Drops From 
+Ak'Anon
+
+ Clockwork MX
+ clockwork scrubber
+ Clockwork XIB
+ Clockwork XIE
+ Clockwork XIIB
+ Clockwork XIIC
+ Clockwork XIIE
+ Clockwork XIIIB
+ Clockwork XIVE
+ Clockwork XIXA
+ Clockwork XVA
+ Clockwork XVD
+ Clockwork XVE
+ Clockwork XVIB
+ Clockwork XVID
+ Clockwork XVIE
+ Clockwork XVIIA
+ Clockwork XVIIB
+ Clockwork XVIIC
+ Clockwork XVIIIB
+ Clockwork XVIIIE
+ Clockwork XXA
+ Clockwork XXB
+ Clockwork XXD
+ Clockwork XXE
+ Clockwork XXIA
+ Clockwork XXIB
+ Clockwork XXID
+ Clockwork XXIIB
+ Clockwork XXIIIA
+ Clockwork XXIVD
+ Clockwork XXIXB
+ Clockwork XXVA
+ Clockwork XXVD
+ Clockwork XXVIC
+ Clockwork XXVIIB
+ Clockwork XXVIIC
+ Clockwork XXVIIIB
+ Clockwork XXXD
+
+Lesser Faydark
+
+ Gearheart
+
+Steamfont Mountains
+
+ Cargo Clockwork
+ Charlotte
+ Frebin Tinderhue
+ rogue clockwork
+ Zondo Hyzill
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Shattered Emerald of Corruption
+
+Epic Quests Era (added Sept 2000)
+
+Shattered Emerald of Corruption
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: Post-revamp of Hate, this drops off of many more mobs. 
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God)
+ Ashenbone Broodmaster (Hate revamp)
+ Avatar of Abhorrence (Hate revamp)
+ Coercer T`vala (Hate revamp)
+ Grandmaster R`Tal (Hate revamp)
+ Lord of Ire (Hate revamp)
+ Lord of Loathing (Hate revamp)
+ Magi P`Tasa (Hate revamp)
+ Master of Spite (Hate revamp)
+ Mistress of Scorn (Hate revamp)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

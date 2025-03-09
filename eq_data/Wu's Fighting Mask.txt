@@ -1,0 +1,42 @@
+ITEM NAME: Wu's Fighting Mask
+
+Velious Era (added December 2000-2001)
+
+Wu's Fighting Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 3
+AGI: +1
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+Part of the Wu's Fighting Armor Set. 
+ Merchant resale value: 6p 3g 7s 3c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 135)
+ Yield: Wu's Fighting Mask x1
+ In Sewing Kit:
+
+
+  4 x Heady Kiola - Crafted
+  1 x Mask Pattern - Bought
+  1 x Silk Swatch - Crafted
+  1 x Vial of Viscous Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

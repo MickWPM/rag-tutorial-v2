@@ -1,0 +1,47 @@
+ITEM NAME: Large Ringmail Neckguard
+
+Were you looking for Ringmail Armor Set? Were you looking for Small Ringmail Armor Set?
+
+Large Ringmail Neckguard
+
+
+Slot: NECK
+AC: 5
+WT: 3.3  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: BAR TRL OGR
+
+
+Part of the Large Ringmail Armor Set. 
+
+  Drops From 
+Najena
+
+ an ogre guard
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Beztopi
+
+
+
+  (361, -236)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

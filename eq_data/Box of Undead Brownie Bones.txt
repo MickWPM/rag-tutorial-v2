@@ -1,0 +1,30 @@
+ITEM NAME: Box of Undead Brownie Bones
+
+Classic Era (added 1999-2000)
+
+
+Box of Undead Brownie Bones
+
+
+LORE ITEM NO DROP
+WT: 6.0 Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Undead Brownie Bones 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tiny Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

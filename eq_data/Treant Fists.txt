@@ -1,0 +1,34 @@
+ITEM NAME: Treant Fists
+
+Classic Era (added 1999-2000)
+
+
+Treant Fists
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 8
+DEX: +3  HP: +5
+WT: 0.7  Size: SMALL
+Class: MNK
+Race: HUM BAR ERU ELF HIE DEF
+HEF DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Treant Fists
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

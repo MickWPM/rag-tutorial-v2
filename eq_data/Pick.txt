@@ -1,0 +1,46 @@
+ITEM NAME: Pick
+
+
+
+Pick
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 36
+DMG: 6 
+WT: 6.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Kaladim
+
+ Kadek Norkhitter
+
+  Inside Bank
+
+  (583, 238)
+
+  Related quests 
+ The Bones of Darak Lightforge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

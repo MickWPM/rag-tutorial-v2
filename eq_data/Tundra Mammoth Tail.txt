@@ -1,0 +1,32 @@
+ITEM NAME: Tundra Mammoth Tail
+
+Velious Era (added December 2000-2001)
+
+
+Tundra Mammoth Tail
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a tundra mammoth
+ a wooly mammoth
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

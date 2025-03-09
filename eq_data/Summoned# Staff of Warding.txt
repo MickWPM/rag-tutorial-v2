@@ -1,0 +1,35 @@
+ITEM NAME: Summoned: Staff of Warding
+
+Classic Era (added 1999-2000)
+
+
+Summoned: Staff of Warding
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY  
+Slot: PRIMARY
+Charges: 5
+Skill: 2H Blunt  Atk Delay: 38
+DMG: 8 
+Effect:  Gaze (Any Slot, Casting Time: Instant)
+WT: 2.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Summoned via the Staff of Warding spell. Acts as a light source; similar to a Lightstone.
+Prior to Sep1999 has no effects and is not lore. [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Halcyon Broadsword
+
+Kunark Era (added 2000)
+
+
+Halcyon Broadsword
+
+
+MAGIC ITEM  LORE ITEM NO DROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 18 
+WT: 7.5  Size: MEDIUM
+Class: PAL
+Race: ALL
+
+
+Patch changes April 27th, 2014: Halcyon Broadsword is no longer incorrectly labeled Artifact. 
+
+  Drops From 
+Skyfire Mountains
+
+ an ancient wyvern
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

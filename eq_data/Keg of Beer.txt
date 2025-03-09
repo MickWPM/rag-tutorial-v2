@@ -1,0 +1,70 @@
+ITEM NAME: Keg of Beer
+
+
+
+Keg of Beer
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Foreign Quarter
+
+ Damar Nislan
+
+
+
+  (177, -196)
+
+
+ Neriak Foreign Quarter
+
+ Darien Felton
+
+
+
+  (136, -93)
+
+
+ North Qeynos
+
+ Crow
+
+
+
+  (91, 358)
+
+
+ North Qeynos
+
+ Tanlyn Galliway
+
+
+
+  (125, 204)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

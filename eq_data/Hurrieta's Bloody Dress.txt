@@ -1,0 +1,30 @@
+ITEM NAME: Hurrieta's Bloody Dress
+
+Classic Era (added 1999-2000)
+
+
+Hurrieta's Bloody Dress
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Hurrieta's Returned Dress Given after turning in Hurrieta's Tunic. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hurrieta's Tunic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

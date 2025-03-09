@@ -1,0 +1,33 @@
+ITEM NAME: Shiny Silk Gloves
+
+
+Shiny Silk Gloves
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 4
+HP: +5
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ Queen Nasheeji
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

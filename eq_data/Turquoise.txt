@@ -1,0 +1,337 @@
+ITEM NAME: Turquoise
+
+Classic Era (added 1999-2000)
+
+Turquoise
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Sells to vendors for about 1 gold. 
+
+  Drops From 
+The Estate of Unrest
+
+ a tentacle terror
+
+Field of Bone
+
+ an Iksar footpad
+
+Beholder's Maze
+
+ a goblin lookout
+ a goblin sentry
+ a goblin veteran
+
+Greater Faydark
+
+ a bandit
+ a faerie maiden
+ a pixie trickster
+
+Innothule Swamp
+
+ a water moccasin
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a brownie outcast
+ a fae drake
+ a faerie maiden
+ a pixie prankster
+ a pixie trickster
+
+Rathe Mountains
+
+ a zombie
+
+Steamfont Mountains
+
+ a kobold scout
+ a lesser ebon drake
+
+Upper Guk
+
+ a heart spider
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (637, 157)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ North Freeport
+
+ Jade
+
+
+
+  (-169, 202)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ High Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+  Related quests 
+ A Job for Nanrum
+ Crushbone Shoulderpads
+ Magic Elixir for the Warriors
+ Taxes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Turquoise Bracelet   (Trivial: 20)
+ Electrum Turquoise Engagement Ring (Trivial: 79)
+ Gold Turquoise Engagement Ring (Trivial: 151)
+ Platinum Turquoise Bracelet (Trivial: 223)
+
+
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

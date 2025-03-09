@@ -1,0 +1,56 @@
+ITEM NAME: Hammer of Flattening
+
+Kunark Era (added 2000)
+
+Hammer of Flattening
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 50
+DMG: 13 
+WT: 10.0  Size: LARGE
+Class: WAR SHD
+Race: BAR TRL OGR
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 12p 8g 
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+ a forest giant arbor
+ a forest giant verdant
+ Gorgul Paclock
+
+Dreadlands
+
+ a mountain giant brae
+ a mountain giant craig
+
+Frontier Mountains
+
+ a mountain giant brae
+ a mountain giant hillock
+ a mountain giant tump
+
+Warsliks Woods
+
+ a forest giant
+ a forest giant evergreen
+ a forest giant greenwood
+ a forest giant sapling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Drape of the Brood
+
+Kunark Era (added 2000)
+
+
+Drape of the Brood
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 4
+WT: 0.7  Size: MEDIUM
+Class: NEC
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Penance
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

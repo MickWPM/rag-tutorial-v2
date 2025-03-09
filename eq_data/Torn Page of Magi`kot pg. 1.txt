@@ -1,0 +1,38 @@
+ITEM NAME: Torn Page of Magi`kot pg. 1
+
+
+
+Torn Page of Magi`kot pg. 1
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify):  Torn Page of Magi`kot pg. 1 
+
+  Drops From 
+Kithicor Forest
+
+ Dread Wolf (unconfirmed on p99)
+ dreaded wolf (unconfirmed on p99)
+ enraged dread wolf
+
+Lower Guk
+
+ A bloodthirsty ghoul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

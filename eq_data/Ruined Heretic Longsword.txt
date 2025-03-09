@@ -1,0 +1,36 @@
+ITEM NAME: Ruined Heretic Longsword
+
+
+Ruined Heretic Longsword
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 2 
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+No known practical use. Fashionquest for some classes who cannot normally wield swords. 
+ Merchant resale value: 27p 6g 
+
+  Drops From 
+The Hole
+
+ a revenant
+ a wanderer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

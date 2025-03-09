@@ -1,0 +1,55 @@
+ITEM NAME: Giant Scarab Eye
+
+
+Giant Scarab Eye
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Does not stack. 
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 2 Golds
+ 0 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a giant scarab
+
+The Estate of Unrest
+
+ a death beetle
+
+Northern Desert of Ro
+
+ a sand scarab
+
+Oasis of Marr
+
+ a sand scarab
+
+Southern Desert of Ro
+
+ a sand scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Journeyman Rune (Azia) (Trivial: 95)
+
+
+
+
+

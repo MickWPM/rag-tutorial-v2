@@ -1,0 +1,43 @@
+ITEM NAME: Froglok Eye
+
+Classic Era (added 1999-2000)
+
+
+Froglok Eye
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lower Guk
+
+ a froglok shin knight
+
+Upper Guk
+
+ a froglok gaz knight
+ a froglok gaz warrior
+ a froglok ton warrior
+ a froglok tuk knight
+ a froglok tuk warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Apprentice Rune (Azia) (Trivial:41)
+
+
+
+
+

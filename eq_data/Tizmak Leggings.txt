@@ -1,0 +1,39 @@
+ITEM NAME: Tizmak Leggings
+
+Velious Era (added December 2000-2001)
+
+
+
+Tizmak Leggings
+
+
+Slot: LEGS
+AC: 8
+WT: 4.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+vendors for ~ 3p 4g 5s 8c 
+
+  Drops From 
+Great Divide
+
+ a furious tizmak warrior
+ A Tizmak Augur
+ a tizmak champion
+ a tizmak shaman
+ a tizmak spiritcaller
+ a tizmak warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

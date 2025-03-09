@@ -1,0 +1,33 @@
+ITEM NAME: Monogrammed Cloth
+
+
+
+Monogrammed Cloth
+
+
+LORE ITEM  NO DROP
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: BAR TRL OGR IKS
+
+
+ Item Lore (from Identify): Milea's Handkerchief 
+
+  Drops From 
+Eastern Plains of Karana
+
+ Milea Clothspinner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Clothspinner Sisters (evil)
+ The Clothspinner Sisters (good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

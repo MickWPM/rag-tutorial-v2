@@ -1,0 +1,36 @@
+ITEM NAME: Ravenscale Belt
+
+Epic Quests Era (added Sept 2000)
+
+Ravenscale Belt
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 9
+STA: +5  HP: +25
+WT: 2.4  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Part of the Ravenscale Armor Set. 
+ Merchant resale value: 3pp 
+
+  Drops From 
+Steamfont Mountains
+
+ Renux Herkanor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

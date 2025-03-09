@@ -1,0 +1,36 @@
+ITEM NAME: Summoned: Modulating Rod
+
+Sky Era (added January 2000)
+
+
+
+Summoned: Modulating Rod
+
+
+MAGIC ITEM  LORE ITEM  NO RENT
+Slot: PRIMARY SECONDARY
+EXPENDABLE  Charges: 1
+Skill: 1H Blunt  Atk Delay: 26
+DMG: 8 
+Effect:  Modulation (Any Slot, Casting Time: Instant)
+Recast Delay: 300 seconds, Recast Type: 19
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Created via the level 44 Magician spell Modulating Rod 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

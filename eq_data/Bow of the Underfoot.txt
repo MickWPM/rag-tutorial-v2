@@ -1,0 +1,37 @@
+ITEM NAME: Bow of the Underfoot
+
+
+
+Bow of the Underfoot
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+Skill: Archery  Atk Delay: 60
+DMG: 33
+STR: +4  DEX: +4
+SV COLD: +10
+WT: 4.0  Range: 150  Size: MEDIUM
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Rare drop off any rock golem 
+
+  Drops From 
+The Hole
+
+ a rock golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

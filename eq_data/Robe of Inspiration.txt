@@ -1,0 +1,37 @@
+ITEM NAME: Robe of Inspiration
+
+Velious Era (added December 2000-2001) Project1999 Red First - Robe of Inspiration
+
+
+Robe of Inspiration
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 20
+INT: +20  MANA: +100
+SV FIRE: +15  SV DISEASE: +15  SV COLD: +15  SV MAGIC: +15  SV POISON: +15
+Effect: Flowing Thought I (Worn)  
+WT: 0.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

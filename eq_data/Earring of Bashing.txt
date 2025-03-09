@@ -1,0 +1,36 @@
+ITEM NAME: Earring of Bashing
+
+Warrens Era (added spring 2001)
+
+
+Earring of Bashing
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 5
+STR: +8  WIS: +8
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.1  Size: TINY
+Class: WAR SHD SHM
+Race: OGR
+
+
+ Item Lore (from Identify): For those that like to bash 
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God - Hate Revamp)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

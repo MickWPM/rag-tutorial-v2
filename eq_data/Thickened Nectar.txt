@@ -1,0 +1,36 @@
+ITEM NAME: Thickened Nectar
+
+Sky Era (added January 2000)
+
+
+
+Thickened Nectar
+
+
+LORE ITEM
+WT: 20.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzzazzt
+ Bzzazzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Ranged Attack
+ Shaman Test of the Witch Doctor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

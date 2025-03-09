@@ -1,0 +1,38 @@
+ITEM NAME: Nature's Melody
+
+ Project 1999 First Nature's Melody - Trookle <Awakened>
+Velious Era (added December 2000-2001)
+
+Nature's Melody
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 15   AC: 20
+STR: +10  STA: +15  CHA: +10  AGI: +5  HP: +100
+SV FIRE: +13  SV COLD: +13  SV MAGIC: +13
+Effect: Song of the Deep Seas (Combat)
+WT: 1.0  Size: TINY
+Class: BRD
+Race: ALL
+
+
+See discussion for changes to this item that took place. 
+
+  Drops From 
+Plane of Growth
+
+ Tunare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

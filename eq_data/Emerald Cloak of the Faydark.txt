@@ -1,0 +1,45 @@
+ITEM NAME: Emerald Cloak of the Faydark
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Emerald Cloak of the Faydark
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+Charges: 1
+AC: 5
+CHA: +10  HP: +25  MANA: +25
+SV DISEASE: +10  SV POISON: +10
+Effect: Fay Gate (Any Slot/Can Equip, Casting Time: 10.0)
+WT: 0.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bloodboil Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

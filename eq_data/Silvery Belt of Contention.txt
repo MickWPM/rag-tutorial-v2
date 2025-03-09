@@ -1,0 +1,55 @@
+ITEM NAME: Silvery Belt of Contention
+
+Velious Era (added December 2000-2001)
+
+
+
+Silvery Belt of Contention
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 10
+STA: +4  WIS: +5  INT: +5
+Haste: +21%  
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Adjutant Cryyrn
+ Adjutant Daggeruk
+ Adjutant Derkan
+ Adjutant Droggren
+ Adjutant Frinevrn
+ Adjutant Hekrandor
+ Adjutant Hoggren
+ Adjutant Jharll
+ Adjutant Khellendor
+ Adjutant Stormkeeper
+ Adjutant Strongaxe
+ Adjutant Thyek
+ Adjutant Velsharek
+ Veteran Icecaller
+ Veteran Kltrem
+ Veteran Mjrlind
+ Veteran Skeldek
+ Veteran Surlren
+ Veteran Yllhaydm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

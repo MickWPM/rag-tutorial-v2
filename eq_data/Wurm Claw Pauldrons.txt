@@ -1,0 +1,35 @@
+ITEM NAME: Wurm Claw Pauldrons
+
+Velious Era (added December 2000-2001)
+
+
+Wurm Claw Pauldrons
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 25
+STR: +10  STA: +5  WIS: +5  INT: +5  HP: +30  MANA: +30
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Prior to Velious Stat Upgrade 
+
+  Drops From 
+Temple of Veeshan
+
+ Dagarn the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

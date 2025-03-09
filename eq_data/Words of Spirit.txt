@@ -1,0 +1,40 @@
+ITEM NAME: Words of Spirit
+
+
+Words of Spirit
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Various Zones
+
+ Random drop from level ~20 mobs
+
+Eastern Plains of Karana
+
+ a gorge hound
+
+Oasis of Marr
+
+ a deepwater caiman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Hungry Earth (Trivial: 26)
+
+
+
+
+

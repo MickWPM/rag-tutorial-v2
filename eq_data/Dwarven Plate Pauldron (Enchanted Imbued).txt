@@ -1,0 +1,45 @@
+ITEM NAME: Dwarven Plate Pauldron (Enchanted Imbued)
+
+
+Dwarven Plate Pauldron
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 12
+STR: +4  STA: +4  WIS: +3
+SV FIRE: +4  SV MAGIC: +2
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL
+Race: DWF HFL GNM
+Deity: Brell Serilis
+
+
+This is the imbued, deity restricted version of Enchanted Dwarven Plate Pauldron. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 235)
+ Yield: Dwarven Plate Pauldron x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Enchanted Brellium Jointing - Crafted
+  2 x Enchanted Folded Brellium Sheet - Crafted
+  1 x Imbued Ruby - Summoned
+  1 x Leather Padding - Crafted
+  1 x Small Plate Pauldron Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

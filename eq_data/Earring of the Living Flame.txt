@@ -1,0 +1,38 @@
+ITEM NAME: Earring of the Living Flame
+
+Velious Era (added December 2000-2001)
+Earring of the Living Flame
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 20
+STR: +15  STA: +10
+SV FIRE: +20
+Effect:  Truesight (Worn)
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Test of the Living Flame
+ Black Tear (from Dozekar the Cursed)
+ Black Symbol (from Krigara or Ymmeln)
+ Poison Symbol (from Casalen or Tavekalem)
+ Serrated Symbol (from Lepethida)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

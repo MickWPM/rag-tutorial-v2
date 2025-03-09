@@ -1,0 +1,29 @@
+ITEM NAME: Pincer Satchel
+
+Kunark Era (added 2000)
+
+
+Pincer Satchel
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Weight Reduction: 0%
+Capacity: 2  Size Capacity: MEDIUM
+
+
+ Item Lore (from Identify): Large Pincer Satchel 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Geozite Tool Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

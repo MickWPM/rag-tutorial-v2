@@ -1,0 +1,36 @@
+ITEM NAME: Sebilite Scale Mantle
+
+Kunark Era (added 2000)
+
+Sebilite Scale Mantle
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 8
+STR: +4  STA: +4
+SV FIRE: +2  SV DISEASE: +2
+WT: 2.6  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+ Merchant resale value: 27.4p 
+
+  Drops From 
+Old Sebilis
+
+ froglok ostiary
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

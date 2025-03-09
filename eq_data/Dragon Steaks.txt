@@ -1,0 +1,38 @@
+ITEM NAME: Dragon Steaks
+
+Classic Era (added 1999-2000)
+
+Dragon Steaks
+
+
+STR: +4  DEX: +4  STA: +4  CHA: +4  WIS: +4  INT: +4  AGI: +4
+This is a hearty meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 242)
+ Yield: Dragon Steaks x5
+ In Oven:
+
+
+  1 x Dragon Meat - Dropped
+  1 x Jug of Sauces - Bought
+  1 x Spices - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

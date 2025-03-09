@@ -1,0 +1,35 @@
+ITEM NAME: Holgresh Wing
+
+Velious Era (added December 2000-2001)
+
+Holgresh Wing
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ a holgresh conjurer
+ a holgresh elementalist
+ an elder holgresh
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Clockwork Watchman Greaves (Trivial: 227)
+
+
+
+
+

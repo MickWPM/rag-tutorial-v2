@@ -1,0 +1,33 @@
+ITEM NAME: Charred Gauntlets
+
+
+Charred Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 7
+DEX: +3  INT: +5
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Solusek's Eye
+
+ inferno goblin captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

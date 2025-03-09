@@ -1,0 +1,52 @@
+ITEM NAME: Phosphorous Powder
+
+Classic Era (added 1999-2000)
+
+
+Phosphorous Powder
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+ a forest giant verdant
+ Azdalin
+ Nezekezena
+ Phurzikon
+ wurm
+
+Lower Guk
+
+ a bok ghoul knight
+a zol ghoul knight
+
+Skyfire Mountains
+
+ a wurm
+
+Western Wastes
+
+ a wyvern
+ a wyvern hunter
+ a wyvern huntress
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

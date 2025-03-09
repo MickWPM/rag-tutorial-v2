@@ -1,0 +1,35 @@
+ITEM NAME: Pearly Sarnak Bauble
+
+Kunark Era (added 2000)
+
+Pearly Sarnak Bauble
+
+
+MAGIC ITEM  LORE ITEM
+Slot: EAR
+AC: 2
+STA: +10  HP: +35
+SV DISEASE: +5  SV POISON: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Replaces Pearly Sarnak Bangle.[1] 
+
+  Drops From 
+Chardok
+
+ Arch Inspector Nibi`zi
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Yakman Parts
+
+Velious Era (added December 2000-2001)
+
+
+Yakman Parts
+
+
+MAGIC ITEM  NO DROP
+WT: 2.4  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ a furious tizmak warrior
+ A Tizmak Augur
+ a tizmak champion
+ a tizmak shaman
+ a tizmak spiritcaller
+ a tizmak warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Map
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

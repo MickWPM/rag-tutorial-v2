@@ -1,0 +1,71 @@
+ITEM NAME: Black Extract
+
+Classic Era (added 1999-2000)
+
+Black Extract
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+The extract used to make Fine Plate Armor black dye. One, two or three are required for light, medium and dark. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 36)
+ Yield: Black Extract x1
+ In Medicine Bag:
+
+
+  1 x Empty Vial - Crafted, Bought, Returned on Failure
+  1 x Red Cockatrice Feather - Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Poison Making (Trivial: 36)
+ Yield: Black Extract x1
+ In Mortar and Pestle:
+
+
+  1 x Red Cockatrice Feather - Dropped
+  1 x Empty Vial - Crafted, Bought, Returned on Failure
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Alchemy (Trivial: 36)
+ Yield: Black Extract x1
+ In Medicine Bag:
+
+
+  1 x Empty Vial - Crafted, Bought, Returned on Failure
+  1 x Charcoal - Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Poison Making (Trivial: 36)
+ Yield: Black Extract x1
+ In Mortar and Pestle:
+
+
+  1 x Charcoal - Dropped
+  1 x Empty Vial - Crafted, Bought, Returned on Failure
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill
+ Light Grey Dye (Trivial: No Fail)
+ Black Dye (Trivial: No Fail)
+ Grey Dye (Trivial: No Fail)
+
+
+
+
+

@@ -1,0 +1,280 @@
+ITEM NAME: Fine Steel Warhammer
+
+Classic Era (added 1999-2000)
+
+Fine Steel Warhammer
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 6 
+WT: 7.3  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 5 Platinums
+ 3 Golds
+ 7 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ Nyzil Bloodforge
+
+East Cabilis
+
+ Crusader Cotat
+ Crusader Daehod
+ Crusader Golia
+ Crusader Hitol
+ Crusader Olos
+ Crusader Reidak
+ Crusader Wonku
+ Crusader Zixo
+
+Clan Runnyeye
+
+ a Pickclaw mindripper
+
+Commonlands
+
+ a hill giant
+ Ranvigoz Tonsmith
+ Timtok Tonsmith
+
+Eastern Plains of Karana
+
+ a druid
+ a hill giant
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a greater dark bone
+ mortuary fungus
+
+Everfrost Peaks
+
+ an ice giant
+
+Field of Bone
+
+ Crusader Bodli
+ Crusader Quarg
+
+Firiona Vie
+
+ a pirate
+ froglok shin warrior
+ froglok tal shaman
+ froglok ton knight
+ froglok tsu shaman
+
+North Freeport
+
+ Sentry Andlin
+ Sentry Theo
+ Sentry Warren
+
+Frontier Mountains
+
+ a goblin adept
+ a goblin blightcaller
+ a goblin bodyguard
+ a goblin cavehunter
+ a goblin depredator
+ a goblin fanatic
+ a goblin flamedrowser
+ a goblin flashdrowser
+ a goblin soothsayer
+ a goblin taskmaster
+ a goblin whipcracker
+
+Innothule Swamp
+
+ Basher Nkekta
+ Basher Sklama
+
+North Kaladim
+
+ Guard Ainamar
+ Guard Dalammer
+ Guard Dalthur
+ Guard Doradek
+ Guard Kaldolar
+ Guard Kanuf
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ tortured healer
+ zombie trooper
+
+Lake of Ill Omen
+
+ Crusader Deezin
+ Crusader Swype
+
+Lesser Faydark
+
+ Priestess Llandra
+ Teir`Dal Prophet
+
+Mistmoore Castle
+
+ a deathly harbinger
+ a deathly herald
+ a deathly usher
+ a fallen noble
+ a ghastish ancille
+ a ghoulish ancille
+ a glyphed aegis
+ a glyphed custodian
+ a glyphed forbidder
+ a glyphed guard
+ a glyphed sentry
+ a glyphed warder
+ a hemo enologist
+ a vampiric ancille
+ a will pillager
+ a will ravisher
+ a will sapper
+ an ancille cook
+ Butler Syncall
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+
+Northern Desert of Ro
+
+ a sand giant
+
+Northern Karana
+
+ Briana Treewhisper
+
+Permafrost
+
+ a priest of Nagafen
+ an elite goblin guard
+
+Rathe Mountains
+
+ a hill giant
+ Broog Bloodbeard
+
+Solusek's Eye
+
+ fire goblin
+
+South Kaladim
+
+ Guard Adolar
+ Guard Adolmer
+ Guard Anathur
+ Guard Badmer
+ Guard Bobbin
+ Guard Cardaff
+ Guard Didek
+ Guard Dinamin
+ Guard Dinler
+ Guard Gabbles
+ Guard Hinolmer
+ Guard Humkor
+ Guard Humphet
+ Guard Kathur
+ Guard Kindor
+ Guard Koranin
+ Guard Ninadek
+ Guard Ninaf
+ Guard Stump
+ Guard Tantan
+
+Southern Karana
+
+ a Rosch Val Gnoll
+ a Tesch Mas Gnoll
+ High Shaman Phido
+
+Southern Desert of Ro
+
+ a deepwater goblin
+ Cazel
+ Sandgiant Husam
+
+Steamfont Mountains
+
+ a kobold missionary
+ Watchman Grep
+
+Swamp of No Hope
+
+ Crusader Litia
+ Crusader Savot
+ froglok shin shaman
+
+The Feerrott
+
+ a Tae Ew defender
+ a Tae Ew sentinel
+ Bouncer Hurd
+
+Timorous Deep
+
+ The Great Oowomp
+
+Trakanon's Teeth
+
+ a froglok yun shaman
+ froglok shin knight
+ froglok shin warrior
+ froglok tal shaman
+ Froglok Urd Shaman
+ Froglok Vis Knight
+ Froglok Wan Knight
+
+Warsliks Woods
+
+ Crusader Eaxl
+ Crusader Myxl
+
+West Cabilis
+
+ Crusader Axmo
+ Crusader Ezrogz
+ Crusader Mocdi
+
+West Freeport
+
+ Gygus Remnara
+ Palious Jarten
+ Sentry Boris
+ Sentry Gallius
+ Sentry Janeal
+ Sentry Meighan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

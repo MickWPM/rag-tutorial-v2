@@ -1,0 +1,33 @@
+ITEM NAME: Lizard Blood Potion
+
+Classic Era (added 1999-2000)
+
+Lizard Blood Potion
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Cazic Gate (Any Slot, Casting Time: Instant) as Level 35
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cazic Thule
+
+ Cazic Cenobite
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

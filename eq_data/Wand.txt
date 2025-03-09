@@ -1,0 +1,32 @@
+ITEM NAME: Wand
+
+
+
+Wand
+
+
+MAGIC ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ A Glyphed Familiar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

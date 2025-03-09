@@ -1,0 +1,35 @@
+ITEM NAME: Khyldorn the Blood Drinker
+
+Sky Era (added January 2000)
+
+
+Khyldorn the Blood Drinker
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 43
+DMG: 36 
+STR: +10  INT: +7
+Effect:  Siphon (Combat, Casting Time: Instant) at Level 50
+WT: 8.0  Size: GIANT
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Necropotence
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

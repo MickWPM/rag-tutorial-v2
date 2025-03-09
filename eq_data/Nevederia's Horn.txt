@@ -1,0 +1,44 @@
+ITEM NAME: Nevederia's Horn
+
+Velious Era (added December 2000-2001)
+
+
+Nevederia's Horn
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+Skill: Piercing  Atk Delay: 15
+DMG: 10   AC: 20
+STR: +10
+SV FIRE: +10
+Effect: Suffocate (Combat, Casting Time: Instant)
+WT: 0.0  Size: TINY
+Class: WAR RNG ROG
+Race: ALL
+
+
+Note: Showing post-upgrade stats (current on p99). Changed from:
+
+
+Skill: Piercing  Atk Delay: 15
+DMG: 5   AC: 10
+STR: +8
+SV FIRE: +8
+
+ 
+  Drops From 
+Temple of Veeshan
+
+ Lady Nevederia
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Mr. Secretary demonstrates the proper technique of stabbing puppies with Nevedaria's Horn (offhand)
+

@@ -1,0 +1,32 @@
+ITEM NAME: Dark Elf Decapitated Head
+
+
+
+Dark Elf Decapitated Head
+
+
+LORE ITEM
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Head of Lokak To`Biath 
+
+  Drops From 
+Neriak Third Gate
+
+ Lokar To`Biath
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Book of Turmoil Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

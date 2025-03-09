@@ -1,0 +1,42 @@
+ITEM NAME: Blighted Mare Hide
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Blighted Mare Hide
+
+
+MAGIC ITEM  NO DROP
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Came with a May 2001 patch.[1] 
+
+  Drops From 
+Lesser Faydark
+
+ a blighted mare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Child of Innoruuk
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

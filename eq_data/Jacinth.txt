@@ -1,0 +1,100 @@
+ITEM NAME: Jacinth
+
+
+Jacinth
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used for making +MR gear and Dwarf cultural. 
+ Merchant resale value: 148.2p 
+
+  Drops From 
+Chardok
+
+ a Di`Zok Cryptmaster
+ a Di`Zok Dragoon
+ a Reanimated Berserker
+
+Clan Runnyeye
+
+ The Sporali Moldmaster
+
+Kael Drakkel
+
+ a Protector of Zek
+
+Kedge Keep
+
+ Estrella of Gloomwater
+ Phinigel Autropos
+
+Ocean of Tears
+
+ Allizewsaur
+
+Old Sebilis
+
+ a leprous scarab
+ a necrosis scarab
+ a pox scarab
+ a sebilite golem
+ a sepsis scarab
+ an iksar necromancer
+ frenzied pox scarab
+ froglok ilis knight
+ froglok ilis shaman
+ froglok ilis wizard
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ Gangrenous Scarab
+ krup ghoul knight
+ sebilite guardian
+ sebilite juggernaut
+ sebilite protector
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a samhain
+ Amygdalan knight
+
+Plane of Hate
+
+ a forsaken revenant
+ a hatebone drake (2.0)
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+ Magi P`Tasa (2.0)
+
+The Wakening Land
+
+ Grand Vizier Poolakacha`tei
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+ Ulthork Tusks Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Jacinth Wedding Ring (Trivial: 66)
+ Jacinth Electrum Wedding Ring (Trivial: 138)
+ Golden Jacinth Wedding Ring (Trivial: 210)
+ Platinum Jacinth Wedding Ring (Trivial: 282)
+ Velium Jacinth Wedding Ring (Trivial: ???)
+
+
+
+
+

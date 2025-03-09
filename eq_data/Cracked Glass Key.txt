@@ -1,0 +1,31 @@
+ITEM NAME: Cracked Glass Key
+
+Classic Era (added 1999-2000)
+
+
+Cracked Glass Key
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+See the Key Compendium. No actual use. 
+
+  Drops From 
+The Estate of Unrest
+
+ an undead knight of Unrest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

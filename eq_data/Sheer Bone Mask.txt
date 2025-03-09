@@ -1,0 +1,45 @@
+ITEM NAME: Sheer Bone Mask
+
+
+Sheer Bone Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 3
+INT: +3
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 4 Platinums
+ 6 Golds
+ 0 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Western Plains of Karana
+
+ an ogre shaman
+ Chief Goonda
+
+Timorous Deep
+
+ The Great Oowomp
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

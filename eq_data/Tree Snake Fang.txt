@@ -1,0 +1,36 @@
+ITEM NAME: Tree Snake Fang
+
+Classic Era (added 1999-2000)
+
+
+Tree Snake Fang
+
+
+NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake Rathetear
+
+ an algae snake
+
+Southern Desert of Ro
+
+ a tree snake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

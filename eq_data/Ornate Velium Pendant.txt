@@ -1,0 +1,49 @@
+ITEM NAME: Ornate Velium Pendant
+
+Velious Era (added December 2000-2001)
+ NERF ALERT (see notes)
+
+Ornate Velium Pendant
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+Charges: 4
+CHA: +6  WIS: +6
+Effect: Alliance (Any Slot/Can Equip, Casting Time: 0.1) at Level 45
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Symbol of a Councilor of Thurgadin
+Legacy version of the item has unlimited uses and is (Must Equip, Casting Time: Instant). Nerfed version has limited charges.
+The prenerf version also functions as a mild light source when worn. 
+
+  Drops From 
+Icewell Keep
+
+ Councilor Amberfeld
+ Councilor Coldember
+ Councilor Darakor
+ Councilor Darkfrost
+ Councilor Deynekn
+ Councilor Dirkins
+ Councilor Glacierbane
+ Councilor Icelok
+ Councilor Icepike
+ Councilor Juliash Lockhear
+ Councilor Thubins
+ Councilor Wintershade
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

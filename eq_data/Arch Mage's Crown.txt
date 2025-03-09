@@ -1,0 +1,34 @@
+ITEM NAME: Arch Mage's Crown
+
+Velious Era (added December 2000-2001)
+
+
+Arch Mage's Crown
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 6
+INT: +9  HP: +15  MANA: +15
+SV FIRE: +2  SV MAGIC: +7
+WT: 0.2  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Velium Cap
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Crystalized Web Silk
+
+Velious Era (added December 2000-2001)
+
+
+Crystalized Web Silk
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+According to an allakhazam comment this item was meant for a quest that never got finished. 
+
+  Drops From 
+Crystal Caverns
+
+ a crystal crawler
+ a crystal webmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

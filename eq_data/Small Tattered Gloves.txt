@@ -1,0 +1,34 @@
+ITEM NAME: Small Tattered Gloves
+
+Classic Era (added 1999-2000)
+Were you looking for Large Tattered Armor Set? Were you looking for Tattered Armor Set?
+
+
+Small Tattered Gloves
+
+
+QUEST ITEM
+Slot: HANDS
+AC: 3
+WT: 1.1  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Tattered Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bone Chips Kaladim
+
+  Player crafted 
+ Tailoring (Trivial: 26) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

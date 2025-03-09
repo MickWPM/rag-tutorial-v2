@@ -1,0 +1,38 @@
+ITEM NAME: Bayle List III
+
+Classic Era (added 1999-2000)
+
+
+Bayle List III
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Highpass Hold
+
+ Dyllin Starshine
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bayle List 
+
+  Book contents 
+CISYUYYAMUAT NOMOVOE OPFOHU NISDJEPVT DJENQOUPT
+
+Translation via substitution cipher: abcdefghijklmnopqrstuvwxyz => uxbcadfgehzklminpqrsotqwxy)
+BERXOXXULOUS MILITIA INDIGO MERCHANTS CHAMPIONS
+(SIC: T and X using same letter in first word, its likely CISYUYYAMUAT was meant to be CISVUYYAMUAT which would spell BERTOXXULOUS)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

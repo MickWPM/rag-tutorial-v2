@@ -1,0 +1,36 @@
+ITEM NAME: Bat Fur Belt
+
+Velious Era (added December 2000-2001)
+
+
+Bat Fur Belt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 12
+SV DISEASE: +12
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a carrion bat
+ a Paebala Rebel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Illusionists Stone
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Illusionists Stone
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 5
+Effect:  Illusion: Tree (Any Slot, Casting Time: Instant)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Old Dimshimmer can be spawned by killing A Fae Drake Hatchling which roam to LOC 0,0 by the tree.  6 min 42 sec repop on PH Butterflies.  Additionally, this item can be used by Iksars (tested) or other evil races (untested) to purchase from vendors. With Ally faction and 100+ charisma, it costs ~4 plat to recharge.
+
+
+ 
+
+  Drops From 
+Lesser Faydark
+
+ Old Dimshimmer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

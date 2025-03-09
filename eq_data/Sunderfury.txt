@@ -1,0 +1,35 @@
+ITEM NAME: Sunderfury
+
+
+
+Sunderfury
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 36
+DMG: 25 
+Haste: +36%  
+WT: 7.5  Size: LARGE
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Grandmaster R`Tal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

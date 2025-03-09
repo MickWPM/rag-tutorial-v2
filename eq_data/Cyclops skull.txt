@@ -1,0 +1,44 @@
+ITEM NAME: Cyclops Skull
+
+Temple Era (added October 1999)
+
+Cyclops skull
+
+
+WT: 10.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Southern Karana
+
+ an undead cyclops
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Helm of Ro
+
+  Player crafted 
+ Brewing (Trivial: 151)
+ Yield: Skull Ale x2
+ In Brewing Barrel:
+
+
+  1 x Cyclops skull - Dropped, Returned on Failure, Returned on Success
+  1 x Short Beer - Crafted, Bought, Dropped
+  1 x Spices - Bought
+  1 x Vinegar - Bought 
+
+
+  Tradeskill recipes 
+Brewing
+Skull Ale
+
+
+
+
+

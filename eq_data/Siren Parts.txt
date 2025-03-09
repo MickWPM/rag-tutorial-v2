@@ -1,0 +1,45 @@
+ITEM NAME: Siren Parts
+
+Velious Era (added December 2000-2001)
+
+Siren Parts
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a siren enticer
+
+Siren's Grotto
+
+ a siren beguiler
+ a siren myrmidon
+ a siren priestess
+ a siren templar
+
+Western Wastes
+
+ an outcast siren
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Siren Pickles (Trivial: <=90)
+
+
+
+
+

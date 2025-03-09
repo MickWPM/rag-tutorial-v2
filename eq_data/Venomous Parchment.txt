@@ -1,0 +1,33 @@
+ITEM NAME: Venomous Parchment
+
+Kunark Era (added 2000)
+
+
+Venomous Parchment
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ venomous lamprey
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Gauntlets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

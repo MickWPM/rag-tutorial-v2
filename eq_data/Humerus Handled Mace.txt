@@ -1,0 +1,36 @@
+ITEM NAME: Humerus Handled Mace
+
+
+
+Humerus Handled Mace
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 29
+DMG: 5 
+SV COLD: +2
+WT: 1.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Beholder's Maze
+
+ a goblin alchemist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Treant Fists
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

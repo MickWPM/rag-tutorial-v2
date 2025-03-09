@@ -1,0 +1,36 @@
+ITEM NAME: Sphinx Heart Amulet
+
+Sky Era (added January 2000)
+
+
+
+Sphinx Heart Amulet
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 4
+STR: +10  CHA: -5  INT: +10  MANA: +25
+SV DISEASE: +5
+Effect:  Ultravision (Worn, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Test of Heart
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

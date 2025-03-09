@@ -1,0 +1,36 @@
+ITEM NAME: Mask of Superiority
+
+Velious Era (added December 2000-2001)
+
+
+Mask of Superiority
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 15
+STR: +10  DEX: +10  STA: +9  CHA: +3  WIS: +4  INT: +4  AGI: +4  HP: +45
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 10.0  Size: TINY
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lendiniara the Keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

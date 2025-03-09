@@ -1,0 +1,40 @@
+ITEM NAME: Minor Null Potion
+
+
+Minor Null Potion
+
+
+EXPENDABLE  Charges: 1
+Effect:  Null Aura (Any Slot, Casting Time: 4.0)
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 27)
+ Yield: Minor Null Potion x1
+ In Medicine Bag:
+
+
+  1 x Fenugreek - Bought
+  1 x Mandrake Root - Bought 
+
+
+  Tradeskill recipes 
+ Alchemy
+ 5 Dose Minor Null Potion (Trivial: No-Fail)
+ 10 Dose Minor Null Potion (Trivial: No-Fail)
+
+
+
+
+

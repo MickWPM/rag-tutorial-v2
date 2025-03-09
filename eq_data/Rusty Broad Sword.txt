@@ -1,0 +1,71 @@
+ITEM NAME: Rusty Broad Sword
+
+Classic Era (added 1999-2000)
+
+Rusty Broad Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 36
+DMG: 5 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 0 Golds
+ 5 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Various Zones
+
+Various Mobs Level 1 - 15
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Harg Tonicka
+
+
+
+  (-41, -493)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86, -457)
+
+  Related quests 
+ Bladed Weapons
+ Bone Chips Kaladim
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

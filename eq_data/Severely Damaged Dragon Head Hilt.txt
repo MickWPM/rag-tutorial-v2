@@ -1,0 +1,31 @@
+ITEM NAME: Severely Damaged Dragon Head Hilt
+
+Epic Quests Era (added Sept 2000)
+ Severely Damaged Dragon Head Hilt on the ground.
+Severely Damaged Dragon Head Hilt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Groundspawn on the chessboard in Timorous Deep at loc (-6450,+2834) behind white's king piece.
+What is the respawn time? Perhaps an hour. Waited more than 3 hours after arriving to empty spawn. 2/14/19
+ Item Lore (from Identify):  'Severely Damaged Dragon Head Hilt'  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

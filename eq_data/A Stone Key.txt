@@ -1,0 +1,62 @@
+ITEM NAME: A Stone Key
+
+Kunark Era (added 2000)
+
+
+A Stone Key
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Droga Pen Key 1
+Gives access to the pen with the Always Works Pottery Wheel. With the Key on your cursor, use the 'U' hotkey to open a locked cell door. 
+
+  Drops From 
+Temple of Droga
+
+ a goblin penkeeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+Kunark Era (added 2000)
+ A Stone Key (Palace of Ghiosk)
+A Stone Key
+
+
+LORE ITEM  NODROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Palace of Ghiosk
+Key to black reaver castle in City of Mist. 
+
+  Drops From 
+City of Mist
+
+ Captain of the Guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

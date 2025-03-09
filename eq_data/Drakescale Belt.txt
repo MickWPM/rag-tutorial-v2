@@ -1,0 +1,35 @@
+ITEM NAME: Drakescale Belt
+
+Classic Era (added 1999-2000)
+
+Drakescale Belt
+
+
+Slot: WAIST
+AC: 5
+DEX: +3
+SV FIRE: +10
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+A mid-grade belt for melee in vanilla, or a low-end belt for priests and casters little better than patchwork. 
+ Merchant resale value: 3g 5s 
+
+  Drops From 
+Solusek's Eye
+
+ Singe
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

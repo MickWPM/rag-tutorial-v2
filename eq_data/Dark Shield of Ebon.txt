@@ -1,0 +1,30 @@
+ITEM NAME: Dark Shield of Ebon
+
+
+Dark Shield of Ebon
+
+
+LORE ITEM  
+Slot: BACK SECONDARY
+AC: 3
+WT: 2.5  Size: SMALL
+Class: WAR CLR SHD ROG
+Race: DEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Moss Snakes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

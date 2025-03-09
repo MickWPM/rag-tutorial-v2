@@ -1,0 +1,42 @@
+ITEM NAME: Seahorse Scales
+
+
+Seahorse Scales
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kedge Keep
+
+ a soothebrine seahorse
+ a spinereef seahorse
+ a squallsurge seahorse
+ a swirlspine seahorse
+ Swirlspine Guardian
+
+Siren's Grotto
+
+ a coldspine seahorse
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Tainted Avalanche Ale (Trivial: 248)
+
+
+
+
+

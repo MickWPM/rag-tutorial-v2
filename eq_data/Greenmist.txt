@@ -1,0 +1,38 @@
+ITEM NAME: Greenmist
+
+Were you looking for Greenmist Armor from Plane of Fear?
+Chardok Revamp Era (added late 2001)
+
+ Ataxio was the first to complete Greenmist on P99 Blue Shiris was the first Iksar to complete Greenmist on p99 Red; Noah (Ogre) the first overall to complete it.
+Greenmist
+
+
+MAGIC ITEM  LORE ITEM  NO TRADE  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 18   AC: 5
+Bane DMG: Shissar +6
+Effect:  Greenmist (Combat, Casting Time: Instant) at Level 45
+STR: +5  DEX: +5  INT: +10
+SV DISEASE: +10  SV MAGIC: +25  SV POISON: +5
+WT: 4.0  Size: MEDIUM
+Class: SHD
+Race: IKS
+
+
+ Item Lore (from Identify):  Khukri of RileBane damage had no use until Luclin was released. Item was changed to be usable by non-Iksar races Post-Luclin. [1] [2] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusaders of Greenmist
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

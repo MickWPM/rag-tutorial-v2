@@ -1,0 +1,42 @@
+ITEM NAME: Goblin Warlord Warbeads
+
+Kunark Era (added 2000)
+
+
+Goblin Warlord Warbeads
+
+
+NO DROP 
+Slot: NECK
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ Goblin Iksar Slayer
+
+Lake of Ill Omen
+
+ goblin warlord
+
+Warsliks Woods
+
+ goblin warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #5 (Legionnaire's Mancatcher)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

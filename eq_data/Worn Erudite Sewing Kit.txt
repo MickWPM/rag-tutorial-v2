@@ -1,0 +1,41 @@
+ITEM NAME: Worn Erudite Sewing Kit
+
+
+
+Erudite Sewing Kit
+
+
+WT: 4.0  Weight Reduction: 0%
+Capacity: 10  Size Capacity: LARGE
+
+
+Used for erudite cultural tailoring. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Paineel
+
+ Pardas Nalue
+
+
+
+  (944, 678)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

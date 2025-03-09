@@ -1,0 +1,34 @@
+ITEM NAME: Thunderforged Earring
+
+Sky Era (added January 2000)
+
+
+Thunderforged Earring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 8
+DEX: +8  WIS: +8  AGI: +8  MANA: +25
+Effect:  Careless Lightning (Must Equip, Casting Time: 12.0) at Level 45
+WT: 0.1  Size: TINY
+Class: RNG
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Thunder
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

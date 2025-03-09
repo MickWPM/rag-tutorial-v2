@@ -1,0 +1,29 @@
+ITEM NAME: Light Burlap Sack
+
+
+Light Burlap Sack
+
+
+LORE ITEM
+WT: 3.0  Weight Reduction: 65%
+Capacity: 8  Size Capacity: LARGE
+
+
+ Item Lore (from Identify):  Light Burlap Sack 
+
+  Drops From 
+Lower Guk
+
+ a ghoul supplier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

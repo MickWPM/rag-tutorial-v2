@@ -1,0 +1,40 @@
+ITEM NAME: Imbued Platinum Diamond Ring
+
+
+
+Imbued Platinum Diamond Ring
+
+
+MAGIC ITEM
+Slot: FINGER
+STA: +5 WIS: +5
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+Deity: Mithaniel Marr
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ?)
+ Platinum Diamond Wedding Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Platinum Bar - Summoned
+  1 x Imbued Diamond - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

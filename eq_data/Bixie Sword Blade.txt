@@ -1,0 +1,37 @@
+ITEM NAME: Bixie Sword Blade
+
+Sky Era (added January 2000)
+ NERF ALERT (see notes)
+
+
+Bixie Sword Blade
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 16
+DMG: 2 
+WT: 1.0  Size: MEDIUM
+Class: PAL
+Race: ALL
+
+
+Was originally a 2/6 weapon (developer mistake), changed to 2/16 on March 27, 2001. 
+
+  Drops From 
+Plane of Sky
+
+ Bazzt Zzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Test of Sacrifice
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

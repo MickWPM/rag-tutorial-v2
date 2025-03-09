@@ -1,0 +1,33 @@
+ITEM NAME: Ancient Thin Flute
+
+Epic Quests Era (added Sept 2000)
+
+
+Ancient Thin Flute
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.2  Size: TINY
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore (from Identify): Flute of Zan-Fi* 
+
+  Drops From 
+Dreadlands
+
+ Brother Balatin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Circle?  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

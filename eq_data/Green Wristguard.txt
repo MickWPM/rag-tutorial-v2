@@ -1,0 +1,44 @@
+ITEM NAME: Green Wristguard
+
+Velious Era (added December 2000-2001)
+
+
+Green Wristguard
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 20
+STR: +5  WIS: +5  MANA: +35
+WT: 5.0  Size: SMALL
+Class: RNG DRU
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Green Wristguard x1
+ In  Deck of Spontaneous Generation:
+
+
+  A White Throne - Dropped
+  A Red Throne - Dropped
+  A Red Crown - Dropped
+  A Red Knight - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

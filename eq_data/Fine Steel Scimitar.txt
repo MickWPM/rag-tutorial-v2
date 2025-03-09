@@ -1,0 +1,193 @@
+ITEM NAME: Fine Steel Scimitar
+
+Classic Era (added 1999-2000)
+
+Fine Steel Scimitar
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 5p 5g 3c 
+
+  Drops From 
+Mistmoore Castle
+
+ a dark ass`t librarian
+ a deathly harbinger
+ a deathly herald
+ a deathly usher
+ a ghastish ancille
+ a ghoulish ancille
+ a glyphed aegis
+ a glyphed ghoul
+ a glyphed guard
+ a glyphed sentry
+ a hemo enologist
+ a vampiric ancille
+ a will pillager
+ a will ravisher
+ a will sapper
+ an ancille cook
+ Butler Syncall
+ Enynti
+
+West Commonlands
+
+ a hill giant
+
+Crypt of Dalnir
+
+ a coerced Teir`Dal
+
+Cazic-Thule
+
+ a lizard defender
+
+Eastern Plains of Karana
+
+ a hill giant
+ Tarbul Earthstrider
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a greater dark bone
+ mortuary fungus
+
+Everfrost Peaks
+
+ an ice giant
+
+Firiona Vie
+
+ froglok shin warrior
+ froglok ton knight
+ froglok tsu shaman
+
+Frontier Mountains
+
+ a goblin adept
+ a goblin bodyguard
+ a goblin cavehunter
+ a goblin depredator
+ a goblin fanatic
+ a goblin flamedrowser
+ a goblin flashdrowser
+ a goblin soothsayer
+ a goblin taskmaster
+ a goblin whipcracker
+
+Kaesora
+
+ Reaver of Xalgoz
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ zombie trooper
+
+Lesser Faydark
+
+ Dragoon Szorn
+ Teir`Dal Elite
+
+Lower Guk
+
+ the ghoul lord
+
+Rathe Mountains
+
+ a hill giant
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+
+Najena
+
+ The Widowmistress
+
+Nektulos Forest
+
+ Leatherfoot Deputy
+
+Northern Desert of Ro
+
+ a sand giant
+
+Ocean of Tears
+
+ Gornit
+
+Permafrost
+
+ an elite goblin guard
+
+Southern Karana
+
+ a Rosch Val Gnoll
+ a Tesch Mas Gnoll
+ Nisch Val Torash Mashk
+
+Southern Desert of Ro
+
+ a deepwater goblin
+ Sandgiant Husam
+
+Steamfont Mountains
+
+ Watchman Dreeb
+ Watchman Mylz
+ Watchman Prenn
+ Watchman Prynn
+
+The Feerrott
+
+ a Tae Ew defender
+ a Tae Ew sentinel
+
+Timorous Deep
+
+ a gunthak pirate
+
+Trakanon's Teeth
+
+ a froglok yun shaman
+ froglok shin knight
+ froglok shin warrior
+ froglok tal shaman
+ Froglok Urd Shaman
+ Froglok Vis Knight
+ Froglok Wan Knight
+
+Western Plains of Karana
+
+ a hill giant
+ Ulrich McMannus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

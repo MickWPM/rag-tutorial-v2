@@ -1,0 +1,40 @@
+ITEM NAME: Iksar Bandit Mask
+
+Kunark Era (added 2000)
+
+
+
+Iksar Bandit Mask
+
+
+MAGIC ITEM  NO DROP
+Slot: FACE
+AC: 3
+WT: 0.0  Size: SMALL
+Class: MNK ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ an iksar bandit
+
+Warsliks Woods
+
+ an iksar bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Shackle Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

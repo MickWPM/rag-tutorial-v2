@@ -1,0 +1,35 @@
+ITEM NAME: Ashenbone Abbasi
+
+
+
+Ashenbone Abbasi
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 9 
+STR: +5  AGI: +4
+WT: 5.0  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ an ashenbone drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

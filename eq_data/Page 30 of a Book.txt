@@ -1,0 +1,34 @@
+ITEM NAME: Page 30 of a Book
+
+Classic Era (added 1999-2000)
+
+
+Page 30 of a Book
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Page 30 of Testament of Vanear 
+
+  Drops From 
+Highpass Hold
+
+ Dyllin Starsine
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Library Book
+ Testament of Vanear Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

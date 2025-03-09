@@ -1,0 +1,30 @@
+ITEM NAME: Sealed Box
+
+Classic Era (added 1999-2000)
+
+
+Sealed Box
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

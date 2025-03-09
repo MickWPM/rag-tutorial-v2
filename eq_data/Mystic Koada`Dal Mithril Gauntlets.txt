@@ -1,0 +1,42 @@
+ITEM NAME: Mystic Koada`Dal Mithril Gauntlets
+
+
+Mystic Koada`Dal Mithril Gauntlets
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 13
+STR: +4  DEX: +4  CHA: +4
+WT: 2.6  Size: SMALL
+Class: WAR CLR PAL BRD
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 206)
+ Yield: Mystic Koada`Dal Mithril Gauntlets x1
+ In Koada`Dal Forge:
+
+
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  2 x Enchanted Folded Sheet of Mithril - Crafted
+  1 x Enchanted Mithril Chain Jointing - Crafted
+  1 x Leather Padding - Crafted
+  1 x Moonlight Temper - Crafted
+  1 x Plate Gauntlet Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

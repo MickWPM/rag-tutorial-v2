@@ -1,0 +1,66 @@
+ITEM NAME: Dustdevil
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Spell: Dustdevil
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Evocation
+Mana Cost: 162
+Effect:  Dustdevil
+WT: 0.1  Size: SMALL
+Class: RNG DRU
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Firiona Vie
+
+ Arial Fern
+
+
+
+  (-3239, 2257)
+
+
+ Firiona Vie
+
+ Raciel Sanherb
+
+
+
+  (-3397, 3308)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

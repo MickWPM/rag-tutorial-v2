@@ -1,0 +1,101 @@
+ITEM NAME: Snake Fang
+
+
+Snake Fang
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 60 and faction at Indifferent
+
+ 0 Platinums
+ 0 Golds
+ 0 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Ak'Anon
+
+ a rock snake
+
+Blackburrow
+
+ a giant snake
+
+Butcherblock Mountains
+
+ a large snake
+ a snake
+
+Commonlands
+
+ a darkweed snake
+ a large rattlesnake
+ a moss snake
+ a rattlesnake
+
+Eastern Plains of Karana
+
+ a bullnose snake
+
+Lake Rathetear
+
+ a water snake
+ an algae snake
+
+Nektulos Forest
+
+ a garter snake
+ a moss snake
+ a tree snake
+
+Northern Desert of Ro
+
+ a moss snake
+ a rattlesnake
+ a stonesnake
+
+Southern Desert of Ro
+
+ a moss snake
+ a rattlesnake
+ a tree snake
+
+The Feerrott
+
+ a green snake
+ a snake
+
+Toxxulia Forest
+
+ a briar snake
+ a giant briar snake
+ a giant thistle snake
+ a large briar snake
+ a large thistle snake
+ a thistle snake
+
+West Freeport
+
+ a snake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Moss Snakes (Neriak Third Gate)
+ Snake Fang Necklace Quest (South Qeynos)
+ White Sash (West Freeport)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

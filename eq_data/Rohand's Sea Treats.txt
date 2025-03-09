@@ -1,0 +1,196 @@
+ITEM NAME: Rohand's Sea Treats
+
+
+
+Rohand's Sea Treats
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Fish Fillets
+This maritime menu is a Rohand classic. Nab the little nibblers anywhere
+you find some water, and cook them up to a slimy perfection.
+Ingredients: Fish and Jug of Sauces
+Cooking Instructions: Set spit or oven for low heat. Barely allow fish
+to come in contact with the heat, so as not to alter its perfect slimy
+texture. Remove and top with sauces. Serve cold.
+Tastes great with: Deadly Medley and Ale
+Shark Fillet
+Wrap your jaws around this one! If you are lucky enough to get your
+hands on some shark meat, this dish is a simple yet elegant way to savor the flavor.
+Ingredients: Shark Meat, Spices, Jug of Sauces
+Cooking Instructions: Fire a spit for low heat. Whenever possible, remove the shark's lower jaw and
+pound the teeth into the fillet to tenderize the meat. Delicately roll in sauces and spices. Grill until white and flaky.
+Tastes great with: Gator Rolls and Bog Juice
+Smoked Shark
+The ultimate maritime masterpiece. Smoked Shark has a perfect blend of sea salt, spices, and soot.
+Ingredients: Shark Meat, Spices, Smoker
+Cooking Instructions: Set oven to maximum. Dredge shark meat in spices and allow spices to penetrate well. Smoke until a thick layer of soot accumulates on the meat. Serve lukewarm.
+Tastes great with: Snake Rolls and Ale Fish Rolls
+Fish Rolls
+Squishy and squirmy fun. When properly prepared, Fish Rolls just slide
+down your throat before you get a chance to chew them.
+Ingredients: Fish and Batwings
+Cooking Instructions: Slice raw fish into thin strips. Place bat wings on fish strips and roll
+tightly into a long tube. Cut tube into segments and serve cold.
+Tastes great with: Smoked Wood Elf and Ale
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

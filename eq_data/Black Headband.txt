@@ -1,0 +1,42 @@
+ITEM NAME: Black Headband
+
+
+Black Headband
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 2
+STR: +2  DEX: +3  STA: +4  CHA: +4  INT: +1  AGI: +3  HP: +4
+WT: 0.0  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Rathe Mountains
+
+ Brother Zephyl
+
+North Qeynos
+
+ Togahn Sorast
+
+Southern Karana
+
+ Brother Qwinn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Headband Quests (Other colored monk headbands)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

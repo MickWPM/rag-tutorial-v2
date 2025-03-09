@@ -1,0 +1,43 @@
+ITEM NAME: Stalking Probe
+
+Classic Era (added 1999-2000)
+
+Stalking Probe
+
+
+QUEST ITEM
+Slot: PRIMARY
+Charges: 5
+Effect:  Stalking Probe (Spell) (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: Cannot be used in the Plane of Sky [1]. 
+ Merchant resale value: 14p 7g 8s 3c  buyback = 15p 8s 2c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bug Collection
+
+  Player crafted 
+ Tinkering (Trivial: 102)
+ Yield: Stalking Probe x1
+ In Toolboxes:
+
+
+  1 x Bottle - Crafted, Bought
+  1 x Firewater - Crafted
+  2 x Gears - Bought, Dropped
+  1 x Metal Rod - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

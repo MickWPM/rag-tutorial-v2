@@ -1,0 +1,39 @@
+ITEM NAME: Nightmare Hide
+
+Classic Era (added 1999-2000)
+
+Nightmare Hide
+
+
+MAGIC ITEM
+Slot: BACK
+Charges: 5
+AC: 5
+Effect:  Restore Sight (Any Slot, Casting Time: Instant)
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a nightmare
+
+Lavastorm Mountains
+
+ a lesser nightmare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

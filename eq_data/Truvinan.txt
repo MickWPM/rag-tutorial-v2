@@ -1,0 +1,33 @@
+ITEM NAME: Truvinan
+
+
+
+Truvinan
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 40
+DMG: 32 
+Effect:  Dismiss Undead (Combat, Casting Time: Instant) at Level 45
+WT: 8.0  Size: LARGE
+Class: PAL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Test of Compassion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

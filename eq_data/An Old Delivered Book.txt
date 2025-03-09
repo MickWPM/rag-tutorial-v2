@@ -1,0 +1,119 @@
+ITEM NAME: An Old Delivered Book
+
+May be same item as Old Delivered Book. Toxdil and Conium Darkblade confirmed on green to have An Old Delivered Book.
+
+
+
+An Old Delivered Book
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Dagnor's Cauldron
+
+ Conium Darkblade
+
+
+
+  (-236, -826)
+
+
+ West Freeport
+
+ Toxdil
+
+
+
+  (631, 200)
+
+
+ Western Plains of Karana
+
+ Gindlin Toxfodder
+
+
+
+  (-2986, -13398)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Vidlos, 
+As promised, I aquired the information you wanted. I am hated in my own land now and you will compensate me for it. The information is as follows: 
+There are many poisons that do not need to be made. Examples are the Vial of Rabid Froth and the Crook-Stinger Poison. 
+To make poisons use the mortar and pestle. 
+Before battle apply the pioson to a piercing weapon. 
+
+Poisons of the Desert 
+Regalis Poison 
+A Poison Vial 
+Suspension 
+Urticating Hairs 
+Froglok Poison Gland 
+Asp Poison 
+A Poison Vial 
+Suspension 
+Two Asp Poison Sacs 
+Lixt Wing Dust 
+Lined Poison Vial 
+Suspension 
+Two Embalming Dusts 
+
+Poisons of the Snow 
+Crystal Eritus 
+Lined Poison Vial 
+Suspension 
+Two Crystallized Marrows 
+Cyclan Butil 
+Lined Poison Vial 
+Suspension 
+Two Cyclamine Corms 
+Snake Venom Sac 
+Sweet Lathyris 
+Lined Poison Vial 
+Suspension 
+Two Ichors 
+Giant Wasp Venom Sac 
+
+Poisons of the Fire 
+Basilisk Poison 
+Lined Poison Vial 
+Suspension 
+Two Basilisk Eyestalks 
+Putrid Desil 
+Lined Poison Vial 
+Suspension 
+Two Putrid Biles 
+Festering Nettle 
+Lined Poison Vial 
+Suspension 
+Two Ashroots 
+Now you will deliver to me the map and money I wish. 
+The price we decided on was 5pp. I now want 40pp. If I do not hear from you within two days I will steal your herd. If I do not hear from you in three days I will burn your property. If I do not hear from you in four days I will kill your family. You will live. You will wish not to. Pay back your debt to me. 
+You will always owe me, 
+Huysim
+
+  See Also 
+ Player Tradeskill Poison Making
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Swollen Flesh
+
+Velious Era (added December 2000-2001)
+
+
+Swollen Flesh
+
+
+MAGIC ITEM  LORE ITEM  QUEST ITEM
+WT: 7.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Feerrott
+
+ Greenblood zombie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Acolyte
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

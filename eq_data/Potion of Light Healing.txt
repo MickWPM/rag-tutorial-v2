@@ -1,0 +1,220 @@
+ITEM NAME: Potion of Light Healing
+
+Classic Era (added 1999-2000)
+
+Potion of Light Healing
+
+
+EXPENDABLE  Charges: 1
+Effect:  Light Healing (Any Slot, Casting Time: Instant) as Level 15
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Really sold by any merchants on p99? Need confirmation. 
+
+  Drops From 
+The Warrens
+
+ The Muglwump
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Raztara
+
+
+
+  (439, -393)
+
+
+ Erudin Palace
+
+ Sharin Denuen
+
+
+
+  (661, 539)
+
+
+ Neriak Commons
+
+ Marza T`Kix
+
+
+
+  (20, -875)
+
+
+ Western Plains of Karana
+
+ Spinner
+
+
+
+  (-1453, -12837)
+
+
+ Lesser Faydark
+
+ a brownie merchant
+
+
+
+  (1792, 3088)
+
+
+ Lesser Faydark
+
+ a brownie merchant
+
+
+
+  (1768, 3109)
+
+
+ Lesser Faydark
+
+ a brownie merchant
+
+
+
+  (1814, 3119)
+
+
+ Felwithe
+
+ Merchant Yisasan
+
+
+
+  (448, -805)
+
+
+ West Freeport
+
+ Olyna Mudel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Torlig Mudel
+
+
+
+  (82, -917)
+
+
+ Halas
+
+ Murtog MacYee
+
+
+
+  (124, -364)
+
+
+ Neriak Foreign Quarter
+
+ Gambel Quick
+
+
+
+  (253, -60)
+
+
+ South Qeynos
+
+ Drawna Opimsor - Confirmed 9/18/18
+
+
+
+  (303, -550)
+
+
+ Rivervale
+
+ Byl Babbinsbort
+
+
+
+  (-146, -114)
+
+
+ Rivervale
+
+ Bimble Babbinsbort
+
+
+
+  (-162, -118)
+
+
+ Ak'Anon
+
+ a clockwork alchemist
+
+
+
+  (891, -301)
+
+
+ South Kaladim
+
+ Baldoleky Rockfinder
+
+
+
+  (254, -186)
+
+
+ West Cabilis
+
+ Jondin
+
+
+
+  (-36, 508)
+
+
+ Firiona Vie
+
+ Shrub Marwood
+
+
+
+  (-3253, 2267)
+
+
+ Thurgadin
+
+ Frundle Frenkler
+
+
+
+  (-390, 505)
+
+  Related quests 
+ Plaguebringer Proof
+ Putrid Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

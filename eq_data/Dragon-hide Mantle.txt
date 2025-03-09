@@ -1,0 +1,38 @@
+ITEM NAME: Dragon-hide Mantle
+
+Sky Era (added January 2000)
+
+
+
+Dragon-hide Mantle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 6
+HP: +10  MANA: +10
+WT: 0.1  Size: SMALL
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul carrier
+ a soul harvester
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Earth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

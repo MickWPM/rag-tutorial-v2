@@ -1,0 +1,33 @@
+ITEM NAME: Cloak of the Sky
+
+Velious Era (added December 2000-2001)
+Cloak of the Sky
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 25
+WIS: +15 AGI: +15 HP: +100 MANA: +100
+WT: 0.0  Size: TINY
+Class: CLR DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Eashen of the Sky
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

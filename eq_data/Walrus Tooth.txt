@@ -1,0 +1,38 @@
+ITEM NAME: Walrus Tooth
+
+Velious Era (added December 2000-2001)
+
+Walrus Tooth
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 6 
+STR: +3  STA: +6
+WT: 4.0  Size: MEDIUM
+Class: WAR SHD ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 4pp 9gp 
+
+  Drops From 
+Eastern Wastes
+
+ a walrus
+ an ulthork warrior
+ an ulthork hunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

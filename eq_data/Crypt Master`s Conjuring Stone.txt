@@ -1,0 +1,36 @@
+ITEM NAME: Crypt Master`s Conjuring Stone
+
+Chardok Revamp Era (added late 2001)
+
+Crypt Master`s Conjuring Stone
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE
+Charges: 1
+INT: +10
+SV DISEASE: +10  SV POISON: +10
+Effect:  Conjure Corpse (Any Slot, Casting Time: Instant)
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Rechargeable for about 3150p // Merchants buy for 2gp, sell for 1575p 
+
+  Drops From 
+Chardok
+
+ Grave Master Zo`lun
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

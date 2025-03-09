@@ -1,0 +1,37 @@
+ITEM NAME: Silver Emerald Ring
+
+
+Silver Emerald Ring
+
+
+Slot: FINGER
+AC: 2
+SV FIRE: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 48)
+ Silver Emerald Ring
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Silver Bar - Summoned
+  1 x Emerald - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

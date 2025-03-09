@@ -1,0 +1,34 @@
+ITEM NAME: Pantrilla's Talisman
+
+Velious Era (added December 2000-2001)
+Pantrilla's Talisman
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 5
+STR: +4  DEX: +4  STA: +4  CHA: +4  WIS: +4  INT: +4  AGI: +4  HP: +10  MANA: +10
+SV FIRE: +4  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Part of the Dragon Talismans armor set. 
+
+  Drops From 
+Western Wastes
+
+ Pantrilla
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

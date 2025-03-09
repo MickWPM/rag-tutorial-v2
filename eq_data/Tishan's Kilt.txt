@@ -1,0 +1,38 @@
+ITEM NAME: Tishan's Kilt
+
+Temple Era (added October 1999)
+
+
+Tishan's Kilt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 5
+STR: +4  STA: +4  HP: +20
+WT: 0.8  Size: SMALL
+Class: DRU WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Note: Item is listed as WIZ only on alla, but is DRU usable on p99. 
+
+  Drops From 
+Everfrost Peaks
+
+ Martar IceBear
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tishan's Kilt Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

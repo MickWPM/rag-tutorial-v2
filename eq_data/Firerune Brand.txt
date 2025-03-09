@@ -1,0 +1,36 @@
+ITEM NAME: Firerune Brand
+
+Kunark Era (added 2000)
+
+Firerune Brand
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 40
+DMG: 21 
+Effect:  Ignite (Combat, Casting Time: Instant) at Level 30
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+ Item Lore (from Identify):  'Firerune Brand'  
+ Merchant resale value: 35pp 
+
+  Drops From 
+City of Mist
+
+ various
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

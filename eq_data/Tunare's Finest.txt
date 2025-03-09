@@ -1,0 +1,53 @@
+ITEM NAME: Tunare's Finest
+
+
+
+Tunare's Finest
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Felwithe
+
+ Wela Muselender
+
+
+
+  (102, -343)
+
+
+ Felwithe
+
+ Tyle Songwhisper
+
+
+
+  (76, -368)
+
+  Related quests 
+ Rogue Redemption
+ Feskr's Supplies
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

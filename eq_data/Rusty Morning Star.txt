@@ -1,0 +1,41 @@
+ITEM NAME: Rusty Morning Star
+
+Classic Era (added 1999-2000)
+
+Rusty Morning Star
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 44
+DMG: 6 
+WT: 10.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the Rusty Weapons set. 
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 2 Golds
+ 4 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Drops from low-level humanoids
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Errand for Wolten
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

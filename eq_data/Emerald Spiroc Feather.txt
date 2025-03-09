@@ -1,0 +1,36 @@
+ITEM NAME: Emerald Spiroc Feather
+
+Sky Era (added January 2000)
+
+
+
+Emerald Spiroc Feather
+
+
+LORE ITEM
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a spiroc expulser
+ The Spiroc Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Blade
+ Shaman Test of the Snake
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

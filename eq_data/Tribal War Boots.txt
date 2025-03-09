@@ -1,0 +1,39 @@
+ITEM NAME: Tribal War Boots
+
+Chardok Revamp Era (added late 2001)
+
+Tribal War Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 12
+STR: +5  WIS: +3  INT: +3  AGI: +5  HP: +10
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +10
+WT: 3.2  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ a Di`Zok Legionnaire
+ a Di`zok Recruit
+ a Di`zok Underling
+ an apprentice kennelmaster
+ Captain Di`ouz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

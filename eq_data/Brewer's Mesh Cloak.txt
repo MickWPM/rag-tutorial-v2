@@ -1,0 +1,35 @@
+ITEM NAME: Brewer's Mesh Cloak
+
+Warrens Era (added spring 2001)
+
+
+Brewer's Mesh Cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 13
+STR: +12  WIS: +12  HP: +50  MANA: +50
+WT: 1.0  Size: SMALL
+Class: WAR CLR PAL ROG
+Race: DWF
+
+
+ Item Lore (from Identify): The cloak of a dwarven brewer 
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God - Hate Revamp)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

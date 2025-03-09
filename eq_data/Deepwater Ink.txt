@@ -1,0 +1,45 @@
+ITEM NAME: Deepwater Ink
+
+Velious Era (added December 2000-2001)
+Deepwater Ink
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used in post-Velious quests. 
+
+  Drops From 
+Kedge Keep
+
+ a gloomstalker mermaid
+ a gloomwater mermaid
+ a soothebrine seahorse
+ a spinereef seahorse
+ a squallsurge seahorse
+ a swirlspine seahorse
+ Estrella of Gloomwater
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a servant manatee
+ a walrus servant
+ an enthralled bulthar
+ an enthralled molkor
+ an enthralled ulthork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

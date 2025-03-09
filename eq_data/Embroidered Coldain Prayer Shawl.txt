@@ -1,0 +1,44 @@
+ITEM NAME: Embroidered Coldain Prayer Shawl
+
+Velious Era (added December 2000-2001)
+
+
+Embroidered Coldain Prayer Shawl
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 6
+STA: +6  CHA: +6  WIS: +6  INT: +6
+SV FIRE: +6  SV COLD: +6
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This is shawl #6. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+ Coldain Shawl #6: Embroidered Coldain Prayer Shawl
+
+  Player crafted 
+ Tailoring (Trivial: 208)
+ Yield: Embroidered Coldain Prayer Shawl x1
+ In Loom:
+
+
+  1 x Embroidered Shawl Pattern - 
+  1 x Silk Coldain Prayer Shawl - Crafted, Quested, Returned on Failure
+  1 x Spool of Sacred Coldain Thread - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

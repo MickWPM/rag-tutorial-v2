@@ -1,0 +1,36 @@
+ITEM NAME: Deepwater Bracer
+
+Kunark Era (added 2000)
+
+Deepwater Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 16
+Effect:  Stun (Must Equip, Casting Time: 6.0) at Level 45
+WT: 4.0  Size: SMALL
+Class: PAL
+Race: ALL except IKS
+
+
+Part of the Deepwater Armor set. 
+ Merchant resale value: 237p Max 
+
+  Drops From 
+Old Sebilis
+
+ a sebilite golem
+ frenzied pox scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,139 @@
+ITEM NAME: Leather Belt
+
+
+
+Leather Belt
+
+
+Slot: WAIST
+AC: 3
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Leather Armor Set 
+
+  Drops From 
+Rathe Mountains
+
+ Meridith Tindle
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin
+
+ Demicla Tanner
+
+
+
+  (-689, -101)
+
+
+ Felwithe
+
+ Merchant Tissan
+
+
+
+  (-122, -359)
+
+
+ Firiona Vie
+
+ Basil the skinner
+
+
+
+  (-3367, 2616)
+
+
+ East Freeport
+
+ Sanhan Tanner
+
+
+
+  (72, -568)
+
+
+ East Freeport
+
+ Winlar Tanner
+
+
+
+  (38, -561)
+
+
+ Greater Faydark
+
+ Merchant Aluwenae
+
+
+
+  (-336, -116)
+
+
+ Kithicor Forest
+
+ Lena Leatherspinner
+
+
+
+  (-265, 4000)
+
+
+ Paineel
+
+ Winnla Crestus
+
+
+
+  (944, 689)
+
+
+ Paineel
+
+ Dilche Orlezcha
+
+
+
+  (900, 470)
+
+
+ South Qeynos
+
+ Fhara Semhart
+
+
+
+  (399, -80)
+
+
+ Rathe Mountains
+
+ Zok Tabruu
+
+
+
+  (-2187, 260)
+
+  Related quests 
+ Bandit Sisters
+ Taskmaster Earring - Wood Elf Male
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

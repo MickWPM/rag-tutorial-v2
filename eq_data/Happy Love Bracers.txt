@@ -1,0 +1,34 @@
+ITEM NAME: Happy Love Bracers
+
+
+
+Happy Love Bracers
+
+
+LORE ITEM  NO DROP
+Slot: WRIST
+AC: 1
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL except IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Neriak Third Gate
+
+ Ratraz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hukulk's Love
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

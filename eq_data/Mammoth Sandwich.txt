@@ -1,0 +1,36 @@
+ITEM NAME: Mammoth Sandwich
+
+Classic Era (added 1999-2000)
+
+Mammoth Sandwich
+
+
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 31)
+ Yield: Mammoth Sandwich x5
+ In Oven:
+
+
+  1 x Loaf of Bread - Crafted, Bought, Dropped
+  1 x Mammoth Meat - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

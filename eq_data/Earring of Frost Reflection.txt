@@ -1,0 +1,34 @@
+ITEM NAME: Earring of Frost Reflection
+
+
+Earring of Frost Reflection
+
+
+MAGIC ITEM
+Slot: EAR
+AC: 1
+SV COLD: +5
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Erud's Crossing
+
+ an erudite madman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

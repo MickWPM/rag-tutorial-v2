@@ -1,0 +1,33 @@
+ITEM NAME: Small Black Wristbands
+
+
+
+Small Black Wristbands
+
+
+LORE ITEM  NO DROP
+Slot: WRIST
+AC: 3
+WT: 0.8  Size: SMALL
+Class: ROG
+Race: HFL GNM
+
+
+ Item Lore (from Identify):  Deeppocket Wristbands 
+
+  Drops From 
+Firiona Vie
+
+ Halfling Swashbuckler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

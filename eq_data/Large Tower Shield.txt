@@ -1,0 +1,51 @@
+ITEM NAME: Large Tower Shield
+
+Classic Era (added 1999-2000)
+Large Tower Shield
+
+
+Slot: SECONDARY
+AC: 10
+WT: 18.7  Size: LARGE
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ Oggok
+
+ Grop
+
+
+
+  (512, 490)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

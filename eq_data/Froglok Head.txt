@@ -1,0 +1,34 @@
+ITEM NAME: Froglok Head
+
+
+
+Froglok Head
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Note: There are three items with the same name. All are used for the same pike quest.
+The first "Head of Narsh" is recieved from Footman Moglok during the quest.
+The froglok outlander may also spawn in Innothule or Upper Guk (unconfirmed on p99). 
+
+  Drops From 
+Swamp of No Hope
+
+ a froglok outlander ("Head of Barsh" and "Head of Flindle")
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #4 (Trooper's Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

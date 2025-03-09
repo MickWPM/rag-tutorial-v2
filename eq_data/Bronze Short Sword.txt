@@ -1,0 +1,77 @@
+ITEM NAME: Bronze Short Sword
+
+Classic Era (added 1999-2000)
+Bronze Short Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 4 
+WT: 6.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 2 Golds
+ 6 Silvers
+ 9 Coppers
+ 
+  Drops From 
+The Estate of Unrest
+
+ a greater dark bone
+
+Highpass Hold
+
+ an orc warrior
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ skeleton trooper
+ undead cleric
+ zombie advisor
+ Zombie Commander
+ zombie infantry
+ zombie trooper
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a Dervish Thug
+
+Qeynos Hills
+
+ Holly Windstalker
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+The Feerrott
+
+ Cyndreela
+
+Upper Guk
+
+ a fungus soldier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

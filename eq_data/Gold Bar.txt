@@ -1,0 +1,192 @@
+ITEM NAME: Gold Bar
+
+Classic Era (added 1999-2000)
+Gold Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Best price is 10p 7s 9c. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Freeport
+
+ Amber (NPC)
+
+
+
+  (-184, 202)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ West Commonlands
+
+ Noresa Sparkle (Greedy)
+
+
+
+  (-701, 267)
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ Felwithe
+
+ Merchant Nora
+
+
+
+  (144, -414)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ North Qeynos
+
+ Ziska Ironforge
+
+
+
+  (52, 60)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+ Jewelcrafting
+ Gold Malachite Bracelet (Trivial: 146)
+ Gold Lapis Lazuli Earring (Trivial: 148)
+ Gold Turquoise Engagement Ring (Trivial: 151)
+ Golden Hematite Choker (Trivial: 154)
+ Golden Cat Eye Bracelet (Trivial: 156)
+ Gold Bloodstone Necklace (Trivial: 159)
+ Gold Onyx Pendant (Trivial: 162)
+ Jasper Gold Earring (Trivial: 164)
+ Gold Carnelian Wedding Ring (Trivial: 167)
+ Golden Star Amulet (Trivial: 170)
+ Golden Amber Earring (Trivial: 172)
+ Wolf's Eye Golden Bracelet (Trivial: 175)
+ Golden Jaded Bracelet (Trivial: 178)
+ Golden Pearl Choker (Trivial: 180)
+ Golden Topaz Earring (Trivial: 183)
+ Golden Peridot Bracelet (Trivial: 186)
+ Golden Emerald Bracelet (Trivial: 188)
+ Golden Opal Amulet (Trivial: 191)
+ Golden Black Pearl Choker (Trivial: 194)
+ Golden Fire Wedding Ring (Trivial: 196)
+ Golden Star Ruby Ring (Trivial: 199)
+ Fire Emerald Golden Bracelet (Trivial: 202)
+ Golden Sapphire Earring (Trivial: 204)
+ Golden Ruby Ring (Trivial: 207)
+ Golden Jacinth Wedding Ring (Trivial: 210)
+ Golden Black Sapphire Earring (Trivial: 212)
+ Golden Diamond Mask (Trivial: 215)
+ Golden Blue Diamond Pendant (Trivial: 228)
+
+
+
+
+

@@ -1,0 +1,59 @@
+ITEM NAME: Kaxon's Beauty Tips
+
+
+
+Kaxon's Beauty Tips
+
+
+WT: 0.1  Size: SMALL
+
+
+This book is giving poison recipes? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Steamfont Mountains
+
+ Ennixy Frennor
+
+
+
+  (1371, -836)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Kaxon's Beauty Tips
+Everything in Norrath will decay given time, but imagine how much more beautiful this
+world would be if all things had the sight and aroma of rotting flesh. I have created
+a few concoctions that will assist individuals gifted by Bertoxxulous with the visions
+of the Dark Reflection.
+Solvent Gangrene
+This concoction creates a wonderful fungal rash on the flesh of the victim thus
+slowly eating it away. In order to create it you must have a POISON VIAL, two bits
+of GRAVE MOLD, and SUSPENSION.
+Leprous Pus
+In order to create a longer lasting rotting of the flesh. My second concoction requires
+one BUNDLE OF WORMWOOD, one pinch of GRAVE MOLD, one bit of DARKBONE MARROW, a LINED
+POISON VIAL and CONSTRICT SUSPENSION.
+Visceral Rot
+My final concoction is a favorite in the mines of malfunction. It causes the
+longest lasting rotting of the flesh. The ingredients required are one pinch of
+GRAVE MOLD, one bit of DARKBONE MARROW, WOOD ROSE, a SEALED POISON VIAL and LARENT SUSPENTION.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

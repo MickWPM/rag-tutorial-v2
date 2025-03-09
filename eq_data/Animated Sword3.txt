@@ -1,0 +1,34 @@
+ITEM NAME: Animated Sword3
+
+
+
+Animated Sword3
+
+
+MAGIC ITEM NO DROP NO RENT
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 4 
+WT: 5.0  Size: MEDIUM
+Class: WAR
+Race: NONE
+
+
+
+
+  Drops From 
+Beholder's Maze
+
+ an evil eye pet
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

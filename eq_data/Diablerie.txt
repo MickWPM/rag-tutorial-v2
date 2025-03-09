@@ -1,0 +1,93 @@
+ITEM NAME: Diablerie
+
+
+
+Diablerie
+
+
+WT: 0.0  Size: TINY
+
+
+Recipes for necromancer spell research. Item appears to be written in Elder Elvish. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Banshee Aura:
+Words of Divination
+Words of Eradication
+Shadow Vortex:
+Words of Imitation
+Words of Dissoultion
+Hungry Earth:
+Words of Materials
+Words of Spirit
+Voice Graft:
+Words of Possession
+Words of the Spoken
+Restless Bones:
+Words of Reviviscence
+Words of the Sentient (Azia)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

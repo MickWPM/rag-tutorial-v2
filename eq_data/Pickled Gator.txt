@@ -1,0 +1,37 @@
+ITEM NAME: Pickled Gator
+
+
+
+Pickled Gator
+
+
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 51)
+ Yield: Pickled Gator x2
+ In Oven:
+
+
+  1 x Gator Meat - Bought, Dropped
+  1 x Jug of Sauces - Bought
+  1 x Vinegar - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

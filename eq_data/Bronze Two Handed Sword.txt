@@ -1,0 +1,120 @@
+ITEM NAME: Bronze Two Handed Sword
+
+Classic Era (added 1999-2000)
+
+Bronze Two Handed Sword
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 47
+DMG: 9 
+WT: 13.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 4 Platinums
+ 0 Golds
+ 2 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Mistmoore Castle
+
+ a glyphed familiar
+ a pledge familiar
+ an initiate familiar
+
+Commonlands
+
+ orc legionnaire
+
+Crushbone
+
+ Emperor Crush
+ orc legionnaire
+ orc warlord
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Dreadlands
+
+ a drolvarg rager
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+The Estate of Unrest
+
+ a ghoul
+ a greater dark bone
+ dark boned skeleton
+ tormented dead
+
+Everfrost Peaks
+
+ an orcish mountaineer
+
+Greater Faydark
+
+ a faerie noble
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ a faerie
+ a faerie courtier
+ orc chief
+
+Najena
+
+ a greater skeleton
+ a skeleton
+ an ogre guard
+
+North Freeport
+
+ Sir Willam
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a Dervish Thug
+ dry bones skeleton
+ Guard Brendyl
+ Guard Fintran
+ Guard Stoutman
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+Upper Guk
+
+ a fungus soldier
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

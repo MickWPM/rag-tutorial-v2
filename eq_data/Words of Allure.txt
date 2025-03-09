@@ -1,0 +1,79 @@
+ITEM NAME: Words of Allure
+
+
+Words of Allure
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 8 Golds
+ 6 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Cazic Thule
+
+ A lizard page
+
+Everfrost Peaks
+
+ a wooly mammoth
+
+Firiona Vie
+
+ Spidermen
+
+Great Divide
+
+ An elder shardwurm
+
+Lake of Ill Omen
+
+ charbone skeleton
+ icebone skeleton
+
+Lavastorm Mountains
+
+ a shadowed man
+
+Ocean of Tears
+
+ the Dwarves of Sister Isle
+ Sister of Erollisi
+
+Overthere
+
+ misc
+
+Solusek's Eye
+
+ inferno goblin shaman
+ flame goblin
+
+Swamp of No Hope
+
+ an insatiable devourer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Haunting Corpse (Trivial: 71) (Research Only)
+
+
+
+
+

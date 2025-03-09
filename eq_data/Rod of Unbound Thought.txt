@@ -1,0 +1,36 @@
+ITEM NAME: Rod of Unbound Thought
+
+
+
+Rod of Unbound Thought
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Charges: 5
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 10 
+Effect:  Clarity (Any Slot/Can Equip, Casting Time: Instant) at Level 46
+WT: 1.5  Size: MEDIUM
+Class: WIZ
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

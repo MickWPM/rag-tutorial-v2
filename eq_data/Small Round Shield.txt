@@ -1,0 +1,202 @@
+ITEM NAME: Small Round Shield
+
+
+Small Round Shield
+
+
+Slot: SECONDARY
+AC: 6
+WT: 3.7  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Ak'Anon
+
+ Clockwork XVD
+ Clockwork XVE
+ Clockwork XXA
+ Clockwork XXD
+ Clockwork XXE
+
+Steamfont Mountains
+
+ Watchman Dreeb
+ Watchman Grep
+ Watchman Mylz
+ Watchman Prenn
+ Watchman Prynn
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1285, -886)
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ West Commonlands
+
+ Ranon Strongarm
+
+
+
+  (-463, 2827)
+
+
+ East Commonlands
+
+ Altunic Jartin
+
+
+
+  (-115, 4734)
+
+
+ Felwithe
+
+ Merchant Tearlan
+
+
+
+  (-79, -385)
+
+
+ South Kaladim
+
+ Bindolmera Greybloom
+
+
+
+  (125, 399)
+
+
+ South Kaladim
+
+ Handaaf Orcslicer
+
+
+
+  (-42, 428)
+
+
+ North Kaladim
+
+ Darthur Nightseer
+
+
+
+  (947, 143)
+
+
+ North Kaladim
+
+ Baleki Nightseer
+
+
+
+  (765, 143)
+
+
+ Paineel
+
+ Kervis Ackblor
+
+
+
+  (1097, 428)
+
+
+ South Qeynos
+
+ Byjan Timbokker
+
+
+
+  (197, -173)
+
+
+ South Qeynos
+
+ Raffy Conticede
+
+
+
+  (-282, -491)
+
+
+ North Qeynos
+
+ Tubal Weaver
+
+
+
+  (216, 94)
+
+
+ Rivervale
+
+ Pipple Purpleroot
+
+
+
+  (-246, -351)
+
+
+ Rivervale
+
+ Rantho Goobler
+
+
+
+  (85, -140)
+
+
+ Thurgadin
+
+ Caitlin Underbelly
+
+
+
+  (-435, -144)
+
+
+ Thurgadin
+
+ Brigam
+
+
+
+  (-208, 485)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

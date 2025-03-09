@@ -1,0 +1,229 @@
+ITEM NAME: Greaves of Distraction
+
+Velious Era (added December 2000-2001)
+
+
+
+Greaves of Distraction
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 30
+STR: +12  CHA: +12
+WT: 5.0  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+ Plane of Mischief Armor Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Greaves of Distraction x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Blue Throne - Dropped
+  A Black Throne - Dropped
+  A Black Crown - Dropped
+  A Black Knight - Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Plane of Mischief Armor: Legs x1
+ In  Empty Pot of Gold:
+
+
+  1 x Greaves of Distraction - Crafted
+  1 x The Gift Box Doll - Crafted
+
+
+
+
+
+
+ Plane of Mischief Armor Result 
+ Doll 
+ Class
+
+
+ Crazy Cleric GreavesCrazy Cleric Greaves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 45
+STR: +5  STA: +5  AGI: +5  HP: +20  MANA: +60
+SV DISEASE: +5  SV POISON: +5
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 6.0  Size: MEDIUM
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+ Crazy Cleric Doll 
+ Cleric
+
+
+ Twisted Nature LeggingsTwisted Nature Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 25
+STA: +10  WIS: +5  AGI: +10  HP: +20  MANA: +20
+SV DISEASE: +5  SV COLD: +5
+Effect: Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 2.5  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+ Twisted Druid Doll 
+ Druid
+
+
+ Monkey Hide GreavesMonkey Hide Greaves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 15
+STA: +15  AGI: +15  HP: +30
+SV DISEASE: +5  SV MAGIC: +5
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+
+
+ Mad Monkey Doll 
+ Monk
+
+
+ Shamanistic Shenannigan GreavesShamanistic Shenannigan Greaves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 20
+DEX: +10  WIS: +10  HP: +30  MANA: +10
+SV COLD: +5  SV POISON: +5
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 6.0  Size: MEDIUM
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+ Shamanistic Shenannigan Doll 
+ Shaman
+
+
+ Maleficent LeggingsMaleficent Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 10
+STA: +15  AGI: +15  MANA: +15
+SV FIRE: +5  SV COLD: +5
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.4  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+ Maleficent Necromancer Doll 
+ Necromancer
+
+
+ Wily Warlock PantsWily Warlock Pants
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 20
+STA: +10  AGI: +10  HP: +5  MANA: +5
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.4  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ Wily Warlock Doll 
+ Wizard
+
+
+ Sly Summoners PantsSly Summoners Pants
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 10
+STA: +10  INT: +10  AGI: +10  HP: +20  MANA: +20
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.5  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ Sly Summoner Doll 
+ Magician
+
+
+ Mischievous Dazzler LeggingsMischievous Dazzler Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 16
+STA: +10  CHA: +5  AGI: +10  HP: +15  MANA: +20
+SV FIRE: +10  SV COLD: +10
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.5  Size: MEDIUM
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ A Mischievous Dazzler Doll 
+ Enchanter
+
+
+

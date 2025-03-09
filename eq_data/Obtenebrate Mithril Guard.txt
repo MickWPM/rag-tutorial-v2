@@ -1,0 +1,34 @@
+ITEM NAME: Obtenebrate Mithril Guard
+
+Sky Era (added January 2000)
+
+
+Obtenebrate Mithril Guard
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+AC: 35
+STR: +15
+SV FIRE: +15
+WT: 6.0  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Envenoming
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

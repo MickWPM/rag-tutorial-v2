@@ -1,0 +1,35 @@
+ITEM NAME: Bixie Stinger (Bixie God's Stinger)
+
+
+Bixie Stinger
+
+
+MAGIC ITEM LORE ITEM QUEST ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 7 
+Effect:  Weak Poison (Combat, Casting Time: Instant)
+WT: 2.0  Size: MEDIUM
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzt Zzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Deception
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

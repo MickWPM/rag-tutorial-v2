@@ -1,0 +1,35 @@
+ITEM NAME: Piece of Totem
+
+
+
+Piece of Totem
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Bottom of Dai Key 
+
+  Drops From 
+Swamp of No Hope
+
+ froglok ton warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 5
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

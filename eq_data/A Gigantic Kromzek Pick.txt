@@ -1,0 +1,34 @@
+ITEM NAME: A Gigantic Kromzek Pick
+
+Velious Era (added December 2000-2001)
+
+
+A Gigantic Kromzek Pick
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 41
+DMG: 21 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+ Merchant resale value: 11.7p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Living Granite Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

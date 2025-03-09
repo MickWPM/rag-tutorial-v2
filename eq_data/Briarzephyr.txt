@@ -1,0 +1,34 @@
+ITEM NAME: Briarzephyr
+
+
+
+Briarzephyr
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 19
+DMG: 9 
+WT: 2.0  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Black Henbane
+
+Classic Era (added 1999-2000)
+
+Black Henbane
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors for 1pp 4gp 
+
+  Drops From 
+Nagafen's Lair
+
+ a greater kobold shaman
+ kobold champion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Crippling Peptide (Trivial: 245)
+ Carnivore Mortis (Trivial: 258)
+
+
+
+
+

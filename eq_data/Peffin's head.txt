@@ -1,0 +1,33 @@
+ITEM NAME: Peffin's head
+
+Velious Era (added December 2000-2001)
+
+
+Peffin's head
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ Peffin Ambersnow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #9: Coldain Hero's Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

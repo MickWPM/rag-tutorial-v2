@@ -1,0 +1,32 @@
+ITEM NAME: Giant Polar Bear Skin
+
+Classic Era (added 1999-2000)
+
+Giant Polar Bear Skin
+
+
+WT: 7.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 6p 
+
+  Drops From 
+Permafrost
+
+ a giant polar bear
+ an injured polar bear
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

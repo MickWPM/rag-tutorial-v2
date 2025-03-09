@@ -1,0 +1,40 @@
+ITEM NAME: Shiny Brass Shield
+
+Classic Era (added 1999-2000)
+
+Shiny Brass Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 10
+SV MAGIC: +10
+WT: 8.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+This is a minor light source. 
+
+  Drops From 
+Crushbone
+
+ orc trainer
+
+Southern Felwithe
+
+ Joren Nobleheart
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Screaming Mace Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Hangman's Noose
+
+Kunark Era (added 2000)
+
+
+Hangman's Noose
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD WAIST
+AC: 5
+Haste: +17%  
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ Hangman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

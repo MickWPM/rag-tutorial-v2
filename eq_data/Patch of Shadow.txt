@@ -1,0 +1,50 @@
+ITEM NAME: Patch of Shadow
+
+
+Patch of Shadow
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY
+Slot: FACE
+AC: 2
+WT: 0.4  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ Ssynthi
+
+West Commonlands
+
+ a shadowed man
+
+Lesser Faydark
+
+ a shadowed man
+ Shadowman Leader
+
+Nektulos Forest
+
+ a shadowed man
+
+Lavastorm
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Acumen Mask Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

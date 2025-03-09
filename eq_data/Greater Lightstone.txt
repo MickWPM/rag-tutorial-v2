@@ -1,0 +1,88 @@
+ITEM NAME: Greater Lightstone
+
+Classic Era (added 1999-2000)
+
+Greater Lightstone
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+An important light source. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 4 Platinums
+ 3 Golds
+ 1 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Befallen
+
+ a willowisp
+
+Commonlands
+
+ a willowisp
+
+Eastern Plains of Karana
+
+ a willowisp
+
+Erud's Crossing
+
+ a willowisp
+
+Everfrost Peaks
+
+ Karg IceBear
+
+Greater Faydark
+
+ a willowisp
+
+Nektulos Forest
+
+ a willowisp
+
+Northern Karana
+
+ a willowisp
+
+Qeynos Hills
+
+ a willowisp
+
+Toxxulia Forest
+
+ a willowisp
+
+Western Plains of Karana
+
+ a willowisp
+
+The Estate of Unrest
+
+ a large wisp
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Research Aid
+ The Summoning of Dread
+ The Painting
+ Evil Research
+ Orange Sash of Order
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

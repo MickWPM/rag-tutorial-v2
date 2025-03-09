@@ -1,0 +1,35 @@
+ITEM NAME: Noctivagant Blade
+
+Kunark Era (added 2000)
+
+Noctivagant Blade
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 26
+DMG: 18 
+DEX: +10  INT: +15
+WT: 0.4  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ a Drolvarg warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

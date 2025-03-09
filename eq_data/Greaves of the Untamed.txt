@@ -1,0 +1,36 @@
+ITEM NAME: Greaves of the Untamed
+
+Warrens Era (added spring 2001)
+
+
+Greaves of the Untamed
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 22
+STR: +5  DEX: +5  WIS: +5  AGI: +5  HP: +30  MANA: +30
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +1
+WT: 7.0  Size: LARGE
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Part of the Armor of the Untamed set. 
+
+  Drops From 
+Plane of Hate
+
+ An Agent of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

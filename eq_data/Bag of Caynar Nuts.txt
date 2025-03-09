@@ -1,0 +1,44 @@
+ITEM NAME: Bag of Caynar Nuts
+
+
+Bag of Caynar Nuts
+
+
+This is a meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crest of the Wood Nymphs Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing (Trivial: 41)
+ Yield: Caynar Nut Brown Ale
+ In Brewing Barrel:
+
+
+  1 x Cask - Bought, Returned on Failure
+  1 x Malt - Bought
+  1 x Hops - Bought
+  1 x Barley - Bought
+  1 x Bag of Caynar Nuts - Foraged
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Toxxulia Forest
+
+

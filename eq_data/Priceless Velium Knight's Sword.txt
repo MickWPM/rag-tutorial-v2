@@ -1,0 +1,34 @@
+ITEM NAME: Priceless Velium Knight's Sword
+
+Velious Era (added December 2000-2001)
+ Server first Wimpus <KWSM> with Priceless Knight's Sword with his priceless velium face.
+Priceless Velium Knight's Sword
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 20
+DMG: 20   AC: 5
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +5  INT: +5  AGI: +5  HP: +25  MANA: +25
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 2.5  Size: MEDIUM
+Class: PAL SHD
+Race: ALL
+
+
+Part of the Priceless Velium Weapons set... 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Garath's Weapons to Trade
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

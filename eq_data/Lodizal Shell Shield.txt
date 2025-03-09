@@ -1,0 +1,37 @@
+ITEM NAME: Lodizal Shell Shield
+
+Velious Era (added December 2000-2001)
+
+Lodizal Shell Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: BACK SECONDARY
+AC: 23
+STR: +10  CHA: +5  WIS: +10  AGI: -5
+SV FIRE: +20  SV COLD: +20  SV MAGIC: +10
+Effect:  Enduring Breath (Worn)
+WT: 5.0  Size: LARGE
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+This is a minor light source. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lodizal Shell Shield Quest
+
+ Fashion
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

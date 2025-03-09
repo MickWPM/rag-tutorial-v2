@@ -1,0 +1,33 @@
+ITEM NAME: Hopper Spear
+
+
+Hopper Spear
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 31
+DMG: 5 
+STR: +4
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL except HIE
+
+
+
+ Merchant resale value: 1.2p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Emissary
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,48 @@
+ITEM NAME: Undead Froglok Tongue
+
+
+Undead Froglok Tongue
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used in practice research? 
+
+  Drops From 
+Innothule Swamp
+
+ a froglok
+
+Lower Guk
+
+ a shin ghoul knight
+ a wan ghoul knight
+ a zol ghoul knight
+ the ghoul arch magus
+
+Najena
+
+ BoneCracker
+
+Qeynos Aqueducts
+
+ Mon`Sarna
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Master Rune (Azia) (No Fail)
+
+
+
+
+

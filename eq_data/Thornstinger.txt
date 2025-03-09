@@ -1,0 +1,35 @@
+ITEM NAME: Thornstinger
+
+Classic Era (added 1999-2000)
+
+
+Thornstinger
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 19
+DMG: 12 
+STR: +5  DEX: +5  AGI: +5  HP: +50
+Effect:  Rampage (Combat, Casting Time: Instant) at Level 45
+WT: 2.0  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+Post-upgrade PoS quest reward, replaces Ebonsting. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Deception
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

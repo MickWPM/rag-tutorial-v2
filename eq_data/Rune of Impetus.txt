@@ -1,0 +1,79 @@
+ITEM NAME: Rune of Impetus
+
+
+Rune of Impetus
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players. 
+ Merchant resale value: 2p 5g 1s 
+
+  Drops From 
+Howling Stones
+
+ Skeletal Procurator
+
+Kedge Keep
+
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Ocean of Tears
+
+ Allizewsaur
+
+Plane of Fear
+
+ a boogeyman
+ a fetid fiend
+ a scareling
+ Amygdalan knight
+ Amygdalan warrior
+ Dread
+ phoboplasm
+
+Plane of Growth
+
+ Ancient Totem
+
+Plane of Hate
+
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a guardian wurm
+
+Timorous Deep
+
+a Vicious Raptor
+
+Trakanon's Teeth
+
+ Bloodeye
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Supernova (Trivial: 184)
+
+
+
+
+

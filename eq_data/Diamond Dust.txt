@@ -1,0 +1,43 @@
+ITEM NAME: Diamond Dust
+
+
+
+Diamond Dust
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Everfrost Peaks
+
+ an ice giant
+
+Nagafen's Lair
+
+ fire giant warrior
+ fire giant wizard
+
+Permafrost
+
+ an ice giant
+ an ice giant magus
+ an ice giant priest
+ an ice giant youth
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Ulthork Hide Skullcap
+
+Velious Era (added December 2000-2001)
+
+
+
+Ulthork Hide Skullcap
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 8
+STR: +3  STA: -3
+WT: 0.6  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+This item has no visible graphic. 
+ Merchant resale value: 1pp 5gp 
+
+  Drops From 
+Eastern Wastes
+
+ a ulthork man o war
+ an ulthork hunter
+ an ulthork warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

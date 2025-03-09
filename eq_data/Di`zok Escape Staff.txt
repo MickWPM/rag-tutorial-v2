@@ -1,0 +1,36 @@
+ITEM NAME: Di`zok Escape Staff
+
+Chardok Revamp Era (added late 2001)
+
+ 
+Di`zok Escape Staff
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 40
+DMG: 21 
+Effect:  Evacuate (Must Equip, Casting Time: 9.0) at Level 56
+WT: 5.0  Size: MEDIUM
+Class: DRU WIZ
+Race: ALL
+
+
+Doesn't use mana to click, but Evacuate drains 750 mana from everyone in group. If you are only transporting yourself, you're better off using Egress for 500 (Druid) or Abscond for 600 (Wizard). 
+
+  Drops From 
+Chardok (Post-Revamp)
+
+ a Alchemist`s Acolyte
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

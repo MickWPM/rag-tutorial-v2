@@ -1,0 +1,38 @@
+ITEM NAME: Ice Silk Cap
+
+Velious Era (added December 2000-2001)
+
+
+
+Ice Silk Cap
+
+
+MAGIC ITEM Slot: HEAD AC: 5 CHA: +11  WIS: +8  INT: +10  HP: +10  MANA: +20
+SV COLD: +5  SV MAGIC: +5 WT: 0.3  Size: SMALL Class: NEC WIZ MAG ENC Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 308)
+ Yield: Ice Silk Cap x1
+ In Loom:
+
+
+  1 x Cap Pattern - Bought
+  1 x Ice Silk Swatch - Crafted
+  1 x Platinum Thread - Bought
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

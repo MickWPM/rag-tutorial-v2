@@ -1,0 +1,33 @@
+ITEM NAME: Spell: Lesser Conjuration: Earth
+
+Classic Era (added 1999-2000)Were you looking for The spell verion Lesser Conjuration: Earth?
+
+
+Spell: Lesser Conjuration: Earth
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Conjuration
+Mana Cost: 200
+Effect:  Summon Pet: SumEarthR10
+WT: 0.1  Size: SMALL
+Class: MAG
+Race: ALL
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: 142) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

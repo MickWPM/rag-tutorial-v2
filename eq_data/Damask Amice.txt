@@ -1,0 +1,42 @@
+ITEM NAME: Damask Amice
+
+
+Damask Amice
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 2
+WT: 0.3  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Damask Armor Set 
+
+  Drops From 
+Befallen
+
+ the thaumaturgist
+ a necro acolyte
+ a necro theurgist
+
+Najena
+
+ a magician
+
+Solusek's Eye
+
+ Lynada the exiled
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

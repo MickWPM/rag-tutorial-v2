@@ -1,0 +1,35 @@
+ITEM NAME: Rheumguls
+
+Sky Era (added January 2000)
+
+
+Rheumguls
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 43
+DMG: 35 
+STR: +2  CHA: +1  WIS: +1
+Effect:  Siphon (Combat, Casting Time: Instant) at Level 50
+WT: 8.0  Size: GIANT
+Class: SHD
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+Shadow Knight Test of Necropotence
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

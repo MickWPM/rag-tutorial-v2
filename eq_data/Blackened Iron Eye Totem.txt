@@ -1,0 +1,34 @@
+ITEM NAME: Blackened Iron Eye Totem
+
+
+Blackened Iron Eye Totem
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+HP: +10  MANA: +5
+WT: 0.8  Size: SMALL
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Clan Runnyeye
+
+ Sludge Dankmire
+ an Evil Eye prisoner
+ The Goblin King (?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

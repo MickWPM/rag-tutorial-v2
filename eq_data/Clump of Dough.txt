@@ -1,0 +1,57 @@
+ITEM NAME: Clump of Dough
+
+Classic Era (added 1999-2000)
+
+Clump of Dough
+
+
+This is a snack!
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Can be made with various types of eggs, each yields different amounts of dough. Cannot be made with Snow Griffin Egg. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ Baking (Trivial: 17)
+ Yield:  Various
+ In Mixing Bowl:
+
+
+  1 x Bottle of Milk - Bought
+  1 x Cup of Flour - Bought
+ One of:
+
+  1 x Alligator Egg - Dropped (Yield: x10)
+  1 x Alligator Eggs - Foraged (Yield: x5)
+  1 x Aviak Eggs - Foraged (Yield: x5)
+  1 x Basilisk Eggs - Foraged (Yield: x5)
+  1 x Basilisk Egg - Dropped (Yield: x15)
+  1 x Cockatrice Egg - Foraged/Dropped (Yield: x5)
+  1 x Dragon Egg - Foraged (Yield: x20)
+  1 x Drake Egg - Foraged (Yield: x12)
+  1 x Griffon Eggs - Foraged (Yield: x7)
+  1 x Snake Egg - Dropped (Yield: x1)
+  1 x Wurm Egg - Foraged (Yield: x14)
+  Others (list incomplete) 
+
+
+
+  Tradeskill recipes 
+ Baking
+ Vegetable Pie (Trivial: 142)
+ Cookies (Trivial: 102/115)
+ Various Recipes
+
+
+
+
+

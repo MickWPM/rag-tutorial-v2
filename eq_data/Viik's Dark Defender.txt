@@ -1,0 +1,43 @@
+ITEM NAME: Viik's Dark Defender
+
+Kunark Era (added 2000)
+
+Viik's Dark Defender
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 20
+DMG: 7   AC: 10
+WT: 2.7  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 4 Platinums
+ 7 Golds
+ 9 Silvers
+ 6 Coppers
+ 
+  Drops From 
+City of Mist
+
+ an apparition
+ a wraith
+ a shadow (?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

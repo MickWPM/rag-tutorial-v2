@@ -1,0 +1,32 @@
+ITEM NAME: Bloodforge Helm
+
+
+Bloodforge Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 5
+STR: +5
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 6.0  Size: SMALL
+Class: WAR CLR PAL
+Race: DWF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ogre Heads
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

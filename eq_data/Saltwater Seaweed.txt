@@ -1,0 +1,32 @@
+ITEM NAME: Saltwater Seaweed
+
+Kunark Era (added 2000)
+
+Saltwater Seaweed
+
+
+NO DROP
+WT: 0.3  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Can be obtained by Fishing in the Ocean of Tears & Timorous Deep, as well as Butcherblock Mountains (3/1/15). Seems to be really rare. This item is No Trade. Was able to catch at 50 skill. (4/4/20). Seems to be more common in TD (1/31/23) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Saucy Salted Seadragon Steak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Sea Temper (Trivial: 135)
+
+
+
+
+

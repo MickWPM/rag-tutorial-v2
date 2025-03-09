@@ -1,0 +1,36 @@
+ITEM NAME: Barbed Ringmail Leggings
+
+Velious Era (added December 2000-2001)
+This is part of the Barbed Ringmail Armor set.
+
+
+Barbed Ringmail Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 25
+STR: +3  STA: +7
+WT: 5.3  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Bled
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

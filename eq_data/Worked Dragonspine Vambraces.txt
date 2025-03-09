@@ -1,0 +1,44 @@
+ITEM NAME: Worked Dragonspine Vambraces
+
+Velious Era (added December 2000-2001)
+
+
+
+Worked Dragonspine Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 15
+STR: +8
+SV DISEASE: +4
+WT: 1.4  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Gafala
+ Hechaeva
+ Klandicar
+ Mazi
+ Neordla
+ Quoza
+ Sontalak
+ Von
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

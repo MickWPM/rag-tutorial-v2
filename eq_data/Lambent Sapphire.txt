@@ -1,0 +1,30 @@
+ITEM NAME: Lambent Sapphire
+
+Temple Era (added October 1999)
+
+
+Lambent Sapphire
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+To obtain the Lambent Sapphire give one Lambent Stone and two Sapphires to Gardern 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Lambent Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

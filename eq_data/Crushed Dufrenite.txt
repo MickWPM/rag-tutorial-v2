@@ -1,0 +1,29 @@
+ITEM NAME: Crushed Dufrenite
+
+
+
+Crushed Dufrenite
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Give a Dufrenite, purchased in various cities, to Grud. Grud is an ogre shaman at the camp just to the right after you zone into Lake Rathetear from Rathe Mountains. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

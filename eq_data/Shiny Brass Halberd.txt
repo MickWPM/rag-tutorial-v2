@@ -1,0 +1,37 @@
+ITEM NAME: Shiny Brass Halberd
+
+Classic Era (added 1999-2000)
+
+Shiny Brass Halberd
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 48
+DMG: 16 
+WT: 15.0  Size: GIANT
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+This is an excellent cheap two-hander for burgeoning knights. 
+ Merchant resale value: 4p 2g 4s 5c 
+
+  Drops From 
+Highpass Hold
+
+ Hagnis Shralok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

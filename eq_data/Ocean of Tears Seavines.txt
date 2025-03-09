@@ -1,0 +1,33 @@
+ITEM NAME: Ocean of Tears Seavines
+
+Epic Quests Era (added Sept 2000)
+
+Ocean of Tears Seavines
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify):  Sea Vines from Ocean of Tears
+Only the corrupted drops this item. 
+
+  Drops From 
+Ocean of Tears
+
+ corrupted seafury cyclops
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

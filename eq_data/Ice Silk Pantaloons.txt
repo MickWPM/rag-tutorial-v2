@@ -1,0 +1,38 @@
+ITEM NAME: Ice Silk Pantaloons
+
+Velious Era (added December 2000-2001)
+
+
+
+Ice Silk Pantaloons
+
+
+MAGIC ITEM Slot: LEGS AC: 5 CHA: +6  INT: +5  HP: +20  MANA: +5
+SV COLD: +9 WT: 0.7  Size: MEDIUM Class: NEC WIZ MAG ENC Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Ice Silk Pantaloons x1
+ In Loom:
+
+
+  3 x Ice Silk Swatch - Crafted
+  1 x Pant Pattern - Bought
+  1 x Platinum Thread - Bought
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

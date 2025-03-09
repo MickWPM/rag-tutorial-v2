@@ -1,0 +1,33 @@
+ITEM NAME: Dirt of Underfoot
+
+Epic Quests Era (added Sept 2000)
+
+
+Dirt of Underfoot
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): Brell's Blood 
+
+  Drops From 
+Burning Woods
+
+ Slixin Klex
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

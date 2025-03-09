@@ -1,0 +1,39 @@
+ITEM NAME: Goblin Parrying Spear
+
+Kunark Era (added 2000)
+
+Goblin Parrying Spear
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 19
+DMG: 6   AC: 4
+WIS: +4
+SV MAGIC: +5
+WT: 5.0  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+
+ Merchant resale value: 4pp 
+
+  Drops From 
+Temple of Droga
+
+ a goblin depredator
+ a goblin flamedrowser
+ maybe other mobs?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Imp Statuette
+
+Sky Era (added January 2000)
+
+
+
+Imp Statuette
+
+
+LORE ITEM
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+  A Soul Harvester 
+  An essence harvester 
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Wind
+ Necromancer Test of Heart
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

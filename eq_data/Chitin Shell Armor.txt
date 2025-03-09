@@ -1,0 +1,33 @@
+ITEM NAME: Chitin Shell Armor
+
+
+Chitin Shell Armor
+
+
+LORE ITEM
+Slot: CHEST
+AC: 17
+SV POISON: +10
+WT: 6.5  Size: MEDIUM
+Class: ALL
+Race: BAR TRL OGR IKS
+
+
+Has the same AC as Large Bronze Breastplate with less than half the weight. 
+
+  Drops From 
+Upper Guk
+
+ a giant heart spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

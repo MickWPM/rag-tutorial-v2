@@ -1,0 +1,36 @@
+ITEM NAME: Tainted Battleworn Morning Star
+
+
+
+Tainted Battleworn Morning Star
+
+
+MAGIC ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 7 
+WIS: +6
+SV DISEASE: -5
+WT: 9.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Kithicor Forest
+
+ undead cleric
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

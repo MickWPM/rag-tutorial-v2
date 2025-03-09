@@ -1,0 +1,38 @@
+ITEM NAME: Cracked Giant Scarab Carapace
+
+
+Cracked Giant Scarab Carapace
+
+
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Merchant Value:	0 pp 2 gp 0 sp 0 cp 
+
+  Drops From 
+Butcherblock Mountains
+
+ a giant scarab
+
+The Estate of Unrest
+
+ a death beetle
+
+Northern Desert of Ro
+
+ a sand scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scarab Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

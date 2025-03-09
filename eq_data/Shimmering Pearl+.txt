@@ -1,0 +1,30 @@
+ITEM NAME: Shimmering Pearl*
+
+Classic Era (added 1999-2000)
+
+
+Shimmering Pearl
+
+
+MAGIC ITEM LORE ITEM  NO TRADE
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Obtained by giving a Message to Natasha to Natasha Whitewater. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

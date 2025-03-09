@@ -1,0 +1,42 @@
+ITEM NAME: Silvered Shuriken
+
+Classic Era (added 1999-2000)
+
+
+Silvered Shuriken
+
+
+MAGIC ITEM  
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 23
+DMG: 5
+WT: 0.5  Range: 65  Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Silvered Shuriken x1
+ In Forge:
+
+
+  1 x Enchanted Sheet Metal - Crafted
+  1 x Enchanted Silver Bar - Summoned
+  1 x Shuriken Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Journeyman's Walking Stick
+
+Kunark Era (added 2000)
+
+Journeyman's Walking Stick
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 9 
+STR: +4  WIS: +4  INT: +4
+Effect:  Tashani (Combat, Casting Time: Instant) at Level 35
+WT: 1.6  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU
+MNK BRD ROG SHM
+Race: ALL
+
+
+Known colloquially as the "Tash Stick". 
+
+  Drops From 
+Old Sebilis
+
+ Baron Yosig
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

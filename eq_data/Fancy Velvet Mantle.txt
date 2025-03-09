@@ -1,0 +1,34 @@
+ITEM NAME: Fancy Velvet Mantle
+
+Velious Era (added December 2000-2001)
+
+Fancy Velvet Mantle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 6
+DEX: +9  STA: +5  INT: +5  MANA: +25
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Observer Aq`touz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

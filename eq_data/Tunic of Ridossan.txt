@@ -1,0 +1,33 @@
+ITEM NAME: Tunic of Ridossan
+
+Warrens Era (added spring 2001)
+ Anioah Shadowkite wearing the Helm, Tunic, and Leggings of Ridossan
+Tunic of Ridossan
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 15
+DEX: +2  STA: +2  INT: +1
+SV FIRE: +3  SV DISEASE: +3
+WT: 5.0  Size: LARGE
+Class: SHD
+Race: ERU
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunic of Ridossan Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

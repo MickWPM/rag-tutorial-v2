@@ -1,0 +1,41 @@
+ITEM NAME: Idol of Fizzlethorpe Bristlebane
+
+Velious Era (added December 2000-2001)
+
+
+Idol of Fizzlethorpe Bristlebane
+
+
+MAGIC ITEM  
+Slot: RANGE PRIMARY SECONDARY
+DEX: +3  AGI: +4
+WT: 0.1  Size: TINY
+Class: CLR BRD ROG
+Race: ALL except ERU TRL OGR IKS
+Deity: Bristlebane
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 248)
+ Idol of Fizzlethorpe Bristlebane
+ In Kiln:
+
+
+  1 x Divine Crystalline Glaze - Crafted
+  1 x High Quality Firing Sheet - Crafted, Bought
+  1 x Unfired Idol (of Bristlebane) - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

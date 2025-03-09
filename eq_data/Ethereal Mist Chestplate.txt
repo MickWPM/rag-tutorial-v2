@@ -1,0 +1,35 @@
+ITEM NAME: Ethereal Mist Chestplate
+
+Hate Era (added November 1999)
+
+
+Ethereal Mist Chestplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 28
+STA: +15  WIS: +15  HP: +25  MANA: +25
+WT: 7.5  Size: LARGE
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Cleric of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

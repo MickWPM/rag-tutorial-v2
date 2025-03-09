@@ -1,0 +1,34 @@
+ITEM NAME: History of the Di`zok
+
+Chardok Revamp Era (added late 2001)
+
+History of the Di`zok
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+AC: 15
+CHA: +2  WIS: +2  INT: +2  HP: +35  MANA: +35
+WT: 3.0  Size: SMALL
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Loremaster Piza`tak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

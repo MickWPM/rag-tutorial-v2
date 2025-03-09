@@ -1,0 +1,37 @@
+ITEM NAME: Packmaster's Lash
+
+Warrens Era (added spring 2001)
+
+Packmaster's Lash
+
+
+MAGIC ITEM LORE ITEM 
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 4   AC: 2
+Effect:  Choke (Combat, Casting Time: Instant) at Level 20
+CHA: -4
+SV DISEASE: -3
+WT: 2.5  Size: SMALL
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Warrens
+
+ Packmaster Dledsh
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

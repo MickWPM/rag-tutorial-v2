@@ -1,0 +1,35 @@
+ITEM NAME: Cloak of Silver Eyes
+
+Velious Era (added December 2000-2001)
+
+
+Cloak of Silver Eyes
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 28
+WIS: +7  INT: +7  HP: +100
+WT: 14.4  Size: TINY
+Class: PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Gozzrem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

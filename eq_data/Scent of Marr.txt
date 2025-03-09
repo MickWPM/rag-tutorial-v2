@@ -1,0 +1,100 @@
+ITEM NAME: Scent of Marr
+
+
+The Scent of Marr
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+
+City of Mist
+
+ a phantom
+
+Eastern Wastes
+
+ a manticore
+ a ulthork man o war
+ kromriff guardsman
+ Ry`Gorr elite guard
+
+Howling Stones
+
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+
+Lesser Faydark
+
+ a brownie guard
+
+Rathe Mountains
+
+ a cyclops
+
+Nagafen's Lair
+
+ lava duct crawler
+
+Old Sebilis
+
+ froglok jin shaman
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1074, -1041)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Research
+ Baking
+
+
+
+

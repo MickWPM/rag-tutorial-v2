@@ -1,0 +1,37 @@
+ITEM NAME: Words of Resolve
+
+
+Words of Resolve
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: ~1p 2g 
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~34 mob
+
+Wakening Lands
+
+a frost giant sentinel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Invoke Fear (Trivial: 120)
+
+
+
+
+

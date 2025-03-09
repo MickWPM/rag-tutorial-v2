@@ -1,0 +1,34 @@
+ITEM NAME: Kerran Fishing Spear
+
+
+Kerran Fishing Spear
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Charges: 3
+Skill: Piercing  Atk Delay: 30
+DMG: 5 
+DEX: +2  AGI: +2
+Effect:  Enduring Breath (Any Slot, Casting Time: Instant)
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fish Dinner
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

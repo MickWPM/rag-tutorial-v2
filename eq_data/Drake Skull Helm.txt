@@ -1,0 +1,34 @@
+ITEM NAME: Drake Skull Helm
+
+Velious Era (added December 2000-2001)
+
+Drake Skull Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 20
+WIS: +4  INT: +4  MANA: +20
+WT: 25.0  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL 
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Keljemor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Scaled Robe of the Elder Serpent
+
+Stonebrunt Era (added summer 2001)
+
+Scaled Robe of the Elder Serpent
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 8
+STR: +4  CHA: +9  INT: +3
+SV POISON: +15
+WT: 3.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Titan Samples (good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+

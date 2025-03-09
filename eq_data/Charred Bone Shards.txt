@@ -1,0 +1,31 @@
+ITEM NAME: Charred Bone Shards
+
+Kunark Era (added 2000)
+Charred Bone Shards
+
+
+MAGIC ITEM  NO DROP
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Trooper Bone Shards 
+
+  Drops From 
+Field of Bone
+
+ a militia skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Geozite Tool Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

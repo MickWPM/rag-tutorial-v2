@@ -1,0 +1,36 @@
+ITEM NAME: Stiletto of the Bloodclaw
+
+
+Stiletto of the Bloodclaw
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 6 
+Effect:  Blood Claw (Combat, Casting Time: Instant) at Level 18
+WT: 3.5  Size: MEDIUM
+Class: SHD ROG NEC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 4.2p 
+
+  Drops From 
+Najena
+
+ Drelzna
+ The Widowmistress
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

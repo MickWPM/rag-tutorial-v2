@@ -1,0 +1,40 @@
+ITEM NAME: Gossamer Wristbands
+
+Classic Era (added 1999-2000)
+
+Gossamer Wristbands
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 3
+WT: 0.3  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Gossamer Armor Set 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 1 Golds
+ 5 Silvers
+ 1 Coppers
+ 
+  Drops From 
+The Estate of Unrest
+
+ a festering hag
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Sionachie's Partisan
+
+
+Sionachie's Partisan
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 9 
+CHA: +6  INT: +2
+SV MAGIC: +5
+WT: 1.8  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ caller of Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

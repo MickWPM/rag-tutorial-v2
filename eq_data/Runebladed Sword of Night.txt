@@ -1,0 +1,37 @@
+ITEM NAME: Runebladed Sword of Night
+
+Classic Era (added 1999-2000)
+
+
+Runebladed Sword of Night
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 26
+DMG: 12 
+Effect:  Shock of Spikes (Combat, Casting Time: Instant) at Level 38
+STR: +3 STA: +3
+WT: 3.0  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kithicor Forest
+
+ Brigadier G`tav
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

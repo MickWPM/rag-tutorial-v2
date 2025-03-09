@@ -1,0 +1,122 @@
+ITEM NAME: Unadorned Breastplate
+
+Velious Era (added December 2000-2001)
+
+Unadorned Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+WT: 15.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+(ToV East mobs)
+
+ an ancient guardian wurm
+ an ancient tigerclaw racnar
+ an elder shard wyvern
+ a burning guardian
+ a fiery drake
+ a greater sky drake
+ an ancient frost guardian
+ an ancient shard wyvern
+ a raging wyvern
+ a vehement wyvern
+ a shimmer drake
+ a racnar
+ an emerald watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Related quests 
+Bard Skyshrine Breastplate (Breastplate of TwilightBreastplate of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 50
+STR: +11  STA: +11  CHA: +11  AGI: +11  HP: +60
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +10  SV POISON: +5
+Effect: Selo's Song of Travel (Must Equip, Casting Time: 5.5) at Level 46
+WT: 9.0  Size: LARGE
+Class: BRD
+Race: HUM ELF HEF
+
+
+)
+Cleric Skyshrine Breastplate (Akkirus' Chestplate of the RisenAkkirus' Chestplate of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 50
+STA: +9  WIS: +15  AGI: +5  HP: +50  MANA: +90
+SV FIRE: +8  SV DISEASE: +9  SV COLD: +8  SV MAGIC: +9  SV POISON: +8
+Effect:  Mark of Karn (Must Equip, Casting Time: 9.0) at level 46
+WT: 8.0  Size: LARGE
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+)
+Paladin Skyshrine Breastplate (Scaled Knight's BreastplateScaled Knight's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 50
+STR: +14  DEX: +8  STA: +8  WIS: +9  AGI: +8  HP: +70  MANA: +60
+SV DISEASE: +5  SV MAGIC: +9
+Effect:  Shield of Words (Must Equip, Casting Time: 15.0)
+WT: 9.0  Size: LARGE
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+)
+Shadowknight Skyshrine Breastplate (Blood Lord's BreastplateBlood Lord's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 50
+STR: +9  DEX: +9  STA: +8  INT: +9  AGI: +9  HP: +70  MANA: +70
+SV DISEASE: +4  SV MAGIC: +10
+Effect: Invigorate (Any Slot/Can Equip, Casting Time: 14.5)
+WT: 9.0  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+)
+Warrior Skyshrine Breastplate (Breastplate of the MyrmidonBreastplate of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 54
+STR: +15  DEX: +7  STA: +10  AGI: +7  HP: +90
+SV FIRE: +5  SV DISEASE: +10  SV COLD: +5  SV MAGIC: +10
+Effect: Invigorate (Any Slot/Can Equip, Casting Time: 14.5) at Level 50
+WT: 17.5  Size: LARGE
+Class: WAR
+Race: ALL
+
+
+)
+
+

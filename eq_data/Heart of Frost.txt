@@ -1,0 +1,34 @@
+ITEM NAME: Heart of Frost
+
+Temple Era (added October 1999)
+
+
+Heart of Frost
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Heart of Frost 
+
+  Drops From 
+Permafrost
+
+ a goblin wizard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+ Staff of Temperate Flux Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: 10 Dose Potion of Stinging Wort
+
+
+
+10 Dose Potion of Stinging Wort
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 10
+Effect:  Calimony (Any Slot, Casting Time: Instant)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Be aware that Voice of the Berserker, Strength of Nature, Regrowth and Regrowth of the Grove will block this effect.
+AKA "wort pot". This self-healing potion is important for end-game raiding guilds on difficult encounters where large amounts of damage are taken, or when the number of healers is lacking. Though expensive, repeated use of wort potions can keep a player alive through punishing area of effect spells and deadly flurries. Each wort pot can effectively extend a player's HP pool by 2700 if the last charge is saved for vendor recharge. Compare to Soulfire and Reaper of the Dead. 
+ Merchant resale value: 180p 9g 3c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 156)?
+ Yield: 10 Dose Potion of Stinging Wort x1
+ In Bearskin Potion Bag:
+
+
+  10 x Potion of Stinging Wort
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

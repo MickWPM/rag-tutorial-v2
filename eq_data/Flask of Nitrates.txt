@@ -1,0 +1,31 @@
+ITEM NAME: Flask of Nitrates
+
+Classic Era (added 1999-2000)
+
+
+Flask of Nitrates
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Regurgitonic
+ The Nitrates and the Assassin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

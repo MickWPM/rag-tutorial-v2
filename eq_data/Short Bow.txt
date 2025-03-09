@@ -1,0 +1,201 @@
+ITEM NAME: Short Bow
+
+
+
+Short Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 40
+DMG: 6
+WT: 3.5  Range: 50  Size: MEDIUM
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Oggok
+
+ Bouncer Haraan
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Granthrow
+
+
+
+  (-508, -311)
+
+
+ Firiona Vie
+
+ Rafron Brandin
+
+
+
+  (-3833, 1671)
+
+
+ East Freeport
+
+ Prasen Rusgor
+
+
+
+  (-64, -275)
+
+
+ Greater Faydark
+
+ Merchant Winerasea
+
+
+
+  (-270, 89)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Grobb
+
+ Gluku
+
+
+
+  (443, -1007)
+
+
+ Kithicor Forest
+
+ Mune Woodchopper
+
+
+
+  (1458, 2263)
+
+
+ Neriak Foreign Quarter
+
+ Relgor
+
+
+
+  (-330, -352)
+
+
+ Neriak Foreign Quarter
+
+ Namarg
+
+
+
+  (-279, -422)
+
+
+ Neriak Third Gate
+
+ Cazum N`Tan
+
+
+
+  (1335, -1269)
+
+
+ Oggok
+
+ Squeea
+
+
+
+  (647, 977)
+
+
+ Oggok
+
+ Iksob Darkchaser
+
+
+
+  (273, 11)
+
+
+ Western Plains of Karana
+
+ Carlan the Young
+
+
+
+  (972, -1868)
+
+
+ Western Plains of Karana
+
+ Maldin the Old
+
+
+
+  (972, -1868)
+
+
+ South Qeynos
+
+ Stan Cloven
+
+
+
+  (427, -265)
+
+
+ South Qeynos
+
+ Nesiff Tallaherd
+
+
+
+  (440, -243)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Rathe Mountains
+
+ Ukla
+
+
+
+  (1731, 1289)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

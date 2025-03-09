@@ -1,0 +1,115 @@
+ITEM NAME: Arrow Shaft Mold
+
+
+
+Arrow Shaft Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Zotalz
+
+
+
+  (344, 526)
+
+
+ Firiona Vie
+
+ Fleceal Summer
+
+
+
+  (-3426, 3327)
+
+
+ Greater Faydark
+
+ Merchant Lanin
+
+
+
+  (414, 329)
+
+
+ Halas
+
+ Rain
+
+
+
+  (175, -296)
+
+
+ Iceclad Ocean
+
+ Adinel Jailbar
+
+
+
+  (4540, 1287)
+
+
+ Neriak Commons
+
+ Andara C`Luzz
+
+
+
+  (-135, -1062)
+
+
+ The Overthere
+
+ Tin Merchant X
+
+
+
+  (2697, 2620)
+
+
+ Surefall Glade
+
+ Jarse Kedison
+
+
+
+  (105, 105)
+
+
+ Steamfont Mountains
+
+ a clockwork fletcher
+
+
+
+  (79, -661)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

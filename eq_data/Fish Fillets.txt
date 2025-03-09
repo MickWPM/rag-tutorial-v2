@@ -1,0 +1,60 @@
+ITEM NAME: Fish Fillets
+
+
+Fish Fillets
+
+
+QUEST ITEM
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Foxmyr
+
+
+
+  (123, -201)
+
+
+ Kerra Island
+
+ Roary Fishpouncer
+
+
+
+  (632, -681)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 82)
+ Yield: Fish Fillets x2
+ In Oven:
+
+
+  1 x Fresh Fish - Bought, Dropped, Fished
+  1 x Jug of Sauces - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

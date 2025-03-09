@@ -1,0 +1,38 @@
+ITEM NAME: Rod of Mourning
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Rod of Mourning
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 36
+DMG: 29 
+STR: +5  WIS: +5  INT: +5  AGI: -5  HP: +25  MANA: +25
+Effect:  Force (Combat, Casting Time: Instant) at Level 50
+WT: 8.5  Size: LARGE
+Class: WAR PAL RNG SHD MNK
+Race: ALL
+
+
+No longer drops. Replaced with the Rod of Lamentation.
+Ceases to drop 1 month into Kunark. 
+
+  Drops From 
+Old Sebilis
+
+ Emperor Chottal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

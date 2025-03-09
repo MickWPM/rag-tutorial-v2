@@ -1,0 +1,33 @@
+ITEM NAME: Blackbox Fragment
+
+
+
+Blackbox Fragment
+
+
+NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Steamfont Mountains
+
+ runaway clockwork
+ rogue clockwork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Red V Clockwork
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

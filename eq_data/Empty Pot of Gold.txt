@@ -1,0 +1,42 @@
+ITEM NAME: Empty Pot of Gold
+
+Velious Era (added December 2000-2001)
+
+
+Empty Pot of Gold
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Weight Reduction: 0%
+Capacity: 2  Size Capacity: GIANT
+
+
+ Item Lore (from Identify): Its magic may be able to create gold from magical items
+Container used to create class-specific Plane of Mischief armor, obtained from Bob the Painter. 
+Each combine uses one Armor of Distraction piece and a class-appropriate doll:
+
+ A Wily Warlock Doll (Wizard)
+ Sly Summoner Doll (Mag)
+ Mad Monkey Doll (Monk)
+ Crazy Cleric Doll (Cle)
+ Maleficent Necromancer Doll (Nec)
+ Mischievous Dazzler Doll (Enc)
+ Shamanistic Shenannigan Doll (Shm)
+ Twisted Druid Doll (Dru)
+
+Can also be used to make Funny Money by combining Words of Wealth and one Armor of Distraction piece. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

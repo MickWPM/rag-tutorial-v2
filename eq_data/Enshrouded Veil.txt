@@ -1,0 +1,36 @@
+ITEM NAME: Enshrouded Veil
+
+Kunark Era (added 2000)
+
+Enshrouded Veil
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 7
+WIS: +2  INT: +2  HP: +30  MANA: +30
+SV FIRE: +10
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 90pp 
+
+  Drops From 
+Howling Stones
+
+ Embalming Fluid
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

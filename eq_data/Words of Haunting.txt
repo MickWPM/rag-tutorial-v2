@@ -1,0 +1,53 @@
+ITEM NAME: Words of Haunting
+
+
+Words of Haunting
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 0 Golds
+ 3 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from any level ~29-34 mob
+
+The Feerrott
+
+ a spectre
+
+Lower Guk
+
+a ghoul assassin
+
+Solusek's Eye
+
+ Solusek Priest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tempi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Summon Dead (Trivial: 87)
+ Invoke Shadow (Trivial: 122) (Research Only)
+
+
+
+
+

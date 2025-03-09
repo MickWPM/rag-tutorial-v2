@@ -1,0 +1,58 @@
+ITEM NAME: Immortals
+
+Epic Quests Era (added Sept 2000)
+
+Immortals
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Size: SMALL
+
+
+
+
+  Drops From 
+Skyfire Mountains
+
+ a lava walker (Wyvern)
+ a mature wurm
+ a shadow drake
+ a soul devourer
+ a wandering wurm
+ a wurm spirit
+ Black Scar
+ Eldrig the Old
+ Faerie of Dismay
+ Felia Goldenwing
+ Guardian of Felia
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Epic Quest 
+
+  Book contents 
+Immortals
+The immortals who can be spoken of are not the eternal immortals.
+Their spoken names are not their eternal names. In namelessness they are the
+beginning of heaven and earth. Named they are one with the ten thousand things.
+Though different in title they spring from one source and appear as darkness.
+Darkness within darkness. The gate to their mystery.
+The immortals do not go forth. All comes to them. They are like the ocean, the
+king of ten thousand streams. By staying beneath they are a receptacle for all things.
+They do nothing. Yet are masters of the universe.
+Trorsmang! Be our course of action.
+Anbeal! Become the vessel to hold our virtue.
+Drinal! Be our stability, where we can take root.
+Cordan! Fill our vessel and calm our ambitions.
+Norrath! Take our husks and breathe life into them.
+We beseech you! Guide us in your humility.
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

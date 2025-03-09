@@ -1,0 +1,91 @@
+ITEM NAME: Words of the Spectre
+
+
+Words of the Spectre
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 1 Platinums
+ 7 Golds
+ 2 Silvers
+ 7 Coppers
+ 
+  Drops From 
+City of Mist
+
+ a phantom
+ greater plaguebone
+
+Dreadlands
+
+ a glacier yeti
+
+Eastern Wastes
+
+ a manticore
+ a wooly rhino
+
+Everfrost
+
+ An Ice Giant
+
+Great Divide
+
+ Fomgrut Borkel
+
+High Keep
+
+ Captain Boshinko
+
+Karnor's Castle
+
+ a drolvarg sentry
+ spectral knight
+
+Lesser Faydark
+
+ Equestrielle the Corrupted
+
+Lower Guk
+
+ a zol ghoul knight
+ a dar ghoul knight
+
+Ocean of Tears
+
+ a cyclops
+
+The Feerrott
+
+ A Spectre
+
+The Hole
+
+ an elemental warrior
+
+Trakanon's Teeth
+
+ spectral keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Word of Souls (Trivial: 140)
+
+
+
+
+

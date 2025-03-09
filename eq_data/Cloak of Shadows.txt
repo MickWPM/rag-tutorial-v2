@@ -1,0 +1,35 @@
+ITEM NAME: Cloak of Shadows
+
+Classic Era (added 1999-2000)
+
+Cloak of Shadows
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 12
+DEX: +13
+SV DISEASE: +10
+WT: 0.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Nagafen's Lair
+
+ guano harvester
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

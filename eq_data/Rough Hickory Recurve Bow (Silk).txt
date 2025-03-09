@@ -1,0 +1,40 @@
+ITEM NAME: Rough Hickory Recurve Bow (Silk)
+
+Classic Era (added 1999-2000)
+Were you looking for Rough Hickory Recurve Bow (Hemp)?
+Were you looking for Rough Hickory Recurve Bow (Linen)?
+
+Rough Hickory Recurve Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 42
+DMG: 8
+WT: 4.0  Range: 50  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 16)
+ Rough Hickory Recurve Bow (Silk)
+ In Fletching Kit:
+
+
+  1 x Hickory Bow Staff - Bought
+  1 x Silk String - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

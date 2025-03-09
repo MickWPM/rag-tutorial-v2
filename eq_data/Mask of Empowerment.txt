@@ -1,0 +1,35 @@
+ITEM NAME: Mask of Empowerment
+
+Sky Era (added January 2000)
+
+
+Mask of Empowerment
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+Charges: 5
+AC: 4
+DEX: +7  INT: +7  AGI: +7
+Effect:  Burnout III (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.4  Size: SMALL
+Class: MAG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Empowerment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

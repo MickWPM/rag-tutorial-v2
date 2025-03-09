@@ -1,0 +1,36 @@
+ITEM NAME: Collector's Kerran Doll
+
+Classic Era (added 1999-2000)
+
+
+Collector's Kerran Doll
+
+
+NO DROP
+WT: 0.3  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kerra Island
+
+ a banished kerran
+ a kerran amira priestess
+ Errrak Thickshank
+ kerran tseq
+ The Kerran Sha`rr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

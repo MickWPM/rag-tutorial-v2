@@ -1,0 +1,35 @@
+ITEM NAME: Harmonic Spear
+
+Sky Era (added January 2000)
+
+
+Harmonic Spear
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 21
+DMG: 10 
+STR: +5  DEX: +5  CHA: +5
+Effect:  Chant of Battle (Combat, Casting Time: Instant) at Level 45
+WT: 3.5  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Harmony
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

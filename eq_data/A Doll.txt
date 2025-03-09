@@ -1,0 +1,43 @@
+ITEM NAME: A Doll
+
+Classic Era (added 1999-2000)
+A Doll
+
+
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+East Freeport
+
+ a shark
+
+Erudin
+
+ a sand shark
+ a young shark
+
+Ocean of Tears
+
+ a shark
+
+Qeynos Aqueducts
+
+ a shark
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Indaria's Doll
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

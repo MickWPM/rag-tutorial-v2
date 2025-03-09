@@ -1,0 +1,39 @@
+ITEM NAME: Ring of the Ancients
+
+Classic Era (added 1999-2000)
+
+Ring of the Ancients
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 6
+INT: +5
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Ocean of Tears
+
+ an ancient cyclops (Ocean of Tears)
+
+Southern Desert of Ro
+
+ an ancient cyclops (Southern Ro)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Journeyman's Boots Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

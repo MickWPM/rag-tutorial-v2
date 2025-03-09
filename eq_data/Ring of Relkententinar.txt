@@ -1,0 +1,36 @@
+ITEM NAME: Ring of Relkententinar
+
+Velious Era (added December 2000-2001)
+
+
+
+Ring of Relkententinar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 15
+STR: +10  STA: +15  WIS: +10
+WT: 0.0  Size: TINY
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lendiniara the Keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

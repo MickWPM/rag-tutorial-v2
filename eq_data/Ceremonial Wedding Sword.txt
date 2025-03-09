@@ -1,0 +1,39 @@
+ITEM NAME: Ceremonial Wedding Sword
+
+Velious Era (added December 2000-2001)
+
+Ceremonial Wedding Sword
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+STR: +5  DEX: +3  STA: +3  AGI: +3
+SV MAGIC: +6
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Drops from the wedding party members on the fifth floor. 
+ Merchant resale value: 19.7p 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Nosja
+ Pelpa
+ Tihgren
+ Vyakna
+ Uenlarc
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

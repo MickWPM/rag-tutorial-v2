@@ -1,0 +1,39 @@
+ITEM NAME: Ry`Gorr Chain Gloves
+
+Velious Era (added December 2000-2001)
+
+Ry`Gorr Chain Gloves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 12
+STR: +2  CHA: +1  HP: +5
+WT: 3.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Ry`Gorr Chain Armor set. 
+ Merchant resale value: 2.3p 
+
+  Drops From 
+Eastern Wastes
+
+ a Ry`Gorr legionaire
+ a Ry`Gorr prison guard
+ mystic of Ry`Gorr
+ Oracle of Ry`Gorr
+ Ry`Gorr elite guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

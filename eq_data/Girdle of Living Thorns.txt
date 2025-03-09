@@ -1,0 +1,37 @@
+ITEM NAME: Girdle of Living Thorns
+
+Velious Era (added December 2000-2001)
+
+
+Girdle of Living Thorns
+
+
+LORE ITEM  NO DROP
+Slot: WAIST
+AC: 20
+DEX: +15  STA: +15  AGI: +15  HP: +100  MANA: +100
+SV FIRE: +15  SV DISEASE: +15  SV POISON: +15
+Effect: Spikecoat (Any Slot/Can Equip, Casting Time: Instant) at Level 51
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ Tunare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

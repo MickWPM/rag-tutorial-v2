@@ -1,0 +1,46 @@
+ITEM NAME: A Broom
+
+Classic Era (added 1999-2000)
+
+
+A Broom
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Broom of Air  This item was introduced as part of a Temple of Solusek Ro quest Oct 1999 era. [1] 
+
+  Drops From 
+Cazic Thule
+
+ an alligator
+
+Lake Rathetear
+
+ an alligator
+
+Najena
+
+ a goblin magician (?)
+ a magician
+ an injured halfling (?)
+ dark-boned skeleton (?)
+ Ekeros (?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Broom Of Trilon Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

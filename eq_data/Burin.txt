@@ -1,0 +1,48 @@
+ITEM NAME: Burin
+
+Velious Era (added December 2000-2001)
+
+
+Burin
+
+
+LORE ITEM NO DROP
+WT: 0.3  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Fletching  (Trivial:135)
+ Burin x1
+ In Fletching Kit:
+
+
+  1 x Ulthork Tusks - Dropped
+  1 x Swordfish Tooth - Dropped
+  1 x Molkor Hide - Dropped 
+
+
+  Tradeskill recipes 
+ Fletching  (Trivial:168)
+ Etched Rune x1
+ In Fletching Kit:
+
+
+  1 x Etched Rune Pattern - Quested
+  1 x Burin - Crafted
+  1 x Blank Rune - Crafted
+
+
+
+
+

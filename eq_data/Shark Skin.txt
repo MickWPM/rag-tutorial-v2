@@ -1,0 +1,76 @@
+ITEM NAME: Shark Skin
+
+Classic Era (added 1999-2000)Were you looking for Heretic Shark Skin?
+
+Shark Skin
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Notes: In OoT, both reef and normal sharks go between sisters isle and the goblin island across from the dock. I recommmend sitting on the banks of the goblin island and waiting for sharks to pass by from the northernmost point. In Erud's Crossing, many sharks can be found off the west coast of the island (farther off from the sunken ship), as well as three stationary spawns by the sunken ship. However, the best place to farm these is at the Erudin docks: several spawns of a shark and a sand shark (the latter of which drops skin more often) are found near the docks, and when you manage to spawn a diseased shark and kill it, eight a young sharks will spawn, each of which can drop skins.
+
+Alternatively you can just camp named sharks in Kedge Keep.  By the time you get a few rare items (especially if you go for a super rare item like the Driftwood Treasure ChestDriftwood Treasure Chest
+
+
+WT: 10.0  Weight Reduction: 100%
+Capacity: 10  Size Capacity: GIANT
+
+
+) you should have collected lots of Shark Skin. 
+  Drops From 
+East Freeport
+
+ a shark
+
+Erud's Crossing
+
+ a shark
+
+Erudin
+
+ a sand shark
+ a shark
+ a young shark
+
+Kedge Keep
+
+ a bull shark
+ a cauldron hammerhead
+ a cauldron shark
+ a ferocious hammerhead
+ a frenzied bull shark
+
+Ocean of Tears
+
+ a shark
+ a reef shark
+ a buccaneer
+
+Lake Rathetear
+
+ a freshwater shark
+
+Qeynos Aqueducts
+
+ a shark
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Leatherfoot Raiders
+ Shark Hunting
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Minor Summoning: Water (Trivial: 22)
+ Magi Rune (Azia) (Trivial: 182)
+
+
+
+
+

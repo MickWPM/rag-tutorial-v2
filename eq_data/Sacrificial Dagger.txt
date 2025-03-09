@@ -1,0 +1,35 @@
+ITEM NAME: Sacrificial Dagger
+
+
+Sacrificial Dagger
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 21
+DMG: 5 
+INT: +5
+WT: 2.5  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+ Merchant resale value: 4p 
+
+  Drops From 
+Mistmoore Castle
+
+ an imp familiar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

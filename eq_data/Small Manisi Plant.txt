@@ -1,0 +1,37 @@
+ITEM NAME: Small Manisi Plant
+
+Chardok Revamp Era (added late 2001)
+
+Small Manisi Plant
+
+
+LORE ITEM  NO DROP
+Slot: RANGE
+CHA: -10
+SV FIRE: -10  SV DISEASE: +10  SV COLD: -10  SV POISON: +10
+Effect: Harvest Leaves (Any Slot, Casting Time: 15.0)
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): A small, broad-leafed plant
+Effect summons 1 stack of Withered Manisi Leaf (bandages). 
+
+  Drops From 
+Chardok
+
+ Grand Herbalist Mak`ha
+ a Di`zok Herbalist (unconfirmed)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

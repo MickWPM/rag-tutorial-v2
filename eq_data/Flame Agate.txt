@@ -1,0 +1,133 @@
+ITEM NAME: Flame Agate
+
+
+Flame Agate
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+ 7 Platinums
+ 6 Golds
+ 7 Silvers
+ 3 Coppers 
+
+  Drops From 
+Beholder's Maze
+
+ an evil eye
+
+Commonlands
+
+ a hill giant
+
+Dreadlands
+
+ A Tundra Yeti
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a skeletal monk
+ an undead knight of Unrest
+ dark boned skeleton
+ Torklar Battlemaster
+
+Everfrost Peaks
+
+ an ice giant
+
+Field of Bone
+
+ Kerosh Blackhand
+
+Greater Faydark
+
+ a faerie royal guard
+
+Innothule Swamp
+
+ Basher Sklama
+
+Lavastorm Mountains
+
+ goblin warrior
+
+Lesser Faydark
+
+ a faerie
+ a faerie guard
+ a fairy guard
+ Jayla Nybright
+ Thistle Underbrush
+
+Lower Guk
+
+ a deadly black widow
+
+Mistmoore Castle
+
+ a dark elf noble
+ a dark offerer
+ a dark ritualist
+ a dark sacrificer
+ a ghostly ancille
+ a glyphed forbidder
+ a Mistmoore guard
+ a negotiator
+ a shadowy sage
+ a shadowy scribe
+ a shadowy scrivener
+ a soul inveigling
+ a soul seductress
+ a soul temptress
+ a spectral ancille
+ a spiritish ancille
+ a thought defiler
+ a thought spoiler
+ a vampire oracle
+ a vampiric ancille
+ a wightish ancille
+ Princess Cherista
+
+Rathe Mountains
+
+ a hill giant
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Swamp of No Hope
+
+ froglok shin shaman
+ man eating vine
+ Weeping Mantrap
+
+The Wakening Land
+
+ a frost giant laborer
+ a suit of sentient armor
+ a tar goo
+ a geonid
+
+Warsliks Woods
+
+ a skulking brute
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

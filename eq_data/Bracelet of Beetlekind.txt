@@ -1,0 +1,35 @@
+ITEM NAME: Bracelet of Beetlekind
+
+Classic Era (added 1999-2000)
+
+Bracelet of Beetlekind
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+Charges: 10
+AC: 2
+STR: +3  INT: -3
+SV FIRE: +10
+Effect:  Strengthen (Any Slot, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bug Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

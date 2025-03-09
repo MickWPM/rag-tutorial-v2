@@ -1,0 +1,82 @@
+ITEM NAME: Innoruuk's Kiss of Death
+
+
+
+Innoruuk's Kiss of Death
+
+
+LORE ITEM
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin
+
+ Geoard BlueHawk
+
+
+
+  (-1175, -331)
+
+
+ East Freeport
+
+ Lunce Nasin
+
+
+
+  (-233, -863)
+
+
+ East Freeport
+
+ Nesin Tapper
+
+
+
+  (-280, -205)
+
+
+ East Freeport
+
+ Henna Treghost
+
+
+
+  (-246, -874)
+
+
+ East Freeport
+
+ Gregor Nasin
+
+
+
+  (-238, -835)
+
+  Related quests 
+ Vasty Deep Water
+ Erud's Tonic Quest
+ Telescope Lenses
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

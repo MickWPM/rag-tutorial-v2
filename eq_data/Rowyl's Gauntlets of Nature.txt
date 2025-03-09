@@ -1,0 +1,34 @@
+ITEM NAME: Rowyl's Gauntlets of Nature
+
+Velious Era (added December 2000-2001)
+
+
+Rowyl's Gauntlets of Nature
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 8
+STA: +2  WIS: +2  MANA: +25
+SV MAGIC: +2  SV POISON: +1
+WT: 1.5  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid's Velium Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

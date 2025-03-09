@@ -1,0 +1,153 @@
+ITEM NAME: Rod
+
+Classic Era (added 1999-2000)
+Rod
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore (from Identify):  See below for names 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tarton's Wheel
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Locations 
+NOTE: All rods can be picked up while Invisibility is active and it does not break invis.
+
+
+
+ Rod
+
+ Zone
+
+ Location
+
+ Description
+
+ Enduring Breath Recommended
+
+
+ Azia
+
+ Erud's Crossing
+
+ -1159, 2329
+
+ Underwater on the ocean floor past the shipwreck with the zombie sailors, just after the ledge. BEWARE! Lvl 40 Killer Sharks! Use Invis!
+
+ Yes
+
+
+ Beza
+
+ Everfrost Peaks
+
+ 5000, -5100
+
+ Floor of the house in the back of the hidden cave entered through the frozen river. The house is located in the northeast portion of the caves. Three ice boned skeletons spawn inside. Enter the river through the closest hole and swim up against the ice to breathe. Beware the Lich of Miragul wandering the caves. It is high level, aggressive, and can See Invisible.
+
+ No
+
+
+ Caza
+
+ Lake Rathetear
+
+ 2782, 142, -372
+
+ Underwater on the top floor of the stone tower in the hidden cave underneath the first island out from Rathe Mountains island #15 on the map. Cave entrance is at 2826, -907, -171.
+
+ Yes
+
+
+ Dena
+
+ Dagnor's Cauldron
+
+ -890, -740
+
+ Underwater in a small gully on the lake floor out and to the left of Kedge Keep (near the island), directly out from Unrest.
+
+ Yes
+
+
+ Ena
+
+ Lower Guk
+
+ ?
+
+ On the floor of the reanimated hand room. Most players will need a group for this one, though if they know the path extremely well it is possible to sprint there after another player casts both Invisibility and Invisibility versus Undead on them. Spirit of Wolf is recommended for this approach.
+
+ No
+
+
+ Fana
+
+ Oasis of Marr
+
+ -790, -60
+
+ Underwater on the top floor of the stone tower in the lake.
+
+ No
+
+
+ Geza
+
+ Highpass Hold
+
+ -180, +445
+
+ Beneath the waterfall near The Tiger's Roar patio.
+
+ No
+
+
+ Heda
+
+ Qeynos Aqueducts
+
+ 670, 60
+
+ Underwater on the tile floor of the shark pit.
+
+ No
+
+
+ Izah
+
+ Neriak Commons
+
+ +0.89, -803.9,
+
+ Underwater on the river floor immediately outside The Blind Fish windows. The Blind Fish is the underground bar near the Bank, with four large windows looking out below the surface.
+
+ No
+
+
+ Jaka
+
+ Unrest
+
+ +520, -285
+
+ Underwater on the hidden cavern floor to the right of the manor. Near Serra and a gnomish spelunker, but in a cubby between them and the house.
+
+ No
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Truesilver Mail Pants
+
+Kunark Era (added 2000)
+
+Truesilver Mail Pants
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 13
+WT: 3.5  Size: LARGE
+Class: WAR CLR PAL RNG BRD ROG
+Race: ALL except TRL OGR
+
+
+
+
+  Drops From 
+Kaesora
+
+ Reaver of Xalgoz
+ Skeletal Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

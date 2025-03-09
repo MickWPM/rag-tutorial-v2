@@ -1,0 +1,40 @@
+ITEM NAME: Silver Moon Chest Wraps
+
+Velious Era (added December 2000-2001)
+ Project 1999 Blue - Silver Moon Chest Wraps Project 1999 Green - Silver Moon Chest Wraps with matching leggings
+Silver Moon Chest Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 16
+STR: +13  DEX: +4  STA: +13  AGI: +4  HP: +60
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect:  Invigorate (Must Equip, Casting Time: 15.0)
+WT: 0.5  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+Part of the Silver Moon Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a sylvan protector
+ Ail the Elder
+ Rumbleroot
+ Fayl Everstrong (confirmed)
+ Tunare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

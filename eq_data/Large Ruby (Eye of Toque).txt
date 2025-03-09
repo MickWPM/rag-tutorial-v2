@@ -1,0 +1,33 @@
+ITEM NAME: Large Ruby (Eye of Toque)
+
+
+Large Ruby
+
+
+MAGIC ITEM  LORE ITEM
+Slot: Head
+INT: +1
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Eye of Toque 
+
+  Drops From 
+Innothule Swamp
+
+ Lynuga
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hollow Skull Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

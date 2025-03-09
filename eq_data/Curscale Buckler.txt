@@ -1,0 +1,32 @@
+ITEM NAME: Curscale Buckler
+
+
+
+Curscale Buckler
+
+
+LORE ITEM
+Slot: SECONDARY
+AC: 4
+SV FIRE: +1
+WT: 3.0  Size: SMALL
+Class: WAR SHD MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Curscale Shield
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

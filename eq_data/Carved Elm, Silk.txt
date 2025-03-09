@@ -1,0 +1,30 @@
+ITEM NAME: Carved Elm, Silk
+
+
+Carved Elm Recurve Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 39
+DMG: 10
+WT: 4.0  Range: 75  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 102) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

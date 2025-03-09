@@ -1,0 +1,79 @@
+ITEM NAME: Sleeves Sectional Mold
+
+
+
+Sleeves Sectional Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+4g 1s 9c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Issilyn Ristan
+
+
+
+  (72, -214)
+
+
+ Toxxulia Forest
+
+ Win Karnam
+
+
+
+  (2247, 979)
+
+
+ Qeynos Hills
+
+ Marton Sayer
+
+
+
+  (1381, 278)
+
+
+ Greater Faydark
+
+ Merchant Linolyen
+
+
+
+  (110, 345)
+
+
+ East Cabilis
+
+ Klok Nalgoz
+
+
+
+  (239, -290)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

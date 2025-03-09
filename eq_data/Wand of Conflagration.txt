@@ -1,0 +1,34 @@
+ITEM NAME: Wand of Conflagration
+
+
+ 
+Wand of Conflagration
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 3
+Effect:  Conflagration (Any Slot/Can Equip, Casting Time: Instant) at Level 45
+WT: 1.0  Size: SMALL
+Class: WIZ
+Race: ALL
+
+
+See Guide to Recharging Items [1] for more information on the usefulness of wands. 
+
+  Drops From 
+Plane of Hate
+
+ a loathling lich
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

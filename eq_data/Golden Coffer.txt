@@ -1,0 +1,33 @@
+ITEM NAME: Golden Coffer
+
+Sky Era (added January 2000)
+
+
+Golden Coffer
+
+
+LORE ITEM  NO DROP
+WT: 10.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Shielding
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

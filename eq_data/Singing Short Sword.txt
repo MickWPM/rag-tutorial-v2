@@ -1,0 +1,45 @@
+ITEM NAME: Singing Short Sword
+
+ Singing Short Sword
+Epic Quests Era (added Sept 2000)
+
+
+Singing Short Sword
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 26
+All Instrument Types
+DMG: 16 
+STR: +15  DEX: +10  STA: +5  CHA: +20  HP: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Required level of 46.
+Effect:  Dance of the Blade (Combat, Casting Time: Instant) at Level 46
+WT: 2.0  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+ Item Lore (from Identify): Singing Short Sword
+The effect (Dance of the Blade) is a full party buff that adds 55% haste, 30 Strength, and 30 attack. It lasts for 2 minutes 30 seconds and has a range of about 150 feet. The 1.8 all-instrument (including singing) modification will only apply if the weapon is equipped in the primary item slot [1] until October 2001 in the timeline:
+As of the patch that introduced Target Group Buff (TGB), make sure to turn off TGB (/tgb off) or the effect will not land on you and your group.
+With the Singing Short Sword and an Instrument equipped, it will take the higher of the two into account for song mods. It does not combine their power.
+The Singing Short Sword does not modify mana regeneration with any song or discipline. This includes the Puretone discipline as well as any mana regeneration song (e.g. Cassindra's Chorus of Clarity, aka "mana pump"). See here for more information.
+Nilbog: Changed the date of Singing Short Sword instrument modifier working in the offhand from Nov2001 to Oct2001.[2]
+Singing Short Sword instrument modifier works in the offhand at  Chardok 2.0 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

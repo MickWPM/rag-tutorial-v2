@@ -1,0 +1,35 @@
+ITEM NAME: Ring of the Frozen Flame
+
+Velious Era (added December 2000-2001)
+Ring of the Frozen Flame
+
+
+MAGIC ITEM  NO DROP
+Slot: FINGER
+AC: 4
+STA: +5  HP: +60
+SV FIRE: +7
+Effect: Serpent Sight (Worn)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Lord Doljonijiarnimorinar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

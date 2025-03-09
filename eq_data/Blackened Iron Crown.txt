@@ -1,0 +1,39 @@
+ITEM NAME: Blackened Iron Crown
+
+⏱️ REVAMP ALERT (see notes)
+
+
+Blackened Iron Crown
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 5
+STR: +5
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 6.0  Size: SMALL
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Part of the Blackened Iron Armor Set 
+
+  Drops From 
+Clan Runnyeye
+
+ The Goblin King
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Knight Card Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

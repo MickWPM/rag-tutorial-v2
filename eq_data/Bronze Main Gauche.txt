@@ -1,0 +1,85 @@
+ITEM NAME: Bronze Main Gauche
+
+Classic Era (added 1999-2000)
+
+Bronze Main Gauche
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 3 
+WT: 4.0  Size: SMALL
+Class: ALL except CLR PAL DRU MNK
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 7 Golds
+ 2 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ an aqua goblin wizard
+
+Mistmoore Castle
+
+ a Mistmoore guard
+ a pledge familiar
+
+Commonlands
+
+ a Dervish Cutthroat
+
+Crushbone
+
+ royal guard
+
+Kurn's Tower
+
+ Burynai Excavator
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ Jayla Nybright
+ Kayla Nybright
+ Shayla Nybright
+ Tayla Nybright
+
+Rathe Mountains
+
+ a bandit
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a desert madman
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

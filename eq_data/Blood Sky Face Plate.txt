@@ -1,0 +1,34 @@
+ITEM NAME: Blood Sky Face Plate
+
+Sky Era (added January 2000)
+
+
+Blood Sky Face Plate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 9
+STR: +10  DEX: +12  MANA: +60
+SV DISEASE: +10
+WT: 4.5  Size: SMALL
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Disempowerment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

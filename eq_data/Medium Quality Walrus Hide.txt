@@ -1,0 +1,30 @@
+ITEM NAME: Medium Quality Walrus Hide
+
+Velious Era (added December 2000-2001)
+
+Medium Quality Walrus Hide
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+No known use? Vendors will not buy it. 
+
+  Drops From 
+Eastern Wastes
+
+ a walrus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

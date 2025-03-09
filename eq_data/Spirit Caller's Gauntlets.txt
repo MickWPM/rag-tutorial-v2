@@ -1,0 +1,32 @@
+ITEM NAME: Spirit Caller's Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Spirit Caller's Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 16
+STR: +1  CHA: +2  WIS: +3  MANA: +20
+WT: 4.5  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Kael Gauntlets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Spirit Caller's Armor on a male Troll
+

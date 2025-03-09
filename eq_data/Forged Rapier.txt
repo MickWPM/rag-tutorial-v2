@@ -1,0 +1,45 @@
+ITEM NAME: Forged Rapier
+
+Classic Era (added 1999-2000)
+
+
+Forged Rapier
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 26
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 72)
+ Yield: Forged Rapier x1
+ In Forge:
+
+
+  1 x Hilt Mold - Bought
+  1 x Pommel Mold - Bought
+  1 x Sheet Metal - Crafted, Bought
+  1 x Thin Blade Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Bloodclaw Rapier (Trivial: unknown)
+
+
+
+
+

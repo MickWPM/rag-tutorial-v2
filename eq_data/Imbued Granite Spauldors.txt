@@ -1,0 +1,40 @@
+ITEM NAME: Imbued Granite Spauldors
+
+Hole Era (added June 2000)
+ NERF ALERT (see notes)
+
+Imbued Granite Spauldors
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 20
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 19.4  Size: SMALL
+Class: WAR CLR PAL RNG SHD MNK BRD SHM ROG
+Race: HUM BAR ERU ELF HIE DEF HEF
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Note: Rogue removed from list of usable classes on 7/14/2013 patch, will be added back at ~end of Velious (Nov 2001).[1] 
+
+  Drops From 
+The Hole
+
+ a rock golem
+ a revenant
+ a wanderer
+ Slizik the Mighty
+ A Ratman Warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

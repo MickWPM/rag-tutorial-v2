@@ -1,0 +1,69 @@
+ITEM NAME: Rusty Warhammer
+
+Classic Era (added 1999-2000)
+
+Rusty Warhammer
+
+
+Slot: RANGE PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 4
+WT: 7.5  Range: 40  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the Rusty Weapons set. 
+
+  Drops From 
+Various Zones
+
+ Drops from low-level humanoids
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Harg Tonicka
+
+
+
+  (-41, -493)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86, -457)
+
+
+ Rathe Mountains
+
+ Zok Huoo
+
+
+
+  (-2273, 922)
+
+  Related quests 
+ Crushbone Shoulderpads Quest
+ Emerald Warriors' Items
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Twisted Nature Bracer
+
+Velious Era (added December 2000-2001)
+
+
+Twisted Nature Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+DEX: +5  WIS: +5  HP: +20
+SV DISEASE: +5  SV POISON: +5
+WT: 1.0  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

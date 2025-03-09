@@ -1,0 +1,31 @@
+ITEM NAME: Eye of Stormhammer (Item)
+
+Classic Era (added 1999-2000)
+
+
+Eye of Stormhammer
+
+
+MAGIC ITEM  LORE ITEM
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Eye of Stormhammer Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

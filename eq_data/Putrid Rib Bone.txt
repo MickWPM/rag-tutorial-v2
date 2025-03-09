@@ -1,0 +1,34 @@
+ITEM NAME: Putrid Rib Bone
+
+
+Putrid Rib Bone
+
+
+MAGIC ITEM
+CHA: -5
+SV DISEASE: -10
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL except DEF
+
+
+
+
+  Drops From 
+Qeynos Hills
+
+ a putrid skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Yellow Headband
+ Putrid Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

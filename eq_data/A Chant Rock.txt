@@ -1,0 +1,34 @@
+ITEM NAME: A Chant Rock
+
+Kunark Era (added 2000)
+
+
+A Chant Rock
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Several versions exist... 
+  Item Lore (from Identify): Bedrock Chant Rock 
+  Item Lore (from Identify): Shale Chant Rock 
+  Item Lore (from Identify): Slate Chant Rock 
+
+  Drops From 
+Droga
+
+ a goblin stonechanter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Ring of the Warlord
+
+GM Event item (info)
+
+
+Ring of the Warlord
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 3
+DEX: +5  STA: +7  AGI: +5
+WT: 0.1  Size: TINY
+Class: WAR
+Race: ALL
+
+
+Obtained during a GM event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,93 @@
+ITEM NAME: Spiderling Silk
+
+
+Spiderling Silk
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Ak'Anon
+
+ a rock spider
+
+Butcherblock Mountains
+
+ a rock spiderling
+
+Commonlands
+
+ a spiderling
+
+Everfrost Peaks
+
+ a wooly spiderling
+
+Field of Bone
+
+ bonecrawler hatchling
+ burynaibane spider
+
+Greater Faydark
+
+ a widow hatchling
+
+Nektulos Forest
+
+ an araneidae spiderling
+
+Northern Desert of Ro
+
+ a spiderling
+
+Qeynos Aqueducts
+
+ a sludge spiderling - Uncommon spawn
+
+Steamfont Mountains
+
+ a spiderling
+
+The Feerrott
+
+ a jungle spider
+ a jungle spiderling
+
+Toxxulia Forest
+
+ a large wood spider
+
+Western Plains of Karana
+
+ a spiderling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Assist the Great Xelha
+ Trueshot Longbow Quest
+ Bug Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Silk Thread (Trivial: 15)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Commonlands (which?)
+ Steamfont Mountains
+ Western Plains of Karana
+
+

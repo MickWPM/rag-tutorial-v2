@@ -1,0 +1,32 @@
+ITEM NAME: Book of Darkness
+
+
+
+Book of Darkness
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.5  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ Item Lore (from Identify):  Book of Darkness 
+
+  Drops From 
+Lake Rathetear
+
+ Cyanelle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Words of Darkness Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

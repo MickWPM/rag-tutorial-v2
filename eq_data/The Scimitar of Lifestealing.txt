@@ -1,0 +1,37 @@
+ITEM NAME: The Scimitar of Lifestealing
+
+Hole Era (added June 2000) Stilgard weilding the Scimitar of Life Stealing
+
+
+The Scimitar of Lifestealing
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 18
+DMG: 9 
+STR: +10  WIS: +8
+Effect:  Spirit Tap (Combat, Casting Time: Instant) at Level 50
+WT: 2.0  Size: MEDIUM
+Class: WAR SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Silverwing
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

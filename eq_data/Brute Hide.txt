@@ -1,0 +1,45 @@
+ITEM NAME: Brute Hide
+
+Kunark Era (added 2000)
+
+Brute Hide
+
+
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dreadlands
+
+ a voracious brute
+
+
+Frontier Mountains
+
+ a diseased brute
+ a gorging brute
+ a rabid brute
+ a ravenous brute
+
+Warsliks Woods
+
+ a skulking brute
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Cultural Tradeskills: Halfling (Trivial: Various)
+
+
+
+
+

@@ -1,0 +1,445 @@
+ITEM NAME: How To Sew: Medium Sizes
+
+
+
+How To Sew: Medium Sizes
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Alga Bruntbuckler
+
+
+
+  (-1185, -1957)
+
+
+ East Cabilis
+
+ Klok Stitch
+
+
+
+  (128, -9)
+
+
+ East Cabilis
+
+ Klok Tempar
+
+
+
+  (142, -19)
+
+
+ East Cabilis
+
+ Klok Scaznar
+
+
+
+  (53, -133)
+
+
+ West Cabilis
+
+ Gryzil
+
+
+
+  (391, 515)
+
+
+ West Commonlands
+
+ Peron ThreadSpinner
+
+
+
+  (-400, 2666)
+
+
+ Eastern Plains of Karana
+
+ Merchant Silvia
+
+
+
+  (1309, -2503)
+
+
+ East Commonlands
+
+ Loric Weaver
+
+
+
+  (-318, 3073)
+
+
+ Erudin
+
+ Gayle Weaven
+
+
+
+  (245, 88)
+
+
+ Erudin
+
+ Galbasi Weaver
+
+
+
+  (-755, -112)
+
+
+ Erudin
+
+ Monita Weaver
+
+
+
+  (-899, -159)
+
+
+ Erudin
+
+ Demicla Tanner
+
+
+
+  (-689, -101)
+
+
+ Everfrost Peaks
+
+ Seria O`Danos
+
+
+
+  (3608, 701)
+
+
+ Felwithe
+
+ Merchant Tissan
+
+
+
+  (-122, -359)
+
+
+ Felwithe
+
+ Merchant Silvenspin
+
+
+
+  (106, -454)
+
+
+ Felwithe
+
+ Merchant Moonthread
+
+
+
+  (435, -872)
+
+
+ Firiona Vie
+
+ Dionin Needlespin
+
+
+
+  (-3642, 1985)
+
+
+ East Freeport
+
+ Sanhan Tanner
+
+
+
+  (72, -568)
+
+
+ East Freeport
+
+ Winlar Tanner
+
+
+
+  (38, -561)
+
+
+ North Freeport
+
+ Wahnig Nooz
+
+
+
+  (-84, -184)
+
+
+ North Freeport
+
+ Jallen Nooz
+
+
+
+  (-104, -199)
+
+
+ North Freeport
+
+ Lystyn Wyspin
+
+
+
+  (27, -139)
+
+
+ North Freeport
+
+ Svinal Wyspin
+
+
+
+  (64, -154)
+
+
+ North Freeport
+
+ Falia Frikniller
+
+
+
+  (-107, 78)
+
+
+ West Freeport
+
+ Linadian
+
+
+
+  (56, -299)
+
+
+ Greater Faydark
+
+ Linadian
+
+
+
+  (-142, -545)
+
+
+ Greater Faydark
+
+ Merchant Aluwenae
+
+
+
+  (-336, -116)
+
+
+ Greater Faydark
+
+ Merchant Gaeadin
+
+
+
+  (-114, -131)
+
+
+ Halas
+
+ Cindl
+
+
+
+  (270, -171)
+
+
+ Halas
+
+ Mac
+
+
+
+  (308, -179)
+
+
+ Highpass Hold
+
+ Dyona Rossook
+
+
+
+  (-248, 135)
+
+
+ Kithicor Forest
+
+ Lena Leatherspinner
+
+
+
+  (-265, 4000)
+
+
+ Misty Thicket
+
+ Tipa Lighten
+
+
+
+  (581, -2202)
+
+
+ Neriak Third Gate
+
+ Hutyn L`Lozz
+
+
+
+  (747, -1293)
+
+
+ Northern Desert of Ro
+
+ Spoolie Gee
+
+
+
+  (3371, 488)
+
+
+ The Overthere
+
+ Tin Merchant IX
+
+
+
+  (2658, 2615)
+
+
+ Western Plains of Karana
+
+ Minya Coldtoes
+
+
+
+  (855, -1831)
+
+
+ Western Plains of Karana
+
+ Silna Weaver
+
+
+
+  (855, -1831)
+
+
+ Western Plains of Karana
+
+ Alysa
+
+
+
+  (431, -4364)
+
+
+ South Qeynos
+
+ Solani Dayadil
+
+
+
+  (-11, -195)
+
+
+ South Qeynos
+
+ Fhara Semhart
+
+
+
+  (399, -80)
+
+
+ South Qeynos
+
+ Iala Lenard
+
+
+
+  (177, -148)
+
+
+ North Qeynos
+
+ Nerissa Clothspinner
+
+
+
+  (83, 346)
+
+
+ Steamfont Mountains
+
+ Freed Fimplefur
+
+
+
+  (-1696, 829)
+
+
+ Thurgadin
+
+ Rexx Frostweaver
+
+
+
+  (-272, 133)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+This short book reads as follows:
+
+With your sewing kit, place the
+appropriate pattern and a ruined cat
+pelt into the sewing kit. If you follow
+through skillfully, you will produce the
+appropriate medium sized clothing.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

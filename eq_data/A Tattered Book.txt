@@ -1,0 +1,38 @@
+ITEM NAME: A Tattered Book
+
+Paineel Era (added February 2000)
+
+
+A Tattered Book
+
+
+LORE ITEM NO DROP NO RENT
+WT: 0.1 Size: TINY
+
+
+It reads,
+
+Another fool doth step upon this path to power. Another fool most assuredly will die.
+It is of no consequence if you succeed or fail, the outcome is yours to decide.
+What is needed from you is to stalk the land as the dark master you wish to be,
+and obtain the following components through stealth, guile, and deceit:
+An assassins Bloody mantle, a druid of renown's pure heart, and a crystal of capturing.
+When done, place them within the enchanted soul trap and incant upon them that they may be combined.
+If you have not failed miserably, take the resulting Soul Trap to the soul you wish to manipulate. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+Paineel
+
+ Azraxs' Legacy
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,44 @@
+ITEM NAME: Topaz Electrum Earring
+
+
+Topaz Electrum Earring
+
+
+Slot: EAR
+AC: 2
+SV DISEASE: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: Max Resale Value (Indifferent & 104 CHA)
+
+ 7 Platinums
+ 4 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 111)
+ Topaz Electrum Earring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Electrum Bar - Summoned
+  1 x Topaz - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,61 @@
+ITEM NAME: Ethereal Suspension
+
+
+
+Ethereal Suspension
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Firiona Vie
+
+ Brak Daggermist
+
+
+
+  (-3608, 2359)
+
+
+ Lake of Ill Omen
+
+ Nubs Blackgranite
+
+
+
+  (-2517, -2920)
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Make Poison
+
+
+
+

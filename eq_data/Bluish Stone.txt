@@ -1,0 +1,34 @@
+ITEM NAME: Bluish Stone
+
+Sky Era (added January 2000)
+
+
+
+Bluish Stone
+
+
+LORE ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a gorgalask
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Metamorphism
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

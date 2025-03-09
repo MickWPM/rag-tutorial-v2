@@ -1,0 +1,43 @@
+ITEM NAME: Glowing Worm Bile
+
+Velious Era (added December 2000-2001)
+
+
+Glowing Worm Bile
+
+
+MAGIC ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Confirmed drop off a young shardwurm outside of the cave, can drop up to two at once. The shardwurm will emit a glow at night if they are carrying the Glowing Worm Bile (shown in the left image below). The glow is also faintly visible during the day. The drops are about ~5% so you'll want to end up killing all shardwurms anyways to farm this efficiently.
+  
+
+  Drops From 
+Great Divide
+
+ a young shardwurm
+ an elder shardwurm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #5: Silk Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Glowing Crystalline Silk Piece x1
+ In Glowing Bile Soaker:
+
+
+  3 x Crystalline Silk Fiber - Crafted
+  1 x Glowing Worm Bile - Dropped
+
+
+
+
+

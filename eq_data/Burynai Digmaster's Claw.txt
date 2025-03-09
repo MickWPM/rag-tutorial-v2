@@ -1,0 +1,40 @@
+ITEM NAME: Burynai Digmaster's Claw
+
+Kunark Era (added 2000)
+
+Burynai Digmaster's Claw
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 5 
+STR: +2
+WT: 2.5  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+Burynai burrower
+
+Kurn's Tower
+
+ Burynai burrower
+ Diggory
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

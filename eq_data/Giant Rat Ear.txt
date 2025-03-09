@@ -1,0 +1,47 @@
+ITEM NAME: Giant Rat Ear
+
+
+
+Giant Rat Ear
+
+
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dagnor's Cauldron
+
+ a cauldron rat
+
+North Kaladim
+
+ Giant Rat
+
+Qeynos Aqueducts
+
+ a giant sewer rat
+ a nesting rat
+
+Steamfont Mountains
+
+ a giant rat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rat Ear Pie Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Uncooked Rat Ear Pie (trivial: unfinished 28; baked 142)
+
+
+
+
+

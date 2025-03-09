@@ -1,0 +1,57 @@
+ITEM NAME: Crushed Lava Ruby
+
+Velious Era (added December 2000-2001)
+
+Crushed Lava Ruby
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 24p 7g 
+
+  Drops From 
+Cobalt Scar
+
+ a haunted seachest
+ A wyvern (Cobalt Scar)
+
+Icewell Keep
+
+ a frost spike
+ an avalanche golem
+ Frosticube
+
+Siren's Grotto
+
+ an enthralled molkor
+ an enthralled ulthork
+
+The Wakening Land
+
+ a suit of sentient armor
+ A Faerie Dragon
+ Korzak Stonehammer
+
+Velketor's Labyrinth
+
+ a crystalline watcher
+ an Icepaw kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velious Class Armor
+ Priest Gloves  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

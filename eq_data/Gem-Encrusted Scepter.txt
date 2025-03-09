@@ -1,0 +1,38 @@
+ITEM NAME: Gem-Encrusted Scepter
+
+
+Gem-Encrusted Scepter
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 7 
+WIS: +5
+WT: 4.5  Size: MEDIUM
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+Vendors for 8.2p with average CHA. 
+
+  Drops From 
+Mistmoore Castle
+
+ Princess Cherista
+
+Kithicor Forest
+
+ War Priestess T`zan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

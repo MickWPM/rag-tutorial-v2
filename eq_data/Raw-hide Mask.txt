@@ -1,0 +1,109 @@
+ITEM NAME: Raw-hide Mask
+
+Classic Era (added 1999-2000)Were you looking for Large Raw-Hide Armor Set? Were you looking for Small Raw-Hide Armor Set?
+
+Raw-hide Mask
+
+
+Slot: FACE
+AC: 2
+WT: 0.6  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Raw-Hide Armor Set. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 4 Golds
+ 8 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Befallen
+
+ an elf skeleton
+
+Mistmoore Castle
+
+ a glyphed familiar
+ a pledge familiar
+ an initiate familiar
+
+Commonlands
+
+ a ghoul
+ a lesser mummy
+ a zombie
+ an orc legionnaire
+ orc legionnaire
+
+Crushbone
+
+ orc legionnaire
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+Erud's Crossing
+
+ a zombie sailor
+
+The Estate of Unrest
+
+ a ghoul
+
+Highpass Hold
+
+ an orc acolyte
+ an orc warrior
+ Recfek Shralok
+
+Lavastorm Mountains
+
+ goblin warrior
+
+Lesser Faydark
+
+ a rancorous ghast
+ orc chief
+
+Nektulos Forest
+
+ a rotting citizen
+ a rotting initiate
+
+Northern Desert of Ro
+
+ a crypt mummy
+ a desert madman
+ a ghoul
+ a lesser mummy
+ a madman
+ a shriveled mummy
+ dry bones skeleton
+
+Qeynos Hills
+
+ Misty Storyswapper
+
+Southern Desert of Ro
+
+ a desert madman
+ an orc priest
+ an orc warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

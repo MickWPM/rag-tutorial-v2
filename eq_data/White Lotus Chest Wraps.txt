@@ -1,0 +1,35 @@
+ITEM NAME: White Lotus Chest Wraps
+
+Velious Era (added December 2000-2001)
+
+
+White Lotus Chest Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 18
+STR: +14  DEX: +13  STA: +5  AGI: +13  HP: +60
+SV FIRE: +4  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+Effect: Invigorate (Must Equip, Casting Time: 15.0) at Level 50
+WT: 0.5  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Skyshrine Tunic
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

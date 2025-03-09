@@ -1,0 +1,36 @@
+ITEM NAME: Cursed Dye
+
+Kunark Era (added 2000)
+
+
+Cursed Dye
+
+
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Has no use until Legacy of Ykesha expansion. No use on P99. (I tried to make this for a possible skill-up but this recipe does not work at all. 10/9/20, Blue server.) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 135)
+ Yield: Cursed Dye x1
+ In Brewing Barrel:
+
+
+  1 x Cursed Clover of Viesar - Foraged, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

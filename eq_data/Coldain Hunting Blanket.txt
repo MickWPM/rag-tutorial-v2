@@ -1,0 +1,39 @@
+ITEM NAME: Coldain Hunting Blanket
+
+Velious Era (added December 2000-2001)
+
+
+Coldain Hunting Blanket
+
+
+NO DROP
+Slot: FINGER
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #1: Copper Coldain Insignia Ring
+
+  Player crafted 
+ Tailoring (Trivial: 41)
+ Yield: Coldain Hunting Blanket x1
+ In Large Sewing Kit:
+
+
+  2 x High Quality Cougarskin - Dropped
+  2 x High Quality Tundra Kodiak Pelt - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

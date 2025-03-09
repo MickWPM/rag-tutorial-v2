@@ -1,0 +1,27 @@
+ITEM NAME: Coin Pouch
+
+Classic Era (added 1999-2000)
+
+
+Coin Pouch
+
+
+LORE ITEM  NO DROP WT: 0.5 Weight Reduction: 0%  Capacity: 10 Size Capacity: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coin of Tash (Tashania spell)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

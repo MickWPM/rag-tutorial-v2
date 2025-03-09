@@ -1,0 +1,31 @@
+ITEM NAME: Mallet Hilt
+
+
+Mallet Hilt
+
+
+LORE ITEM
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Befallen
+
+ an elf skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Thex Mallet Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

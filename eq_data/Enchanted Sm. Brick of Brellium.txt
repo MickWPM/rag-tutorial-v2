@@ -1,0 +1,38 @@
+ITEM NAME: Enchanted Sm. Brick of Brellium
+
+
+
+Enchanted Sm. Brick of Brellium
+
+
+WT: 9.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 21)
+ Yield: Enchanted Sm. Brick of Brellium x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Ale - Bought
+  1 x Enchanted Lrg. Brick of Brellium - Summoned 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Sheet of Brellium (Trivial: 42)
+
+
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Finely Crafted Targ Shield
+
+
+Finely Crafted Targ Shield
+
+
+Slot: SECONDARY
+AC: 9
+WT: 7.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+ Merchant resale value: 1p 3s 
+
+  Drops From 
+Howling Stones
+
+ a sepulcher skeleton
+ elementalbone skeleton
+ greater plaguebone
+ greater war boned skeleton
+
+Lake of Ill Omen
+
+ charbone skeleton
+ icebone skeleton
+
+Warsliks Woods
+
+ an iksar manslayer
+ iksar pariah
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

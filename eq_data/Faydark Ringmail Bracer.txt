@@ -1,0 +1,30 @@
+ITEM NAME: Faydark Ringmail Bracer
+
+
+Faydark Ringmail Bracer
+
+
+Slot: WRIST
+AC: 5
+CHA: +2
+WT: 0.9  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except TRL OGR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Goblin Battlemasters
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

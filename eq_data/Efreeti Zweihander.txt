@@ -1,0 +1,36 @@
+ITEM NAME: Efreeti Zweihander
+
+Sky Era (added January 2000)
+
+Efreeti Zweihander
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 24 
+WT: 0.1  Size: SMALL
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Test of Compassion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

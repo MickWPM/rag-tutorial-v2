@@ -1,0 +1,32 @@
+ITEM NAME: Grachnist's Head
+
+
+
+Grachnist's Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 2.5  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dreadscale Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

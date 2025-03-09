@@ -1,0 +1,30 @@
+ITEM NAME: Bag of Sewn Evil-Eye
+
+Classic Era (added 1999-2000)
+
+Bag of Sewn Evil-Eye
+
+
+LORE ITEM
+WT: 3.0  Weight Reduction: 70%
+Capacity: 8  Size Capacity: LARGE
+
+
+ Item Lore (from Identify):  Bag of Sewn Evil-Eye 
+
+  Drops From 
+Lower Guk
+
+ an evil eye
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

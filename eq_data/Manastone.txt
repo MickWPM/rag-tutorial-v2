@@ -1,0 +1,41 @@
+ITEM NAME: Manastone
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Manastone
+
+
+MAGIC ITEM   Slot: PRIMARY SECONDARY Effect:  Mana Convert (Any Slot, Casting Time: Instant) WT: 1.0  Size: SMALL Class: CLR DRU BRD SHM NEC WIZ MAG ENC Race: ALL
+
+
+No longer drops on green (may/1/2020)
+This item ceases to drop by the October 1999 (Temple of Solro) Patch. See: Green_Server#Anticipated_Patch_Release_Schedule
+Only works in Old World (no Kunark, Velious, or Planar zones). Spell Effect converts 60 HP into 20 Mana. 
+
+  Drops From 
+Lower Guk
+
+ An Evil Eye (Lower Guk) No longer drops.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
+
+
+ Manastone equipped in the main hand.
+
+
+ Close-up detail of a Manastone.
+
+
+
+

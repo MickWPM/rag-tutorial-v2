@@ -1,0 +1,35 @@
+ITEM NAME: Nathsar Leggings
+
+Kunark Era (added 2000)
+
+Nathsar Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 12
+CHA: +4  WIS: +4  AGI: +4
+SV MAGIC: +2  SV POISON: +2
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Underboss Myli`ki
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

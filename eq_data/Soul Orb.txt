@@ -1,0 +1,47 @@
+ITEM NAME: Soul Orb
+
+Stonebrunt Era (added summer 2001)
+
+
+Soul Orb
+
+
+MAGIC ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: 15)
+ Yield: Purified Spirit Armor and a Soul Orb
+ In Kejek Forge:
+
+
+  1 x Any Crystallized Shadow Armor - Dropped
+  1 x Soulforge Hammer - Quested
+
+
+ Blacksmithing (Trivial: 15)
+ Yield: Purified Crystal Weapon and a Soul Orb
+ In Kejek Forge:
+
+
+  1 x Any Crystallized Shadow Weapon - Dropped
+  1 x Soulforge Hammer - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

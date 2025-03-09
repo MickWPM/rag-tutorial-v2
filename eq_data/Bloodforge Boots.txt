@@ -1,0 +1,30 @@
+ITEM NAME: Bloodforge Boots
+
+
+Bloodforge Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 5
+WT: 6.5  Size: MEDIUM
+Class: WAR CLR PAL
+Race: DWF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ogre Heads
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

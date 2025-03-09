@@ -1,0 +1,64 @@
+ITEM NAME: Iron Oxide
+
+
+Iron Oxide
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used to make "red rust" color dyes for Fine Plate Armor. 
+
+  Drops From 
+Erud's Crossing
+
+ a fire elemental
+
+Firiona Vie
+
+ a cliff golem
+
+Lavastorm Mountains
+
+ a fire elemental
+
+Nagafen's Lair
+
+ lava guardian
+
+Plane of Fear
+
+ Terror
+
+The Hole
+
+ an elemental warrior
+
+Solusek's Eye
+
+ blazing elemental
+
+Steamfont Mountains
+
+ an earth elemental
+
+The Overthere
+
+ a cliff golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Non-Tradeskill
+ Red Rust Dye (Trivial: No Fail)
+
+
+
+
+

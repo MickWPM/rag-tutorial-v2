@@ -1,0 +1,75 @@
+ITEM NAME: Nilitim's Grimoire Pg. 449
+
+
+
+Nilitim's Grimoire Pg. 449
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 1p 1g 2s 1c 
+
+  Drops From 
+Field of Bone
+
+ The Tangrin
+
+Kedge Keep
+
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Ocean of Tears
+
+ Allizewsaur
+
+Old Sebilis
+
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a nightmare
+ a samhain
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Hate
+
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+ A Raptor
+ A Vicious Raptor
+ Dinus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research
+ Reoccurring Amnesia (Trivial:182) (Research Only)
+
+
+
+
+

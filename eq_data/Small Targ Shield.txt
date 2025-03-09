@@ -1,0 +1,115 @@
+ITEM NAME: Small Targ Shield
+
+
+Small Targ Shield
+
+
+Slot: SECONDARY
+AC: 7
+WT: 5.6  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1285, -886)
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ West Commonlands
+
+ Ranon Strongarm
+
+
+
+  (-463, 2827)
+
+
+ East Commonlands
+
+ Altunic Jartin
+
+
+
+  (-115, 4734)
+
+
+ Felwithe
+
+ Merchant Tearlan
+
+
+
+  (-79, -385)
+
+
+ South Kaladim
+
+ Bindolmera Greybloom
+
+
+
+  (125, 399)
+
+
+ Paineel
+
+ Kervis Ackblor
+
+
+
+  (1097, 428)
+
+
+ South Qeynos
+
+ Raffy Conticede
+
+
+
+  (-282, -491)
+
+
+ Thurgadin
+
+ Caitlin Underbelly
+
+
+
+  (-435, -144)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

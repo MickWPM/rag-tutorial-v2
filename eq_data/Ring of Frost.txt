@@ -1,0 +1,51 @@
+ITEM NAME: Ring of Frost
+
+Velious Era (added December 2000-2001)
+
+
+
+Ring of Frost
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+INT: +3  MANA: +10
+WT: 0.1  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify):  Ring of Frost 
+
+  Drops From 
+Eastern Wastes
+
+ a blizzard dervish
+ a snow dervish
+ a wooly mammoth
+ a wooly rhino
+
+Great Divide
+
+ a frost giant elite
+
+Iceclad Ocean
+
+ a frost giant elite
+ a frost giant scout
+ a shadow guardian
+ a snow cougar
+ a snow dervish
+ Pulsating Icestorm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

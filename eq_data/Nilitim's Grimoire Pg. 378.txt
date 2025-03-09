@@ -1,0 +1,69 @@
+ITEM NAME: Nilitim's Grimoire Pg. 378
+
+Classic Era (added 1999-2000)
+Nilitim's Grimoire Pg. 378
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Cobalt Scar
+
+ a bulthar herdleader
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Old Sebilis
+
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+
+Permafrost
+
+ an ice giant
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Hate
+
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+a Vicious Raptor
+
+Neriak Foreign Quarter
+
+ Karnan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Allure (Trivial: 182)
+
+
+
+
+

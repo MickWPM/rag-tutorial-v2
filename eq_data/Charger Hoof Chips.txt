@@ -1,0 +1,32 @@
+ITEM NAME: Charger Hoof Chips
+
+
+
+Charger Hoof Chips
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 3.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Southern Karana
+
+ centaur charger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Vambraces
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

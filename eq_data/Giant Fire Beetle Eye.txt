@@ -1,0 +1,44 @@
+ITEM NAME: Giant Fire Beetle Eye
+
+Classic Era (added 1999-2000)
+
+Giant Fire Beetle Eye
+
+
+Charges: 1
+Effect: Enchant Silver
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Stats were adjusted at some point... In 1999-2000, the effect didn't require a component.[1]. At some point in the timeline the enchant silver charge is removed. 
+
+  Drops From 
+North Qeynos
+
+ Queen Klicnik
+
+Misty Thicket
+
+ Queen Klaknak
+
+Western Karana
+
+ a giant fire beetle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Several listed on alla, need confirmation that none are classic?  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Master Rune (Beza) (No Fail)
+
+
+
+
+

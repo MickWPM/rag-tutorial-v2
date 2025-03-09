@@ -1,0 +1,39 @@
+ITEM NAME: Barbarian Shaped Cookie
+
+Classic Era (added 1999-2000)
+
+
+Barbarian Shaped Cookie
+
+
+This is a snack!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 115)
+ Yield: Barbarian Shaped Cookies x5
+ In Oven:
+
+
+  1 x Clump of Dough - Crafted
+  1 x Frosting - Bought
+  1 x Spices - Bought
+  1 x Barbarian Shaped Cookie Cutter - Crafted, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

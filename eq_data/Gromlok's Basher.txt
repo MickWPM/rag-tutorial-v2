@@ -1,0 +1,37 @@
+ITEM NAME: Gromlok's Basher
+
+Kunark Era (added 2000)
+Notable in that it is the highest-delay weapon small race warriors can wield.
+
+
+Gromlok's Basher
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 85
+DMG: 30 
+STR: +3
+WT: 5.0  Size: LARGE
+Class: WAR SHD
+Race: ALL except HIE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Frontier Mountains
+
+ Gromlok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

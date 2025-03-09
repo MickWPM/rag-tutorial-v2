@@ -1,0 +1,36 @@
+ITEM NAME: Frostreaver's Embroidered Cloak
+
+Velious Era (added December 2000-2001)
+
+ Red99's Acidsmoke <Empire> wearing the Frostreaver's Embroidered Cloak
+Frostreaver's Embroidered Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 15
+CHA: +8  WIS: +8  INT: +8  MANA: +50
+SV FIRE: +15  SV COLD: +15
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Cloak of Coldain Kings 
+
+  Drops From 
+Icewell Keep
+
+ Dain Frostreaver IV
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

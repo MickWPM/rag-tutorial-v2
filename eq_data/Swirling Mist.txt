@@ -1,0 +1,49 @@
+ITEM NAME: Swirling Mist
+
+
+Swirling Mist
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+The best place to farm Swirling Mists is probably Najena. There are ten spots in Najena that seem to have a 50% chance to spawn a Mist Elemental. The elementals seem to have about a 25% drop rate, so it's reasonable to expect one Swirling Mist for each set of those ten elementals cleared. The respawn timer in Najena is twenty minutes, so three sets of spawns an hour means one will get about three swirling mists an hour. On average, of course, as sometimes the elementals won't drop anything for several hours in a row, and sometimes they'll drop three or four Swirling Mists back to back. 
+
+  Drops From 
+Lower Guk
+
+ a huge water elemental
+
+Najena
+
+ a mist elemental
+
+Plane of Sky
+
+ a crystalline cloud
+ a gust of wind
+
+Steamfont Mountains
+
+ a steam elemental
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Moonlight Temper (Trivial: 135)
+
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

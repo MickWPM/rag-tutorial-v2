@@ -1,0 +1,35 @@
+ITEM NAME: Ochre Tessera
+
+Sky Era (added January 2000)
+
+
+
+Ochre Tessera
+
+
+LORE ITEM
+WT: 10.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Tone
+ Cleric Test of Courage
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

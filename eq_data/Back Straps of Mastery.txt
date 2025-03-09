@@ -1,0 +1,32 @@
+ITEM NAME: Back Straps of Mastery
+
+
+
+Back Straps of Mastery
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK WRIST
+AC: 15
+STR: +7  STA: +7  CHA: +5  HP: +50
+WT: 0.3  Size: SMALL
+Class: MNK
+Race: ALL
+
+
+Post-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Strength
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Sebilite Scale Neckguard
+
+Kunark Era (added 2000)
+
+Sebilite Scale Neckguard
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 8
+MANA: +40
+SV COLD: +2  SV POISON: +2
+WT: 1.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+ Merchant resale value: 8pp 
+
+  Drops From 
+Old Sebilis
+
+ froglok ostiary
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

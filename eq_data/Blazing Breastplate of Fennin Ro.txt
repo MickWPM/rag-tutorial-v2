@@ -1,0 +1,39 @@
+ITEM NAME: Blazing Breastplate of Fennin Ro
+
+Epic Quests Era (added Sept 2000)
+
+ Sheesha models the Blazing Breastplate of Fennin Ro.
+Blazing Breastplate of Fennin Ro
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 20
+STR: +5  CHA: +8  WIS: +5  INT: +5
+SV FIRE: +20
+Effect:  Sunbeam (Any Slot/Can Equip, Casting Time: 4.0) at Level 45
+WT: 15.0  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Not Iksar usable at all 
+
+  Drops From 
+Nagafen's Lair
+
+ Zordakalicus Ragefire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

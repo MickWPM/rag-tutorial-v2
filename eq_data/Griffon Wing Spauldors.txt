@@ -1,0 +1,37 @@
+ITEM NAME: Griffon Wing Spauldors
+
+Rechargeable in Box of the Void with a Mana Battery - Class Five will destroy box.
+
+Sky Era (added January 2000)
+
+
+Griffon Wing Spauldors
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+Charges: 10
+AC: 9
+STR: +6  DEX: +6  AGI: +4  HP: +30
+Effect:  Levitate (Must Equip, Casting Time: Instant) at Level 45
+WT: 2.5  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Silence
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

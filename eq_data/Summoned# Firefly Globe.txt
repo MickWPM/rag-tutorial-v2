@@ -1,0 +1,31 @@
+ITEM NAME: Summoned: Firefly Globe
+
+Classic Era (added 1999-2000)
+
+
+Summoned: Firefly Globe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  TEMPORARY
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Light source product of Dance of the Fireflies spell. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

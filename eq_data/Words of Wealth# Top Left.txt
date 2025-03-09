@@ -1,0 +1,36 @@
+ITEM NAME: Words of Wealth: Top Left
+
+Velious Era (added December 2000-2001)
+
+
+Words of Wealth: Top Left
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Mischief
+
+ Random drop from most PoM mobs?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Non-Tradeskill
+ Words of Wealth (Trivial: No-Fail)
+
+
+
+
+

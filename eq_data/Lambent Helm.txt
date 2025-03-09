@@ -1,0 +1,32 @@
+ITEM NAME: Lambent Helm
+
+Temple Era (added October 1999)
+
+Lambent Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 13
+CHA: +3  INT: +5
+WT: 3.8  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lambent Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

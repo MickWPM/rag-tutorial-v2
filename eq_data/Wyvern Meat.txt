@@ -1,0 +1,34 @@
+ITEM NAME: Wyvern Meat
+
+Velious Era (added December 2000-2001)
+
+Wyvern Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ A_wyvern_(Cobalt_Scar)
+ Yvolcarn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Pickled Wyvern (Trivial: 75)
+
+
+
+
+

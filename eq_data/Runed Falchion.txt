@@ -1,0 +1,36 @@
+ITEM NAME: Runed Falchion
+
+Classic Era (added 1999-2000)
+
+Runed Falchion
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 34
+DMG: 11 
+This item can be used in tradeskills.
+WT: 2.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+This affordable sword has a very decent ratio for pre-Kunark characters not concerned with a damage bonus such as Druids and newbies. 
+ Merchant resale value: 72p 
+
+  Drops From 
+Lower Guk
+
+ a froglok crusader
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

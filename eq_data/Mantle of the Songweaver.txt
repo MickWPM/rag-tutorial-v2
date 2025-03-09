@@ -1,0 +1,35 @@
+ITEM NAME: Mantle of the Songweaver
+
+
+
+Mantle of the Songweaver
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+Charges: 5
+AC: 9
+STR: +7  DEX: +7  CHA: +5  AGI: +5
+SV MAGIC: +5
+Effect:  Fury (Must Equip, Casting Time: Instant) at Level 45
+WT: 2.5  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Voice
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

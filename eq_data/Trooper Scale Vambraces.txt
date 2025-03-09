@@ -1,0 +1,35 @@
+ITEM NAME: Trooper Scale Vambraces
+
+Epic Quests Era (added Sept 2000) Nov   2000  Era (added  Nov   2000 )
+
+
+
+Trooper Scale Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 11
+STR: +2  DEX: +2
+SV DISEASE: +2  SV POISON: +2
+WT: 3.0  Size: SMALL
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Vambraces
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

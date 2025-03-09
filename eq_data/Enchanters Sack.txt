@@ -1,0 +1,29 @@
+ITEM NAME: Enchanters Sack
+
+Kunark Era (added 2000)
+
+
+Enchanters Sack
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: LARGE
+
+
+Received from a sarnak imitator (a.k.a. Jeb Lumsed) or any of the four masters during the Enchanter epic. Say "I need a sack" 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

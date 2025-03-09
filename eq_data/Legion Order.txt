@@ -1,0 +1,31 @@
+ITEM NAME: Legion Order
+
+Kunark Era (added 2000)
+
+
+Legion Order
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+
+
+ Item Lore (from Identify): Restraint Order, 0 signed 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Restraining Order 
+
+  Book contents 
+By Order of Baron Eator. The following Troopers hereby relinquish their privilege to frequent the local tavern. Signed; Frogzin, Fryp, Gummin, Inkin, Nishnish
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Chestplate of the Constant
+
+Temple Era (added October 1999)
+
+Chestplate of the Constant
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 20
+STA: +8
+SV MAGIC: +5
+WT: 7.5  Size: LARGE
+Class: CLR
+Race: ALL except BAR ELF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Armor of the Priest Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

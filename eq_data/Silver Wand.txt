@@ -1,0 +1,37 @@
+ITEM NAME: Silver Wand
+
+Classic Era (added 1999-2000)
+
+
+Silver Wand
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 5 
+WT: 1.0  Size: MEDIUM
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Cazic Thule
+
+ a silvered guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Weeping Wand Quest
+ Incandescent Wand
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

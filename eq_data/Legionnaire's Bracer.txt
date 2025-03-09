@@ -1,0 +1,42 @@
+ITEM NAME: Legionnaire's Bracer
+
+
+Legionnaire's Bracer
+
+
+QUEST ITEM
+Slot: WRIST
+AC: 3
+WT: 2.0  Size: SMALL
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+West Commonlands
+
+ an orc legionnaire
+ orc legionnaire
+
+Crushbone
+
+ orc legionnaire
+
+Lesser Faydark
+
+ orc legionnaire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Orange Sash of Order
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

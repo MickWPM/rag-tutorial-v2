@@ -1,0 +1,37 @@
+ITEM NAME: Vile Sarnak Brew
+
+Chardok Revamp Era (added late 2001)
+
+Vile Sarnak Brew
+
+
+MAGIC ITEM  
+Slot: RANGE
+MANA: +50
+SV COLD: +10
+This is a miraculous drink!
+WT: 3.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Range slot item! Warning! This item can and will be consumed as a drink item if its not equipped in your range slot. Just keep it well below a stack of food to avoid a "doh" moment if not currently using.. [1]
+
+ Item Lore (from Identify): You could drink this for days! 
+
+  Drops From 
+Chardok
+
+ A Alchemist`s Acolyte
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

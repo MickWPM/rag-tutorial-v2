@@ -1,0 +1,35 @@
+ITEM NAME: Ivandyr's Hoop
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Ivandyr's Hoop
+
+
+MAGIC ITEM  LORE ITEM
+Slot: EAR
+Charges: 6
+AC: 6
+WIS: +6  INT: +6  HP: +6
+Effect:  Spirit Tap (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL except DRU MNK BRD
+Race: ALL except BAR ELF HIE DWF HFL
+
+
+Can no longer be sold to (or recharged by) merchants. No longer unresistable. Does not work in Veeshan's Peak. Also made a more rare reward than in classic, due to imbalance with raid mobs. (Sept 10, 2011 patch)[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lynuga's Gem Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

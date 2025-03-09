@@ -1,0 +1,33 @@
+ITEM NAME: Skinned Halfling Face Mask
+
+Kunark Era (added 2000)
+
+
+Skinned Halfling Face Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+Charges: 1
+Effect: Illusion: Halfling (Must Equip, Casting Time: Instant)
+WT: 0.0  Size: SMALL
+Class: CLR SHM
+Race: HUM DEF TRL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Innoruuk Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

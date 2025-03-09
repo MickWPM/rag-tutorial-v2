@@ -1,0 +1,35 @@
+ITEM NAME: Reinforced Dragonhide Gauntlets
+
+Velious Era (added December 2000-2001)
+
+Reinforced Dragonhide Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 12
+STR: +5
+SV FIRE: +9
+WT: 1.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Gangel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

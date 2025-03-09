@@ -1,0 +1,29 @@
+ITEM NAME: White and Blue Tunic*
+
+Classic Era (added 1999-2000)
+White and Blue Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 1.0  Size: MEDIUM
+Class: CLR PAL
+Race: HUM HEF
+
+
+Given to HUM and HEF Clerics and Paladins for turning in the note received during character creation to their respective guildmasters. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

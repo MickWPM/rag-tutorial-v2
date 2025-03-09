@@ -1,0 +1,508 @@
+ITEM NAME: Cat's Eye Agate
+
+
+Cat's Eye Agate
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors for around 1 gold 
+
+  Drops From 
+Toxxulia Forest
+
+ a fire beetle
+
+Clan Runnyeye
+
+ a goblin warlord
+
+Commonlands
+
+ Kizdean Gix
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+The Estate of Unrest
+
+ a tentacle terror
+
+Field of Bone
+
+ an iksar bandit
+ an Iksar footpad
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+ a pixie trickster
+
+Lake of Ill Omen
+
+ a goblin warrior
+ goblin warlord
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a brownie outcast
+ a fae drake
+ a fae drake hatchling
+ a faerie maiden
+ a pixie prankster
+ a pixie trickster
+
+Qeynos Aqueducts
+
+ a gelatinous cube
+
+Steamfont Mountains
+
+ a lesser ebon drake
+
+Swamp of No Hope
+
+ man eating shrub
+ venomous lamprey
+
+Warsliks Woods
+
+ goblin spirit caller
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1045, -1011)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1053, -1012)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ Crystal Caverns
+
+ Gilliad Coldheart
+
+
+
+  (-176, 344)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ Erudin Palace
+
+ Andane Starinen
+
+
+
+  (864, 737)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ South Felwithe
+
+ Merchant Lyssia
+
+
+
+  (580, -872)
+
+
+ South Felwithe
+
+ Merchant Earlyn
+
+
+
+  (464, -348)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ West Freeport
+
+ Dulia Jestes
+
+
+
+  (19, -817)
+
+
+ West Freeport
+
+ Voglan Dransed
+
+
+
+  (155, -762)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Highpass Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Veca S`Karn
+
+
+
+  (178, -919)
+
+
+ Neriak Commons
+
+ Mirzna N`Mar
+
+
+
+  (167, -875)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+  Forge House (F2)
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ Neriak Third Gate
+
+ Tzanso S`Tai
+
+
+
+  (-407, -834)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ The Overthere
+
+ Tin Merchant IV
+
+
+
+  (2647, 2525)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1008)
+
+  Related quests 
+ Earthen Boots Quest
+ A Job for Nanrum
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Cat Eye Necklace (Trivial: 24)
+ Electrum Cat Eye Bracelet  (Trivial: 84)
+ Golden Cat Eye Bracelet (Trivial: 156)
+ Cat Eye Platinum Necklace (Trivial: 228)
+ Cat Eye Velium Necklace (Trivial: ???)
+
+
+
+
+ Required Reagent for
+
+Phantom Armor
+Phantom Leather
+Rune I
+Shieldskin
+Symbol of Transal
+
+

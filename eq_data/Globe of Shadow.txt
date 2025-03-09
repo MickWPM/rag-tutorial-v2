@@ -1,0 +1,45 @@
+ITEM NAME: Globe of Shadow
+
+
+
+
+
+
+  MISSING INFO! Please expand the content.
+
+Classic Era (added 1999-2000)
+
+
+Globe of Shadow
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NEC
+Race: ERU DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Unknown if this drops from shadowed men too, or just from the nokta shaman in Upper Guk. 
+
+  Drops From 
+Upper Guk
+
+ a froglok nokta shaman
+
+Lesser Faydark
+
+ a shadowed man (?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Robe of Enshroudment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

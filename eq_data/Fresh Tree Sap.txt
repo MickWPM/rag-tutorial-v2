@@ -1,0 +1,36 @@
+ITEM NAME: Fresh Tree Sap
+
+Velious Era (added December 2000-2001)
+
+
+Fresh Tree Sap
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Captain Nalot's Triple Strength Rum
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Plane of Growth
+ The Wakening Land
+
+

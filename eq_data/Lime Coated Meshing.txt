@@ -1,0 +1,62 @@
+ITEM NAME: Lime Coated Meshing
+
+
+
+Lime Coated Meshing
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Sold for 158.5pp 
+ Merchant resale value: ~14pp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ The Overthere
+
+ Tin Merchant V
+
+
+
+  (2612, 2527)
+
+
+ Steamfont Mountains
+
+ Bom Knotwood
+
+
+
+  (175, -875)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+
+
+
+

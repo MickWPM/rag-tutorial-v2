@@ -1,0 +1,73 @@
+ITEM NAME: How to Dye and Stain
+
+
+
+How to Dye and Stain
+
+
+WT: 1.0  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Freeport
+
+ Trudie Steelbone
+
+
+
+  (-34, 470)
+
+
+ Rathe Mountains
+
+ Ukla
+
+
+
+  (1731, 1289)
+
+
+ Steamfont Mountains
+
+ Godbin Strumharp
+
+
+
+  (43, -618)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Making Dyes:
+Dyes are made from the extracts of plants and other organic material.
+You must go out and collect items from the environment to make the colors you desire.
+Some include: permafrost crystals, evergreen leafs, sarcoscypha fungus, russet oxide, jack-o-lantern fungus,
+iron oxide, and charcoal.
+Once you have collected an item, one who is skilled in the art of alchemy or poison making can extract the
+colors. This is done by combining it with a flask of water and an empty vial. This will create the extract.
+From here you must purchase resin, a medium clay jar and combine it with the extract. One, two, or three resins
+combined will provide a different shade of the color. Note: Only one resin is needed for russet and iron oxide.
+Staining your Armor:
+To apply your product to a piece of fine steel plate, you must forge the armor with lacquer, the dye, 
+and a jar of acid.
+Once this process is finished you will not be able to remove the stain from your armor.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

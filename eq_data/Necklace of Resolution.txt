@@ -1,0 +1,36 @@
+ITEM NAME: Necklace of Resolution
+
+Sky Era (added January 2000)
+
+
+Necklace of Resolution
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+Charges: 1
+AC: 4
+STR: +5  WIS: +7  HP: +30  MANA: +15
+Effect:  Complete Heal (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: TINY
+Class: CLR
+Race: ALL
+
+
+Recharged by combining with Mana Battery - Class Four in Box of the Void. 296pp Recharge, Port 252pp + 43 Battery + 1pp Box.
+It's required to yell in comms "NECKED" as soon as you utilize this item during a raid. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Resolution
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

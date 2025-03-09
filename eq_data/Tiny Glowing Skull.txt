@@ -1,0 +1,33 @@
+ITEM NAME: Tiny Glowing Skull
+
+Kunark Era (added 2000)
+
+Tiny Glowing Skull
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are two items with the same name, both used for Shaman Skull Quest No. 4.
+They identify as "Skull of Rok Nolok" and "Crusader of Rok Nolok". 
+
+  Drops From 
+Warsliks Woods
+
+ a goblin bloodtracer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 4
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

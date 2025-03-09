@@ -1,0 +1,64 @@
+ITEM NAME: Flawed Sea Sapphire
+
+Velious Era (added December 2000-2001)
+
+Flawed Sea Sapphire
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 49p 4g 
+
+  Drops From 
+Cobalt Scar
+
+ a bulthar
+ a cobalt drake
+ a haunted seachest
+ A wyvern (Cobalt Scar)
+ Yvolcarn
+
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari master
+ a dragon construct
+
+Siren's Grotto
+
+ a neriad maiden
+
+The Wakening Land
+
+ a geonid
+
+Velketor's Labyrinth
+
+ a crystal sentinel
+ a crystalline gargoyle
+ a frost spectre
+ a large crystal shard
+ a velium hunter
+ a velium stalker
+ An Icepaw Champion
+ an Icepaw kobold warrior
+ an Icepaw prophet
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velious Class Armor
+ Melee Legs  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

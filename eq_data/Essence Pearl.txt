@@ -1,0 +1,35 @@
+ITEM NAME: Essence Pearl
+
+Velious Era (added December 2000-2001)
+
+
+Essence Pearl
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+STA: +10  WIS: +10  INT: +10  HP: +65
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Pearl containing Klandicar's essence
+
+Note: Only exists post-Sleeper awakening. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Essence Lens Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

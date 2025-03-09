@@ -1,0 +1,31 @@
+ITEM NAME: Bloody Shank
+
+
+Bloody Shank
+
+
+LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 24
+DMG: 3 
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bloody Shank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

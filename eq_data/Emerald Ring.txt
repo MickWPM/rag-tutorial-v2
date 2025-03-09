@@ -1,0 +1,161 @@
+ITEM NAME: Emerald Ring
+
+Classic Era (added 1999-2000)
+
+Emerald Ring
+
+
+Slot: FINGER
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendor trash. 
+ Merchant resale value: 61.75pp with 75 CHA vs indifferent merchant 64pp 2g 2s best price 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ East Freeport
+
+ Tarker Gargurd
+
+
+
+  (61, -890)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

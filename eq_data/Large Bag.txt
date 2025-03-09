@@ -1,0 +1,672 @@
+ITEM NAME: Large Bag
+
+Classic Era (added 1999-2000)
+
+Large Bag
+
+
+WT: 1.0  Weight Reduction: 0%
+Capacity: 6  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+Befallen
+
+ a sturdy skeleton
+ a zombie
+
+Burning Woods
+
+ a tatterback ape
+ a tottering gorilla
+
+Butcherblock Mountains
+
+ a goblin whelp
+
+West Commonlands
+
+ a Dervish Cutthroat
+ orc legionnaire
+
+Crushbone
+
+ orc pawn
+
+Eastern Plains of Karana
+
+ a druid
+
+The Estate of Unrest
+
+ a festering hag
+
+Everfrost Peaks
+
+ an ice goblin whelp
+
+Beholder's Maze
+
+ a goblin lookout
+ a goblin sentry
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+
+Lake Rathetear
+
+ a gnoll high shaman
+
+Lesser Faydark
+
+ Shayla Nybright
+
+North Qeynos
+
+ a gnoll pup
+
+Northern Desert of Ro
+
+ a desert madman
+ a madman
+
+Qeynos Hills
+
+ a gnoll pup
+
+Solusek's Eye
+
+ young goblin
+
+Southern Desert of Ro
+
+ a desert madman
+
+Steamfont Mountains
+
+ a kobold runt
+
+ The Warrens 
+
+  a kobold runt 
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1265, -777)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (733, 153)
+
+
+ East Cabilis
+
+ Klok Vednir
+
+
+
+  (58, -8)
+
+
+ West Cabilis
+
+ Lybar
+
+
+
+  (292, 523)
+
+
+ West Commonlands
+
+ Ruby Boxcrafter
+
+
+
+  (-213, 591)
+
+
+ West Commonlands
+
+ Maula Fishcatcher
+
+
+
+  (405, 2408)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ Erudin
+
+ Nerth Sailwind
+
+
+
+  (232, 96)
+
+
+ Erudin
+
+ Luren Renthalis
+
+
+
+  (-1156, -61)
+
+
+ Erudin
+
+ Reihan Wilhemson
+
+
+
+  (-906, -88)
+
+
+ Erudin
+
+ Kisrin Breezeshadow
+
+
+
+  (230, -5)
+
+
+ Erudin
+
+ Reko Saltamer
+
+
+
+  (207, -5)
+
+
+ Erudin Palace
+
+ Vall Stonewisp
+
+
+
+  (590, 832)
+
+
+ Erudin Palace
+
+ Tan Monosty
+
+
+
+  (667, 829)
+
+
+ Erudin Palace
+
+ Judge Monosty
+
+
+
+  (689, 829)
+
+
+ Felwithe
+
+ Elytan Rantas
+
+
+
+  (41, -673)
+
+
+ Felwithe
+
+ Tam Slyspan
+
+
+
+  (245, -703)
+
+
+ Felwithe
+
+ Fishmonger Jassa
+
+
+
+  (162, -588)
+
+
+ Felwithe
+
+ Merchant Issynal
+
+
+
+  (147, -412)
+
+
+ Firiona Vie
+
+ Broawn Goshart
+
+
+
+  (-3863, 1673)
+
+
+ Firiona Vie
+
+ Dorg McMerin
+
+
+
+  (-3866, 1641)
+
+
+ Firiona Vie
+
+ Dom Pathfinder
+
+
+
+  (-2818, 2686)
+
+
+ East Freeport
+
+ Tanlok Harson
+
+
+
+  (87, -850)
+
+
+ East Freeport
+
+ Iseba Gargurd
+
+
+
+  (61, -882)
+
+
+ East Freeport
+
+ Tarker Gargurd
+
+
+
+  (61, -890)
+
+
+ Greater Faydark
+
+ Merchant Aildien
+
+
+
+  (-496, -133)
+
+
+ Greater Faydark
+
+ Merchant Aluuvila
+
+
+
+  (-94, 224)
+
+
+ Greater Faydark
+
+ Merchant Tilluen
+
+
+
+  (-85, 271)
+
+
+ Grobb
+
+ Graktak
+
+
+
+  (50, -396)
+
+
+ Halas
+
+ Rose McDowell
+
+
+
+  (397, 165)
+
+
+ Halas
+
+ Quillion O`Zinn
+
+
+
+  (-15, 66)
+
+
+ Highpass Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ Highpass Keep
+
+ Merchant Dominik
+
+
+
+  (37, 31)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ South Kaladim
+
+ Aarina Ratsbone
+
+
+
+  (183, -138)
+
+
+ Kithicor Forest
+
+ Eithne Walker
+
+
+
+  (1427, -825)
+
+
+ Lake Rathetear
+
+ Srynda
+
+
+
+  (-507, 637)
+
+
+ Neriak Foreign Quarter
+
+ Palais Derekor
+
+
+
+  (205, -111)
+
+
+ Neriak Commons
+
+ Mariz Ixtaz
+
+
+
+  (-163, -938)
+
+
+ Northern Karana
+
+ Mrysila
+
+
+
+  (-688, -159)
+
+
+ Northern Desert of Ro
+
+ Juni Sandfisher
+
+
+
+  (2185, -754)
+
+
+ Northern Desert of Ro
+
+ Tira Sandfisher
+
+
+
+  (2294, -790)
+
+
+ Oasis of Marr
+
+ Synthan
+
+
+
+  (597, -6)
+
+
+ Oggok
+
+ Brokk Boxtripper
+
+
+
+  (220, 378)
+
+
+ The Overthere
+
+ Tin Merchant II
+
+
+
+  (2694, 2583)
+
+
+ The Overthere
+
+ Klok G`rshai
+
+
+
+  (2212, -2912)
+
+
+ Paineel
+
+ Rallia Hapera
+
+
+
+  (941, 770)
+
+
+ Paineel
+
+ Geomar Hapera
+
+
+
+  (953, 757)
+
+
+ South Qeynos
+
+ Bassanio Weekin
+
+
+
+  (-40, -219)
+
+
+ South Qeynos
+
+ Captain Rohand
+
+
+
+  (15, -40)
+
+
+ South Qeynos
+
+ Fellesha Varshen
+
+
+
+  (487, -310)
+
+
+ South Qeynos
+
+ Raheim Varshen
+
+
+
+  (543, -263)
+
+
+ South Qeynos
+
+ Gahna Salbeen
+
+
+
+  (4, -220)
+
+
+ Rathe Mountains
+
+ Roshmael
+
+
+
+  (1592, -888)
+
+
+ Rivervale
+
+ bag merchant
+
+
+
+  (208, -214)
+
+
+ Rivervale
+
+ dock merchant
+
+
+
+  (203, -216)
+
+
+ Rivervale
+
+ Fiddy Bobick
+
+
+
+  (19, -428)
+
+
+ Solusek's Eye
+
+ goblin merchant
+
+
+
+  (-753, -437)
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+
+ Thurgadin
+
+ Agar
+
+
+
+  (-72, -379)
+
+
+ Toxxulia Forest
+
+ Stylla Parsini
+
+
+
+  (2105, 404)
+
+
+ Toxxulia Forest
+
+ Emil Parsini
+
+
+
+  (2119, 423)
+
+  Related quests 
+ Wolf Meat for Wista
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

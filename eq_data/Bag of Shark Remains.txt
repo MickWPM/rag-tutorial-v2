@@ -1,0 +1,38 @@
+ITEM NAME: Bag of Shark Remains
+
+Classic Era (added 1999-2000)
+
+
+Bag of Shark Remains
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Barnacle Breastplate Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No Fail)
+ Yield: Bag of Shark Remains
+ In Empty Shark Bag:
+
+
+  1 x Shark Skin
+  3 x Baby Shark Remains
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

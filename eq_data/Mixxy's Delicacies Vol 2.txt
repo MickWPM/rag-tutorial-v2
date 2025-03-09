@@ -1,0 +1,320 @@
+ITEM NAME: Mixxy's Delicacies Vol 2
+
+
+
+Mixxy's Delicacies Vol 2
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ East Cabilis
+
+ Klok Unlar
+
+
+
+  (531, 162)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ Erudin
+
+ Beth Breadmaker
+
+
+
+  (136, 109)
+
+
+ Erudin
+
+ Helia BlueHawk
+
+
+
+  (-1186, -333)
+
+
+ Firiona Vie
+
+ Glinya Sweetpie
+
+
+
+  (-2750, 2550)
+
+
+ North Freeport
+
+ Rashinda Elore
+
+
+
+  (290, 302)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Halas
+
+ Teria O`Danos
+
+
+
+  (-6, -33)
+
+
+ High Keep
+
+ Baker Jena
+
+
+
+  (46, -260)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ Neriak Foreign Quarter
+
+ Tal Drana
+
+
+
+  (106, -251)
+
+
+ Neriak Foreign Quarter
+
+ Sal Drana
+
+
+
+  (106, -238)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Paineel
+
+ Gorng Alusnein
+
+
+
+  (984, 636)
+
+
+ Paineel
+
+ Iva Tersala
+
+
+
+  (970, 649)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ RunnyEye Citadel
+
+ A goblin merchant
+
+
+
+  (8, 130), (60, 139)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Beer Braised Lion
+Don't be put off by the fact that this meat is tender and juicy. The flavor can be greatly enhanced if you allow lion meat to rot awhile before cooking.
+Ingredients: Lion Meat, Spices, Short Beer
+Cooking instructions: Fire a spit or oven. Delicately brush beer across the surface of the
+meat following the grain. Dredge in spices and grill. Continue adding beer until meat is golden in color. Serve medium-rare.
+Tastes great with: Berry Pie and Short Beer
+Mammoth Steaks
+Huge steaks with huge flavor. These juicy steaks are a treat for the hunter who can bring down the beast.
+Ingredients: Mammoth Meat, Spices, Jug of Sauces
+Cooking instructions: Fire a spit or oven for maximum heat. Remove fat to minimize spitting, and
+season generously. Add sauces and grill. Stand back when meat crackles and sputters. Eat when the meat falls from bone.
+Tastes great with: Candied Spider and Ale
+Pickled Gator
+Taste this tongue-twister! Sour and bubbly meets hot and rubbery. It confuses
+the taste buds just long enough for you to grab some Bog Juice and put out the fire.
+Ingredients: Alligator Meat, Vinegar
+Cooking Instructions: Dump gator chunklets into a jar, allowing space for
+bubbling. Quickly pour in enough vinegar to cover chunks, but quickly cover
+to reduce the chance of explosion. Eat when bubbles have stabilized.
+Tastes great with: Rat Ear Pie and Bog Juice
+Rabbit Stew
+If you catch one of these rascals while picking produce, just toss him into a pot for an easy entree.
+Ingredients: Rabbit, Flask of Water, 1 Pot
+Cooking Instructions: Drop rabbit bits into a pot of boiling water. When meat is tender, remove from heat and serve.
+Tastes great with: Snake on a Stick and Ale
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

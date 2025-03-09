@@ -1,0 +1,36 @@
+ITEM NAME: Theurgist
+
+Sky Era (added January 2000)
+
+
+Theurgist
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 13 
+WIS: +8  MANA: +40
+SV DISEASE: +25  SV POISON: +25
+Effect:  Blessing of the Theurgist (Combat) at Level 50
+WT: 4.0  Size: MEDIUM
+Class: CLR
+Race: ALL except
+
+
+Pre-upgrade version of Theurgist's Star. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Theurgy
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

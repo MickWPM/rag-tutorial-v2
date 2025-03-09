@@ -1,0 +1,50 @@
+ITEM NAME: Tares Lichen
+
+
+Tares Lichen
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 7 Golds
+ 6 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Everfrost Peaks
+
+ goblin lackey
+
+Permafrost
+
+ a goblin diviner
+ a goblin evoker
+ a goblin mendicant
+ an elite goblin guard
+ an ice goblin
+ the goblin sage
+ A goblin wizard (Permafrost)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Amnesic Lolium (Trivial: 236)
+
+
+
+
+

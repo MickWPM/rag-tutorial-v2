@@ -1,0 +1,34 @@
+ITEM NAME: Tolapumj's Robe
+
+Kunark Era (added 2000)
+
+Tolapumj's Robe
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 14
+STR: +5  WIS: +5  INT: +10  MANA: +50
+Haste: +36%  
+WT: 3.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+This item acts as a light source. 
+
+  Drops From 
+Old Sebilis
+
+ Tolapumj
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+

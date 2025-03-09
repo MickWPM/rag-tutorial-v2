@@ -1,0 +1,85 @@
+ITEM NAME: Small Brick of High Quality Ore
+
+Classic Era (added 1999-2000)
+
+Small Brick of High Quality Ore
+
+
+QUEST ITEM
+
+WT: 7.0  
+
+Size: SMALL
+
+Class: ALL
+
+Race: ALL
+
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 5 Platinums
+ 6 Golds
+ 5 Silvers
+ 0 Coppers
+
+Drops from goblins in SolA, Permafrost, and Highkeep. Vendors for 5.6p with average CHA.
+
+Use blacksmithing to convert bricks between small and large sizes, and also into small pieces. 
+
+  Drops From 
+High Keep
+
+ goblins (basement)
+
+Permafrost
+
+ an elite goblin guard
+ an ice goblin
+
+Runnyeye
+
+ A Sporali Miner
+
+Solusek's Eye
+
+ cinder goblin
+ fire goblin
+ flame goblin
+ inferno goblin
+ young goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 21 or 27?)
+ Yield: Small Brick of High Quality Ore x2
+ In Forge:
+
+
+  1 x Large Brick of High Quality Ore - Crafted, Dropped
+  1 x Smithing Chisel - Bought, Returned on Failure, Returned on Success
+
+
+ In Forge:
+
+
+  3 x Small Piece of High Quality Ore - Crafted
+  1 x Water Flask - Foraged, Crafted, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ High Quality Sheet Metal (Trivial: 36)
+ Large Brick of High Quality Ore (Trivial: 27)
+ Small Piece of High Quality Ore (Trivial: 21)
+
+
+
+
+

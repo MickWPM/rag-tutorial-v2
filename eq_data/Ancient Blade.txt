@@ -1,0 +1,31 @@
+ITEM NAME: Ancient Blade
+
+
+Ancient Blade
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Queen Velazul Di`zok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

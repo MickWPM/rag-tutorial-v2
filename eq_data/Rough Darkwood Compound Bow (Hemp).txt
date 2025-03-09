@@ -1,0 +1,41 @@
+ITEM NAME: Rough Darkwood Compound Bow (Hemp)
+
+Classic Era (added 1999-2000)
+Were you looking for Rough Darkwood Compound Bow (Linen)?
+Were you looking for Rough Darkwood Compound Bow (Silk)?
+
+Rough Darkwood Compound Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 58
+DMG: 23
+WT: 4.0  Range: 150  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 235)
+ Rough Darkwood Compound Bow (Hemp)
+ In Fletching Kit:
+
+
+  1 x Darkwood Bow Staff - Bought
+  1 x Hemp Twine - Bought
+  2 x Standard Bow Cam - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

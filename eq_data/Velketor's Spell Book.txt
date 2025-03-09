@@ -1,0 +1,36 @@
+ITEM NAME: Velketor's Spell Book
+
+Velious Era (added December 2000-2001)
+
+
+
+Velketor's Spell Book
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+STA: +5  CHA: +5  INT: +8  MANA: +100
+SV FIRE: +10  SV DISEASE: +5  SV COLD: +10  SV MAGIC: +20  SV POISON: +5
+WT: 0.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Velketor the Sorcerer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

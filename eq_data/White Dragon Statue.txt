@@ -1,0 +1,38 @@
+ITEM NAME: White Dragon Statue
+
+Velious Era (added December 2000-2001)
+White Dragon Statue
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+AC: 15
+STA: +15  INT: +15  HP: +50  MANA: +100
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+Effect: Flowing Thought I (Worn) 
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The First Arcane Test
+ Poison Tear (from Dozekar the Cursed)
+ Poison Symbol (Casalen or Tavekalem)
+ Runed Symbol (Grozzmel or Midayor)
+ Serrated Symbol (Lepethida)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

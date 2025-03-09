@@ -1,0 +1,32 @@
+ITEM NAME: Nickel Key
+
+Kunark Era (added 2000)
+
+Nickel Key
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Coppernickel Key ..I 
+
+  Drops From 
+Crypt of Dalnir
+
+ a coerced penkeeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Steel
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

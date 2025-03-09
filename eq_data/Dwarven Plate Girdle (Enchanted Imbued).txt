@@ -1,0 +1,45 @@
+ITEM NAME: Dwarven Plate Girdle (Enchanted Imbued)
+
+
+Dwarven Plate Girdle
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 10
+STR: +4  STA: +6  WIS: +3
+SV FIRE: +2  SV MAGIC: +3
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL
+Race: DWF HFL GNM
+Deity: Brell Serilis
+
+
+This is the imbued, deity restricted version of Enchanted Dwarven Plate Girdle. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 235)
+ Yield: Dwarven Plate Girdle x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Enchanted Brellium Jointing - Crafted
+  2 x Enchanted Folded Brellium Sheet - Crafted
+  1 x Imbued Ruby - Summoned
+  1 x Leather Padding - Crafted
+  1 x Small Plate Belt Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

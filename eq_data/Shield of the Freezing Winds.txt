@@ -1,0 +1,35 @@
+ITEM NAME: Shield of the Freezing Winds
+
+Velious Era (added December 2000-2001)
+
+
+Shield of the Freezing Winds
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 28
+STA: +5  HP: +60
+WT: 10.0  Size: MEDIUM
+Class: WAR CLR PAL SHD
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Velketor's Labyrinth
+
+ Velketor the Sorcerer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

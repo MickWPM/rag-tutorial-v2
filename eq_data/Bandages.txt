@@ -1,0 +1,1799 @@
+ITEM NAME: Bandages
+
+Classic Era (added 1999-2000)
+
+Bandages
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used in Bind Wound skill. 
+
+ Merchant resale value: 
+ 5 Silvers
+ 
+  Drops From 
+Ak'Anon
+
+ clockwork scrubber
+
+Butcherblock Mountains
+
+ a goblin whelp
+ Guard Burr
+
+Crushbone
+
+ orc pawn
+
+The Estate of Unrest
+
+ a festering hag
+
+Everfrost Peaks
+
+ an ice goblin whelp
+ ice goblin diver
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+
+Highpass Keep
+
+ Dyrna Nlith
+
+Lesser Faydark
+
+ Jayla Nybright
+ Shayla Nybright
+
+Misty Thicket
+
+ Mooto
+
+North Qeynos
+
+ a gnoll pup
+
+Qeynos Hills
+
+ a gnoll pup
+
+Steamfont Mountains
+
+ a kobold runt
+ a kobold scout
+ a kobold shaman
+
+ The Warrens 
+
+  a kobold runt 
+
+Western Plains of Karana
+
+ Ulrich McMannus
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ Ak'Anon
+
+ Drekon Vebnebber
+
+
+
+  (866, -475)
+
+
+ Ak'Anon
+
+ a clockwork priest
+
+
+
+  (1198, -551)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (484, -115)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1242, -775)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1284, -915)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1328, -778)
+
+
+ Butcherblock Mountains
+
+ Iglan Thranon
+
+
+
+  (2806, -904)
+
+
+ Butcherblock Mountains
+
+ Gamin Griststone
+
+
+
+  (2718, -941)
+
+
+ Butcherblock Mountains
+
+ Parn Gylwyn
+
+
+
+  (1465, 2817)
+
+
+ Butcherblock Mountains
+
+ Felen Razdal
+
+
+
+  (129, 2383)
+
+
+ East Cabilis
+
+ Rastok
+
+
+
+  (348, 11)
+
+
+ West Cabilis
+
+ Lybar
+
+
+
+  (292, 523)
+
+
+ West Commonlands
+
+ Innkeep Roster
+
+
+
+  (-149, 452)
+
+
+ West Commonlands
+
+ Innkeep Olissa
+
+
+
+  (-384, 2714)
+
+
+ Crystal Caverns
+
+ Milliace Gemshard
+
+
+
+  (-263, 233)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ Eastern Plains of Karana
+
+ Bradly
+
+
+
+  (-856, -99)
+
+
+ Eastern Plains of Karana
+
+ Stace
+
+
+
+  (1227, -2645)
+
+
+ Eastern Plains of Karana
+
+ Sorn
+
+
+
+  (1198, -2634)
+
+
+ Eastern Plains of Karana
+
+ Tanrak
+
+
+
+  (1529, -2677)
+
+
+ East Commonlands
+
+ Bubar
+
+
+
+  (-1519, -116)
+
+
+ East Commonlands
+
+ Ponila Quickfingers
+
+
+
+  (193, -855)
+
+
+ East Commonlands
+
+ Innkeep Harold
+
+
+
+  (-187, 117)
+
+
+ East Commonlands
+
+ Innkeep Dolman
+
+
+
+  (1028, 3682)
+
+
+ East Commonlands
+
+ Innkeep Juna
+
+
+
+  (-334, 3022)
+
+
+ East Commonlands
+
+ Germe Threadspinner
+
+
+
+  (1021, 3635)
+
+
+ East Commonlands
+
+ Innkeep Blaise
+
+
+
+  (332, 4842)
+
+
+ Erudin
+
+ Ayth Niphiria
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Stella Breezemoon
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Fhania Aserdon
+
+
+
+  (-1094, -470)
+
+
+ Erudin
+
+ Ghemna Nyjuss
+
+
+
+  (-1070, -398)
+
+
+ Erudin
+
+ Teria Finleather
+
+
+
+  (-956, -98)
+
+
+ Erudin
+
+ Borge Finleather
+
+
+
+  (-994, -78)
+
+
+ Erudin
+
+ Rem Knarjon
+
+
+
+  (-623, -71)
+
+
+ The Feerrott
+
+ Innkeep Gub
+
+
+
+  (1144, 1444)
+
+
+ The Feerrott
+
+ Innkeep Morpa
+
+
+
+  (1144, -145)
+
+
+ Felwithe
+
+ Rolyn Longwalker
+
+
+
+  (4, -384)
+
+
+ Felwithe
+
+ Merchant Sorintal
+
+
+
+  (136, -415)
+
+
+ Felwithe
+
+ Tylar Windspirit
+
+
+
+  (7, -256)
+
+
+ Felwithe
+
+ Isyna Firspanyl
+
+
+
+  (2, -468)
+
+
+ Firiona Vie
+
+ Dran Hieth
+
+
+
+  (-3132, 2953)
+
+
+ Firiona Vie
+
+ Leala Swiftarrow
+
+
+
+  (-3299, 3338)
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ East Freeport
+
+ Innkeep Paggie
+
+
+
+  (-7, -232)
+
+
+ East Freeport
+
+ Innkeep Rastle
+
+
+
+  (-22, -285)
+
+
+ East Freeport
+
+ Innkeep Nasumi
+
+
+
+  (-77, -720)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ East Freeport
+
+ Celanie Xtoria
+
+
+
+  (-205, -312)
+
+
+ East Freeport
+
+ Prasen Rusgor
+
+
+
+  (-64, -275)
+
+
+ East Freeport
+
+ Tenni Kohern
+
+
+
+  (-223, -886)
+
+
+ North Freeport
+
+ Gern Tassel
+
+
+
+  (70, -57)
+
+
+ North Freeport
+
+ Mevah Toklius
+
+
+
+  (89, 397)
+
+
+ North Freeport
+
+ Hulos Ghenar
+
+
+
+  (88, 269)
+
+
+ North Freeport
+
+ Jekel Enhied
+
+
+
+  (-117, 556)
+
+
+ North Freeport
+
+ Gibbon Morfield
+
+
+
+  (287, 284)
+
+
+ North Freeport
+
+ Yellus Gravien
+
+
+
+  (301, 273)
+
+
+ North Freeport
+
+ Jusia Vapious
+
+
+
+  (244, -133)
+
+
+ North Freeport
+
+ Tradesman Lyna
+
+
+
+  (-103, 191)
+
+
+ North Freeport
+
+ Tradesman Tulan
+
+
+
+  (-131, 209)
+
+
+ North Freeport
+
+ Innkeep Palola
+
+
+
+  (-187, -63)
+
+
+ North Freeport
+
+ Bran Greenglade
+
+
+
+  (-109, -128)
+
+
+ North Freeport
+
+ Alec Greenglade
+
+
+
+  (-94, -128)
+
+
+ North Freeport
+
+ Innkeep Rille
+
+
+
+  (72, 72)
+
+
+ North Freeport
+
+ Innkeep Evelona
+
+
+
+  (70, 56)
+
+
+ West Freeport
+
+ Asnod Marnoc
+
+
+
+  (-283, -798)
+
+
+ West Freeport
+
+ Fania Esruc
+
+
+
+  (-251, -820)
+
+
+ West Freeport
+
+ Tyeg Envil
+
+
+
+  (-246, -41)
+
+
+ Greater Faydark
+
+ Innkeep Anisyla
+
+
+
+  (-247, -435)
+
+
+ Greater Faydark
+
+ Innkeep Wuleran
+
+
+
+  (-337, 141)
+
+
+ Greater Faydark
+
+ Innkeep Larya
+
+
+
+  (940, 306)
+
+
+ Greater Faydark
+
+ Innkeep Linen
+
+
+
+  (726, 459)
+
+
+ Greater Faydark
+
+ Merchant Aianya
+
+
+
+  (251, 614)
+
+
+ Greater Faydark
+
+ Merchant Iludarae
+
+
+
+  (-29, -149)
+
+
+ Greater Faydark
+
+ Merchant Kwein
+
+
+
+  (155, 334)
+
+
+ Greater Faydark
+
+ Merchant Tenra
+
+
+
+  (-215, 255)
+
+
+ Greater Faydark
+
+ Merchant Gililya
+
+
+
+  (-481, -211)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Greater Faydark
+
+ Merchant Milania
+
+
+
+  (-623, 206)
+
+
+ Greater Faydark
+
+ Merchant Muvien
+
+
+
+  (311, 241)
+
+
+ Grobb
+
+ Gluku
+
+
+
+  (443, -1007)
+
+
+ Grobb
+
+ Kagbkek
+
+
+
+  (210, -213)
+
+
+ Grobb
+
+ Ootok
+
+
+
+  (233, -31)
+
+
+ Grobb
+
+ Zumzal
+
+
+
+  (329, -495)
+
+
+ Halas
+
+ Holana Oleary
+
+
+
+  (137, -337)
+
+
+ Halas
+
+ Dok
+
+
+
+  (212, 275)
+
+
+ Halas
+
+ Greta Terrilon
+
+
+
+  (280, -327)
+
+
+ Halas
+
+ Hetie McDonald
+
+
+
+  (240, -154)
+
+
+ Halas
+
+ Kar O`Dansin
+
+
+
+  (510, -505)
+
+
+ Halas
+
+ Leopok Terrilon
+
+
+
+  (205, 151)
+
+
+ Halas
+
+ Elona McMahon
+
+
+
+  (212, 184)
+
+
+ High Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ High Keep
+
+ Jail Clerk Maryl
+
+
+
+  (-1, -366)
+
+
+ Highpass Hold
+
+ Maigin Greyeagle
+
+
+
+  (179, 483)
+
+
+ Highpass Hold
+
+ Sernn Rossook
+
+
+
+  (-218, 154)
+
+
+ South Kaladim
+
+ Vacto Molunel
+
+
+
+  (33, 408)
+
+
+ South Kaladim
+
+ Handaaf Orcslicer
+
+
+
+  (-42, 428)
+
+
+ North Kaladim
+
+ Doramafi Ratsbone
+
+
+
+  (710, 88)
+
+
+ North Kaladim
+
+ Kafia Ratsbone
+
+
+
+  (594, 238)
+
+
+ North Kaladim
+
+ Darthur Nightseer
+
+
+
+  (947, 143)
+
+
+ North Kaladim
+
+ Baleki Nightseer
+
+
+
+  (765, 143)
+
+
+ Kithicor Forest
+
+ Innkeep Min
+
+
+
+  (1465, 2383)
+
+
+ Kithicor Forest
+
+ Elsbyth
+
+
+
+  (-776, 3082)
+
+
+ Kithicor Forest
+
+ Innkeep Jurn
+
+
+
+  (-281, 3821)
+
+
+ Kithicor Forest
+
+ Innkeep Grace
+
+
+
+  (1095, -684)
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ Lake Rathetear
+
+ Turga
+
+
+
+  (3126, -1815)
+
+
+ Lavastorm Mountains
+
+ Jenah Wheelspinner
+
+
+
+  (-401, 826)
+
+
+ Lesser Faydark
+
+ a brownie merchant
+
+
+
+  (1792, 3088)
+
+
+ Lesser Faydark
+
+ a brownie merchant
+
+
+
+  (1768, 3109)
+
+
+ Lesser Faydark
+
+ a brownie merchant
+
+
+
+  (1814, 3119)
+
+
+ Lesser Faydark
+
+ Anelia Thrywiel
+
+
+
+  (-307, 1242)
+
+
+ Neriak Foreign Quarter
+
+ Ootok
+
+
+
+  (-417, -457)
+
+
+ Neriak Foreign Quarter
+
+ Smaka
+
+
+
+  (-335, -107)
+
+
+ Neriak Foreign Quarter
+
+ Vala Tanbor
+
+
+
+  (210, -215)
+
+
+ Neriak Foreign Quarter
+
+ The Gobbler
+
+
+
+  (-323, -125)
+
+
+ Neriak Foreign Quarter
+
+ Bull Crusher
+
+
+
+  (-390, -252)
+
+
+ Neriak Foreign Quarter
+
+ Dran `slug` Rembor
+
+
+
+  (210, -244)
+
+
+ Neriak Foreign Quarter
+
+ Relgor
+
+
+
+  (-330, -352)
+
+
+ Neriak Foreign Quarter
+
+ Namarg
+
+
+
+  (-279, -422)
+
+
+ Neriak Commons
+
+ Dunred M`Trik
+
+  The Refined Palate (bank tunnel)
+
+  (71, -866)
+
+
+ Neriak Commons
+
+ Volkoon D`Dbth
+
+
+
+  (-43, -1030)
+
+
+ Neriak Commons
+
+ Issva H`Rugla
+
+
+
+  (-74, -1123)
+
+
+ Neriak Third Gate
+
+ Cazum N`Tan
+
+
+
+  (1335, -1269)
+
+
+ Neriak Third Gate
+
+ Jerris W`Selo
+
+  Rogue Guild
+
+  (630, -1402)
+
+
+ Neriak Third Gate
+
+ Kanthu M`Rekkor
+
+  Rogue Guild
+
+  (621, -1351)
+
+
+ Neriak Third Gate
+
+ Tzanso S`Tai
+
+
+
+  (408, -836)
+
+
+ Northern Karana
+
+ Romella
+
+
+
+  (-682, -201)
+
+
+ Northern Karana
+
+ Innkeep Disda
+
+
+
+  (118, 1382)
+
+
+ Northern Karana
+
+ Innkeep James
+
+
+
+  (156, 1379)
+
+
+ Northern Desert of Ro
+
+ Murissa Sandwhisper
+
+
+
+  (3712, 126)
+
+
+ Northern Desert of Ro
+
+ Innkeep Valon
+
+
+
+  (3415, 503)
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ Ocean of Tears
+
+ Endan Halson
+
+
+
+  (-2211, 7721)
+
+
+ Ocean of Tears
+
+ Doran Vargnus
+
+
+
+  (1280, -9245)
+
+
+ Oggok
+
+ Angrog
+
+
+
+  (-243, -2)
+
+
+ Oggok
+
+ Sinsaal
+
+
+
+  (267, 677)
+
+
+ Oggok
+
+ Crunga
+
+
+
+  (548, -176)
+
+
+ Oggok
+
+ Erung
+
+
+
+  (512, -183)
+
+
+ Oggok
+
+ Rora Dirtstamp
+
+
+
+  (212, -372)
+
+
+ Oggok
+
+ Iksob Darkchaser
+
+
+
+  (273, 11)
+
+
+ Oggok
+
+ Snarg Bonesmacker
+
+
+
+  (83, 1)
+
+
+ The Overthere
+
+ Tin Merchant I
+
+
+
+  (2733, 2582)
+
+
+ The Overthere
+
+ Klok G`rshai
+
+
+
+  (2212, -2912)
+
+
+ Paineel
+
+ Tenralus Brackmar
+
+
+
+  (1225, 523)
+
+
+ Paineel
+
+ Rallia Hapera
+
+
+
+  (941, 770)
+
+
+ Paineel
+
+ Geomar Hapera
+
+
+
+  (953, 757)
+
+
+ Western Plains of Karana
+
+ Innkeep Rislarn
+
+
+
+  (326, -4417)
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+
+ South Qeynos
+
+ Bisdlo Ravtahm
+
+
+
+  (-258, -525)
+
+
+ South Qeynos
+
+ Rabley Trumend
+
+
+
+  (35, -550)
+
+
+ South Qeynos
+
+ Ghul Rustem
+
+
+
+  (-307, -28)
+
+
+ North Qeynos
+
+ Tyokan Mekase
+
+
+
+  (-161, -146)
+
+
+ North Qeynos
+
+ Whysia Flock
+
+
+
+  (-161, -146)
+
+
+ North Qeynos
+
+ Tubal Weaver
+
+
+
+  (216, 94)
+
+
+ North Qeynos
+
+ Tanlyn Galliway
+
+
+
+  (125, 204)
+
+
+ North Qeynos
+
+ Sneed Galliway
+
+
+
+  (132, 243)
+
+
+ North Qeynos
+
+ Shenro Kazpur
+
+
+
+  (257, 302)
+
+
+ North Qeynos
+
+ Ghil Starn
+
+
+
+  (157, 195)
+
+
+ Surefall Glade
+
+ Sequea Erthinon
+
+
+
+  (-155, -293)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Rathe Mountains
+
+ Guzzla
+
+
+
+  (1760, 1288)
+
+
+ Rathe Mountains
+
+ Ukla
+
+
+
+  (1731, 1289)
+
+
+ Rathe Mountains
+
+ Viira Bali
+
+
+
+  (1644, -875)
+
+
+ Rathe Mountains
+
+ Philicia Drinn
+
+
+
+  (4002, -1359)
+
+
+ Rathe Mountains
+
+ Sven Drinn
+
+
+
+  (3992, -1383)
+
+
+ Rathe Mountains
+
+ Susanna
+
+
+
+  (2908, -769)
+
+
+ Rathe Mountains
+
+ Innkeep Troy
+
+
+
+  (4283, 842)
+
+
+ Rathe Mountains
+
+ Innkeep Serge
+
+
+
+  (4294, 831)
+
+
+ Rathe Mountains
+
+ Chandra Kali
+
+
+
+  (3922, 1390)
+
+
+ Rathe Mountains
+
+ Lianna Ferasa
+
+
+
+  (3989, 1477)
+
+
+ Rivervale
+
+ Gaffin Deeppockets
+
+
+
+  (-53, -178)
+
+
+ Rivervale
+
+ Crista Tagglefoot
+
+
+
+  (-69, -381)
+
+
+ Rivervale
+
+ Pipple Purpleroot
+
+
+
+  (-246, -351)
+
+
+ Rivervale
+
+ Wibble Bramblebush
+
+
+
+  (6, -329)
+
+
+ Rivervale
+
+ Rantho Goobler
+
+
+
+  (85, -140)
+
+
+ Skyshrine
+
+ Raelrik
+
+
+
+  (353, -625)
+
+
+ Skyshrine
+
+ Tulgadin
+
+
+
+  (383, -625)
+
+
+ Solusek's Eye
+
+ goblin merchant
+
+
+
+  (-753, -437)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ Steamfont Mountains
+
+ Glen Garginburr
+
+
+
+  (-1786, 337)
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+
+ Thurgadin
+
+ Brigam
+
+
+
+  (-208, 485)
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (6, 897)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (52, 928)
+
+
+ Timorous Deep
+
+ Seloris Windweaver
+
+
+
+  (-4867, -3439)
+
+  Related quests 
+ Bandages for Honeybugger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

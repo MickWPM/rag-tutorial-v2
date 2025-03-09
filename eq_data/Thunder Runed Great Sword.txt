@@ -1,0 +1,40 @@
+ITEM NAME: Thunder Runed Great Sword
+
+Velious Era (added December 2000-2001)
+ 
+Thunder Runed Great Sword
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 41
+DMG: 29 
+SV MAGIC: +7
+Effect: Strike of Thunder (Combat, Casting Time: Instant) at Level 45
+WT: 0.0  Size: TINY
+Class: WAR PAL SHD
+Race: ALL
+
+
+ Item Lore (from Identify): Thunder Striker  Known informally as the emo blade, the suicide sword, the kamikaze katana, this sword procs a targeted AOE DoT which will also affect the user. Use with caution.
+Contrary to misconception, this sword has a normal proc rate. Its AOE DoT is applied like a rain spell without direct damage, which results in three emotes to the user when the user is hit. 
+
+  Drops From 
+Kael Drakkel
+
+ a guardian of Zek
+ Armor of Zek
+ Trooper Derheim
+ Trooper Relhjorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

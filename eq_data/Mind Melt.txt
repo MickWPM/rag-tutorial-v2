@@ -1,0 +1,43 @@
+ITEM NAME: Mind Melt
+
+Velious Era (added December 2000-2001)
+
+Mind Melt
+
+
+QUEST ITEM
+Effect:  System Shock V (Combat, Casting Time: Instant) at Level 50
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #9: Coldain Hero's Insignia Ring
+
+  Player crafted 
+ Poison Making (Trivial: 322)
+ Yield: Mind Melt x1
+ In Mortar and Pestle:
+
+
+  1 x Ethereal Suspension - Bought
+  2 x Mt. Death Mineral Salts - Dropped
+  1 x Quicksilver - Crafted
+  1 x Sealed Poison Vial - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ Brewing
+ Tainted Avalanche Ale (Trivial: 248)
+
+
+
+
+

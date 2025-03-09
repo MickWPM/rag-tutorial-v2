@@ -1,0 +1,37 @@
+ITEM NAME: Tattered Tomb Shroud
+
+Kunark Era (added 2000)
+
+ 
+Tattered Tomb Shroud
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 5
+CHA: -10  INT: +2  HP: +30
+SV FIRE: -2
+WT: 1.0  Size: MEDIUM
+Class: NEC
+Race: ALL
+
+
+ Item Lore (from Identify): Grave Clothes 
+ Merchant resale value: ~20pp. 
+
+  Drops From 
+Crypt of Dalnir
+
+ a coerced revenant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

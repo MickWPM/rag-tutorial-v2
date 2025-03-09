@@ -1,0 +1,39 @@
+ITEM NAME: Rune Etched Boots
+
+
+
+Rune Etched Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 14
+AGI: +9  HP: +20
+SV COLD: +7
+WT: 4.9  Size: MEDIUM
+Class: SHM
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ phoboplasm
+
+Plane of Hate
+
+ a spite golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

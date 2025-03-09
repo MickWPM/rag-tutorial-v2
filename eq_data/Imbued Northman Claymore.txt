@@ -1,0 +1,46 @@
+ITEM NAME: Imbued Northman Claymore
+
+
+
+Imbued Northman Claymore
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 44
+DMG: 14 
+STA: +4
+SV COLD: +2
+WT: 11.5  Size: LARGE
+Class: WAR
+Race: HUM BAR HEF
+Deity: The Tribunal / Rallos Zek
+
+
+Note: There are two identically named items, diety restricted to either The Tribunal (if made with Imbued Ivory) or Rallos Zek (if made with Imbued Jade). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 142)
+ Yield: Imbued Northman Claymore x1
+ In Northman Forge:
+
+
+  1 x Frost Temper - Crafted
+  1 x Heavy Steel Blade Mold - Bought
+  1 x Hilt Mold - Bought
+  1 x Imbued Ivory (The Tribunal) or Imbued Jade (Rallos Zek) - Summoned
+  1 x Medium Quality Folded Sheet Metal - Crafted
+  1 x Pommel Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

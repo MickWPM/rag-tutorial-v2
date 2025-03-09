@@ -1,0 +1,29 @@
+ITEM NAME: Glowing Chest
+
+Classic Era (added 1999-2000)
+
+
+Glowing Chest
+
+
+LORE ITEM  NO DROP  TEMPORARY
+WT: 0.2  Weight Reduction: 0%
+Capacity: 10  Size Capacity: SMALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tarton's Wheel
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

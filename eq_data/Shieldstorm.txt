@@ -1,0 +1,39 @@
+ITEM NAME: Shieldstorm
+
+Kunark Era (added 2000)
+
+Shieldstorm
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 43
+DMG: 22   AC: 15
+STR: +5  DEX: +10  AGI: +10
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Spirit Armor (Combat, Casting Time: Instant) at Level 50
+WT: 10.0  Size: LARGE
+Class: WAR PAL
+Race: ALL
+
+
+
+ Merchant resale value: 345pp 
+
+  Drops From 
+Old Sebilis
+
+ froglok jin shaman
+ froglok jin wizard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

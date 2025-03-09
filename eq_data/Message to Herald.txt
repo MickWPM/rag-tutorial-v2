@@ -1,0 +1,30 @@
+ITEM NAME: Message to Herald
+
+Velious Era (added December 2000-2001)
+
+
+Message to Herald
+
+
+LORE ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Key to Cobalt Scar
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

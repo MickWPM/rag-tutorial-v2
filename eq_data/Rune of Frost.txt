@@ -1,0 +1,71 @@
+ITEM NAME: Rune of Frost
+
+
+Rune of Frost
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 2p 5g 2s 1c 
+
+  Drops From 
+Cobalt Scar
+
+ Chief Kalan
+
+Kedge Keep
+
+ a swirlspine seahorse
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Permafrost
+
+ an ice giant
+ an icy terror
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a gorgon
+ a samhain
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Hate
+
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+a Vicious Raptor
+
+Skyfire Mountains
+
+ a lava walker (Wyvern)
+ Zordakalicus Ragefire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Ice Comet (Trivial: 184) (Research Only)
+
+
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: A Nicked Coin
+
+Classic Era (added 1999-2000)
+
+
+A Nicked Coin
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Circle of Unseen Hand Coin 
+
+  Drops From 
+Erudin
+
+ Cenn Lostin
+ Grendin Maze
+ Lenya Wisk
+ Megan Tiglin
+ Taler Bilge
+ Zip Fendil
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleanse the Ocean
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

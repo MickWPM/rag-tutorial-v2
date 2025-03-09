@@ -1,0 +1,36 @@
+ITEM NAME: Adamantium Earring
+
+Sky Era (added January 2000)
+
+
+Adamantium Earring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+MANA: +5
+SV FIRE: +5
+WT: 1.0  Size: MEDIUM
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzt Zzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Disillusion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

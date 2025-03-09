@@ -1,0 +1,44 @@
+ITEM NAME: Giant Scarab Legs
+
+
+Giant Scarab Legs
+
+
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 5 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a giant scarab
+
+The Estate of Unrest
+
+ a death beetle
+
+Northern Desert of Ro
+
+ a sand scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

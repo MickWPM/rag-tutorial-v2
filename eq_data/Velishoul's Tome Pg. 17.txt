@@ -1,0 +1,48 @@
+ITEM NAME: Velishoul's Tome Pg. 17
+
+
+
+Velishoul's Tome Pg.17
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 6 Golds
+ 4 Silvers
+ 7 Coppers 
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Ocean of Tears
+
+ An isle goblin
+
+Iceclad Ocean
+
+ a shadow guardian
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Invigor (Trivial: 62)
+
+
+
+
+

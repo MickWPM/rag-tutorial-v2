@@ -1,0 +1,121 @@
+ITEM NAME: Mithril Amulet
+
+Classic Era (added 1999-2000)
+
+Mithril Amulet
+
+
+Slot: NECK
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendor trash. Likely random drop from any mid-level mob. 
+ Merchant resale value: 98p 8g 
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+ a scoriae hornet
+ a tatterback ape
+ an ember hornet
+ Gorgul Paclock
+
+City of Mist
+
+ a phantom
+
+Clan RunnyEye
+
+ Lord Pickclaw
+
+Cobalt Scar
+
+ a cobalt drake
+
+Erud's Crossing
+
+ a killer shark
+
+Great Divide
+
+ an ancient shardwurm
+
+High Keep
+
+ Captain Boshinko
+ Carson McCabe
+
+Howling Stones
+
+ a pyre golem
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ a Drolvarg warlord
+ spectral knight
+
+Kedge Keep
+
+ a gloomstalker mermaid
+ a gloomwater mermaid
+
+Ocean of Tears
+
+ a seafury cyclops
+
+Old Sebilis
+
+ a sebilite golem
+
+Plane of Fear
+
+ a boogeyman
+ a fetid fiend
+ a glare lord
+ a nightmare
+ a samhain
+ a scareling
+ Amygdalan knight
+
+Siren's Grotto
+
+ a neriad mistress
+ a siren beguiler
+ a siren myrmidon
+ a siren templar
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a skycinder drake
+
+Southern Desert of Ro
+
+ an ancient cyclops
+
+The Wakening Land
+
+ a faerie dragon
+ a geonid
+ a holgresh conjurer
+
+Trakanon's Teeth
+
+ spectral champion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

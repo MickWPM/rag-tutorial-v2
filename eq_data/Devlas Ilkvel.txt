@@ -1,0 +1,35 @@
+ITEM NAME: Devlas Ilkvel
+
+Classic Era (added 1999-2000)
+
+Devlas Ilkvel
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 12
+DEX: +5
+SV POISON: +7
+WT: 7.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Splitpaw Lair
+
+ Nisch Val Torash Mashk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

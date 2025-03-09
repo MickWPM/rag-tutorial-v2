@@ -1,0 +1,229 @@
+ITEM NAME: Cloth Sandals
+
+Classic Era (added 1999-2000)Were you looking for Large Cloth Armor Set? Were you looking for Small Cloth Armor Set?
+
+Cloth Sandals
+
+
+Slot: FEET
+AC: 2
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL except DWF HFL GNM
+
+
+Part of the Cloth Armor Set. 
+
+  Drops From 
+Befallen
+
+ a zombie
+ an elf skeleton
+
+Butcherblock Mountains
+
+ a goblin
+ a goblin shaman
+ a goblin warrior
+ a goblin wizard
+
+Commonlands
+
+ a decaying skeleton
+ a Dervish Cutthroat
+ a lesser mummy
+ a zombie
+ orc oracle
+
+Crushbone
+
+ orc emissary
+ orc slaver
+
+Dagnor's Cauldron
+
+ an exiled legionnaire
+
+East Freeport
+
+ Jak Sindin
+
+Everfrost Peaks
+
+ a decaying skeleton
+
+Greater Faydark
+
+ a decaying skeleton
+
+Lesser Faydark
+
+ a rancorous ghast
+
+Misty Thicket
+
+ Mooto
+ orc centurion
+ orc oracle
+
+Rathe Mountains
+
+ a zombie
+
+Najena
+
+ a goblin warrior
+ a greater skeleton
+
+Nektulos Forest
+
+ a deathfist legionnaire
+ a deathfist templar
+ a decaying skeleton
+ a lesser mummy
+ a rotting citizen
+ a rotting initiate
+ a zombie
+
+North Qeynos
+
+ a decaying skeleton
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a Dervish Thug
+
+Ocean of Tears
+
+ a greater skeleton
+
+Southern Karana
+
+ a skeleton
+ Brother Drash
+
+Southern Desert of Ro
+
+ an orc cleric
+
+Steamfont Mountains
+
+ a skeleton
+ Yendar Starpyre
+
+The Feerrott
+
+ Cyndreela
+
+ Velketor's Labyrinth 
+
+  a cold shade 
+  a cold spectre 
+
+West Freeport
+
+ a decaying skeleton
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Kamzar
+
+
+
+  (184, 544)
+
+
+ Felwithe
+
+ Merchant Deerchaser
+
+
+
+  (148, -456)
+
+
+ Kithicor Forest
+
+ Clomen Walker
+
+
+
+  (1443, -840)
+
+
+ Northern Desert of Ro
+
+ Murissa Sandwhisper
+
+
+
+  (3712, 126)
+
+
+ Paineel
+
+ Pardas Nalue
+
+
+
+  (944, 678)
+
+
+ South Qeynos
+
+ Solani Dayadil
+
+
+
+  (-11, -195)
+
+
+ North Qeynos
+
+ Rodgar the Tall
+
+
+
+  (-89, -7)
+
+
+ North Qeynos
+
+ Gerault Takenmaul
+
+
+
+  (-64, 19)
+
+
+ Western Plains of Karana
+
+ Minya Coldtoes
+
+
+
+  (855, -1831)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

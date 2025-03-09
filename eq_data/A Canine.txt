@@ -1,0 +1,52 @@
+ITEM NAME: A Canine
+
+Kunark Era (added 2000)
+
+
+A Canine
+
+
+NODROP
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Drolvarg Tooth 
+
+  Drops From 
+Crypt of Dalnir
+
+ a coerced dwarf
+ a coerced goblin
+ a coerced Iksar
+ a coerced Teir`Dal
+ a kly acolyte
+
+Dreadlands
+
+ a drolvarg growler
+ a drolvarg gnasher
+ a drolvarg rager
+ a drolvarg snarler
+ a ravishing drolvarg
+
+Firiona Vie
+
+ a drolvarg growler
+ a drolvarg savage
+ a drolvarg scavenger
+ a drolvarg snarler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Drolvarg Teeth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

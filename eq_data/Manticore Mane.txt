@@ -1,0 +1,34 @@
+ITEM NAME: Manticore Mane
+
+Velious Era (added December 2000-2001)
+
+Manticore Mane
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a manticore
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #6: Embroidered Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Spool of Sacred Coldain Thread (Trivial: 162)
+
+
+
+
+

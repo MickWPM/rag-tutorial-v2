@@ -1,0 +1,33 @@
+ITEM NAME: Disciple Symbol of Innoruuk
+
+Kunark Era (added 2000)
+Disciple Symbol of Innoruuk
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 5
+WIS: +2  INT: +1  MANA: +7
+Effect:  Siphon Strength (Must Equip, Casting Time: 6.0) at Level 5
+WT: 0.1  Size: TINY
+Class: CLR SHM
+Race: HUM DEF TRL
+Deity: Innoruuk
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Innoruuk Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

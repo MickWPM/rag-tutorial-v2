@@ -1,0 +1,38 @@
+ITEM NAME: A Koada'Dal Blood Doll
+
+Kunark Era (added 2000)
+
+Koada'Dal Blood Doll
+
+
+LORE ITEM  NO DROP  
+Slot: SECONDARY
+CHA: +3
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Goblin Blood Doll Doesn't appear to have any known use. (Just a freebie CHA item) 
+
+  Drops From 
+Lake of Ill Omen
+
+ a goblin soothsayer
+
+Warsliks Woods
+
+ a goblin soothsayer
+ goblin spirit caller
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

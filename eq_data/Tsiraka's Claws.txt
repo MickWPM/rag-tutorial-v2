@@ -1,0 +1,36 @@
+ITEM NAME: Tsiraka's Claws
+
+Velious Era (added December 2000-2001)
+
+
+Tsiraka's Claws
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: HANDS PRIMARY
+Skill: Piercing  Atk Delay: 26
+DMG: 15   AC: 12
+STR: +3  WIS: +6
+WT: 1.2  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Claw graphic with Piercing swing animation. Surprisingly solid low aggro ratio for twink Rangers. 
+
+  Drops From 
+Western Wastes
+
+ Tsiraka
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

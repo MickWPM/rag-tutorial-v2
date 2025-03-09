@@ -1,0 +1,38 @@
+ITEM NAME: Cloak of the Assassin
+
+
+Cloak of the Assassin
+
+
+MAGIC ITEM  LORE ITEM  NO TRADE
+Slot: BACK
+AC: 12
+AGI: +15
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 1.0  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ A Champion of Innoruuk
+ A Disciple of Innoruuk
+ A Knight of Innoruuk
+ An Agent of Innoruuk
+ A Sage of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

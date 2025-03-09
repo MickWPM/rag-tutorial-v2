@@ -1,0 +1,32 @@
+ITEM NAME: A Locked Chest
+
+Paineel Era (added February 2000)
+
+
+A Locked Chest
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+Paineel
+
+ Experienced Courier
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

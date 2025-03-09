@@ -1,0 +1,33 @@
+ITEM NAME: Ivy Etched Bracer
+
+Temple Era (added October 1999)
+
+Ivy Etched Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 9
+DEX: +2
+SV POISON: +3
+WT: 2.3  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

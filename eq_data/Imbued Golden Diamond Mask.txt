@@ -1,0 +1,39 @@
+ITEM NAME: Imbued Golden Diamond Mask
+
+
+Imbued Golden Diamond Mask
+
+
+MAGIC ITEM
+Slot: FACE
+STA: +4 WIS: +4
+SV FIRE: +7 SV DISEASE: +4 SV COLD: +7 SV MAGIC: +3 SV POISON: +4
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+Deity: Mithaniel Marr
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ?)
+ Imbued Diamond Electrum Mask x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Gold Bar - Summoned
+  1 x Imbued Diamond - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

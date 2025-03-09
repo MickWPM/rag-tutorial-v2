@@ -1,0 +1,39 @@
+ITEM NAME: White Scaled Tunic
+
+Velious Era (added December 2000-2001)
+
+White Scaled Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 8
+INT: +3
+SV COLD: +5
+WT: 4.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 11.8p 
+
+  Drops From 
+Great Divide
+
+ a crystaline shardwurm
+ a young shardwurm
+ an ancient shardwurm
+ an elder shardwurm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Enchanted Block of Adamantite
+
+
+
+Enchanted Block of Adamantite
+
+
+WT: 15.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 32)
+ Yield: Enchanted Block of Adamantite x1
+ In Teir`Dal Forge:
+
+
+  3 x Enchanted Lrg. Brick of Adamantite - Summoned
+  1 x Neriak Nectar - Bought, Quested
+
+
+ In Oggok Forge:
+
+
+  3 x Enchanted Lrg. Brick of Adamantite - Summoned
+  1 x Ogre Swill - Bought, Quested 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Folded Adamantite Sheet (Trivial: 39)
+
+
+
+
+

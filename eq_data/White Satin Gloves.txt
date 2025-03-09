@@ -1,0 +1,43 @@
+ITEM NAME: White Satin Gloves
+
+Sky Era (added January 2000)
+
+White Satin Gloves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 4
+HP: +25  MANA: +25
+SV FIRE: +30  SV DISEASE: -5  SV COLD: -5  SV MAGIC: -5  SV POISON: -5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ Ixiblat Fer (?)
+
+Plane of Sky
+
+ a thunder spirit
+ a thunder spirit princess
+ Protector of Sky
+ Sister of the Spire
+ The Hand of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

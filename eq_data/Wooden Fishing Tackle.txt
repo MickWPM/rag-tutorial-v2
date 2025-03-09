@@ -1,0 +1,35 @@
+ITEM NAME: Wooden Fishing Tackle
+
+Classic Era (added 1999-2000)
+
+
+Wooden Fishing Tackle
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+South Qeynos
+
+ Ground Spawn
+ ( -147.05, 162.39, -37.57) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Faren's Tacklebox
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

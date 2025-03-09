@@ -1,0 +1,66 @@
+ITEM NAME: Woven Frost Giant Beard
+
+Velious Era (added December 2000-2001)
+
+Woven Frost Giant Beard
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+Charges: 5
+AC: 5
+SV COLD: +4
+Effect:  Storm Strength (Must Equip, Casting Time: Instant) at Level 35
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Can usually be found for sale from merchants near the bank in Thurgadin.
+Sell for 11p 4g @ 75 CHA
+Buy back for 129p 1g 62 CHA Iksar Monk 
+
+  Drops From 
+Eastern Wastes
+
+ a frost giant
+ a frost giant captain
+ a frost giant savage
+ a frost giant scout
+ a kromrif prison guard
+ Commander Bahreck
+
+Great Divide
+
+ a frost giant elite
+ a frost giant scout
+ Bekerak Coldbones
+ Fomgrut Borkel
+
+Kael Drakkel
+
+ a frost giant berserker
+ a frost giant commoner
+ a frost giant gladiator
+ a frost giant trainer
+ a frost giant wolf tamer
+
+Thurgadin
+
+ a lesser tar goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #6: Embroidered Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Spool of Sacred Coldain Thread (Trivial: 162)
+
+
+
+
+

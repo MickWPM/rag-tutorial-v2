@@ -1,0 +1,80 @@
+ITEM NAME: Tome of Tesh
+
+
+
+Tome of Tesh
+
+
+WT: 0.1  Size: SMALL
+
+
+Acquired by giving 50 gp to Romar Sunto. May also be on his corpse? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coin of Tash (Tashania spell) 
+
+  Book contents 
+The 10 Coins of Tash
+
+The Enchanter Tash
+Had ten Silver Coins
+They now lie scattered
+Across the world
+In cities old
+These coins do gleam
+Waiting still
+To be claimed
+
+One lies
+In the city of Darkness
+Where the blind fish stares
+
+One lies
+In the city of Divided
+Where the building floats
+
+One lies
+In the city of Ice
+Where the water cools
+
+One lies
+In the city of Law
+Where the temple floats
+
+One lies
+In the city of Light
+Where the water ends
+
+One lies
+In the city of Magic
+Where the water spouts
+
+One lies
+In the city of Metal
+Where the water falls
+
+One lies
+In the city of Stone
+Where the water sits
+
+One lies
+In the city of Swamp
+Where the ale flows
+
+One lies
+In the city of War
+Where the water boils
+
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

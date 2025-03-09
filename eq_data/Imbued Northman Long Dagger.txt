@@ -1,0 +1,46 @@
+ITEM NAME: Imbued Northman Long Dagger
+
+
+
+Imbued Northman Long Dagger
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 24
+DMG: 6 
+STA: +4
+SV COLD: +2
+WT: 3.0  Size: SMALL
+Class: WAR BRD ROG
+Race: HUM BAR HEF TRL OGR IKS
+Deity: The Tribunal / Rallos Zek
+
+
+Note: There are two identically named items, diety restricted to either The Tribunal (if made with Imbued Ivory) or Rallos Zek (if made with Imbued Jade). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 97)
+ Yield: Imbued Northman Long Dagger x1
+ In Forge:
+
+
+  1 x Dagger Blade Mold - Bought
+  1 x Frost Temper - Crafted
+  1 x Hilt Mold - Bought
+  1 x Imbued Ivory (The Tribunal) or Imbued Jade (Rallos Zek) - Summoned
+  1 x Medium Quality Sheet Metal - Crafted, Bought
+  1 x Pommel Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

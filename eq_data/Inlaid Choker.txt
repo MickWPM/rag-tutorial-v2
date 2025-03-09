@@ -1,0 +1,36 @@
+ITEM NAME: Inlaid Choker
+
+Sky Era (added January 2000)
+
+
+Inlaid Choker
+
+
+LORE ITEM  NO DROP
+Slot: NECK
+AC: 6
+AGI: +2  HP: +10
+WT: 0.2  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Gorgalosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Thievery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

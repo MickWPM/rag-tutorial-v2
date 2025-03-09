@@ -1,0 +1,37 @@
+ITEM NAME: Bayle List I
+
+Classic Era (added 1999-2000)
+
+
+Bayle List I
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Highpass Hold
+
+ Mutt Rootlit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bayle List
+ Blackburrow Stout Delivery 
+
+  Book contents 
+RIZPUT GSIIQUSV PISOEL ISAFOP GIMXOVJI
+Possible Translation (substitution cipher: abcdefghijklmnopqrstuvwxyz => uxbcadfgehzklminpqrsotqwxy)
+QEYNOS FREEPORT NERIAK ERUDIN FELWITHE
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

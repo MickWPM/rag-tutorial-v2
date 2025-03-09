@@ -1,0 +1,38 @@
+ITEM NAME: A Tump Stump
+
+Kunark Era (added 2000)
+
+
+Tump Stump
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Note: There are two identically named items. Use Identify to tell them apart.
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Burning Woods
+
+ a forest giant arbor ("Kromdul Tump Stump")
+
+Frontier Mountains
+
+ a mountain giant tump ("Kromdek Tump Stump")
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Handy Shillelagh (Both)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

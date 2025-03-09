@@ -1,0 +1,44 @@
+ITEM NAME: Soot Hemlock
+
+
+Soot Hemlock
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire goblin
+ a fire goblin scout
+ goblin scout
+ goblin warrior
+
+Solusek's Eye
+
+ cinder goblin
+ fire goblin
+ flame goblin
+ inferno goblin
+ young goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Dilapidating Ash Lower Resist II (Trivial: 183)
+
+
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Imbued Platinum Emerald Ring
+
+Classic Era (added 1999-2000)
+
+Imbued Platinum Emerald Ring
+
+
+Slot: FINGER
+AC: 4
+STR: -4  DEX: +4
+SV FIRE: +8  SV DISEASE: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Tunare
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: >= 192)
+ Imbued Platinum Emerald Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Platinum Bar - Summoned
+  1 x Imbued Emerald - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Icicle Wristband
+
+Velious Era (added December 2000-2001)
+
+
+Icicle Wristband
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STR: +10
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 0.5  Size: TINY
+Class: WAR MNK
+Race: ALL except ERU
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Lord Doljonijiarnimorinar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

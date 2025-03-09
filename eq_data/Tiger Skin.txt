@@ -1,0 +1,39 @@
+ITEM NAME: Tiger Skin
+
+
+Tiger Skin
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Emerald Jungle
+
+ a frenzied tiger
+ a raging tiger
+
+Stonebrunt Mountains
+
+ a kejek tiger
+ a kejek tigress
+ a highland tiger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Health Potion
+ Yuio's Illness
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,91 @@
+ITEM NAME: Emerald Symbol
+
+Velious Era (added December 2000-2001)
+
+Emerald Symbol
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Grozzmel
+ Midayor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wisdom - The Short Battle -- White Dragon IdolWhite Dragon Idol
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+AC: 15
+STR: +15  WIS: +15  HP: +50  MANA: +100
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+Effect: Flowing Thought I (Worn)  
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+ Platinum Tear
+ Platinum Symbol (from Essedera)
+ Emerald Symbol (from Grozzmel or Midayor)
+ Silver Symbol (from Essedera)
+
+ Test of Protection -- Pauldrons of the Deep FlamePauldrons of the Deep Flame
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 35
+STA: +15  HP: +100
+SV FIRE: +20  SV DISEASE: +20  SV COLD: +20  SV MAGIC: +20  SV POISON: +20
+WT: 0.5  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ Ruby Tear
+ Emerald Tear
+ Emerald Symbol (from Grozzmel or Midayor)
+ Platinum Symbol (from Essedera)
+
+ Test of the Emerald Tear -- Buckler of InsightBuckler of Insight
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+AC: 45
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +12  INT: +12  AGI: +5  HP: +75  MANA: +75
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Flowing Thought I (Worn)  
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Emerald Tear
+ Flame Kissed Symbol (from Krigara or Ymmeln)
+ Poison Symbol (from Casalen or Tavekalem)
+ Emerald Symbol (from Grozzmel or Midayor)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

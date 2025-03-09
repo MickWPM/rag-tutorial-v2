@@ -1,0 +1,40 @@
+ITEM NAME: Elven Chainmail Tunic
+
+
+
+Elven Chainmail Tunic
+
+
+Slot: CHEST
+AC: 12
+WT: 3.0  Size: MEDIUM
+Class: ALL except SHD MNK SHM NEC
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 148)
+ Yield: Elven Chainmail Tunic x1
+ In Koada`Dal Forge:
+
+
+  1 x Chainmail Tunic Pattern - Bought
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  3 x Mithril Rings - Crafted
+  1 x Moonlight Temper - Crafted
+  1 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

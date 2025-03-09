@@ -1,0 +1,105 @@
+ITEM NAME: Corroded Plate Bracer
+
+Velious Era (added December 2000-2001)
+
+Corroded Plate Bracer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+WT: 5.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a guardian of Zek
+ Adjutant Brunkin
+ Adjutant Cryyrn
+ Adjutant Daggeruk
+ Adjutant Derkan
+ Adjutant Droggren
+ Adjutant Frinevrn
+ Adjutant Frinvan
+ Adjutant Hekrandor
+ Adjutant Hoggren
+ Adjutant Jharll
+ Adjutant Khellendor
+ Adjutant Stormkeeper
+ Adjutant Strongaxe
+ Adjutant Thyek
+ Adjutant Velsharek
+ Armor of Zek
+ Legionnaire Alveyrem
+ Legionnaire Blizzardwalker
+ Legionnaire Byltor
+ Legionnaire Evbarjor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Whiteaxe
+ Legionnaire Yervin
+ Legionnaire Yvedrn
+ Sentinel Brajnor
+ Sentinel Bvellor
+ Sentinel Demek
+ Sentinel Drakeslayer
+ Sentinel Fleshflayer
+ Sentinel Harzok
+ Sentinel Stonetrader
+ Sentinel Sunderdrake
+ Sentinel Thunderfist
+ Sentinel Thurdiel
+ Sentinel Veldrendyr
+ Sentinel Vellharn
+ Sentinel Weldren
+ Sentinel Yeljorn
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+ Veteran Eiyloren
+ Veteran Icecaller
+ Veteran Kltrem
+ Veteran Mjrlind
+ Veteran Skeldek
+ Veteran Surlren
+ Veteran Yllhaydm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Thurgadin Bracer
+ Cleric Thurgadin Bracer
+ Paladin Thurgadin Bracer
+ Shadowknight Thurgadin Bracer
+ Warrior Thurgadin Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

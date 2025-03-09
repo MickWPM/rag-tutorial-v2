@@ -1,0 +1,35 @@
+ITEM NAME: Hollow Bone Shank
+
+
+Hollow Bone Shank
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 28
+DMG: 7 
+WT: 4.6  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+ Merchant resale value: 5pp. 
+
+  Drops From 
+Temple of Droga
+
+ a goblin cavehunter
+ a goblin stitcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

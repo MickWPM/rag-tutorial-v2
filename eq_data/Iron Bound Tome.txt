@@ -1,0 +1,38 @@
+ITEM NAME: Iron Bound Tome
+
+Kunark Era (added 2000)
+
+Iron Bound Tome
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 38
+DMG: 7   AC: 6
+MANA: +5
+SV FIRE: +5  SV MAGIC: +3
+Effect:  Cancel Magic (Combat, Casting Time: Instant) at Level 25
+WT: 12.0  Size: LARGE
+Class: WAR CLR DRU MNK SHM
+Race: ALL except ELF DEF HFL GNM
+
+
+Vendors will not buy it. Proc seems to only affect the wielder. 
+
+  Drops From 
+Lake of Ill Omen
+
+ Advisor Sh'Orok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Greaves Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

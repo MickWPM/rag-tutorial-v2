@@ -1,0 +1,38 @@
+ITEM NAME: Noctivagant Vambraces
+
+Velious Era (added December 2000-2001)
+
+Noctivagant Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 19
+STA: +7  HP: +30
+SV DISEASE: +2  SV MAGIC: +3
+WT: 6.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+Part of the Noctivagant Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a contemplative thifling
+ a gale wolf
+ a thifling sprite
+ Gale Wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

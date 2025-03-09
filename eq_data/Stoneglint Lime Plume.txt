@@ -1,0 +1,35 @@
+ITEM NAME: Stoneglint Lime Plume
+
+Kunark Era (added 2000)
+
+
+Stoneglint Lime Plume
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+CHA: +1
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Overthere
+
+ a stoneglint cockatrice
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kwinn's Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

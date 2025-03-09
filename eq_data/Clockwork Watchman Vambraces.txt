@@ -1,0 +1,48 @@
+ITEM NAME: Clockwork Watchman Vambraces
+
+Velious Era (added December 2000-2001)
+
+Clockwork Watchman Vambraces
+
+
+Slot: ARMS
+Charges: 10
+AC: 11
+Effect:  Cog Boost (Must Equip, Casting Time: 5.0) at Level 20
+WT: 4.9  Size: SMALL
+Class: WAR CLR
+Race: GNM
+
+
+Made with gnome cultural tinkering.
+Note: Unknown if Fine Plate Vambraces should be SMALL like other Clockwork recipes? Need verification of correct recipe on p99. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 227)
+ Yield: Clockwork Watchman Vambraces x1
+ In Deluxe Toolbox:
+
+
+  1 x Cogs - Bought
+  1 x Small Fine Plate Vambraces - Crafted
+  1 x Gnomish Bolts - Bought
+  1 x Grease - Bought
+  1 x Holgresh Fur - Dropped
+  1 x Mana Battery - Class Five - Crafted, Bought, Dropped
+  1 x Metal Fastening - Bought
+  1 x Metal Rod - Bought
+  1 x Metal Twine - Bought
+  1 x Sprockets - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

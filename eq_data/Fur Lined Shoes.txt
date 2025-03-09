@@ -1,0 +1,143 @@
+ITEM NAME: Fur Lined Shoes
+
+
+Fur Lined Shoes
+
+
+QUEST ITEM
+Slot: FEET
+AC: 2
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork cobbler
+
+
+
+  (1174, -759)
+
+
+ Felwithe
+
+ Merchant Deerchaser
+
+
+
+  (148, -456)
+
+
+ Greater Faydark
+
+ Merchant Tinolwenya
+
+
+
+  (-504, 23)
+
+
+ Grobb
+
+ Iskopa
+
+
+
+  (508, -236)
+
+
+ Halas
+
+ Mac
+
+
+
+  (308, -179)
+
+
+ South Kaladim
+
+ Hanek Ogerbane
+
+
+
+  (224, -254)
+
+
+ Kithicor Forest
+
+ Clomen Walker
+
+
+
+  (1443, -840)
+
+
+ Neriak Foreign Quarter
+
+ Farlain Stonethrower
+
+
+
+  (199, -57)
+
+
+ Oggok
+
+ Uoola
+
+
+
+  (659, 684)
+
+
+ North Qeynos
+
+ Rodgar the Tall
+
+
+
+  (-89, -7)
+
+
+ North Qeynos
+
+ Gerault Takenmaul
+
+
+
+  (-64, 19)
+
+
+ Thurgadin
+
+ Garish Ironhelm
+
+
+
+  (-396, 552)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

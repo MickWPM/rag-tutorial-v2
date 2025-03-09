@@ -1,0 +1,36 @@
+ITEM NAME: Earring of the Icecaster
+
+Velious Era (added December 2000-2001)
+
+
+Earring of the Icecaster
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 10
+WIS: +5  INT: +5  AGI: +5  HP: +35  MANA: +35
+SV FIRE: +15  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Jorlleag
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

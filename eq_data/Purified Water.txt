@@ -1,0 +1,63 @@
+ITEM NAME: Purified Water
+
+Kunark Era (added 2000)
+
+
+Purified Water
+
+
+This is a drink!
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This seems to be ultimately used to make Leatherfoot Haversack but could be a post-luclin item. Many of the foraged items used to make this water do seem to exist on P99, or did at some point. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: No-Fail)
+ Yield: Purified Water x3
+ In Tracker's Water Extractor:
+
+
+  1 x Purification Tablet - Bought
+  1 x Moss Root - Foraged
+
+
+ Brewing
+ Yield: Purified Water x3
+ In Tracker's Water Extractor:
+
+
+  1 x Purification Tablet - Bought
+  1 x Water Reed - Foraged
+
+
+ Brewing (Trivial: No-Fail)
+ Yield: Purified Water x3
+ In Tracker's Water Extractor:
+
+
+  1 x Purification Tablet - Bought
+  1 x Frost Crystal - Foraged 
+
+
+  Tradeskill recipes 
+ Brewing (Trivial: 136)
+ Yield: Celestial Temper x1
+ In Brewing Barrel:
+
+
+  1 x Blue Diamond Powder - Crafted
+  1 x Purified Water - Crafted
+
+
+
+
+

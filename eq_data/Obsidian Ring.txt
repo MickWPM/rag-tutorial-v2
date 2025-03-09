@@ -1,0 +1,33 @@
+ITEM NAME: Obsidian Ring
+
+
+Obsidian Ring
+
+
+MAGIC ITEM
+Slot: FINGER
+AC: 3
+DEX: +3  HP: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Solusek's Eye
+
+ Kindle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,53 @@
+ITEM NAME: Small Chainmail Neckguard Pattern
+
+Epic Quests Era (added Sept 2000)
+
+
+Small Chainmail Neckguard Pattern
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Greater Faydark
+
+ Merchant Niwiny
+
+
+
+  (-188, 136)
+
+
+ Rivervale
+
+ Charlotte Diggs
+
+
+
+  (-183,-234)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

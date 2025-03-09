@@ -1,0 +1,36 @@
+ITEM NAME: Death Cap
+
+Classic Era (added 1999-2000)
+
+Death Cap
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors for 1pp 4gp 
+
+  Drops From 
+Nagafen's Lair
+
+ a greater kobold shaman
+ greater kobold
+ kobold champion
+ Solusek kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Crippling Peptide (Trivial: 245)
+
+
+
+
+

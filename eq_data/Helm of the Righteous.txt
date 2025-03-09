@@ -1,0 +1,36 @@
+ITEM NAME: Helm of the Righteous
+
+Warrens Era (added spring 2001)
+
+
+Helm of the Righteous
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 19
+STR: +5  DEX: +3  AGI: +3  HP: +10  MANA: +20
+SV FIRE: +3  SV COLD: +2
+WT: 5.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ A Knight of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

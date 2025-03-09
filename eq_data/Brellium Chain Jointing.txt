@@ -1,0 +1,40 @@
+ITEM NAME: Brellium Chain Jointing
+
+
+
+Brellium Chain Jointing
+
+
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 106)
+ Yield: Brellium Chain Jointing x1
+ In Stormguard Forge:
+
+
+  1 x Brellium Rings - Crafted
+  1 x Dwarven Ale - Bought
+  1 x Dwarven Smithy Hammer - Bought
+  1 x File - Crafted 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Dwarven Cultural Smithing (Trivial: Various)
+
+
+
+
+

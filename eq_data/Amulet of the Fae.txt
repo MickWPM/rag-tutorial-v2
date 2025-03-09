@@ -1,0 +1,35 @@
+ITEM NAME: Amulet of the Fae
+
+Classic Era (added 1999-2000)
+
+
+Amulet of the Fae
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+Charges: 4
+AC: 8
+STR: +5  DEX: +4  STA: +4  HP: +50
+SV DISEASE: +10  SV POISON: +10
+Effect: Healing (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: TINY
+Class: BRD
+Race: ALL
+
+
+Is this an upgraded version of Fae Amulet? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Steelsilk Vambraces
+
+
+
+Steelsilk Vambraces
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 11
+STR: +8  AGI: +4  HP: +10  MANA: +15
+SV POISON: +6
+WT: 2.7  Size: SMALL
+Class: CLR PAL SHD
+Race: ERU
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 248)
+ Yield: Steelsilk Vambraces x1
+ In Erudite Sewing Kit:
+
+
+  1 x Platinum Thread - Bought
+  1 x Sleeve Pattern - Bought
+  2 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

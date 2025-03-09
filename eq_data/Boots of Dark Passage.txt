@@ -1,0 +1,38 @@
+ITEM NAME: Boots of Dark Passage
+
+Velious Era (added December 2000-2001)
+
+
+Boots of Dark Passage
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 17
+HP: +55  MANA: +15
+SV DISEASE: +7  SV COLD: +3  SV MAGIC: +10
+WT: 4.9  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+Very rare random drop off Guards and Senior Guards in Kael. 
+
+  Drops From 
+Kael Drakkel
+
+ Guard Drakkerender
+ Guard Falldrryn
+ Guard Ragern
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

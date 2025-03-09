@@ -1,0 +1,38 @@
+ITEM NAME: Enchanted Sheet of Brellium
+
+
+
+Enchanted Sheet of Brellium
+
+
+WT: 10.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 110)
+ Yield: Enchanted Sheet of Brellium x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Ale - Bought
+  2 x Enchanted Sm. Brick of Brellium - Crafted 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ What recipes?
+
+
+
+
+

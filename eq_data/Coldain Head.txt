@@ -1,0 +1,62 @@
+ITEM NAME: Coldain Head
+
+Velious Era (added December 2000-2001)
+
+Coldain Head
+
+
+MAGIC ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a coldain cook
+ a coldain hunter
+ a coldain lookout
+ a coldain missionary
+ a coldain skinner
+ a coldain warrior
+ Loremaster Derrin
+ Rodrick Tardok
+
+Great Divide
+
+ a Coldain miner
+ a coldain wolfmaster
+ a velium miner
+ an expedition guard
+ Captain Stonefist
+ Gerton Dumkin
+ Herga Ratgur
+ Laima Ratgur
+ Relik
+
+Thurgadin
+
+ a lesser tar goo
+ Guard Leif
+ Guard Royt
+ Horasug
+ Rumagur
+ Templar Franchus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bvellos' Bounty
+ Coldain Skulls
+ Wage War Upon The Coldain
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

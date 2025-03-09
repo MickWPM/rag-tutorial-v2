@@ -1,0 +1,30 @@
+ITEM NAME: Rantho Rapier
+
+
+Rantho Rapier
+
+
+Slot: PRIMARY SECONDARY
+Skill: 2H Slashing  Atk Delay: 24
+DMG: 4 
+WT: 4.0  Size: MEDIUM
+Class: WAR PAL ROG
+Race: DWF HFL GNM
+
+
+Quest reward in Rivervale for The Fishslayers quest. Yes it's a 2hs that can be used by rogues, no it doesn't work very well. See discussion page for more information. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Fishslayers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

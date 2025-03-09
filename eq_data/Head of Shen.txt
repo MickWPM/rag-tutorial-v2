@@ -1,0 +1,31 @@
+ITEM NAME: Head of Shen
+
+
+Head of Shen
+
+
+LORE ITEM
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Head of Brother Shen 
+
+  Drops From 
+Southern Karana
+
+ High Shaman Grisok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Red Headband
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

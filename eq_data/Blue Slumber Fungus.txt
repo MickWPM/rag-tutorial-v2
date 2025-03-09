@@ -1,0 +1,33 @@
+ITEM NAME: Blue Slumber Fungus
+
+
+
+Blue Slumber Fungus
+
+
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Merchant resale value: ~9 silver 
+
+  Drops From 
+Old Sebilis
+
+ Myconid Adept
+ Myconid Priest
+ myconid reaver
+ myconid warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

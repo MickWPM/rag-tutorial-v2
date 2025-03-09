@@ -1,0 +1,40 @@
+ITEM NAME: Teachings of Relinar
+
+Velious Era (added December 2000-2001)
+
+
+Teachings of Relinar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hsagra's Wrath
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No Fail)
+ Yield: Teachings of Relinar
+ In Lexicon of Relinar:
+
+
+  1 x Rune of Revenge
+  1 x Rune of Eradication
+  1 x Rune of Concentration
+  1 x Rune of Bleve
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

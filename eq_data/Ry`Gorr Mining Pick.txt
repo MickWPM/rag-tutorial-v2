@@ -1,0 +1,41 @@
+ITEM NAME: Ry`Gorr Mining Pick
+
+Velious Era (added December 2000-2001)
+
+
+Ry`Gorr Mining Pick
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 4 
+WT: 3.0  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 9 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr miner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

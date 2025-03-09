@@ -1,0 +1,30 @@
+ITEM NAME: Fusible Igneous Ore
+
+Velious Era (added December 2000-2001)
+
+
+Fusible Igneous Ore
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Ground spawn by the large volcano in Skyfire Mountains around (900, -1500) . Respawns in less than 2 minutes. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fusibility Research
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

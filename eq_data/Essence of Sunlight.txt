@@ -1,0 +1,50 @@
+ITEM NAME: Essence of Sunlight
+
+Classic Era (added 1999-2000)
+
+Essence of Sunlight
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Currently dropping on Green, 03/29/2020 
+ Merchant resale value: 9g 2s 3c 
+
+  Drops From 
+Northern Desert of Ro
+
+ a sand giant
+ Cazel
+
+Skyfire Mountains
+
+ a chromadrac
+ a mature chromadrac
+ a wyvern
+
+Southern Desert of Ro
+
+ a sand giant
+
+The Wakening Land
+
+ A Faerie Dragon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Royal Temper (Trivial: 135)
+
+
+
+
+

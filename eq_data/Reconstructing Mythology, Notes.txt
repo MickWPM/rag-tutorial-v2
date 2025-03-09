@@ -1,0 +1,67 @@
+ITEM NAME: Reconstructing Mythology, Notes
+
+Paineel Era (added February 2000)
+
+
+Reconstructing Mythology, Notes
+
+
+The Book is closed.
+WT: 1.0  Size: MEDIUM
+
+
+
+
+  Drops From 
+ None
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Paineel
+
+ Toryn Roltaire
+
+
+
+  (1040, 641)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Page 1
+Legend tells of a special crucible used by the ancients of the world to magically transport themselves from places to place.
+We can recreate this effect using some heavy clay, sculpting tools, a bowl sketch, a spell scroll of Lesser Succour and just a dab of celestial essence.
+Page 2
+The bowl should be fired with a glaze to seal the scroll's energies. Use two portions of opal powder, to one measure of sarcoscypha fungus, with one measure of kunzar glue {kunzar fishbones baked with water}.
+Opal powder is created by firing an opal with some acid.
+Page 3
+We are told, also, of magical rings that cause harm to their foes.
+Perhaps one could try a lacquered gemstone with water, a small block of clay, a vial of cloudy (or clear?) mana and some celestial essence. Shaping the ring should be easy with sculpting tools.
+Page 4
+Lacquering is achieved by placing a gemstone with some lacquer into the jeweller's bag - it should produce the desired results.
+Emeralds, fire opals, pearls, peridots and opals should work well for these rings; they lacquer most well of all gems.
+Page 5
+Perhaps most interesting of all are the myths of stones blessed by the Gods themselves, focal points for their energies.
+Reconstruction of such a device could be achieved with an idol sketch, a large block of enchanted clay, celestial essence, distilled mana, water, scultping tools and the appropriate geographical essence.
+Page 6
+Fire the idol with divine crystalline glaze.
+Page 7
+Tests have shown that some of the following make excellent essences for their regions:
+Black Roots, Stonefish, Glow Lichen, Hatch Dace, Barren Flounders, Clockwork Koi, Cinnamon Sticks, Surefall Sap, Thunder Salmon, Fishing Grubs, Cactii Pulp, and Sea Salt.
+Page 8
+The essence is released by brewing the base with a little water.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Words of Acquisition (Azia)
+
+
+
+Words of Acquisition (Azia)
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 9g 3s 8c 
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~29 mob
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Renew Bones (Trivial: 83+)
+
+
+
+
+

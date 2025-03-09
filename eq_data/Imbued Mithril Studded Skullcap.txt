@@ -1,0 +1,42 @@
+ITEM NAME: Imbued Mithril Studded Skullcap
+
+
+Imbued Mithril Studded Skullcap
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 6
+CHA: +2  WIS: +1
+WT: 0.5  Size: SMALL
+Class: WAR CLR PAL RNG DRU BRD ROG
+Race: HUM ELF HIE HEF
+Deity: Tunare
+
+
+Part of the wood elf cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 122)
+ Yield: Imbued Mithril Studded Skullcap x1
+ In Feir'Dal Sewing Kit:
+
+
+  1 x Cap Pattern - Bought
+  1 x Imbued Emerald - Summoned
+  3 x Mithril Studs - Crafted
+  1 x Oak Bark Tannin - Crafted
+  1 x Sabertooth Tiger Hide - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

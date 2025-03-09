@@ -1,0 +1,46 @@
+ITEM NAME: Bag of Bread Loaves
+
+Warrens Era (added spring 2001)
+
+
+Bag of Bread Loaves
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Dropped by RunnyEye mobs or obtained by giving 2 gold to Jarlen Meadowgreen 
+
+  Drops From 
+Runnyeye
+
+ a Sporali Miner
+ a Sporali Scavenger
+ a Sporali Gatherer
+ a Sporali Defender
+ a Pickclaw Ambushbaiter
+ a Pickclaw Arroweater
+ a Pickclaw Destroyer
+ a Pickclaw Fleshburner
+ a Pickclaw Foechopper
+ a Pickclaw Foeslicer
+ a Pickclaw Slayspell
+ a Runnyeye Conscript
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bread Shipment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

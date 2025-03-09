@@ -1,0 +1,54 @@
+ITEM NAME: Giant Scarab Egg Sack
+
+
+Giant Scarab Egg Sack
+
+
+QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 2 Golds
+ 0 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a giant scarab
+
+The Estate of Unrest
+
+ a death beetle
+
+Northern Desert of Ro
+
+ a sand scarab
+
+Southern Desert of Ro
+
+ a sand scarab
+
+Misty Thicket
+
+ a giant scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bug Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

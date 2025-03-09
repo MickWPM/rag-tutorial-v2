@@ -1,0 +1,36 @@
+ITEM NAME: Runebranded Stone Buckler
+
+Velious Era (added December 2000-2001)
+
+Runebranded Stone Buckler
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 15
+STR: +5
+SV DISEASE: +10  SV MAGIC: +10  SV POISON: +10
+WT: 5.0  Size: LARGE
+Class: WAR SHD ROG SHM
+Race: BAR TRL OGR
+
+
+
+ Merchant resale value: 47.8p 
+
+  Drops From 
+Great Divide
+
+ Gorul Longshanks
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

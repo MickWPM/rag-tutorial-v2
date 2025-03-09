@@ -1,0 +1,33 @@
+ITEM NAME: Froglok Essence
+
+Epic Quests Era (added Sept 2000)
+
+Froglok Essence
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): Soul of a Cleansed Froglok
+Used to spawn the triggered version of Faydedar who drops only the epic item part. Item is returned after handing in. 
+
+  Drops From 
+Swamp of No Hope
+
+ Ulump Pujluk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

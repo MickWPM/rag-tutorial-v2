@@ -1,0 +1,32 @@
+ITEM NAME: Blood Spirit
+
+
+
+Blood Spirit
+
+
+NO DROP
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Blood Spirit Wine This is Stackable and Alcoholic. 
+
+  Drops From 
+Mistmoore Castle
+
+ a hemo enologist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

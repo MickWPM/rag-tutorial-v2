@@ -1,0 +1,103 @@
+ITEM NAME: Geerloks Crafty Contraptions
+
+
+
+Geerloks Crafty Contraptions
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Geerlok's Crafty Contraptions
+SEWING CONTRAPTION
+
+ One sewing contraption parts.
+ One gears
+ One sprockets
+ One gnomish bolts
+ One chitterling barb
+
+AUTOMATED HAMMER
+
+ One smithy hammer
+ One gears
+ One sprockets
+ One gnomish bolts
+ One grease
+ One small piece of acrylia
+
+GEERLOK SCULPTING TOOLS
+
+ One sculpting tools
+ One gears
+ One sprockets
+ One gnomish bolts
+ One metal twine
+ One darkclaw claw
+
+GEERLOK PLANING TOOL
+
+ One planing tool
+ One gears
+ One sprockets
+ One gnomish bolts
+ One belt of leathery fungus flesh
+
+GEERLOK GEM SETTER
+
+ One gem setter parts
+ One gears
+ One sprockets
+ One gnomish bolts
+ One reflective shard
+ One sensate reishi lens
+
+FERMENTATION DEVICE
+
+ One ceramic lined still
+ One cured leather tubing
+ One bottle
+ One cork
+ One porous mineral block
+
+ALL PURPOUS COOKING UTENSIL
+
+ One utensil parts
+ One gears
+ One sprockets
+ One gnomish bolts
+ One darkclaw claw
+
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

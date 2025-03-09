@@ -1,0 +1,45 @@
+ITEM NAME: Star of Odus
+
+
+
+Star of Odus
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784,598)
+
+  Related quests 
+ Ivy Etched Leggings
+ Rare Coins
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

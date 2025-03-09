@@ -1,0 +1,96 @@
+ITEM NAME: Elemental Grimoire
+
+Classic Era (added 1999-2000)
+
+Elemental Grimoire
+
+
+WT: 0.4  Weight Reduction: 0%
+Capacity: 4  Size Capacity: LARGE
+
+
+This is the tradeskill container used by Magicians for Spell Research.  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ Erudin Palace
+
+ Harban Ranflash
+
+
+
+  (695, 883)
+
+
+ Felwithe
+
+ Merchant Jewyln
+
+
+
+  (567, -609)
+
+
+ West Freeport
+
+ Mekoma Buma
+
+
+
+  (145, -761)
+
+
+ Neriak Commons
+
+ Genzal R`Jyen
+
+
+
+  (119, -919)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+
+ Toxxulia Forest
+
+ Tran Lilspin
+
+
+
+  (1761, -736)
+
+  Related quests 
+ Toko's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

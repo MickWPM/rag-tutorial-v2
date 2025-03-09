@@ -1,0 +1,34 @@
+ITEM NAME: Red Sash of Order
+
+Classic Era (added 1999-2000)
+
+Red Sash of Order
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+DEX: +1  STA: +2  CHA: +2  AGI: +2  HP: +2
+WT: 0.0  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore (from Identify): Red Sash of the Ashen Order 
+
+  Drops From 
+ Thena Lonnes
+ Ran`Un
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Sash Quests
+ Monks of The Whistling Fist
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

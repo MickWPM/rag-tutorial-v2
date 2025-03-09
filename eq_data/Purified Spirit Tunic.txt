@@ -1,0 +1,42 @@
+ITEM NAME: Purified Spirit Tunic
+
+Velious Era (added December 2000-2001)
+
+
+Purified Spirit Tunic
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 18
+STR: +3  STA: +2  CHA: +2  WIS: +3  HP: +5  MANA: +5
+SV MAGIC: +5
+WT: 5.0  Size: LARGE
+Class: ALL except SHD NEC WIZ MAG ENC
+Race: ALL except DEF
+
+
+ Item Lore (from Identify): You sense the blessing of a free spirit 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Purified Spirit Tunic x1
+ In Kejek Forge:
+
+
+  1 x Crystallized Shadow Tunic - Dropped
+  1 x Soulforge Hammer - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

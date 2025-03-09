@@ -1,0 +1,39 @@
+ITEM NAME: Imbued Black Sapphire Silvered Necklace
+
+
+
+Imbued Black Sapphire Silvered Necklace
+
+
+Slot: NECK
+HP: +20  MANA: +40
+SV DISEASE: +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Bertoxxulous
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Black Sapphire Silvered Necklace x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Silver Bar - Summoned
+  1 x Imbued Black Sapphire - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Enchanted Teir`Dal Chain Mantle
+
+
+Enchanted Teir`Dal Chain Mantle
+
+
+Slot: SHOULDERS
+AC: 6
+WIS: +2  INT: +2
+SV MAGIC: +2
+WT: 0.7  Size: SMALL
+Class: WAR CLR SHD BRD ROG NEC WIZ MAG ENC
+Race: DEF HEF
+
+
+Part of the dark elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 145)
+ Yield: Enchanted Teir`Dal Chain Mantle x1
+ In Teir`Dal Forge:
+
+
+  1 x Chainmail Mantle Pattern - Bought
+  2 x Enchanted Adamantite Rings - Crafted
+  1 x Shadow Temper - Crafted
+  1 x Silk Swatch - Crafted
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

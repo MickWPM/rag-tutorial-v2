@@ -1,0 +1,37 @@
+ITEM NAME: Purple Sr Apprentice Robe*
+
+ 
+Purple Sr Apprentice Robe*
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 6
+MANA: +1
+WT: 0.7  Size: MEDIUM
+Class: WIZ MAG ENC
+Race: HUM ERU HIE DEF
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ Walnan
+
+West Freeport
+
+ Driana Poxsbourne
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

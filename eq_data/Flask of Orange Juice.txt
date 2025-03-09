@@ -1,0 +1,37 @@
+ITEM NAME: Flask of Orange Juice
+
+Classic Era (added 1999-2000)
+
+Flask of Orange Juice
+
+
+SV DISEASE: +1
+This is a drink!
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 35)
+ Yield: Flask of Orange Juice x5
+ In Brewing Barrel:
+
+
+  2 x Emerald Orange - Foraged
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

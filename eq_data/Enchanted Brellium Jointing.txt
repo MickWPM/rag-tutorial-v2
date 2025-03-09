@@ -1,0 +1,39 @@
+ITEM NAME: Enchanted Brellium Jointing
+
+
+Enchanted Brellium Jointing
+
+
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 146)
+ Yield: Enchanted Brellium Jointing x1
+ In Forge:
+
+
+  1 x Dwarven Ale - Bought
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Enchanted Brellium Rings - Crafted
+  1 x File - Crafted, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Dwarven Plate Armor (Trivial: Various)
+
+
+
+
+

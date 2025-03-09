@@ -1,0 +1,38 @@
+ITEM NAME: Trooper Shield
+
+
+
+Trooper Shield
+
+
+NO DROP  
+Slot: SECONDARY
+AC: 8
+WT: 10.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+City of Mist
+
+ Captain of the Guard
+
+Emerald Jungle
+
+ greater charbone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guard of Ik Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

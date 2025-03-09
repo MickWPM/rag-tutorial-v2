@@ -1,0 +1,35 @@
+ITEM NAME: Golden Rod
+
+Classic Era (added 1999-2000)
+
+Golden Rod
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 6 
+WT: 4.0  Size: MEDIUM
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Upper Guk
+
+ a froglok priest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rod of Insidious Glamour Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

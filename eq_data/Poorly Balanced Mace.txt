@@ -1,0 +1,31 @@
+ITEM NAME: Poorly Balanced Mace
+
+Velious Era (added December 2000-2001)
+
+
+Poorly Balanced Mace
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 23
+DMG: 6 
+WT: 8.5  Size: MEDIUM
+Class: ALL except
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

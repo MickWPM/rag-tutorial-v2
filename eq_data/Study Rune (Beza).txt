@@ -1,0 +1,39 @@
+ITEM NAME: Study Rune (Beza)
+
+Classic Era (added 1999-2000)
+
+
+Study Rune (Beza)
+
+
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (Trivial: No Fail)
+ Yield: Study Rune (Beza) x1
+ In Concordance of Research:
+
+
+  1 x Quill - Bought
+  1 x Piece of Parchment - Bought
+  1 x Amber - Bought
+  1 x Giant Snake Fang - Dropped
+  1 x Ring Mail - Any Size (Coif, Visor, Neckguard, Coat, Mantle, or Cape) 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

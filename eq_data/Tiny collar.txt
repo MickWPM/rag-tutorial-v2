@@ -1,0 +1,36 @@
+ITEM NAME: Tiny Collar
+
+Kunark Era (added 2000)
+
+
+Tiny Collar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 1
+SV COLD: +1
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ an odd mole
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Helm
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

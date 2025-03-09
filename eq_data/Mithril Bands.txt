@@ -1,0 +1,33 @@
+ITEM NAME: Mithril Bands
+
+Sky Era (added January 2000)
+
+
+Mithril Bands
+
+
+LORE ITEM  NO DROP
+WT: 12.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Eye of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of The Weak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

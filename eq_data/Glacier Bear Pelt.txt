@@ -1,0 +1,32 @@
+ITEM NAME: Glacier Bear Pelt
+
+
+
+Glacier Bear Pelt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 8.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Everfrost Peaks
+
+ a glacier bear
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Helm
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

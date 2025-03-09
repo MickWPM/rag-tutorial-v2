@@ -1,0 +1,31 @@
+ITEM NAME: Fetid Skin
+
+Fear Era (added July 1999)
+
+Fetid Skin
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a fetid fiend
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

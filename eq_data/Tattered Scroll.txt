@@ -1,0 +1,37 @@
+ITEM NAME: Tattered Scroll
+
+
+
+Tattered Scroll
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ an undead jester
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mirgon Dower's Head 
+
+  Book contents 
+Within the tower lies the corpse of Mirgon Dower. A faithful servant of Kurn's deadly tower.
+He served Kurn and kept him very well fed. Now it is time to replace his head.
+His new head did glow once upon a time. Now there are no eyes, no tongue, to taste the sweet crunchy flesh.
+And so the years flow. When all are back together the magic will once again glow.
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Velium Malachite Ring
+
+Velious Era (added December 2000-2001)
+
+
+Velium Malachite Ring
+
+
+Slot: FINGER
+SV POISON: +8
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: missing)
+ Yield: Velium Malachite Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Malachite - Bought, Dropped 
+  1 x Velium Bar - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,63 @@
+ITEM NAME: Study of Ethereal Suspension
+
+Velious Era (added December 2000-2001)
+
+
+Study of Ethereal Suspension
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ The Overthere
+
+ Tin Merchant IV
+
+
+
+  (2647, 2525)
+
+
+ Skyshrine
+
+ Barkeep Draven
+
+
+
+  (496, -735)
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Unknown.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

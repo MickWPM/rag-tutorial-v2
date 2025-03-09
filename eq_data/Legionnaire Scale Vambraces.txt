@@ -1,0 +1,37 @@
+ITEM NAME: Legionnaire Scale Vambraces
+
+Warrens Era (added spring 2001)
+
+
+Legionnaire Scale Vambraces
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 18
+STR: +5  DEX: +5  HP: +15
+SV DISEASE: +5  SV POISON: +5
+WT: 3.0  Size: SMALL
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a kiraikuei
+ Grandmaster R`Tal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

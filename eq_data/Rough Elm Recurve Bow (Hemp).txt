@@ -1,0 +1,39 @@
+ITEM NAME: Rough Elm Recurve Bow (Hemp)
+
+Classic Era (added 1999-2000)
+
+Rough Elm Recurve Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 51
+DMG: 13
+WT: 4.0  Range: 75  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Poacher's Head Quest
+
+  Player crafted 
+ Fletching (Trivial: 68)
+ Rough Elm Recurve Bow x
+ In Fletching Kit:
+
+
+  1 x Elm Bow Staff - Bought
+  1 x Hemp Twine - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

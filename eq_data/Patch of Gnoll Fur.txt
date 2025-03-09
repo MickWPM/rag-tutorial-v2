@@ -1,0 +1,65 @@
+ITEM NAME: Patch of Gnoll Fur
+
+
+Patch of Gnoll Fur
+
+
+QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a burly gnoll
+ a gnoll
+ a gnoll brewer
+ a gnoll commander
+ a gnoll guardsman
+ a gnoll pup
+ a gnoll scout
+ a gnoll shaman
+ a gnoll tactician
+ a patrolling gnoll
+ a scrawny gnoll
+ an elite gnoll guard
+
+Everfrost Peaks
+
+ a scrawny gnoll guard
+
+Lake Rathetear
+
+ a gnoll shaman
+
+North Qeynos
+
+ Djerr Darkpaw
+ Fippy Darkpaw
+
+Qeynos Hills
+
+ a gnoll avenger
+ a gnoll hunter
+ a gnoll scout
+ a gnoll watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gnoll Fur
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Gnoll Fur Patch (Trivial 21)
+
+
+
+
+

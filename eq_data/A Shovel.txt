@@ -1,0 +1,41 @@
+ITEM NAME: A Shovel
+
+Temple Era (added October 1999)
+
+
+A Shovel
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Shovel of Earth  This is a quest item for the mage focus item, Shovel of Ponz. Note that it has no damage/delay.  This item was introduced as part of a Temple of Solusek Ro quest Oct 1999 era. [1] 
+
+  Drops From 
+Najena
+
+ a goblin magician
+ a magician
+ dark-boned skeleton
+ Rathyl reincarnate
+
+Cazic Thule
+
+ an alligator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shovel Of Ponz Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

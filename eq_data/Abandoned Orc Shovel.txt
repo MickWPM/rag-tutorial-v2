@@ -1,0 +1,35 @@
+ITEM NAME: Abandoned Orc Shovel
+
+
+
+Abandoned Orc Shovel
+
+
+LORE ITEM  NO DROP  
+Slot: PRIMARY RANGE
+Skill: 2H Blunt  Atk Delay: 27
+DMG: 4 
+WT: 6.0  Range: 40  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Yes, you can throw this shovel (it flies like a dart, handle first) [1] 
+
+  Drops From 
+Lake Rathetear
+
+ Ground Spawn inside one of the huts in Orc Camp (approx. 3400, -500)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Chalice of Conquest Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

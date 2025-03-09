@@ -1,0 +1,42 @@
+ITEM NAME: Bloodclaw Mace
+
+Stonebrunt Era (added summer 2001)
+Not flagged as a MAGIC item.  Benanov holding the Bloodclaw Mace
+
+
+Bloodclaw Mace
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 32
+DMG: 10 
+Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
+WT: 8.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Collier's Weapon Treatment
+
+  Player crafted 
+ Blacksmithing (Trivial: < 157)
+ Yield: Bloodclaw Mace x1
+ In Forge:
+
+
+  1 x Forged Mace - Crafted
+  1 x Thick Caustic Liquid - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

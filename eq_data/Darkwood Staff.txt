@@ -1,0 +1,38 @@
+ITEM NAME: Darkwood Staff
+
+Temple Era (added October 1999)
+
+Darkwood Staff
+
+
+MAGIC ITEM  QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 5 
+WT: 6.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Solusek Ro
+
+ a keeper
+ a plasmatic priest
+ a seeker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Staff of Temperate Flux Quest
+ Darkwood Staff Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

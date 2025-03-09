@@ -1,0 +1,131 @@
+ITEM NAME: Tiny Dagger
+
+
+Tiny Dagger
+
+
+WT: 0.1  Size: SMALL
+Class: ENC
+Race: HUM ERU ELF HIE DEF GNM
+
+
+Used for enchanter pet summoning. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1053, -1012)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Jeliala Glimmercharm
+
+ Found on the top floor of the Tower of the Craft Keepers.
+
+  (507, 765)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+ Located on second floor of the Tower of the Craft Keepers.
+
+  (555, 749)
+
+
+ Felwithe
+
+ Merchant Lyssia
+
+ Enchanter Guild
+
+  (580, -872)
+
+
+ Firiona Vie
+
+ Nertith Gracon
+
+
+
+  (-3995, 2612)
+
+
+ West Freeport
+
+ Dulia Jestes
+
+ Located in grassy area underneath mage academy
+
+  (19, -817)
+
+
+ West Freeport
+
+ Lysa Truegreen
+
+
+
+  (117, -719)
+
+
+ Neriak Commons
+
+ Veca S`Karn
+
+ Downstairs in caster guild, 2nd door on left.
+
+  (178, -919)
+
+
+ The Overthere
+
+ Kelsi Q`Grinol
+
+
+
+  (2819, 2365)
+
+
+ Toxxulia Forest
+
+ Xylania Rainsparkle
+
+ In the hut in the northeast corner of the zone
+
+  (2202, -1128)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

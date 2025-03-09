@@ -1,0 +1,37 @@
+ITEM NAME: Embalmers Skinning Knife
+
+Velious Era (added December 2000-2001)
+
+
+
+Embalmers Skinning Knife
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 4 
+Effect:  Summon Bandages (Combat, Casting Time: Instant) at Level 1
+WT: 2.0  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+Number of Bandages summoned == lvl/2 (rounded down) (full stack of 20x summoned at lvl 40+) 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Cara Omica
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

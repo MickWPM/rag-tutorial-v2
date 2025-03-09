@@ -1,0 +1,43 @@
+ITEM NAME: Art of Idol Sculpting
+
+Velious Era (added December 2000-2001)
+Art of Idol Sculpting
+
+
+The Note is rolled up.
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Gilthan Brittleblade
+
+  Bank
+
+  (-250, 133)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+The Art of Idol Sculpting An Idol of a Deity is a valuable instrument of worship that can grant the favor of the Gods. In order to craft such an Idol one will have to acquire an Idol Sketch, a Large Block of Magic Clay, a Vial of Clear Mana, Sculpting Tools, and an Imbued Gem of the appropriate Deity. Once the Idol is sculpted on the Pottery Wheel it must be glazed and fired in a Kiln. This process will require a High Quality Firing Sheet , the Unfired Idol, and Divine Crystalline Glaze. The Glaze is composed of White Lead, Iron Oxide, Permafrost Crystals, and Water.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

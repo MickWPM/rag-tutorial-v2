@@ -1,0 +1,44 @@
+ITEM NAME: Woven Sleeves
+
+
+Woven Sleeves
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 3
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Part of the Woven Armor Set 
+
+  Drops From 
+Innothule Swamp
+
+ a froglok forager
+
+Upper Guk
+
+ a froglok guard
+ a froglok novice
+ a froglok sentinel
+ a froglok ton knight
+ a froglok ton shaman
+ a froglok ton warrior
+ a froglok tuk knight
+ a froglok tuk shaman
+ a froglok tuk warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

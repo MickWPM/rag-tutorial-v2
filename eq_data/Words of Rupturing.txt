@@ -1,0 +1,38 @@
+ITEM NAME: Words of Rupturing
+
+
+Words of Rupturing
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1p 9c 
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~29 mob
+
+Ocean of Tears
+
+ a gargoyle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Summon Dead (Trivial: 71)
+
+
+
+
+

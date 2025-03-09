@@ -1,0 +1,34 @@
+ITEM NAME: Scroll of Scaled Tactics
+
+Velious Era (added December 2000-2001)
+
+
+Scroll of Scaled Tactics
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+WT: 2.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a dragon construct
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Strategies of the Ancient Dragons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

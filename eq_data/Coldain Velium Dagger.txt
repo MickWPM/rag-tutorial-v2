@@ -1,0 +1,84 @@
+ITEM NAME: Coldain Velium Dagger
+
+Velious Era (added December 2000-2001)
+
+
+Coldain Velium Dagger
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 4 
+Effect:  Velium Shards (Combat, Casting Time: Instant)
+WT: 2.4  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+
+ Thurgadin
+
+ Jeril Kettletop
+
+
+
+  (-73, -482)
+
+
+ Thurgadin
+
+ Seril Kettletop
+
+
+
+  (-36, -495)
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+
+ Thurgadin
+
+ Hakon Brightsteel
+
+
+
+  (-440, 78)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

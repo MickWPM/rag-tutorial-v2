@@ -1,0 +1,33 @@
+ITEM NAME: Bull Elephant Tooth
+
+
+
+Bull Elephant Tooth
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 3.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Southern Karana
+
+ a bull elephant
+ Cracktusk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

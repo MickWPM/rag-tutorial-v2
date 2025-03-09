@@ -1,0 +1,44 @@
+ITEM NAME: Shimmering Wristguard
+
+Velious Era (added December 2000-2001)
+
+
+Shimmering Wristguard
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 22
+WIS: +8  HP: +20  MANA: +20
+WT: 5.0  Size: TINY
+Class: CLR PAL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Shimmering Wristguard x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Red Throne - Dropped
+  A Blue Throne - Dropped
+  A Blue Crown - Dropped
+  A Blue Knight - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

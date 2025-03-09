@@ -1,0 +1,54 @@
+ITEM NAME: Pie Tin
+
+
+Pie Tin
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+The pottery recipe is cheaper, but Blacksmithing can be done at a much lower skill level. 
+ Merchant resale value: 4 gold 2 silver 1 copper 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 35)
+ Yield: Pie Tin x1
+ In Forge:
+
+
+  1 x Ceramic Lining - Crafted
+  1 x Metal Bits - Crafted
+  1 x Pie Tin Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Pottery (Trivial: 115/17)
+ Yield: Pie Tin x1
+ In Kiln:
+
+
+  1 x High Quality Firing Sheet - Bought
+  1 x Unfired Pie Tin - Crafted 
+
+
+  Tradeskill recipes 
+ Tinkering
+ Compass (Trivial: 50)
+
+ Baking
+ Vegetable Pie (Trivial: 142)
+ Rat Ear Turnovers (Trivial: 142)
+ Ulthork Meat Pie (Trivial: 95)
+
+
+
+
+

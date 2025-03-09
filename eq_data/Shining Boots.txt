@@ -1,0 +1,33 @@
+ITEM NAME: Shining Boots
+
+Velious Era (added December 2000-2001)
+
+
+Shining Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 28
+STR: +4  WIS: +4
+WT: 6.0  Size: MEDIUM
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Kael Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

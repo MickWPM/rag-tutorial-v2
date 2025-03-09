@@ -1,0 +1,33 @@
+ITEM NAME: Chief Ry`Gorr's Head
+
+Velious Era (added December 2000-2001)
+
+
+Chief Ry`Gorr's Head
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ Chief Ry`Gorr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #8: Velium Coldain Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

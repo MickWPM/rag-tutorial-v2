@@ -1,0 +1,40 @@
+ITEM NAME: Teir`Dal Dragoon Shield
+
+
+
+Teir`Dal Dragoon Shield
+
+
+Slot: SECONDARY
+AC: 11
+STA: +2
+WT: 10.0  Size: LARGE
+Class: WAR CLR SHD ROG
+Race: DEF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 175)
+ Yield: Teir`Dal Dragoon Shield x1
+ In Teir`Dal Forge:
+
+
+  1 x Kite Shield Mold - Bought
+  1 x Shadow Temper - Crafted
+  2 x Sheet of Adamantite - Crafted, Bought
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

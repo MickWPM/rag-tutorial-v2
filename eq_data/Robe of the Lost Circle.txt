@@ -1,0 +1,53 @@
+ITEM NAME: Robe of the Lost Circle
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Robe of the Lost Circle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 15
+STR: +5  DEX: +5  STA: +5  AGI: +5  HP: +50
+WT: 0.5  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Original classic stats are improved later with Kunark expansion.[1]
+(June 15th, 2000) Skill in tailoring is no longer required to craft. Hole 
+(November 6th, 2020)[2] Skill in tailoring is now required to craft. -- 
+(January 17th, 2024)Based on this thread [3] and my own combine today, 59 Tailoring without no trivial response, it would appear that the trivial is 64 for the Robe. 
+
+  Drops From 
+Rathe Mountains
+
+ Brother Zephyl
+
+Southern Karana
+
+ Brother Qwinn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Circle
+ Monks of The Whistling Fist
+ Monk Epic Quest
+
+  Player crafted 
+ Tailoring (Trivial: > 74? Nofail?)
+1 x Needle of the Void - Quested
+1 x Rare Robe Pattern - Quested
+1 x Song: Jonthan's Whistling Warsong - Bought
+1 x Shadow Silk - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,66 @@
+ITEM NAME: Rusty Flail
+
+Classic Era (added 1999-2000)
+
+
+Rusty Flail
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 37
+DMG: 5 
+WT: 9.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 8 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Blackburrow
+
+ a gnoll shaman
+
+Butcherblock Mountains
+
+ a goblin shaman
+
+Commonlands
+
+ a Dervish Cutthroat
+
+Greater Faydark
+
+ a brownie scout
+
+Lake Rathetear
+
+ a gnoll high shaman
+ a gnoll shaman
+
+Nektulos Forest
+
+ Initiate Guanin
+ Initiate Pool
+ Leatherfoot Corporal
+ Neophyte Halle
+ Quester Hannil
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

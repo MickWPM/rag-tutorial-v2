@@ -1,0 +1,38 @@
+ITEM NAME: Plains Pebble
+
+
+Plains Pebble
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Can be imbued by a Halfling Cleric or Druid to create an Imbued Plains Pebble for use in  Halfling Cultural Armor
+This item was rumored to reduce food and water consumption in Classic Everquest when held in inventory.
+This is not true on Project1999 EQ [1]. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Bronze
+ Renew Bones Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Eastern Plains of Karana
+ Northern Karana
+ Southern Karana
+ Western Plains of Karana
+
+

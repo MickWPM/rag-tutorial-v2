@@ -1,0 +1,47 @@
+ITEM NAME: Torn Page of Mastery Earth
+
+
+
+Torn Page of Mastery Earth
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Note: All mob drops are unconfirmed on p1999. 
+
+  Drops From 
+Najena
+
+ a goblin magician
+ a magician dropped from this mob 05/16/2019
+ an injured halfling (just this guy?)
+ dark-boned skeleton
+ Linara Parlone
+ Rathyl reincarnate
+
+Cazic Thule
+
+ an alligator
+
+The Feerrott
+
+ an alligator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

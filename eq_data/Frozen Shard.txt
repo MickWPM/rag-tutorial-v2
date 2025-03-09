@@ -1,0 +1,36 @@
+ITEM NAME: Frozen Shard
+
+Velious Era (added December 2000-2001)
+
+Frozen Shard
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 26
+DMG: 13 
+Effect:  Affliction (Combat, Casting Time: Instant) at Level 44
+WT: 2.5  Size: MEDIUM
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Fjokar Frozenshard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wenglawks The Traitor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

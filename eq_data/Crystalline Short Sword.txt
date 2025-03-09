@@ -1,0 +1,36 @@
+ITEM NAME: Crystalline Short Sword
+
+Kunark Era (added 2000)
+
+Crystalline Short Sword
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 12 
+STR: +4  CHA: +6  INT: +6  AGI: +4
+WT: 4.5  Size: MEDIUM
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+This sword was very vogue in the Kunark era, especially in the offhand. It remains a solid mid-level item in Velious. 
+ Merchant resale value: 29p Max 
+
+  Drops From 
+Old Sebilis
+
+ a necrosis scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

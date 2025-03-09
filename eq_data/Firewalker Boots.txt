@@ -1,0 +1,35 @@
+ITEM NAME: Firewalker Boots
+
+Temple Era (added October 1999)
+
+Firewalker Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 4
+SV FIRE: +5
+WT: 2.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Solusek's Eye
+
+ Solusek mage
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Lambent Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

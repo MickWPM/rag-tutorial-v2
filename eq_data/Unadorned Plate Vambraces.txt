@@ -1,0 +1,117 @@
+ITEM NAME: Unadorned Plate Vambraces
+
+Velious Era (added December 2000-2001)
+
+Unadorned Plate Vambraces
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+WT: 9.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+(ToV East mobs)
+
+ an ancient guardian wurm
+ an ancient tigerclaw racnar
+ an elder shard wyvern
+ a burning guardian
+ a fiery drake
+ a greater sky drake
+ an ancient frost guardian
+ an ancient shard wyvern
+ a raging wyvern
+ a vehement wyvern
+ a shimmer drake
+ a racnar
+ an emerald watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Related quests 
+Bard Skyshrine Vambraces (Vambraces of TwilightVambraces of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 25
+STR: +5  STA: +4  CHA: +4  HP: +20
+SV FIRE: +4  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+WT: 6.0  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+)
+Cleric Skyshrine Vambraces (Akkirus' Vambraces of the RisenAkkirus' Vambraces of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 25
+STA: +3  WIS: +5  HP: +35  MANA: +20
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+WT: 6.0  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+)
+Paladin Skyshrine Vambraces (Scaled Knight's VambracesScaled Knight's Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 25
+STR: +4  DEX: +3  STA: +7  HP: +50
+SV FIRE: +3  SV MAGIC: +5
+WT: 6.0  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+)
+Shadowknight Skyshrine Vambraces (Blood Lord's VambracesBlood Lord's Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 25
+DEX: +10  HP: +50  MANA: +20
+SV FIRE: +4  SV MAGIC: +7
+WT: 6.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+)
+Warrior Skyshrine Vambraces (Vambraces of the MyrmidonVambraces of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 30
+STR: +5  STA: +5  AGI: +5  HP: +25
+SV FIRE: +6  SV MAGIC: +4
+WT: 6.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+)
+
+

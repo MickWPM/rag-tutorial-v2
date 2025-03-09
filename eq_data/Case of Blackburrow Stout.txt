@@ -1,0 +1,29 @@
+ITEM NAME: Case of Blackburrow Stout
+
+
+
+Case of Blackburrow Stout
+
+
+LORE ITEM
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Blackburrow Stout Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

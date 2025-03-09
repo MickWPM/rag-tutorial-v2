@@ -1,0 +1,28 @@
+ITEM NAME: Empty Infectious Vial
+
+Classic Era (added 1999-2000)
+Empty Infectious Vial
+
+
+LORE ITEM  NO TRADE
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bertoxxulous Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

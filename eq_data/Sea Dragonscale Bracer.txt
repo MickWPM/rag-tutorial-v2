@@ -1,0 +1,33 @@
+ITEM NAME: Sea Dragonscale Bracer
+
+Velious Era (added December 2000-2001)
+
+Sea Dragonscale Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 10
+MANA: +20
+SV FIRE: +10  SV COLD: +10  SV MAGIC: +5
+WT: 3.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kelorek's Scales
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

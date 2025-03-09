@@ -1,0 +1,39 @@
+ITEM NAME: Bloody Mantle
+
+
+
+Bloody Mantle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: -3
+STR: +5  DEX: +5  CHA: -3
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL except DWF HFL GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Everfrost Peaks
+
+ Dark Assassin
+
+The Feerrott
+
+ Dark Assassin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Azraxs' Legacy
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

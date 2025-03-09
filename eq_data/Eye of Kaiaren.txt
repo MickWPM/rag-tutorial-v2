@@ -1,0 +1,31 @@
+ITEM NAME: Eye of Kaiaren
+
+Epic Quests Era (added Sept 2000)
+
+
+Eye of Kaiaren
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Master Kaiaren's Missing Eye
+Obtained by handing Trunt's Head to Astral Projection (Overthere). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

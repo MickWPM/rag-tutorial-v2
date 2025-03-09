@@ -1,0 +1,35 @@
+ITEM NAME: Raiment of the Chosen
+
+Warrens Era (added spring 2001)
+  
+Raiment of the Chosen
+
+
+MAGIC ITEM  LORE ITEM NO DROP
+Slot: CHEST
+AC: 22
+INT: +16
+SV DISEASE: +10  SV POISON: +10
+WT: 2.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ A Sage of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

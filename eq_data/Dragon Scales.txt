@@ -1,0 +1,35 @@
+ITEM NAME: Dragon Scales
+
+
+Dragon Scales
+
+
+MAGIC ITEM  LORE ITEM
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Azdalin
+ Item Lore (from Identify): Gylton
+ Item Lore (from Identify): Xyfyl
+Note: There are three identically named items, two from dragon mobs. 
+
+  Drops From 
+Burning Woods
+
+ Azdalin
+ Gylton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dragon Scales Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

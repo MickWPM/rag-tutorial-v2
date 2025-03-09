@@ -1,0 +1,36 @@
+ITEM NAME: Raw Silk Sleeves
+
+
+Raw Silk Sleeves
+
+
+Slot: ARMS
+AC: 3
+WT: 0.4  Size: SMALL
+Class: MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the Raw Silk Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 36)
+ Yield: Raw Silk Sleeves x1
+ In Loom:
+
+
+  1 x Sleeve Pattern - Bought
+  1 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Faydark Ringmail Coif
+
+
+Faydark Ringmail Coif
+
+
+Slot: HEAD
+AC: 7
+CHA: +3
+WT: 3.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except TRL OGR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Goblin Battlemasters
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

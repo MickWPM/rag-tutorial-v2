@@ -1,0 +1,34 @@
+ITEM NAME: Thin Banded Belt
+
+Velious Era (added December 2000-2001)
+
+Thin Banded Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 6
+STR: +5
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Slaggak the Trainer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

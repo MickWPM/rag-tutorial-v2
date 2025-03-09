@@ -1,0 +1,36 @@
+ITEM NAME: Circlet of Brambles
+
+Sky Era (added January 2000)
+
+
+Circlet of Brambles
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 4
+STR: +2  WIS: +2
+WT: 5.0  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of The Blade
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Othmir Algae Ale
+
+Velious Era (added December 2000-2001)
+
+
+Othmir Algae Ale
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 31)
+ Yield: Othmir Algae Ale x1
+ In Brewing Barrel:
+
+
+  1 x Cask - Bought, Returned on Failure
+  1 x Azure Algae - Bought
+  1 x White Algae - Bought
+  1 x Ochre Algae - Bought 
+
+
+  Tradeskill recipes 
+ Baking
+ Beer braised mammoth
+ Beer braised wolf
+
+
+
+
+

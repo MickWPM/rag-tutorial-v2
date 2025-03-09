@@ -1,0 +1,92 @@
+ITEM NAME: Bronze Shortened Spear
+
+Classic Era (added 1999-2000)
+
+Bronze Shortened Spear
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 34
+DMG: 5 
+WT: 6.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 2 Platinums
+ 3 Golds
+ 9 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Befallen
+
+ a necro theurgist
+
+Mistmoore Castle
+
+ a Mistmoore guard
+ a pledge familiar
+
+Commonlands
+
+ a Dervish Cutthroat
+
+Crushbone
+
+ royal guard
+
+The Estate of Unrest
+
+ a greater dark bone
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ Shayla Nybright
+ Tayla Nybright
+
+Rathe Mountains
+
+ a bandit
+
+Najena
+
+ a skeleton
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a desert madman
+ a ghoul
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+The Feerrott
+
+ Cyndreela
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

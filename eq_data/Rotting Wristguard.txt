@@ -1,0 +1,35 @@
+ITEM NAME: Rotting Wristguard
+
+Velious Era (added December 2000-2001)
+
+
+Rotting Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+DEX: +5  INT: +3  HP: +20  MANA: +20
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Reclaim Energy (Must Equip, Casting Time: Instant)
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Skyshrine Wristbands
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

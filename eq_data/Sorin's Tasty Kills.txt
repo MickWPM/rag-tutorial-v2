@@ -1,0 +1,69 @@
+ITEM NAME: Sorin's Tasty Kills
+
+
+
+Sorin's Tasty Kills
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Hot Cross Buns
+Just like Grandma used to make. Hot Cross Buns are a good, old-fashioned, gritty delight. Char up some of these anytime.
+Ingredients:
+Clump of Dough, Fruit, Frosting
+Cooking Instructions:
+Mix a clump of dough with fruit and divide into 12 equal parts. Roll each part into a ball and bake at high hear until blackened and crispy, cool.
+Make an X mark with frosting on each bun.
+Tastes great with:
+Elven Veal and Ale
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

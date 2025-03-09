@@ -1,0 +1,40 @@
+ITEM NAME: Adamantium Bands
+
+Sky Era (added January 2000)
+
+
+
+Adamantium Bands
+
+
+LORE ITEM
+Slot: WRIST
+AC: 4
+DEX: +4
+SV COLD: +4
+WT: 9.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzzazzt
+ Bizazzzt
+ Bzzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Brass
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

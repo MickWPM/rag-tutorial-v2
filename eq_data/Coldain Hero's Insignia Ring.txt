@@ -1,0 +1,35 @@
+ITEM NAME: Coldain Hero's Insignia Ring
+
+Velious Era (added December 2000-2001)
+
+Coldain Hero's Insignia Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 9
+STR: +9  STA: +9  HP: +50
+SV MAGIC: +9
+Effect: Shield of the Eighth (Must Equip/Can Equip, Casting Time: Instant)
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #10: Ring of Dain Frostreaver IV
+ Coldain Ring #9: Coldain Hero's Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

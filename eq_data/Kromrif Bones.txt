@@ -1,0 +1,52 @@
+ITEM NAME: Kromrif Bones
+
+Velious Era (added December 2000-2001)
+[p1999]
+
+
+Kromrif Bones
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 4.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+No known use in P1999 (should be used in https://everquest.allakhazam.com/db/quest.html?quest=2282 quest. Listed as velious era quest?) 
+
+  Drops From 
+Eastern Wastes
+
+ a kromrif prison guard
+ Ghrek Squatnot
+
+Great Divide
+
+ a frost giant scout
+
+Iceclad Ocean
+
+ a frost giant elite
+ a frost giant scout
+
+Kael Drakkel
+
+ a frost giant berserker
+
+The Wakening Land
+
+ a frost giant sentinel
+ Korzak Stonehammer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

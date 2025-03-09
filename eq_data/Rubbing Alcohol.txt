@@ -1,0 +1,46 @@
+ITEM NAME: Rubbing Alcohol
+
+Kunark Era (added 2000)
+
+Rubbing Alcohol
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+The vendor sells this for 1 silver. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ a mortician
+
+
+
+  (161, 667)
+
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Embalming Fluid (Item) (Trivial: 21)
+
+
+
+
+

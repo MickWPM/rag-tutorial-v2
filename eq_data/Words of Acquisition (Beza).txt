@@ -1,0 +1,64 @@
+ITEM NAME: Words of Acquisition (Beza)
+
+
+
+Words of Acquisition (Beza)
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Howling Stones
+
+ a helot spectre
+ A Pulsating Bile
+
+Kedge Keep
+
+ a swirlspine seahorse
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Old Sebilis
+
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+
+Plane of Fear
+
+ Amygdalan knight
+
+Plane of Hate
+
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+a Vicious Raptor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Invoke Death (Trivial: 184) (Research Only)
+
+
+
+
+

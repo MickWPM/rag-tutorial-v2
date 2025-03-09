@@ -1,0 +1,32 @@
+ITEM NAME: Wu's Fist of Mastery
+
+
+
+Wu's Fist of Mastery
+
+
+MAGIC ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 22
+DMG: 16 
+WT: 0.5  Size: TINY
+Class: MNK
+Race: ALL
+
+
+Post-upgrade PoS quest reward. Pre-upgrade is Wu's Tranquil Fist 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Fists
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

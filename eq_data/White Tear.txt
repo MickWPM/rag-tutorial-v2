@@ -1,0 +1,71 @@
+ITEM NAME: White Tear
+
+Velious Era (added December 2000-2001)
+White Tear
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Dozekar the Cursed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Request of the Arcane -- Mask of the Silver EyesMask of the Silver Eyes
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 25
+STA: +12  WIS: +12  INT: +12  HP: +20  MANA: +80
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Flowing Thought I (Worn)  
+WT: 0.5  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Black Tear
+ White Tear
+ Runed Tear
+ Glowing Drake Orb (from any HOT Named)
+
+ Test of the Tooth -- Serrated Dragon ToothSerrated Dragon Tooth
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 13   AC: 30
+DEX: +10  STA: +10  AGI: +10
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+Haste: +41%  
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ White Tear
+ Silver Symbol (from Essedera)
+ White Symbol (from Casalen or Tavekalem)
+ Glowing Drake Orb (from any HOT Named)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

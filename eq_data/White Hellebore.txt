@@ -1,0 +1,38 @@
+ITEM NAME: White Hellebore
+
+
+White Hellebore
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Splitpaw Lair
+
+ a hiding gnoll
+ a Nisch Mas Gnoll
+ a Rosch Val Gnoll
+ a Tesch Mas Gnoll
+ an Ishva Lteth gnoll
+ Nisch Val Torash Mashk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunare Warden
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Visionistic_Pain (Trivial: 236)
+
+
+
+
+

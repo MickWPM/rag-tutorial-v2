@@ -1,0 +1,36 @@
+ITEM NAME: Pit Fighter Handwraps
+
+Velious Era (added December 2000-2001)
+
+
+
+Pit Fighter Handwraps
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 2
+STR: +1
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+The Warrens
+
+ A Kobold Pit Fighter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

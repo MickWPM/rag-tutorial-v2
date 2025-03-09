@@ -1,0 +1,31 @@
+ITEM NAME: Worn Coldain Tome
+
+Warrens Era (added spring 2001)
+
+
+Worn Coldain Tome
+
+
+LORE ITEM  NO DROP
+WT: 1.5  Size: SMALL
+
+
+ Item Lore (from Identify): Tome from Froststone Keep 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor 
+
+  Book contents 
+The written story of Burdael of the Flying Axes and his encounter with the dying dragon Garzicor in Dragon Necropolis.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

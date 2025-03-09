@@ -1,0 +1,35 @@
+ITEM NAME: Carmine Boots
+
+
+
+Carmine Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 4
+AGI: +14  HP: +10
+SV POISON: +10
+WT: 0.7  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+part of the Carmine Armor set 
+
+  Drops From 
+Plane of Fear
+
+ a frightfinger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Serpent Blood Potion
+
+Classic Era (added 1999-2000)
+
+Serpent Blood Potion
+
+
+EXPENDABLE  Charges: 1
+Effect: Desperate Hope (Any Slot, Casting Time: Instant) as Level 20
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+200 HP heal + 300 point rune. 
+
+  Drops From 
+Dagnor's Cauldron
+
+ Squallslither
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

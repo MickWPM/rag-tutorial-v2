@@ -1,0 +1,35 @@
+ITEM NAME: Shield of Spectral Essence
+
+Kunark Era (added 2000)
+
+Shield of Spectral Essence
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 10
+DEX: +6  INT: +6
+SV MAGIC: +10
+WT: 0.0  Size: MEDIUM
+Class: SHD NEC
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+ Item Lore (from Identify):  Shield of Spectral Essence 
+
+  Drops From 
+Kaesora
+
+ spectral guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

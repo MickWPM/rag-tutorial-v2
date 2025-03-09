@@ -1,0 +1,36 @@
+ITEM NAME: Shaded Torch
+
+Velious Era (added December 2000-2001)
+
+Shaded Torch
+
+
+MAGIC ITEM  TEMPORARY  
+Slot: RANGE PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 2 
+STR: +2  AGI: +5  HP: +70  MANA: +10
+Effect: Steal Strength (Combat, Casting Time: Instant) at Level 25
+WT: 0.5  Size: SMALL
+Class: WAR SHD MNK BRD ROG
+Race: ALL except ELF HIE DWF HFL
+
+
+Torches on 7th floor randomly drop it.Most common place to find them is near the room the with spiral staircase heading up to the Mirror room. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a shaded torch
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

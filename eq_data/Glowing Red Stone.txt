@@ -1,0 +1,35 @@
+ITEM NAME: Glowing Red Stone
+
+Velious Era (added December 2000-2001)
+
+Glowing Red Stone
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+AC: 10
+WIS: +6  INT: +6  HP: +40
+WT: 0.0  Size: TINY
+Class: WAR CLR PAL RNG SHD DRU MNK
+BRD ROG SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Lord Doljonijiarnimorinar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

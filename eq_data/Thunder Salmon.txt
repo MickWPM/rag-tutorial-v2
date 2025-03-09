@@ -1,0 +1,33 @@
+ITEM NAME: Thunder Salmon
+
+Classic Era (added 1999-2000)
+
+
+
+
+Thunder Salmon
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Obtained by fishing in North Karana, East Karana, South Karana, West Karana 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Saucy Salted Seadragon Steak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Salmon Fillets
+
+
+
+

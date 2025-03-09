@@ -1,0 +1,35 @@
+ITEM NAME: Engineer's Ring
+
+Warrens Era (added spring 2001)
+
+
+Engineer's Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 20
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +5  INT: +5  AGI: +5  HP: +5  MANA: +20
+WT: 0.1  Size: TINY
+Class: WAR CLR PAL SHD ROG NEC WIZ MAG ENC
+Race: GNM
+
+
+ Item Lore (from Identify): Ring of an engineer 
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God - Hate Revamp)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

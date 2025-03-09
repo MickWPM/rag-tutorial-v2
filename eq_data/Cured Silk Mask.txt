@@ -1,0 +1,38 @@
+ITEM NAME: Cured Silk Mask
+
+
+Cured Silk Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 2
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+Part of the Cured Silk Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Tailoring (Trivial: 82)
+ Yield: Cured Silk Mask x1
+ In: Deluxe Sewing Kit, Large Sewing Kit, Loom
+
+
+  1 x Mask Pattern
+  1 x Heady Kiola
+  1 x Silk Swatch
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

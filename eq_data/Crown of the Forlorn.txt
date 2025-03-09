@@ -1,0 +1,35 @@
+ITEM NAME: Crown of the Forlorn
+
+Warrens Era (added spring 2001)
+
+Crown of the Forlorn
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 5
+STR: +5  HP: +20
+SV MAGIC: +5
+WT: 6.0  Size: SMALL
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Crown of the Kolbok King 
+
+  Drops From 
+The Warrens
+
+ King Gragnar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

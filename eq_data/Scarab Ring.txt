@@ -1,0 +1,33 @@
+ITEM NAME: Scarab Ring
+
+
+Scarab Ring
+
+
+MAGIC ITEM
+Slot: FINGER
+AC: 2
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Northern Desert of Ro
+
+ Rahotep
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

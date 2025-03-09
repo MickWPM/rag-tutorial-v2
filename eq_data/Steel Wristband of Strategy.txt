@@ -1,0 +1,37 @@
+ITEM NAME: Steel Wristband of Strategy
+
+Velious Era (added December 2000-2001)
+
+
+
+Steel Wristband of Strategy
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+AC: 2
+STR: +7  DEX: +7  CHA: -5  INT: +7
+WT: 1.0  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Semkak Prophet of Vallon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Strategies of the Ancient Dragons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

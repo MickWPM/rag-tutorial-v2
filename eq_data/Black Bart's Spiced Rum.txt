@@ -1,0 +1,32 @@
+ITEM NAME: Black Bart's Spiced Rum
+
+Kunark Era (added 2000)
+
+
+Black Bart's Spiced Rum
+
+
+QUEST ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Does this exist on p99? Used for Rogue Epic 1.5. 
+
+  Drops From 
+Timorous Deep
+
+ a fallen deckhand (not currently spawning as intended on P99)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

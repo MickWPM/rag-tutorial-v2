@@ -1,0 +1,38 @@
+ITEM NAME: Holgresh Fur Cap
+
+Velious Era (added December 2000-2001)
+
+
+
+Holgresh Fur Cap
+
+
+MAGIC ITEM Slot: HEAD AC: 3 DEX: +3  INT: +3  AGI: +3  MANA: +5
+SV FIRE: +2  SV COLD: +2  SV MAGIC: +2 WT: 0.5  Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 268)
+ Yield: Holgresh Fur Cap x1
+ In Coldain Tanners  Kit:
+
+
+  1 x Cap Pattern - Bought
+  1 x Gold Thread - Bought
+  2 x Holgresh Fur - Dropped
+  1 x Vial of Distilled Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

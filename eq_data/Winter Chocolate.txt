@@ -1,0 +1,41 @@
+ITEM NAME: Winter Chocolate
+
+
+Winter Chocolate
+
+
+This is a snack!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 95)
+ Yield: Winter Chocolate x1
+ In Oven:
+
+
+  1 x Brownie Parts - Dropped
+  2 x Frosting - Bought 
+
+
+  Tradeskill recipes 
+ Baking
+ Birthday Cake (Trivial: 162)
+ Chocolate Cookies (Trivial: 148)
+ Chocolate Marr Cherries (Trivial: 126)
+ Chocolate Muffins (Trivial: 155)
+
+
+
+
+

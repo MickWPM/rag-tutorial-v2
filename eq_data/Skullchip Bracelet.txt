@@ -1,0 +1,33 @@
+ITEM NAME: Skullchip Bracelet
+
+Kunark Era (added 2000)
+
+Skullchip Bracelet
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+WIS: +3  INT: +4  MANA: +10
+WT: 0.1  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL except BAR TRL OGR
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ Miner Bordakn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

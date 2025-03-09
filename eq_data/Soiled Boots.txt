@@ -1,0 +1,34 @@
+ITEM NAME: Soiled Boots
+
+
+
+Soiled Boots
+
+
+LORE ITEM  NO DROP
+Slot: FEET
+AC: 4
+WT: 2.5  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Upper Guk
+
+ a froglok tonta knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Earthen Boots Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

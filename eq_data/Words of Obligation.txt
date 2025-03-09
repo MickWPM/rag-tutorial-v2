@@ -1,0 +1,74 @@
+ITEM NAME: Words of Obligation
+
+
+Words of Obligation
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 2p 3g 3s 5c 
+
+  Drops From 
+City of Mist
+
+ a phantom
+ greater war boned skeleton
+
+The Wakening Land
+
+ A Faerie Dragon
+
+High Keep
+
+ Ran Flamespinner
+
+Howling Stones
+
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ a Drolvarg warlord
+ spectral knight
+
+Kedge Keep
+
+ a cauldron hammerhead
+
+Lesser Faydark
+
+ a brownie guard
+
+Nagafen's Lair
+
+ imp protector
+
+Temple of Solusek Ro
+
+ Tazgar
+
+Timorous Deep
+
+ a Raptor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Cackling Bones (Trivial: 164) (Research Only pre-Kunark)
+
+
+
+
+

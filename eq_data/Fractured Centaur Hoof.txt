@@ -1,0 +1,35 @@
+ITEM NAME: Fractured Centaur Hoof
+
+
+
+Fractured Centaur Hoof
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Southern Karana
+
+ centaur archer
+ centaur charger
+ centaur courser
+ centaur foal
+ centaur sheltie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

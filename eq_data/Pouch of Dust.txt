@@ -1,0 +1,38 @@
+ITEM NAME: Pouch of Dust
+
+Kunark Era (added 2000)
+
+
+Pouch of Dust
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ a sarnak partisan
+
+The Overthere
+
+ a sarnak partisan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 6 Luclin Era
+ Beguile Plants
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

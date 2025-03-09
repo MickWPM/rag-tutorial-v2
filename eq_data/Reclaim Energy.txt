@@ -1,0 +1,524 @@
+ITEM NAME: Reclaim Energy
+
+Classic Era (added 1999-2000)
+
+
+Reclaims the energy needed to maintain your pet, causing the pet to dissipate and restores the mana used to cast the pet times the current health percentage the pet is at (or very close to it).
+
+
+
+
+  Classes 
+ Necromancer - Level 1
+ Magician - Level 1
+ Enchanter - Level 1
+
+  Details 
+
+
+  1 :
+
+  Reclaim Energy
+
+
+
+ Mana
+
+ 5
+
+ Skill
+
+  Conjuration
+
+
+ Casting Time
+
+ 2.50
+
+ Recast Time
+
+ 2.25
+
+
+ Fizzle Time
+
+ 2.25
+
+ Resist
+
+ Unresistable
+
+
+ Range
+
+ 100
+
+ Target Type
+
+ Pet
+
+
+ Spell Type
+
+ Beneficial
+
+ Duration
+
+ Instant
+
+
+
+ Cast on You
+
+
+
+
+ Cast on Other
+
+ Someone  disperses.
+
+
+ Wears Off
+
+
+
+  Items with Spell Effect 
+  Zone Drops 
+Velious Era (added December 2000-2001)
+
+
+Harnessed soul gem
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+INT: +6  MANA: +35
+Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: 10.0)
+WT: 0.1  Size: SMALL
+Class: MAG
+Race: ALL
+
+
+Must equip to use, making this clickable by Magicians only. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Tserrina Syl`Tor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
+  Magician Focus Items 
+NOTE: These four "Magician Focus Items" can be right-clicked from inventory by any class, not just Magicians.  Thus, Enchanters, Necromancers, Shadow Knights, Shaman, and even Druids can obtain those items to have a Reclaim Energy "clickie".
+
+ Broom of TrilonBroom of Trilon
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 6 
+INT: +2  AGI: +3
+Effect:  Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
+Focus Effect: Minion of Air
+WT: 3.5  Size: LARGE
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+ Shovel of PonzShovel of Ponz
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 6 
+STR: +3  INT: +2
+Effect:  Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
+Focus Effect: Minion of Earth
+WT: 3.5  Size: LARGE
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+ Stein of UlissaStein of Ulissa
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 6 
+INT: +2
+SV COLD: +5
+Effect:  Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
+Focus Effect: Minion of Water
+WT: 3.5  Size: LARGE
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+ Torch of AlnaTorch of Alna
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 6 
+INT: +2
+SV FIRE: +5
+Effect:  Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
+Focus Effect: Minion of Fire
+WT: 3.5  Size: LARGE
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Magician Staffs of Elemental Mastery 
+ Staff of Elemental Mastery: AirStaff of Elemental Mastery: Air
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 30
+DMG: 15 
+Effect:  Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+Focus Effect: Servant of Air
+WT: 5.0  Size: LARGE
+Class: MAG
+Race: ALL
+
+
+
+ Staff of Elemental Mastery: EarthStaff of Elemental Mastery: Earth
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 30
+DMG: 15 
+Effect:  Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+Focus Effect: Servant of Earth
+WT: 5.0  Size: LARGE
+Class: MAG
+Race: ALL
+
+
+
+ Staff of Elemental Mastery: FireStaff of Elemental Mastery: Fire
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 30
+DMG: 15 
+Effect:  Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+Focus Effect: Servant of Fire
+WT: 5.0  Size: LARGE
+Class: MAG
+Race: ALL
+
+
+
+ Staff of Elemental Mastery: WaterStaff of Elemental Mastery: Water
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 30
+DMG: 15 
+Effect:  Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+Focus Effect: Servant of Water
+WT: 5.0  Size: LARGE
+Class: MAG
+Race: ALL
+
+
+
+
+  Non-Magician Reclaim Energy Items 
+ Encyclopedia NecrotheurgiaEncyclopedia Necrotheurgia
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Effect:  Reclaim Energy (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+Focus Effect: Minion of Hate
+WT: 2.0  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ (Necromancer-only)
+ Helm of RidossanHelm of Ridossan
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 7
+STR: +3  DEX: +1  INT: +2
+SV FIRE: +3
+Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: 0.7) at Level 20
+WT: 2.3  Size: MEDIUM
+Class: SHD
+Race: ERU
+
+
+ (Erudite Shadow Knight-only)
+ Beguiler's WristguardBeguiler's Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+INT: +2  AGI: +5  MANA: +20
+SV FIRE: +2  SV DISEASE: +1  SV COLD: +2  SV MAGIC: +1  SV POISON: +1
+Effect:  Reclaim Energy (Must Equip, Casting Time: 1.0)
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ = Dazzling WristguardDazzling Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+CHA: +2  INT: +2  AGI: +5  MANA: +20
+SV FIRE: +3  SV DISEASE: +4  SV COLD: +3  SV MAGIC: +1  SV POISON: +3
+Effect:  Reclaim Energy (Must Equip, Casting Time: 1.0) at Level 50
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ = Illusionist's WristguardIllusionist's Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+STA: +5  INT: +5  AGI: +5  HP: +40  MANA: +20
+SV FIRE: +1  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +1  SV POISON: +1
+Effect:  Reclaim Energy (Must Equip, Casting Time: 1.0)
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ = Resplendent WristguardResplendent Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+INT: +2  AGI: +5  MANA: +20
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +2  SV MAGIC: +1  SV POISON: +2
+Effect: Reclaim Energy (Must Equip, Casting Time: 1.0)
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ (Enchanter)
+ Warlock's WristguardWarlock's Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+DEX: +5  INT: +2  HP: +20
+SV FIRE: +2  SV DISEASE: +1  SV COLD: +2  SV MAGIC: +1  SV POISON: +1
+Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: 1.0)
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ = Plague Bearer's WristguardPlague Bearer's Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+DEX: +5  INT: +3  HP: +25  MANA: +10
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +2  SV MAGIC: +1  SV POISON: +1
+Effect: Reclaim Energy (Must Equip, Casting Time: 1.0) at Level 50
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ = Rotting WristguardRotting Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+DEX: +5  INT: +3  HP: +20  MANA: +20
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Reclaim Energy (Must Equip, Casting Time: Instant)
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ = Wristband of the BonecasterWristband of the Bonecaster
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 4
+DEX: +5  INT: +2  HP: +20
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +2  SV MAGIC: +1  SV POISON: +2
+Effect:  Reclaim Energy (Must Equip, Casting Time: 1.0)
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ (Necromancer)
+
+  Where to Obtain 
+
+
+ Zone
+
+ Merchant Name
+
+ Area
+
+ Location
+
+
+ Ak'Anon
+
+ Clockwork Merchant (NG-2)
+
+  Necromancer Guild
+
+  (2096,-408)
+
+
+ Ak'Anon
+
+ Clockwork Merchant (LG-17)
+
+  Library
+
+  (1105,-1022)
+
+
+ Southern Felwithe
+
+ Vellera Wintergreen
+
+  Magician Guild
+
+  (715,-526)
+
+
+ East Freeport
+
+ Mika Fugas
+
+  Underground
+
+  (-196,-264)
+
+
+ Erudin Palace
+
+ Killi Frillep
+
+  Magician Guild (F2)
+
+  (695,919)
+
+
+ Neriak - 3rd Gate
+
+ Vissa D'Dbth
+
+  Necromancer Guild (F1)
+
+  (1319,-1236)
+
+
+ Neriak - Commons
+
+ Cizzar J'Axx
+
+  Caster Guild (Basement)
+
+  (135,-921)
+
+
+ Paineel
+
+ Danus Kelmun
+
+  Necromancer Guild
+
+  (692,856)
+
+
+ Qeynos Catacombs
+
+ Pakeg Aspet
+
+  Necromancer Guild
+
+  (310,-321)
+
+
+ South Qeynos
+
+ Tsuden Korinte
+
+  Caster Guild
+
+  (322,-595)
+
+
+ South Qeynos
+
+ Neapha Vesturo
+
+  The Herb Jar
+
+  (317,-554)
+
+
+ West Cabilis
+
+ Keeper Bile
+
+  Cubby near PvP Area
+
+  (-380,255)
+
+
+ West Freeport
+
+ Trepo Merrop
+
+  Caster Guild (F3)
+
+  (133,-762)
+
+

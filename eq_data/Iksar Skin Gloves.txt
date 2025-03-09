@@ -1,0 +1,42 @@
+ITEM NAME: Iksar Skin Gloves
+
+Chardok Revamp Era (added late 2001)
+
+Iksar Skin Gloves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 2
+CHA: +5  INT: +3  MANA: +10
+WT: 0.4  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Chardok
+
+ a Di`Zok Captain
+ a Di`Zok Cryptmaster
+ a Di`Zok Legionnaire
+ a Di`zok Recruit
+ a Di`zok Librarian
+ an Imperial Officer
+ Battle Master Ska`tu
+ Kennel Master Al`ele
+  Overseer Dal`guur 
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

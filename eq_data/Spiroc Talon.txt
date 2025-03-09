@@ -1,0 +1,33 @@
+ITEM NAME: Spiroc Talon
+
+Classic Era (added 1999-2000)
+
+Spiroc Talon
+
+
+LORE ITEM
+WT: 9.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a spiroc walker
+ The Spiroc Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Tears
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

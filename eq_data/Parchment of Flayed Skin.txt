@@ -1,0 +1,31 @@
+ITEM NAME: Parchment of Flayed Skin
+
+Classic Era (added 1999-2000)
+
+Parchment of Flayed Skin
+
+
+WT: 0.1  Size: TINY
+
+
+It has no known use. Vendors will buy it for 4.2p with average CHA. 
+
+  Drops From 
+Lower Guk
+
+ a ghoul scribe
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+This piece of parchment is in fact a flayed piece of skin, upon which unsettling and cryptic runes have been drawn.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

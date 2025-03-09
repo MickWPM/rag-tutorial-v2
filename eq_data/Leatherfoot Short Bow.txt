@@ -1,0 +1,33 @@
+ITEM NAME: Leatherfoot Short Bow
+
+
+
+Leatherfoot Short Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 41
+DMG: 4
+WT: 3.5  Range: 50  Size: MEDIUM
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Nektulos Forest
+
+ Snitch
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

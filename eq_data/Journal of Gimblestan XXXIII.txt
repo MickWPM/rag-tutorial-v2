@@ -1,0 +1,72 @@
+ITEM NAME: Journal of Gimblestan XXXIII
+
+
+
+Journal of Gimblestan XXXIII
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ Steamfont Mountains
+
+ a mechanical merchant
+
+
+
+  (1622, -1728)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+From the notes of Gimblestan, First Assistant to King Ak-'Anon the XVII, Master of the Tinkering Arts.
+Volume XXXIII
+Although I'm sure they were sad to see us leave, the human crew who had brought us out into the Ocean of Tears
+must have been very excited about our expedition as they eagerly tossed us into the lifeboat that would serve as
+our base. As we dove deeper into the chilly waters I noticed Nantik was turning a much deeper shade of blue
+than normal. It was then that I realized his AQUALUNG must be out of air. He had cleverly assembled this
+breathing apparatus using fine coral mesh attached to a silk lined steel helm with some metal twine and gnomish
+bolts. A metal rod served as the mouthpiece, with gills from a fresh fish inserted to filter the water. A quick
+tug on his support wire shot him upwards where he managed to project a respectable 20ft from the surface before
+landing near the boat. Hopefully I would have no such trouble as I had just recently made some
+modifications to his breathing device producing an upgraded version, which I named a REBREATHER. Using
+Nantik's original aqualung, I applied a lime coated meshing to absorb the unbreathable gases I expelled. The
+sharkskin tubing connected the medium sized platemail helm I was using to an extra supply of firewater and was
+held on tightly by a metal fastening. This allowed me to effectively use the same supply of air for a great
+deal of time. As we reached the wreckage of the sunken vessel I was mindful to pickup a few pearls for my
+friend Simpkin the jeweler.
+He had just finished the initial design on his GEMCUTTER and was interested in using it to make those
+wonderful pearl anaglyphs he is so fond of. By using a metal rod coated in diamond dust and held to a cam by a
+metal fastening, his firewater powered apparatus was able to make precise cuts in even the tiniest gems
+while only requiring a small bit of grease to reduce friction. At last we were ready to begin the salvage
+operation. [CONTINUED]
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

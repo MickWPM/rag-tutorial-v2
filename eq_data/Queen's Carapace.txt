@@ -1,0 +1,38 @@
+ITEM NAME: Queen's Carapace
+
+Velious Era (added December 2000-2001)
+
+ Virasan models Queen's Carapace.
+Queen's Carapace
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 37
+STR: +15  DEX: +5  STA: +15  WIS: +7  INT: +7  AGI: +5  HP: +75
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +25
+WT: 2.5  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+ Item Lore (from Identify): Pristine Phase Spider Carapace 
+
+  Drops From 
+Dragon Necropolis
+
+ Queen Raltaas
+
+Sought after for its high HP and PR, but also the amazing yellow and white gold graphic plate.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

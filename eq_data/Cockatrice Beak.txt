@@ -1,0 +1,46 @@
+ITEM NAME: Cockatrice Beak
+
+Kunark Era (added 2000)
+
+
+Cockatrice Beak
+
+
+QUEST ITEM
+WT: 0.2  Size: TINY
+Class: NONE
+Race: NONE
+
+
+Used for PoK-era quest (no known use in classic?). 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 1 Platinums
+ 8 Golds
+ 4 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Dreadlands
+
+ a petrifier cockatrice
+ a stoneleer cockatrice
+
+The Overthere
+
+ a stonegazer cockatrice
+ a stoneglint cockatrice
+ a stonepeep cockatrice
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

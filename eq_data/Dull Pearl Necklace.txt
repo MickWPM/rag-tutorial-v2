@@ -1,0 +1,44 @@
+ITEM NAME: Dull Pearl Necklace
+
+
+
+Dull Pearl Necklace
+
+
+LORE ITEM  NODROP
+Slot: NECK
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+There are 4 versions of this item which appear identical, and must be identified if you wish to know which sister they belong to. 
+
+  Drops From 
+Lesser Faydark
+
+ Jayla Nybright
+ Kayla Nybright
+ Shayla Nybright
+ Tayla Nybright
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bandit Sisters
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

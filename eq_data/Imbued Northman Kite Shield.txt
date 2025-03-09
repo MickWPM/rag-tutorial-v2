@@ -1,0 +1,43 @@
+ITEM NAME: Imbued Northman Kite Shield
+
+
+Imbued Northman Kite Shield
+
+
+MAGIC ITEM
+Slot: SECONDARY
+AC: 10
+WIS: +3  HP: +4
+SV COLD: +5
+WT: 10.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: HUM BAR ERU HEF IKS
+Deity: The Tribunal
+
+
+Unsure if the other version with Imbued Jade (Rallos Zek) exists? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Imbued Northman Kite Shield x1
+ In Northman Forge:
+
+
+  1 x Frost Temper - Crafted
+  1 x Imbued Ivory - Summoned
+  1 x Kite Shield Mold - Bought
+  1 x Medium Quality Folded Sheet Metal - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

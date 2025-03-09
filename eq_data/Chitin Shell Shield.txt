@@ -1,0 +1,33 @@
+ITEM NAME: Chitin Shell Shield
+
+
+Chitin Shell Shield
+
+
+Slot: SECONDARY
+AC: 15
+SV POISON: +10
+WT: 4.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+
+ Merchant resale value: 3p 
+
+  Drops From 
+Upper Guk
+
+ a giant heart spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

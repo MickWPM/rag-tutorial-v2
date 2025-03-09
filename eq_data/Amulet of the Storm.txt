@@ -1,0 +1,34 @@
+ITEM NAME: Amulet of the Storm
+
+Velious Era (added December 2000-2001)
+
+Amulet of the Storm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 25
+SV DISEASE: +10  SV MAGIC: +25  SV POISON: +10
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Feshlak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

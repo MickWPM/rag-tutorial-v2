@@ -1,0 +1,50 @@
+ITEM NAME: Axe of the Iron Back
+
+Kunark Era (added 2000)
+
+Axe of the Iron Back
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 37
+DMG: 16 
+WT: 12.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+Sells to merchants for about 12pp. 
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+
+Dreadlands
+
+ a mountain giant brae
+ a mountain giant craig
+ a mountain giant patriarch
+
+Frontier Mountains
+
+ a mountain giant brae
+ a mountain giant hillock
+ a mountain giant tump
+
+Warsliks Woods
+
+ A Forest Giant Greenwood
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

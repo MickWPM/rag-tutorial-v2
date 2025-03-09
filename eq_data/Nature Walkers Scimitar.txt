@@ -1,0 +1,37 @@
+ITEM NAME: Nature Walkers Scimitar
+
+Epic Quests Era (added Sept 2000)
+
+ Kajo the Wood Elf modeling Nature walkers scimitar.
+Nature Walkers Scimitar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 20 
+STR: +15  STA: +15  WIS: +20  HP: +10  MANA: +90
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Required level of 46.
+Effect:  Wrath of Nature (Must Equip, Casting Time: 9.0) at Level 50
+WT: 3.0  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+ Item Lore (from Identify): Scimitar of the True Druid 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

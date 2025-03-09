@@ -1,0 +1,41 @@
+ITEM NAME: Opalescent Hide
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Opalescent Hide
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Need confirmation this exists on p99. Only comment on alla links it to a non-classic "reverse PvP status" quest. 
+
+  Drops From 
+Howling Stones
+
+ a bottomless devourer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

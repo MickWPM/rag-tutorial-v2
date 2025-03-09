@@ -1,0 +1,39 @@
+ITEM NAME: Blue Diamond Electrum Earring
+
+Velious Era (added December 2000-2001)
+
+Blue Diamond Electrum Earring
+
+
+MAGIC ITEM
+Slot: EAR
+MANA: +15
+SV FIRE: +6  SV DISEASE: +11  SV COLD: +6  SV MAGIC: +4  SV POISON: +11
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Blue Diamond Jewelcrafting combines are Velious era. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 148)
+ Blue Diamond Electrum Earring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Electrum Bar - Crafted
+  1 x Blue Diamond - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

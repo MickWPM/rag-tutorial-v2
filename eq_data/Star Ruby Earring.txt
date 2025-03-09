@@ -1,0 +1,94 @@
+ITEM NAME: Star Ruby Earring
+
+Kunark Era (added 2000)
+
+Star Ruby Earring
+
+
+Slot: EAR
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Can drop from mobs lv 40+ 
+ Merchant resale value: 123p 5g 
+
+  Drops From 
+Chardok
+
+ a Di`Zok Cryptmaster
+ a Di`Zok Dragoon
+ a Reanimated Berserker
+
+Kedge Keep
+
+ Phinigel Autropos
+
+Ocean of Tears
+
+ Quag Maelstrom
+
+Old Sebilis
+
+ a leprous scarab
+ a necrosis scarab
+ a pox scarab
+ a sepsis scarab
+ an iksar necromancer
+ frenzied pox scarab
+ froglok bok knight
+ froglok bok shaman
+ froglok bok wizard
+ froglok dar knight
+ froglok dar wizard
+ froglok ilis knight
+ froglok ilis shaman
+ froglok ilis wizard
+ froglok jin shaman
+ froglok jin wizard
+ froglok kor shaman
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ froglok zol knight
+ Gangrenous Scarab
+ krup ghoul knight
+ sebilite guardian
+ sebilite juggernaut
+ sebilite protector
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a nightmare
+ a samhain
+ Amygdalan knight
+
+Plane of Hate
+
+ a hatebone drake (2.0)
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+The Wakening Land
+
+ a geonid
+ a tar goo
+ A Faerie Dragon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ulthork Tusks Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

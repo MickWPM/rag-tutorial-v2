@@ -1,0 +1,34 @@
+ITEM NAME: Large Sky Pearl
+
+Sky Era (added January 2000)
+
+Large Sky Pearl
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+ The Hand of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Raising the Dead
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

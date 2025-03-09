@@ -1,0 +1,42 @@
+ITEM NAME: Idol of Bertoxxulous
+
+Velious Era (added December 2000-2001)
+
+
+Idol of Bertoxxulous
+
+
+MAGIC ITEM  
+Slot: RANGE PRIMARY SECONDARY
+WIS: +3  INT: +3
+SV DISEASE: +2
+WT: 0.1  Size: TINY
+Class: WAR CLR SHD ROG NEC WIZ MAG ENC
+Race: HUM HEF GNM
+Deity: Bertoxxulous
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 282)
+ Idol of Bertoxxulous
+ In Kiln:
+
+
+  1 x Divine Crystalline Glaze - Crafted
+  1 x High Quality Firing Sheet - Crafted, Bought
+  1 x Unfired Idol (of Bertoxxulous) - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

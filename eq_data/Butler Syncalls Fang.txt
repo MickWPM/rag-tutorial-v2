@@ -1,0 +1,31 @@
+ITEM NAME: Butler Syncalls Fang
+
+
+Butler Syncalls Fang
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Mistmoore Castle
+
+ Butler Syncall
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vampire Teeth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

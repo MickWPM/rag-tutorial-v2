@@ -1,0 +1,62 @@
+ITEM NAME: Words of Possession
+
+
+Words of Possession
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 4g 1s 5c 
+
+  Drops From 
+Beholder's Maze
+
+An Evil Eye
+
+Everfrost Peaks
+
+a snow orc shaman
+
+Lake of Ill Omen
+
+A sarnak recruit
+
+Ocean of Tears
+
+ A Gargoyle
+ A Shark
+
+West Commonlands
+
+ Kizdean Gix
+
+Eastern Plains of Karana
+
+ a gorge hound
+
+West Karana
+
+ A Bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Voice Graft (Trivial: 21) (Research Only)
+ Haunting Corpse (Trivial: 62) (Research Only) 
+ Summon Dead (Trivial: 87)
+ Vampiric Curse (Trivial: 95) (Research Only pre-Kunark)
+
+
+
+
+

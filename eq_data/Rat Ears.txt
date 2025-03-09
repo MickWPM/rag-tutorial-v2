@@ -1,0 +1,98 @@
+ITEM NAME: Rat Ears
+
+
+Rat Ears
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a Mistmoore guard
+
+Dagnor's Cauldron
+
+ a scalded rat
+
+Misty Thicket
+
+ a diseased rat
+ a giant thicket rat
+ a large thicket rat
+
+North Qeynos
+
+ a large rat
+
+Northern Desert of Ro
+
+ a large rat
+
+Steamfont Mountains
+
+ a giant diseased rat
+ a large plague rat
+ a large rat
+ a young plague rat
+ an infected rat
+ Meldrath The Malignant
+
+Thurgadin
+
+ a scuttle rat
+
+Toxxulia Forest
+
+ an infected rat
+
+West Freeport
+
+ a large rat
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+  Related quests 
+ Neonate Cowardice
+ Rat Ear Pie Quest
+ Zimel's Blades (SoulFire)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Mechanized Lockpicks (Trivial: 62)
+
+ Baking
+ Edible Goo (Trivial: 21)
+ Uncooked Rat Ear Pie (Trivial: 28)
+ Rat Ear Sandwich (Trivial: 36)
+ Rat Ear Turnovers (Trivial: 142)
+
+ Brewing
+ Gnomish Spirits (Trivial: 102)
+
+
+
+
+

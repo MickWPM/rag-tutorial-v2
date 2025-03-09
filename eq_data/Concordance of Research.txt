@@ -1,0 +1,27 @@
+ITEM NAME: Concordance of Research
+
+
+Concordance of Research
+
+
+WT: 0.2  Weight Reduction: 0%
+Capacity: 6  Size Capacity: GIANT
+
+
+This is the tradeskill container for practice (spell) research. It is useful for skilling up Research at lower levels. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Evil Research
+ Research Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

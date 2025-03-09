@@ -1,0 +1,34 @@
+ITEM NAME: Goblin Meat
+
+
+
+Goblin Meat
+
+
+MAGIC ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Solusek's Eye
+
+ Solusek champion
+ Solusek goblin
+ Solusek mage
+ Solusek priest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Katana of Pain
+
+Velious Era (added December 2000-2001) Katana of Pain
+
+
+Katana of Pain
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 18
+DMG: 11 
+STR: +15  DEX: +15  STA: +50
+SV FIRE: -10  SV DISEASE: -10  SV COLD: -10  SV MAGIC: -10  SV POISON: -10
+WT: 5.0  Size: TINY
+Class: WAR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Aaryonar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

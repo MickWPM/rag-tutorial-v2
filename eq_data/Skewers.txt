@@ -1,0 +1,56 @@
+ITEM NAME: Skewers
+
+Classic Era (added 1999-2000)
+
+Skewers
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Skewers x1
+ In Forge:
+
+
+  1 x Metal Bits - Crafted
+  1 x Skewer Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Pottery (Trivial: 17)
+ Yield: Skewers x1
+ In Kiln:
+
+
+  1 x Quality Firing Sheet - Bought
+  1 x Unfired Skewers - Crafted 
+
+
+  Tradeskill recipes 
+ Tinkering
+ Compass (Trivial: 50)
+
+ Baking
+ Gnome Kabobs (Trivial: 56)
+ Lizard-on-a-Stick (Trivial: 56)
+ Rat Kabobs (Trivial: 26)
+
+ Blacksmithing
+ Smoker (Trivial: 50)
+
+
+
+
+

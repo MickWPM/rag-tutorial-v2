@@ -1,0 +1,36 @@
+ITEM NAME: Mended Tapestry
+
+
+
+Mended Tapestry
+
+
+The Note is rolled up.
+LORE ITEM NO TRADE
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 2nd Rank
+
+  Player crafted 
+ Tailoring (Trivial: 23)
+ Yield: Mended Tapestry x1
+ In Loom:
+
+
+  1 x Torn Tapestry - Dropped
+  1 x Ripped Tapestry - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

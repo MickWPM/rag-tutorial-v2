@@ -1,0 +1,34 @@
+ITEM NAME: Recurved Velium Bow
+
+Velious Era (added December 2000-2001)
+
+Recurved Velium Bow
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE
+Skill: Archery  Atk Delay: 39
+DMG: 30
+WT: 2.0  Range: 110  Size: MEDIUM
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari Dominator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

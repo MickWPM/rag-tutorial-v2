@@ -1,0 +1,47 @@
+ITEM NAME: Words of Coercion
+
+
+Words of Coercion
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used by Magician researchers to craft LVL 29 pet spells. 
+
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Southern Karana
+
+Aviak avocet
+
+Warsliks Woods
+
+ A Forest Giant Evergreen
+
+Great Divide
+
+Bekerak Coldbones
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Greater Summoning: Air (Trivial: 82)
+ Greater Summoning: Earth (Trivial: 82) (Research Only)
+ Greater Summoning: Fire (Trivial: 82)
+ Greater Summoning: Water (Trivial: 82) (Research Only)
+
+
+
+
+

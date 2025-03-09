@@ -1,0 +1,51 @@
+ITEM NAME: Evergreen Extract
+
+Classic Era (added 1999-2000)
+
+Evergreen Extract
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+The extract used to make Fine Plate Armor green dye. One, two or three are required for light, medium and dark. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 36)
+ Yield: Evergreen Extract x1
+ In Medicine Bag:
+
+
+  1 x Empty Vial - Crafted, Bought
+  1 x Evergreen Leaf - Ground Spawn
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Poison Making (Trivial: 36)
+ Yield: Evergreen Extract x1
+ In Mortar and Pestle:
+
+
+  1 x Empty Vial - Crafted, Bought
+  1 x Evergreen Leaf - Ground Spawn
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill
+ Light Green Dye (Trivial: No Fail)
+ Green Dye (Trivial: No Fail)
+ Dark Green Dye (Trivial: No Fail)
+
+
+
+
+

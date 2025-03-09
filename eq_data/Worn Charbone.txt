@@ -1,0 +1,36 @@
+ITEM NAME: Worn Charbone
+
+
+
+Worn Charbone
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ charbone skeleton
+
+Swamp of No Hope
+
+ charbone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Cloak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

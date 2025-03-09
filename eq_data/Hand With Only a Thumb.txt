@@ -1,0 +1,29 @@
+ITEM NAME: Hand With Only a Thumb
+
+Kunark Era (added 2000)
+
+
+Hand With Only a Thumb
+
+
+LORE ITEM  NO DROP
+WT: 1.5  Weight Reduction: 0%
+Capacity: 4  Size Capacity: TINY
+
+
+ Item Lore (from Identify): Palm of Talon Southpaw A container for fingers... 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Rock
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

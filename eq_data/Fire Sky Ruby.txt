@@ -1,0 +1,63 @@
+ITEM NAME: Fire Sky Ruby
+
+Sky Era (added January 2000)
+
+
+
+Fire Sky Ruby
+
+
+LORE ITEM
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Note: There are two items with this same name, be careful! 
+
+  Drops From 
+Plane of Sky
+
+ a fatestealer drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of Nature (weight 3.0)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
+Fire Sky Ruby
+
+
+LORE ITEM
+WT: 12.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a fatestealer drake
+ various mobs (island 7)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of the Witch Doctor (weight 12.0)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,223 @@
+ITEM NAME: Wooden Shield
+
+
+
+Wooden Shield
+
+
+Slot: SECONDARY
+AC: 5
+WT: 5.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Befallen
+
+ a dread bone
+
+Commonlands
+
+ a decaying skeleton
+ a Dervish Cutthroat
+ a lesser mummy
+ a parched zombie
+ a zombie
+ orc oracle
+
+Everfrost Peaks
+
+ ice boned skeleton
+
+Lesser Faydark
+
+ a rancorous ghast
+ a skeleton
+
+Rathe Mountains
+
+ a zombie
+
+Najena
+
+ a greater skeleton
+
+Nektulos Forest
+
+ a deathfist legionnaire
+ a rotting citizen
+ a zombie
+
+Northern Desert of Ro
+
+ a lesser mummy
+ a shriveled mummy
+ a zombie
+
+Ocean of Tears
+
+ a greater skeleton
+
+Southern Desert of Ro
+
+ an orc cleric
+
+Steamfont Mountains
+
+ a skeleton
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ West Commonlands
+
+ Ranon Strongarm
+
+
+
+  (-463, 2827)
+
+
+ East Commonlands
+
+ Altunic Jartin
+
+
+
+  (-115, 4734)
+
+
+ East Commonlands
+
+ Pardor the Blessed
+
+
+
+  (-121, -780)
+
+
+ East Commonlands
+
+ A Shady Swashbuckler
+
+
+
+  (-1677, -141)
+
+
+ Felwithe
+
+ Merchant Tearlan
+
+
+
+  (-79, -385)
+
+
+ East Freeport
+
+ Hundle Quatvel
+
+
+
+  (-187, -233)
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ West Freeport
+
+ Ping Fuzzlecutter
+
+
+
+  (-269, 535)
+
+
+ West Freeport
+
+ Lindie Rains
+
+
+
+  (-39, 12)
+
+
+ Neriak Foreign Quarter
+
+ Ootok
+
+
+
+  (-417, -457)
+
+
+ Paineel
+
+ Kervis Ackblor
+
+
+
+  (1097, 428)
+
+
+ South Qeynos
+
+ Raffy Conticede
+
+
+
+  (-282, -491)
+
+
+ Surefall Glade
+
+ Sequea Erthinon
+
+
+
+  (-155, -293)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

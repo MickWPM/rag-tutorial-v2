@@ -1,0 +1,41 @@
+ITEM NAME: Wedding Cake
+
+Classic Era (added 1999-2000)
+
+Wedding Cake
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 157)
+ Yield: Wedding Cake x2
+ In Oven:
+
+
+  1 x Cake Round - Crafted, Returned on Failure, Returned on Success
+  1 x Clump of Dough - Crafted
+  1 x Frosting - Bought
+  1 x White Chocolate - Crafted 
+
+
+  Tradeskill recipes 
+ Baking
+ Wedding Cake Slice (Trivial: 15)
+
+
+
+
+

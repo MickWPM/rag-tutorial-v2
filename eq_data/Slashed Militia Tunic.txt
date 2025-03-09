@@ -1,0 +1,33 @@
+ITEM NAME: Slashed Militia Tunic
+
+Classic Era (added 1999-2000)
+
+
+Slashed Militia Tunic
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+West Freeport
+
+ Guard Alayle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Traitor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Holgresh Elder Beads
+
+Velious Era (added December 2000-2001)
+ NERF ALERT (see notes)
+
+Holgresh Elder Beads
+
+
+LORE ITEM
+Slot: NECK
+SV FIRE: +1  SV COLD: +1  SV MAGIC: +2
+Effect:  Eye of Zomm (Any Slot, Casting Time: 4.0)
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Previously dropped from An_elder_holgresh in The Wakening Land.
+
+No longer drops on BLUE and GREEN. Replaced with Holgresh Grand Vizier Beads[1]
+Current Holgresh Elder Beads continue to function as normal.
+
+ 
+
+  Drops From 
+The Wakening Land
+
+ an elder holgresh (no longer drops, replaced with Holgresh Grand Vizier Beads)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

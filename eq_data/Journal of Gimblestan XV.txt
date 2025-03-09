@@ -1,0 +1,90 @@
+ITEM NAME: Journal of Gimblestan XV
+
+Classic Era (added 1999-2000)
+
+
+Journal of Gimblestan XV
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ The Overthere
+
+ Tin Merchant V
+
+
+
+  (2612, 2527)
+
+
+ Steamfont Mountains
+
+ Bom Knotwood
+
+
+
+  (175, -875)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+From the notes of Gimblestan, First Assistant to King Ak-'Anon the XVII, Master of the Tinkering Arts.
+Volume XV
+[CONTINUED]
+On a personal note, the chill which I felt creep up my spine
+had nothing to do with the poor operating quality of my
+THERMAL CLOAK. It has continued to function quite
+well. The firewater flask, carefully positioned on my
+belt, causes no hindrance to my movement, and the metal
+rods sewn into the tattered gnomish cloak conduct the
+heat quite well.
+Transvin motioned for us to extinguish our lights.
+Kneeling down, I handed him my new SPYGLASS to look
+through. It seems to be working rather well. He
+laughed at first, mistaking the body of my old
+collapsible fishing pole. Once he peered through the
+reflective shard, all jibing stopped. I believe that this
+is one of by best works yet. The extra metal rod gives it
+a good shell, while the bottle and the metal twine
+hold and amplify the image seen through the reflective shard.
+Once Transvin had scouted the terrain, we all hooked our
+STALKING PROBES to him. I love these things - and wish
+I had thought them up first. Another example of superior
+gnomish technology. The only danger comes from putting
+firewater on a scout. The two sets of gears, hooked to
+the metal rod and bottle pose no danger in and of themselves.
+I am worried, however, that one day a scout will burst
+into flames as she lures prey back to us.
+Such are the hazards of innovation. We have dubbed our minotaur Binky.
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

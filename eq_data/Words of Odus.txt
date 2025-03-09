@@ -1,0 +1,70 @@
+ITEM NAME: Words of Odus
+
+
+Words of Odus
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Howling Stones
+
+ Hexbone Skeleton
+
+Kedge Keep
+
+ a swirlspine seahorse
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Old Sebilis
+
+ froglok armsman
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Hate
+
+ a loathling lich
+ a repulsive rat
+
+Skyfire Mountains
+
+ a mature chromadrac
+ an old wurm
+
+Timorous Deep
+
+a Vicious Raptor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Bond of Death (Trivial: 184) (Research Only)
+
+
+
+
+

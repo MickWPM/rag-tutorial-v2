@@ -1,0 +1,36 @@
+ITEM NAME: Crescent Slippers
+
+Kunark Era (added 2000)
+
+
+Crescent Slippers
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 4
+STR: +2  DEX: +2  AGI: +2
+SV DISEASE: +2
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+Part of the Crescent Armor Set 
+
+  Drops From 
+Crypt of Dalnir
+
+ a kly evoker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

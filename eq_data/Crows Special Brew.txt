@@ -1,0 +1,51 @@
+ITEM NAME: Crows Special Brew
+
+Classic Era (added 1999-2000)
+
+Crows Special Brew
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Patch changes April 27th, 2014: Crows Special Brew may be used in place of skins for the following recipes: Unfired Poison Vial, Unfired Lined Vial, Unfired Sealed Vial. Crow only sells a limited quantity see Crow's page for more info. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Qeynos
+
+ Crow
+
+
+
+  (91, 358)
+
+  Related quests 
+ Plaguebringer Proof
+ Gharin's Note (evil)
+ Gharin's Note (Good)
+ Gindlin's Poison
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Unfired Poison Vial
+ Unfired Lined Poison Vial
+ Unfired Sealed Poison Vial
+
+
+
+
+

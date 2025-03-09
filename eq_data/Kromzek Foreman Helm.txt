@@ -1,0 +1,37 @@
+ITEM NAME: Kromzek Foreman Helm
+
+Velious Era (added December 2000-2001)
+
+Kromzek Foreman Helm
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 12
+HP: +15
+SV DISEASE: +5  SV POISON: +5
+WT: 10.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: BAR TRL OGR
+
+
+
+ Merchant resale value: 4.6p 
+
+  Drops From 
+The Wakening Land
+
+ A Storm Giant Foreman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crest of the Faerie Dragons Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

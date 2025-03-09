@@ -1,0 +1,176 @@
+ITEM NAME: Fletching (Book)
+
+
+
+Fletching
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Zotalz
+
+
+
+  (344, 526)
+
+
+ Firiona Vie
+
+ Fleceal Summer
+
+
+
+  (-3426, 3327)
+
+
+ Greater Faydark
+
+ Merchant Lanin
+
+
+
+  (414, 329)
+
+
+ Halas
+
+ Rain
+
+
+
+  (175, -296)
+
+
+ Iceclad Ocean
+
+ Adinel Jailbar
+
+
+
+  (4540, 1287)
+
+
+ Neriak Commons
+
+ Andara C`Luzz
+
+
+
+  (-135, -1062)
+
+
+ The Overthere
+
+ Tin Merchant X
+
+
+
+  (2697, 2620)
+
+
+ Surefall Glade
+
+ Livam T`Lant
+
+
+
+  (-108, -271)
+
+
+ Surefall Glade
+
+ Jarse Kedison
+
+
+
+  (105, 105)
+
+
+ Steamfont Mountains
+
+ a clockwork fletcher
+
+
+
+  (79, -661)
+
+
+ Thurgadin
+
+ Tavir
+
+
+
+  (-187, -298)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+A FIELD GUIDE TO FLETCHING: THIRD EDITION
+Fletching, the art of making arrows from component pieces,
+is one of the oldest weapon crafts on Norrath.
+This tome details the construction of arrows, as
+well as providing information on the sister craft of the Bowyer.
+Bowyers and Fletchers both require Fletching Kits to practice their trades.
+Fletching kits can be purchased from archery shops.
+ARROWS
+There are four parts to every arrow.
+Generally, the cheaper the part, the easier it is to assemble.
+Expensive components produce superior arrows.
+1. NOCK
+There are three types of nocks, differentiated by the
+size of their grooves. The larger the groove, the easier
+the arrow is to make. The smaller the groove, the
+farther the arrow travels.
+2. SHAFT
+The shaft of the arrow can be made from a variety of
+different materials. The most common material used for
+shafts is wood. Bone shafts are stronger than wood, and
+Porcelain stronger than Bone.
+Steel is the strongest material used for arrow shafts.
+3. TIP
+There are many designs for arrow tips. The most common
+is the point tipped arrow. Slightly more damaging is the
+hooked tip - its small blades cause tearing and
+bleeding. Actual bladed arrows do more damage than the
+hook tipped arrows, though they are easier to remove.
+4. FLETCH
+The fletch, or feathering, of the arrow influences the
+distance the arrow travels, as well as the impact
+delivered upon a successful hit.
+The easiest pattern to fletch is a round cut.
+Slightly more difficult is the parabolic cut, whose spin
+gives the arrow additional flight range.
+The shield cut fletch pattern has a shorter range than
+either the round or the parabolic cut, but produces
+a spin providing superior armor penetration.
+RESTRINGING BOWS
+The strings of bows are interchangable and various
+strings will provide greater range, damage, or quickness.
+
+  See Also 
+ Player Tradeskill Fletching
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

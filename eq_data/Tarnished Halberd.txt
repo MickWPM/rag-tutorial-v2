@@ -1,0 +1,39 @@
+ITEM NAME: Tarnished Halberd
+
+Classic Era (added 1999-2000)
+
+
+Tarnished Halberd
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 55
+DMG: 11 
+WT: 14.0  Size: GIANT
+Class: WAR PAL RNG SHD
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 21)
+ Yield: Tarnished Halberd x1
+ In Forge:
+
+
+  1 x Rusty Halberd - Quested, Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

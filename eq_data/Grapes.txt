@@ -1,0 +1,610 @@
+ITEM NAME: Grapes
+
+
+Grapes
+
+
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Sass
+
+
+
+  (667, -38)
+
+
+ Crystal Caverns
+
+ Grabble Coldheart
+
+
+
+  (-261, 165)
+
+
+ East Commonlands
+
+ Innkeep Leo
+
+
+
+  (-319, 2977)
+
+
+ East Freeport
+
+ Cloud Alemaker
+
+
+
+  (116, -267)
+
+
+ East Freeport
+
+ River Alemaker
+
+
+
+  (127, -270)
+
+
+ East Freeport
+
+ Sun Alemaker
+
+
+
+  (127, -254)
+
+
+ West Freeport
+
+ Krystin Charcoal
+
+
+
+  (102, 9)
+
+
+ West Freeport
+
+ Drona Whystlethin
+
+
+
+  (-120, -473)
+
+
+ Greater Faydark
+
+ Barkeep Tuviena
+
+
+
+  (132, 822)
+
+
+ Halas
+
+ Becka McGuzzlin
+
+
+
+  (198, -144)
+
+
+ Highpass Keep
+
+ Dealer Shonta
+
+
+
+  (-54, -324)
+
+
+ Highpass Hold
+
+ Paulina
+
+
+
+  (-234, 9)
+
+
+ Highpass Hold
+
+ Bartender
+
+
+
+  (395, -184)
+
+
+ Highpass Hold
+
+ Bartender
+
+
+
+  (403, -165)
+
+
+ Highpass Hold
+
+ Bartholemew
+
+
+
+  (-212, 11)
+
+
+ South Kaladim
+
+ Tumpy Irontoe
+
+
+
+  (178, 313)
+
+
+ South Kaladim
+
+ Hanamaf Darkfoam
+
+
+
+  (95, 233)
+
+
+ North Kaladim
+
+ Tissin Greybloom
+
+
+
+  (693, -163)
+
+
+ North Kaladim
+
+ Serenk Greybloom
+
+
+
+  (693, -163)
+
+
+ North Kaladim
+
+ Tissin Greybloom
+
+
+
+  (693, -163)
+
+
+ Kerra Island
+
+ Raarrk
+
+
+
+  (108, 131)
+
+
+ Neriak Foreign Quarter
+
+ Damar Nislan
+
+
+
+  (177, -196)
+
+
+ Neriak Foreign Quarter
+
+ Wiska
+
+
+
+  (159, -104)
+
+
+ Neriak Foreign Quarter
+
+ Tala Felton
+
+
+
+  (136, -98)
+
+
+ Neriak Foreign Quarter
+
+ Darien Felton
+
+
+
+  (136, -93)
+
+
+ Neriak Foreign Quarter
+
+ Tanai Tanbor
+
+
+
+  (215, -242)
+
+
+ Neriak Foreign Quarter
+
+ Sera Buelle
+
+
+
+  (255, -262)
+
+
+ Neriak Foreign Quarter
+
+ Uawn Betell
+
+
+
+  (246, -227)
+
+
+ Neriak Foreign Quarter
+
+ Yala Thiss
+
+
+
+  (242, -265)
+
+
+ Neriak Foreign Quarter
+
+ Slunga
+
+
+
+  (-336, -194)
+
+
+ Neriak Foreign Quarter
+
+ Ghrag
+
+
+
+  (-259, -260)
+
+
+ Neriak Commons
+
+ Rysva To`Biath
+
+
+
+  (11, -848)
+
+
+ Neriak Commons
+
+ Marenkor To`Biath
+
+
+
+  (9, -837)
+
+
+ Neriak Commons
+
+ Myrva N`Tan
+
+
+
+  (9, -837)
+
+
+ Neriak Commons
+
+ Myrva N`Tan
+
+
+
+  (-97, -1218)
+
+
+ Neriak Commons
+
+ Lysanda S`Kor
+
+
+
+  (40, -1218)
+
+
+ Neriak Commons
+
+ Frivsa Punox
+
+
+
+  (35, -1238)
+
+
+ Neriak Commons
+
+ Svlis C`Luzz
+
+
+
+  (-90, -1239)
+
+
+ Neriak Commons
+
+ Tenso H`Rugla
+
+
+
+  (-153, -1042)
+
+
+ Neriak Third Gate
+
+ Grazis L`Crit
+
+
+
+  (703, -1472)
+
+
+ Neriak Third Gate
+
+ Katara L`Crit
+
+
+
+  (701, -1474)
+
+
+ Northern Karana
+
+ Barkeep Milo
+
+
+
+  (432, 2248)
+
+
+ Northern Karana
+
+ Barkeep Jeny
+
+
+
+  (416, 2222)
+
+
+ Paineel
+
+ Loleluz
+
+
+
+  (949, 822)
+
+
+ Paineel
+
+ Archenm
+
+
+
+  (945, 829)
+
+
+ Paineel
+
+ Lolenton
+
+
+
+  (950, 836)
+
+
+ Paineel
+
+ Gernatis
+
+
+
+  (944, 848)
+
+
+ Paineel
+
+ Taralani Rahnta
+
+
+
+  (934, 805)
+
+
+ Western Plains of Karana
+
+ Henina Miller
+
+
+
+  (-2856, -5843)
+
+
+ South Qeynos
+
+ Sunsa Jocub
+
+
+
+  (-305, -276)
+
+
+ South Qeynos
+
+ Fish Ranamer
+
+
+
+  (-292, -269)
+
+
+ South Qeynos
+
+ Rucio Divella
+
+
+
+  (330, -507)
+
+
+ South Qeynos
+
+ Sissy Huntlan
+
+
+
+  (231, -129)
+
+
+ South Qeynos
+
+ Tasya Huntlan
+
+
+
+  (259, -69)
+
+
+ South Qeynos
+
+ Nug Rellash
+
+
+
+  (256, -170)
+
+
+ South Qeynos
+
+ Earron Huntlan
+
+
+
+  (254, -191)
+
+
+ North Qeynos
+
+ Ania Klephia
+
+
+
+  (115, 359)
+
+
+ North Qeynos
+
+ Sabnie Blagard
+
+
+
+  (81, 368)
+
+
+ Rivervale
+
+ Mac Deeppockets
+
+
+
+  (-64, -188)
+
+
+ Rivervale
+
+ Flyndia Deeppockets
+
+
+
+  (-49, -207)
+
+
+ RunnyEye Citadel
+
+ A goblin bartender
+
+
+
+  (75, 90)
+
+
+ Skyshrine
+
+ Barkeep Droz
+
+
+
+  (492, -654)
+
+
+ Timorous Deep
+
+ Portik Grolam
+
+
+
+  (-11592, -2275)
+
+
+ Timorous Deep
+
+ Micus Vloren
+
+
+
+  (-5195, -4335)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Feathered Leggings
+
+
+Feathered Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 4
+STA: +7
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Does not have a graphic (ie: Cloth Armor) 
+
+  Drops From 
+Southern Karana
+
+ Quillmane
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

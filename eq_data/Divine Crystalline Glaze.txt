@@ -1,0 +1,39 @@
+ITEM NAME: Divine Crystalline Glaze
+
+Classic Era (added 1999-2000)
+
+
+Divine Crystalline Glaze
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Non-Tradeskill (Trivial: ?)
+
+ Yield: Divine Crystalline Glaze x1
+ In  Glaze Mortar:
+
+
+  1 x Iron Oxide - Dropped, Ground Spawn
+  1 x Permafrost Crystals - Dropped, Ground Spawn
+  1 x Water Flask - Bought, Crafted, Dropped
+  1 x White Lead - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

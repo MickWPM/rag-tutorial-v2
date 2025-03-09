@@ -1,0 +1,88 @@
+ITEM NAME: Pumpkin Pie Spice
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Pumpkin Pie Spice
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ The Feerrott
+
+ Bup
+
+
+
+  (1182, 117)
+
+
+ West Freeport
+
+ Pincia Brownloe
+
+
+
+  (-276, -698)
+
+
+ Neriak Commons
+
+ Niz L`Crit
+
+
+
+  (82, -884)
+
+
+ Rivervale
+
+ Bartle Barnick
+
+
+
+  (-142, -358)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

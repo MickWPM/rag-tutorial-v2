@@ -1,0 +1,32 @@
+ITEM NAME: 5 Dose Greater Null Potion
+
+
+
+5 Dose Greater Null Potion
+
+
+EXPENDABLE  Charges: 5
+Effect:  Null Aura (Any Slot, Casting Time: 4.0)
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This spell does not stack with Visions of Grandeur or Speed of the Shissar due to the Dex and Agi components (respectively). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy
+
+Combine 5 Greater Null Potion in a Bearskin Potion Bag
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

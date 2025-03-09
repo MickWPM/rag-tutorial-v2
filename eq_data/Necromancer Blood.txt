@@ -1,0 +1,32 @@
+ITEM NAME: Necromancer Blood
+
+Stonebrunt Era (added summer 2001)
+
+Necromancer Blood
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ Heretic Invader
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Collier's Weapon Treatment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

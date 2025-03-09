@@ -1,0 +1,1368 @@
+ITEM NAME: Iron Ration
+
+Classic Era (added 1999-2000)
+
+Iron Ration
+
+
+This is a hearty meal.
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a goblin whelp
+
+Crushbone
+
+ orc pawn
+
+The Estate of Unrest
+
+ a festering hag
+
+Everfrost Peaks
+
+ an ice goblin whelp
+
+Beholder's Maze
+
+ a goblin lookout
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+
+Lake Rathetear
+
+ a gnoll shaman
+
+North Qeynos
+
+ a gnoll pup
+
+Northern Desert of Ro
+
+ a desert madman
+
+Qeynos Hills
+
+ a gnoll pup
+
+Steamfont Mountains
+
+ a kobold runt
+
+ The Warrens 
+
+  a kobold runt 
+
+Western Plains of Karana
+
+ Ulrich McMannus
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ Ak'Anon
+
+ a clockwork grocer
+
+
+
+  (904, -284)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (484, -115)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1242, -775)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1284, -915)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1328, -778)
+
+
+ Butcherblock Mountains
+
+ Iglan Thranon
+
+
+
+  (2806, -904)
+
+
+ Butcherblock Mountains
+
+ Gamin Griststone
+
+
+
+  (2718, -941)
+
+
+ Butcherblock Mountains
+
+ Parn Gylwyn
+
+
+
+  (1465, 2817)
+
+
+ Butcherblock Mountains
+
+ Felen Razdal
+
+
+
+  (129, 2383)
+
+
+ West Commonlands
+
+ Innkeep Roster
+
+
+
+  (-149, 452)
+
+
+ West Commonlands
+
+ Innkeep Olissa
+
+
+
+  (-384, 2714)
+
+
+ Crystal Caverns
+
+ Milliace Gemshard
+
+
+
+  (-263, 233)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ Eastern Plains of Karana
+
+ Paulina
+
+
+
+  (-732, -194)
+
+
+ Eastern Plains of Karana
+
+ Bradly
+
+
+
+  (-856, -99)
+
+
+ Eastern Plains of Karana
+
+ Stace
+
+
+
+  (1227, -2645)
+
+
+ Eastern Plains of Karana
+
+ Sorn
+
+
+
+  (1198, -2634)
+
+
+ Eastern Plains of Karana
+
+ Sharna
+
+
+
+  (-3790, -2399)
+
+
+ Eastern Plains of Karana
+
+ Iago
+
+
+
+  (-695, -134)
+
+
+ Eastern Plains of Karana
+
+ Lucetta
+
+
+
+  (1306, -2757)
+
+
+ Eastern Plains of Karana
+
+ Balthazar
+
+
+
+  (1328, -2722)
+
+
+ Eastern Plains of Karana
+
+ Tanrak
+
+
+
+  (1529, -2677)
+
+
+ East Commonlands
+
+ Bubar
+
+
+
+  (-1519, -116)
+
+
+ East Commonlands
+
+ Innkeep Harold
+
+
+
+  (-187, 117)
+
+
+ East Commonlands
+
+ Innkeep Dolman
+
+
+
+  (1028, 3682)
+
+
+ East Commonlands
+
+ A Shady Swashbuckler
+
+
+
+  (-1677, -141)
+
+
+ East Commonlands
+
+ Innkeep Juna
+
+
+
+  (-334, 3022)
+
+
+ East Commonlands
+
+ Germe Threadspinner
+
+
+
+  (1021, 3635)
+
+
+ East Commonlands
+
+ Innkeep Blaise
+
+
+
+  (332, 4842)
+
+
+ Erudin
+
+ Beth Breadmaker
+
+
+
+  (136, 109)
+
+
+ Erudin
+
+ Helia BlueHawk
+
+
+
+  (-1186, -333)
+
+
+ Erudin
+
+ Teria Finleather
+
+
+
+  (-956, -98)
+
+
+ Erudin
+
+ Borge Finleather
+
+
+
+  (-994, -78)
+
+
+ The Feerrott
+
+ Innkeep Gub
+
+
+
+  (1144, 1444)
+
+
+ The Feerrott
+
+ Innkeep Morpa
+
+
+
+  (1144, -145)
+
+
+ The Feerrott
+
+ Kogg
+
+
+
+  (1045, 1462)
+
+
+ Felwithe
+
+ Rolyn Longwalker
+
+
+
+  (4, -384)
+
+
+ Felwithe
+
+ Fishmonger Issa
+
+
+
+  (258, -626)
+
+
+ Felwithe
+
+ Merchant Sorintal
+
+
+
+  (136, -415)
+
+
+ Firiona Vie
+
+ Glinya Sweetpie
+
+
+
+  (-2750, 2550)
+
+
+ East Freeport
+
+ Rolfic Gohar
+
+
+
+  (-189, -277)
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ East Freeport
+
+ Innkeep Paggie
+
+
+
+  (-7, -232)
+
+
+ East Freeport
+
+ Innkeep Rastle
+
+
+
+  (-22, -285)
+
+
+ East Freeport
+
+ Innkeep Nasumi
+
+
+
+  (-77, -720)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ East Freeport
+
+ Winda Lylil
+
+
+
+  (44, -729)
+
+
+ North Freeport
+
+ Rashinda Elore
+
+
+
+  (290, 302)
+
+
+ North Freeport
+
+ Gern Tassel
+
+
+
+  (70, -57)
+
+
+ North Freeport
+
+ Gibbon Morfield
+
+
+
+  (287, 284)
+
+
+ North Freeport
+
+ Yellus Gravien
+
+
+
+  (301, 273)
+
+
+ North Freeport
+
+ Tradesman Lyna
+
+
+
+  (-103, 191)
+
+
+ North Freeport
+
+ Tradesman Tulan
+
+
+
+  (-131, 209)
+
+
+ North Freeport
+
+ Innkeep Palola
+
+
+
+  (-187, -63)
+
+
+ North Freeport
+
+ Bran Greenglade
+
+
+
+  (-109, -128)
+
+
+ North Freeport
+
+ Alec Greenglade
+
+
+
+  (-94, -128)
+
+
+ North Freeport
+
+ Innkeep Rille
+
+
+
+  (72, 72)
+
+
+ North Freeport
+
+ Innkeep Evelona
+
+
+
+  (70, 56)
+
+
+ Greater Faydark
+
+ Innkeep Anisyla
+
+
+
+  (-247, -435)
+
+
+ Greater Faydark
+
+ Innkeep Wuleran
+
+
+
+  (-337, 141)
+
+
+ Greater Faydark
+
+ Innkeep Larya
+
+
+
+  (940, 306)
+
+
+ Greater Faydark
+
+ Innkeep Linen
+
+
+
+  (726, 459)
+
+
+ Greater Faydark
+
+ Merchant Aianya
+
+
+
+  (251, 614)
+
+
+ Greater Faydark
+
+ Merchant Iludarae
+
+
+
+  (-29, -149)
+
+
+ Greater Faydark
+
+ Merchant Kwein
+
+
+
+  (155, 334)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Grobb
+
+ Ootok
+
+
+
+  (233, -31)
+
+
+ Halas
+
+ Dok
+
+
+
+  (212, 275)
+
+
+ Halas
+
+ Teria O`Danos
+
+
+
+  (-6, -33)
+
+
+ Halas
+
+ Greta Terrilon
+
+
+
+  (280, -327)
+
+
+ Halas
+
+ Hetie McDonald
+
+
+
+  (240, -154)
+
+
+ Halas
+
+ Leopok Terrilon
+
+
+
+  (205, 151)
+
+
+ High Keep
+
+ Baker Jena
+
+
+
+  (46, -260)
+
+
+ High Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ Highpass Hold
+
+ Maigin Greyeagle
+
+
+
+  (179, 483)
+
+
+ Highpass Hold
+
+ Sernn Rossook
+
+
+
+  (-218, 154)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ North Kaladim
+
+ Doramafi Ratsbone
+
+
+
+  (710, 88)
+
+
+ Kithicor Forest
+
+ Innkeep Min
+
+
+
+  (1465, 2383)
+
+
+ Kithicor Forest
+
+ Elsbyth
+
+
+
+  (-776, 3082)
+
+
+ Kithicor Forest
+
+ Innkeep Jurn
+
+
+
+  (-281, 3821)
+
+
+ Kithicor Forest
+
+ Innkeep Grace
+
+
+
+  (1095, -684)
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ Lake Rathetear
+
+ Turga
+
+
+
+  (3126, -1815)
+
+
+ Lavastorm Mountains
+
+ Jenah Wheelspinner
+
+
+
+  (401, 826)
+
+
+ Lesser Faydark
+
+ Anelia Thrywiel
+
+
+
+  (-307, 1242)
+
+
+ Neriak Foreign Quarter
+
+ Ootok
+
+
+
+  (-417, -457)
+
+
+ Neriak Foreign Quarter
+
+ Smaka
+
+
+
+  (-335, -107)
+
+
+ Neriak Foreign Quarter
+
+ Vala Tanbor
+
+
+
+  (210, -215)
+
+
+ Neriak Foreign Quarter
+
+ The Gobbler
+
+
+
+  (-323, -125)
+
+
+ Neriak Foreign Quarter
+
+ Tal Drana
+
+
+
+  (106, -251)
+
+
+ Neriak Foreign Quarter
+
+ Bull Crusher
+
+
+
+  (-390, -252)
+
+
+ Neriak Foreign Quarter
+
+ Dran `slug` Rembor
+
+
+
+  (210, -244)
+
+
+ Neriak Foreign Quarter
+
+ Sal Drana
+
+
+
+  (106, -238)
+
+
+ Neriak Commons
+
+ Dunred M`Trik
+
+
+
+  (71, -866)
+
+
+ Neriak Commons
+
+ Volkoon D`Dbth
+
+
+
+  (-43, -1030)
+
+
+ Northern Karana
+
+ Romella
+
+
+
+  (-682, -201)
+
+
+ Northern Karana
+
+ Innkeep Disda
+
+
+
+  (118, 1382)
+
+
+ Northern Karana
+
+ Innkeep James
+
+
+
+  (156, 1379)
+
+
+ Northern Karana
+
+ Bilbis Briar
+
+
+
+  (-4149, 1201)
+
+
+ Northern Desert of Ro
+
+ Innkeep Valon
+
+
+
+  (3415, 503)
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ Oggok
+
+ Angrog
+
+
+
+  (-243, -2)
+
+
+ Oggok
+
+ Sinsaal
+
+
+
+  (267, 677)
+
+
+ Oggok
+
+ Crunga
+
+
+
+  (548, -176)
+
+
+ Oggok
+
+ Erung
+
+
+
+  (512, -183)
+
+
+ Oggok
+
+ Chef Dooga
+
+
+
+  (200, -243)
+
+
+ Ocean of Tears
+
+ Endan Halson
+
+
+
+  (-2211, 7721)
+
+
+ The Overthere
+
+ Tin Merchant I
+
+
+
+  (2733, 2582)
+
+
+ The Overthere
+
+ Klok G`rshai
+
+
+
+  (2212, -2912)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+
+ Paineel
+
+ Gorng Alusnein
+
+
+
+  (984, 636)
+
+
+ Paineel
+
+ Iva Tersala
+
+
+
+  (970, 649)
+
+
+ Western Plains of Karana
+
+ Misla McMannus
+
+
+
+  (-4023, -2344)
+
+
+ Western Plains of Karana
+
+ Innkeep Danin
+
+
+
+  (-1514, -13005)
+
+
+ Western Plains of Karana
+
+ Innkeep Rislarn
+
+
+
+  (326, -4417)
+
+
+ South Qeynos
+
+ Karn Tassen
+
+
+
+  (-165, -255)
+
+
+ South Qeynos
+
+ Voleen Tassen
+
+
+
+  (-192, -266)
+
+
+ North Qeynos
+
+ Tubal Weaver
+
+
+
+  (216, 94)
+
+
+ North Qeynos
+
+ Tanlyn Galliway
+
+
+
+  (125, 204)
+
+
+ North Qeynos
+
+ Sneed Galliway
+
+
+
+  (132, 243)
+
+
+ North Qeynos
+
+ Ghil Starn
+
+
+
+  (157, 195)
+
+
+ Surefall Glade
+
+ Sequea Erthinon
+
+
+
+  (-155, -293)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Rathe Mountains
+
+ Guzzla
+
+
+
+  (1760, 1288)
+
+
+ Rathe Mountains
+
+ Viira Bali
+
+
+
+  (1644, -875)
+
+
+ Rathe Mountains
+
+ Philicia Drinn
+
+
+
+  (4002, -1359)
+
+
+ Rathe Mountains
+
+ Sven Drinn
+
+
+
+  (3992, -1383)
+
+
+ Rathe Mountains
+
+ Susanna
+
+
+
+  (2908, -769)
+
+
+ Rathe Mountains
+
+ Innkeep Troy
+
+
+
+  (4283, 842)
+
+
+ Rathe Mountains
+
+ Innkeep Serge
+
+
+
+  (4294, 831)
+
+
+ Rathe Mountains
+
+ Chandra Kali
+
+
+
+  (3922, 1390)
+
+
+ Rivervale
+
+ Crista Tagglefoot
+
+
+
+  (-69, -381)
+
+
+ Rivervale
+
+ Wibble Bramblebush
+
+
+
+  (6, -329)
+
+
+ RunnyEye Citadel
+
+ A goblin merchant
+
+
+
+  (8, 130), (60, 139)
+
+
+ Steamfont Mountains
+
+ Glen Garginburr
+
+
+
+  (-1786, 337)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (52, 928)
+
+
+ Timorous Deep
+
+ Seloris Windweaver
+
+
+
+  (-4867, -3439)
+
+
+ Thurgadin
+
+ Brigam
+
+
+
+  (-205, 493)
+
+  Related quests 
+ Gnoll Bounty
+ Ice Goblin Necklaces
+ Illegible Scroll
+ Orc Runner (Felwithe)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

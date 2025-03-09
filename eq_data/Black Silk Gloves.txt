@@ -1,0 +1,36 @@
+ITEM NAME: Black Silk Gloves
+
+
+Black Silk Gloves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 4
+DEX: +3
+WT: 1.5  Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Mistmoore Castle
+
+ a deathly usher
+ a glyphed aegis
+ a will sapper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lambent Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

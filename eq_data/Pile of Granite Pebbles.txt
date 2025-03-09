@@ -1,0 +1,34 @@
+ITEM NAME: Pile of Granite Pebbles
+
+Kunark Era (added 2000)
+
+
+Pile of Granite Pebbles
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sparring Armor
+ Granite Pebbles
+ Bone Granite Powder Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Bone Granite Powder (Trivial: 21)
+
+
+
+
+

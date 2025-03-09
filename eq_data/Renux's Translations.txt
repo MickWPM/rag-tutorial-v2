@@ -1,0 +1,97 @@
+ITEM NAME: Renux's Translations
+
+Classic Era (added 1999-2000)
+
+
+Renux's Translations
+
+
+WT: 0.1  Size: TINY
+
+
+an extensive translation of different classes of poisons
+discovered in the Combine era, translated by master rogue Renux Herkanor for Make Poison 
+Poisons that blind:
+
+Retinal Deactivator (24 )
+Eyeburn Solution (108)
+
+Poisons that Cripple:
+
+Spine Break (32) 
+Kinetic Suppressant (109-118)
+
+Atrophic Sap (98)
+Monk's Hood Aconite (190-194)
+Pacifying Whisper (>183)
+
+Poisons that can Kill:
+
+Aching Blood (108)
+Visionistic Pain (>199) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Qeynos
+
+ Pelshia Thuxpire
+
+
+
+  (69,160)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+
+
+Renux's Translations 
+
+'I finished translating most 
+of the first of the combine 
+scrolls discovered by one of 
+Carson McCabe's citizens. 
+As I suspected, the scrolls 
+contain recipes for several 
+poisons from the age of the 
+Combine Empire.
+I have provided a brief
+translation of those recipes.'
+Poisons That Blind 
+A blend of one part COYOTE TAIL
+and one ASP POISON SACK
+with LINED POISON VIAL
+and SUSPENSION
+will make an enemy's eyes grow
+swollen and sore causing temporary blindness.
+'A more painful and longer 
+
+lasting blind poison is 
+
+created with a bland of  
+two parts COYOTE TAIL 
+and a bit of MUDDITE MUD 
+with a LINED POISON VIAL 
+and CONSTRICT SUSPENSION' 
+
+
+
+
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

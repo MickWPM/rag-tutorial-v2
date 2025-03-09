@@ -1,0 +1,33 @@
+ITEM NAME: Wurmscale Scroll
+
+Velious Era (added December 2000-2001)
+
+
+Wurmscale Scroll
+
+
+MAGIC ITEM LORE ITEM NO TRADE
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ Chetari Courier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mask of War Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,48 @@
+ITEM NAME: Large Splinted Bronze Cloak
+
+Classic Era (added 1999-2000)Were you looking for Bronze Armor Set? Were you looking for Small Bronze Armor Set?
+
+Large Splinted Bronze Cloak
+
+
+Slot: BACK
+AC: 8
+WT: 8.6  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: BAR TRL OGR
+
+
+Part of the Large Bronze Armor Set. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 3 Platinums
+ 4 Golds
+ 5 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Najena
+
+ Moosh
+ Officer Grush
+
+Western Plains of Karana
+
+ an ogre guard (Karana)
+
+Lower Guk
+
+ A greater ice bones
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

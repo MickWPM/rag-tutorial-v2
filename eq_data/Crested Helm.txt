@@ -1,0 +1,33 @@
+ITEM NAME: Crested Helm
+
+
+Crested Helm
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 10
+STR: +6  CHA: +3
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ an avenging caitiff
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Malevolent Bracer
+
+Velious Era (added December 2000-2001)
+
+
+Malevolent Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 21
+STR: +1  DEX: +3  INT: +3  HP: +10  MANA: +10
+SV FIRE: +1  SV DISEASE: +1
+WT: 3.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Kael Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

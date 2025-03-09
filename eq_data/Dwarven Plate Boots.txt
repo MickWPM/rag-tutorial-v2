@@ -1,0 +1,42 @@
+ITEM NAME: Dwarven Plate Boots
+
+
+Dwarven Plate Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 12
+SV FIRE: +2
+WT: 7.5  Size: MEDIUM
+Class: WAR CLR PAL
+Race: DWF HFL GNM
+
+
+Part of the dwarven cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 168)
+ Yield: Dwarven Plate Boots x1
+ In Stormguard Forge:
+
+
+  1 x Brellium Chain Jointing - Crafted
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Folded Sheet of Brellium - Crafted
+  1 x Leather Padding - Crafted
+  1 x Small Plate Boot Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

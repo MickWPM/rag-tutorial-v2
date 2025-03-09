@@ -1,0 +1,34 @@
+ITEM NAME: Crusades of the High Scale
+
+Kunark Era (added 2000)
+
+
+Crusades of the High Scale
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Size: MEDIUM
+
+
+ Item Lore (from Identify):  A Book From Ghiosk's Collection 
+
+  Drops From 
+City of Mist
+
+ Lord Ghiosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest 
+
+  Book contents 
+" Throughout the history of the High Scale it was common for the knights to practice complete celibacy. It wasn't until the controversial Kirn was given the hallowed title that contact between the sexes became tolerated. While Kirn wasn't the mightiest of the High Scales he was able to achieve many great victories in the name of our Lord of Fear. One being the battle known as the Bone Rending when Kirn lost his fabled whip, Thriaxis' Tail, and was still able to defeat scores of his enemies using his hands only. Before this battle many believed Kirn could not fulfill his duties as a leader and patriot for the people. However Kirn's might and his lecture on the use of females in religious crusade and duty convinced the public that celibacy had its place in divinity but non-celibacy also had a place and value within the church. A shrine depicting Kirn among many women was constructed in remembrance of his controversial reign although his corpse was never brought back for burial as it was lost far across the ocean among distant brothers in faith. "
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

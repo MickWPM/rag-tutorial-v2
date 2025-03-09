@@ -1,0 +1,72 @@
+ITEM NAME: Dragoon Dirk
+
+Classic Era (added 1999-2000)
+
+Dragoon Dirk
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 6 
+DEX: +2
+SV MAGIC: +3
+WT: 2.5  Size: SMALL
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+In Classic, replaced the Ornate Dagger.[1] 
+ Merchant resale value: 4p 
+
+  Drops From 
+West Commonlands
+
+ Dragoon Zytl
+
+Crushbone
+
+ Ambassador DVinn
+
+East Karana
+
+ A Hill Giant (Ultra Rare)
+
+Firiona Vie
+
+ Dragoon M`Nyl (Classic?)
+
+Nektulos Forest
+
+ Dragoon Tsanne
+ Dragoon V`tai
+ Dragoon X`Lottl
+
+Northern Desert of Ro
+
+ Dorn B`Dynn
+
+Oggok
+
+ Ambassador K`Ryn (always drops)
+
+The Overthere
+
+ Dragoon T`Vem
+ Dragoon T`Vex
+ Dragoon V`Lask
+ Dragoon V`Resh
+ General V`Deers
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Leatherfoot Raiders (Rivervale)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

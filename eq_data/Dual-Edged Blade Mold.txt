@@ -1,0 +1,108 @@
+ITEM NAME: Dual-Edged Blade Mold
+
+
+
+Dual-Edged Blade Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Clockwork SmithXIII
+
+
+
+  (2163, -540)
+
+
+ Butcherblock Mountains
+
+ Kaila Rucksack
+
+
+
+  (2795, -697)
+
+
+ East Cabilis
+
+ Smithy Vyx
+
+
+
+  (-427, -215)
+
+
+ East Freeport
+
+ Jillian Dayson
+
+
+
+  (158, -371)
+
+
+ Greater Faydark
+
+ Merchant Nluolian
+
+
+
+  (-107, -565)
+
+
+ North Qeynos
+
+ Dren Ironforge
+
+
+
+  (20, 50)
+
+
+ Rivervale
+
+ Bipdo Hargin
+
+
+
+  (-222, -68)
+
+
+ Neriak Foreign Quarter
+
+ Ungia
+
+
+
+  (-203, -279)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Forged Bastard Sword (Trivial: 72)
+
+
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Withered Leather Skullcap
+
+
+Withered Leather Skullcap
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 6
+STR: +3  WIS: +2  MANA: +20
+WT: 0.6  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL except DWF HFL GNM
+
+
+ Item Lore (from Identify):  Withered Leather SkullcapPart of the Withered Leather Armor Set 
+
+  Drops From 
+The Hole
+
+ Commander Yarik
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

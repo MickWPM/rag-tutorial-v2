@@ -1,0 +1,34 @@
+ITEM NAME: Brigand's Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Brigand's Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 13
+STR: +3  DEX: +1  STA: +1  AGI: +3
+SV MAGIC: +2
+WT: 4.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Velium Gauntlets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

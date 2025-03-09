@@ -1,0 +1,32 @@
+ITEM NAME: Damaged Annals
+
+Classic Era (added 1999-2000)
+
+
+Damaged Annals
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Beholder's Maze
+
+ a muddite recordkeeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

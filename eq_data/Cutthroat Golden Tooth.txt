@@ -1,0 +1,42 @@
+ITEM NAME: Cutthroat Golden Tooth
+
+
+
+
+ 
+
+ Notice: This page needs a revamp or clean-up. It may contain serious omissions or information which is incorrect for Project 1999. It may represent the wrong era, and/or may be the result of a revamp on Live which may not yet be active on P99. Do not trust this page.
+
+
+
+Cutthroat Golden Tooth
+
+
+QUEST ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+West Commonlands
+
+ a Dervish Cutthroat
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

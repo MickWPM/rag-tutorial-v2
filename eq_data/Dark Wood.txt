@@ -1,0 +1,35 @@
+ITEM NAME: Dark Wood
+
+Sky Era (added January 2000)
+
+
+
+Dark Wood
+
+
+LORE ITEM
+WT: 15.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a gorgalask
+ a sprited harpie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Skill
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

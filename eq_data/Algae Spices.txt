@@ -1,0 +1,55 @@
+ITEM NAME: Algae Spices
+
+Velious Era (added December 2000-2001)
+
+
+
+Algae Spices
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Cobalt Scar
+
+ Bloogy Shellcracker
+
+
+
+  (186, -1513)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Mammoth Steaks (Trivial: 41)
+ Beer Braised Mammoth (Trivial: 68)
+ Beer Braised Wolf (Trivial: 68)
+ Yakman Steak (Trivial: 75)
+ Shark Fillet (Trivial: 82)
+ Sea Green Cookies (Trivial: 102)
+ Cobalt Cup Cakes (Trivial: 135)
+ Frost Giant Steak (Trivial: 142)
+ Storm Giant Steak (Trivial: 142)
+
+
+
+
+

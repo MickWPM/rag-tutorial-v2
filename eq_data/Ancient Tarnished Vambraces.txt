@@ -1,0 +1,42 @@
+ITEM NAME: Ancient Tarnished Vambraces
+
+Velious Era (added December 2000-2001)
+
+
+Ancient Tarnished Vambraces
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+WT: 9.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ a fiery temple guardian
+ a lava dancer
+ an elder temple defender
+ an emerald sky defender
+ an onyx sky drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Kael Vambraces
+ Warrior Kael Vambraces
+ Shadowknight Kael Vambraces
+ Paladin Kael Vambraces
+ Cleric Kael Vambraces
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

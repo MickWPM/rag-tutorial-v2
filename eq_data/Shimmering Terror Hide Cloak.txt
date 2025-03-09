@@ -1,0 +1,36 @@
+ITEM NAME: Shimmering Terror Hide Cloak
+
+Velious Era (added December 2000-2001)
+
+
+
+Shimmering Terror Hide Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 8
+STR: +4  DEX: +4  HP: +50
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Marlek Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Da Oogly Stick
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+ NOTE Mythoxxus Bard on Blue won this item in a GM Event.  
+
+
+
+
+Da Oogly Stick
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: AMMO
+Effect:  Illusion Troll (Any Slot, Casting Time: 0.0)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This item is a GM item. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

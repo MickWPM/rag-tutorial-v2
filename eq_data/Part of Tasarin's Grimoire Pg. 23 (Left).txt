@@ -1,0 +1,129 @@
+ITEM NAME: Part of Tasarin's Grimoire Pg. 23 (Left)
+
+Classic Era (added 1999-2000)
+Part of Tasarin's Grimoire Pg. 23
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: Both the left and right sides of this item have the same name. As Levitate is vendor-purchasable, its advised to vendor or drop this page. 
+
+  Drops From 
+Various Zones
+
+ Random drop from level ~16 mobs
+
+
+The drop tables below are pulled from EQEMU, so there may be discrepancies, please update as you find issues.
+Befallen
+
+ a ghoul
+
+Clan Runnyeye
+
+ a Pickclaw Bladestopper
+
+Crushbone
+
+ orc warlord
+ Retlon Brenclog
+ royal guard
+
+Eastern Plains of Karana
+
+ a gorge hound
+
+Estate of Unrest
+
+ a ghoul
+ dark boned skeleton
+
+Gorge of King Xorbb
+
+ a gorge minotaur
+ a muddite elder
+ an evil eye
+
+Highpass Hold
+
+ a gnoll soothsayer
+ an orc scout
+ an orc warrior
+
+Kurn's Tower
+
+ Burynai Excavator
+ Burynai Sapper
+ greater scalebone
+ lesser icebone skeleton
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+
+Najena
+
+ a goblin magician
+ a goblin warrior
+ a magician
+ an ogre guard
+
+Northern Plains of Karana
+
+ a griffawn
+
+Permafrost Caverns
+
+ a goblin diviner
+ a goblin evoker
+ a goblin mendicant
+ a young dire wolf
+ an ice goblin
+
+Rivervale
+
+ Nillipuss
+
+South Ro
+
+ dry bones skeleton
+
+Southern Plains of Karana
+
+ aviak darter
+
+Upper Guk
+
+ a froglok gaz shaman
+ a froglok ton shaman
+
+The Warrens
+
+ Prince Bragnar
+
+West Commonlands
+
+ Kizdean Gix
+
+Western Plains of Karana
+
+ an animated scarecrow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Levitate (Trivial: 22)
+
+
+
+
+

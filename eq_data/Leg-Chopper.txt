@@ -1,0 +1,56 @@
+ITEM NAME: Leg-Chopper
+
+Kunark Era (added 2000)
+
+Leg-Chopper
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 42
+DMG: 10 
+WT: 9.0  Size: LARGE
+Class: WAR
+Race: BAR TRL OGR
+
+
+
+ Merchant resale value: 45p 
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+ a forest giant arbor
+ a forest giant verdant
+
+Dreadlands
+
+ a mountain giant brae
+ a mountain giant craig
+ a mountain giant steep
+
+Frontier Mountains
+
+ a mountain giant brae
+ a mountain giant hillock
+ a mountain giant tump
+
+Warsliks Woods
+
+ a forest giant
+ a forest giant evergreen
+ a forest giant greenwood
+ a forest giant sapling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

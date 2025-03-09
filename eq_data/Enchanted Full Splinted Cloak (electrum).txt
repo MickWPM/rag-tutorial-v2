@@ -1,0 +1,45 @@
+ITEM NAME: Enchanted Full Splinted Cloak (electrum)
+
+
+
+Enchanted Full Splinted Cloak (electrum)
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 14
+DEX: +4   
+SV MAGIC: +4  
+WT: 6.5   Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: HUM BAR ERU HEF
+
+
+Part of the human cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: ??)
+ Yield: Enchanted Full Splinted Cloaks (electrum) x1
+ In Royal Qeynos Forge:
+
+
+  1 x Smithy Hammer - Bought
+  1 x Royal Temper - Crafted
+  1 x Enchanted Chain Jointing - Crafted
+  3 x Enchanted Folded Sheet Metal - Crafted
+  1 x Enchanted Electrum Bar - Summoned
+  1 x Leather Padding - Crafted
+  1 x Full Splinted Cloak Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

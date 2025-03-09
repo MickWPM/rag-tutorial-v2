@@ -1,0 +1,34 @@
+ITEM NAME: Alligator Skin
+
+
+Alligator Skin
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+This only drops in Innothule Swamp. Drop rate around 1 in 20 Bull and Fat alligators. 
+
+  Drops From 
+Innothule Swamp
+
+ a bull alligator
+ a fat alligator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Leatherfoot Raiders
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

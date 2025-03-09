@@ -1,0 +1,45 @@
+ITEM NAME: Batskull Earring
+
+Classic Era (added 1999-2000)
+
+Batskull Earring
+
+
+MAGIC ITEM
+Slot: EAR
+INT: +5
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Western Plains of Karana
+
+ an ogre shaman
+ Chief Goonda
+ an ogre priestess
+
+Timorous Deep Kunark 
+
+ The Great Oowomp Kunark 
+
+Dragon Necropolis Velious 
+
+ a carrion bat Velious 
+ a Chetari adolescent Velious 
+ A Paebala Warrior Velious 
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

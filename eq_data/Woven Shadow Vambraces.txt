@@ -1,0 +1,33 @@
+ITEM NAME: Woven Shadow Vambraces
+
+
+Woven Shadow Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 13
+DEX: +5  STA: +5
+WT: 4.9  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ an abhorrent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

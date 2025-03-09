@@ -1,0 +1,36 @@
+ITEM NAME: Giant Hornet Egg
+
+Kunark Era (added 2000)
+Unsuitable for making Clump of Dough.
+
+
+Giant Hornet Egg
+
+
+This is a meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Renew Bones Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Burning Woods
+
+

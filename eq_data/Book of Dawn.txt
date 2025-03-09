@@ -1,0 +1,35 @@
+ITEM NAME: Book of Dawn
+
+Velious Era (added December 2000-2001)
+
+
+
+Book of Dawn
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+CHA: +9  HP: +45
+WT: 2.5  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Jelek Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

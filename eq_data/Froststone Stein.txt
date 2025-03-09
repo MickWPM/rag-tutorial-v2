@@ -1,0 +1,36 @@
+ITEM NAME: Froststone Stein
+
+Velious Era (added December 2000-2001)
+
+
+
+Froststone Stein
+
+
+MAGIC ITEM  LORE ITEM NO TRADE
+Slot: PRIMARY SECONDARY
+CHA: +10 AGI: +10
+SV COLD: +20
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crystal Caverns
+
+ A hollow crystal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

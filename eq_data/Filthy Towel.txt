@@ -1,0 +1,26 @@
+ITEM NAME: Filthy Towel
+
+
+
+Filthy Towel
+
+
+LORE ITEM NO TRADE
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Telescope Lenses
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

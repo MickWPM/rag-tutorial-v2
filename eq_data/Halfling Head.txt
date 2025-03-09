@@ -1,0 +1,43 @@
+ITEM NAME: Halfling Head
+
+Classic Era (added 1999-2000)
+
+
+Halfling Head
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Several versions exist:
+
+ Item Lore (from Identify): Bronin's Head
+ Item Lore (from Identify): Shintl's Head
+ Item Lore (from Identify): Lil Honeybugger's Head 
+
+  Drops From 
+West Freeport
+
+ Shintl Lowbrew
+
+Misty Thicket
+
+ Bronin Higginsbot
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hogcaller's Inn
+ The Bloody Shank
+ Honeybugger Assassin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

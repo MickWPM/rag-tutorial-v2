@@ -1,0 +1,34 @@
+ITEM NAME: Blood Sky Emerald
+
+Sky Era (added January 2000)
+
+
+Blood Sky Emerald
+
+
+LORE ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Guardian
+ a spiroc arbiter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Disempowerment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

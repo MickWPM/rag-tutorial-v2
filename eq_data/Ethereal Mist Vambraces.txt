@@ -1,0 +1,36 @@
+ITEM NAME: Ethereal Mist Vambraces
+
+
+
+Ethereal Mist Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 15
+STR: +9
+SV MAGIC: +7
+WT: 4.9  Size: SMALL
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a haunted chest
+ Cleric of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

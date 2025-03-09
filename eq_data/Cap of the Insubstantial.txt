@@ -1,0 +1,36 @@
+ITEM NAME: Cap of the Insubstantial
+
+Kunark Era (added 2000)
+
+
+Cap of the Insubstantial
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 5
+DEX: +16  CHA: +9
+Effect:  Shadow Step (Must Equip, Casting Time: 2.5) at Level 15
+WT: 0.0  Size: MEDIUM
+Class: BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify): Spectral Cap 
+
+  Drops From 
+Old Sebilis
+
+ Tolapumj
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

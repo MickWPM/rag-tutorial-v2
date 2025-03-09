@@ -1,0 +1,37 @@
+ITEM NAME: Cryosilk Amice
+
+Fear Era (added July 1999)
+
+
+Cryosilk Amice
+
+
+MAGIC ITEM  NO DROP
+Slot: SHOULDERS
+AC: 4
+STA: +2  INT: +1  MANA: +10
+SV COLD: +10
+WT: 0.3  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Cryosilk Armor set 
+
+  Drops From 
+Plane of Fear
+
+ a spinechiller spider
+ still drops?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

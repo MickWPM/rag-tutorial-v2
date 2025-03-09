@@ -1,0 +1,35 @@
+ITEM NAME: Golden Star Slippers
+
+Velious Era (added December 2000-2001)
+
+
+Golden Star Slippers
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 10
+STR: +7  STA: +2  HP: +20
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+Effect: Firefist (Must Equip, Casting Time: 7.0) at Level 50
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Kael Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

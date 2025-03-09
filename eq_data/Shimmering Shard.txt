@@ -1,0 +1,53 @@
+ITEM NAME: Shimmering Shard
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Shimmering Shard
+
+
+QUEST ITEM
+WT: 0.8  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ a blizzard hunter
+ a crystal sentinel
+ a crystalline devourer
+ a crystalline hunter
+ a crystalline statue
+ a crystalline watcher
+ a frost spectre
+ a shard spider
+ a velium hunter
+ an Icepaw kobold
+ Bled
+ Kerdelb
+ Laryk Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

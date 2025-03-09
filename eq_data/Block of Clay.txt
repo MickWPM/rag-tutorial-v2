@@ -1,0 +1,349 @@
+ITEM NAME: Block of Clay
+
+
+
+Block of Clay
+
+
+QUEST ITEM
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+4 silver 2 copper; Not stackable 
+
+  Drops From 
+Beholder's Maze
+
+ a muddite elder
+ a muddite minor
+ a muddite recordkeeper
+ Qlei
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork miner
+
+
+
+  (760, -155)
+
+
+ Ak'Anon
+
+ a clockwork potter
+
+
+
+  (750, -173)
+
+
+ Butcherblock Mountains
+
+ Izbal Brightblaze
+
+
+
+  (-1287, -1972)
+
+
+ East Cabilis
+
+ Klok Toren
+
+
+
+  (190, -303)
+
+
+ East Cabilis
+
+ Klok Hoga
+
+
+
+  (253, -202)
+
+
+ East Commonlands
+
+ Merra Clayfinger
+
+
+
+  (-135, 21)
+
+
+ Erudin
+
+ Shinan Orefinder
+
+
+
+  (-683, -246)
+
+
+ North Freeport
+
+ Kyrin Steelbone
+
+
+
+  (-21, 470)
+
+
+ West Freeport
+
+ Gurb Smithson
+
+
+
+  (-183, -329)
+
+
+ Greater Faydark
+
+ Merchant Legweien
+
+
+
+  (420, 373)
+
+
+ Grobb
+
+ Okun
+
+
+
+  (683, -412)
+
+
+ Halas
+
+ Greta O`Reilly
+
+
+
+  (78, -245)
+
+
+ Halas
+
+ Merin
+
+
+
+  (260, 273)
+
+
+ High Keep
+
+ Miner Harton
+
+
+
+  (42, -273)
+
+
+ Highpass Hold
+
+ Winn Greenbane
+
+
+
+  (-364, -124)
+
+
+ South Kaladim
+
+ Dooni
+
+
+
+  (224, -254)
+
+
+ Misty Thicket
+
+ Topper Drodo
+
+
+
+  (585, -2357)
+
+
+ Neriak Foreign Quarter
+
+ ChonChon
+
+
+
+  (147, -92)
+
+
+ Neriak Commons
+
+ Glazn D`Unnar
+
+
+
+  (46, -796)
+
+
+ Oggok
+
+ Helgara Dirtcarver
+
+
+
+  (225, 743)
+
+
+ Oggok
+
+ Blergerda
+
+
+
+  (191, 915)
+
+
+ The Overthere
+
+ Tin Merchant VI
+
+
+
+  (2614, 2557)
+
+
+ Paineel
+
+ Tentus Brackmar
+
+
+
+  (995, 810)
+
+
+ Paineel
+
+ Evus Doracmal
+
+
+
+  (996, 817)
+
+
+ Paineel
+
+ Taria Clayspinner
+
+
+
+  (994, 804)
+
+
+ Western Plains of Karana
+
+ Tarnar
+
+
+
+  (1008, -2087)
+
+
+ Rivervale
+
+ Bodbin Gimple
+
+
+
+  (-80, -370)
+
+
+ Southern Desert of Ro
+
+ Merchant Ulyssa
+
+
+
+  (128, 495)
+
+
+ Steamfont Mountains
+
+ Godbin Strumharp
+
+
+
+  (43, -618)
+
+
+ Stonebrunt Mountains
+
+ Kevar Claypaws
+
+
+
+  (1390, -579)
+
+
+ Stonebrunt Mountains
+
+ Jaimiou Claypaws
+
+
+
+  (1391, -536)
+
+
+ Thurgadin
+
+ Nimren Stonecutter
+
+
+
+  (46, -109)
+
+
+ Thurgadin
+
+ Gilthan Brittleblade
+
+
+
+  (-249, 134)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 21)
+ Yield: Block of Clay x1
+ In Pottery Wheel:
+
+
+  3 x Small Block of Clay - Bought
+  1 x Water Flask - Crafted, Bought, Dropped 
+
+
+  Tradeskill recipes 
+ Pottery
+ Unfired Pie Tin (Trivial: 115)
+ Unfired Muffin Tin (Trivial: 122)
+
+
+
+
+

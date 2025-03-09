@@ -1,0 +1,550 @@
+ITEM NAME: Muffin
+
+Classic Era (added 1999-2000)
+For the overview of the many muffin quests, see Muffin Quests.
+
+
+Muffin
+
+
+This is a snack!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+On Project 1999, all food items are consumed at the same rate (as of 8/3/2015). For this reason, the humble Muffin is a popular food item among many players for its light weight, low cost, and wide availability on vendors. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork baker
+
+
+
+  (891, -301)
+
+
+ West Cabilis
+
+ Lybar
+
+
+
+  (292, 523)
+
+
+ West Commonlands
+
+ Innkeep Roster
+
+
+
+  (-149, 452)
+
+
+ West Commonlands
+
+ Innkeep Olissa
+
+
+
+  (-384, 2714)
+
+
+ East Commonlands
+
+ Innkeep Harold
+
+
+
+  (-191, 118)
+
+
+ Eastern Plains of Karana
+
+ Paulina
+
+
+
+  (-732, -194)
+
+
+ Eastern Plains of Karana
+
+ Iago
+
+
+
+  (-695, -134)
+
+
+ Eastern Plains of Karana
+
+ Lucetta
+
+
+
+  (1306, -2757)
+
+
+ Eastern Plains of Karana
+
+ Balthazar
+
+
+
+  (1328, -2722)
+
+
+ Erudin
+
+ Beth Breadmaker
+
+
+
+  (136, 109)
+
+
+ Erudin
+
+ Helia BlueHawk
+
+
+
+  (-1186, -333)
+
+
+ The Feerrott
+
+ Bup
+
+
+
+  (1182, 117)
+
+
+ The Feerrott
+
+ Innkeep Gub
+
+
+
+  (1144, 1444)
+
+
+ The Feerrott
+
+ Innkeep Morpa
+
+
+
+  (1144, -145)
+
+
+ Firiona Vie
+
+ Glinya Sweetpie
+
+
+
+  (-2750, 2550)
+
+
+ Greater Faydark
+
+ Innkeep Anisyla
+
+
+
+  (-247, -435)
+
+
+ Greater Faydark
+
+ Innkeep Wuleran
+
+
+
+  (-337, 141)
+
+
+ Greater Faydark
+
+ Innkeep Larya
+
+
+
+  (940, 306)
+
+
+ Greater Faydark
+
+ Innkeep Linen
+
+
+
+  (726, 459)
+
+
+ Halas
+
+ Teria O`Danos
+
+
+
+  (-6, -33)
+
+
+ Halas
+
+ Hetie McDonald
+
+
+
+  (240, -154)
+
+
+ High Keep
+
+ Baker Jena
+
+
+
+  (46, -260)
+
+
+ South Kaladim
+
+ Gretta Mottle
+
+
+
+  (196, 299)
+
+
+ Kithicor Forest
+
+ Innkeep Min
+
+
+
+  (1465, 2383)
+
+
+ Kithicor Forest
+
+ Innkeep Jurn
+
+
+
+  (-281, 3821)
+
+
+ Kithicor Forest
+
+ Innkeep Grace
+
+
+
+  (1095, -684)
+
+
+ Neriak Foreign Quarter
+
+ Tal Drana
+
+
+
+  (106, -251)
+
+
+ Neriak Foreign Quarter
+
+ Bull Crusher
+
+
+
+  (-390, -252)
+
+
+ Neriak Foreign Quarter
+
+ Sal Drana
+
+
+
+  (106, -238)
+
+
+ Neriak Commons
+
+ Dunred M`Trik
+
+
+
+  (71, -866)
+
+
+ Neriak Commons
+
+ Volkoon D`Dbth
+
+
+
+  (-43, -1030)
+
+
+ Neriak Commons
+
+ Niz L`Crit
+
+
+
+  (82, -884)
+
+
+ Northern Karana
+
+ Innkeep Disda
+
+
+
+  (118, 1382)
+
+
+ Northern Karana
+
+ Innkeep James
+
+
+
+  (156, 1379)
+
+
+ Northern Desert of Ro
+
+ Innkeep Valon
+
+
+
+  (3415, 503)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ Oggok
+
+ Chef Dooga
+
+
+
+  (201, -243)
+
+
+ Oggok
+
+ Crunga
+
+
+
+  (548, -176)
+
+
+ Oggok
+
+ Erung
+
+
+
+  (512, -183)
+
+
+ Paineel
+
+ Geomar Hapera
+
+
+
+  (953, 757)
+
+
+ Paineel
+
+ Gorng Alusnein
+
+
+
+  (984, 636)
+
+
+ Paineel
+
+ Iva Tersala
+
+
+
+  (970, 649)
+
+
+ Paineel
+
+ Toryn Roltaire
+
+
+
+  (1040, 641)
+
+
+ Western Plains of Karana
+
+ Innkeep Rislarn
+
+
+
+  (326, -4417)
+
+
+ South Qeynos
+
+ Karn Tassen
+
+
+
+  (-165, -255)
+
+
+ South Qeynos
+
+ Voleen Tassen
+
+
+
+  (-192, -266)
+
+
+ Rathe Mountains
+
+ Philicia Drinn
+
+
+
+  (4002, -1359)
+
+
+ Rathe Mountains
+
+ Sven Drinn
+
+
+
+  (3992, -1383)
+
+
+ Rathe Mountains
+
+ Innkeep Troy
+
+
+
+  (4283, 842)
+
+
+ Rathe Mountains
+
+ Innkeep Serge
+
+
+
+  (4294, 831)
+
+
+ RunnyEye Citadel
+
+ A goblin merchant
+
+
+
+  (8, 130), (60, 139)
+
+
+ Skyshrine
+
+ Grudash the Baker
+
+
+
+  (161, -474)
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (52, 928)
+
+
+ North Freeport
+
+ Innkeep Rille
+
+   The Jade Tiger's Den
+
+  (70, 74)
+
+
+ West Freeport
+
+ Pincia Brownloe
+
+  Building #11
+
+  (-276, -698)
+
+  Related quests 
+ Muffin Quests
+
+  Player crafted 
+ Baking (Trivial: 135)
+ Yield: Muffin x6
+ In Oven:
+
+
+  1 x Muffin Tin - Crafted, Returned on Failure, Returned on Success
+  1 x Clump of Dough - Crafted
+  1 x Fruit - Foraged 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

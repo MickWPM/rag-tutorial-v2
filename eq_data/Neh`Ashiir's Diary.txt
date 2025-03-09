@@ -1,0 +1,30 @@
+ITEM NAME: Neh`Ashiir's Diary
+
+
+
+Neh`Ashiir's Diary
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Size: MEDIUM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+City of Mist
+
+ Neh`Ashiir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,44 @@
+ITEM NAME: Imbued Koada`Dal Mithril Cloak
+
+
+Imbued Koada`Dal Mithril Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 14
+DEX: +6  CHA: +6  WIS: +8
+WT: 3.0  Size: LARGE
+Class: WAR CLR PAL BRD
+Race: ELF HIE HEF
+Deity: Tunare
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 239)
+ Yield: Imbued Koada`Dal Mithril Cloak x1
+ In Koada`Dal Forge:
+
+
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  3 x Enchanted Folded Sheet of Mithril - Crafted
+  1 x Enchanted Mithril Chain Jointing - Crafted
+  1 x Field Splinted Cloak Mold - Bought
+  1 x Imbued Emerald - Summoned
+  1 x Leather Padding - Crafted
+  1 x Moonlight Temper - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

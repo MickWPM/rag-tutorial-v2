@@ -1,0 +1,36 @@
+ITEM NAME: Festering Cloak
+
+
+Festering Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 5
+HP: +10  MANA: +10
+SV DISEASE: -10  SV POISON: -10
+WT: 0.5  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+ Merchant resale value: 4.6 gold 
+
+  Drops From 
+The Estate of Unrest
+
+ a festering hag
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

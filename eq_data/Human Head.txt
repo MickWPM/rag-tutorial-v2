@@ -1,0 +1,48 @@
+ITEM NAME: Human Head
+
+
+
+Human Head
+
+
+LORE ITEM  NO DROP
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Narl's Head
+ Item Lore (from Identify):  Hazran's Head
+ Item Lore (from Identify):  Lyda's Head
+ Item Lore (from Identify):  Rat King's Head
+Note: Several items with this name. 
+
+  Drops From 
+East Commonlands
+
+ Squire Narl ("Narl's Head")
+
+East Freeport
+
+ Captain Hazran ("Hazran's Head")
+ Lyda Nasin ("Lyda's Head")
+
+Qeynos Aqueducts
+
+ Beggar Wyllin ("Rat King's Head")
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Behead the Freeport Militia ("Hazran's Head")
+ Death of Lyda Nasin ("Lyda's Head")
+ The Rat King ("Rat King's Head")
+ Zimel's Blades (SoulFire) ("Narl's Head")  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

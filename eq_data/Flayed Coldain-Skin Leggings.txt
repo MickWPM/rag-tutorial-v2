@@ -1,0 +1,32 @@
+ITEM NAME: Flayed Coldain-Skin Leggings
+
+Velious Era (added December 2000-2001)
+
+Flayed Coldain-Skin Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 5
+INT: +3  AGI: -10  HP: +15
+WT: 4.0  Size: MEDIUM
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Family Chest Straps
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

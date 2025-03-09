@@ -1,0 +1,36 @@
+ITEM NAME: Chelaki Tail
+
+Velious Era (added December 2000-2001)
+
+
+Chelaki Tail
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 19
+DMG: 9 
+Effect:  Strong Disease (Combat, Casting Time: Instant) at Level 50
+WT: 3.5  Size: SMALL
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chelaki
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

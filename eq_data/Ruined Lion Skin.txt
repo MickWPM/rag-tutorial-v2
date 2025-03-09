@@ -1,0 +1,46 @@
+ITEM NAME: Ruined Lion Skin
+
+
+Ruined Lion Skin
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Sells for about 1g 
+
+  Drops From 
+Commonlands
+
+ a lion
+ a lioness
+
+Eastern Plains of Karana
+
+ a lion
+ a lioness
+
+Northern Karana
+
+ a highland lion
+ a lion
+ a lioness
+
+Western Plains of Karana
+
+ a plains lion
+ a plains lioness
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

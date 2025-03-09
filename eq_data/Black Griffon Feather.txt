@@ -1,0 +1,37 @@
+ITEM NAME: Black Griffon Feather
+
+Sky Era (added January 2000)
+
+
+
+Black Griffon Feather
+
+
+LORE ITEM
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul carrier
+ a soul harvester
+ an essence carrier
+ an essence tamer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Silence
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

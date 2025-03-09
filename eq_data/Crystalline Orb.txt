@@ -1,0 +1,36 @@
+ITEM NAME: Crystalline Orb
+
+Classic Era (added 1999-2000)
+
+Crystalline Orb
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Charges: 5
+Effect:  Eye of Zomm (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  'Crystalline Orb' 
+Is this rechargeable? 
+
+  Drops From 
+Nagafen's Lair
+
+ stone spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Etched Stone
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Bracelet of Frostbite
+
+Velious Era (added December 2000-2001)
+
+
+
+Bracelet of Frostbite
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+HP: +30
+SV COLD: +9
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Velketor the Sorcerer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

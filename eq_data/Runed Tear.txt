@@ -1,0 +1,70 @@
+ITEM NAME: Runed Tear
+
+Velious Era (added December 2000-2001)
+Runed Tear
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Dozekar the Cursed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Request of the Arcane -- Mask of the Silver EyesMask of the Silver Eyes
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 25
+STA: +12  WIS: +12  INT: +12  HP: +20  MANA: +80
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Flowing Thought I (Worn)  
+WT: 0.5  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Black Tear
+ White Tear
+ Runed Tear
+ Glowing Drake Orb (from any HOT Named)
+
+ Wisdom - The Long Battle -- Boots of Silent StridingBoots of Silent Striding
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 35
+STA: +10  WIS: +15  MANA: +50
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Aura of Battle (Worn)  
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+ Runed Tear
+ Flame Kissed Tear
+ Black Symbol (from Krigara or Ymmeln)
+ Glowing Drake Orb (from any HOT Named)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

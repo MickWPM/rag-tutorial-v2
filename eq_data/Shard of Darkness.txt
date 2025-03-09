@@ -1,0 +1,36 @@
+ITEM NAME: Shard of Darkness
+
+Kunark Era (added 2000)
+
+Shard of Darkness
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 28
+DMG: 10 
+SV DISEASE: +5  SV POISON: +5
+WT: 0.6  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Queen Velazul Di'zok
+ a Di'zok Underling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

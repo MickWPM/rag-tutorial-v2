@@ -1,0 +1,65 @@
+ITEM NAME: Steel Wire
+
+Velious Era (added December 2000-2001)
+
+
+Steel Wire
+
+
+NO DROP
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ Iceclad Ocean
+
+ Adinel Jailbar
+
+
+
+  (4540, 1287)
+
+
+ Steamfont Mountains
+
+ Godbin Strumharp
+
+
+
+  (43, -618)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Gnomish Vanishing Device (Trivial: 302?)
+
+
+
+
+

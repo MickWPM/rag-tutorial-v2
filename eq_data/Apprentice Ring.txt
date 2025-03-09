@@ -1,0 +1,35 @@
+ITEM NAME: Apprentice Ring
+
+Epic Quests Era (added Sept 2000)
+
+
+Apprentice Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+INT: +3  HP: +10  MANA: +30
+WT: 0.1  Size: TINY
+Class: NEC
+Race: ALL
+
+
+ Item Lore (from Identify): Apprentice Ring 
+
+  Drops From 
+Lake Rathetear
+
+ a failed apprentice
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

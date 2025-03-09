@@ -1,0 +1,38 @@
+ITEM NAME: Edible Goo
+
+Make sure you have food in bags above this item or you will eat it!
+
+
+Edible Goo
+
+
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Zimel's Blades (SoulFire)
+
+  Player crafted 
+ Baking (Trivial: 21)
+ Yield: Edible Goo x1
+ In Oven:
+
+
+  1 x Fire Beetle Eye - Dropped
+  1 x Rat Ears - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

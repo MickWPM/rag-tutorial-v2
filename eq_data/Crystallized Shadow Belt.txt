@@ -1,0 +1,41 @@
+ITEM NAME: Crystallized Shadow Belt
+
+Velious Era (added December 2000-2001)
+
+Crystallized Shadow Belt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 1
+CHA: +1  INT: +2  AGI: +2  HP: +10  MANA: +5
+WT: 0.2  Size: SMALL
+Class: WAR CLR PAL SHD MNK BRD ROG SHM
+Race: ALL except ELF HIE HEF DWF HFL
+
+
+Part of the Crystallized Shadow Armor set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a ghostly scholar
+ an angry chef
+ an enraged vampire (male)
+ Librarian
+ The Head Usher
+ Xalgoti
+ Zorglim the Dead
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

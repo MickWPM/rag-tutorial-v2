@@ -1,0 +1,33 @@
+ITEM NAME: Swiftclaw Sash
+
+Stonebrunt Era (added summer 2001)
+
+Swiftclaw Sash
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 2
+AGI: +2
+Haste: +15%  
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Heretic Heads
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

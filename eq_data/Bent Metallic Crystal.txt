@@ -1,0 +1,36 @@
+ITEM NAME: Bent Metallic Crystal
+
+Velious Era (added December 2000-2001)
+
+
+Bent Metallic Crystal
+
+
+MAGIC ITEM LORE ITEM NO TRADE 
+WT: 20.0 Size: TINY 
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Stibnite for the Menhir
+Coming from the southern entry into the wurm caves, it's in the first bubble on your right. 
+
+  Drops From 
+Great Divide
+
+ Ground Spawn
+ (-4948, -699) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Velium Focus
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

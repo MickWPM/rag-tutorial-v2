@@ -1,0 +1,33 @@
+ITEM NAME: Kylong Wrist Guards
+
+Kunark Era (added 2000)
+
+Kylong Wrist Guards
+
+
+Slot: WRIST
+AC: 9
+STR: +4  CHA: +4
+WT: 1.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+
+  Drops From 
+Howling Stones
+
+ The Spectre Spiritualist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

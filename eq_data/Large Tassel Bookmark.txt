@@ -1,0 +1,33 @@
+ITEM NAME: Large Tassel Bookmark
+
+Kunark Era (added 2000)
+
+
+Large Tassel Bookmark
+
+
+LORE ITEM  NO DROP
+Slot: WAIST
+AC: 2
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+ Item Lore (from Identify): Tassel of Flaxen Cord 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Skullcap Quests (#8)
+ The Tome Raider
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

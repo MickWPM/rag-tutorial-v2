@@ -1,0 +1,39 @@
+ITEM NAME: Kunzar Ku'juch
+
+Kunark Era (added 2000)
+
+ Hung swings the Kunzar Ku'juch
+Kunzar Ku'juch
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 8 
+Effect:  Engulfing Darkness (Combat, Casting Time: Instant) at Level 40
+WT: 2.0  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+ Item Lore (from Identify): Kunzar Tribe Sword 
+ Merchant resale value: 28p with average CHA. 
+
+  Drops From 
+City of Mist
+
+ greater spurbone
+ plaguebone skeleton
+ spurbone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Circlet of Shadows
+
+Velious Era (added December 2000-2001)
+ Cinu models the post-nerf Circlet of Shadows.
+Circlet of Shadows
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 5
+MANA: +10
+SV DISEASE: +10  SV POISON: +10
+Effect:  Gather Shadows (Any Slot/Can Equip, Casting Time: 5.0) at Level 20
+WT: 1.0  Size: SMALL
+Class: SHD NEC
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+Nerfed version of Circlet of Shadow. Implemented April 2016[1]
+NOTE: Since the auction tracker seems to be broken for this item currently, a rough approximate price for this item (based on actions seen in August 2017) would be 300-400 plat. Feb. 2018 update: 200-300pp June 2022 update: 100-200pp (Funny how increased drop rates will make item values plummet making once rare and highly sought after items now common and worthless.  I had 3 of these rot while I was camping the spawns area for a few hours...) 
+
+  Drops From 
+Temple of Droga
+
+ a goblin bodyguard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

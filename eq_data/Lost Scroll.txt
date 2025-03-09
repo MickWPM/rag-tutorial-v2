@@ -1,0 +1,33 @@
+ITEM NAME: Lost Scroll
+
+ Lost Scroll
+
+
+Lost Scroll
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Ground spawn on the third floor at (-20, 50) . It is between the bed on the wall in the western most room connected to the dining room (8 on the third floor map). Respawn time: 24 hours 
+
+  Drops From 
+Crypt of Dalnir
+
+ Ground Spawns
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

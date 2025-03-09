@@ -1,0 +1,36 @@
+ITEM NAME: Bloodstar Pendant
+
+Warrens Era (added spring 2001)
+
+
+Bloodstar Pendant
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 5
+STR: +9  CHA: +9  WIS: +9  INT: +9
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.1  Size: TINY
+Class: ALL except SHM
+Race: HUM
+
+
+ Item Lore (from Identify): A ruby in the shape of a star 
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God - Hate Revamp)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

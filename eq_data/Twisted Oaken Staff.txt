@@ -1,0 +1,37 @@
+ITEM NAME: Twisted Oaken Staff
+
+Velious Era (added December 2000-2001)
+
+
+Twisted Oaken Staff
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 30
+DMG: 10 
+INT: +17  MANA: +30
+Effect: Shadow Vortex (Combat, Casting Time: Instant)
+WT: 10.0  Size: LARGE
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Jaelk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

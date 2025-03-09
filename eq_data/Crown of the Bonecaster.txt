@@ -1,0 +1,36 @@
+ITEM NAME: Crown of the Bonecaster
+
+Velious Era (added December 2000-2001)
+
+
+Crown of the Bonecaster
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 6
+STA: +7  INT: +4  HP: +20  MANA: +10
+SV MAGIC: +5  SV POISON: +4
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a rolling plains steed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

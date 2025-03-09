@@ -1,0 +1,53 @@
+ITEM NAME: Balanced Fer`Esh
+
+Kunark Era (added 2000)
+
+Balanced Fer`Esh
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 5 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ a lesser charbone skeleton
+ an iksar manslayer
+
+Howling Stones
+
+ a sepulcher skeleton
+ greater plaguebone
+ greater war boned skeleton
+
+Kurn's Tower
+
+ lesser icebone skeleton
+
+Lake of Ill Omen
+
+ charbone skeleton
+ icebone skeleton
+
+Warsliks Woods
+
+ iksar pariah
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

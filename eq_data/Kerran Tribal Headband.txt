@@ -1,0 +1,33 @@
+ITEM NAME: Kerran Tribal Headband
+
+Classic Era (added 1999-2000)
+
+Kerran Tribal Headband
+
+
+Slot: HEAD
+AC: 1
+WIS: +2  INT: +2  MANA: +10
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kerra Isle
+
+ Hamed Grarr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

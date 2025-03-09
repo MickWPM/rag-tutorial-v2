@@ -1,0 +1,37 @@
+ITEM NAME: Crystallized Shadow Gloves
+
+Velious Era (added December 2000-2001)
+
+Crystallized Shadow Gloves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 2
+DEX: +3  CHA: +1  MANA: +5
+WT: 0.0  Size: SMALL
+Class: ALL except RNG DRU NEC WIZ MAG ENC
+Race: ALL except ELF HIE HEF DWF HFL
+
+
+Part of the Crystallized Shadow Armor set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an angry chef
+ Librarian
+ Zorglim the Dead
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Pitted Iron Ring
+
+Warrens Era (added spring 2001)
+
+Pitted Iron Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+Charges: 5
+AC: 4
+STA: +5  INT: +10  HP: +50  MANA: +50
+SV FIRE: +5  SV COLD: +5
+Effect: Mana Flare (Must Equip, Casting Time: 5.0) at Level 50
+WT: 0.2  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

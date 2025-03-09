@@ -1,0 +1,33 @@
+ITEM NAME: Chipped Black Pearl
+
+Velious Era (added December 2000-2001)
+
+Chipped Black Pearl
+
+
+MAGIC ITEM
+DEX: +2   AGI: +2
+WT: 0.1   Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 18pp+ to vendor.
+Crystal Caverns
+
+ a focus gem
+ a gem collector 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

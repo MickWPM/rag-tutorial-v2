@@ -1,0 +1,38 @@
+ITEM NAME: Large Studded Tunic
+
+Classic Era (added 1999-2000)
+
+Large Studded Tunic
+
+
+Slot: CHEST
+AC: 9
+WT: 4.4  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR ELF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 56)
+ Yield: Large Studded Tunic x1
+ In Loom:
+
+
+  1 x Medium Quality Bear Skin - Crafted, Quested, Dropped
+  1 x Tunic Pattern - Bought
+  5 x Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

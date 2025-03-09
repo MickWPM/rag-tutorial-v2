@@ -1,0 +1,35 @@
+ITEM NAME: Silver Etched Warhammer
+
+Kunark Era (added 2000)
+
+Silver Etched Warhammer
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 38
+DMG: 24 
+STA: +5  CHA: +5
+WT: 8.7  Size: LARGE
+Class: WAR PAL
+Race: ALL
+
+
+Vendors for 172pp. 
+
+  Drops From 
+Old Sebilis
+
+ an iksar necromancer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

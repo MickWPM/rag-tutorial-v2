@@ -1,0 +1,36 @@
+ITEM NAME: Jester's Mask
+
+Sky Era (added January 2000)
+
+
+Jester's Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 5
+AGI: +2
+WT: 15.0  Size: LARGE
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Keeper of Souls
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Cunning
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

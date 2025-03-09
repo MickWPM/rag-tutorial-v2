@@ -1,0 +1,32 @@
+ITEM NAME: Heartsting Venom Sack
+
+
+Heartsting Venom Sack
+
+
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ a heartsting scorpion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Stiffening Ergot (Trivial: 201)
+
+
+
+
+

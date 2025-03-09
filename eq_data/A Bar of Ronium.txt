@@ -1,0 +1,40 @@
+ITEM NAME: A Bar of Ronium
+
+Temple Era (added October 1999)
+
+
+A Bar of Ronium
+
+
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Boots
+ Armor of Ro Quests
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No fail)
+ In Sol Cauldron:
+
+
+  1 x Melatite - Dropped
+  2 x Enchanted Platinum Bar - Crafted
+  1 x Mistmoore Granite - Dropped
+  1 x Sand of Ro - Dropped
+  1 x Soil of Underfoot - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

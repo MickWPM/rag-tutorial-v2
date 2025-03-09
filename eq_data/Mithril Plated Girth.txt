@@ -1,0 +1,35 @@
+ITEM NAME: Mithril Plated Girth
+
+Classic Era (added 1999-2000)
+
+Mithril Plated Girth
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 9
+STR: +9  STA: +9
+WT: 2.0  Size: SMALL
+Class: WAR
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+Rathe Mountains
+
+ Grazhak the Berzerker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tibrinn's Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

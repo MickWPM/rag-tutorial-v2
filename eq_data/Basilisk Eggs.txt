@@ -1,0 +1,38 @@
+ITEM NAME: Basilisk Eggs
+
+
+
+Basilisk Eggs
+
+
+This is a meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Not to be confused with Basilisk Egg (singular), which is dropped by basilisks. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Clump of Dough (Trivial: 17)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Lavastorm Mountains
+ The Feerrott
+ Rathe Mountains
+
+

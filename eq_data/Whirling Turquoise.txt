@@ -1,0 +1,31 @@
+ITEM NAME: Whirling Turquoise
+
+
+Whirling Turquoise
+
+
+Slot: HEAD
+SV COLD: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+No graphic / naked head 
+
+  Drops From 
+Beholder's Maze
+
+ Spinflint
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

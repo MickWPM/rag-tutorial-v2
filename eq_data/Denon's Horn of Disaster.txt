@@ -1,0 +1,34 @@
+ITEM NAME: Denon's Horn of Disaster
+
+Sky Era (added January 2000)
+
+
+
+Denon's Horn of Disaster
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Brass Instrument: 24
+STR: +5  CHA: +10  INT: +5  HP: +50
+WT: 2.0  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+ Item Lore (from Identify): Denon's Horn of Disaster 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Brass
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

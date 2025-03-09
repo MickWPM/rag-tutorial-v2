@@ -1,0 +1,37 @@
+ITEM NAME: Vial of Halfling Blood
+
+
+
+Vial of Halfling Blood
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Nektulos Forest
+
+ Gollee
+ Initiate Guanin
+ Initiate Pool
+ Initiate Umbra
+ Leatherfoot Corporal
+ Leatherfoot Deputy
+ Leatherfoot Sergeant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

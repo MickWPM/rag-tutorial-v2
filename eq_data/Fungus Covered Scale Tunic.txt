@@ -1,0 +1,35 @@
+ITEM NAME: Fungus Covered Scale Tunic
+
+Kunark Era (added 2000)
+
+Fungus Covered Scale Tunic
+
+
+LORE ITEM
+Slot: CHEST
+AC: 21
+STR: +2  DEX: -10  INT: +2  AGI: -10
+Effect: Fungal Regrowth (Worn)  
+WT: 2.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: HUM BAR ERU ELF HIE DEF HEF DWF TRL OGR HFL GNM IKS
+
+
++15 HP regen per tick which stacks with spell-based regen such as Chloroplast/Regrowth and Iksar/Troll racial regen. Technically also stacks with Aura of Battle but there's an worn regen cap which the Fungi hits by itself. 
+
+  Drops From 
+Old Sebilis
+
+ myconid spore king
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

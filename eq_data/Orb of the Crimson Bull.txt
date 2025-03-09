@@ -1,0 +1,35 @@
+ITEM NAME: Orb of the Crimson Bull
+
+Velious Era (added December 2000-2001)
+
+Orb of the Crimson Bull
+
+
+MAGIC ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+STA: +10  WIS: +5  INT: +5  HP: +25  MANA: +75
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Invigor
+WT: 1.0  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lady Mirenilla
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

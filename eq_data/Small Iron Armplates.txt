@@ -1,0 +1,117 @@
+ITEM NAME: Small Iron Armplates
+
+Were you looking for Chainmail / Iron Armor Set? Were you looking for Large Chainmail / Iron Armor Set?
+
+
+Small Iron Armplates
+
+
+Slot: ARMS
+AC: 6
+WT: 2.6  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Chainmail / Iron Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork armorer
+
+
+
+  (1208, -714)
+
+
+ Ak'Anon
+
+ a clockwork armorer
+
+
+
+  (1228, -706)
+
+
+ Ak'Anon
+
+ a clockwork armorer
+
+
+
+  (1223, -720)
+
+
+ Butcherblock Mountains
+
+ Gand Truelink
+
+
+
+  (-1309, -1994)
+
+
+ North Kaladim
+
+ Dindaek Everhot
+
+
+
+  (392, -174)
+
+
+ Neriak Commons
+
+ Krivn S`Tai
+
+
+
+  (63, -886)
+
+
+ Ocean of Tears
+
+ Doran Vargnus
+
+
+
+  (1287, -9244)
+
+
+ Rivervale
+
+ Kevlin Diggs
+
+
+
+  (-157, -228)
+
+
+ Thurgadin
+
+ Terman Underbelly
+
+
+
+  (-421, -112)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

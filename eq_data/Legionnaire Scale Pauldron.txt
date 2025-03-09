@@ -1,0 +1,36 @@
+ITEM NAME: Legionnaire Scale Pauldron
+
+Warrens Era (added spring 2001)
+
+
+Legionnaire Scale Pauldron
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 15
+STR: +5  AGI: +10  HP: +35
+SV MAGIC: +5
+WT: 3.0  Size: SMALL
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ A_Kiraikuei
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

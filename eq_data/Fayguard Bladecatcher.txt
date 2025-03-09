@@ -1,0 +1,34 @@
+ITEM NAME: Fayguard Bladecatcher
+
+Kunark Era (added 2000)
+Fayguard Bladecatcher
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 10   AC: 10
+Effect:  Word of Pain (Combat, Casting Time: Instant) at Level 35
+WT: 2.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ froglok chef
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

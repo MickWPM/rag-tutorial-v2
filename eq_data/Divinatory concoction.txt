@@ -1,0 +1,40 @@
+ITEM NAME: Divinatory concoction
+
+Warrens Era (added spring 2001)
+
+
+Divinatory Concoction
+
+
+NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunare Warden
+
+  Player crafted 
+ Brewing (Trivial: 0 - 500)
+ Yield: Divinatory Concoction x1
+ In Brewing Barrel:
+
+
+  1 x Magical Suspension Fluid - 
+  1 x Pouch of Red Dust - Dropped
+  1 x Thick Caustic Fluid - Dropped
+  1 x White Hellebore - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

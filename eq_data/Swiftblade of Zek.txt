@@ -1,0 +1,34 @@
+ITEM NAME: Swiftblade of Zek
+
+Velious Era (added December 2000-2001)
+
+Swiftblade of Zek
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 18
+DMG: 11   AC: 10
+STR: +10  HP: +100  MANA: +25
+WT: 0.1  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD
+Race: ALL
+
+
+Valued by Warrior rampage-tanks as a mainhand weapon for its good ratio, AC and HP, and lack of hate proc. Often paired with a shield or another 100 HP weapon such as Dagas. 
+
+  Drops From 
+Kael Drakkel
+
+ The Statue of Rallos Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Enessae wielding a Swiftblade of Zek in her mainhand.
+

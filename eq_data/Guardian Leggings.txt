@@ -1,0 +1,35 @@
+ITEM NAME: Guardian Leggings
+
+Velious Era (added December 2000-2001)
+ Sheesha is modelling Guardian BP, Legs, Helm (no graphic), wrist, and boots.
+Guardian Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 12
+STR: +4  CHA: +5  WIS: +4  HP: +15
+SV FIRE: +15  SV COLD: +15  SV MAGIC: +5
+WT: 4.0  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+Part of the Guardian Armor set. 
+
+  Drops From 
+Skyshrine
+
+ A Gargoyle Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

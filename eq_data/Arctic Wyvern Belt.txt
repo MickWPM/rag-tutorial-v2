@@ -1,0 +1,42 @@
+ITEM NAME: Arctic Wyvern Belt
+
+Velious Era (added December 2000-2001)
+
+Arctic Wyvern Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 8
+DEX: +12  WIS: +4
+SV COLD: +4
+WT: 1.0  Size: SMALL
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Arctic Wyvern Belt x1
+ In Coldain Tanners Kit:
+
+
+  1 x Arctic Wyvern Hide - Dropped
+  1 x Belt Pattern - Bought
+  1 x Cod Oil - Crafted
+  2 x Velium Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

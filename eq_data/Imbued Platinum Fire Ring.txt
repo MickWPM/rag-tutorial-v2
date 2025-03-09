@@ -1,0 +1,40 @@
+ITEM NAME: Imbued Platinum Fire Ring
+
+
+Imbued Platinum Fire Ring
+
+
+MAGIC ITEM
+Slot: FINGER
+AC: 4
+STR: -8  INT: +8  HP: +10  MANA: +45
+SV FIRE: +4
+WT: 0.1  Size: TINY
+Class: BRD WIZ
+Race: HUM ERU ELF HIE DEF HEF GNM
+Deity: Solusek Ro
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 268)
+ Imbued Platinum Fire Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Platinum Bar - Summoned
+  1 x Imbued Fire Opal - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

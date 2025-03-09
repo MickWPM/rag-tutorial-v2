@@ -1,0 +1,31 @@
+ITEM NAME: Oil of Fennin Ro
+
+
+Oil of Fennin Ro
+
+
+MAGIC ITEM
+Charges: 4
+Effect:  Flame Arc (Any Slot, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+To obtain the oil, give Lord Bergurgle's Crown to Shmendrik Lavawalker. Usable at level 1, 171 damage. Confirmed 8/7/24. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ Zordak Ragefire
+
+  Related quests 
+ Cleric Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

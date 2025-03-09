@@ -1,0 +1,36 @@
+ITEM NAME: Boots of the Huntsman
+
+Velious Era (added December 2000-2001)
+
+
+Boots of the Huntsman
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 15
+WIS: +5  INT: +5
+SV COLD: +5
+WT: 4.9  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+Icewell Keep
+
+ Grand Huntsman Darral
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

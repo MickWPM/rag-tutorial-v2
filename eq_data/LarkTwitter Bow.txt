@@ -1,0 +1,33 @@
+ITEM NAME: LarkTwitter Bow
+
+
+Larktwitter Bow
+
+
+MAGIC ITEM
+Slot: RANGE
+Skill: Archery  Atk Delay: 42
+DMG: 14
+WT: 4.5  Range: 100  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ Whimsy Larktwitter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

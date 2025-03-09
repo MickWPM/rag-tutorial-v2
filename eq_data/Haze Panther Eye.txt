@@ -1,0 +1,34 @@
+ITEM NAME: Haze Panther Eye
+
+Velious Era (added December 2000-2001)
+
+Haze Panther Eye
+
+
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 2.8p 
+
+  Drops From 
+The Wakening Land
+
+ a haze panther
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Gnomish Vanishing Device (Trivial: 302)
+
+
+
+
+

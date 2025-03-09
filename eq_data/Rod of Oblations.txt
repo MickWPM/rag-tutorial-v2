@@ -1,0 +1,36 @@
+ITEM NAME: Rod of Oblations
+
+Kunark Era (added 2000)
+
+Rod of Oblations
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 27
+DMG: 6 
+MANA: +60
+SV FIRE: +10  SV COLD: +10
+WT: 0.1  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones
+
+ Drusella Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

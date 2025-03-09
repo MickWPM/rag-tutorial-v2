@@ -1,0 +1,86 @@
+ITEM NAME: Black Sapphire
+
+
+Black Sapphire
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 175p 
+
+  Drops From 
+Chardok
+
+ Various (50+)
+
+Field of Bone
+
+ The Tangrin
+
+ Kael Drakkel 
+
+  Various (50+) 
+
+Kedge Keep
+
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ Lord Nagafen
+
+Ocean of Tears
+
+ Allizewsaur
+
+Old Sebilis
+
+ Various (50+)
+
+Plane of Fear
+
+ Various
+
+Plane of Hate
+
+ Various
+
+ Plane of Mischief 
+
+  Lithiniath 
+
+Swamp of No Hope
+
+ Soblohg
+
+ The Wakening Land 
+
+  a geonid 
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Niblek's Gems
+ Warrior Epic Quest
+ White Dragonscale Cloak Quest
+ Ulthork Tusks Quest
+ Medallion of the Kylong Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Black Sapphire Silvered Necklace (Trivial: 68)
+ Black Sapphire Electrum Earring (Trivial: 140)
+ Golden Black Sapphire Earring (Trivial: 212)
+ Black Sapphire Platinum Necklace (Trivial: 284)
+ Black Sapphire Velium Necklace (Trivial: ???)
+
+
+
+
+

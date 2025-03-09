@@ -1,0 +1,119 @@
+ITEM NAME: Giant Warrior Helmet
+
+Velious Era (added December 2000-2001)
+
+Giant Warrior Helmet
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 10
+WT: 6.0  Size: LARGE
+Class: ALL
+Race: BAR TRL OGR IKS
+
+
+Give to Sentry Kcor for CoV and Yelinak faction (1 at a time). NOTE: Tested 8/6/2024 on Green server. Turning in 4 at a time gave 4 faction hits.  OR give to Chamberlain Krystorf for Dain and Coldain faction (4 at a time). 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 8 Platinums
+ 6 Golds
+ 3 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Eastern Wastes
+
+ a kromrif prison guard
+
+Great Divide
+
+ a frost giant elite
+ a frost giant scout
+
+Kael Drakkel
+
+ a frost giant berserker
+ a storm giant gladiator
+ Adjutant Brunkin
+ Adjutant Cryyrn
+ Adjutant Daggeruk
+ Adjutant Derkan
+ Adjutant Droggren
+ Adjutant Frinevrn
+ Adjutant Frinvan
+ Adjutant Hekrandor
+ Adjutant Hoggren
+ Adjutant Jharll
+ Adjutant Khellendor
+ Adjutant Stormkeeper
+ Adjutant Strongaxe
+ Adjutant Thyek
+ Adjutant Velsharek
+ Derakor the Vindicator
+ Guard Dryndomar
+ Guard Kelldrevn
+ Guard Ragern
+ Guard Sjior
+ Korakaz
+ Legionnaire Alveyrem
+ Legionnaire Blizzardwalker
+ Legionnaire Evbarjor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Whiteaxe
+ Legionnaire Yervin
+ Legionnaire Yvedrn
+ Lieutenant Steinern
+ protector of Zek
+ Senior Guard Randeil
+ Senior Guard Skendeldorn
+ Senior Guard Whiteaxe
+ Sergeant Windrager
+ Slaggak the Trainer
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+ Veteran Eiyloren
+ Veteran Icecaller
+ Veteran Kltrem
+ Veteran Mjrlind
+ Veteran Skeldek
+ Veteran Surlren
+ Veteran Yllhaydm
+ Watchman Gardal
+ Watcher Byorek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Giant Helmets
+ Helms of Giant Warriors
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

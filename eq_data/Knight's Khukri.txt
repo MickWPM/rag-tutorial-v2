@@ -1,0 +1,33 @@
+ITEM NAME: Knight's Khukri
+
+
+
+Knight's Khukri
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 6 
+INT: +3
+WT: 5.0  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Tests (#3)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

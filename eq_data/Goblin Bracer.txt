@@ -1,0 +1,46 @@
+ITEM NAME: Goblin Bracer
+
+
+
+Goblin Bracer
+
+
+MAGIC ITEM  NODROP
+Slot: WRIST
+AC: 4
+CHA: -10
+SV MAGIC: +5
+WT: 3.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Goblin Battlemaster Bracer 
+
+  Drops From 
+Firiona Vie
+
+ goblin battlemaster
+
+Lake of Ill Omen
+
+ a goblin battlemaster
+ a goblin brawler
+
+Warsliks Woods
+
+ a goblin battlemaster
+ a goblin bonecaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Goblin Battlemasters
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Saldaren Spear
+
+Velious Era (added December 2000-2001)
+
+
+Saldaren Spear
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 21
+DMG: 11 
+STR: +5  STA: +5
+SV FIRE: +3  SV DISEASE: +1  SV COLD: +2  SV MAGIC: +4
+WT: 3.0  Size: LARGE
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ A Large Velium Statue
+ Dalshim Fe'Dhar
+ Poalgin Fe`Dhar
+ Saliz Fe`Dhar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

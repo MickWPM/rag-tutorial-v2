@@ -1,0 +1,486 @@
+ITEM NAME: Rapier
+
+Classic Era (added 1999-2000)
+
+Rapier
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1253, -715)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1329, -762)
+
+
+ East Cabilis
+
+ Smithy Vyx
+
+
+
+  (-427, -215)
+
+
+ Chardok
+
+ Haggle Baron Dry`dn
+
+
+
+  (-93, 351)
+
+
+ East Commonlands
+
+ Ponila Quickfingers
+
+
+
+  (193, -855)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ Erudin Palace
+
+ Andane Starinen
+
+
+
+  (864, 737)
+
+
+ Erudin Palace
+
+ Harban Ranflash
+
+
+
+  (695, 883)
+
+
+ Felwithe
+
+ Tolis Fearnone
+
+
+
+  (-105, -339)
+
+
+ Felwithe
+
+ Merchant Lyssia
+
+
+
+  (580, -872)
+
+
+ Felwithe
+
+ Merchant Earlyn
+
+
+
+  (464, -348)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ East Freeport
+
+ Tenni Kohern
+
+
+
+  (-223, -886)
+
+
+ North Freeport
+
+ Markin Ironwhite
+
+
+
+  (194, -116)
+
+
+ North Freeport
+
+ Rhensa Steadirt
+
+
+
+  (-10, 534)
+
+
+ North Freeport
+
+ Ardiflah Steadirt
+
+
+
+  (-27, 482)
+
+
+ West Freeport
+
+ Dulia Jestes
+
+
+
+  (19, -817)
+
+
+ West Freeport
+
+ Voglan Dransed
+
+
+
+  (155, -762)
+
+
+ West Freeport
+
+ Mekoma Buma
+
+
+
+  (145, -761)
+
+
+ Greater Faydark
+
+ Merchant Gililya
+
+
+
+  (-481, -211)
+
+
+ Grobb
+
+ Tangiz
+
+
+
+  (433, -239)
+
+
+ Halas
+
+ Kevan McPherson
+
+
+
+  (210, -324)
+
+
+ Halas
+
+ Elona McMahon
+
+
+
+  (212, 184)
+
+
+ Highpass Hold
+
+ Dovik Greenbane
+
+
+
+  (-318, -113)
+
+
+ South Kaladim
+
+ Didek Stormhammer
+
+
+
+  (136, 221)
+
+
+ North Kaladim
+
+ Murlond Everhot
+
+
+
+  (367, -173)
+
+
+ North Kaladim
+
+ Kafia Ratsbone
+
+
+
+  (594, 238)
+
+
+ Lavastorm Mountains
+
+ Jengo Smirt
+
+
+
+  (432, 769)
+
+
+ Neriak Foreign Quarter
+
+ Kruna
+
+
+
+  (-308, -456)
+
+
+ Neriak Commons
+
+ Veca S`Karn
+
+
+
+  (178, -919)
+
+
+ Neriak Commons
+
+ Genzal R`Jyen
+
+
+
+  (119, -919)
+
+
+ Neriak Commons
+
+ Zanotix Ixtaz
+
+
+
+  (81, -868)
+
+
+ Neriak Commons
+
+ Mirzna N`Mar
+
+
+
+  (167, -875)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Neriak Third Gate
+
+ Jerris W`Selo
+
+
+
+  (630, -1402)
+
+
+ Neriak Third Gate
+
+ Kanthu M`Rekkor
+
+
+
+  (621, -1351)
+
+
+ Northern Karana
+
+ Roule
+
+
+
+  (-645, -221)
+
+
+ Oasis of Marr
+
+ Transan
+
+
+
+  (613, 51)
+
+
+ Oggok
+
+ Varrok Neckchopper
+
+
+
+  (324, -212)
+
+
+ The Overthere
+
+ Tin Merchant VII
+
+
+
+  (2617, 2587)
+
+
+ South Qeynos
+
+ Barthal
+
+
+
+  (-55, -303)
+
+
+ South Qeynos
+
+ Moran Smith
+
+
+
+  (-60, -246)
+
+
+ Rathe Mountains
+
+ Tarikh Korula
+
+
+
+  (3974, 1422)
+
+
+ Rivervale
+
+ Gaffin Deeppockets
+
+
+
+  (-53, -178)
+
+
+ Skyshrine
+
+ Barkeep Dablen
+
+
+
+  (469, -708)
+
+
+ Skyshrine
+
+ Raelrik
+
+
+
+  (353, -625)
+
+
+ Skyshrine
+
+ Tulgadin
+
+
+
+  (383, -625)
+
+
+ Southern Desert of Ro
+
+ Smith Tv`ysa
+
+
+
+  (93, 487)
+
+
+ Toxxulia Forest
+
+ Tran Lilspin
+
+
+
+  (1761, -736)
+
+
+ Toxxulia Forest
+
+ Xylania Rainsparkle
+
+
+
+  (2202, -1128)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

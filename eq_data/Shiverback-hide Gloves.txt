@@ -1,0 +1,38 @@
+ITEM NAME: Shiverback-hide Gloves
+
+Fear Era (added July 1999)
+
+
+Shiverback-hide Gloves
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 5
+STR: +5  DEX: +9  INT: +5
+SV MAGIC: +7
+Effect:  Serpent Sight (Worn, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a shiverback
+ phoboplasm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

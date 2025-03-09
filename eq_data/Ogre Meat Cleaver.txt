@@ -1,0 +1,30 @@
+ITEM NAME: Ogre Meat Cleaver
+
+
+Ogre Meat Cleaver
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 33
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Preserved Meat Delivery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,46 @@
+ITEM NAME: Teir`dal Smithy Hammer
+
+Epic Quests Era (added Sept 2000)
+
+
+Teir`Dal Smithy Hammer
+
+
+WT: 14.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Third Gate
+
+ Draan N`Ryt
+
+
+
+  (694, -1780)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Dark Elf Cultural Smithing (Trivial: Various)
+
+
+
+
+

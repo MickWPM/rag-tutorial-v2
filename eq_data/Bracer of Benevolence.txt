@@ -1,0 +1,33 @@
+ITEM NAME: Bracer of Benevolence
+
+Velious Era (added December 2000-2001)
+ 
+Bracer of Benevolence
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 17
+STR: +8  STA: +8  HP: +30
+SV FIRE: +5  SV COLD: +12  SV MAGIC: +12
+WT: 0.1  Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+BoB 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Leuz's Task
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

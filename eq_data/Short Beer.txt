@@ -1,0 +1,1358 @@
+ITEM NAME: Short Beer
+
+
+Short Beer
+
+
+QUEST ITEM
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a goblin shaman
+ a goblin whelp
+
+Crushbone
+
+ orc pawn
+
+The Estate of Unrest
+
+ a festering hag
+ a greater skeleton
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+
+Lesser Faydark
+
+ Dragoon Szorn
+ Shayla Nybright
+ Tayla Nybright
+ Teir`Dal Elite
+
+Misty Thicket
+
+ A Goblin Warrior
+
+North Qeynos
+
+ a gnoll pup
+
+Northern Desert of Ro
+
+ a desert madman
+
+South Qeynos
+
+ Vicus Nonad
+
+Steamfont Mountains
+
+ a kobold runt
+ a kobold scout
+ a kobold shaman
+
+Western Plains of Karana
+
+ Ulrich McMannus
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork barkeep
+
+
+
+  (1252, -946)
+
+
+ East Cabilis
+
+ Klok Sass
+
+
+
+  (667, -38)
+
+
+ West Commonlands
+
+ Innkeep Seke
+
+
+
+  (-104, 465)
+
+
+ West Commonlands
+
+ Innkeep Roster
+
+
+
+  (-149, 452)
+
+
+ West Commonlands
+
+ Innkeep Redthorn
+
+
+
+  (-401, 2763)
+
+
+ West Commonlands
+
+ Innkeep Olissa
+
+
+
+  (-384, 2714)
+
+
+ Crystal Caverns
+
+ Hardat Gemshard
+
+
+
+  (-243, 177)
+
+
+ Crystal Caverns
+
+ Grabble Coldheart
+
+
+
+  (-261, 165)
+
+
+ East Commonlands
+
+ Innkeep Harold
+
+
+
+  (-187, 117)
+
+
+ East Commonlands
+
+ Innkeep Dolman
+
+
+
+  (1028, 3682)
+
+
+ East Commonlands
+
+ Innkeep Leo
+
+
+
+  (-319, 2977)
+
+
+ East Commonlands
+
+ Innkeep Juna
+
+
+
+  (-334, 3022)
+
+
+ East Commonlands
+
+ Innkeep Elora
+
+
+
+  (-184, 71)
+
+
+ East Commonlands
+
+ Innkeep Fenia
+
+
+
+  (1021, 3731)
+
+
+ East Commonlands
+
+ Innkeep Calen
+
+
+
+  (315, 4890)
+
+
+ East Commonlands
+
+ Innkeep Blaise
+
+
+
+  (332, 4842)
+
+
+ Erudin
+
+ Geoard BlueHawk
+
+
+
+  (-1175, -331)
+
+
+ The Feerrott
+
+ Innkeep Gub
+
+
+
+  (1144, 1444)
+
+
+ The Feerrott
+
+ Innkeep Morpa
+
+
+
+  (1144, -145)
+
+
+ Firiona Vie
+
+ Samson
+
+
+
+  (-2952, 2977)
+
+
+ East Freeport
+
+ Lunce Nasin
+
+
+
+  (-233, -863)
+
+
+ East Freeport
+
+ Innkeep Paggie
+
+
+
+  (-7, -232)
+
+
+ East Freeport
+
+ Innkeep Rastle
+
+
+
+  (-22, -285)
+
+
+ East Freeport
+
+ Lynda Tapper
+
+
+
+  (-296, -213)
+
+
+ East Freeport
+
+ Nesin Tapper
+
+
+
+  (-280, -205)
+
+
+ East Freeport
+
+ Innkeep Nasumi
+
+
+
+  (-77, -720)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ East Freeport
+
+ Jaleel Hoglomp
+
+
+
+  (44, -746)
+
+
+ East Freeport
+
+ Henna Treghost
+
+
+
+  (-246, -874)
+
+
+ East Freeport
+
+ Gregor Nasin
+
+
+
+  (-238, -835)
+
+
+ East Freeport
+
+ Myrissa O`Donner
+
+
+
+  (83, -435)
+
+
+ East Freeport
+
+ Slan ODonner
+
+
+
+  (76, -335)
+
+
+ East Freeport
+
+ Cloud Alemaker
+
+
+
+  (116, -267)
+
+
+ East Freeport
+
+ River Alemaker
+
+
+
+  (127, -270)
+
+
+ East Freeport
+
+ Sun Alemaker
+
+
+
+  (127, -254)
+
+
+ East Freeport
+
+ Roghur Muleson
+
+
+
+  (-24, -492)
+
+
+ North Freeport
+
+ Gern Tassel
+
+
+
+  (70, -57)
+
+
+ North Freeport
+
+ Innkeep Palola
+
+
+
+  (-187, -63)
+
+
+ North Freeport
+
+ Judicla Riverfield
+
+
+
+  (70, -34)
+
+
+ North Freeport
+
+ Shania Tassel
+
+
+
+  (85, -34)
+
+
+ North Freeport
+
+ Innkeep Rille
+
+
+
+  (72, 72)
+
+
+ North Freeport
+
+ Innkeep Evelona
+
+
+
+  (70, 56)
+
+
+ West Freeport
+
+ Drona Whystlethin
+
+
+
+  (-120, -473)
+
+
+ West Freeport
+
+ Swin Blackeye
+
+
+
+  (-158, -527)
+
+
+ Greater Faydark
+
+ Innkeep Anisyla
+
+
+
+  (-247, -435)
+
+
+ Greater Faydark
+
+ Innkeep Wuleran
+
+
+
+  (-337, 141)
+
+
+ Greater Faydark
+
+ Innkeep Larya
+
+
+
+  (940, 306)
+
+
+ Greater Faydark
+
+ Innkeep Linen
+
+
+
+  (726, 459)
+
+
+ Greater Faydark
+
+ Barkeep Tuviena
+
+
+
+  (132, 822)
+
+
+ Halas
+
+ Hetie McDonald
+
+
+
+  (240, -154)
+
+
+ Halas
+
+ Brandyn McDonald
+
+
+
+  (182, -157)
+
+
+ Halas
+
+ Brin McQuaid
+
+
+
+  (93, -216)
+
+
+ Halas
+
+ Donald McQuaid
+
+
+
+  (93, -206)
+
+
+ Halas
+
+ Scon McDaniel
+
+
+
+  (345, -347)
+
+
+ Highpass Keep
+
+ Dealer Shonta
+
+
+
+  (-54, -324)
+
+
+ Highpass Hold
+
+ Bartender
+
+
+
+  (395, -184)
+
+
+ Highpass Hold
+
+ Bartender
+
+
+
+  (403, -165)
+
+
+ South Kaladim
+
+ Tumpy Irontoe
+
+
+
+  (178, 313)
+
+
+ South Kaladim
+
+ Dura Darkfoam
+
+
+
+  (108, 233)
+
+
+ Kerra Island
+
+ Raarrk
+
+
+
+  (108, 131)
+
+
+ Kithicor Forest
+
+ Innkeep Min
+
+
+
+  (1465, 2383)
+
+
+ Kithicor Forest
+
+ Innkeep Jurn
+
+
+
+  (-281, 3821)
+
+
+ Kithicor Forest
+
+ Innkeep Grace
+
+
+
+  (1095, -684)
+
+
+ Lake Rathetear
+
+ Abrod
+
+
+
+  (-433, 657)
+
+
+ Lesser Faydark
+
+ Anelia Thrywiel
+
+
+
+  (-307, 1242)
+
+
+ Neriak Foreign Quarter
+
+ Damar Nislan
+
+
+
+  (177, -196)
+
+
+ Neriak Foreign Quarter
+
+ Bull Crusher
+
+
+
+  (-390, -252)
+
+
+ Neriak Foreign Quarter
+
+ Tala Felton
+
+
+
+  (136, -98)
+
+
+ Neriak Foreign Quarter
+
+ Darien Felton
+
+
+
+  (136, -93)
+
+
+ Neriak Foreign Quarter
+
+ Tanai Tanbor
+
+
+
+  (215, -242)
+
+
+ Neriak Foreign Quarter
+
+ Sera Buelle
+
+
+
+  (255, -262)
+
+
+ Neriak Foreign Quarter
+
+ Uawn Betell
+
+
+
+  (246, -227)
+
+
+ Neriak Foreign Quarter
+
+ Yala Thiss
+
+
+
+  (242, -265)
+
+
+ Neriak Foreign Quarter
+
+ Slunga
+
+
+
+  (-336, -194)
+
+
+ Neriak Commons
+
+ Dunred M`Trik
+
+
+
+  (71, -866)
+
+
+ Neriak Commons
+
+ Rysva To`Biath
+
+
+
+  (11, -848)
+
+
+ Neriak Commons
+
+ Marenkor To`Biath
+
+
+
+  (9, -837)
+
+
+ Neriak Commons
+
+ Myrva N`Tan
+
+
+
+  (9, -837)
+
+
+ Neriak Commons
+
+ Volkoon D`Dbth
+
+
+
+  (-43, -1030)
+
+
+ Neriak Commons
+
+ Myrva N`Tan
+
+
+
+  (-97, -1218)
+
+
+ Neriak Commons
+
+ Lysanda S`Kor
+
+
+
+  (40, -1218)
+
+
+ Neriak Commons
+
+ Frivsa Punox
+
+
+
+  (35, -1238)
+
+
+ Neriak Commons
+
+ Svlis C`Luzz
+
+
+
+  (-90, -1239)
+
+
+ Neriak Commons
+
+ Rista S`lon
+
+
+
+  (-152, -1011)
+
+
+ Neriak Commons
+
+ Tenso H`Rugla
+
+
+
+  (-153, -1042)
+
+
+ Neriak Third Gate
+
+ Belyea K`Jartan
+
+
+
+  (864, -1424)
+
+
+ Neriak Third Gate
+
+ Cecile K`Jartan
+
+
+
+  (910, -1413)
+
+
+ Neriak Third Gate
+
+ Grazis L`Crit
+
+
+
+  (703, -1472)
+
+
+ Neriak Third Gate
+
+ Katara L`Crit
+
+
+
+  (701, -1474)
+
+
+ Northern Karana
+
+ Romi
+
+
+
+  (-618, -201)
+
+
+ Northern Karana
+
+ Barkeep Milo
+
+
+
+  (432, 2248)
+
+
+ Northern Karana
+
+ Barkeep Jeny
+
+
+
+  (416, 2222)
+
+
+ Northern Karana
+
+ Innkeep Disda
+
+
+
+  (118, 1382)
+
+
+ Northern Karana
+
+ Innkeep James
+
+
+
+  (156, 1379)
+
+
+ Northern Desert of Ro
+
+ Innkeep Tozie
+
+
+
+  (3466, 489)
+
+
+ Northern Desert of Ro
+
+ Innkeep Valon
+
+
+
+  (3415, 503)
+
+
+ Oasis of Marr
+
+ Tran
+
+
+
+  (541, -43)
+
+
+ Oasis of Marr
+
+ Innkeep Tizzy
+
+
+
+  (-1307, -306)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ Oggok
+
+ Clurg
+
+
+
+  (262, -249)
+
+
+ Oggok
+
+ Crunga
+
+
+
+  (548, -176)
+
+
+ Oggok
+
+ Erung
+
+
+
+  (512, -183)
+
+
+ The Overthere
+
+ Tin Merchant IX
+
+
+
+  (2658, 2615)
+
+
+ Paineel
+
+ Loleluz
+
+
+
+  (949, 822)
+
+
+ Paineel
+
+ Archenm
+
+
+
+  (945, 829)
+
+
+ Paineel
+
+ Lolenton
+
+
+
+  (950, 836)
+
+
+ Paineel
+
+ Gernatis
+
+
+
+  (944, 848)
+
+
+ Paineel
+
+ Taralani Rahnta
+
+
+
+  (934, 805)
+
+
+ Western Plains of Karana
+
+ Innkeep Danin
+
+
+
+  (-1514, -13005)
+
+
+ Western Plains of Karana
+
+ Innkeep Rislarn
+
+
+
+  (326, -4417)
+
+
+ South Qeynos
+
+ Sunsa Jocub
+
+
+
+  (-305, -276)
+
+
+ South Qeynos
+
+ McNeal Jocub
+
+
+
+  (-244, -261)
+
+
+ South Qeynos
+
+ Fish Ranamer
+
+
+
+  (-292, -269)
+
+
+ South Qeynos
+
+ Rucio Divella
+
+
+
+  (330, -507)
+
+
+ South Qeynos
+
+ Sissy Huntlan
+
+
+
+  (231, -129)
+
+
+ South Qeynos
+
+ Tasya Huntlan
+
+
+
+  (259, -69)
+
+
+ South Qeynos
+
+ Nug Rellash
+
+
+
+  (256, -170)
+
+
+ South Qeynos
+
+ Earron Huntlan
+
+
+
+  (254, -191)
+
+
+ North Qeynos
+
+ Crow
+
+
+
+  (91, 358)
+
+
+ North Qeynos
+
+ Ania Klephia
+
+
+
+  (115, 359)
+
+
+ North Qeynos
+
+ Sabnie Blagard
+
+
+
+  (81, 368)
+
+
+ Rathe Mountains
+
+ Philicia Drinn
+
+
+
+  (4002, -1359)
+
+
+ Rathe Mountains
+
+ Sven Drinn
+
+
+
+  (3992, -1383)
+
+
+ Rathe Mountains
+
+ Innkeep Troy
+
+
+
+  (4283, 842)
+
+
+ Rathe Mountains
+
+ Innkeep Serge
+
+
+
+  (4294, 831)
+
+
+ RunnyEye Citadel
+
+ A goblin bartender
+
+
+
+  (75, 90)
+
+
+ Skyshrine
+
+ Barkeep Droz
+
+
+
+  (492, -654)
+
+
+ Thurgadin
+
+ Loremaster Fronden
+
+
+
+  (-395, 452)
+
+
+ Thurgadin
+
+ Karey
+
+
+
+  (-38, 84)
+
+
+ Thurgadin
+
+ Celtir Gronback
+
+
+
+  (119, -406)
+
+
+ Thurgadin
+
+ Klarp Bartleby
+
+
+
+  (61, -380)
+
+
+ Thurgadin
+
+ Bixx Bartleby
+
+
+
+  (45, -380)
+
+
+ Thurgadin
+
+ Adia Coldbeard
+
+
+
+  (-57, 107)
+
+
+ Thurgadin
+
+ Doogle McBanick
+
+
+
+  (-56, -311)
+
+
+ Thurgadin
+
+ Fogerty Bottlenip
+
+
+
+  (-311, -27)
+
+
+ Thurgadin
+
+ Durgan Bottlenip
+
+
+
+  (-329, -28)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (52, 928)
+
+
+ Timorous Deep
+
+ Portik Grolam
+
+
+
+  (-11592, -2275)
+
+
+ Timorous Deep
+
+ Micus Vloren
+
+
+
+  (-5195, -4335)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 31)
+ Yield: Short Beer x1
+ In Brewing Barrel:
+
+
+  1 x Barley - Bought
+  1 x Cask - Bought
+  1 x Hops - Bought
+  1 x Malt - Bought 
+
+
+  Tradeskill recipes 
+ Brewing
+ Vodka (Trivial: 135)
+ Ginesh (Trivial: 168)
+
+
+ Baking
+ Beer Braised Bear (Trivial: 68)
+ Beer Braised Gator (Trivial: 68)
+ Beer Braised Mammoth (Trivial: 68)
+ Beer Braised Lion (Trivial: 68)
+ Beer Braised Rat (Trivial: 68)
+ Beer Braised Wolf (Trivial: 68)
+
+
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Wu's Fighting Cloak
+
+Velious Era (added December 2000-2001)
+
+Wu's Fighting Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 5
+AGI: +4
+WT: 0.1  Size: MEDIUM
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+Part of the Wu's Fighting Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 135)
+ Yield: Wu's Fighting Cloak x1
+ In Sewing Kit:
+
+
+  1 x Cloak Pattern - Bought
+  4 x Heady Kiola - Crafted
+  3 x Silk Swatch - Crafted
+  1 x Vial of Viscous Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

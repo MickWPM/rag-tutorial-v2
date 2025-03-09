@@ -1,0 +1,34 @@
+ITEM NAME: Scaled Wolf Hide Leggings
+
+Kunark Era (added 2000)
+
+Scaled Wolf Hide Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 7
+SV FIRE: +5  SV COLD: +5
+WT: 4.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Warsliks Wood
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

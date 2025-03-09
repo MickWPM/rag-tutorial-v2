@@ -1,0 +1,31 @@
+ITEM NAME: Mistletoe Powder
+
+Epic Quests Era (added Sept 2000)
+Mistletoe Powder
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ Tolapumj
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

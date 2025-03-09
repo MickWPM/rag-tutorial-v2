@@ -1,0 +1,43 @@
+ITEM NAME: Mammoth Meat
+
+Classic Era (added 1999-2000)
+
+Mammoth Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This classic drop was missing from P99 blue until a 2014 patch. [1] 
+
+  Drops From 
+Eastern Wastes
+
+ a tundra mammoth
+ a wooly mammoth
+
+Everfrost Peaks
+
+ a mammoth calf
+ a wooly mammoth
+ a wooly mammoth calf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cougarskin Mask Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Mammoth Sandwich (Trivial: 31)
+ Mammoth Steaks (Trivial: 41)
+ Beer Braised Mammoth (Trivial: 68)
+
+
+
+
+

@@ -1,0 +1,54 @@
+ITEM NAME: Small Brick of Mithril
+
+
+
+Small Brick of Mithril
+
+
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Felwithe
+
+ Tanalin Silverkale
+
+
+
+  (117, -414)
+
+
+ Felwithe
+
+ Opal Leganyn
+
+
+
+  (-80, -413)
+
+Vendor cost: 5p9g3s7c or higher. 
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

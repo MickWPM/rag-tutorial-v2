@@ -1,0 +1,36 @@
+ITEM NAME: Hammered Golden Hoop
+
+Kunark Era (added 2000)
+
+Hammered Golden Hoop
+
+
+MAGIC ITEM LORE ITEM
+Slot: EAR
+AC: -15
+STA: +8  HP: +75
+SV MAGIC: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+No longer drops. Was replaced with the Hammered Golden Loop 
+
+  Drops From 
+Chardok
+
+ Kennel Master Al`ele
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

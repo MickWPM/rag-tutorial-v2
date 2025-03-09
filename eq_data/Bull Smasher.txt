@@ -1,0 +1,33 @@
+ITEM NAME: Bull Smasher
+
+Classic Era (added 1999-2000)
+
+Bull Smasher
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 20
+DMG: 6 
+STR: +2  DEX: +2  AGI: +2
+WT: 4.0  Size: MEDIUM
+Class: WAR CLR PAL
+Race: DWF HFL GNM
+
+
+ Item Lore (from Identify): BullSmasherWarhammer 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Red V Clockwork
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

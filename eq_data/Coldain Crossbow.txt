@@ -1,0 +1,47 @@
+ITEM NAME: Coldain Crossbow
+
+Velious Era (added December 2000-2001)
+
+Coldain Crossbow
+
+
+MAGIC ITEM  TEMPORARY  
+Slot: RANGE PRIMARY
+Skill: Archery  Atk Delay: 15
+DMG: 30
+WT: 3.0  Range: 100  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Great Divide
+
+ Royal Archer
+
+Thurgadin
+
+ Guard Bjorn
+ Guard Clorn
+ Guard Dobbs
+ Guard Elin
+ Guard Enre
+ Guard Fjola
+ Guard Gord
+ Guard Mason
+ Guard Pert
+ Guard Valdis
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

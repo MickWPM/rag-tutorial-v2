@@ -1,0 +1,437 @@
+ITEM NAME: Carnelian
+
+Classic Era (added 1999-2000)
+
+Carnelian
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 7g 9s 2c 
+
+  Drops From 
+Befallen
+
+ a necro theurgist
+
+Clan Runnyeye
+
+ a goblin warlord
+
+ Cobalt Scar 
+
+  a bulthar 
+  a bulthar herdleader 
+  a haunted seachest 
+
+Commonlands
+
+ orc legionnaire
+
+Crystal Caverns
+
+ a velium crawler
+ A geonid (CC)
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Eastern Plains of Karana
+
+ a hill giant
+ Tarbul Earthstrider
+
+Erud's Crossing
+
+ a shark
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+
+Beholder's Maze
+
+ Yymp the Infernal
+
+Lake of Ill Omen
+
+ a goblin warrior
+ goblin warlord
+
+Lavastorm Mountains
+
+ a fire drake
+ a fire elemental
+
+Lesser Faydark
+
+ a faerie noble
+ Whimsy Larktwitter
+
+Rathe Mountains
+
+ a hill giant
+
+Northern Karana
+
+ a griffawn
+
+Northern Desert of Ro
+
+ a desert madman
+ a shriveled mummy
+
+Ocean of Tears
+
+ a goblin headmaster
+
+Rivervale
+
+ Nillipuss
+
+Southern Desert of Ro
+
+ an orc priest
+ Obretl
+
+Steamfont Mountains
+
+ a harpy
+ a mountain brownie
+ an earth elemental
+
+Swamp of No Hope
+
+ froglok raider
+
+The Feerrott
+
+ a spectre
+
+ Tower of Frozen Shadow 
+
+  an undead bridesmaid 
+
+Upper Guk
+
+ a heart spider
+
+Warsliks Woods
+
+ goblin spirit caller
+ a skulking brute
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (659, 156)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ North Freeport
+
+ Jade
+
+
+
+  (-169, 202)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ Oasis of Marr
+
+ Tran
+
+
+
+  (541, -43)
+
+
+ Oasis of Marr
+
+ Innkeep Tizzy
+
+
+
+  (-1307, -306)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Southern Desert of Ro
+
+ Smith Tv`ysa
+
+
+
+  (93, 487)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+  Related quests 
+ Shackle of Bronze
+ Dragon Scales Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Carnelian Wedding Ring (Trivial: 32)
+ Electrum Carnelian Wedding Ring (Trivial: 95)
+ Gold Carnelian Wedding Ring (Trivial: 167)
+ Platinum Carnelian Wedding Ring (Trivial: 239)
+
+
+
+
+ Pottery
+
+
+
+

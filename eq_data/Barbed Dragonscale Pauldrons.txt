@@ -1,0 +1,38 @@
+ITEM NAME: Barbed Dragonscale Pauldrons
+
+Velious Era (added December 2000-2001)
+
+
+
+Barbed Dragonscale Pauldrons
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 9
+STR: +5  STA: +10  AGI: +9
+SV POISON: +15
+WT: 2.5  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Kyenka
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Living Dragons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

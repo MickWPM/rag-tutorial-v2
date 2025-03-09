@@ -1,0 +1,31 @@
+ITEM NAME: Crystal Dragon Eye
+
+Velious Era (added December 2000-2001)
+
+
+Crystal Dragon Eye
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+
+
+ Item Lore (from Identify):  'The dragon eye shaped crystal glows softly'  
+
+  Drops From 
+Velketor's Labyrinth
+
+ An ice paw sorcerer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mask of Draconic Enhancement (Quest)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

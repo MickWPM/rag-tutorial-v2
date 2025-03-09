@@ -1,0 +1,35 @@
+ITEM NAME: A Dusty Sealed Canopic
+
+Kunark Era (added 2000)
+
+
+A Dusty Sealed Canopic
+
+
+LORE ITEM  NO DROP
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+An item that once identified play a roll in Mirgon Dower's Head quest
+ Item Lore (from Identify): Right Eye of Torture
+ Item Lore (from Identify): Left Eye of Torture 
+
+  Drops From 
+Kurn's Tower
+
+ Burynai Forager
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mirgon Dower's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

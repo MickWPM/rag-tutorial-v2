@@ -1,0 +1,34 @@
+ITEM NAME: Robe of Icicles
+
+Velious Era (added December 2000-2001)
+ 
+Robe of Icicles
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 12
+STR: +2  STA: +15  INT: +15  HP: +60  MANA: +90
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +10  SV MAGIC: +10  SV POISON: +5
+Effect: Enticement of Flame (Must Equip, Casting Time: 24.0)
+WT: 0.5  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+The clicky effect is a low-level lure nuke for 360 damage. With a 24 second cast time, this robe can put out 15 DPS mana free. Compare to Solist's Icy Wand and Solist's Robe of Invocation. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Skyshrine Robe
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

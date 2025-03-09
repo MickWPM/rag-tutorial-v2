@@ -1,0 +1,38 @@
+ITEM NAME: Shovel of Ponz
+
+Temple Era (added October 1999)
+
+
+
+Shovel of Ponz
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 6 
+STR: +3  INT: +2
+Effect:  Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
+Focus Effect: Minion of Earth
+WT: 3.5  Size: LARGE
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore (from Identify):  Shovel of PonzAny class with a summoned pet can click this item from an inventory slot. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+ Shovel Of Ponz Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

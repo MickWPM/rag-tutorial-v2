@@ -1,0 +1,35 @@
+ITEM NAME: Chipped Diamond
+
+Velious Era (added December 2000-2001)
+
+
+Chipped Diamond
+
+
+MAGIC ITEM
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 187p1g9s1cp (68 CHA @ Kindly) 194p (92 CHA @ Ally) 
+
+  Drops From 
+Crystal Caverns
+
+ a focus gem
+ a gem collector
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

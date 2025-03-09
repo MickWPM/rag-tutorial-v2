@@ -1,0 +1,32 @@
+ITEM NAME: Pendant of the Pressing Mind
+
+GM Event item (info)
+
+
+Pendant of the Pressing Mind
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 1
+WIS: +4  INT: +8  HP: +20
+WT: 1.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+GM event item. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

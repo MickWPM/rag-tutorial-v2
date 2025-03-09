@@ -1,0 +1,647 @@
+ITEM NAME: Bloodstone
+
+
+Bloodstone
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Sells to Vendors for about 4 gold. Buy from Vendors for about 5 gold 
+
+  Drops From 
+Blackburrow
+
+ a gnoll shaman
+
+Butcherblock Mountains
+
+ an undead king
+ An emerald drake
+
+Clan Runnyeye
+
+ a goblin warlord
+
+Cobalt Scar
+
+ a haunted seachest
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+East Freeport
+
+ a shark
+
+Eastern Plains of Karana
+
+ a hill giant
+ Splintered Claw
+
+Erud's Crossing
+
+ a fire elemental
+ a shark
+
+Estate of Unrest
+
+ a dark terror
+ a lurking mummy
+ a tentacle terror
+
+Firiona Vie
+
+ Firiona drixie
+
+Greater Faydark
+
+ a faerie courtier
+ a faerie noble
+
+Lake of Ill Omen
+
+ a goblin skirmisher
+ a goblin warrior
+ goblin warlord
+
+Lavastorm Mountains
+
+ a fire drake
+ a fire elemental
+ a fire imp
+ a lava crawler
+ a rock dervish
+
+Lesser Faydark
+
+ a faerie courtier
+ an emperor fae drake
+ Whimsy Larktwitter
+
+Rathe Mountains
+
+ a hill giant
+
+Northern Karana
+
+ a griffawn
+
+Northern Desert of Ro
+
+ a crypt mummy
+ a desert madman
+ a shriveled mummy
+
+Ocean of Tears
+
+ a goblin headmaster
+ a shark
+
+Solusek's Eye
+
+ blazing elemental
+ lava elemental
+
+Southern Desert of Ro
+
+ a desert madman
+ an orc cleric
+ an orc priest
+
+Steamfont Mountains
+
+ an earth elemental
+
+Temple of Solusek Ro
+
+ a ward of ro
+ Tazgar
+
+The Wakening Land
+
+ a geonid
+
+Tower of Frozen Shadow
+
+ an undead bridesmaid
+
+Toxxulia Forest
+
+ a kobold scout
+
+Upper Guk
+
+ a fungus drone
+ a giant heart spider
+ a heart spider
+ a large heart spider
+ the froglok warden
+
+Warsliks Woods
+
+ goblin spirit caller
+
+West Commonlands
+
+ a hill giant
+ orc legionnaire
+ Shadow Treebright
+ Sil Silverstar
+ Veli Greenwhisper
+ Vuli Greenwhisper
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1045, -1011)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1053, -1012)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ Crystal Caverns
+
+ Gilliad Coldheart
+
+
+
+  (-176, 344)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Tika Shockstep
+
+
+
+  (917, 721)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ Erudin Palace
+
+ Andane Starinen
+
+
+
+  (864, 737)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Northern Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ South Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ South Felwithe
+
+ Merchant Lyssia
+
+
+
+  (580, -872)
+
+
+ South Felwithe
+
+ Merchant Earlyn
+
+
+
+  (464, -348)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ North Freeport
+
+ Jade
+
+
+
+  (-169, 202)
+
+
+ West Freeport
+
+ Dulia Jestes
+
+
+
+  (19, -817)
+
+
+ West Freeport
+
+ Voglan Dransed
+
+
+
+  (155, -762)
+
+
+ West Freeport
+
+ Zasrin Blueflame
+
+
+
+  (148, -763)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Highpass Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Kithicor Forest
+
+ Jeena Firechaser
+
+
+
+  (-216, 3813)
+
+
+ Neriak Commons
+
+ Veca S`Karn
+
+
+
+  (178, -919)
+
+
+ Neriak Commons
+
+ Mirzna N`Mar
+
+
+
+  (167, -875)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+
+ Paineel
+
+ Rallia Hapera
+
+
+
+  (941, 770)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1008)
+
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+ Incandescent Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Bloodstone Earring (Trivial: 26)
+ Electrum Bloodstone Necklace (Trivial: 87)
+ Gold Bloodstone Necklace (Trivial: 159)
+ Platinum Bloodstone Earring (Trivial: 231)
+
+
+
+
+ Spell Research
+ Summon Heatstone (Trivial: 21)
+
+
+
+
+

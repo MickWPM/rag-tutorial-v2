@@ -1,0 +1,45 @@
+ITEM NAME: The Legend of Full Plate
+
+
+
+The Legend of Full Plate
+
+
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ South Qeynos
+
+ Mar Sedder
+
+
+
+  (536, -87)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+
+
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

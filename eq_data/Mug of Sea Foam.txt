@@ -1,0 +1,39 @@
+ITEM NAME: Mug of Sea Foam
+
+Epic Quests Era (added Sept 2000)
+
+Mug of Sea Foam
+
+
+MAGIC ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Had one drop from one of the isle goblins at Oracle island, I forget which goblin though. (note: Not confirmed if this is obtained from fishing. I fished up 12 Saltwater Seaweeds and have fished up 0 Mug of Sea Foam) This can be fished in Ocean of Tears and in Butcherblock. You get about one seaweed per stack of bait. 
+
+  Drops From 
+Ocean of Tears
+
+ a seafury cyclops
+ a cyclops
+ an island goblin headhunter
+ An isle goblin
+ An isle goblin chieftan [1]
+ An isle goblin shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Sea Temper (Trivial: 135) Used in Human Cultural Smithing
+
+
+
+
+

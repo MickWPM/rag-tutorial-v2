@@ -1,0 +1,59 @@
+ITEM NAME: Fine Steel Ulak
+
+
+
+Fine Steel Ulak
+
+
+LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 4 
+WT: 4.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+City of Mist
+
+ Captain of the Guard
+
+Clan Runnyeye
+
+ a Pickclaw mindripper
+
+Emerald Jungle
+
+ greater charbone
+
+Field of Bone
+
+ Kerosh Blackhand
+
+Temple of Droga
+
+ a goblin adept
+ a goblin bodyguard
+ a goblin cavehunter
+ a goblin depredator
+ a goblin fanatic
+ a goblin flamedrowser
+ a goblin flashdrowser
+ a goblin soothsayer
+ a goblin taskmaster
+ a goblin whipcracker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

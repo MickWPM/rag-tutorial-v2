@@ -1,0 +1,83 @@
+ITEM NAME: Spell: Talisman of Jasinth
+
+Kunark Era (added 2000)
+
+
+Spell: Talisman of Jasinth
+
+
+MAGIC ITEM  QUEST ITEM
+Charges: 1
+Skill: Abjuration
+Mana Cost: 150
+Effect:  Talisman of Jasinth
+WT: 0.1  Size: SMALL
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ a scoriae hornet
+ a tatterback ape
+
+Howling Stones
+
+ greater plaguebone
+ greater war boned skeleton
+
+Old Sebilis
+
+ a leprous scarab
+ a pox scarab
+ a sebilite golem
+ a sepsis scarab
+ an iksar necromancer
+ dar ghoul knight
+ Emperor Chottal
+ froglok dar knight
+ froglok dar wizard
+ froglok ilis knight
+ froglok ilis wizard
+ froglok jin shaman
+ froglok jin wizard
+ froglok kor shaman
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ froglok zol knight
+ krup ghoul knight
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a chromadrac
+ a mature wurm
+ a mature wyvern
+ a skycinder drake
+ a wandering wurm
+ a wurm
+ a wyvern
+ an elder wyvern
+ Black Scar
+
+Trakanon's Teeth
+
+ froglok hunter
+ Keeper Sepsis
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Spells (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

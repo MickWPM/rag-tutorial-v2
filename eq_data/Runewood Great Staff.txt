@@ -1,0 +1,38 @@
+ITEM NAME: Runewood Great Staff
+
+Kunark Era (added 2000)
+
+Runewood Great Staff
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 40
+DMG: 22 
+DEX: +2
+SV MAGIC: +5
+WT: 9.5  Size: LARGE
+Class: ALL except BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 6pp 
+
+  Drops From 
+City of Mist
+
+ greater spurbone
+ greater plaguebone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Ancient Tarnished Chain Leggings
+
+Velious Era (added December 2000-2001)
+
+Ancient Tarnished Chain Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+WT: 3.5  Size: TINY
+Class: RNG ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ a shimmering green drake
+ an onyx sky drake
+ other ToV West mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Kael Leggings
+ Rogue Kael Leggings
+ Shaman Kael Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

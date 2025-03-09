@@ -1,0 +1,33 @@
+ITEM NAME: Sorcerer Skullcap
+
+
+
+Sorcerer Skullcap
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 8
+DEX: +1  INT: +5  MANA: +10
+SV MAGIC: +5
+WT: 0.6  Size: SMALL
+Class: NEC
+Race: IKS
+
+
+ Item Lore (from Identify): Necro of the 24th Circle 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Skullcap Quests (#7)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

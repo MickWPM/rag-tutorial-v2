@@ -1,0 +1,39 @@
+ITEM NAME: Copper Ring (Ring of Opolla)
+
+Classic Era (added 1999-2000)
+
+Copper Ring
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+STA: +1  CHA: -1
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Ring of Opolla 
+
+  Drops From 
+Befallen
+
+ Gynok Moltor
+
+Kerra Island
+
+ High Priestess Mitty
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paw of Opolla Quest
+ Shiny Rings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

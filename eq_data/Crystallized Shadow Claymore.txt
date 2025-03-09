@@ -1,0 +1,39 @@
+ITEM NAME: Crystallized Shadow Claymore
+
+Velious Era (added December 2000-2001)
+
+Crystallized Shadow Claymore
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 42
+DMG: 13 
+STR: +2  STA: +2  CHA: +1  HP: +5
+WT: 10.0  Size: LARGE
+Class: WAR RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a blood familiar
+ an enraged relative
+ Undead Usher
+ Nosja
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

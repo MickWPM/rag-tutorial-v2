@@ -1,0 +1,44 @@
+ITEM NAME: Forged Velium Scimitar
+
+Velious Era (added December 2000-2001)
+
+
+Forged Velium Scimitar
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 6 
+Effect: Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 4.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Forged Velium Scimitar x1
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  1 x Curved Blade Mold - Bought
+  1 x Hilt Mold - Bought
+  1 x Pommel Mold - Bought
+  1 x Sheet of Velium - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

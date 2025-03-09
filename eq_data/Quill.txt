@@ -1,0 +1,324 @@
+ITEM NAME: Quill
+
+
+
+Quill
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1074, -1041)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1045, -1011)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1053, -1012)
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (1313, -915), (771, 172), (987, -52)
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ Erudin Palace
+
+ Andane Starinen
+
+
+
+  (864, 737)
+
+
+ Erudin Palace
+
+ Harban Ranflash
+
+
+
+  (695, 883)
+
+
+ Felwithe
+
+ Chenori Berinal
+
+
+
+  (-44, -281)
+
+
+ Felwithe
+
+ Merchant Lyssia
+
+
+
+  (580, -872)
+
+
+ Felwithe
+
+ Merchant Jewyln
+
+
+
+  (567, -609)
+
+
+ Felwithe
+
+ Merchant Earlyn
+
+
+
+  (464, -348)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ West Freeport
+
+ Dulia Jestes
+
+
+
+  (19, -817)
+
+
+ West Freeport
+
+ Voglan Dransed
+
+
+
+  (155, -762)
+
+
+ West Freeport
+
+ Mekoma Buma
+
+
+
+  (145, -761)
+
+
+ Greater Faydark
+
+ Merchant Gaeadin
+
+
+
+  (-114, -131)
+
+
+ Neriak Commons
+
+ Veca S`Karn
+
+
+
+  (178, -919)
+
+
+ Neriak Commons
+
+ Genzal R`Jyen
+
+
+
+  (119, -919)
+
+
+ Neriak Commons
+
+ Mirzna N`Mar
+
+
+
+  (167, -875)
+
+
+ Neriak Commons
+
+ Garren D`Vek
+
+
+
+  (-4, -996)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+
+ North Qeynos
+
+ Nerissa Clothspinner
+
+
+
+  (83, 346)
+
+
+ Toxxulia Forest
+
+ Tran Lilspin
+
+
+
+  (1761, -736)
+
+
+ Toxxulia Forest
+
+ Xylania Rainsparkle
+
+
+
+  (2202, -1128)
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1008)
+
+  Related quests 
+ The Restraining Order
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Practice Rune (Azia)
+ Practice Rune (Beza)
+ Apprentice Rune (Azia)
+ Apprentice Rune (Beza)
+ Training Rune (Azia)
+ Training Rune (Beza)
+ Journeyman Rune (Azia)
+ Journeyman Rune (Beza)
+ Study Rune (Azia)
+ Study Rune (Beza)
+ Expert Rune (Azia)
+ Expert Rune (Beza)
+ Master Rune (Azia)
+ Master Rune (Beza)
+ Magi Rune (Azia)
+ Magi Rune (Beza)
+
+
+
+
+

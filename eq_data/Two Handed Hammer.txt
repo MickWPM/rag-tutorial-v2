@@ -1,0 +1,290 @@
+ITEM NAME: Two Handed Hammer
+
+
+Two Handed Hammer
+
+
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 51
+DMG: 13 
+WT: 13.0  Size: LARGE
+Class: ALL except BRD ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+East Freeport
+
+ Captain Hazran
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork priest
+
+
+
+  (1198, -551)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+   (1253, -715)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+   (1329, -762)
+
+
+ East Cabilis
+
+ Weaponsmith Grugl
+
+
+
+  (-432, -33)
+
+
+ West Commonlands
+
+ Opal Woodchopper
+
+
+
+  (-515, 2576)
+
+
+ Erudin
+
+ Ayth Niphiria
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Stella Breezemoon
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Fhania Aserdon
+
+
+
+  (-1094, -470)
+
+
+ Erudin
+
+ Palus Weaponsmith
+
+
+
+  (-1023, -94)
+
+
+ Felwithe
+
+ Merchant Dantree
+
+
+
+  (-70, -413)
+
+
+ Felwithe
+
+ Isyna Firspanyl
+
+
+
+  (2, -468)
+
+
+ East Freeport
+
+ Celanie Xtoria
+
+
+
+  (-205, -312)
+
+
+ North Freeport
+
+ Hulos Ghenar
+
+
+
+  (88, 269)
+
+
+ Greater Faydark
+
+ Bilrio Surecut
+
+
+
+  (-649, 386)
+
+
+ Greater Faydark
+
+ Merchant Minamas
+
+
+
+  (-676, 387)
+
+
+ Grobb
+
+ Raztara
+
+
+
+  (439, -393)
+
+
+ Grobb
+
+ Zumzal
+
+
+
+  (329, -495)
+
+
+ Halas
+
+ Holana Oleary
+
+
+
+  (137, -337)
+
+
+ North Kaladim
+
+ Baleki Nightseer
+
+
+
+  (765, 143)
+
+
+ Neriak Third Gate
+
+ Tzanso S`Tai
+
+
+
+  (408, -836)
+
+
+ Oggok
+
+ Brana
+
+
+
+  (75, 881)
+
+
+ Oggok
+
+ Rora Dirtstamp
+
+
+
+  (212, -372)
+
+
+ The Overthere
+
+ Tin Merchant VIII
+
+
+
+  (2615, 2616)
+
+
+ Paineel
+
+ Jenkin Fleetmore
+
+
+
+  (1097, 439)
+
+
+ Paineel
+
+ Tenralus Brackmar
+
+
+
+  (1225, 523)
+
+
+ North Qeynos
+
+ Tyokan Mekase
+
+
+
+  (-161, -146)
+
+
+ North Qeynos
+
+ Whysia Flock
+
+
+
+  (-161, -146)
+
+
+ Rivervale
+
+ Pipple Purpleroot
+
+
+
+  (-246, -351)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

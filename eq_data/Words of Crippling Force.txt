@@ -1,0 +1,74 @@
+ITEM NAME: Words of Crippling Force
+
+
+Words of Crippling Force
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kedge Keep
+
+ a swirlspine seahorse
+ Phinigel Autropos
+
+Erud's Crossing
+
+ a thought bleeder
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Ocean of Tears
+
+ Allizewsaur
+
+Plane of Fear
+
+ a boogeyman
+ a samhain
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Hate
+
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+ a Vicious Raptor
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a lava walker (Wyvern)
+ a mature chromadrac
+
+Swamp of No Hope
+
+ Frayk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Paralyzing Earth (Trivial: 184) (Research Only pre-Kunark)
+
+
+
+
+

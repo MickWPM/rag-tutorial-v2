@@ -1,0 +1,53 @@
+ITEM NAME: Drom's Champagne
+
+Classic Era (added 1999-2000)
+
+
+Drom's Champagne
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Possible reward from Sir Morgan's Armor quest. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Henna Treghost
+
+
+
+  (-246, -874)
+
+
+ East Freeport
+
+ Gregor Nasin
+
+
+
+  (-238, -835)
+
+  Related quests 
+ Zimel's Blades (SoulFire)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

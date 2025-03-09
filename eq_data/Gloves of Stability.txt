@@ -1,0 +1,37 @@
+ITEM NAME: Gloves of Stability
+
+Velious Era (added December 2000-2001)
+
+
+
+Gloves of Stability
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 35
+STR: +7  STA: +7  HP: +75
+SV FIRE: +8  SV DISEASE: +8  SV COLD: +8  SV MAGIC: +8  SV POISON: +8
+WT: 20.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lendiniara the Keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Ruby Lens
+
+
+
+Ruby Lens
+
+
+MAGIC ITEM
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Seems like vendor trash
+VALUE TO VENDOR with CHA : 65 and faction at Ally
+
+ 2 Platinums
+ 2 Golds
+ 6 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Najena
+
+ a goblin magician
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Snake Egg Oil
+
+
+
+Snake Egg Oil
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 68)
+ Yield: Snake Egg Oil x1
+ In Brewing Barrel:
+
+
+  1 x Snake Egg - Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Baking
+ Muskie Marinade (Trivial: 142)
+
+
+
+
+

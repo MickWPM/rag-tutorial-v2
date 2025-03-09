@@ -1,0 +1,54 @@
+ITEM NAME: Rusty Mining Pick
+
+Classic Era (added 1999-2000)
+
+
+Rusty Mining Pick
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 38
+DMG: 4 
+WT: 6.5  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Crushbone
+
+ a dwarven slave (female)
+ a dwarven slave (male)
+ an elven slave (female)
+ an elven slave (male)
+ an elven slave (wood elf, female)
+ an elven slave (wood elf, male)
+ Kelynn
+
+Chardok
+
+ a Chokidai Fleshripper
+ a Chokidai Growler
+ a Chokidai Herbsniffer
+ a chokidai mangler
+ a Chokidai Rootdigger
+ a Chokidai Sniffer
+ a Chokidai Whelp
+
+Mines of Nurga
+
+ various slaves
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

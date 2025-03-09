@@ -1,0 +1,38 @@
+ITEM NAME: Bamboo Tanto Bo
+
+Stonebrunt Era (added summer 2001)
+
+Bamboo Tanto Bo
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 33
+DMG: 5 
+WT: 8.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 1.5pp 
+
+  Drops From 
+Upper Guk
+
+ A Froglok Nokta Shaman
+
+The Warrens
+
+ High Shaman Drogik
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

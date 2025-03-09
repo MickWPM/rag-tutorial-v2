@@ -1,0 +1,41 @@
+ITEM NAME: Eye of Innoruuk
+
+Classic Era (added 1999-2000)
+
+ Eye of Innoruuk wielded by an Erudite Wizard
+Eye of Innoruuk
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+AC: 5
+INT: +5  MANA: +55
+SV MAGIC: +10
+Effect:  Chill Sight (Any Slot/Can Equip, Casting Time: Instant)
+WT: 1.5  Size: SMALL
+Class: WIZ
+Race: ALL
+
+
+Clickable at level 1. Very likely the best item for Wizard spell gem reset as it requires no target, has no range limitations, is clickable from inventory, and the buff is not an annoyance like telescope. 
+
+  Drops From 
+Plane of Hate
+
+ Lord of Ire
+ Lord of Loathing
+ Magi P`Tasa
+ Mistress of Scorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

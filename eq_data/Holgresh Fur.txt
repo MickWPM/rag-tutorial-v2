@@ -1,0 +1,41 @@
+ITEM NAME: Holgresh Fur
+
+Velious Era (added December 2000-2001)
+
+
+
+Holgresh Fur
+
+
+WT: 3.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Vendors for 1.5pp. Does not stack. 
+
+  Drops From 
+The Wakening Land
+
+ a holgresh conjurer
+ a holgresh elementalist
+ an elder holgresh
+ Grand Vizier Poolakacha`tei
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+Tailoring
+Holgresh Fur Armor
+
+ Tinkering
+ Clockwork Watchman Vambraces
+
+
+
+
+

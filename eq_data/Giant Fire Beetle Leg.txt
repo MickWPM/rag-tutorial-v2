@@ -1,0 +1,45 @@
+ITEM NAME: Giant Fire Beetle Leg
+
+
+Giant Fire Beetle Leg
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+At some point giant and large fire beetles were removed from the game, and the legs seem to have stopped dropping from giant beetles in WK. Currently the only guaranteed drop are from Queen Klicnik in Qeynos and Queen Klacknak in Kithicor and Misty Thicket. 
+Just got five drops as of 03/21/2023 Both West Karanas a giant beetle were in the area of the Ogres.  Spawn point for one with no PHer I found is at 153, -7820 and after a minute or two it will head in the southeast direction towards Choon, Froon and the Ogres.  It will chill for bit at loc -2154, -10569. In addition, there is also a static 'a giant spider' in the same valley that the 'a giant beetle' spawns. The spawn time is roughly 6 mins 30 secs. 
+The second spawn point is static as well with no PHer the loc is 480, -13131 the spawn timer is the same 6 mins 30 secs and after 40 seconds starts to head in the west direction. - Revilor) 
+
+  Drops From 
+Kithicor Forest
+
+ Queen Klaknak
+
+Misty Thicket
+
+ Queen Klaknak
+
+North Qeynos
+
+ Queen Klicnik
+
+Western Plains of Karana
+
+ a giant beetle (Still?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bug Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

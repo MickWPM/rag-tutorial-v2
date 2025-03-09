@@ -1,0 +1,35 @@
+ITEM NAME: Crazy Cleric Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Crazy Cleric Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 60
+STR: +5  STA: +5  WIS: +15  HP: +40  MANA: +90
+SV DISEASE: +5  SV MAGIC: +10  SV POISON: +5
+WT: 6.0  Size: MEDIUM
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Cerulean Vambraces
+
+Velious Era (added December 2000-2001)
+
+Cerulean Vambraces
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 11
+STR: +2
+WT: 3.5  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Slaggak's Bounty
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

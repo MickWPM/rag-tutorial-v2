@@ -1,0 +1,35 @@
+ITEM NAME: Bone Bladed Claymore
+
+
+ 
+Bone Bladed Claymore
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 17 
+AGI: -8
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Befallen
+
+ a shadowknight (Troll)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

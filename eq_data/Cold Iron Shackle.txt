@@ -1,0 +1,33 @@
+ITEM NAME: Cold Iron Shackle
+
+Velious Era (added December 2000-2001)
+
+
+Cold Iron Shackle
+
+
+Slot: WRIST
+AC: 4
+WT: 2.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+The Warrens
+
+ Aderius Rhenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Hog Key No 2
+
+Classic Era (added 1999-2000)
+Hog Key # 2
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): FRE Hogcaller Key 2 
+
+  Drops From 
+West Freeport
+
+ Shintl Lowbrew
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hogcaller's Inn
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

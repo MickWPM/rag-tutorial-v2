@@ -1,0 +1,38 @@
+ITEM NAME: Blood soaked note
+
+Kunark Era (added 2000)
+
+
+Bloodsoaked Note
+
+
+LORE ITEM  NO DROP  TEMPORARY
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ a drolvarg scavenger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Captain Nealith's Brother 
+
+  Book contents 
+Dear, brother, I fear that my soul has been overtaken by a great evil. My sanity barely hangs on by a thread.
+My dreams of the sweet red blood of others are soon to drive me mad.  The howls in the night call to me.
+It is best for me to leave.  I pray that I can deliver this note before I go mad.
+Please understand that it is better that I am never seen again.
+Goodbye.  Keep up the fight for the forest folk.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

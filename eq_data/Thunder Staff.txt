@@ -1,0 +1,35 @@
+ITEM NAME: Thunder Staff
+
+
+
+Thunder Staff
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK PRIMARY SECONDARY
+Skill: 2H Blunt  Atk Delay: 31
+DMG: 5 
+WIS: +3
+WT: 8.5  Size: LARGE
+Class: CLR PAL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Interestingly says its SECONDARY slot though there is no way to equip it there. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Drosco the Zombie (good)
+ Bonethunder Staff Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

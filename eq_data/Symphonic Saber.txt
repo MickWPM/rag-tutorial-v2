@@ -1,0 +1,44 @@
+ITEM NAME: Symphonic Saber
+
+
+Symphonic Saber
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 11 
+CHA: +10  INT: +5
+Effect:  Symphonic Harmony (Combat, Casting Time: Instant) at Level 50
+WT: 4.5  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ a chokidai mangler
+ a Di`Zok Cryptmaster
+ a Di`Zok Legionnaire
+ a Di`zok Soldier
+ a Di`zok Underling
+ a Sarnak pitboss
+ a Sarnak Whipcracker
+ A Veteran Drillmaster
+ a Veteran Overseer
+ Overseer Dal`guur
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

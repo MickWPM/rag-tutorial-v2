@@ -1,0 +1,39 @@
+ITEM NAME: Spirit Weaver's Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Spirit Weaver's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 37
+STR: +6  DEX: +3  STA: +3  WIS: +14  AGI: +3  HP: +50  MANA: +60
+Effect:  Riotous Health (Must Equip, Casting Time: 9.0)
+WT: 9.0  Size: LARGE
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a serene forest spirit
+ Ail the Elder
+ Fayl Everstrong
+ Tunare (only?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

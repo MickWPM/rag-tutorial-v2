@@ -1,0 +1,115 @@
+ITEM NAME: Hickory Bow Staff
+
+
+
+Hickory Bow Staff
+
+
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Gogon
+
+
+
+  (143, -204)
+
+
+ The Feerrott
+
+ Fugla
+
+
+
+  (975, 1267)
+
+
+ Firiona Vie
+
+ Jessica Winter
+
+
+
+  (-3426, 3310)
+
+
+ Greater Faydark
+
+ Merchant Sylnis
+
+
+
+  (-409, -519)
+
+
+ Iceclad Ocean
+
+ Sojan the Sleepless
+
+
+
+  (4539, 1269)
+
+
+ Neriak Commons
+
+ Dianax C`Luzz
+
+
+
+  (-147, -1064)
+
+
+ Surefall Glade
+
+ Tonsia
+
+
+
+  (125, -111)
+
+
+ Rivervale
+
+ Gerb Jinklebelly
+
+
+
+  (-211, -77)
+
+
+ Thurgadin
+
+ Argash
+
+
+
+  (-203, -298)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Fletching
+
+
+
+

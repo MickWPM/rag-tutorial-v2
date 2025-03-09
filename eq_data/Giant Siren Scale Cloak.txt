@@ -1,0 +1,32 @@
+ITEM NAME: Giant Siren Scale Cloak
+
+Velious Era (added December 2000-2001)
+
+
+Giant Siren Scale Cloak
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+Slot: BACK
+AC: 1
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mechanical Net Delivery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

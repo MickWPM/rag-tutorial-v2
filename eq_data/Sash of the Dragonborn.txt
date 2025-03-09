@@ -1,0 +1,34 @@
+ITEM NAME: Sash of the Dragonborn
+
+
+Sash of the Dragonborn
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 2
+Haste: +24%  
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This haste belt is an intermediate upgrade above the vogue Flowing Black Silk Sash but still significantly cheaper than Runebranded Girdle. 
+ Merchant resale value: 87p 9g 3s 2c 
+
+  Drops From 
+Howling Stones
+
+ A Crypt Spectre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

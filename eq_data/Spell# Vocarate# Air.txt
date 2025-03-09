@@ -1,0 +1,34 @@
+ITEM NAME: Spell: Vocarate: Air
+
+
+
+Spell: Vocarate: Air
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Conjuration
+Mana Cost: 300
+Effect:  Vocarate Air
+WT: 0.1  Size: SMALL
+Class: MAG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Spells (Evil Version)
+ Magician Spells (Good Version)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

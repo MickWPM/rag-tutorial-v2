@@ -1,0 +1,35 @@
+ITEM NAME: Eye of Cazic Thule
+
+Velious Era (added December 2000-2001)
+Eye of Cazic Thule
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 15
+STA: +5  CHA: -25  WIS: +5  INT: +5  HP: +50  MANA: +100
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Flowing Thought I (Worn)  
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

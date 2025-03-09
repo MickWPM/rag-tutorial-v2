@@ -1,0 +1,35 @@
+ITEM NAME: Martune Rapier
+
+
+
+Martune Rapier
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 8 
+STR: +5  AGI: +4
+WT: 2.8  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a scorn banshee
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

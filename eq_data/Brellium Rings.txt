@@ -1,0 +1,40 @@
+ITEM NAME: Brellium Rings
+
+
+
+Brellium Rings
+
+
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 46)
+ Yield: Brellium Rings x2
+ In Stormguard Forge:
+
+
+  1 x Dwarven Ale - Bought
+  1 x File - Crafted
+  1 x Large Brick of Brellium - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Brellium Chain Jointing (Trivial: 106)
+ Dwarven Chain Armor (Trivial: Various)
+
+
+
+
+

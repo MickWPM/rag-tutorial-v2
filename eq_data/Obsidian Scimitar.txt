@@ -1,0 +1,34 @@
+ITEM NAME: Obsidian Scimitar
+
+
+Obsidian Scimitar
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 7 
+AGI: +6
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Solusek's Eye
+
+ flame goblin foreman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

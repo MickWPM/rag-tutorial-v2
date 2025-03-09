@@ -1,0 +1,32 @@
+ITEM NAME: Shackle of Clay
+
+Kunark Era (added 2000)
+
+
+Shackle of Clay
+
+
+LORE ITEM  NODROP
+Slot: WRIST
+AC: 3
+WT: 0.8  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore (from Identify): 2nd Rung of Swifttail 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Shackle Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Note to Ruathey
+
+Warrens Era (added spring 2001)
+
+
+Note to Ruathey
+
+
+LORE ITEM NO TRADE 
+WT: 0.0 Size: SMALL 
+Class: None 
+Race: None 
+
+
+Given by Llara for The Sword of Nobility. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Sword of Nobility
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

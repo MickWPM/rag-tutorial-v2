@@ -1,0 +1,36 @@
+ITEM NAME: Rusted Pauldrons
+
+Sky Era (added January 2000)
+
+
+Rusted Pauldrons
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 7
+DEX: +1
+WT: 1.0  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzt Zzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Disempowerment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

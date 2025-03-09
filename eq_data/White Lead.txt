@@ -1,0 +1,47 @@
+ITEM NAME: White Lead
+
+
+
+White Lead
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: ?) (does not work on p99)
+ Yield: White Lead x1
+ In Oven:
+
+
+  1 x Lead Sulphide - Bought
+  1 x Limestone - Bought
+
+
+ Poison Making (Trivial: ?)
+ Yield: White Lead x1
+ In Mortar and Pestle:
+
+
+  1 x Lead Sulphide - Bought
+  1 x Limestone - Bought 
+
+
+  Tradeskill recipes 
+ Poison Making
+ Metallic Alkaloid (Trivial: 213)
+
+
+
+
+

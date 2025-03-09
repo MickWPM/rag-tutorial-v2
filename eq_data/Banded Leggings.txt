@@ -1,0 +1,40 @@
+ITEM NAME: Banded Leggings
+
+Classic Era (added 1999-2000)
+Were you looking for Large Banded Armor Set? Were you looking for Small Banded Armor Set?
+
+Banded Leggings
+
+
+Slot: LEGS
+AC: 8
+WT: 5.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+This is part of the Banded Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Greaves
+
+  Player crafted 
+ Blacksmithing (Trivial: 168)
+ Yield: Banded Leggings x1
+ In Forge:
+
+
+  1 x Leggings Sectional Mold - Bought
+  3 x Sheet Metal - Crafted, Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

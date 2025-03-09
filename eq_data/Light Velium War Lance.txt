@@ -1,0 +1,34 @@
+ITEM NAME: Light Velium War Lance
+
+Velious Era (added December 2000-2001)
+
+Light Velium War Lance
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 39
+DMG: 30 
+WT: 6.5  Size: LARGE
+Class: WAR PAL SHD
+Race: ALL
+
+
+Part of the Light Velium Weapons set. 
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari hoarder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,441 @@
+ITEM NAME: Emerald
+
+
+Emerald
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Purchased from vendors for ~13p 5g 5s 5c. Reagent for Sacrifice (Essence Emerald), Vial of Clear Mana, Imbue Emerald, Avatar, and Divine Intervention. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 12 Platinums
+ 4 Golds
+ 6 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a cinder hornet
+ a sarnak champion
+ a sarnak enthusiast
+ a sarnak extremist
+ a tottering gorilla
+ an ash hornet
+
+ Cobalt Scar 
+
+  a bulthar 
+  a siren enchantress 
+  a wyvern 
+
+ Crystal Caverns 
+
+  a stalag terror 
+
+ Dragon Necropolis 
+
+  a dragon construct 
+  an amorphous mass 
+  an entropy serpent 
+
+Dreadlands
+
+ a drachnid recluse
+ a drachnid silkmistress
+ a drachnid silkstrander
+ a drachnid webmaster
+ a drachnid widow
+ a drolvarg gnasher
+ a glacier yeti
+ a tundra yeti
+ a voracious brute
+
+Erud's Crossing
+
+ a fire elemental
+
+The Estate of Unrest
+
+ mortuary fungus
+
+Firiona Vie
+
+ a drachnid silkspinner
+ a drolvarg snarler
+ froglok shin knight
+ froglok tsu shaman
+ goblin raider
+
+Frontier Mountains
+
+ a mountain giant tump
+ goblin raider
+
+Kaesora
+
+ Guardian Of Xalgoz
+ spectral librarian
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ zombie trooper
+
+Lavastorm Mountains
+
+ a fire elemental
+
+Rathe Mountains
+
+ a cyclops
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+ imp protector
+
+Northern Karana
+
+ a griffon
+
+Northern Desert of Ro
+
+ a sand giant
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a neriad maiden
+
+Southern Karana
+
+ a cyclops
+
+Southern Desert of Ro
+
+ a spectre
+
+Steamfont Mountains
+
+ Minotaur Guard
+ Minotaur Sentry
+ Tindo Frugrin
+
+ Stonebrunt Mountains 
+
+  a young panda 
+  an elder graniteback 
+  An Elder Panda 
+
+Temple of Droga
+
+ a goblin boneseer
+ a goblin dirttracer
+
+The Overthere
+
+ a Sarnak enthusiast
+ a Sarnak knight
+
+The Wakening Land
+
+ a frost giant laborer
+ a geonid
+ a tar goo
+ Korzak Stonehammer
+
+ Tower of Frozen Shadow 
+
+  an undead bridesmaid 
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ Chardok
+
+ Haggle Baron Dry`dn (confirmed 12/3/2021)
+
+
+
+  (-93, 351
+
+
+ Crystal Caverns
+
+ Gilliad Coldheart
+
+
+
+  (-176, 344)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ North Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ South Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Brackin Nartoise
+
+
+
+  (-3978, 2612)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Highpass Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ The Overthere
+
+ Tin Merchant XI (greedy)
+
+
+
+  (2663, 2548)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Warsliks Woods
+
+ Klok Kogrin
+
+
+
+  (-1710, -895)
+
+
+ Warsliks Woods
+
+ Klok Rogalin
+
+
+
+  (-1882, -600)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+ Jewelcrafting
+ Silver Emerald Ring (Trivial: 48)
+ Emerald Electrum Bracelet (Trivial: 116)
+ Golden Emerald Bracelet (Trivial: 188)
+ Platinum Emerald Ring (Trivial: 260)
+
+
+
+
+

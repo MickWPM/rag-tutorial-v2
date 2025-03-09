@@ -1,0 +1,34 @@
+ITEM NAME: Antiqued Silver Band
+
+Classic Era (added 1999-2000)
+
+Antiqued Silver Band
+
+
+MAGIC ITEM
+Slot: FINGER
+AC: 2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Ring of Allegiance to Najena 
+
+  Drops From 
+Befallen
+
+ a necro theurgist
+ a shadowknight (Human)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Electrum Lapis Lazuli Earring
+
+
+Electrum Lapis Lazuli Earring
+
+
+Slot: EAR
+SV DISEASE: +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 76)
+ Electrum Lapis Lazuli Earring x1
+ In Jeweler's Kit:
+
+
+  1 x Electrum Bar - Bought
+  1 x Lapis Lazuli - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

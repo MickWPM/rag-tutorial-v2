@@ -1,0 +1,34 @@
+ITEM NAME: Brass Knuckles
+
+Sky Era (added January 2000)
+
+Brass Knuckles
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 10 
+WT: 1.0  Size: MEDIUM
+Class: WAR MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Noble Dojorn
+Overseer of Air
+The Hand of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Fists
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

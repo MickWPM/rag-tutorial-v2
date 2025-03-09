@@ -1,0 +1,37 @@
+ITEM NAME: Laced Veil
+
+Velious Era (added December 2000-2001)
+
+Laced Veil
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 2
+DEX: +4  CHA: +8  AGI: +3
+SV FIRE: +5  SV DISEASE: +8
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Fine Silk Laced Veil 
+ Merchant resale value: 19.7p 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Daman
+ Nosja
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

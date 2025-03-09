@@ -1,0 +1,29 @@
+ITEM NAME: Slave Shackle Bag
+
+Kunark Era (added 2000)
+
+
+Slave Shackle Bag
+
+
+LORE ITEM NO DROP
+WT: 1.0 Weight Reduction: 0%
+Capacity: 8 Size Capacity: TINY
+
+
+ Item Lore (from Identify): Froglok Shackle Bag 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Geozite Tool Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

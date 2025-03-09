@@ -1,0 +1,45 @@
+ITEM NAME: Imbued Field Plate Boots (Innoruuk)
+
+ Female Human Cleric - Innorruk Full Visual Set
+
+
+Imbued Field Plate Boots (Innoruuk)
+
+
+Slot: FEET
+AC: 12
+WIS: +2   INT: +4   
+WT: 7.0   Size: MEDIUM
+Class: WAR CLR SHD
+Race: HUM HEF
+Deity: Innoruuk
+
+
+Part of the human cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: ??)
+ Yield: Imbued Field Plate Boots (Innoruuk) x1
+ In Antonican Forge:
+
+
+  1 x Smithy Hammer - Bought
+  1 x Sea Temper - Crafted
+  1 x Chain Jointing - Crafted
+  2 x High Quality Folded Sheet Metal - Crafted
+  1 x Imbued Sapphire - Summoned
+  1 x Leather Padding - Crafted
+  1 x Plate Boot Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

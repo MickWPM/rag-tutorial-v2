@@ -1,0 +1,38 @@
+ITEM NAME: Celestial Fists
+
+Epic Quests Era (added Sept 2000)
+
+  Green Server - Epic Wielding Monk
+Celestial Fists
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: HANDS
+AC: 15
+STR: +20  DEX: +10  STA: +10  AGI: +10  HP: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Required level of 46.
+Effect:  Celestial Tranquility (Must Equip, Casting Time: Instant) at Level 50
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Celestial Fists give the wielder a unique animation on the hands. They require level of 46 to equip, 50 to click, and change the Damage / Delay of both of your fists to 9/16. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

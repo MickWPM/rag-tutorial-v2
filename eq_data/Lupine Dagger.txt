@@ -1,0 +1,36 @@
+ITEM NAME: Lupine Dagger
+
+Kunark Era (added 2000)
+
+Lupine Dagger
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 9 
+DEX: +4  WIS: +4
+Effect:  Greater Wolf Form (Combat, Casting Time: Instant) at Level 45
+WT: 0.5  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

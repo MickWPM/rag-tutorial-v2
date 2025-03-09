@@ -1,0 +1,34 @@
+ITEM NAME: Rotting Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+Rotting Sleeves
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 6
+DEX: +2  STA: +5  INT: +8  HP: +35  MANA: +10
+SV FIRE: +1  SV DISEASE: +4  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Skyshrine Sleeves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

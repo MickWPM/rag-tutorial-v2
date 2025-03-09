@@ -1,0 +1,40 @@
+ITEM NAME: Ice Crystal Staff
+
+Classic Era (added 1999-2000)
+
+Ice Crystal Staff
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 5 
+Effect:  Shock of Frost (Combat, Casting Time: Instant)
+WT: 6.5  Size: LARGE
+Class: BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Permafrost
+
+ a goblin scryer
+
+North Qeynos
+
+ Priest of Order
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Visiting Priestess
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

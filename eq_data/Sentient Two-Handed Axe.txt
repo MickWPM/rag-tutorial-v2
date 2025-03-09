@@ -1,0 +1,37 @@
+ITEM NAME: Sentient Two-Handed Axe
+
+Velious Era (added December 2000-2001)
+
+Sentient Two-Handed Axe
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 47
+DMG: 20 
+INT: +5
+Effect:  Voice Graft (Must Equip, Casting Time: 2.0) at Level 20
+WT: 14.0  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+ Merchant resale value: 7.6p 
+
+  Drops From 
+The Wakening Land
+
+ a suit of sentient armor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

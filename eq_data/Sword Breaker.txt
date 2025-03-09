@@ -1,0 +1,36 @@
+ITEM NAME: Sword Breaker
+
+
+Kunark Era (added 2000)
+
+
+Sword Breaker
+
+
+MAGIC ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 20
+DMG: 9   AC: 10
+WT: 1.0  Size: MEDIUM
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ spectral knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

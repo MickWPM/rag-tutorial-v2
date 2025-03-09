@@ -1,0 +1,35 @@
+ITEM NAME: Trooper Scale Boots
+
+Epic Quests Era (added Sept 2000) Nov   2000  Era (added  Nov   2000 )
+
+
+
+Trooper Scale Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 11
+CHA: +5  AGI: +5
+SV DISEASE: +3  SV POISON: +3
+WT: 4.0  Size: MEDIUM
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

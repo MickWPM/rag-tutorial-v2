@@ -1,0 +1,36 @@
+ITEM NAME: Paineel Splinted Cloak
+
+Hole Era (added June 2000)
+
+
+
+Paineel Splinted Cloak
+
+
+Slot: BACK
+AC: 8
+WT: 5.5  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+The Hole
+
+ a revenant
+ a wanderer
+ A Ratman Warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Band of Screaming Winds
+
+Sky Era (added January 2000)
+
+
+Band of Screaming Winds
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+Charges: 3
+AC: 2
+CHA: -3  INT: +5  MANA: +25
+Effect:  Invoke Fear (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: TINY
+Class: NEC
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Test of Finger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

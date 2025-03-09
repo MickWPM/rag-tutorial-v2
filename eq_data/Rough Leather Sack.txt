@@ -1,0 +1,27 @@
+ITEM NAME: Rough Leather Sack
+
+
+Rough Leather Sack
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Weight Reduction: 25%
+Capacity: 6  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Feskr's Supplies
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Drogan Warlord's Insignia
+
+Chardok Revamp Era (added late 2001)
+
+Drogan Warlord's Insignia
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Temple of Droga
+
+ a Goblin Backbiter
+ a goblin slinker
+ a goblin adept
+ a goblin blightcaller
+ a goblin stalagknight
+ a goblin whipcracker
+ random drop from most any mob?
+
+Mines of Nurga
+
+ random drop here on p99?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Regal Band of Bathezid Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

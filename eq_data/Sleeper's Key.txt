@@ -1,0 +1,30 @@
+ITEM NAME: Sleeper's Key
+
+Velious Era (added December 2000-2001)
+
+Sleeper's Key
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Grants access to Sleeper's Tomb. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Essence Lens Quest
+ Key to Sleeper's Tomb
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

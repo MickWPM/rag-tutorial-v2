@@ -1,0 +1,33 @@
+ITEM NAME: Daelione's Implant
+
+Kunark Era (added 2000)
+
+
+Daelione's Implant
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ Sergeant Daelione
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

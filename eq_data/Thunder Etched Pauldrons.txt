@@ -1,0 +1,34 @@
+ITEM NAME: Thunder Etched Pauldrons
+
+Velious Era (added December 2000-2001)
+
+Thunder Etched Pauldrons
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 10
+SV FIRE: +4  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+WT: 0.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+Drops off many mobs in Kael Drakkel. 
+
+  Drops From 
+Kael Drakkel
+
+ Legionnaire Renarn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

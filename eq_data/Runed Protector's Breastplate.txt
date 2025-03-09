@@ -1,0 +1,35 @@
+ITEM NAME: Runed Protector's Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Runed Protector's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 42
+STR: +6  DEX: +8  STA: +8  WIS: +8  AGI: +8  HP: +40  MANA: +60
+SV MAGIC: +7  SV POISON: +3
+Effect:  Shield of Words (Must Equip, Casting Time: 15.0)
+WT: 9.0  Size: LARGE
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Velium Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

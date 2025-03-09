@@ -1,0 +1,70 @@
+ITEM NAME: Words of the Ethereal
+
+Classic Era (added 1999-2000)
+
+Words of the Ethereal
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Kedge Keep
+
+ a swirlspine seahorse
+ Estrella of Gloomwater
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Old Sebilis
+
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+
+Ocean of Tears
+
+ Allizewsaur
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a shiverback
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Hate
+
+ a loathling lich
+ an abhorrent
+
+Skyfire Mountains
+
+ A Skycinder Drake
+
+Timorous Deep
+
+a Vicious Raptor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Lich (Trivial: 184) (Research Only)
+
+
+
+
+

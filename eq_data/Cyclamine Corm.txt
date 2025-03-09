@@ -1,0 +1,34 @@
+ITEM NAME: Cyclamine Corm
+
+
+
+Cyclamine Corm
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Everfrost Peaks
+
+ a snow orc shaman
+ an orcish mountaineer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Cyclan Butil (Trivial: 48)
+
+
+
+
+

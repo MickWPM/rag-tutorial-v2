@@ -1,0 +1,36 @@
+ITEM NAME: Gloves of Earthcrafting
+
+Velious Era (added December 2000-2001)
+
+ Kajo the Wood Elf modeling Gloves of Earthcrafting.
+Gloves of Earthcrafting
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 10
+STR: +5  WIS: +12  MANA: +50
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+Effect:  Shield of Thorns (Must Equip, Casting Time: 8.0)
+WT: 2.0  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF
+Deity: Tunare
+
+
+ Item Lore (from Identify): Gloves of Earthcrafting 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gloves of Earthcrafting Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

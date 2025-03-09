@@ -1,0 +1,69 @@
+ITEM NAME: Rusty Battle Axe
+
+Classic Era (added 1999-2000)
+
+Rusty Battle Axe
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 42
+DMG: 6 
+WT: 8.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+As with most Rusty Weapons, can drop off any newbie mob. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 8 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Drops from low-level humanoids
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Harg Tonicka
+
+
+
+  (-41, -493)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86, -457)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Frost Crystal
+
+
+Frost Crystal
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: Cannot be sold to merchants. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #6
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Purified Water (Trivial: No-Fail)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Dreadlands
+ Everfrost Peaks
+
+

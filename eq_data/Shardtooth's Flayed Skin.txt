@@ -1,0 +1,36 @@
+ITEM NAME: Shardtooth's Flayed Skin
+
+Velious Era (added December 2000-2001)
+
+ 
+Shardtooth's Flayed Skin
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 14
+HP: +35  MANA: +35
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ Shardtooth
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

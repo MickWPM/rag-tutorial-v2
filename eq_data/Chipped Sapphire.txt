@@ -1,0 +1,34 @@
+ITEM NAME: Chipped Sapphire
+
+Velious Era (added December 2000-2001)
+
+
+Chipped Sapphire
+
+
+MAGIC ITEM
+STR: +2  INT: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 94pp+ to vendor.
+Crystal Caverns
+
+ a focus gem
+ a gem collector 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Lambent Vambraces
+
+Temple Era (added October 1999)
+
+Lambent Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 11
+CHA: +1
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 3.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lambent Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

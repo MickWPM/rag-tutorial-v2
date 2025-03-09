@@ -1,0 +1,40 @@
+ITEM NAME: The Blade
+
+Velious Era (added December 2000-2001)
+
+
+The Blade
+
+
+NO DROP
+WT: 0.5  Size: SMALL
+
+
+ Item Lore (from Identify):  Eldriaks' Instructions
+Obtained from Eldriaks_Fe'Dhar in return for Dragon Crafted Urn (v2). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor 
+
+  Book contents 
+Only a master smith may forge the blade.
+Once the ore is found, it must be broken into 2 portions with a forging hammer and a smithing chisel.
+First you must form the code of the blade.
+Take one portion of the starmetal and apply the bone dust in the forge. Then, with a hammer and chisel, fold the block of ore. You must repeat this 5 times to homogenize the steel. After the 5th fold, take the hammer to the ore and shape the core into a curved blade.
+Now for the "skin" of the blade. Apply the remaining bone dust to the 
+last portion of starmetal. Fold this block of ore, as with code, 10 times with the hammer and chisel. This will be the most difficult and time consuming steps. After the 10th fold block, apply the skin to the core with the hammer. The last step in the forging process is taking the whole blade and shaping it into a suitable naginata blade.
+The last major step is the tempering of the blade. This includes a mixture of clay and water for the differential tempering process. Combine a small block of clay with a flask of water at the potter's wheel. Then take the clay and apply it to the blade at the wheel as well, leaving the edge of it exposed. Allow it to dry. The last step is to heat the clay covered blade in the forge, and them plunge it into a fluid to temper. In this case, a special fluid mut be found.
+In the mountains of Kunk one can find a very caustic type of mist that freezes and collects at high altitudes. Find a portion of this ice and use it for the tempering. Good luck.
+Eldriaks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

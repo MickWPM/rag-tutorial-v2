@@ -1,0 +1,34 @@
+ITEM NAME: Adamantium Coldain Insignia Ring
+
+Velious Era (added December 2000-2001)
+
+Adamantium Coldain Insignia Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 7
+STR: +7
+SV MAGIC: +7
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #8: Velium Coldain Insignia Ring
+ Coldain Ring #7: Adamantium Coldain Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

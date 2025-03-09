@@ -1,0 +1,41 @@
+ITEM NAME: Orcish Morning Star
+
+Classic Era (added 1999-2000)
+
+
+Orcish Morning Star
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 43
+DMG: 8 
+WT: 11.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 53 and faction at Kindly
+
+ 6 Platinums
+ 0 Golds
+ 9 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Southern Desert of Ro
+
+ Erg Bluntbruiser
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,63 @@
+ITEM NAME: Dark Elf Parts
+
+
+Dark Elf Parts
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Befallen
+
+ a necro neophyte
+ a shadowknight (Dark Elf Male)
+ Priest Amiaz
+
+Crushbone
+
+ Ambassador DVinn
+
+Mistmoore Castle
+
+ a Mistmoore guard
+
+Najena
+
+ Drelzna
+
+Northern Desert of Ro
+
+ Dorn B`Dynn
+
+Oasis of Marr
+
+ Lockjaw
+
+Upper Guk
+
+ Tempus
+
+West Commonlands
+
+ Kizdean Gix
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Blackened Teir'Dal (Trivial: 62)
+
+
+
+
+

@@ -1,0 +1,48 @@
+ITEM NAME: Scarab Carapace
+
+Classic Era (added 1999-2000)
+
+Scarab Carapace
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 55 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 3 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a worker scarab
+
+Field of Bone
+
+ a carrion beetle hatchling
+ an emerald fencer
+ carrion shredder
+
+Northern Desert of Ro
+
+ a sand scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scarab Helm
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

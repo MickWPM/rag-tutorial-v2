@@ -1,0 +1,45 @@
+ITEM NAME: Infected Rat Livers
+
+
+
+Infected Rat Livers
+
+
+NO DROP
+SV DISEASE: -1
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Toxxulia Forest
+
+ an infected rat
+
+Paineel
+
+ an undead rat
+
+Steamfont Mountains
+
+ a female rat
+ a giant diseased rat
+ a young plague rat
+ an infected rat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Air Tight Box Quest
+ Cazic Thule Initiate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

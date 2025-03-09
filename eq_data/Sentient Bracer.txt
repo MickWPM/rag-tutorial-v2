@@ -1,0 +1,35 @@
+ITEM NAME: Sentient Bracer
+
+Velious Era (added December 2000-2001)
+
+Sentient Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 9
+INT: +3
+WT: 4.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+
+ Merchant resale value: 22.8p 
+
+  Drops From 
+The Wakening Land
+
+ a suit of sentient armor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

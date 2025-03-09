@@ -1,0 +1,34 @@
+ITEM NAME: Arrow of Fire
+
+Classic Era (added 1999-2000)
+
+
+Arrow of Fire
+
+
+MAGIC ITEM
+Slot: AMMO
+DMG: 4
+WT: 0.1  Range: 100  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ Whimsy Larktwitter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

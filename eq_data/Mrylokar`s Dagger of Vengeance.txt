@@ -1,0 +1,40 @@
+ITEM NAME: Mrylokar`s Dagger of Vengeance
+
+Velious Era (added December 2000-2001)
+ NERF ALERT (see notes)
+ 
+Mrylokar`s Dagger of Vengeance
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 15   AC: 15
+STR: +15  DEX: +10  STA: +5  AGI: +10  HP: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Feast of Blood (Combat, Casting Time: Instant)
+WT: 1.0  Size: TINY
+Class: ROG
+Race: ALL
+
+
+ Item Lore (from Identify): Dagger of the Chosen
+
+Replaces Zeriphra's Dagger of Blood. Best Rogue dagger in the game. 
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

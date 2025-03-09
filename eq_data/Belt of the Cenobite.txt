@@ -1,0 +1,35 @@
+ITEM NAME: Belt of the Cenobite
+
+Kunark Era (added 2000)
+
+Belt of the Cenobite
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 5
+WIS: +7
+SV COLD: +10
+WT: 1.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ Burynai Grand Cenobite
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

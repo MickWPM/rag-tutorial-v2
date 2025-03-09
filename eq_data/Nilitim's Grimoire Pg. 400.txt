@@ -1,0 +1,73 @@
+ITEM NAME: Nilitim's Grimoire Pg. 400
+
+
+
+Nilitim's Grimoire Pg. 400
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones
+
+ a sepulcher skeleton
+
+Kedge Keep
+
+ a swirlspine seahorse
+ Estrella of Gloomwater
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Permafrost
+
+ an ice giant
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ Amygdalan knight
+ phoboplasm
+
+Plane of Hate
+
+ a forsaken revenant
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+a Vicious Raptor
+ Dinus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Used for Spell - Paralyzing Earth (3 minute root)
+
+   Cleric - Level 56
+   Shaman - Level 56
+   Necromancer - Level 49
+   Wizard - Level 49
+   Enchanter - Level 49 
+   
+
+This spell CAN be purchased through Overthere and Firiona Vie outposts.
+
+

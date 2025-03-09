@@ -1,0 +1,36 @@
+ITEM NAME: Electrum Jasper Earring
+
+
+Electrum Jasper Earring
+
+
+Slot: EAR
+WIS: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 92)
+ Electrum Jasper Earring x1
+ In Jeweler's Kit:
+
+
+  1 x Electrum Bar - Bought
+  1 x Jasper - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

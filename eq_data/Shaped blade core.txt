@@ -1,0 +1,41 @@
+ITEM NAME: Shaped blade core
+
+Velious Era (added December 2000-2001)
+
+
+Shaped blade core
+
+
+LORE ITEM NO TRADE 
+WT: 10.6  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Blacksmithing (Trivial: 171)
+ Yield: Shaped blade core x1
+ In Forge:
+
+
+  1 x Forging Hammer - Bought
+  1 x Blade core-5th fold - Foraged, Crafted, Quested 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Complete raw blade (Trivial: 188)
+
+
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Leech Husk Tunic
+
+
+
+Leech Husk Tunic
+
+
+Slot: CHEST
+AC: 7
+WT: 3.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Marauder Armor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

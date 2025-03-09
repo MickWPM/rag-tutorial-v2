@@ -1,0 +1,40 @@
+ITEM NAME: Blood Point
+
+Kunark Era (added 2000)
+
+
+
+Blood Point
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 21
+DMG: 10 
+STR: +5  CHA: -5
+SV DISEASE: +10  SV POISON: +10
+Effect:  Siphon (Combat, Casting Time: Instant) at Level 50
+WT: 2.3  Size: MEDIUM
+Class: WAR ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones
+
+ The Crypt Feaster
+ a Crypt Spectre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

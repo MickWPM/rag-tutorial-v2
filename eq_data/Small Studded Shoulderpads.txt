@@ -1,0 +1,38 @@
+ITEM NAME: Small Studded Shoulderpads
+
+Classic Era (added 1999-2000)
+
+Small Studded Shoulderpads
+
+
+Slot: SHOULDERS
+AC: 4
+WT: 1.1  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Studded Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 56)
+ Yield: Small Studded Shoulderpads x1
+ In Loom or Sewing Kit:
+
+
+  1 x Medium Quality Wolf Pelt - Crafted, Dropped
+  3 x Studs - Crafted
+  1 x Shoulderpad Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

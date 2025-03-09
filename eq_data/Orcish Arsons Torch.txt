@@ -1,0 +1,33 @@
+ITEM NAME: Orcish Arsons Torch
+
+Classic Era (added 1999-2000)
+
+
+Orcish Arsons Torch
+
+
+LORE ITEM  NO DROP  
+Slot: PRIMARY
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Greater Faydark
+
+ an orc arsonist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

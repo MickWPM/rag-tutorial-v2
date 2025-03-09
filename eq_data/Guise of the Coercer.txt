@@ -1,0 +1,42 @@
+ITEM NAME: Guise of the Coercer
+
+ 
+Epic Quests Era (added Sept 2000)
+
+
+Guise of the Coercer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 4
+CHA: +13
+SV MAGIC: +7
+Effect:  Illusion: High Elf (Any Slot/Can Equip, Casting Time: 6.0) at Level 15
+WT: 0.4  Size: SMALL
+Class: BRD ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Stanos' Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  See also 
+ Illusion Masks
+ Lute of the Howler
+ Neriad Shawl
+ Amulet of Necropotence
+
+

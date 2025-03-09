@@ -1,0 +1,36 @@
+ITEM NAME: Blade of Carnage
+
+Velious Era (added December 2000-2001) Blured <Safe Space> models the Blade of Carnage!
+
+Blade of Carnage
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 15 
+STR: +15  DEX: +15  STA: +15  HP: +100
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD BRD
+Race: ALL
+
+
+Upgraded post-Velious [1]. Original stats shown (no Enraging Blow proc, 23 delay instead of 20). 
+
+  Drops From 
+Kael Drakkel
+
+ The Avatar of War
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,47 @@
+ITEM NAME: Velium Bolt
+
+Velious Era (added December 2000-2001)
+
+
+Velium Bolt
+
+
+Slot: AMMO
+DMG: 5
+WT: 0.1  Range: 100  Size: TINY
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ Royal Archer
+ Zrelik the Scout
+
+Thurgadin
+
+ Guard Bjorn
+ Guard Clorn
+ Guard Dobbs
+ Guard Elin
+ Guard Enre
+ Guard Fjola
+ Guard Gord
+ Guard Mason
+ Guard Pert
+ Guard Valdis
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

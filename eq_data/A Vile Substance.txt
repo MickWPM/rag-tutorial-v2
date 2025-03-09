@@ -1,0 +1,36 @@
+ITEM NAME: A Vile Substance
+
+Warrens Era (added spring 2001)
+
+
+A Vile Substance
+
+
+Slot: RANGE 
+Skill: Throwingv1  Atk Delay: 25
+DMG: 3
+Effect: Disease (Combat, Casting Time: Instant) at Level 30
+WT: 0.0  Range: 50  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): You can only imagine 
+
+  Drops From 
+Clan Runnyeye
+
+ Sludge Dankmire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunic of Ridossan Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,63 @@
+ITEM NAME: Hole Key
+
+Hole Era (added June 2000) How to get the Hole Key
+
+
+Hole Key
+
+
+MAGIC ITEM  NODROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify):  'Hole Key' 
+This key grants access to The Hole zone (see Key Compendium for more information).
+
+  Faction Requirements 
+ You will need Apprehensivly or higher with Heretics to buy the Hole Key from the merchant.
+You will also need Amiably faction or higher with Heretics to get the Bone Crafted Key.
+
+  Raising faction 
+ Kill kobolds in The Warrens: They give positive Erudin and Paineel faction. Just slaughter everything and check your faction with the Paineel guards til you get apprehensivly and ask for someone to start the lift for you.
+ Kill Erudin & Erudin Palace Guards (Sentinels) will raise your Heretics faction.
+ The guards inside Erudin Palace will spawn a weak water elemental(300hp?) when they die, killing it will also give faction for a total of 2 faction hits.
+Erudin City: 8 guards near the docks and in the city.
+Erudin Palace: 3 guards path around the zone in room and 4 guards are inside the shops and bank in the basement.
+Beware of wandering guild masters while killing the guards inside the palace!
+Time needed to get from scowls to kindly with a 58 warrior and a 58 cleric was about 1 hour or 4-5 respawns. With kindly we could get a lift key to the city and buy the Hole Key from the merchant.
+Erudin Palace guards seem to give +45 Heretic Faction each, 25 minute timer. 
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+Cost is around 105pp
+
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Paineel
+
+ Rallia Hapera
+
+
+
+  (941, 770)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

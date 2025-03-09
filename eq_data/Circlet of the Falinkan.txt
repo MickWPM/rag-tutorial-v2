@@ -1,0 +1,33 @@
+ITEM NAME: Circlet of the Falinkan
+
+Velious Era (added December 2000-2001)
+
+Circlet of the Falinkan
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 12
+STR: +7  DEX: +5  WIS: +5  INT: +5  HP: +50  MANA: +75
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ralgyn's Promise
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

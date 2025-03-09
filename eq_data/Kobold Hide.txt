@@ -1,0 +1,48 @@
+ITEM NAME: Kobold Hide
+
+Velious Era (added December 2000-2001)
+
+
+
+Kobold Hide
+
+
+QUEST ITEM
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a kobold spiritslaver
+ a kobold wanderer
+
+The Warrens
+
+ a kobold protector
+ A Large Kobold
+
+Toxxulia Forest
+
+ a kobold watcher?
+
+Kerra Island
+
+ a kobold prisoner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kobold Killing
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

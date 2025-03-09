@@ -1,0 +1,30 @@
+ITEM NAME: Shiny tin bowl
+
+Epic Quests Era (added Sept 2000)
+
+
+Shiny Tin Bowl
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Weight Reduction: 0%
+Capacity: 4  Size Capacity: SMALL
+
+
+ Item Lore (from Identify): Ellas Reflective Tin Bowl 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+ Ranger Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

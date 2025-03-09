@@ -1,0 +1,53 @@
+ITEM NAME: Torn Parchment
+
+
+
+
+ 
+
+ Notice: This page needs a revamp or clean-up. It may contain serious omissions or information which is incorrect for Project 1999. It may represent the wrong era, and/or may be the result of a revamp on Live which may not yet be active on P99. Do not trust this page.
+
+
+
+
+
+
+ This page is intended to disambiguate articles with similar names (info) 
+
+
+
+Torn Parchment
+
+
+LORE ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Qeynos Aqueducts
+
+ Ronn Castekin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Merona's Brother 
+
+  Book contents 
+Dear Merona, I wont be returning to you. You see, I have found my true calling as a disciple of Bertoxxulous.
+I have become one of the Bloodsabers. I have foolishly given them my flesh.
+I was a weakling and cried while they stripped it from my bones.
+I only pray that you too will someday know the pain that I now endure as one of the undead.
+Your pitiful and stupid dead brother, Ronn
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

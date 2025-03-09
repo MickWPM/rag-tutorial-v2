@@ -1,0 +1,32 @@
+ITEM NAME: Blackbox Z Series
+
+
+
+Blackbox C Series
+
+
+WT: 10.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This item has no known use. 
+
+  Drops From 
+Ak'Anon
+
+ Clockwork IZ
+ Clockwork IIZ
+ Clockwork IIIZ
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

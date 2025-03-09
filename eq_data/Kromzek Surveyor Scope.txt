@@ -1,0 +1,35 @@
+ITEM NAME: Kromzek Surveyor Scope
+
+Velious Era (added December 2000-2001)
+
+Kromzek Surveyor Scope
+
+
+MAGIC ITEM
+Slot: RANGE
+INT: +5
+Effect: Telescope (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ a storm giant surveyor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crest of the Sifaye Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

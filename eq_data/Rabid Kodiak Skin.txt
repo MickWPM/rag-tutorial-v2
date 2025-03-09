@@ -1,0 +1,33 @@
+ITEM NAME: Rabid Kodiak Skin
+
+Velious Era (added December 2000-2001)
+
+
+Rabid Kodiak Skin
+
+
+MAGIC ITEM  NO DROP
+WT: 4.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ Rabid Tundra Kodiak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #2: Silver Coldain Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

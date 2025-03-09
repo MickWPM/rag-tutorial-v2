@@ -1,0 +1,33 @@
+ITEM NAME: Enraged Goblin Beads
+
+Warrens Era (added spring 2001)
+Enraged Goblin Beads
+
+
+NO DROP
+Slot: NECK
+STR: +1
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ an enraged goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brell Serilis Initiate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

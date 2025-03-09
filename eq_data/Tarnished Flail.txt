@@ -1,0 +1,39 @@
+ITEM NAME: Tarnished Flail
+
+Classic Era (added 1999-2000)
+
+
+Tarnished Flail
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 5 
+WT: 9.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 21)
+ Yield: Tarnished Flail x1
+ In Forge:
+
+
+  1 x Rusty Flail - Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

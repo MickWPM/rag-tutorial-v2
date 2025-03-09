@@ -1,0 +1,45 @@
+ITEM NAME: Fatty Walrus Meat
+
+Velious Era (added December 2000-2001)
+
+
+
+Fatty Walrus Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a bulthar
+ a bulthar herdleader
+
+Eastern Wastes
+
+ a walrus
+
+Siren's Grotto
+
+ a servant manatee
+ a servant walrus
+ an enthralled bulthar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cougarskin Sleeves Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

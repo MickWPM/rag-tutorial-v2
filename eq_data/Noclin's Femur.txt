@@ -1,0 +1,35 @@
+ITEM NAME: Noclin's Femur
+
+Paineel Era (added February 2000)
+
+
+Noclin's Femur
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 5 
+CHA: -5  MANA: +10
+Effect:  Sicken (Combat, Casting Time: Instant) at Level 10
+WT: 4.0  Size: MEDIUM
+Class: NEC
+Race: ERU
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Pet
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

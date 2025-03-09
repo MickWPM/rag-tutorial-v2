@@ -1,0 +1,38 @@
+ITEM NAME: Vale Reinforced Tunic
+
+
+Vale Reinforced Tunic
+
+
+Slot: CHEST
+AC: 12
+WT: 2.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the halfling cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 215)
+ Yield: Vale Reinforced Tunic x1
+ In Vale Sewing Kit:
+
+
+  1 x Acorn Oil - Crafted
+  1 x High Quality Brute Hide - Dropped
+  4 x Steel Boning - Crafted
+  1 x Tunic Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

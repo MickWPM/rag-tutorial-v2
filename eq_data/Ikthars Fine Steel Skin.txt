@@ -1,0 +1,118 @@
+ITEM NAME: Ikthars Fine Steel Skin
+
+Classic Era (added 1999-2000)
+Ikthars Fine Steel Skin
+
+
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Valentin Fireheart
+
+
+
+  (54, -167)
+
+
+ East Freeport
+
+ Daria Smith
+
+
+
+  (46, -226)
+
+
+ Felwithe
+
+ Nerrisia Irontree
+
+
+
+  (-88, -395)
+
+
+ Neriak Third Gate
+
+ Krystiana N`Ryt
+
+
+
+  (857, -1499)
+
+
+ Oggok
+
+ Bubbgrib
+
+
+
+  (288, -211)
+
+
+ Rivervale
+
+ Frankle Ironhair
+
+
+
+  (-251, -107)
+
+
+ North Kaladim
+
+ Tortuk Everhot
+
+
+
+  (350, -206)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Forging Fine Plate by Ikthar Fireheart
+In order to craft fine quality plate armor one must first aquire a SMITHY HAMMER, LEATHER BACKING, a FLASK OF WATER, and a MOLD appropiate to the size and area of the body to be protected. The amount of steel needed to provide proper protection depends on the desired piece.
+ONE MEDIUM QUALITY FOLDED SHEET OF METAL is required to smith VISORS, COLLARS, and BRACERS.
+TWO MEDIUM QUALITY FOLDED SHEETS OF METAL are required to smith HELMS, PAULDRONS, GIRDLES, VAMBRACES, GAUNTLETS, and BOOTS.
+THREE MEDIUM QUALITY FOLDED SHEETS OF METAL are required to smith BREASTPLATES, CLOAKS, and GREAVES.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Trout Fillets
+
+
+
+Trout Fillets
+
+
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 82)
+ Yield: Trout Fillets x2
+ In Oven:
+
+
+  1 x Jug of Sauces - Bought
+  1 x Cauldron Trout - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

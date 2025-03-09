@@ -1,0 +1,28 @@
+ITEM NAME: Fern Flower
+
+Kunark Era (added 2000)
+Fern Flower
+
+
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This item is supposed to drop off of man eating plants in Swamp of No Hope, but it doesn't appear to be on their drop table and was potentially never fixed on live. 
+
+  Drops From 
+ None
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fern Flower Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

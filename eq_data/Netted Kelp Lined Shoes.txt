@@ -1,0 +1,41 @@
+ITEM NAME: Netted Kelp Lined Shoes
+
+Velious Era (added December 2000-2001)
+
+
+
+Netted Kelp Lined Shoes
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 5
+STR: +1  STA: +14  CHA: -8  INT: +4
+SV FIRE: +4
+WT: 0.7  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad maiden
+ a neriad mistress
+ a neriad sea princess
+ an enthralled molkor
+ an enthralled ulthork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

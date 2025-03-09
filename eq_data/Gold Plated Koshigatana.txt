@@ -1,0 +1,39 @@
+ITEM NAME: Gold Plated Koshigatana
+
+Classic Era (added 1999-2000)
+
+Gold Plated Koshigatana
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 9 
+Effect:  Dismiss Summoned (Combat, Casting Time: Instant) at Level 30
+WT: 2.5  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+This curious dagger is valued by enchanters for excessive rekting with charm pets in the Hole. 
+
+  Drops From 
+Nagafen's Lair
+
+ Lord Nagafen
+
+Emerald Jungle
+
+ Severilous
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

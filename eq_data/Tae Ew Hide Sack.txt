@@ -1,0 +1,44 @@
+ITEM NAME: Tae Ew Hide Sack
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Tae Ew Hide Sack
+
+
+WT: 0.1  Weight Reduction: 100%
+Capacity: 10  Size Capacity: GIANT
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 295)
+ Yield: Tae Ew Hide Sack x1
+ In Loom:
+
+
+  1 x Backpack Pattern - Bought
+  2 x Hardened Lizard Hide - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

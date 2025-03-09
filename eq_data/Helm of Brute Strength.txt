@@ -1,0 +1,34 @@
+ITEM NAME: Helm of Brute Strength
+
+Kunark Era (added 2000)
+
+Helm of Brute Strength
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 1
+STR: +8
+WT: 3.0  Size: MEDIUM
+Class: WAR
+Race: HUM BAR ELF DEF HEF TRL OGR
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ A Rabid Brute
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

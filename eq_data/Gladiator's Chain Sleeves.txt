@@ -1,0 +1,36 @@
+ITEM NAME: Gladiator's Chain Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+Gladiator's Chain Sleeves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 16
+STR: +9  DEX: +5  HP: +20
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +3  SV POISON: +2
+WT: 7.0  Size: MEDIUM
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the Gladiator's Chain Armor set. 
+
+  Drops From 
+Kael Drakkel
+
+ Vealok the Angry
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

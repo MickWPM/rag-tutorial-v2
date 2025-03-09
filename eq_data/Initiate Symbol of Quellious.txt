@@ -1,0 +1,35 @@
+ITEM NAME: Initiate Symbol of Quellious
+
+Warrens Era (added spring 2001)
+
+
+Initiate Symbol of Quellious
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 3
+WIS: +1  MANA: +3
+Effect:  Lull (Must Equip, Casting Time: 4.0)
+WT: 0.1  Size: TINY
+Class: CLR
+Race: ERU
+Deity: Quellious
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Quellious Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

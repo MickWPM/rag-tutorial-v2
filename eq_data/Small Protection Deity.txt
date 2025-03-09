@@ -1,0 +1,36 @@
+ITEM NAME: Small Protection Deity
+
+
+Small Protection Deity
+
+
+Slot: RANGE PRIMARY SECONDARY
+AC: 3
+WT: 0.1  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 17) 
+ Yield: Small Protection Deity x1
+ In Kiln:
+
+
+ 1 x High Quality Firing Sheet
+ 1 x Unfired Deity
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

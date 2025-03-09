@@ -1,0 +1,103 @@
+ITEM NAME: Diamond
+
+
+Diamond
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 200p Max 
+
+  Drops From 
+Various Zones
+
+ Level 50+ Mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+ The Bones of Darak Lightforge
+ White Dragonscale Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+
+ Silver Diamond Wedding RingSilver Diamond Wedding Ring
+
+
+Slot: FINGER
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ (Trivial: 71)
+ Diamond Electrum MaskDiamond Electrum Mask
+
+
+Slot: FACE
+SV FIRE: +5  SV DISEASE: +10  SV COLD: +5  SV MAGIC: +3  SV POISON: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ (Trivial: 143)
+ Golden Diamond MaskGolden Diamond Mask
+
+
+Slot: FACE
+SV FIRE: +10  SV DISEASE: +5  SV COLD: +10  SV MAGIC: +3  SV POISON: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ (Trivial: 215)
+ Platinum Diamond Wedding RingPlatinum Diamond Wedding Ring
+
+
+Slot: FINGER
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ (Trivial: 287)
+ Velium Diamond Wedding RingVelium Diamond Wedding Ring
+
+
+Slot: FINGER
+SV FIRE: +8 SV DISEASE: +8 SV COLD: +8 SV MAGIC: +8 SV POISON: +8
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ (Trivial: ???)
+ Tinkering
+
+ Gnomish Vanishing DeviceGnomish Vanishing Device
+
+
+Slot: SECONDARY
+Charges: 5
+Effect:  Invisibility Cloak (Any Slot/Can Equip, Casting Time: 5.0)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ (Trivial: 302?)
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Ornate Chain Leggings
+
+
+Ornate Chain Leggings
+
+
+Slot: LEGS
+AC: 9
+WT: 5.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Medium Ornate Chain Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 135)
+ Yield: Ornate Chain Leggings x1
+ In Forge:
+
+
+  1 x Silver Bar - Bought
+  3 x High Quality Metal Rings - Crafted
+  1 x Chainmail Pant Pattern - Bought
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

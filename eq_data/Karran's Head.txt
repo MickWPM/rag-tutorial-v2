@@ -1,0 +1,33 @@
+ITEM NAME: Karran's Head
+
+Paineel Era (added February 2000)
+
+
+Karran's Head
+
+
+LORE ITEM NO DROP
+WT: 0.0 Size: SMALL
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kerra Island
+
+ Kirran Mirrah
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cat Courier
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

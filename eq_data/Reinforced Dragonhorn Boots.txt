@@ -1,0 +1,41 @@
+ITEM NAME: Reinforced Dragonhorn Boots
+
+Velious Era (added December 2000-2001)
+
+
+
+Reinforced Dragonhorn Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 16
+AGI: +8
+SV MAGIC: +4
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Cargalia
+ Glati
+ Myga
+ Vitaela
+ Yeldema
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

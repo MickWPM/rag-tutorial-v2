@@ -1,0 +1,35 @@
+ITEM NAME: The Idol
+
+Epic Quests Era (added Sept 2000)
+
+
+The Idol
+
+
+MAGIC ITEM LORE ITEM NODROP
+Slot: PRIMARY SECONDARY
+WIS: +3 INT: +3
+WT: 0.8 Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Idol of Zan Fi 
+
+  Drops From 
+Lower Guk
+
+ Raster of Guk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monks of The Whistling Fist
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

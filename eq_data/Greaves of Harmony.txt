@@ -1,0 +1,36 @@
+ITEM NAME: Greaves of Harmony
+
+Warrens Era (added spring 2001)
+ Full set of Armor of Harmony on Wood Elf Female (no head graphic).
+Greaves of Harmony
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 10
+STR: +6  WIS: +8  MANA: +65
+SV MAGIC: +3
+Effect: Circle of Misty (Any Slot/Can Equip, Casting Time: 24.0) at Level 46
+WT: 4.0  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+Part of the Armor of Harmony set. 
+
+  Drops From 
+Plane of Hate
+
+ a Disciple of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

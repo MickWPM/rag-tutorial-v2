@@ -1,0 +1,31 @@
+ITEM NAME: Fish Food Vial
+
+
+
+Fish Food Vial
+
+
+LORE ITEM  NO DROP
+WT: 0.2  Weight Reduction: 0%
+Capacity: 4  Size Capacity: TINY
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+High Keep
+
+ Tyrana Slil
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Princess Lenya
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

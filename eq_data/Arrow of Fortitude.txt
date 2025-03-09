@@ -1,0 +1,35 @@
+ITEM NAME: Arrow of Fortitude
+
+Classic Era (added 1999-2000)
+
+
+Arrow of Fortitude
+
+
+NO DROP
+Slot: AMMO
+DMG: 1
+WT: 0.1  Range: 25  Size: TINY
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ a brownie outcast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

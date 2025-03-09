@@ -1,0 +1,109 @@
+ITEM NAME: Small Leather Boots
+
+
+Small Leather Boots
+
+
+Slot: FEET
+AC: 4
+WT: 1.9  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ Whimsy Larktwitter
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork cobbler
+
+
+
+  (1174, -759)
+
+
+ Greater Faydark
+
+ Merchant Tinolwenya
+
+
+
+  (-504, 23)
+
+
+ South Kaladim
+
+ Hanek Ogerbane
+
+
+
+  (224, -254)
+
+
+ South Kaladim
+
+ Kalameky Darkfoam
+
+
+
+  (173, 389)
+
+
+ Misty Thicket
+
+ Sonsa Fromp
+
+
+
+  (672, -2211)
+
+
+ Neriak Foreign Quarter
+
+ Farlain Stonethrower
+
+
+
+  (199, -57)
+
+
+ Neriak Third Gate
+
+ Medron Y`Lask
+
+
+
+  (769, -1310)
+
+
+ Thurgadin
+
+ Garish Ironhelm
+
+
+
+  (-396, 552)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

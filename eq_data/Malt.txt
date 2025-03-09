@@ -1,0 +1,245 @@
+ITEM NAME: Malt
+
+
+
+Malt
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork brewmaster
+
+
+
+  (1265, -924)
+
+
+ Butcherblock Mountains
+
+ Inudul Dumirgun
+
+
+
+  (2837, -682)
+
+
+ East Cabilis
+
+ Klok Sass
+
+
+
+  (667, -38)
+
+
+ East Cabilis
+
+ Brewer Prixal
+
+
+
+  (678, -26)
+
+
+ Firiona Vie
+
+ Frothy
+
+
+
+  (-2979, 2973)
+
+
+ West Freeport
+
+ Krystin Charcoal
+
+
+
+  (102, 9)
+
+
+ Greater Faydark
+
+ Barkeep Tuviena
+
+
+
+  (132, 822)
+
+
+ Grobb
+
+ Gartonka
+
+
+
+  (141, -306)
+
+
+ Halas
+
+ Becka McGuzzlin
+
+
+
+  (198, -144)
+
+
+ Highpass Keep
+
+ a clerk
+
+
+
+  (-77, -187)
+
+
+ Highpass Keep
+
+ a dealer
+
+
+
+  (-70, -355)
+
+
+ Highpass Keep
+
+ a dealer
+
+
+
+  (-101, -326)
+
+
+ Highpass Hold
+
+ a dealer
+
+
+
+  (426, -260)
+
+
+ Highpass Hold
+
+ a dealer
+
+
+
+  (340, -244)
+
+
+ Highpass Hold
+
+ Lyn Tarburner
+
+
+
+  (-146, 493)
+
+
+ South Kaladim
+
+ Hanamaf Darkfoam
+
+
+
+  (95, 233)
+
+
+ Neriak Foreign Quarter
+
+ Wiska
+
+
+
+  (159, -104)
+
+
+ Neriak Foreign Quarter
+
+ Ghrag
+
+
+
+  (-259, -260)
+
+
+ Oggok
+
+ Korgarg Swillchugger
+
+
+
+  (182, -235)
+
+
+ Western Plains of Karana
+
+ Cleet Miller
+
+
+
+  (-2253, -4128)
+
+
+ South Qeynos
+
+ Heidi Grainsifter
+
+
+
+  (-169, -278)
+
+
+ Rivervale
+
+ Burtle Barrelbelly
+
+
+
+  (-37, -174)
+
+
+ Thurgadin
+
+ Tobart Dirkins
+
+
+
+  (-332, -9)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Ol'Tujim's Fierce Brew (Trivial: 135)
+ Malted Milk (Trivial: 26)
+
+
+
+
+

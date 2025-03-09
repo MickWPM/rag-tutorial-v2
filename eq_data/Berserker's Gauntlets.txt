@@ -1,0 +1,35 @@
+ITEM NAME: Berserker's Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Berserker's Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 24
+STR: +5  HP: +40
+WT: 5.5  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+Part of the Berserker's Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a spirit flux wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

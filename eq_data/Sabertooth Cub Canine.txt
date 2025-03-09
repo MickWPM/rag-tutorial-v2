@@ -1,0 +1,34 @@
+ITEM NAME: Sabertooth Cub Canine
+
+Kunark Era (added 2000)
+
+
+Sabertooth Cub Canine
+
+
+NO DROP
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Stackable. Not to be confused with Sabertooth Kitten Canine... 
+
+  Drops From 
+Lake of Ill Omen
+
+ a sabertooth cub
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Clay
+ Necro Spells
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

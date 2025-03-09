@@ -1,0 +1,31 @@
+ITEM NAME: Rotten Shark Meat
+
+Temple Era (added October 1999)
+
+Rotten Shark Meat
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Erud's Crossing
+
+ a plague shark
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vambraces of Ro
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,64 @@
+ITEM NAME: Crushed Flame Emerald
+
+Velious Era (added December 2000-2001)
+
+Crushed Flame Emerald
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This velious quest gem is in high demand by monks for their coveted Grand Master's Wrist Wraps. 
+
+  Drops From 
+Cobalt Scar
+
+ a haunted seachest
+ a wyvern (Cobalt Scar)
+ a siren enchantress
+
+Icewell Keep
+
+ a frost spike
+ an avalanche golem
+ Frosticube
+
+Siren's Grotto
+
+ an enthralled bulthar
+ an enthralled molkor
+ an enthralled ulthork
+
+The Wakening Land
+
+ a suit of sentient armor
+ A Faerie Dragon
+ Korzak Stonehammer
+ A Geonid Shaman
+ A storm giant surveyor
+ Rapticor
+
+Velketor's Labyrinth
+
+ a crystal gargoyle
+ a crystalline watcher
+ an Icepaw kobold
+ Icepaw kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velious Class Armor
+ Melee Bracer
+ Priest Boots  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

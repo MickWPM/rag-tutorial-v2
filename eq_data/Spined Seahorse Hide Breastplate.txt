@@ -1,0 +1,34 @@
+ITEM NAME: Spined Seahorse Hide Breastplate
+
+Velious Era (added December 2000-2001)
+
+Spined Seahorse Hide Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 29
+DEX: +15  HP: +50
+WT: 4.4  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Breastplate of Seahorse Spines
+Has no graphic. 
+
+  Drops From 
+Siren's Grotto
+
+ Fellspine
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ THIS ITEM DOES NOT HAVE A GRAPHIC.
+

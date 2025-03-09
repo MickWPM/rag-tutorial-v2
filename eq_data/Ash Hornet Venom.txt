@@ -1,0 +1,33 @@
+ITEM NAME: Ash Hornet Venom
+
+
+
+Ash Hornet Venom
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Not Dropping in P1999 Green Server! (6/1/23) 
+
+  Drops From 
+Burning Woods
+
+ an ash hornet
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

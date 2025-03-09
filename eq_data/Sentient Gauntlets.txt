@@ -1,0 +1,36 @@
+ITEM NAME: Sentient Gauntlets
+
+Velious Era (added December 2000-2001)
+
+Sentient Gauntlets
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 13
+INT: +2
+SV MAGIC: +5
+WT: 5.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+
+ Merchant resale value: 43.7p 
+
+  Drops From 
+The Wakening Land
+
+ a suit of sentient armor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

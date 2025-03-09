@@ -1,0 +1,36 @@
+ITEM NAME: Brain of Cazic Thule
+
+Velious Era (added December 2000-2001)
+
+Brain of Cazic Thule
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+AC: 10
+STR: +10  STA: +10  CHA: -25  WIS: +10  INT: +10  HP: +100  MANA: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Flowing Thought I (Worn)  
+WT: 10.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

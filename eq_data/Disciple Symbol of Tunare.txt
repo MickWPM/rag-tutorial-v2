@@ -1,0 +1,35 @@
+ITEM NAME: Disciple Symbol of Tunare
+
+Kunark Era (added 2000)
+
+
+Disciple Symbol of Tunare
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+Slot: NECK
+AC: 5
+CHA: +1  WIS: +2  MANA: +7
+Effect:  Aloe Sweat (Must Equip, Casting Time: 4.0) at Level 15
+WT: 0.1  Size: TINY
+Class: CLR DRU
+Race: HUM ELF HIE HEF
+Deity: Tunare
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunare Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

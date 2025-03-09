@@ -1,0 +1,36 @@
+ITEM NAME: Helm of the Untamed
+
+Warrens Era (added spring 2001)
+
+
+Helm of the Untamed
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 16
+STR: +4  DEX: +5  WIS: +4  HP: +35
+SV COLD: +4  SV MAGIC: +4
+WT: 5.0  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Part of the Armor of the Untamed set. 
+
+  Drops From 
+Plane of Hate
+
+ An Agent of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

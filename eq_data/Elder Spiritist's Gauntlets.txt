@@ -1,0 +1,35 @@
+ITEM NAME: Elder Spiritist's Gauntlets
+
+Kunark Era (added 2000)
+
+Elder Spiritist's Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 9
+Effect:  Snare (Must Equip, Casting Time: 4.0) at Level 45
+WT: 5.0  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+Part of the Elder Spiritist's Armor set. 
+ Merchant resale value: About 450pp. 
+
+  Drops From 
+Karnor's Castle
+
+ Hangnail
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

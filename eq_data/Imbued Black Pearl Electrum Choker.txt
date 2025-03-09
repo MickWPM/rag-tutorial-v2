@@ -1,0 +1,38 @@
+ITEM NAME: Imbued Black Pearl Electrum Choker
+
+
+
+Imbued Black Pearl Electrum Choker
+
+
+Slot: NECK
+DEX: +3  AGI: +3  WIS: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity Prexus
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Black Pearl Electrum Choker x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Electrum Bar - Summoned
+  1 x Imbued Black Pearl - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

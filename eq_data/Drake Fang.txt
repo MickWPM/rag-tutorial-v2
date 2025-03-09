@@ -1,0 +1,46 @@
+ITEM NAME: Drake Fang
+
+Sky Era (added January 2000)
+
+
+
+Drake Fang
+
+
+LORE ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Seems unlikely that the "Drake Fang"s from Skyshrine work for the Sky quest... 
+
+  Drops From 
+Plane of Sky
+
+ Protector of Sky
+
+Skyshrine
+
+ Bezeb
+ Chymot
+ Commander Leuz
+ Jaylorx
+ Norsirx
+ Suez
+ Yaced
+ Zalerez
+ Ziglark Whisperwing
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of Might
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

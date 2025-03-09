@@ -1,0 +1,37 @@
+ITEM NAME: Rile's Sand Coin
+
+Kunark Era (added 2000)
+
+Rile's Sand Coin
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Bronze
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Dreadlands
+ Firiona Vie
+ Northern Desert of Ro
+ Southern Desert of Ro
+ Timorous Deep (perhaps only in TD on p99?)
+
+

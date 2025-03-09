@@ -1,0 +1,32 @@
+ITEM NAME: Tinkered Rope
+
+Velious Era (added December 2000-2001)
+
+
+Tinkered Rope
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+STR: +2  STA: +2
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained by giving Ritap one Frost Giant Scout Beard. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Mighty Snowfang Hero
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

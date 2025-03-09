@@ -1,0 +1,34 @@
+ITEM NAME: Blue Wicker Gorget
+
+Classic Era (added 1999-2000)
+
+
+Blue Wicker Gorget
+
+
+Slot: NECK
+AC: 4
+WT: 0.8  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a greater kobold shaman
+ a kobold spiritslaver
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

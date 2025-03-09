@@ -1,0 +1,30 @@
+ITEM NAME: Small Patchwork Boots
+
+Were you looking for Large Patchwork Armor Set? Were you looking for Patchwork Armor Set?
+
+Small Patchwork Boots
+
+
+Slot: FEET
+AC: 3
+WT: 1.9  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Patchwork Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Emerald Warriors' Items
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

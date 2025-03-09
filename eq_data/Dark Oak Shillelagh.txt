@@ -1,0 +1,35 @@
+ITEM NAME: Dark Oak Shillelagh
+
+Kunark Era (added 2000)
+
+Dark Oak Shillelagh
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Charges: 3
+Skill: 2H Blunt  Atk Delay: 36
+DMG: 9 
+Effect:  Beguile Plants (Any Slot/Can Equip, Casting Time: Instant) at Level 29
+WT: 7.5  Size: LARGE
+Class: DRU
+Race: ALL
+
+
+ Item Lore (from Identify): Burnwood Shillelagh 
+ Merchant resale value: 6p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Handy Shillelagh  on P99 this has 3 charges  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

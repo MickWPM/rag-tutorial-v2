@@ -1,0 +1,116 @@
+ITEM NAME: Breath of Solusek
+
+
+Breath of Solusek
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Timorous Deep
+
+ a Spiroc Proven
+ a golra
+
+Estate of Unrest
+
+ a festering hag
+
+Firiona Vie
+
+ goblin battlemaster
+
+Upper Guk
+
+ a froglok summoner
+
+Lower Guk
+
+ a froglok shin knight
+ a basalt gargoyle
+
+Warslik's Woods
+
+ a forest giant
+
+Ocean of Tears
+
+ a gargoyle
+ a spectre
+
+South Karana
+
+ aviak avocet
+ Vhalen Nostrolo
+
+Dreadlands
+
+ a tundra yeti
+
+Cobalt Scar
+
+ a wyvern
+
+Various Zones
+
+ Need confirmation this is a random drop from most level ~34 mobs
+ Dropped from level 28 a froglok summoner
+ Also dropped from gargoyles in OOT
+ Also dropped from a level 20 forest giant greenwood in Warsliks Woods
+ a pickclaw seer in High Keep
+ Dropped from a festering hag in Unrest(7/12/2021)
+
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1074, -1041)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Greater Summoning: Fire (Trivial: 82)
+ Minor Conjuration: Fire (Trivial: 102)
+
+
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Paebala Fetish
+
+Velious Era (added December 2000-2001)
+
+
+Paebala Fetish
+
+
+LORE ITEM NO DROP  
+Slot: PRIMARY RANGE
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 12 AC:7 
+STR: +5 WIS: +9 MANA: +15
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISION: +5
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Paebala Spirit Talker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

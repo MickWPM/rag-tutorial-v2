@@ -1,0 +1,40 @@
+ITEM NAME: Stonewood Mail
+
+Velious Era (added December 2000-2001)
+
+
+ Back and Front. Velious Ringmail texture.
+Stonewood Mail
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 30
+STR: +10  HP: +50
+WT: 10.0  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a feral amalgam
+ a phase puma
+ a sylvan protector
+ a thifling sprite
+ Ordro
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

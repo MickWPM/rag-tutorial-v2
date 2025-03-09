@@ -1,0 +1,33 @@
+ITEM NAME: Poison Etched Wristband
+
+Velious Era (added December 2000-2001)
+
+Poison Etched Wristband
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+AC: 13
+WT: 2.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Vendors will not give you one red cent for this item. 
+
+  Drops From 
+Dragon Necropolis
+
+ Vilefang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

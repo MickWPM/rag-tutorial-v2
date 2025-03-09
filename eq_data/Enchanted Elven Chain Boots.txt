@@ -1,0 +1,42 @@
+ITEM NAME: Enchanted Elven Chain Boots
+
+
+Enchanted Elven Chain Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 7
+WIS: +2  INT: +2
+SV MAGIC: +2
+WT: 1.0  Size: MEDIUM
+Class: ALL except SHD MNK SHM NEC
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 132)
+ Yield: Enchanted Elven Chain Boots x1
+ In Koada`Dal Forge:
+
+
+  1 x Chainmail Boot Pattern - Bought
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Enchanted Mithril Rings - Crafted
+  1 x Moonlight Temper - Crafted
+  1 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Breastplate of Ro
+
+Temple Era (added October 1999)
+
+
+
+Breastplate of Ro
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 20
+STR: +4
+SV FIRE: +10
+WT: 5.0  Size: LARGE
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Armor of Ro Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

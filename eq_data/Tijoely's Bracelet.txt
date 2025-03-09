@@ -1,0 +1,36 @@
+ITEM NAME: Tijoely's Bracelet
+
+Velious Era (added December 2000-2001)
+
+
+Tijoely's Bracelet
+
+
+LORE ITEM  NO DROP
+Slot: WRIST
+AC: 20
+STR: +3  DEX: +3
+SV MAGIC: +7
+WT: 0.5  Size: SMALL
+Class: WAR MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Tijoely
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

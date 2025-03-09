@@ -1,0 +1,43 @@
+ITEM NAME: Bronze Ulak
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Bronze Ulak
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Hand to Hand  Atk Delay: 28
+DMG: 5 
+HP: +10  MANA: +10
+WT: 1.4  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+N O T _ C L A S S I C
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

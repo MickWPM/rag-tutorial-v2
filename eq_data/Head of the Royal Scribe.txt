@@ -1,0 +1,33 @@
+ITEM NAME: Head of the Royal Scribe
+
+Velious Era (added December 2000-2001)
+
+
+Head of the Royal Scribe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Icewell Keep
+
+ Royal Scribe Kaavin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tiny Savages
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

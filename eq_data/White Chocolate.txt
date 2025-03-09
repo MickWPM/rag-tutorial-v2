@@ -1,0 +1,42 @@
+ITEM NAME: White Chocolate
+
+
+White Chocolate
+
+
+QUEST ITEM
+This is a snack!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 95)
+ Yield: White Chocolate x1
+ In Oven:
+
+
+  1 x Brownie Parts - Dropped
+  2 x Frosting - Bought
+  1 x Spices - Bought 
+
+
+  Tradeskill recipes 
+ Baking
+ White Chocolate Cookies (Trivial: 148)
+ White Chocolate Muffins (Trivial: 155)
+ Wedding Cake (Trivial: 162)
+
+
+
+
+

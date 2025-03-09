@@ -1,0 +1,33 @@
+ITEM NAME: Curscale Gloves
+
+Kunark Era (added 2000)
+
+
+Curscale Gloves
+
+
+Slot: HANDS
+AC: 3
+SV POISON: +1
+WT: 0.4  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 1gp 2sp to vendor.
+
+ Scaled Curskins 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

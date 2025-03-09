@@ -1,0 +1,71 @@
+ITEM NAME: Burned Out Lightstone
+
+Classic Era (added 1999-2000)
+
+Burned Out Lightstone
+
+
+MAGIC ITEM  NODROP NORENT
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+One of many items used to make practice runes for Research Skill. 
+
+  Drops From 
+Befallen
+
+ a willowisp
+
+Commonlands
+
+ a willowisp
+
+Eastern Plains of Karana
+
+ a willowisp
+
+Erud's Crossing
+
+ a willowisp
+
+Greater Faydark
+
+ a willowisp
+
+Nektulos Forest
+
+ a willowisp
+
+Northern Karana
+
+ a willowisp
+
+Qeynos Hills
+
+ a willowisp
+
+Toxxulia Forest
+
+ a willowisp
+
+Western Plains of Karana
+
+ a willowisp
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Shadowveil Hemlock-Blind III -(Trivial: 183-200)
+
+
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Book of Twilight
+
+Velious Era (added December 2000-2001)
+
+
+
+Book of Twilight
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+STA: +9  MANA: +45
+WT: 2.5  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Gregendek Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

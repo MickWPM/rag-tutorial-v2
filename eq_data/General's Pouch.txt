@@ -1,0 +1,32 @@
+ITEM NAME: General's Pouch
+
+
+
+General's Pouch
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+WT: 0.0  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): Teir`Dal Dispatch Pouch 
+
+  Drops From 
+Kithicor Forest
+
+ General V`ghera
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

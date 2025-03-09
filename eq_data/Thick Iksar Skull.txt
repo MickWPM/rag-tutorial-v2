@@ -1,0 +1,32 @@
+ITEM NAME: Thick Iksar Skull
+
+
+
+Thick Iksar Skull
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): a crimson gem is stuck inside 
+
+  Drops From 
+Kurn's Tower
+
+ thick boned skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #3 (Soldier's Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Cobalt Bracer
+
+Kunark Era (added 2000)
+
+
+
+Cobalt Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 20
+Effect:  Shrink (Must Equip, Casting Time: 7.3) at Level 45
+WT: 4.0  Size: SMALL
+Class: WAR
+Race: ALL except IKS
+
+
+Part of the Cobalt Armor set. 
+
+  Drops From 
+Old Sebilis
+
+ Myconid Adept
+ Myconid Priest
+ myconid reaver
+ myconid warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

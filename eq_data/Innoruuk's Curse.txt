@@ -1,0 +1,36 @@
+ITEM NAME: Innoruuk's Curse
+
+Epic Quests Era (added Sept 2000)
+ Project1999 Server First Innoruuk's Curse -- Giganto
+Innoruuk's Curse
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 40 
+STR: +20  DEX: +15  INT: +15  HP: +60  MANA: +40
+SV FIRE: +10  SV DISEASE: +5  SV COLD: +10  SV MAGIC: +15  SV POISON: +5
+Effect:  Soul Consumption (Combat, Casting Time: Instant) at Level 50
+WT: 5.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Able to bash with this weapon, despite it being two-handed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

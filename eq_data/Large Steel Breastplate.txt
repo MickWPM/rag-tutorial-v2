@@ -1,0 +1,43 @@
+ITEM NAME: Large Steel Breastplate
+
+Classic Era (added 1999-2000)
+Large Steel Breastplate
+
+
+Slot: CHEST
+AC: 17
+WT: 12.5  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Oggok
+
+ Zarg Knightbane
+
+
+
+  (242, -198)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

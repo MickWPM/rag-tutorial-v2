@@ -1,0 +1,34 @@
+ITEM NAME: Heretics Head
+
+Stonebrunt Era (added summer 2001)
+
+
+Heretics Head
+
+
+NO DROP
+WT: 7.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a heretic invader
+ Jelquar the Soulslayer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Heretic Heads
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

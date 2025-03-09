@@ -1,0 +1,34 @@
+ITEM NAME: Froglok Scale Chestplate
+
+Kunark Era (added 2000)
+
+Froglok Scale Chestplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 24
+CHA: +3  WIS: +5  INT: +5
+WT: 5.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ a sebilite golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

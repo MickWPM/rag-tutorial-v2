@@ -1,0 +1,30 @@
+ITEM NAME: Pouch of Kejek Catnip
+
+Stonebrunt Era (added summer 2001)
+
+Pouch of Kejek Catnip
+
+
+STA: -1  WIS: +5
+This is a meal!
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Miranda's Chocolate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

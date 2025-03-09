@@ -1,0 +1,32 @@
+ITEM NAME: Steel Warrior Bracer
+
+
+
+Steel Warrior Bracer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 3
+AGI: +1
+WT: 1.0  Size: SMALL
+Class: WAR
+Race: HUM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Steel Warrior Initiation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

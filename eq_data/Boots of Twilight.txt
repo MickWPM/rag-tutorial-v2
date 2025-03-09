@@ -1,0 +1,33 @@
+ITEM NAME: Boots of Twilight
+
+Velious Era (added December 2000-2001)
+ 
+Boots of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 22
+STR: +4  CHA: +4
+SV FIRE: +2  SV COLD: +2  SV MAGIC: +3
+WT: 6.0  Size: MEDIUM
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Skyshrine Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,55 @@
+ITEM NAME: Deathfist Slashed Belt
+
+Classic Era (added 1999-2000)
+
+Deathfist Slashed Belt
+
+
+WT: 1.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Large Orc Tattered Belt Orc Pawns do not drop belts until much later in the timeline. 
+
+  Drops From 
+West Commonlands
+
+ Orc Apprentice
+ Orc Centurion
+ Orc Legionnaire
+ Orc Oracle
+
+East Commonlands
+
+ Orc Apprentice
+ Orc Centurion
+ Orc Legionnaire
+ Orc Oracle
+ orc weaponsmith
+ Lord Shin Ree
+
+Misty Thicket
+
+ Orc Centurion
+
+Southern Desert of Ro
+
+ an orc centurion
+ an orc cleric
+ an orc warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deathfist Slashed Belts
+ Orc Belts
+ Yellow Sash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

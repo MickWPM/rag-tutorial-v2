@@ -1,0 +1,30 @@
+ITEM NAME: Box of Nil Space
+
+Kunark Era (added 2000)
+
+Box of Nil Space
+
+
+LORE ITEM
+WT: 5.0  Weight Reduction: 70%
+Capacity: 10  Size Capacity: GIANT
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ Harbinger Freglor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

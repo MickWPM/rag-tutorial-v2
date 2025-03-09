@@ -1,0 +1,46 @@
+ITEM NAME: Quartz Crystal
+
+
+Quartz Crystal
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+HP: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+4 gold 9 silver 4 copper 
+
+  Drops From 
+Beholder's Maze
+
+ an evil eye
+
+Lord Soptyvr
+
+Lord Sviir
+
+Lord Syrkl
+
+Lake Rathetear
+
+ a gnoll embalmer
+
+Southern Karana
+
+ Ghanex Drah
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

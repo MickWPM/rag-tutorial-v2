@@ -1,0 +1,37 @@
+ITEM NAME: Prayer Beads
+
+
+Prayer Beads
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+Charges: 1
+Effect:  Healing (Any Slot, Casting Time: Instant)
+WT: 0.2  Size: SMALL
+Class: WAR CLR PAL RNG DRU MNK BRD ROG WIZ
+MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Temple of Life Beads 
+
+  Drops From 
+Western Plains of Karana
+
+ Parcil Vinder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Errand for Wolten
+ Frostbite's Fish
+ Recharge Prayer Beads
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

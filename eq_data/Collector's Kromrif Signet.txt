@@ -1,0 +1,33 @@
+ITEM NAME: Collector's Kromrif Signet
+
+Velious Era (added December 2000-2001)
+
+
+Collector's Kromrif Signet
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Slaggak the Trainer
+ Watchman Yekkal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

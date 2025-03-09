@@ -1,0 +1,42 @@
+ITEM NAME: Dwarven Plate Collar
+
+
+Dwarven Plate Collar
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 9
+SV FIRE: +1
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL
+Race: DWF HFL GNM
+
+
+Part of the dwarven cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 166)
+ Yield: Dwarven Plate Collar x1
+ In Stormguard Forge:
+
+
+  1 x Brellium Chain Jointing - Crafted
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Folded Sheet of Brellium - Crafted
+  1 x Leather Padding - Crafted
+  1 x Small Plate Gorget Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

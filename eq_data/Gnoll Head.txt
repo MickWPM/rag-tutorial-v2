@@ -1,0 +1,46 @@
+ITEM NAME: Gnoll Head
+
+Classic Era (added 1999-2000)
+
+
+Gnoll Head
+
+
+LORE ITEM  NO DROP
+WT: 1.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Gnasher's Head
+ Item Lore (from Identify):  Blackburrow Shaman Head
+ Item Lore (from Identify):  Gnoll Poacher's Head
+Note: There are 3 or 4 different items with this same name (use identify).
+Only "Gnasher's Head" is NO DROP, the others are tradeable. 
+
+  Drops From 
+Blackburrow
+
+ the gnoll high shaman ("Blackburrow Shaman Head", no known use?)
+
+Qeynos Hills
+
+ Gnasher Furgutt ("Gnasher's Head")
+
+Surefall Glade
+
+ Gnoll Poacher ("Gnoll Poacher Head")
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gnasher's Head ("Gnasher's Head")
+ Poacher's Head ("Gnoll Poacher Head")  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

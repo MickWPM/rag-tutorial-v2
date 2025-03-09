@@ -1,0 +1,34 @@
+ITEM NAME: Rune Crafter's Boots
+
+Velious Era (added December 2000-2001)
+
+
+Rune Crafter's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 18
+STA: +5  WIS: +3
+Effect: Extinguish Fatigue (Any Slot/Can Equip, Casting Time: 5.5)
+WT: 3.0  Size: MEDIUM
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman's Velium Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

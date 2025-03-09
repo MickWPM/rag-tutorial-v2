@@ -1,0 +1,40 @@
+ITEM NAME: Tri-Plated Golden Hackle Hammer
+
+Velious Era (added December 2000-2001) Blured <Safe Space> models the Dain Hammer!
+
+
+Tri-Plated Golden Hackle Hammer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 14 
+STR: +10  WIS: +13  INT: +13  MANA: +25
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Arch Shielding (Any Slot, Casting Time: 0.1) at Level 50
+WT: 2.0  Size: TINY
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG
+SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): The Hammer Wizards Can Use 
+
+  Drops From 
+Icewell Keep
+
+ Dain Frostreaver IV
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tormax's Head - Dwarves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Cryosilk Lined Shoes
+
+Fear Era (added July 1999)
+
+
+
+Cryosilk Lined Shoes
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 4
+AGI: +13  HP: +15
+SV POISON: +9
+WT: 0.7  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Cryosilk Armor set 
+
+  Drops From 
+Plane of Fear
+
+ a spinechiller spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

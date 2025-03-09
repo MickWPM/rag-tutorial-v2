@@ -1,0 +1,34 @@
+ITEM NAME: Illusionist's Gloves
+
+Velious Era (added December 2000-2001)
+
+
+Illusionist's Gloves
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 5
+INT: +10  AGI: +10  HP: +30  MANA: +45
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Skyshrine Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

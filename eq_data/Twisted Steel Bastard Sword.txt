@@ -1,0 +1,36 @@
+ITEM NAME: Twisted Steel Bastard Sword
+
+Velious Era (added December 2000-2001)
+ Project 1999 Blue - Twisted Steel Bastard Sword
+Twisted Steel Bastard Sword
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 53   AC: 25
+STR: +10  STA: +10
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+WT: 0.0  Size: TINY
+Class: WAR
+Race: ALL
+
+
+Note: Later upgraded to 53 damage, 45 delay, and other stats, see discussion. 
+
+  Drops From 
+Temple of Veeshan
+
+ Eashen of the Sky
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

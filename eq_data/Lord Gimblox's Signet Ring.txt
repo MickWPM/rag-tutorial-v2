@@ -1,0 +1,33 @@
+ITEM NAME: Lord Gimblox's Signet Ring
+
+
+Lord Gimblox's Signet Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+SV FIRE: +4
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Solusek's Eye
+
+ Lord Gimblox
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

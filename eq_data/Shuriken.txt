@@ -1,0 +1,225 @@
+ITEM NAME: Shuriken
+
+Classic Era (added 1999-2000)
+
+Shuriken
+
+
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 26
+DMG: 4
+WT: 0.5  Range: 60  Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+Stackable This is the longest range stackable monk throwing weapon that's widely sold by vendors in nearly every city. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Rastok
+
+
+
+  (348, 11)
+
+
+ Chardok
+
+ Haggle Baron Dry`dn
+
+
+
+  (-93, 351)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ East Commonlands
+
+ Ponila Quickfingers
+
+
+
+  (193, -855)
+
+
+ Firiona Vie
+
+ Dran Hieth
+
+
+
+  (-3132, 2953)
+
+
+ East Freeport
+
+ Tenni Kohern
+
+
+
+  (-223, -886)
+
+
+ West Freeport
+
+ Asnod Marnoc
+
+
+
+  (-283, -798)
+
+
+ West Freeport
+
+ Fania Esruc
+
+
+
+  (-251, -820)
+
+
+ Greater Faydark
+
+ Merchant Gililya
+
+
+
+  (-481, -211)
+
+
+ Halas
+
+ Elona McMahon
+
+
+
+  (212, 184)
+
+
+ Highpass Hold
+
+ Gornolin
+
+
+
+  (396, -231)
+
+
+ North Kaladim
+
+ Kafia Ratsbone
+
+
+
+  (594, 238)
+
+
+ Neriak Third Gate
+
+ Jerris W`Selo
+
+
+
+  (630, -1402)
+
+
+ Neriak Third Gate
+
+ Kanthu M`Rekkor
+
+
+
+  (621, -1351)
+
+
+ The Overthere
+
+ Klok G`rshai
+
+
+
+  (2212, -2912)
+
+
+ Western Plains of Karana
+
+ Ollysa Bladefinder
+
+
+
+  (488, -4223)
+
+
+ North Qeynos
+
+ Shenro Kazpur
+
+
+
+  (257, 302)
+
+
+ Rivervale
+
+ Gaffin Deeppockets
+
+
+
+  (-53, -178)
+
+
+ Skyshrine
+
+ Barkeep Dablen
+
+
+
+  (469, -708)
+
+
+ Skyshrine
+
+ Raelrik
+
+
+
+  (353, -625)
+
+
+ Skyshrine
+
+ Tulgadin
+
+
+
+  (383, -625)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

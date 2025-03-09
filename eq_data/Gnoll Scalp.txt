@@ -1,0 +1,38 @@
+ITEM NAME: Gnoll Scalp
+
+
+Gnoll Scalp
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Plains of Karana
+
+ Nre`Loxe Mucktail
+
+Highpass Hold
+
+ a gnoll brawler
+ a gnoll shaman
+ a gnoll
+ a gnoll soothsayer
+ A gnoll champion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gnoll Scalp Collecting
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

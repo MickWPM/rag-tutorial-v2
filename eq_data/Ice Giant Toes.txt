@@ -1,0 +1,43 @@
+ITEM NAME: Ice Giant Toes
+
+
+Ice Giant Toes
+
+
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Everfrost Peaks
+
+ an ice giant
+
+Permafrost
+
+ a priest of Nagafen
+ an ice giant
+
+Ocean of Tears
+
+ Gornit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Dread
+ Stein of Ulissa Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+ Potion of Stinging Wort (Trivial: 156)
+
+
+
+
+

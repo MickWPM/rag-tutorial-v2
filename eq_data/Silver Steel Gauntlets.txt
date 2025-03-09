@@ -1,0 +1,38 @@
+ITEM NAME: Silver Steel Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+
+Silver Steel Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 16
+STR: +7  HP: +80
+SV DISEASE: +10  SV COLD: +10
+WT: 2.5  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Vkjor
+ A temple guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

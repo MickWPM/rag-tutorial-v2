@@ -1,0 +1,331 @@
+ITEM NAME: Fresh Fish
+
+Classic Era (added 1999-2000)
+
+Fresh Fish
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Sold for ~2.6sp 
+
+  Drops From 
+Mistmoore Castle
+
+ a Mistmoore guard
+
+East Cabilis
+
+ a pygmy barracuda
+
+Erud's Crossing
+
+ a killer shark
+ a shark
+ Hojo
+ Jarra
+ Kala
+ Milla
+ Monala
+ Nifta
+ Nomala
+
+Kedge Keep
+
+ a cerulean sailfin
+ a cobalt sailfin
+ a crimson sailfin
+ a gloomstalker mermaid
+ a gloomwater mermaid
+ a lancer swordfish
+ a piercer swordfish
+ a shimmering sailfin
+ a soothebrine seahorse
+ a spinereef seahorse
+ a squallsurge seahorse
+ a stiletto fang piranha
+ a stiletto tooth piranha
+ a stingtooth piranha
+ a swirlspine seahorse
+ an emerald sailfin
+ an impaler swordfish
+
+Kithicor Forest
+
+ a large piranha
+
+Lake of Ill Omen
+
+ a bloodgill barracuda
+
+Nektulos Forest
+
+ a large piranha
+
+Ocean of Tears
+
+ a reef shark
+
+Qeynos Aqueducts
+
+ a fish
+ a large piranha
+
+Rivervale
+
+ a large piranha
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Toxxulia Forest
+
+ Hamed Grarr
+ kerran tiger spahi
+
+West Freeport
+
+ Zigg Flin
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork grocer
+
+
+
+  (904, -284)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (733, 153)
+
+
+ West Commonlands
+
+ Maula Fishcatcher
+
+
+
+  (405, 2408)
+
+
+ Eastern Plains of Karana
+
+ Sharna
+
+
+
+  (-3790, -2399)
+
+
+ Erud's Crossing
+
+ Renna
+
+
+
+  (-1479, 857)
+
+
+ The Feerrott
+
+ Kogg
+
+
+
+  (1045, 1462)
+
+
+ Felwithe
+
+ Elytan Rantas
+
+
+
+  (41, -673)
+
+
+ Felwithe
+
+ Tam Slyspan
+
+
+
+  (245, -703)
+
+
+ Felwithe
+
+ Fishmonger Jassa
+
+
+
+  (162, -588)
+
+
+ Felwithe
+
+ Fishmonger Issa
+
+
+
+  (258, -626)
+
+
+ Firiona Vie
+
+ Dorg McMerin
+
+
+
+  (-3866, 1641)
+
+
+ East Freeport
+
+ Rolfic Gohar
+
+
+
+  (-189, -277) \
+
+
+ East Freeport
+
+ Tanlok Harson
+
+
+
+  (87, -850)
+
+
+ East Freeport
+
+ Iseba Gargurd
+
+
+
+  (61, -882)
+
+
+ East Freeport
+
+ Tarker Gargurd
+
+
+
+  (61, -890)
+
+
+ Halas
+
+ Quillion O`Zinn
+
+
+
+  (-15, 66)
+
+
+ Kerra Island
+
+ Melixis
+
+
+
+  (519, 179)
+
+
+ Neriak Commons
+
+ Mariz Ixtaz
+
+
+
+  (-163, -938)
+
+
+ Oggok
+
+ Chef Dooga
+
+
+
+  (201, -243)
+
+
+ Western Plains of Karana
+
+ Misla McMannus
+
+
+
+  (-4023, -2344)
+
+
+ South Qeynos
+
+ Captain Rohand
+
+
+
+  (15, -40)
+
+
+ South Qeynos
+
+ Ghul Rustem
+
+
+
+  (-307, -28)
+
+
+ Rivervale
+
+ dock merchant
+
+
+
+  (203, -216)
+
+
+ Rivervale
+
+ Fiddy Bobick
+
+
+
+  (19, -428)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Fishing
+ Tinkering
+ Baking
+ Brewing
+
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Circlet of Cerulean Smoke
+
+Velious Era (added December 2000-2001)
+
+
+Circlet of Cerulean Smoke
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 13
+CHA: +10
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3
+WT: 0.6  Size: SMALL
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Clrakk Blackfist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

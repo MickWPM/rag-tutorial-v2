@@ -1,0 +1,34 @@
+ITEM NAME: Otterhide Bracers
+
+Velious Era (added December 2000-2001)
+
+ 
+Otterhide Bracers
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 4
+STA: +2
+WT: 1.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: HUM BAR ERU ELF HIE DEF HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ Snowfang icehunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

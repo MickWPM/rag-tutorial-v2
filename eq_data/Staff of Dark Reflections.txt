@@ -1,0 +1,46 @@
+ITEM NAME: Staff of Dark Reflections
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Staff of Dark Reflections
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 37
+DMG: 9 
+STA: +5  AGI: +5  HP: +5  MANA: +10
+SV COLD: +5  SV MAGIC: +5
+Recommended level of 10.
+WT: 1.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: GNM
+Deity: Bertoxxulous
+
+
+Item is not in game, no way to complete quest. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Staff of Dark Reflections Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

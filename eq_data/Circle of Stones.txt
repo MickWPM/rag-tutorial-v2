@@ -1,0 +1,30 @@
+ITEM NAME: Circle of Stones
+
+GM Event item (info)
+
+Circle of Stones
+
+
+MAGIC ITEM  LORE ITEM
+EXPENDABLE  Charges: 1
+Effect:  Circle of Karana (Any Slot, Casting Time: Instant) as Level 50
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+GM Event item. Seems to drop in game being sold on blue server. 
+
+  Drops From 
+Theodast Wuggmump
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

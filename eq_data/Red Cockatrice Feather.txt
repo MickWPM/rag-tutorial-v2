@@ -1,0 +1,55 @@
+ITEM NAME: Red Cockatrice Feather
+
+
+Red Cockatrice Feather
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dreadlands
+
+ a petrifier cockatrice
+
+The Overthere
+
+ a stonegazer cockatrice
+ a stoneglint cockatrice
+ a stoneleer cockatrice
+ a stonepeep cockatrice
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy (Trivial: 36)
+ Yield: Black Extract x1
+ In Medicine Bag:
+
+
+  1 x Empty Vial - Crafted, Bought, Returned on Failure
+  1 x Red Cockatrice Feather - Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Poison Making (Trivial: 36)
+ Yield: Black Extract x1
+ In Mortar and Pestle:
+
+
+  1 x Red Cockatrice Feather - Dropped
+  1 x Empty Vial - Crafted, Bought, Returned on Failure
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+
+
+

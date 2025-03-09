@@ -1,0 +1,36 @@
+ITEM NAME: Ghostly Robes
+
+Kunark Era (added 2000)
+
+Ghostly Robes
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 10
+INT: +6
+SV FIRE: +8  SV COLD: +8
+WT: 3.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ Champion Thenrin
+ Ffroaak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

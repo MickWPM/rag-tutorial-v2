@@ -1,0 +1,44 @@
+ITEM NAME: Erudehide Tunic
+
+
+
+
+ 
+
+ Notice: This article is being considered for deletion.
+Please add comments or information below, as to whether this page applies to p99 and should be kept or not.
+Feel free to edit the article, but please do not blank it or remove this notice. (See: deletion policy or image policy)
+
+
+
+Classic Era (added 1999-2000)
+
+
+Erudehide Tunic
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 10
+STR: +2  WIS: +2
+WT: 3.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except TRL OGR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Luck of Allix
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

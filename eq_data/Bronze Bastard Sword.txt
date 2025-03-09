@@ -1,0 +1,58 @@
+ITEM NAME: Bronze Bastard Sword
+
+Classic Era (added 1999-2000)
+
+Bronze Bastard Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 42
+DMG: 7 
+WT: 10.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Befallen
+
+ a shadowknight (Dark Elf Female)
+
+Commonlands
+
+ a ghoul
+
+Najena
+
+ a skeleton
+
+Nektulos Forest
+
+ Leatherfoot Deputy
+
+Northern Desert of Ro
+
+ a ghoul
+
+Paineel
+
+ Guard Korlack
+ Guard Menbuknar
+
+The Feerrott
+
+ Cyndreela
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

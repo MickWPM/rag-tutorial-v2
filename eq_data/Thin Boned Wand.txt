@@ -1,0 +1,34 @@
+ITEM NAME: Thin Boned Wand
+
+Classic Era (added 1999-2000)
+
+Thin Boned Wand
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 3
+Effect: Lifespike (Any Slot, Casting Time: Instant)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Sells to vendors for about 8gp and you can buy it back for a little over 5pp. As a result, it takes a little under 11pp to recharge a wand, which is usually going to be much cheaper than buying a new one from a player. 
+
+  Drops From 
+Erud's Crossing
+
+ a vampire bat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

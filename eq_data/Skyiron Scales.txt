@@ -1,0 +1,36 @@
+ITEM NAME: Skyiron Scales
+
+
+
+Skyiron Scales
+
+
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 89)
+ Yield: Skyiron Scales x1
+ In Iksar Forge:
+
+
+  1 x File - Crafted
+  1 x Flask of Bloodwater - Bought
+  1 x Large Brick of Skyiron - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

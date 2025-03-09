@@ -1,0 +1,109 @@
+ITEM NAME: Balm Leaves
+
+
+
+
+ 
+
+ Notice: This page needs a revamp or clean-up. It may contain serious omissions or information which is incorrect for Project 1999. It may represent the wrong era, and/or may be the result of a revamp on Live which may not yet be active on P99. Do not trust this page.
+
+Classic Era (added 1999-2000)
+
+Balm Leaves
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+Note: Some of the merchants below do not exist or do not stock this item. Look to the gypsy camps for Balm Leaves. Romya has them on Blue  ~69pp
+
+
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ Northern Karana
+
+ Romella
+
+
+
+  (-682, -201)
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ Rathe Mountains
+
+ Viira Bali
+
+
+
+  (1644, -875)
+
+
+ Rathe Mountains
+
+ Susanna
+
+
+
+  (2908, -769)
+
+
+ Rathe Mountains
+
+ Chandra Kali
+
+
+
+  (3922, 1390)
+
+
+ East Commonlands
+
+ Romya
+
+
+
+  (347, 4055)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+ Potion of Stinging Wort (Trivial: 156)
+
+
+
+
+

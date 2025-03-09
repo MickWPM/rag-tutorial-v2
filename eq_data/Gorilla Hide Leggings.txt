@@ -1,0 +1,34 @@
+ITEM NAME: Gorilla Hide Leggings
+
+Classic Era (added 1999-2000)
+
+Gorilla Hide Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 6
+STR: +3  DEX: +4  CHA: -8
+WT: 4.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kerra Isle
+
+ Lord Gongo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Large Block of Magic Clay
+
+Classic Era (added 1999-2000)
+Created with the spell Enchant Clay
+
+
+Large Block of Magic Clay
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Idols (Pottery)
+
+
+
+

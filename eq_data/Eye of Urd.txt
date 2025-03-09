@@ -1,0 +1,35 @@
+ITEM NAME: Eye of Urd
+
+Kunark Era (added 2000)
+
+
+Eye of Urd
+
+
+LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lower Guk
+
+ An urd ghoul wizard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+ The Summoning of Terror
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

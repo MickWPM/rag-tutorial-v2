@@ -1,0 +1,32 @@
+ITEM NAME: Ivy Etched Sleeves
+
+Temple Era (added October 1999)
+
+Ivy Etched Sleeves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 10
+STR: +4
+WT: 3.7  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

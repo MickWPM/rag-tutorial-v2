@@ -1,0 +1,71 @@
+ITEM NAME: Ringmail Neckguard
+
+Were you looking for Large Ringmail Armor Set? Were you looking for Small Ringmail Armor Set?
+
+Ringmail Neckguard
+
+
+Slot: NECK
+AC: 5
+WT: 2.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Ringmail Armor Set. 
+
+  Drops From 
+Butcherblock Mountains
+
+ a crazed goblin
+
+Mistmoore Castle
+
+ a fallen noble
+ a glyphed aegis
+ a glyphed custodian
+ a glyphed forbidder
+ a glyphed ghoul
+ a glyphed guard
+ a glyphed sentry
+ a glyphed warder
+
+The Estate of Unrest
+
+ a lurking mummy
+
+Highpass Hold
+
+ an orc berserker
+ an orc scout
+
+Kithicor Forest
+
+ Kithicor
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Sun Alemaker
+
+
+
+  (127, -254) Not sold by this NPC
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

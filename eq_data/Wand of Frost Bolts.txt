@@ -1,0 +1,31 @@
+ITEM NAME: Wand of Frost Bolts
+
+Classic Era (added 1999-2000)
+
+Wand of Frost Bolts
+
+
+Slot: PRIMARY SECONDARY
+Charges: 5
+Effect:  Shock of Frost (Any Slot, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL except BAR TRL OGR
+
+
+Costs 1 plat or less to recharge 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

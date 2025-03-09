@@ -1,0 +1,40 @@
+ITEM NAME: Bracelet of Cessation
+
+
+
+Bracelet of Cessation
+
+
+MAGIC ITEM LORE ITEM NO TRADE
+Slot: WRIST
+DEX: +5 CHA: -5 HP: +25 MANA: +65
+WT: 0.1  Size: TINY
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul harvester
+ a sprited harpie
+ a thunder spirit princess
+ an essence carrier
+ Gorgalosk
+ Protector of Sky
+ Sister of the Spire
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

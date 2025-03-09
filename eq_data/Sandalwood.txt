@@ -1,0 +1,242 @@
+ITEM NAME: Sandalwood
+
+
+
+Sandalwood
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+138p with 90 Charisma and amiably faction 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork alchemist
+
+
+
+  (891, -301)
+
+
+ West Cabilis
+
+ Jaxxtz
+
+
+
+  (-41, 513)
+
+
+ West Cabilis
+
+ Jondin
+
+
+
+  (-36, 508)
+
+
+ Erudin Palace
+
+ Sharin Denuen
+
+
+
+  (661, 539)
+
+
+ Felwithe
+
+ Merchant Yisasan
+
+
+
+  (448, -805)
+
+
+ Firiona Vie
+
+ Shrub Marwood
+
+
+
+  (-3253, 2267)
+
+
+ West Freeport
+
+ Olyna Mudel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Torlig Mudel
+
+
+
+  (82, -917)
+
+
+ Greater Faydark
+
+ Merchant Kaeluase
+
+
+
+  (-272, 51)
+
+
+ Greater Faydark
+
+ Merchant Ueaas
+
+
+
+  (-85, 601)
+
+
+ Grobb
+
+ Grabah
+
+
+
+  (413, -418)
+
+
+ Grobb
+
+ Raztara
+
+
+
+  (439, -393)
+
+
+ Grobb
+
+ Blergagg
+
+
+
+  (417, -427)
+
+
+ Halas
+
+ Spirita
+
+
+
+  (348, 343)
+
+
+ Halas
+
+ Murtog MacYee
+
+
+
+  (124, -364)
+
+
+ South Kaladim
+
+ Baldoleky Rockfinder
+
+
+
+  (254, -186)
+
+
+ Neriak Foreign Quarter
+
+ Gambel Quick
+
+
+
+  (253, -60)
+
+
+ Neriak Commons
+
+ Marza T`Kix
+
+
+
+  (20, -875)
+
+
+ Oggok
+
+ Garakbar
+
+
+
+  (281, -364)
+
+
+ Western Plains of Karana
+
+ Spinner
+
+
+
+  (-1453, -12837)
+
+
+ South Qeynos
+
+ Drawna Opimsor
+
+
+
+  (303, -550)
+
+
+ Rivervale
+
+ Byl Babbinsbort
+
+
+
+  (-146, -114)
+
+
+ Rivervale
+
+ Bimble Babbinsbort
+
+
+
+  (-162, -118)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+ Blacksmithing
+
+
+
+

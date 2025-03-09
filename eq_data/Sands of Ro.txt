@@ -1,0 +1,39 @@
+ITEM NAME: Sands of Ro
+
+Classic Era (added 1999-2000)
+
+Sand of Ro
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Northern Desert of Ro
+
+ a sand giant
+
+Southern Desert of Ro
+
+ Cazel
+ Sandgiant Husam
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Princess Lenya
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+Pottery
+
+ Unfired Deity (Trivial 135)
+
+
+
+

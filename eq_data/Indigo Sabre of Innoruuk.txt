@@ -1,0 +1,44 @@
+ITEM NAME: Indigo Sabre of Innoruuk
+
+
+Indigo Sabre of Innoruuk
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 7 
+STR: +3  INT: +3
+WT: 5.0  Size: MEDIUM
+Class: WAR SHD ROG
+Race: HUM DEF HEF TRL GNM
+Deity: Innoruuk
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 116)
+ Yield: Indigo Sabre of Innoruuk x1
+ In Teir`Dal Forge:
+
+
+  1 x Curved Blade Mold - Bought
+  1 x Folded Sheet of Adamantite - Crafted
+  1 x Hilt Mold - Bought
+  1 x Imbued Sapphire - Summoned
+  1 x Pommel Mold - Bought
+  1 x Shadow Temper - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Royal Velium Frosted Greaves
+
+Velious Era (added December 2000-2001)
+
+
+Royal Velium Frosted Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 19
+STR: +7  HP: +30
+WT: 5.5  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Icewell Keep
+
+ An Icewell Sentinel
+ An Icewell Sentry
+ Royal Guardsman Braxis
+ Royal Guardsman Hauten
+ Royal Guardsman Horix
+ Royal Guardsman Nial
+ Royal Guardsman Raxine
+ Royal Guardsman Rhion
+ Watcher Devin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

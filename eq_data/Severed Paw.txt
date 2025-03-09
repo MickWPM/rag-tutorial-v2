@@ -1,0 +1,31 @@
+ITEM NAME: Severed Paw
+
+Classic Era (added 1999-2000)
+
+Severed Paw
+
+
+LORE ITEM
+WT: 0.5  Weight Reduction: 0%
+Capacity: 4  Size Capacity: TINY
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Qeynos Aqueducts
+
+ Vin Moltor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paw of Opolla Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

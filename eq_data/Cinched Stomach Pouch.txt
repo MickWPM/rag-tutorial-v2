@@ -1,0 +1,86 @@
+ITEM NAME: Cinched Stomach Pouch
+
+
+
+Cinched Stomach Pouch
+
+
+WT: 0.5  Weight Reduction: 0%
+Capacity: 4  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Dytar
+
+
+
+  (51, -197)
+
+
+ Field of Bone
+
+ Klok Acet
+
+
+
+  (-2463, 2984)
+
+
+ Lake of Ill Omen
+
+ Klok Gnask
+
+
+
+  (6392, -6350)
+
+
+ Swamp of No Hope
+
+ Klok Migo
+
+
+
+  (2467, 2911)
+
+
+ Warsliks Woods
+
+ Klok Gragin
+
+
+
+  (-1651, -707)
+
+
+ Warsliks Woods
+
+ Klok Rogalin
+
+
+
+  (-1882, -600)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

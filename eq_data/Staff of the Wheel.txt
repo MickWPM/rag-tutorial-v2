@@ -1,0 +1,33 @@
+ITEM NAME: Staff of the Wheel
+
+
+
+Staff of the Wheel
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 100
+DMG: 10 
+INT: +10  HP: +10  MANA: +10
+WT: 1.0  Size: LARGE
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tarton's Wheel
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

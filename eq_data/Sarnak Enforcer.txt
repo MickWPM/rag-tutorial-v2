@@ -1,0 +1,42 @@
+ITEM NAME: Sarnak Enforcer
+
+Kunark Era (added 2000)
+
+Sarnak Enforcer
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 7 
+WT: 1.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 72 and faction at Amiable
+
+ 4 Platinums
+ 5 Golds
+ 4 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Crypt of Dalnir
+
+ a coerced penkeeper
+ an undead blacksmith
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

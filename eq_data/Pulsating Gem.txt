@@ -1,0 +1,35 @@
+ITEM NAME: Pulsating Gem
+
+Hole Era (added June 2000)
+
+
+Pulsating Gem
+
+
+LORE ITEM  NO DROP
+Slot: NECK PRIMARY SECONDARY
+AC: 7
+STR: +9  DEX: +9  STA: +9  CHA: +9  WIS: +9  INT: +9  AGI: +9
+WT: 0.4  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Nexona
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

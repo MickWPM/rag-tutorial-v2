@@ -1,0 +1,42 @@
+ITEM NAME: Shin Greaves
+
+
+Shin Greaves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 10
+SV DISEASE: +5
+WT: 7.5  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Lower Guk
+
+ a froglok shin knight
+ a froglok shin warrior
+ a shin ghoul knight
+ a shin ghoul warrior
+
+Upper Guk
+
+ a froglok shin knight
+ a froglok shin shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lambent Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

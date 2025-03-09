@@ -1,0 +1,33 @@
+ITEM NAME: Willie's Confession
+
+Classic Era (added 1999-2000)
+
+
+Willie's Confession
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+South Qeynos
+
+ Willie Garrote
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Investigator's Badge (Badge #1)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

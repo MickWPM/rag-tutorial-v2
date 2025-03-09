@@ -1,0 +1,36 @@
+ITEM NAME: Garduk
+
+Sky Era (added January 2000)
+
+
+ Apollyus (Green Server) wields the legendary Garduk, Spear of Sky
+Garduk
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 40
+DMG: 23 
+WIS: +15  MANA: +75
+Effect:  Tagar's Insects (Combat, Casting Time: Instant)
+WT: 6.0  Size: LARGE
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of the Witch Doctor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

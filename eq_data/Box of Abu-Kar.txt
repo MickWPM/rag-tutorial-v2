@@ -1,0 +1,30 @@
+ITEM NAME: Box of Abu-Kar
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Box of Abu-Kar
+
+
+LORE ITEM
+WT: 2.0  Weight Reduction: 100%
+Capacity: 10  Size Capacity: GIANT
+
+
+No longer drops. patch notes
+Prior to it no longer dropping, this was a rare global drop off any level 35+ npc.
+No longer drops on green as of Temple Era (October 1999) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,27 @@
+ITEM NAME: Bag of Crushed Herbs
+
+Velious Era (added December 2000-2001)
+Bag of Crushed Herbs
+
+
+LORE ITEM NO DROP
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Friend of the Tunarean Court
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

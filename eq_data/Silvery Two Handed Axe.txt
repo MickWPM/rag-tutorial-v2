@@ -1,0 +1,42 @@
+ITEM NAME: Silvery Two Handed Axe
+
+
+ 
+Silvery Two Handed Axe
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 48
+DMG: 21 
+Effect:  Serpent Sight (Worn)
+WT: 13.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 2 Platinums
+ 8 Golds
+ 7 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Permafrost
+
+ an elite honor guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

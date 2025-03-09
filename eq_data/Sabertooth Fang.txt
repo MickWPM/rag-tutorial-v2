@@ -1,0 +1,50 @@
+ITEM NAME: Sabertooth Fang
+
+
+
+Sabertooth Fang
+
+
+QUEST ITEM
+WT: 1.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+VALUE TO VENDOR with CHA : 56
+
+ 1 Platinums
+ 9 Golds
+ 3 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Lake of Ill Omen
+
+ a sabertooth cat
+ a sabertooth tiger
+ a sabertooth tigress
+ a sabertooth grimalkin
+
+The Overthere
+
+ a sabertooth cat
+ a sabertooth tiger
+ a sabertooth tigress
+ sabretooth tigress
+
+Trakanon's Teeth
+
+ sabretooth tigress
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Great Spear of Dawn
+
+Velious Era (added December 2000-2001)
+
+
+ Great Spear of Dawn
+Great Spear of Dawn
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 46
+DMG: 53 AC: 25
+STR: +10  STA: +10
+SV MAGIC: +15
+Effect: Dawncall (Combat, Casting Time: Instant) at Level 50
+WT: 2.4  Size: TINY
+Class: PAL SHD
+Race: ALL
+
+
+Note: Originally 37/41 when introduced [1], later upgraded to 39/42 in June 2001 [2], then finally to 53/46 in October 2001.
+The post revamp version is current on p99. 
+
+  Drops From 
+Temple of Veeshan
+
+ Sevalak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

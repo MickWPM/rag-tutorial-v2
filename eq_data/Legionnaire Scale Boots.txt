@@ -1,0 +1,37 @@
+ITEM NAME: Legionnaire Scale Boots
+
+Warrens Era (added spring 2001)
+
+
+Legionnaire Scale Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 19
+STA: +10  CHA: +10  AGI: +10  HP: +30
+SV DISEASE: +10  SV POISON: +5
+WT: 4.0  Size: MEDIUM
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a kiraikuei
+ Grandmaster R`Tal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Priceless Velium Warsword
+
+ 
+Velious Era (added December 2000-2001)
+
+
+Priceless Velium Warsword
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 20
+DMG: 13   AC: 5
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +5  INT: +5  AGI: +5  HP: +25  MANA: +25
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 2.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Part of the Priceless Velium Weapons set. 
+
+  Drops From 
+Sleeper's Tomb
+
+ an ancient sentry
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

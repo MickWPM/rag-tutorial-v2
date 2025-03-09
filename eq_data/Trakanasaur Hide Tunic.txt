@@ -1,0 +1,36 @@
+ITEM NAME: Trakanasaur Hide Tunic
+
+Kunark Era (added 2000)
+
+Trakanasaur Hide Tunic
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 16
+STA: +5
+WT: 0.8  Size: LARGE
+Class: WAR SHD SHM
+Race: BAR TRL OGR
+
+
+
+ Merchant resale value: 5.3p 
+
+  Drops From 
+Trakanon's Teeth
+
+ a trakanasaur
+ Bloodeye
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,47 @@
+ITEM NAME: Velishoul's Tome Pg. 8
+
+Classic Era (added 1999-2000)
+Velishoul's Tome Pg. 8
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 6 Golds
+ 4 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Rathe Mountains
+
+a giant skeleton
+
+Iceclad Ocean
+
+a shadow guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Tepid Deeds (Trivial: 62) (Research only)
+
+
+
+
+

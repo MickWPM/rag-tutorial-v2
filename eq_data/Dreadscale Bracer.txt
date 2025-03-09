@@ -1,0 +1,33 @@
+ITEM NAME: Dreadscale Bracer
+
+Kunark Era (added 2000)
+
+Dreadscale Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 8
+DEX: +3
+SV FIRE: +2  SV COLD: +2
+WT: 1.8  Size: SMALL
+Class: SHD
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dreadscale Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Snow Storm Mask
+
+Velious Era (added December 2000-2001)
+
+Snow Storm Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 7
+STR: +4
+SV COLD: +9
+Effect:  Heat Sight (Worn)
+WT: 0.0  Size: TINY
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Snow Hunter's Mask 
+
+  Drops From 
+Velketor's Labyrinth
+
+ Velketor the Sorcerer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Old Black Tunic*
+
+Classic Era (added 1999-2000)
+Old Black Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.7  Size: MEDIUM
+Class: ROG
+Race: DEF
+
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

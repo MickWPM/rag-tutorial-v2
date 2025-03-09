@@ -1,0 +1,51 @@
+ITEM NAME: Lichenclover
+
+
+Lichenclover
+
+
+QUEST ITEM
+WT: 0.7  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known use in classic. 
+
+  Drops From 
+Firiona Vie
+
+ a drolvarg growler
+ a drolvarg snarler
+ a drolvarg savage
+ froglok ton warrior
+
+Frontier Mountains
+
+ Goblin Raider
+ a mountain giant tump
+ goblin raider
+
+Swamp of No Hope
+
+ a froglok ton warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Field of Bone
+ Firiona Vie
+ Frontier Mountains
+ Swamp of No Hope
+
+

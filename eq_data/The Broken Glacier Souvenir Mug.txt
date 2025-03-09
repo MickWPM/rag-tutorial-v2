@@ -1,0 +1,30 @@
+ITEM NAME: The Broken Glacier Souvenir Mug
+
+Velious Era (added December 2000-2001)
+
+
+The Broken Glacier Souvenir Mug
+
+
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Souvenir Mugs
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

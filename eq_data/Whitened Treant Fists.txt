@@ -1,0 +1,39 @@
+ITEM NAME: Whitened Treant Fists
+
+ Green Server - Whitened Treant Fist
+Whitened Treant Fists
+
+
+MAGIC ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 14 
+WT: 0.1  Size: TINY
+Class: MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit princess
+ an essence carrier
+ Bazzt Zzzt
+ Gorgalosk
+ Noble Dojorn
+ Protector of Sky
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

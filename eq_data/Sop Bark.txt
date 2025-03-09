@@ -1,0 +1,33 @@
+ITEM NAME: Sop Bark
+
+Kunark Era (added 2000)
+
+
+Sop Bark
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known classic use? From EQZam dated 9/11/2003: Gleaned from a post by Darthjabroni (rated Sage) under lichenclover: "The Lichenclover, Moss Root, Water Reed, and Sop Bark are used with a purification tablet in a water extracter, and yields 3 purified waters". 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Warsliks Woods
+
+

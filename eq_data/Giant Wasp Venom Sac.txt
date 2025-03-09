@@ -1,0 +1,45 @@
+ITEM NAME: Giant Wasp Venom Sac
+
+Classic Era (added 1999-2000)
+Giant Wasp Venom Sac
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 3 Golds
+ 1 Silvers
+ 5 Coppers
+ 
+  Drops From 
+Greater Faydark
+
+ a giant wasp drone
+ a giant wasp warrior
+ a giant wasp worker
+
+Misty Thicket
+
+ a giant wasp
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Giant Wasp Venom (Trivial: 20)
+
+
+
+
+

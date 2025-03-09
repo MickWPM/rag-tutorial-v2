@@ -1,0 +1,34 @@
+ITEM NAME: Crystal Spider Eyes
+
+Velious Era (added December 2000-2001)
+
+Crystal Spider Eyes
+
+
+LORE ITEM
+Slot: FACE
+AC: 8
+WIS: +3  INT: +3  HP: +35  MANA: +35
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Crystal Spider EyesWorks as a light source. 
+
+  Drops From 
+Velketor's Labyrinth
+
+ Crystal Eyes
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

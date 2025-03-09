@@ -1,0 +1,39 @@
+ITEM NAME: Shaped Oak Recurve Bow (Linen)
+
+Classic Era (added 1999-2000)
+
+Shaped Oak Recurve Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 52
+DMG: 18
+WT: 4.0  Range: 125  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 168)
+ Shaped Oak Recurve Bow (Linen)
+ In Fletching Kit:
+
+
+  1 x Oak Bow Staff - Bought
+  1 x Linen String - Bought
+  1 x Planing Tool - Bought, Returned on Failure or Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

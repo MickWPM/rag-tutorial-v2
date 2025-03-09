@@ -1,0 +1,35 @@
+ITEM NAME: Steel Hilted Flint Dagger
+
+Kunark Era (added 2000)
+
+Steel Hilted Flint Dagger
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 28
+DMG: 4 
+Effect:  Conflagration (Combat, Casting Time: Instant) at Level 50
+WT: 1.7  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Howling Stones
+
+ The Crypt Feaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

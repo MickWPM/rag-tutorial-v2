@@ -1,0 +1,38 @@
+ITEM NAME: Worked Dragonwing Mantle
+
+Velious Era (added December 2000-2001)
+
+
+
+Worked Dragonwing Mantle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 11
+HP: +25  MANA: +25
+WT: 2.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Bratavar
+ Karkona
+ Onava
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

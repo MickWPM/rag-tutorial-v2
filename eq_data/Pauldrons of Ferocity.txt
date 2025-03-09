@@ -1,0 +1,37 @@
+ITEM NAME: Pauldrons of Ferocity
+
+Warrens Era (added spring 2001)
+
+
+Pauldrons of Ferocity
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 20
+STR: +10  STA: +10  HP: +20  MANA: +20
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Aura of Battle (Must Equip, Casting Time: Instant)
+WT: 4.0  Size: MEDIUM
+Class: WAR PAL SHD
+Race: ALL
+
+
+Post-fear revamp.  Stacks with Grim Aura from Shrunken Goblin Skull Earring. 
+
+  Drops From 
+Plane of Fear
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

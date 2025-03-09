@@ -1,0 +1,41 @@
+ITEM NAME: Ancient Tarnished Plate Helmet
+
+Velious Era (added December 2000-2001)
+
+Ancient Tarnished Plate Helmet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+WT: 5.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ a fiery temple guardian
+ a lava dancer
+ an elder temple defender
+ an emerald sky defender
+ an onyx sky drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Kael Helmet
+ Warrior Kael Helmet
+ Shadowknight Kael Helmet
+ Paladin Kael Helmet
+ Cleric Kael Helmet
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,108 @@
+ITEM NAME: A Spider Venom Sac
+
+
+
+A Spider Venom Sac
+
+
+QUEST ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 4 Golds
+ 8 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a large spider
+
+Commonlands
+
+ a giant spider
+
+Dreadlands
+
+ a dread widow
+
+Eastern Plains of Karana
+
+ a crag spider
+
+Everfrost Peaks
+
+ a giant wooly spider
+ a large wooly spider
+
+Field of Bone
+
+ a bonebinder
+ bonecrawler
+
+Firiona Vie
+
+ a drachnid silklurker
+ a drachnid silkspinner
+ a drachnid silkstrander
+ a drachnid weblurker
+
+Kaesora
+
+ Briarweb Spider
+ strathbone healer
+
+Lesser Faydark
+
+ a giant spider
+
+Lower Guk
+
+ a deadly black widow
+
+Nagafen's Lair
+
+ lava duct crawler
+
+Nektulos Forest
+
+ a large arachneidae
+
+Northern Desert of Ro
+
+ a desert tarantula
+ a dune tarantula
+
+Southern Desert of Ro
+
+ a dune tarantula
+
+Toxxulia Forest
+
+ a large widow
+
+Upper Guk
+
+ a heart spider
+ a large heart spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Zimel's Blades (SoulFire)
+ Gindlin's Poison
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Ring of Dominance
+
+Kunark Era (added 2000)
+
+Ring of Dominance
+
+
+MAGIC ITEM LORE ITEM
+Slot: FINGER
+AC: 8
+WT: 0.1  Size: TINY
+Class: WAR PAL RNG SHD MNK ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ A Sarnak Warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

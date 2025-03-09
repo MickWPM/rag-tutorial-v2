@@ -1,0 +1,36 @@
+ITEM NAME: Braid of Golden Hair
+
+Velious Era (added December 2000-2001)
+ Project 1999 Blue - Grumpet "Indiana Gnomes" sports the Braid of Golden Hair in his main hand
+Braid of Golden Hair
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 15 
+STR: +5  STA: +5  WIS: +5  INT: +5  AGI: +5  HP: +50  MANA: +50
+Effect: Swarming Pain (Combat, Casting Time: Instant)
+WT: 0.5  Size: SMALL
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ Tunare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

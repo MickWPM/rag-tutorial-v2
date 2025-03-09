@@ -1,0 +1,36 @@
+ITEM NAME: Scaled Hierophant Greaves
+
+Velious Era (added December 2000-2001)
+
+
+Scaled Hierophant Greaves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 14
+DEX: +10  CHA: +5  MANA: +40
+SV FIRE: +8  SV COLD: +8  SV MAGIC: +8
+WT: 4.2  Size: LARGE
+Class: SHM
+Race: IKS
+
+
+Part of the Scaled Hierophant Armor set. 
+
+  Drops From 
+Plane of Hate
+
+ a spite golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

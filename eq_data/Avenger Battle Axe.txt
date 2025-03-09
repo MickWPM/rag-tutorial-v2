@@ -1,0 +1,33 @@
+ITEM NAME: Avenger Battle Axe
+
+
+Avenger Battle Axe
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 43
+DMG: 15 
+STR: +3  STA: +3  AGI: +3
+SV MAGIC: +5
+WT: 11.5  Size: LARGE
+Class: WAR
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Eye of Stormhammer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

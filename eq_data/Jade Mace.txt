@@ -1,0 +1,35 @@
+ITEM NAME: Jade Mace
+
+Kunark Era (added 2000)
+
+ Jade Mace - Green Server
+Jade Mace
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 18
+DMG: 9 
+WT: 2.1  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

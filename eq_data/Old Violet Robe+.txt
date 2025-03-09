@@ -1,0 +1,35 @@
+ITEM NAME: Old Violet Robe*
+
+
+
+Old Violet Robe*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.7  Size: MEDIUM
+Class: WIZ MAG ENC
+Race: HUM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Given to Human WIZ, MAG, and ENC for turning in the note received during character creation to their respective guildmasters. 
+
+  Drops From 
+West Freeport
+
+ Lynce Renardo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

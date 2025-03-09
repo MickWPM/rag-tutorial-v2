@@ -1,0 +1,70 @@
+ITEM NAME: Frost Giant Toes
+
+Velious Era (added December 2000-2001)
+
+Frost Giant Toes
+
+
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Turn in 4 at a time to Loremaster Borannin for Coldain and Dain faction (first of the Coldain Prayer Shawl Quests) 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 7 Platinums
+ 6 Golds
+ 7 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Eastern Wastes
+
+ a frost giant
+ a frost giant captain
+ a frost giant savage
+ a frost giant scout
+ a kromrif prison guard
+ Commander Bahreck
+
+Great Divide
+
+ a frost giant berserker
+ a frost giant elite
+ a frost giant scout
+
+Kael Drakkel
+
+ a frost giant berserker
+ a frost giant commoner
+ a frost giant gladiator
+ a frost giant trainer
+ a frost giant wolf tamer
+ Adjutant Veldorin
+ Guard Vydel
+ Iceweaver Maldekil
+ Senior Guard Eihorn
+ Senior Guard Redbones
+ Slaggak the Trainer
+ Watcher Zedlek
+
+The Wakening Land
+
+ a frost giant laborer
+ a frost giant sentinel
+ a frost giant sentry
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #1: Burlap Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

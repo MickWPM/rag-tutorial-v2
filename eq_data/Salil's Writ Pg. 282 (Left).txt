@@ -1,0 +1,67 @@
+ITEM NAME: Salil's Writ Pg. 282 (Left)
+
+
+
+Salil's Writ Pg. 282
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+City of Mist
+
+ a phantom
+
+Cobalt Scar
+
+ a siren seductress
+
+Dreadlands
+
+ a drachnid widow
+
+Eastern Wastes
+
+ a frost giant savage
+ a manticore
+ a wooly rhino
+
+Everfrost Peaks
+
+ an ice giant
+
+High Keep
+
+ Tyrana Slil
+
+Karnor's Castle
+
+ a drolvarg sentry
+
+North Kaladim
+
+ Guard Doradek
+
+The Wakening Land
+
+ a suit of sentient armor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Immobilize (Trivial: 140)
+
+
+
+
+

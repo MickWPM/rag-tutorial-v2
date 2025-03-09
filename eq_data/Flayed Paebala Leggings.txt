@@ -1,0 +1,38 @@
+ITEM NAME: Flayed Paebala Leggings
+
+Velious Era (added December 2000-2001)
+
+
+Flayed Paebala Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 15
+INT: +6  HP: +20  MANA: +20
+SV DISEASE: +20
+WT: 2.0  Size: TINY
+Class: ALL except WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari Deathshaper
+ a Chetari Packrat
+ Dominator Yisaki
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

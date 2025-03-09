@@ -1,0 +1,35 @@
+ITEM NAME: Seer Lore Book
+
+Velious Era (added December 2000-2001)
+
+
+Seer Lore Book
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+INT: +13  MANA: +40
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Jaelk
+ Taegria Fe`Dhar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

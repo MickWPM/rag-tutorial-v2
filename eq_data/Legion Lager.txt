@@ -1,0 +1,39 @@
+ITEM NAME: Legion Lager
+
+
+
+Legion Lager
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Restraining Order
+ Legion Lager Quest
+
+  Player crafted 
+ Brewing (Trivial: 36)
+ Yield: Legion Lager x1
+ In Brewing Barrel:
+
+
+  1 x Bottle - Crafted, Bought
+  1 x Deadbone Barley - Foraged
+  1 x Flask of Bloodwater - Bought
+  1 x Giant Blood Sac - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

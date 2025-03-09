@@ -1,0 +1,30 @@
+ITEM NAME: Faded Gold Training Tunic*
+
+
+
+Faded Gold Training Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.8  Size: MEDIUM
+Class: CLR
+Race: HIE
+
+
+Given to HIE Clerics on character creation for turning in note. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

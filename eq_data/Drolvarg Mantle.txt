@@ -1,0 +1,35 @@
+ITEM NAME: Drolvarg Mantle
+
+Kunark Era (added 2000)
+
+Drolvarg Mantle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 7
+AGI: +6
+SV FIRE: +5
+WT: 1.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except ELF HIE HEF
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

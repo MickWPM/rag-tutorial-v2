@@ -1,0 +1,121 @@
+ITEM NAME: Bronze Mace
+
+Classic Era (added 1999-2000)
+
+Bronze Mace
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 38
+DMG: 6 
+WT: 9.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 3 Platinums
+ 3 Golds
+ 5 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a krag elder
+
+Mistmoore Castle
+
+ a glyphed familiar
+ a pledge familiar
+ an initiate familiar
+
+Commonlands
+
+ a Dervish Cutthroat
+ orc legionnaire
+
+Crushbone
+
+ Emperor Crush
+ Lord Darish
+ orc legionnaire
+ orc oracle
+ orc warlord
+ The Prophet
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Dreadlands
+
+ a drolvarg rager
+
+Erud's Crossing
+
+ a zombie sailor
+
+The Estate of Unrest
+
+ a ghoul
+ dark boned skeleton
+ tormented dead
+
+Everfrost Peaks
+
+ an orcish mountaineer
+
+Greater Faydark
+
+ a faerie guard
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ a faerie
+ a faerie courtier
+ orc chief
+
+Najena
+
+ a greater skeleton
+ a skeleton
+ an ogre guard
+
+Northern Desert of Ro
+
+ dry bones skeleton
+
+Southern Karana
+
+ centaur charger
+
+Southern Desert of Ro
+
+ a deepwater goblin
+ an orc priest
+
+Western Plains of Karana
+
+ a bandit
+ Einhorst McMannus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bandit Sashes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

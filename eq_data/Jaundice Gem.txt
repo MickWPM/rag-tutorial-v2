@@ -1,0 +1,60 @@
+ITEM NAME: Jaundice Gem
+
+Velious Era (added December 2000-2001)
+
+Jaundice Gem
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This gem is used for Priest arms in velious armor quests, but it is very common. 
+ Merchant resale value: 49p 4g 
+
+  Drops From 
+Cobalt Scar
+
+ A wyvern (Cobalt Scar)
+ A bulthar
+
+Dragon Necropolis
+
+ a Chetari master
+ a dragon construct
+ Zlandicar
+
+Siren's Grotto
+
+ a massive walrus
+ a neriad maiden
+ a siren enticer
+
+The Wakening Land
+
+ a geonid
+
+Velketor's Labyrinth
+
+ a crystaline sentinel
+ a velium broodling
+ a velium hunter
+ a velium stalker
+ An Icepaw Champion
+ an Icepaw kobold warrior
+ Leljemor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velious Class Armor
+ Priest Arms  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

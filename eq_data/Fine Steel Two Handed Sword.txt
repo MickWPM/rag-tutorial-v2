@@ -1,0 +1,214 @@
+ITEM NAME: Fine Steel Two Handed Sword
+
+Classic Era (added 1999-2000)
+
+Fine Steel Two Handed Sword
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 43
+DMG: 12 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 6 Platinums
+ 7 Golds
+ 1 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ Glorin Binfurr
+
+Mistmoore Castle
+
+ a deathly harbinger
+ a deathly herald
+ a deathly usher
+ a ghastish ancille
+ a ghoulish ancille
+ a glyphed aegis
+ a glyphed guard
+ a glyphed sentry
+ a hemo enologist
+ a vampiric ancille
+ a will pillager
+ a will ravisher
+ a will sapper
+ Butler Syncall
+ Enynti
+
+Commonlands
+
+ a hill giant
+ Shadow Treebright
+ Sil Silverstar
+ Veli Greenwhisper
+ Vuli Greenwhisper
+
+Crypt of Dalnir
+
+ a kly cohort
+ a kly imprecator
+ lumpy goo
+
+East Freeport
+
+ Sir Edwin Motte
+
+Eastern Plains of Karana
+
+ a hill giant
+ Tarbul Earthstrider
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a greater dark bone
+ mortuary fungus
+
+Everfrost Peaks
+
+ an ice giant
+ Bandl McMarrin
+ Bonn McMarrin
+ Dom McMarrin
+ Garn McMarrin
+ Karg IceBear
+ Lish McMarrin
+
+Firiona Vie
+
+ froglok shin knight
+ froglok shin warrior
+ froglok ton knight
+
+Frontier Mountains
+
+ a goblin adept
+ a goblin bodyguard
+ a goblin cavehunter
+ a goblin depredator
+ a goblin fanatic
+ a goblin flamedrowser
+ a goblin flashdrowser
+ a goblin soothsayer
+ a goblin taskmaster
+ a goblin whipcracker
+
+Halas
+
+ Adon McMarrin
+ Alec McMarrin
+ Andres McMarrin
+ Cian McMarrin
+ Clovan McMarrin
+ Mils McMarrin
+ Nal McMarrin
+ Oli McMarrin
+
+Kaesora
+
+ Guardian Of Xalgoz
+ Minion Of Xalgoz
+ Skeletal Guardian
+ skeletal minion
+ Skeletal Warder
+ spectral guardian
+ spectral librarian
+ Warder of Xalgoz
+
+Kithicor Forest
+
+ skeleton trooper
+
+Kurn's Tower
+
+ an undead jester
+
+Lesser Faydark
+
+ a faerie guard
+ Teir`Dal Elite
+
+Rathe Mountains
+
+ a barbed bone skeleton
+ a hill giant
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+
+North Freeport
+
+ Sir Willam
+
+Northern Desert of Ro
+
+ a sand giant
+ Guard Brendyl
+ Guard Fintran
+ Guard Stoutman
+
+Ocean of Tears
+
+ Gornit
+
+Permafrost
+
+ an elite goblin guard
+
+Southern Karana
+
+ a Rosch Val Gnoll
+
+South Qeynos
+
+ Eracon Krengon
+
+Steamfont Mountains
+
+ Watchman Dreeb
+
+Swamp of No Hope
+
+ froglok krup guard
+
+The Feerrott
+
+ a Tae Ew defender
+ a Tae Ew sentinel
+ Bouncer Hurd
+
+The Overthere
+
+ General V`Deers
+
+Western Plains of Karana
+
+ a hill giant
+ Ulrich McMannus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Frostreaver
+
+Velious Era (added December 2000-2001) Frostreaver : Server First = Malthusian
+
+
+Frostreaver
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 43
+DMG: 42 
+STR: +15  DEX: +10  STA: +5  HP: +50
+SV FIRE: +8  SV DISEASE: +6  SV COLD: +7  SV MAGIC: +9  SV POISON: +5
+Effect: Judgment of Ice (Combat, Casting Time: Instant) at Level 50
+WT: 12.0  Size: LARGE
+Class: WAR PAL SHD
+Race: ALL except ERU ELF HIE DEF HEF
+
+
+ Item Lore (from Identify): Axe of Kings
+This axe cannot be used by elves -- likely because of their weak bodies. Buyer beware. 
+
+  Drops From 
+Icewell Keep
+
+ Dain Frostreaver IV
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

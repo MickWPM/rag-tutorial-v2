@@ -1,0 +1,88 @@
+ITEM NAME: Small Gorget Mold
+
+
+
+Small Gorget Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Ayen Rundlor
+
+
+
+  (2824, -677)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (6, 897)
+
+
+ Misty Thicket
+
+ Hanga Wiskin
+
+
+
+  (332, -2271)
+
+
+ Neriak Commons
+
+ Halvn B`Div
+
+
+
+  (-131, -985)
+
+
+ Steamfont Mountains
+
+ Fodin Frugrin
+
+
+
+  (-1788, 666)
+
+
+ Thurgadin
+
+ Brimgald Brightsteel
+
+
+
+  (-439, 101)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

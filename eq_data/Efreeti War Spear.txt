@@ -1,0 +1,36 @@
+ITEM NAME: Efreeti War Spear
+
+Sky Era (added January 2000)
+
+Efreeti War Spear
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 40
+DMG: 15 
+WT: 5.0  Size: MEDIUM
+Class: WAR BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Harmony
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

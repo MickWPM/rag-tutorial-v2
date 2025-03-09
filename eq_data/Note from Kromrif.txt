@@ -1,0 +1,34 @@
+ITEM NAME: Note from Kromrif
+
+Velious Era (added December 2000-2001)
+
+
+Note from Kromrif
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ Poxbreath Yellowfang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #6: Mithril Coldain Insignia Ring 
+
+  Book contents 
+Unknown.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

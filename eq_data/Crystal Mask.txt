@@ -1,0 +1,36 @@
+ITEM NAME: Crystal Mask
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+
+Crystal Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 8
+STR: +6  DEX: +8
+SV MAGIC: +10
+Effect:  Gather Shadows (Must Equip, Casting Time: 3.0) at Level 45
+WT: 0.4  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+Post-upgrade PoS quest reward. Replaces Transparent Mask and initially has the same targeted Invisibility effect with unlimited charges, but is later retroactively nerfed sometime in Velious to self-only Gather Shadows with a cast time. Like many other PoS quest rewards, rather than upgrade the Transparent Mask, a player can additionally quest an entire Crystal Mask separately and then have both items. Once the Crystal Mask is nerfed to self-only, this allows the player to continue to use the Transparent Mask for instant targetable invis. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Cunning
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,72 @@
+ITEM NAME: Green Goblin Skin
+
+Kunark Era (added 2000)
+
+Green Goblin Skin
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crypt of Dalnir
+
+ a coerced goblin
+
+Firiona Vie
+
+ goblin battlemaster
+ A goblin blightcaller
+ goblin raider
+
+Frontier Mountains
+
+ a goblin adept
+ a goblin bodyguard
+ a goblin bonecharmer
+ a goblin cavehunter
+ a goblin depredator
+ a goblin dirtcaller
+ A Goblin Dustscryer
+ a goblin fanatic
+ a goblin flamedrowser
+ a goblin flashdrowser
+ a goblin plaguebringer
+ Goblin Raider
+ a goblin slavedriver
+ a goblin soothsayer
+ a goblin stalagknight
+ a goblin taskmaster
+ a goblin whipcracker
+ goblin raider
+
+Lake of Ill Omen
+
+ a goblin soothsayer
+ a goblin warrior
+
+Temple of Droga
+
+ a goblin dirttracer
+ a goblin flashdrowser
+ a goblin slavedriver
+ a goblin stalagknight
+ a goblin stonechanter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Di'Zok Signet of Service Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

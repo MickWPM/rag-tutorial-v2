@@ -1,0 +1,34 @@
+ITEM NAME: Scroll of Insight
+
+Velious Era (added December 2000-2001)
+
+
+Scroll of Insight
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WIS: +8
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ Warmaster Utvara
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scrolls of the Ancient Totem
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

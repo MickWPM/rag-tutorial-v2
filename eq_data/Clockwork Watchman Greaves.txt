@@ -1,0 +1,47 @@
+ITEM NAME: Clockwork Watchman Greaves
+
+Velious Era (added December 2000-2001)
+
+Clockwork Watchman Greaves
+
+
+Slot: LEGS
+Charges: 10
+AC: 13
+Effect:  Grease Injection (Any Slot/Can Equip, Casting Time: 4.0) at Level 20
+WT: 5.6  Size: LARGE
+Class: WAR CLR
+Race: GNM
+
+
+Made with gnome cultural tinkering. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 227)
+ Yield: Clockwork Watchman Greaves x1
+ In Deluxe Toolbox:
+
+
+  1 x Cogs - Bought
+  1 x Gnomish Bolts - Bought
+  1 x Grease - Bought
+  1 x Holgresh Wing - Dropped
+  1 x Mana Battery - Class Five - Crafted, Bought, Dropped
+  1 x Metal Fastening - Bought
+  1 x Metal Rod - Bought
+  1 x Metal Twine - Bought
+  1 x Small Fine Plate Greaves - Crafted, Returned on Failure
+  1 x Sprockets - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

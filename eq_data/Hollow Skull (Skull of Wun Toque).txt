@@ -1,0 +1,33 @@
+ITEM NAME: Hollow Skull (Skull of Wun Toque)
+
+Kunark Era (added 2000)
+
+Hollow Skull
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: MEDIUM
+
+
+ Item Lore (from Identify): Skull of Wun Toque
+
+Container for Jeweled Skull quest. 
+
+  Drops From 
+Splitpaw
+
+ a Splitpaw assassin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hollow Skull
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

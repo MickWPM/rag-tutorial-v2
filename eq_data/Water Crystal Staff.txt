@@ -1,0 +1,35 @@
+ITEM NAME: Water Crystal Staff
+
+
+Water Crystal Staff
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 5 
+Effect:  Shallow Breath (Combat, Casting Time: Instant)
+WT: 6.5  Size: LARGE
+Class: BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify):  'Water Crystal Staff'  
+
+  Drops From 
+Lake Rathetear
+
+ Webclaw Murkwave
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Visiting Priestess
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

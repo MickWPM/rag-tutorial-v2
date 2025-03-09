@@ -1,0 +1,38 @@
+ITEM NAME: Imbued Platinum Amber Ring
+
+
+
+Imbued Platinum Amber Ring
+
+
+MAGIC ITEM 
+Slot: FINGER
+STR: +4 CHA: -4 INT: +4
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity Cazic-Thule
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ Jewelry Making (Trivial: )
+ Imbued Platinum Amber Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Platinum Bar - Summoned
+  1 x Imbued Amber - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

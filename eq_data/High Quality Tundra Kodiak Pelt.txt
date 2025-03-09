@@ -1,0 +1,31 @@
+ITEM NAME: High Quality Tundra Kodiak Pelt
+
+Velious Era (added December 2000-2001)
+
+High Quality Tundra Kodiak Pelt
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a tundra kodiak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #1: Copper Coldain Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

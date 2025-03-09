@@ -1,0 +1,44 @@
+ITEM NAME: Box of the Void
+
+Classic Era (added 1999-2000)
+
+
+Box of the Void
+
+
+LORE ITEM  NO DROP
+WT: 8.7  Weight Reduction: 0%
+Capacity: 2  Size Capacity: GIANT
+
+
+Container used to recharge sky items with clickable effects (in combination with some Mana Battery). The box is consumed on combine.
+Sold by the Key Master for about 1 platinum 5 silver 9 copper 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Plane of Sky
+
+ Key Master
+
+ Center of Island 1
+
+  (1384, 601)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

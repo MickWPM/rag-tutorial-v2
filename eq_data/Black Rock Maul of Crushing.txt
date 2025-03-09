@@ -1,0 +1,38 @@
+ITEM NAME: Black Rock Maul of Crushing
+
+Velious Era (added December 2000-2001)
+
+
+
+ Lizzay modeling the maul
+Black Rock Maul of Crushing
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 23
+DMG: 23 AC: 15
+INT: +15  HP: +75  MANA: +75
+WT: 5.0  Size: TINY
+Class: SHD
+Race: ALL
+
+
+Post-upgrade stats. See discussion page for details. 
+
+  Drops From 
+Temple of Veeshan
+
+ Telkorenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

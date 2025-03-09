@@ -1,0 +1,225 @@
+ITEM NAME: Lantern Casing Mold
+
+
+
+Lantern Casing Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1170, -745)
+
+
+ Butcherblock Mountains
+
+ Kaila Rucksack
+
+
+
+  (2795, -697)
+
+
+ Butcherblock Mountains
+
+ Nalda Griststone
+
+
+
+  (2717, -964)
+
+
+ East Cabilis
+
+ Klok Gritchit
+
+
+
+  (593, 158)
+
+
+ East Cabilis
+
+ Smithy Vyx
+
+
+
+  (-427, -215)
+
+
+ East Freeport
+
+ Tislan
+
+
+
+  (134, -298)
+
+
+ East Freeport
+
+ Roghur Muleson
+
+
+
+  (-24, -492)
+
+
+ Greater Faydark
+
+ Merchant Uaylain
+
+
+
+  (-22, 118)
+
+
+ Greater Faydark
+
+ Merchant Nluolian
+
+
+
+  (-107, -565)
+
+
+ Grobb
+
+ Garklog
+
+
+
+  (502, -207)
+
+
+ Grobb
+
+ Ungia
+
+
+
+  (684, -447)
+
+
+ Halas
+
+ Jil McDaniel
+
+
+
+  (325, -289)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (6, 897)
+
+
+ Western Plains of Karana
+
+ Sera McMannus
+
+
+
+  (-4011, -2222)
+
+
+ Qeynos Hills
+
+ Mira Sayer
+
+
+
+  (1404, 307)
+
+
+ Surefall Glade
+
+ Frannie
+
+
+
+  (-43, 12)
+
+
+ Skyshrine
+
+ Barkeep Droz
+
+
+
+  (492, -654)
+
+
+ Steamfont Mountains
+
+ Oren Furdenbline
+
+
+
+  (-1623, 429)
+
+
+ Thurgadin
+
+ Wevil Doughbeard
+
+
+
+  (-287, 134)
+
+
+ Thurgadin
+
+ Brimgald Brightsteel
+
+
+
+  (-439, 101)
+
+
+ Neriak Foreign Quarter
+
+ Ungia
+
+
+
+  (-203, -279)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Large Lantern (Trivial: 68)
+
+
+
+
+

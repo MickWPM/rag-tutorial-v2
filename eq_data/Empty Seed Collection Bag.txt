@@ -1,0 +1,30 @@
+ITEM NAME: Empty Seed Collection Bag
+
+Velious Era (added December 2000-2001)
+
+
+Empty Seed Collection Bag
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Weight Reduction: 0%
+Capacity: 8  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Friend of the Tunarean Court
+ Crest of the Wood Nymphs Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

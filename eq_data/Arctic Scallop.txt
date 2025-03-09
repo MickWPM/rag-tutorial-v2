@@ -1,0 +1,43 @@
+ITEM NAME: Arctic Scallop
+
+Velious Era (added December 2000-2001)
+
+Arctic Scallop
+
+
+This is a meal!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Shellcracker's Seaside Salad (Trivial: 180)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Cobalt Scar
+ Crystal Caverns
+ Eastern Wastes
+ Great Divide
+ Iceclad Ocean
+ Kael Drakkel
+ Skyshrine
+ Thurgadin
+
+

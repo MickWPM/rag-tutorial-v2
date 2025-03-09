@@ -1,0 +1,39 @@
+ITEM NAME: Club of the Ice Ocean
+
+Velious Era (added December 2000-2001)
+
+
+
+Club of the Ice Ocean
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 27
+DMG: 14
+Effect:  Frost Strike (Combat, Casting Time: Instant) Level 51
+STR: +3  HP: +10
+Required level of 51.
+WT: 3.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Lodizals Bone Club 
+
+  Drops From 
+Iceclad Ocean
+
+ Lodizal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

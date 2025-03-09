@@ -1,0 +1,35 @@
+ITEM NAME: Rabid Chokidai Fang
+
+Chardok Revamp Era (added late 2001)
+
+Rabid Chokidai Fang
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 29
+DMG: 14 
+Effect: Injected Poison I (Combat, Casting Time: Instant) at Level 49
+WT: 3.0  Size: SMALL
+Class: BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Deathfang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

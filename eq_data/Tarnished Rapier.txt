@@ -1,0 +1,39 @@
+ITEM NAME: Tarnished Rapier
+
+Classic Era (added 1999-2000)
+
+
+Tarnished Rapier
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 29
+DMG: 4 
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 20)
+ Yield: Tarnished Rapier x1
+ In Forge:
+
+
+  1 x Rusty Rapier - Bought, Quested, Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

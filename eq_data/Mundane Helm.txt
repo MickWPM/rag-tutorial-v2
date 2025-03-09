@@ -1,0 +1,31 @@
+ITEM NAME: Mundane Helm
+
+Paineel Era (added February 2000)
+
+
+Mundane Helm
+
+
+LORE ITEM NO DROP
+AC：5
+WT：5.5 Size: MEDIUM
+Class: CLR
+Race: HUM ERU
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Fright
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

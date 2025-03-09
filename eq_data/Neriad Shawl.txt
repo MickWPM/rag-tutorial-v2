@@ -1,0 +1,41 @@
+ITEM NAME: Neriad Shawl
+
+Velious Era (added December 2000-2001)
+
+
+
+ Savasan models the p99 green server first Neriad Shawl.
+Neriad Shawl
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 2
+STR: -10  DEX: +5  STA: -8  CHA: +25  INT: +10
+SV COLD: +5
+Effect:  Illusion: Water Elemental (Must Equip, Casting Time: 4.0) at Level 25
+WT: 1.0  Size: SMALL
+Class: BRD ENC
+Race: HUM ERU ELF HIE DEF HEF GNM
+
+
+For a discussion on acquiring this item see [1] 
+
+  Drops From 
+Siren's Grotto
+
+ a neriad maiden
+ a neriad mistress
+ a neriad sea princess
+ a neriad weaver
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+

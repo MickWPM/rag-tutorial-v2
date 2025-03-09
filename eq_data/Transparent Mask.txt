@@ -1,0 +1,36 @@
+ITEM NAME: Transparent Mask
+
+Sky Era (added January 2000)
+
+
+Transparent Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+Charges: 15
+AC: 4
+STR: +6  DEX: +8
+SV MAGIC: +7
+Effect:  Invisibility (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.4  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. Replaced by Crystal Mask. Recharges with Class Three Mana Battery. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Cunning
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Kejaar Totem
+
+
+Kejaar Totem
+
+
+MAGIC ITEM  LORE ITEM
+Charges: 5
+Effect:  Spirit of Cat (Any Slot, Casting Time: Instant)
+WT: 1.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ First Test of Kejaar
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

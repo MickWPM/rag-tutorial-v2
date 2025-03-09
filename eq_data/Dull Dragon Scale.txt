@@ -1,0 +1,33 @@
+ITEM NAME: Dull Dragon Scale
+
+Sky Era (added January 2000)
+
+
+Dull Dragon Scale
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Turn into Sirran the Lunatic on Island six of Plane of Sky to obtain the key to get to Island 7, Key of Scale. 
+
+  Drops From 
+Plane of Sky
+
+ Bazzt Zzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Plane of Sky Keys
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

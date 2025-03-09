@@ -1,0 +1,27 @@
+ITEM NAME: Withered Manisi Leaf
+
+Chardok Revamp Era (added late 2001)
+Withered Manisi Leaf
+
+
+TEMPORARY
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+Summoned by the effect on Small Manisi Plant. These can be used like Bandages. Summoned with the Harvest Leaves spell. Were only temporary for a short time until changed to no drop. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

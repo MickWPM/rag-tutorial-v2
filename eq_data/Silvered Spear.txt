@@ -1,0 +1,43 @@
+ITEM NAME: Silvered Spear
+
+Classic Era (added 1999-2000)
+
+
+Silvered Spear
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 27
+DMG: 7 
+WT: 7.0  Size: LARGE
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Silvered Spear x1
+ In Forge:
+
+
+  1 x Enchanted Sheet Metal - Crafted
+  1 x Enchanted Silver Bar - Summoned
+  1 x Oak Shaft - Bought
+  1 x Spear Head Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

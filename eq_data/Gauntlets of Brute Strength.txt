@@ -1,0 +1,34 @@
+ITEM NAME: Gauntlets of Brute Strength
+
+Kunark Era (added 2000)
+
+Gauntlets of Brute Strength
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 5
+STR: +8
+WT: 2.5  Size: MEDIUM
+Class: WAR
+Race: HUM BAR ELF DEF HEF TRL OGR
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ Joojooga
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Finely Crafted Velium Ring
+
+Velious Era (added December 2000-2001)
+
+Finely Crafted Velium Ring
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+AC: 2
+STA: +3  AGI: +3  HP: +15
+SV FIRE: +8
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  The ring chills your blood 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an enraged shadow beast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

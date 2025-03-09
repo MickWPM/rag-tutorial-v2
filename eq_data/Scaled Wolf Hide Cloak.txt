@@ -1,0 +1,38 @@
+ITEM NAME: Scaled Wolf Hide Cloak
+
+Kunark Era (added 2000)
+
+Scaled Wolf Hide Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 3
+SV FIRE: +2  SV COLD: +2
+WT: 1.3  Size: TINY
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak courier
+
+Warsliks Woods
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

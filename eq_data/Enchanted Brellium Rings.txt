@@ -1,0 +1,39 @@
+ITEM NAME: Enchanted Brellium Rings
+
+
+
+Enchanted Brellium Rings
+
+
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 104)
+ Yield: Enchanted Brellium Rings x2
+ In Forge:
+
+
+  1 x Dwarven Ale - Bought
+  1 x Enchanted Lrg. Brick of Brellium - Summoned
+  1 x File - Crafted 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Brellium Jointing (Trivial: 106)
+
+
+
+
+

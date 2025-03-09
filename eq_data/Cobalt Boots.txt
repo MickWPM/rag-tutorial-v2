@@ -1,0 +1,35 @@
+ITEM NAME: Cobalt Boots
+
+Kunark Era (added 2000)
+
+Cobalt Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 25
+Effect:  Strength of the Kunzar (Must Equip, Casting Time: 10.0) at Level 45
+WT: 6.5  Size: MEDIUM
+Class: WAR
+Race: ALL except IKS
+
+
+Part of the Cobalt Armor set. 
+ Merchant resale value: 326pp 4s 
+
+  Drops From 
+Karnor's Castle
+
+ caller of Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

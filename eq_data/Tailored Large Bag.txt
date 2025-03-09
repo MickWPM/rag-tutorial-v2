@@ -1,0 +1,34 @@
+ITEM NAME: Tailored Large Bag
+
+
+Tailored Large Bag
+
+
+QUEST ITEM
+WT: 0.8  Weight Reduction: 10%
+Capacity: 6  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 41)
+ Yield: Tailored Large Bag x1
+ In Loom:
+
+
+  1 x Low Quality Bear Skin - Crafted, Dropped
+  1 x Silk Cord - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

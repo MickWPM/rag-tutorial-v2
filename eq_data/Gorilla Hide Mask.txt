@@ -1,0 +1,33 @@
+ITEM NAME: Gorilla Hide Mask
+
+
+Gorilla Hide Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 3
+STR: +2  CHA: -8  AGI: +3
+WT: 0.9  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kerra Island
+
+ Lord Gongo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

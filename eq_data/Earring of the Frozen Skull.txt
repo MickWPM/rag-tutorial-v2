@@ -1,0 +1,35 @@
+ITEM NAME: Earring of the Frozen Skull
+
+Velious Era (added December 2000-2001)
+
+Earring of the Frozen Skull
+
+
+MAGIC ITEM  LORE ITEM
+Slot: EAR
+Charges: 4
+AC: 4
+MANA: +40
+SV FIRE: +4  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+Effect: Divine Aura (Must Equip, Casting Time: 1.0)
+WT: 0.1  Size: SMALL
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+Can be recharged for less than 1 plat with vendor recharging method. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #10: Ring of Dain Frostreaver IV
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

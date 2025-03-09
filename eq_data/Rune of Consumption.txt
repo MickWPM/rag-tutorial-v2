@@ -1,0 +1,32 @@
+ITEM NAME: Rune of Consumption
+
+
+Rune of Consumption
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors for around 1pp 
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~29 mob
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Nullify Magic (Trivial: 96)
+
+
+
+
+

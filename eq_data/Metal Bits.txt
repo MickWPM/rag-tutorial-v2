@@ -1,0 +1,51 @@
+ITEM NAME: Metal Bits
+
+Classic Era (added 1999-2000)
+
+Metal Bits
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+ Innoruuk Symbol Quests
+
+  Player crafted 
+ Blacksmithing (Trivial: 21)
+ Yield: Metal Bits x2
+ In Forge:
+
+
+  2 x Small Piece of Ore
+  1 x Water Flask
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ File (Trivial: 21)
+ Studs (Trivial: 41)
+ Muffin Tin (Trivial: 35)
+ Pie Tin (Trivial: 35)
+ Bread Tin (Trivial: 40)
+ Cake Round (Trivial: 38)
+ Skewers (Trivial: 115)
+ more
+
+
+ Pottery
+ Unfired Muffin Tin (Trivial: 122)
+
+
+
+
+

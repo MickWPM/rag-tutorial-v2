@@ -1,0 +1,33 @@
+ITEM NAME: Veil of the Watcher
+
+GM Event item (info)
+
+
+Veil of the Watcher
+
+
+MAGIC ITEM  LORE ITEM  NO TRADE
+Slot: FACE
+AC: 5
+STR: +3 DEX: +7 CHA: +4
+Effect:  Ultravision (Worn)
+WT: 1.0  Size: SMALL
+Class: RNG
+Race: ALL
+
+
+Rangers that participated in a GM event (Cleansing of the Karana's) were given these. http://everquest.allakhazam.com/db/item.html?item=2679 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

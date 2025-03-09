@@ -1,0 +1,34 @@
+ITEM NAME: Polished Steel Dirk
+
+Classic Era (added 1999-2000)
+
+Polished Steel Dirk
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 8 
+WT: 1.5  Size: SMALL
+Class: WAR SHD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Qeynos Aqueducts
+
+ a spectre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

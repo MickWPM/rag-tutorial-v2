@@ -1,0 +1,33 @@
+ITEM NAME: Cougarskin Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+
+Cougarskin Sleeves
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 6
+DEX: +3  STA: +3  WIS: +3
+WT: 1.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cougarskin Sleeves Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

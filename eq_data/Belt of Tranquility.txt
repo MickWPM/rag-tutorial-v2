@@ -1,0 +1,40 @@
+ITEM NAME: Belt of Tranquility
+
+Sky Era (added January 2000)
+
+
+Belt of Tranquility
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 4
+STR: +5  DEX: +5
+SV COLD: +5
+Haste: +21%  
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit princess
+ Protector of Sky
+ Sister of the Spire
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

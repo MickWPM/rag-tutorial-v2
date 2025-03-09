@@ -1,0 +1,35 @@
+ITEM NAME: Shield of Shadows
+
+Velious Era (added December 2000-2001)
+
+Shield of Shadows
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 15
+INT: +6  MANA: +20
+SV MAGIC: +12
+WT: 6.0  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Narmak Berreka
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

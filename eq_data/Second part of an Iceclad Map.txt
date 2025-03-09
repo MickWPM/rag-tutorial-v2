@@ -1,0 +1,33 @@
+ITEM NAME: Second part of an Iceclad Map
+
+Velious Era (added December 2000-2001)
+
+
+Second part of an Iceclad Map
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ Stormfeather
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Map
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

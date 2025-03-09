@@ -1,0 +1,31 @@
+ITEM NAME: Curscale Leggings
+
+Kunark Era (added 2000)
+
+Curscale Leggings
+
+
+Slot: LEGS
+AC: 4
+SV COLD: +2
+WT: 0.7  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Curscale Armor Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

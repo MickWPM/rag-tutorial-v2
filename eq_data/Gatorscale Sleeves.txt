@@ -1,0 +1,34 @@
+ITEM NAME: Gatorscale Sleeves
+
+Classic Era (added 1999-2000)
+
+Gatorscale Sleeves
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 6
+INT: +4  HP: +15
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Upper Guk
+
+ an ancient croc
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

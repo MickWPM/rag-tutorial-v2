@@ -1,0 +1,38 @@
+ITEM NAME: Studded Belt
+
+Classic Era (added 1999-2000)
+
+Studded Belt
+
+
+Slot: WAIST
+AC: 4
+WT: 0.8  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: All except DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 56)
+ Yield: Studded Belt x1
+ In Loom:
+
+
+  1 x Belt Pattern - Bought
+  1 x Medium Quality Cat Skin - Crafted, Quested, Dropped
+  2 x Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

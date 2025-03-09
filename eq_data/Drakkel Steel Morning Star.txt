@@ -1,0 +1,45 @@
+ITEM NAME: Drakkel Steel Morning Star
+
+Velious Era (added December 2000-2001)
+Drakkel Steel Morning Star
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 9 
+WT: 10.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Costs about 70 plat 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Kael Drakkal
+
+ Wevek Redforge
+
+
+
+  (255,849)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

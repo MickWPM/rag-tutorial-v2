@@ -1,0 +1,32 @@
+ITEM NAME: Worn Felt Tunic*
+
+Classic Era (added 1999-2000)
+
+
+Worn Felt Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.8  Size: SMALL
+Class: CLR PAL
+Race: GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Abbey of Deep Musing Cleric
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

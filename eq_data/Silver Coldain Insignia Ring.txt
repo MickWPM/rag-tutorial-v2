@@ -1,0 +1,35 @@
+ITEM NAME: Silver Coldain Insignia Ring
+
+Velious Era (added December 2000-2001)
+
+
+Silver Coldain Insignia Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 2
+STR: +2
+SV MAGIC: +2
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+This is the 2nd ring. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #3: Gold Coldain Insignia Ring
+ Coldain Ring #2: Silver Coldain Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

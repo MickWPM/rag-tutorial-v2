@@ -1,0 +1,33 @@
+ITEM NAME: Barbed Legplates
+
+
+Barbed Legplates
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 8
+AGI: +2
+WT: 6.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Befallen
+
+ a shadowknight (Dark Elf Female)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

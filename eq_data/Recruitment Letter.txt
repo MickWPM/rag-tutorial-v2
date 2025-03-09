@@ -1,0 +1,36 @@
+ITEM NAME: Recruitment Letter
+
+Classic Era (added 1999-2000)
+
+
+Recruitment Letter
+
+
+The Note is rolled up.
+NO TRADE
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Emerald Warriors
+ Guild Summons - Stormguard 
+
+  Book contents 
+Emerald Warriors
+The Emerald Warriors is now recruiting strong, able bodied elves for service. Please turn in this Recruitment Letter to Master Regren to enlist.
+Stormguard
+The Stormguard are now recruiting. To join, give this note to Furtog Ogrebane. He will train you well.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

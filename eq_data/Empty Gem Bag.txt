@@ -1,0 +1,29 @@
+ITEM NAME: Empty Gem Bag
+
+Classic Era (added 1999-2000)
+
+
+Empty Gem Bag
+
+
+LORE ITEM  NO DROP
+WT: 0.6  Weight Reduction: 0%
+Capacity: 8  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bones of Darak Lightforge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

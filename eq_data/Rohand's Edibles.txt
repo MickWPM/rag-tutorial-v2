@@ -1,0 +1,187 @@
+ITEM NAME: Rohand's Edibles
+
+Classic Era (added 1999-2000)
+Rohand's Edibles
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Gator Rolls
+Also known as "Double Zinger Rolls" because of the bold blend of spice and sting. The unwary
+often freak out upon tasting, but everyone agrees it eventually grows on you.
+Ingredients: Alligator Meat and Wasp Wings
+Cooking Instructions: Slice raw alligator meat into thin strips. Place wasp wings on gator strips
+and roll tightly into a long tube. Cut tube into segments and serve lukewarm.
+Tastes great with: Shark Fillet and Ale
+Shark Rolls
+Not to be confused with Gator Rolls, Shark Rolls are a surprisingly mild delicacy.
+Ingredients: Shark Meat and Bat Wings
+Cooking Instructions: Slice raw shark meat into thin strips. Place bat wings on shark strips and
+roll tightly into a long tube. Cut tube into segments and serve cold.
+Tastes great with: Lion Steaks and Ale
+Fish Head Soup
+This gooey gumbo uses only the choicest part of the fish. Nicknamed "Heads-up Soup" because of the old
+fishermen's game of watching to see which head surfaces first!
+Ingredients: Fish, Jug of Sauces, Flask of Water, 1 Pot
+Cooking Instructions: Remove heads from fish and drop into a pot of water. Add sauces and
+boil without stirring. Remove from heat as soon as fish heads float to the top. Serve piping hot.
+Tastes great with: Beer Braised Gator and Bog Juice
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

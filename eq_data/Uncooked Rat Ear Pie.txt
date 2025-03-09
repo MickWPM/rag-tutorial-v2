@@ -1,0 +1,41 @@
+ITEM NAME: Uncooked Rat Ear Pie
+
+
+
+Uncooked Rat Ear Pie
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rat Ear Pie Quest
+
+  Player crafted 
+ Baking (Trivial: 28)
+ Yield: Uncooked Rat Ear Pie x1
+ In Oven:
+
+
+  1 x Baking Spirits - Bought
+  1 x Cup of Flour - Bought
+  2 x Rat Ears - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ Baking (Trivial: 142)
+
+  Rat Ear Pie
+
+
+
+
+

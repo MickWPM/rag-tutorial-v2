@@ -1,0 +1,35 @@
+ITEM NAME: Eyerazzia
+
+
+
+Eyerazzia
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 24
+DMG: 10 
+DEX: +5  STA: +4
+WT: 2.5  Size: MEDIUM
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a scareling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

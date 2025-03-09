@@ -1,0 +1,35 @@
+ITEM NAME: Rowyl's Chestguard of Nature
+
+Velious Era (added December 2000-2001)
+
+
+Rowyl's Chestguard of Nature
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 20
+STR: +5  CHA: +4  WIS: +14  HP: +30  MANA: +80
+SV DISEASE: +5  SV COLD: +5  SV MAGIC: +7
+Effect:  Regrowth of the Grove (Must Equip, Casting Time: 9.0) at Level 45?
+WT: 3.5  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+Can't be used by level 39 druid when could be used at level 5.  Blue Server Nov 2020 patch. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid's Velium Tunic
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Staff of Temperate Flux
+
+Temple Era (added October 1999)
+ The Staff of Temperate Flux is a popular 1 handed weapon that wizards use as an instant clickie to range pull and prep mobs for Quadding.
+Staff of Temperate Flux
+
+
+MAGIC ITEM LORE ITEM NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 6 
+Effect:   LowerElement I (Any Slot/Can Equip, Casting Time: Instant) at Level 20
+SV FIRE +5 SV COLD +5 
+WT: 4.0  Size: LARGE
+Class: WIZ
+Race: HUM ERU HIE DEF GNM 
+
+
+ Item Lore (from Identify):  Staff of Temperate Flux
+Note: The spell effect actually appears as "LowerElement I" in game. Can only be clicked by wizards. 
+Immensely useful item for Wizards, not only for the resist debuff, but also for quickly pulling mobs from a distance without stopping. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Staff of Temperate Flux Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

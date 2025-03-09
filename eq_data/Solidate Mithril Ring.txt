@@ -1,0 +1,37 @@
+ITEM NAME: Solidate Mithril Ring
+
+Sky Era (added January 2000)
+
+
+Solidate Mithril Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+Charges: 3
+AC: 4
+STR: +5  INT: +5  AGI: +6  MANA: +50
+Effect:  Steelskin (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: TINY
+Class: WIZ
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Conception
+
+Rechargeable in Sky with Mana Battery Class One  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

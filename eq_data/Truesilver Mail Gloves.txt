@@ -1,0 +1,35 @@
+ITEM NAME: Truesilver Mail Gloves
+
+Kunark Era (added 2000)
+
+Truesilver Mail Gloves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 12
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL RNG BRD ROG
+Race: ALL except TRL OGR
+
+
+
+ Merchant resale value: 70p 
+
+  Drops From 
+Kaesora
+
+ Warder of Xalgoz
+ Skeletal Minion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

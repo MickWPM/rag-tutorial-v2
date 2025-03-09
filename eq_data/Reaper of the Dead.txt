@@ -1,0 +1,40 @@
+ITEM NAME: Reaper of the Dead
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+
+
+Reaper of the Dead
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Charges: 1
+Skill: 2H Slashing  Atk Delay: 40
+DMG: 12 
+STR: +4
+Effect:  Complete Heal (Any Slot, Casting Time: Instant)
+WT: 13.0  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+The one charge of complete heal can be cast from inventory by any class, and can be cast on target.
+The vendor-recharge cost of this item was increased in the April 2020 nerf to 10500 platinum. See Guide to Recharging Items.
+This has a level restriction, unsure of what lvl its usable. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Thex Mallet Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Bracers of Forbidden Rites
+
+Velious Era (added December 2000-2001)
+ Myni models the Bracers of Forbidden Rites (custom version).
+Bracers of Forbidden Rites
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 15
+WIS: +2  AGI: +5  HP: +35
+SV FIRE: +2
+Effect:  Abundant Food (Must Equip, Casting Time: 10.0) at level 3
+WT: 3.5  Size: SMALL
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Velium Bracers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ Male Dark Elf
+
+
+
+

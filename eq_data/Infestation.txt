@@ -1,0 +1,39 @@
+ITEM NAME: Infestation
+
+Velious Era (added December 2000-2001)
+
+
+
+
+Infestation
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 9 
+DEX: +6
+SV POISON: +20
+Effect:  Poison (Combat, Casting Time: Instant) at Level 1
+WT: 3.0  Size: SMALL
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ Vilefang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Mr. Secretary wielding an Infestation in his main hand.
+

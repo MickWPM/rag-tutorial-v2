@@ -1,0 +1,35 @@
+ITEM NAME: Teacher's Syllabus
+
+Velious Era (added December 2000-2001)
+
+
+Teacher's Syllabus
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE
+WIS: +3  INT: +3  MANA: +20
+SV POISON: +20
+WT: 0.5  Size: SMALL
+Class: CLR SHM NEC WIZ MAG ENC
+Race: ALL except BAR ELF HEF TRL OGR
+
+
+ Item Lore (from Identify): Thrown paper is grounds for expulsion 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an angry librarian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

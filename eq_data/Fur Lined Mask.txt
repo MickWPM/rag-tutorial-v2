@@ -1,0 +1,34 @@
+ITEM NAME: Fur Lined Mask
+
+Kunark Era (added 2000)
+
+Fur Lined Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 1
+STR: +4  HP: +20
+WT: 0.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Timorous Deep
+
+ Halara
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

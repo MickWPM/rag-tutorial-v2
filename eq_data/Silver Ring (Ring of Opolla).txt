@@ -1,0 +1,41 @@
+ITEM NAME: Silver Ring (Ring of Opolla)
+
+Classic Era (added 1999-2000)
+
+
+Silver Ring (Ring of Opolla)
+
+
+Slot: FINGER
+WIS: +1  CHA: -1
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Ring of Opolla
+Used for the Paw of Opolla quest. Distinguished from an ordinary silver ring by the fact that it is MAGIC, LORE, and has the stats CHA: -1, WIS: +1. 
+Also sits in the bottom of the lake in Blackburrow, which is substantially easier than either of the above methods. 
+
+  Drops From 
+Befallen
+
+ Gynok Moltor
+
+Kerra Island
+
+ High Priestess Mitty
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shiny Rings
+ Paw of Opolla Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

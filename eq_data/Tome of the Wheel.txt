@@ -1,0 +1,171 @@
+ITEM NAME: Tome of the Wheel
+
+
+
+Tome of the Wheel
+
+
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tarton's Wheel 
+
+  Book contents 
+THE WHEEL OF TARTON
+
+TARTON HAD A WHEEL
+THAT ONCE HE BUILT
+TEN SPOKES TO WOOD
+BOUND BY A STAR
+
+TARTON HAD A WHEEL
+TO ROAM THE PLANES
+SHAPED TWICE BY ICE
+TO GUIDE HIS WAY
+
+TARTON HAD A WHEEL
+THAT ONCE HE LOST
+CLASH IN THE SKY
+TO EARTH HE FELL
+
+TARTON HAD A WHEEL
+WAS SUNDERED PAST
+THE PIECES SCATTERED
+ACROSS THE WORLD
+
+AZIA
+
+In the crossing
+Of the waters
+Rests a ship
+On its side
+
+Drowned sailors
+Swim around it
+Past this ship
+The Azia lies.
+
+BEZA
+
+In the land
+Of wind and snow
+This stream of water
+Does not flow
+
+Below the ice
+Upon dry land
+The Beza rests
+Held by no hand
+
+CAZA
+
+In the Lake of Rathe
+An island looms
+It hides a treasure
+In its womb
+
+A stone tower
+Protected sleeps
+Those who guard it
+Can not weep 
+
+DENA
+
+A cauldron stews
+But does not boil
+Its edges rock
+Not dirt or soil
+
+Inside the cauldron
+Lurks a door
+The Dena lies
+Some paces score
+
+ENA
+
+Once Trolls did live
+Within these halls
+Then vengeance struck
+Their might did fall
+
+A well of water
+Upside down
+The Ena rests
+Yet does not drown
+
+FANA
+
+The tears of Marr
+A pool do make
+Two towers stand
+Within this lake
+
+In one tower
+Guarded high
+The Fana dreams
+Of sleeping dry
+
+GEZA
+
+Upon the mountain
+Through the pass
+The Tiger Roars
+With eyes of glass
+
+The Tiger sees
+The waters fall
+Geza is held
+Under its thrall
+
+HEDA
+
+Under this city
+Upon the coast
+Tunnels stretch
+And secrets boast
+
+Two dark pits
+Within the ground
+Fins circle Heda
+Round and round
+
+IZAH
+
+Under the Mountain
+Where the sunless mass
+The Blind Fish swims
+With eyes of glass
+
+The Blind Fish sees
+Through azure haze
+The Izah rests
+Within its gaze
+
+JAKA
+
+Upon this house
+Was laid a Doom
+Its owners rise
+From beyond the tomb
+
+Now sunken is
+A Dwarven crest
+Where the Jaka lies
+But can not rest
+
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

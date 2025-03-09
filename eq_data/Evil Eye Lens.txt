@@ -1,0 +1,34 @@
+ITEM NAME: Evil Eye Lens
+
+
+Evil Eye Lens
+
+
+MAGIC ITEM  LORE ITEM
+Charges: 20
+Effect:  Glimpse (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Clan Runnyeye
+
+ an Evil Eye prisoner
+ Borxx
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Telescope
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

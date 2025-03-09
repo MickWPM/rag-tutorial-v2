@@ -1,0 +1,34 @@
+ITEM NAME: Vein Worm
+
+Kunark Era (added 2000)
+
+
+Vein Worm
+
+
+This is a meal!
+WT: 0.3  Size: TINY
+Class: ALL
+Race: ALL
+
+
+No known classic use? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Lake of Ill Omen
+
+

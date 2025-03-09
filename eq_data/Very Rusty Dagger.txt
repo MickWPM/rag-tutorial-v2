@@ -1,0 +1,47 @@
+ITEM NAME: Very Rusty Dagger
+
+Velious Era (added December 2000-2001)
+
+
+Very Rusty Dagger
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 12 
+STR: +10
+SV DISEASE: -10
+Effect: Disease Cloud (Combat, Casting Time: Instant)
+WT: 6.0  Size: SMALL
+Class: SHD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Very Rusty Dagger x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Black Throne - Dropped
+  A White Throne - Dropped
+  A Black Crown - Dropped
+  A White Crown - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

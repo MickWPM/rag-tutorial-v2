@@ -1,0 +1,34 @@
+ITEM NAME: Prismatic Sphere
+
+Sky Era (added January 2000)
+
+
+
+Prismatic Sphere
+
+
+LORE ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Stealth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

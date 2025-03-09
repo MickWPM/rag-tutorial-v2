@@ -1,0 +1,76 @@
+ITEM NAME: Small Raw-Hide Belt
+
+Classic Era (added 1999-2000)Were you looking for Large Raw-Hide Armor Set? Were you looking for Raw-Hide Armor Set?
+
+Small Raw-hide Belt
+
+
+Slot: WAIST
+AC: 3
+WT: 1.2  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Raw-Hide Armor Set. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 85 and faction at Amiably
+
+ 0 Platinums
+ 6 Golds
+ 7 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ an aqua goblin
+ an orc oracle
+ an orc scoutsman
+
+Mistmoore Castle
+
+ a glyphed familiar
+ a pledge familiar
+ an initiate familiar
+
+Crushbone
+
+ Emperor Crush
+ orc oracle
+ orc trainer
+ orc warlord
+ royal guard
+ The Prophet
+
+Dagnor's Cauldron
+
+ an orc scout
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lavastorm Mountains
+
+ a fire goblin
+ a fire goblin scout
+ a fire goblin warrior
+ a fire goblin wizard
+ Hykallen
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

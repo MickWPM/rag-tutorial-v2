@@ -1,0 +1,38 @@
+ITEM NAME: Strathbone Silk
+
+Kunark Era (added 2000)
+
+
+Strathbone Silk
+
+
+LORE ITEM  NO DROP
+EXPENDABLE  Charges: 1
+Effect: Light Healing (Any Slot, Casting Time: Instant)
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kaesora
+
+ Frenzied Strathbone
+ strathbone healer
+ Strathbone Runelord
+ strathbone spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Beguile Plants
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Infused Platinum Thread
+
+Classic Era (added 1999-2000)
+
+
+
+Infused Platinum Thread
+
+
+WT: 0.1  Size: SMALL Class: ALL Race: ALL
+
+
+Used to make Leatherfoot Haversack (post-luclin?). Does this really exist on P99? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 142)
+ Yield: Infused Platinum Thread x1
+ In Vale Forge:
+
+
+  1 x Celestial Temper - Crafted
+  1 x Platinum Thread - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

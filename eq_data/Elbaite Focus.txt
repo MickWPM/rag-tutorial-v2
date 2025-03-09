@@ -1,0 +1,32 @@
+ITEM NAME: Elbaite Focus
+
+Velious Era (added December 2000-2001)
+
+
+Elbaite Focus
+
+
+MAGIC ITEM LORE ITEM NO TRADE 
+Charges: 5
+Effect: Identify (Any Slot, Casting Time: 0.0)(Level 1)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Velium Focus
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

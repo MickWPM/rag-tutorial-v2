@@ -1,0 +1,39 @@
+ITEM NAME: Black Alloy Medallion
+
+Stonebrunt Era (added summer 2001)
+
+Black Alloy Medallion
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 6
+WIS: +5  INT: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Emits a very large light radius comparable to a Greater Lightstone.
+
+
+
+
+  Drops From 
+Clan Runnyeye
+
+ a Pickclaw Slayspell
+ a Pickclaw Destroyer
+ Battlelord Paluk
+ Battlewizard Unak
+ Lord Pickclaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

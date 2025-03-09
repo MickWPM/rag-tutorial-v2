@@ -1,0 +1,34 @@
+ITEM NAME: Aegis of Ice
+
+Velious Era (added December 2000-2001)
+Aegis of Ice
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 25
+STR: +5  WIS: +8  INT: +8
+SV COLD: +50
+WT: 5.0  Size: MEDIUM
+Class: CLR PAL SHD
+Race: ALL
+
+
+ Item Lore (from Identify): Shield of Kings 
+
+  Drops From 
+Icewell Keep
+
+ Dain Frostreaver IV
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

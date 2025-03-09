@@ -1,0 +1,38 @@
+ITEM NAME: Chetari Bonecrafted Shield
+
+Velious Era (added December 2000-2001)
+
+
+
+Chetari Bonecrafted Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: BACK SECONDARY
+AC: 19
+SV FIRE: +10
+WT: 6.5  Size: LARGE
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari hoarder
+ a Chetari hunter
+ Warmaster Utvara
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,117 @@
+ITEM NAME: Jade Shard
+
+
+Jade Shard
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 75 and faction at Indifferently
+
+ 7 Platinums
+ 5 Golds
+ 0 Silvers
+ 5 Coppers
+ 
+  Drops From 
+Clan Runnyeye
+
+ a goblin warlord
+
+Kerra Isle
+
+ a gorilla protector
+
+The Estate of Unrest
+
+ a carrion ghoul
+
+Everfrost Peaks
+
+ a wooly mammoth
+
+Lake of Ill Omen
+
+ a goblin warrior
+ charbone skeleton
+ goblin warlord
+ icebone skeleton
+
+Mistmoore Castle
+
+ a glyphed guard
+ a glyphed warder
+ a grinning gargoyle
+ a pledge familiar
+ a sneering gargoyle
+ an initiate familiar
+
+Najena
+
+ a tentacle terror
+
+Ocean of Tears
+
+ a gargoyle
+ Sister of Erollisi
+
+Lake of Ill Omen
+
+A sarnak recruit
+An isle goblin
+
+Qeynos Aqueducts
+
+ Omorb
+
+South Qeynos
+
+ Vicus Nonad
+
+Solusek's Eye
+
+ Blazing Elemental
+
+Southern Desert of Ro
+
+ a deepwater crocodile
+
+Swamp of No Hope
+
+ froglok shin shaman
+
+The Feerrott
+
+ a gorilla
+
+Warsliks Woods
+
+ a skulking brute
+ goblin spirit caller
+ Grachnist the Destroyer
+ a forest giant sapling
+
+Gorge of King Xorbb
+
+ a chasm minotaur
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Lesser Summoning: Fire (Trivial: 41)
+ Summoning: Fire (Trivial: 62)
+
+
+
+
+

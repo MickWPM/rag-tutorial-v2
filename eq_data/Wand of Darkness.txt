@@ -1,0 +1,33 @@
+ITEM NAME: Wand of Darkness
+
+
+Wand of Darkness
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 4
+Effect:  Cascading Darkness (Any Slot/Can Equip, Casting Time: Instant) at Level 45
+WT: 1.0  Size: SMALL
+Class: NEC
+Race: ALL except BAR TRL OGR
+
+
+Added in January 2014[1] 
+
+  Drops From 
+Plane of Fear
+
+ a nightmare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

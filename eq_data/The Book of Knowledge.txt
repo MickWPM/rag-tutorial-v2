@@ -1,0 +1,29 @@
+ITEM NAME: The Book of Knowledge
+
+
+
+The Book of Knowledge
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Doesn't appear to be an actual book (no readable contents), what is the point of this? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Restraining Order
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

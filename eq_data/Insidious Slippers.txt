@@ -1,0 +1,36 @@
+ITEM NAME: Insidious Slippers
+
+Hate Era (added November 1999)
+
+
+Insidious Slippers
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 4
+CHA: +3  AGI: +10  HP: +15
+SV POISON: +10
+WT: 0.7  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a forsaken revenant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

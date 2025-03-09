@@ -1,0 +1,33 @@
+ITEM NAME: Dragonbane Herb
+
+Velious Era (added December 2000-2001)
+
+Dragonbane Herb
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a coldspine seahorse
+ Fellspine
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Porlos' Fury Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

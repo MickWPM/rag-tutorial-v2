@@ -1,0 +1,38 @@
+ITEM NAME: CLASS 1 Wood Silver Tip Arrow
+
+Classic Era (added 1999-2000)
+CLASS 1 Wood Silver Tip Arrow
+
+
+Slot: AMMO
+DMG: 3
+WT: 0.1  Range: 50 / 75 / 100  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 182)
+ Yield: CLASS 1 Silver Tip Arrow x5
+ In Fletching Table:
+
+
+  1 x Silver Tipped Arrowheads - Crafted, Bought
+  1 x Bundled Wooden Arrow Shafts - Bought
+  1 x Several Round Cut Fletchings - Bought
+  1 x Large Groove Nocks / Medium Groove Nocks / Small Groove Nocks - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

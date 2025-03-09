@@ -1,0 +1,45 @@
+ITEM NAME: Shrouds of Earthen Shadow
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+GM Event item (info)
+
+
+Shrouds of Earthen Shadow
+
+
+MAGIC ITEM LORE ITEM ARTIFACT NO TRADE
+Slot: CHEST
+Charges: Unlimited
+AC: 20
+DEX: +12 INT: +20 MANA: +100
+SV DISEASE: +13 SV POISON: +13
+Effect: Gather Shadows
+WT: 3.0 Size: MEDIUM
+Class: NEC
+Race: HUM ERU GNM IKS
+
+
+Obtained during a GM event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

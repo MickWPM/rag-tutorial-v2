@@ -1,0 +1,31 @@
+ITEM NAME: Dusty Burlap Shirt
+
+Velious Era (added December 2000-2001)
+
+
+Dusty Burlap Shirt
+
+
+QUEST ITEM
+Slot: CHEST
+AC: 4
+WT: 0.8  Size: MEDIUM
+Class: ALL
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

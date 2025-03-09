@@ -1,0 +1,36 @@
+ITEM NAME: Amstaf's Scroll
+
+Warrens Era (added spring 2001)
+
+
+Amstaf's Scroll
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+High Keep
+
+ a crazed goblin
+ a goblin
+ A Goblin Thief
+ a pickclaw visionary
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Sword of Nobility
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

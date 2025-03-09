@@ -1,0 +1,35 @@
+ITEM NAME: Large Scorpion Pincer
+
+Kunark Era (added 2000)
+
+
+Large Scorpion Pincer
+
+
+NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Stackable. 
+
+  Drops From 
+Field of Bone
+
+ a large scorpion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Geozite Tool Quest
+ Shackle of Clay
+ Necro Spells
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Ancient Wyvern Hide Tunic
+
+Velious Era (added December 2000-2001)
+Ancient Wyvern Hide Tunic
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 40
+DEX: +20  STA: +10  HP: +50
+SV DISEASE: +10  SV POISON: +10
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Prior to Velious Stat Upgrade 
+
+  Drops From 
+Temple of Veeshan
+
+ Ikatiar the Venom
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

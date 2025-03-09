@@ -1,0 +1,37 @@
+ITEM NAME: Blazing Helm of Fennin Ro
+
+Kunark Era (added 2000)
+
+
+Blazing Helm of Fennin Ro
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 14
+CHA: +5  INT: +5 AGI: +5
+SV FIRE: +10
+Effect: Column of Fire (Must Equip, Casting Time: 7.0)
+WT: 4.5  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Nagafen's Lair
+
+ Zordakalicus Ragefire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

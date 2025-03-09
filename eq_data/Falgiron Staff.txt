@@ -1,0 +1,74 @@
+ITEM NAME: Falgiron Staff
+
+Velious Era (added December 2000-2001)
+
+
+Falgiron Staff
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 11 
+INT: +12  MANA: +45
+SV FIRE: +8  SV COLD: +8
+Effect:  Tashani (Combat, Casting Time: Instant)
+WT: 6.0  Size: LARGE
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ A Shambling Cube
+ Dalshim Fe`Dhar
+ Deoryn Fe`Dhar
+ Dygwyn Fe`Dhar
+ Dyr Fe`Dhar
+ Elder Hajnix
+ Elder Kajind
+ Elder Kalur
+ Eldriaks Fe`Dhar
+ Elyshum Fe`Dhar
+ Glydoc Fe`Dhar
+ Jualicn
+ Kalacs Fe`Dhar
+ Laoch Ealkiq
+ Laoch Zalbryn
+ Lawyla
+ Lignark
+ Medry Fe`Dhar
+ Morachii Fe`Dhar
+ Oct Velic
+ Oglard
+ Placlis
+ Poalgin Fe`Dhar
+ Qalcnic Fe`Dhar
+ Quadrix Velic
+ Ralgyn
+ Riran Fe`Dhar
+ Taegria Fe`Dhar
+ Talgixn Fe`Dhar
+ Talnifs
+ Talon Velic
+ Tonvan Fe`Dhar
+ Tri Velic
+ Tyddyn Fe`Dhar
+ Vellyn Fe`Dhar
+ Vobryn Fe`Dhar
+ Zaldin Fe`Dhar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

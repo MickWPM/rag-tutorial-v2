@@ -1,0 +1,61 @@
+ITEM NAME: Mist Wolf Pelt
+
+
+Mist Wolf Pelt
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1g 9c 
+
+  Drops From 
+Mistmoore Castle
+
+ a blood wolf
+
+Eastern Plains of Karana
+
+ a silvermist wolf
+ a war wolf
+
+Lesser Faydark
+
+ a mist wolf
+
+Nektulos Forest
+
+ a shadow wolf
+
+Northern Karana
+
+ a silvermist wolf
+
+West Freeport
+
+ a gray wolf
+
+Western Plains of Karana
+
+ a mist wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+Poison Vial
+Lined Poison Vial
+Sealed Poison Vial
+
+
+
+
+

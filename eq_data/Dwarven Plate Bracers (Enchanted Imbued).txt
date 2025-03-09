@@ -1,0 +1,45 @@
+ITEM NAME: Dwarven Plate Bracers (Enchanted Imbued)
+
+
+Dwarven Plate Bracers
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 13
+STR: +4  STA: +4  WIS: +2
+SV FIRE: +1
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL
+Race: DWF HFL GNM
+Deity: Brell Serilis
+
+
+This is the imbued, deity restricted version of Enchanted Dwarven Plate Bracers. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 235)
+ Yield: Dwarven Plate Bracers x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Enchanted Brellium Jointing - Crafted
+  1 x Enchanted Folded Brellium Sheet - Crafted
+  1 x Imbued Ruby - Summoned
+  1 x Leather Padding - Crafted
+  1 x Small Plate Bracer Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

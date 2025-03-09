@@ -1,0 +1,41 @@
+ITEM NAME: Ancient Tarnished Breastplate
+
+Velious Era (added December 2000-2001)
+
+Ancient Tarnished Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+WT: 15.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ a fiery temple guardian
+ a lava dancer
+ an elder temple defender
+ an emerald sky defender
+ an onyx sky drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Kael Breastplate
+ Warrior Kael Breastplate
+ Shadowknight Kael Breastplate
+ Paladin Kael Breastplate
+ Cleric Kael Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

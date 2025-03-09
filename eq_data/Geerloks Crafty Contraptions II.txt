@@ -1,0 +1,89 @@
+ITEM NAME: Geerloks Crafty Contraptions II
+
+
+
+Geerloks Crafty Contraptions II
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Geerlok's Crafty Contraptions II
+The alchemy set should help any aspiring alchemist in their ability to create useful potions. Using a
+base model of ingredients (gears, sprockets, gnomish bolts) then fitting it onto the vials the basic set is
+created. Maneater roots	are added to help enchant the vials.
+ALCHEMY SET
+
+ One set of gears
+ One set of sprockets
+ One set of gnomish bolts
+ One set of vials
+ One piece of Maneater Roots
+
+The clockwork contraption should be every gnomes best friend! Using it will help you to place gears into any
+project you are working on. Fitting the base model onto a set of contraption parts and then using some
+waterlogged rigging as a pulley system, the contraption will begin to whir and buzz to life.
+CLOCKWORK CONTRAPTION
+
+ One set of gears
+ One set of sprockets
+ One set of gnomish bolts
+ One set of contraption parts
+ One waterlogged rigging
+
+For the gnomes of Ak'Anon I dedicated the automated pestle! With it the pestle will stir inside of the
+mortar automatically making the poisons easier to create. Taking the base model and adding it on top
+of a pestle, and then using scorpion venom glands to enchant it the contraption is created.
+AUTOMATED PESTLE
+
+ One set of gears
+ One set of sprockets
+ One set of gnomish bolts
+ One galvanized pestle
+ One scorpion venom gland
+
+Finally, for the casters of Ak'Anon I dedicate the automated quill. Studying and scribing spells can be
+a long and arduous process. With the automated quill some of the writing can be accomplished automatically
+making the process easier. Fitting the base model over a silver tipped quill, and then feeding the lexicon
+excerpts into the reader the quill will know exactly what to write!
+AUTOMATED QUILL
+
+ One set of gears
+ One set of sprockets
+ One set of gnomish bolts
+ One set of lexicon excerpts
+ One silver tipped quill
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Enchanted Block of Brellium
+
+
+
+Enchanted Block of Brellium
+
+
+WT: 2.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 100)
+ Yield: Enchanted Block of Brellium x1
+ In Forge:
+
+
+  1 x Dwarven Ale - Bought
+  3 x Enchanted Lrg. Brick of Brellium - Summoned 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Folded Brellium Sheet (Trivial: 44)
+
+
+
+
+

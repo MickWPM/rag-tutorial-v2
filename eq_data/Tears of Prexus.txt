@@ -1,0 +1,43 @@
+ITEM NAME: Tears of Prexus
+
+Were you looking for Spell:Tears of Prexus?
+
+Tears of Prexus
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Various Zones
+Timorous Deep
+
+a Vicious Raptor
+
+The Wakening Land
+
+A Faerie Dragon
+
+
+
+ Random drop from level ~44-49 mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Conjuration: Water (Trivial: 162)
+ Greater Conjuration: Water (Trivial: >182)
+
+
+
+
+

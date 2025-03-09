@@ -1,0 +1,64 @@
+ITEM NAME: Shadowed Book
+
+Classic Era (added 1999-2000)
+
+Shadowed Book
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY  
+Slot: PRIMARY SECONDARY
+AC: 5
+WT: 1.5  Size: MEDIUM
+Class: NONE
+Race: ALL
+
+
+
+
+  Drops From 
+West Commonlands
+
+ a shadowed man
+
+Innothule Swamp
+
+ a shadowed man
+
+Kithicor Forest
+
+ a shadowed man
+
+Lavastorm Mountains
+
+ a shadowed man
+
+Lesser Faydark
+
+ a shadowed man
+
+Nektulos Forest
+
+ a shadowed man
+
+Plane of Hate
+
+ an Evangelist of Hate (Hate 2.0)
+
+Southern Karana
+
+ a shadowed man
+
+NOTE - A shadowed man carrying an open book does not determine whether this item will drop or not. It can drop with an open or closed book.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Words of Darkness Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

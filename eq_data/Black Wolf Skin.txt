@@ -1,0 +1,47 @@
+ITEM NAME: Black Wolf Skin
+
+
+Black Wolf Skin
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Commonlands
+
+ a black wolf
+
+Eastern Plains of Karana
+
+ a silvermist wolf
+
+Greater Faydark
+
+ a black wolf
+
+Misty Thicket
+
+ a black wolf
+
+Nektulos Forest
+
+ a black wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Supplies
+ Black Wolf Skin Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

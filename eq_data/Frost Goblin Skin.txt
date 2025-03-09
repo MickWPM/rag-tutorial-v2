@@ -1,0 +1,35 @@
+ITEM NAME: Frost Goblin Skin
+
+
+
+Frost Goblin Skin
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 7
+SV COLD: +5
+WT: 3.5  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Permafrost Keep
+
+ an elite goblin guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Robe of the Elements Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

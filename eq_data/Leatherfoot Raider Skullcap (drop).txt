@@ -1,0 +1,39 @@
+ITEM NAME: Leatherfoot Raider Skullcap (drop)
+
+Classic Era (added 1999-2000)
+
+
+Leatherfoot Raider Skullcap (drop)
+
+
+Slot: HEAD
+AC: 4
+WT: 0.5  Size: SMALL
+Class: WAR CLR PAL RNG DRU ROG
+Race: HFL
+
+
+ There are two items with identical names. This one drops from halflings in Nektulos (AC 4) and is for the Halfling Raider Helms quest. The other is the Rivervale quest reward.   
+
+  Drops From 
+Cannix
+Forley
+Bink
+Initiate Abber
+Leatherfoot Sergeant
+Leatherfoot Scout
+Initiate Hart
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Halfling Raider Helms
+ Innoruuk Recommendation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Cobalt Cod
+
+Velious Era (added December 2000-2001)
+
+Cobalt Cod
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained by Fishing in Cobalt Scar. (10.3% Catch Rate @ 200 Skill [106 in 1025 attempts]) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Cod Oil (Trivial: 68)
+
+
+
+
+

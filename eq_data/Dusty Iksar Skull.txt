@@ -1,0 +1,34 @@
+ITEM NAME: Dusty Iksar Skull
+
+Kunark Era (added 2000)
+
+
+Dusty Iksar Skull
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Howling Stones
+
+ an undertaker skeleton
+ a helot spirit
+ a helot spectre
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

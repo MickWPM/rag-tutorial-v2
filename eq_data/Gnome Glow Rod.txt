@@ -1,0 +1,29 @@
+ITEM NAME: Gnome Glow Rod
+
+Classic Era (added 1999-2000)
+Gnome Glow Rod
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+WT: 0.3  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scrap Metal Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

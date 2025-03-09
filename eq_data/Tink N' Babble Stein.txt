@@ -1,0 +1,35 @@
+ITEM NAME: Tink N' Babble Stein
+
+Kunark Era (added 2000)
+Tink N' Babble Stein
+
+
+LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 39
+DMG: 5
+CHA: +1
+WT: 1.0 Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Apparently Useless? 
+
+  Drops From 
+East Cabilis
+
+ Himart Kichith
+ Clerk Doval
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

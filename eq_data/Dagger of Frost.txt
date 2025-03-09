@@ -1,0 +1,45 @@
+ITEM NAME: Dagger of Frost
+
+Kunark Era (added 2000)
+
+Dagger of Frost
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 30
+DMG: 12 
+INT: +4
+SV COLD: +20
+Effect:  Shock of Ice (Combat, Casting Time: Instant) at Level 20
+WT: 2.0  Size: SMALL
+Class: WIZ
+Race: ALL
+
+
+
+
+  Drops From 
+Kaesora
+
+ Briarweb Spider
+ Bristleweb Spider
+ Frenzied Strathbone
+ Strathbone Healer
+ Strathbone Runelord
+ strathbone spider
+
+ Fashion
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

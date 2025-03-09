@@ -1,0 +1,34 @@
+ITEM NAME: Moss Mask
+
+
+Moss Mask
+
+
+MAGIC ITEM
+Slot: FACE
+Charges: 10
+AC: 2
+Effect:  Enduring Breath (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Upper Guk
+
+ a froglok idealist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

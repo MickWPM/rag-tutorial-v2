@@ -1,0 +1,70 @@
+ITEM NAME: Elven Blood
+
+Classic Era (added 1999-2000)
+
+Elven Blood
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Najena
+
+a magician
+a necromancer
+Najena_(NPC)
+
+Crushbone
+
+ an elven slave (female)
+ an elven slave (male)
+ an elven slave (wood elf, female)
+ an elven slave (wood elf, male)
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+
+Lesser Faydark
+
+ Bryn Fynndel
+ Cylas Delbrin
+ Faril Elvebryn
+ Galwyn Geldin
+ Glyndur Tindel
+ Gundel Elorion
+ Mywyn Tinendel
+ Sarawyn Amorfin
+ Vynn Thrildur
+
+Ocean of Tears
+
+ Antinime
+ Sister of Erollisi
+
+South Kaladim
+
+ Kilam Oresinger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Blood Temper (Trivial: 135)
+ Shadow Temper (Trivial: 135)
+
+
+
+
+

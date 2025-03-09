@@ -1,0 +1,106 @@
+ITEM NAME: Robe Pattern
+
+
+
+Robe Pattern
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (761, 146)
+
+
+ The Feerrott
+
+ Murga
+
+
+
+  (1129, -138)
+
+
+ East Freeport
+
+ Winsa Tanner
+
+
+
+  (38, -539)
+
+
+ Neriak Commons
+
+ Garren D`Vek
+
+
+
+  (-4, -996)
+
+
+ Oggok
+
+ Gretamog
+
+
+
+  (627, 693)
+
+
+ Western Plains of Karana
+
+ Cleet Miller
+
+
+
+  (-2253, -4128)
+
+
+ Thurgadin
+
+ Kyla Frostbeard
+
+
+
+  (-113, 230)
+
+
+ Thurgadin
+
+ Cobi Frostbeard
+
+
+
+  (-114, 219)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+
+
+
+

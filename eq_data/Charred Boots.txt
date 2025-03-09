@@ -1,0 +1,35 @@
+ITEM NAME: Charred Boots
+
+
+Charred Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 6
+AGI: +3
+SV FIRE: +5  SV POISON: +5
+WT: 5.5  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+
+ Merchant resale value: 3.2pp. 
+
+  Drops From 
+Solusek's Eye
+
+ inferno goblin captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

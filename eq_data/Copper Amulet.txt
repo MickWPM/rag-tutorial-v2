@@ -1,0 +1,205 @@
+ITEM NAME: Copper Amulet
+
+
+Copper Amulet
+
+
+Slot: NECK
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Befallen
+
+ a necro neophyte
+
+Beholder's Maze
+
+ a goblin lookout
+ a goblin sentry
+ a goblin veteran
+
+Blackburrow
+
+ Refugee Splitpaw
+
+Butcherblock Mountains
+
+ a goblin
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+The Estate of Unrest
+
+ a dark terror
+
+Field of Bone
+
+ an Iksar footpad
+
+Greater Faydark
+
+ a bandit
+ a pixie trickster
+
+Innothule Swamp
+
+ a troll slayer
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a fae drake
+ a fae drake hatchling
+ a faerie maiden
+ a pixie prankster
+ a pixie trickster
+
+Misty Thicket
+
+ orc oracle
+
+Ocean of Tears
+
+ an isle goblin warrior
+
+Steamfont Mountains
+
+ a kobold scout
+ a lesser ebon drake
+ an earth elemental
+ Bugglegupp
+
+West Commonlands
+
+ an air elemental
+ Kizdean Gix
+
+Warrens
+
+ a pack elder
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ Taxes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

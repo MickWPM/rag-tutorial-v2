@@ -1,0 +1,42 @@
+ITEM NAME: Cobalt Drake Leggings
+
+Velious Era (added December 2000-2001)
+
+Cobalt Drake Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 9
+CHA: +3  MANA: +25
+SV COLD: +8
+WT: 4.0  Size: MEDIUM
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Cobalt Drake Leggings x1
+ In Loom:
+
+
+  1 x Cobalt Drake Hide - Dropped
+  1 x Drake Egg Oil - Crafted
+  1 x Pant Pattern - Bought
+  3 x Velium Boning - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

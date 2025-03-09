@@ -1,0 +1,32 @@
+ITEM NAME: Green and Tan Tunic*
+
+Classic Era (added 1999-2000)
+
+
+Green and Tan Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 1.0  Size: MEDIUM
+Class: DRU
+Race: ELF HEF
+
+
+This item is Given as a quest reward for turning in the note to Heartwood Master when you first start. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Soldiers of Tunare
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

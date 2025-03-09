@@ -1,0 +1,34 @@
+ITEM NAME: Singing Steel Helm
+
+Kunark Era (added 2000)
+
+Singing Steel Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 21
+Effect:  Eye of Zomm (Must Equip, Casting Time: 8.0) at Level 45
+WT: 6.0  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+Part of the Singing Steel armor set. 
+
+  Drops From 
+Old Sebilis
+
+ Froggy
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

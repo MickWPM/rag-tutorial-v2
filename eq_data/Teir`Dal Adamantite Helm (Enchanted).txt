@@ -1,0 +1,44 @@
+ITEM NAME: Teir`Dal Adamantite Helm (Enchanted)
+
+Were you looking for Teir`Dal Adamantite Helm?
+Were you looking for Teir`Dal Adamantite Helm (Imbued)?
+
+Teir`Dal Adamantite Helm
+
+
+Slot: HEAD
+AC: 14
+STR: +2  INT: +4  AGI: +4  MANA: +5
+WT: 2.4  Size: SMALL
+Class: WAR CLR SHD BRD
+Race: DEF HEF
+
+
+Part of the dark elf cultural smithing armor sets.
+Prices on this page are not accurate. All 3 versions share the same name, thus prices are intermixed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 207)
+ Yield: Teir`Dal Adamantite Helm x1
+ In Teir`Dal Forge:
+
+
+  1 x Enchanted Adamantite Jointing - Crafted
+  2 x Enchanted Folded Adamantite Sheet - Crafted
+  1 x Leather Padding - Crafted
+  1 x Shadow Temper - Crafted
+  1 x Small Plate Helm Mold - Bought
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

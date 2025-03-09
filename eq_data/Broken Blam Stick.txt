@@ -1,0 +1,34 @@
+ITEM NAME: Broken Blam Stick
+
+Velious Era (added December 2000-2001)
+
+Broken Blam Stick
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 40
+DMG: 30 
+WT: 1.0  Size: MEDIUM
+Class: NONE
+Race: ALL
+
+
+See Blam Stick.
+
+ Item Lore (from Identify): It appears to be broken 
+ Merchant resale value: ~4.8pp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

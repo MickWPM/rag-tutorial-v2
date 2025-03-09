@@ -1,0 +1,51 @@
+ITEM NAME: Runed Bolster Belt
+
+Classic Era (added 1999-2000)
+
+Runed Bolster Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 5
+STR: +10  DEX: +10  STA: +10
+Haste: +31%  
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dreadlands
+
+ Gorenaire
+
+Emerald Jungle
+
+ Severilous
+
+Permafrost
+
+ Lady Vox
+
+Skyfire Mountains
+
+ Talendor
+
+Timorous Deep
+
+ Faydedar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

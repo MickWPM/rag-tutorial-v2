@@ -1,0 +1,212 @@
+ITEM NAME: Wristguard of Distraction
+
+Velious Era (added December 2000-2001)
+
+
+Wristguard of Distraction
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 19
+STR: +3  WIS: +3  INT: +3  HP: +35  MANA: +35
+WT: 0.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+ Plane of Mischief Armor Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Wristguard of Distraction x1
+ In  Deck of Spontaneous Generation:
+
+
+  A White Throne - Dropped
+  A Black Throne - Dropped
+  A White Crown - Dropped
+  A White Knight - Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Plane of Mischief Armor: Wrist x1
+ In  Empty Pot of Gold:
+
+
+  1 x Wristguard of Distraction - Crafted
+  1 x The Gift Box Doll - Crafted
+
+
+
+
+
+
+ Plane of Mischief Armor Result 
+ Doll 
+ Class
+
+
+ Crazy Cleric Wrist GuardCrazy Cleric Wrist Guard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 23
+STR: +5  WIS: +5  MANA: +40
+SV MAGIC: +5
+WT: 2.0  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+ Crazy Cleric Doll 
+ Cleric
+
+
+ Twisted Nature BracerTwisted Nature Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+DEX: +5  WIS: +5  HP: +20
+SV DISEASE: +5  SV POISON: +5
+WT: 1.0  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+ Twisted Druid Doll 
+ Druid
+
+
+ Monkey Hide Wrist GuardMonkey Hide Wrist Guard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STR: +5  DEX: +5  WIS: +5  HP: +20
+SV FIRE: +5  SV POISON: +5
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+ Mad Monkey Doll 
+ Monk
+
+
+ Shamanistic Shenannigan BracerShamanistic Shenannigan Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 16
+DEX: +5  WIS: +5  HP: +20
+SV DISEASE: +5  SV POISON: +5
+WT: 2.0  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+ Shamanistic Shenannigan Doll 
+ Shaman
+
+
+ Maleficent BracerMaleficent Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+DEX: +4  STA: +4  INT: +4  HP: +20  MANA: +5
+SV MAGIC: +5
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+ Maleficent Necromancer Doll 
+ Necromancer
+
+
+ Wily Warlock BracerWily Warlock Bracer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 6
+DEX: +5  INT: +5  HP: +5  MANA: +25
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 0.1  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ Wily Warlock Doll 
+ Wizard
+
+
+ Sly Summoners WristguardSly Summoners Wristguard
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 6
+INT: +5  AGI: +5  HP: +10  MANA: +10
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+WT: 0.3  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ Sly Summoner Doll 
+ Magician
+
+
+ Mischievous Dazzler BracerMischievous Dazzler Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+DEX: +5  INT: +5  HP: +10  MANA: +20
+SV FIRE: +5  SV COLD: +5
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ A Mischievous Dazzler Doll 
+ Enchanter
+
+
+

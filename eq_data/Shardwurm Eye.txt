@@ -1,0 +1,38 @@
+ITEM NAME: Shardwurm Eye
+
+Velious Era (added December 2000-2001)
+
+Shardwurm Eye
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE SECONDARY
+DEX: +3  INT: +5
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 12.1p 
+
+  Drops From 
+Great Divide
+
+ an ancient shardwurm
+ a crystaline shardwurm
+ an elder shardwurm
+ a young shardwurm
+ shardwurm matriarch
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

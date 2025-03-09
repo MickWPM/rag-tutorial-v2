@@ -1,0 +1,346 @@
+ITEM NAME: Lapis Lazuli
+
+
+Lapis Lazuli
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors for 8 silver. 
+
+  Drops From 
+East Karana
+
+ a griffawn (rare)
+
+Butcherblock Mountains
+
+ a goblin wizard
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+
+Field of Bone
+
+ an Iksar footpad
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+ a faerie maiden
+ a pixie trickster
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a brownie outcast
+ a fae drake hatchling
+ a faerie maiden
+ a pixie prankster
+ a pixie trickster
+
+Steamfont Mountains
+
+ a lesser ebon drake
+ Bugglegupp
+
+Swamp of No Hope
+
+ a froglok fisher
+
+Toxxulia Forest
+
+ A Kobold Sentry
+
+West Commonlands
+
+ Kizdean Gix
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Tika Shockstep
+
+
+
+  (917, 721)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+  Felwithe (South)
+
+ Merchant Tyslin
+
+
+
+  (396, -4)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Egasia Reenix
+
+
+
+  (119, 301)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ West Freeport
+
+ Zasrin Blueflame
+
+
+
+  (148, -763)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+  Related quests 
+ Emerald Warriors' Items
+ Tinmizer's Fabulous Compactor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Lapis Lazuli Necklace (Trivial: 21)
+ Electrum Lapis Lazuli Earring (Trivial: 76)
+ Gold Lapis Lazuli Earring (Trivial: 148)
+ Platinum Lapis Lazuli Necklace (Trivial: 220)
+
+
+ Spell Research
+ Practice Rune (Azia) (Trivial:21)
+
+
+
+
+

@@ -1,0 +1,113 @@
+ITEM NAME: Wolf Meat
+
+
+Wolf Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 60 and faction at Indifferent
+
+ 0 Platinums
+ 0 Golds
+ 0 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Mistmoore Castle
+
+ a blood wolf
+
+Commonlands
+
+ a black wolf
+ a shadow wolf
+
+Eastern Plains of Karana
+
+ a dark stalker
+ a gorge hound
+ a silvermist wolf
+ a war wolf
+
+Everfrost Peaks
+
+ a white wolf
+
+Greater Faydark
+
+ a black wolf
+
+Lesser Faydark
+
+ a mist wolf
+
+Misty Thicket
+
+ a black wolf
+
+Nektulos Forest
+
+ a black wolf
+ a shadow wolf
+
+Northern Karana
+
+ Ashenpaw
+
+Northern Desert of Ro
+
+ a coyote
+ a jackal
+
+Permafrost
+
+ a dire pup
+ a dire wolf
+ a giant dire wolf
+
+Qeynos Hills
+
+ a gray wolf
+
+Southern Karana
+
+ a shadow wolf
+
+Southern Desert of Ro
+
+ a jackal
+
+West Freeport
+
+ a gray wolf
+
+Western Plains of Karana
+
+ a black wolf
+ a mist wolf
+ a shadow wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wolf Meat for Wista
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Wolf Sandwich (Trivial: 31)
+ Wolf Steaks (Trivial: 41)
+ Beer Braised Wolf (Trivial: 68)
+
+
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Froglok Treated Planks
+
+Kunark Era (added 2000)
+
+
+Froglok Treated Planks
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ a froglok repairer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Vambraces
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

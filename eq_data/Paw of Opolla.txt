@@ -1,0 +1,33 @@
+ITEM NAME: Paw of Opolla
+
+Classic Era (added 1999-2000)
+
+Paw of Opolla
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+AC: 9
+STA: +5  CHA: -5  WIS: +9  AGI: +9  MANA: +5
+SV DISEASE: -5
+WT: 0.2  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paw of Opolla Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

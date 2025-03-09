@@ -1,0 +1,42 @@
+ITEM NAME: Ancient Tarnished Plate Boots
+
+Velious Era (added December 2000-2001)
+
+
+Ancient Tarnished Plate Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+WT: 6.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ a fiery temple guardian
+ a lava dancer
+ an elder temple defender
+ an emerald sky defender
+ an onyx sky drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Kael Boots
+ Warrior Kael Boots
+ Shadowknight Kael Boots
+ Paladin Kael Boots
+ Cleric Kael Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

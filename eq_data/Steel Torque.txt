@@ -1,0 +1,80 @@
+ITEM NAME: Steel Torque
+
+Classic Era (added 1999-2000)
+
+Steel Torque
+
+
+Slot: NECK
+AC: 3
+WT: 0.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 1 Platinums
+ 2 Golds
+ 0 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Commonlands
+
+ a hill giant
+
+Eastern Plains of Karana
+
+ a hill giant
+ Tarbul Earthstrider
+
+Everfrost Peaks
+
+ an ice giant
+
+Rathe Mountains
+
+ a hill giant
+
+Western Plains of Karana
+
+ a hill giant
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Halas
+
+ Rosin MacGrove
+
+
+
+  (164, 406)
+
+
+ Halas
+
+ Jac MacGrove
+
+
+
+  (198, 407)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

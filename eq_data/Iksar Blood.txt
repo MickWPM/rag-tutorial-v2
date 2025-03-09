@@ -1,0 +1,53 @@
+ITEM NAME: Iksar Blood
+
+Kunark Era (added 2000)
+
+Iksar Blood
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crypt of Dalnir
+
+ an Iksar prisoner
+ a coerced Iksar
+ a coerced smith
+ smoldering goo
+
+Field of Bone
+
+ Kerosh Blackhand
+
+Mines of Nurga
+
+ an iksar slave
+
+Old Sebilis
+
+ an iksar necromancer
+
+Warsliks Woods
+
+ Iksar Bandit Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Scale Temper (Trivial: 135)
+
+
+
+
+

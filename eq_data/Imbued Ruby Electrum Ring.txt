@@ -1,0 +1,38 @@
+ITEM NAME: Imbued Ruby Electrum Ring
+
+
+
+Imbued Ruby Electrum Ring
+
+
+Slot: FINGER
+STR: +4  STA: +2  AGI: -2  WIS: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Brell Serilis
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Ruby Electrum Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Electrum Bar - Summoned
+  1 x Imbued Ruby - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

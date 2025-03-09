@@ -1,0 +1,63 @@
+ITEM NAME: The End of an Age
+
+Classic Era (added 1999-2000)
+
+The End of an Age
+
+
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a reanimated hand
+
+Lower Guk
+
+ a reanimated hand
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555,749)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Friend, Know this. At the end of the Combine Era, after Tsaph Katta had died,
+Seru sent his minions out to renew his Inquisition. This brought great torment
+and wailing to many. The Inquisition was dispersed when they attacked
+the Circle of Light. Although the battle left no survivors, the Circle of
+Light succeeded in holding back the enemy while their loved ones fled. Out of
+respect, the enchanters' descendants divided their Tomes, so all could have
+proof of their exaltation. We must not forget the great Tasarian, Velishoul
+and other Circle members. Honor them by reassembling their tomes!
+Try to find sections of the enchanters' tomes to piece together an entire spell.
+Some of the pages may be faded but with careful research they can be
+restored to their prior glory.
+It is rumored that some spells were so large that they had to span two or more pages.
+
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

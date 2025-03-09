@@ -1,0 +1,43 @@
+ITEM NAME: Words of Imitation
+
+
+Words of Imitation
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 4g 2s 2c 
+
+  Drops From 
+Various Zones
+Lower Guk
+
+ a zol ghoul knight
+
+Everfrost Peaks
+
+ a wooly mammoth
+
+
+
+ Random drop from level ~16-20 mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Feign Death (Trivial: 26)
+ Shadow Vortex (Trivial: 46)
+
+
+
+
+

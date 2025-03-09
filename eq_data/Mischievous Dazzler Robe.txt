@@ -1,0 +1,35 @@
+ITEM NAME: Mischievous Dazzler Robe
+
+ Server First Mischievous Dazzler Robe - Entia <Divinity> - Server Third Mischievous Dazzler Robe - Shoneys <Taken>
+
+
+Mischievous Dazzler Robe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 22
+STR: +5  CHA: +15  INT: +15  HP: +50  MANA: +80
+SV FIRE: +10  SV COLD: +10  SV MAGIC: +10
+WT: 0.5  Size: MEDIUM
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,27 @@
+ITEM NAME: Note to Niclaus
+
+Classic Era (added 1999-2000)
+
+
+Note to Niclaus
+
+
+NO DROP  TEMPORARY  QUEST ITEM
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Putrid Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

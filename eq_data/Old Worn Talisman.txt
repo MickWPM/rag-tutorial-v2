@@ -1,0 +1,33 @@
+ITEM NAME: Old Worn Talisman
+
+Velious Era (added December 2000-2001)
+
+
+Old Worn Talisman
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ Taskmaster Abyott
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ralgyn's Promise
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

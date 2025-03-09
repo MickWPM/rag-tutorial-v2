@@ -1,0 +1,37 @@
+ITEM NAME: Chocolate Marr Cherries
+
+
+Chocolate Marr Cherries
+
+
+CHA: +3
+This is a snack!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Miranda's Chocolate
+
+  Player crafted 
+ Baking (Trivial: 126)
+ Yield: Chocolate Marr Cherries x6
+ In Oven:
+
+
+  3 x Marr Cherries - Foraged
+  1 x Winter Chocolate - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: SoulFire
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+ 
+SoulFire
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Charges: 5
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 23 
+STR: +7  WIS: +7
+Effect:  Complete Heal (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+WT: 5.0  Size: LARGE
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+Anyone completing the SoulFire quest who is NOT a Paladin will recieve a SoulFire with 0 charges. [1] Non-Classic Compendium#Developer_Fiat 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Fiery Avenger
+ Zimel's Blades (SoulFire)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

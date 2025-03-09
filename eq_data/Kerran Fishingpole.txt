@@ -1,0 +1,37 @@
+ITEM NAME: Kerran Fishingpole
+
+ Kerran Fishing Pole and Tuuak's Fishing Pole
+
+
+Kerran Fishingpole
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 17
+DMG: 3 
+STR: +2
+WT: 4.0  Size: TINY
+Class: ALL except
+Race: ALL except ERU DEF
+
+
+ Item Lore (from Identify): Kerran FishingpoleThis is a weapon and not a working fishing pole. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Razortooth
+
+  See Also 
+ Fishing
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Blade core-4th fold
+
+Velious Era (added December 2000-2001)
+
+
+Blade core-4th fold
+
+
+LORE ITEM  NO DROP
+WT: 11.6  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Blacksmithing (Trivial: 171)
+ Yield: Blade core-4th fold x1
+ In Forge:
+
+
+  1 x Blade core-3rd fold - Crafted
+  1 x Forging Hammer - Bought, Quested, Dropped, Returned on Failure, Returned on Success
+  1 x Smithing Chisel - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Blade core-5th fold (Trivial: 171)
+
+
+
+
+

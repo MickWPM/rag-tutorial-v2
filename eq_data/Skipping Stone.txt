@@ -1,0 +1,35 @@
+ITEM NAME: Skipping Stone
+
+Kunark Era (added 2000)
+
+Skipping Stone
+
+
+Slot: RANGE AMMO
+Skill: Throwingv1  Atk Delay: 35
+DMG: 1
+WT: 0.5  Range: 200  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Was once bugged as an unlimited ammo item.[1] 
+
+  Drops From 
+Swamp of No Hope
+
+ a froglok skipper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Clay
+ The Restraining Order
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

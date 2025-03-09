@@ -1,0 +1,33 @@
+ITEM NAME: Small rusty key
+
+Velious Era (added December 2000-2001)
+
+
+Small rusty key
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Required level of 99.
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): 5th floor key 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Cara Omica
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

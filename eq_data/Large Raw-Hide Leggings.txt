@@ -1,0 +1,62 @@
+ITEM NAME: Large Raw-Hide Leggings
+
+Classic Era (added 1999-2000)Were you looking for Raw-Hide Armor Set? Were you looking for Small Raw-Hide Armor Set?
+
+Large Raw-hide Leggings
+
+
+Slot: LEGS
+AC: 5
+WT: 7.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+Part of the Large Raw-Hide Armor Set. 
+
+  Drops From 
+Befallen
+
+ a shadowknight (Ogre)
+
+Crushbone
+
+ Lord Darish
+
+The Estate of Unrest
+
+ a greater skeleton
+
+Everfrost Peaks
+
+ an orcish mountaineer
+ Karg IceBear
+
+Highpass Hold
+
+ a gnoll brawler
+
+Lake Rathetear
+
+ a gnoll high shaman
+
+Najena
+
+ an ogre guard
+
+Timorous Deep
+
+ a fallen deckhand
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cindl's Polar Bear Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

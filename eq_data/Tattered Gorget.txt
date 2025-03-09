@@ -1,0 +1,32 @@
+ITEM NAME: Tattered Gorget
+
+Classic Era (added 1999-2000)
+Were you looking for Large Tattered Armor Set? Were you looking for Small Tattered Armor Set?
+
+
+Tattered Gorget
+
+
+Slot: NECK
+AC: 2
+WT: 0.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Tattered Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 26) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

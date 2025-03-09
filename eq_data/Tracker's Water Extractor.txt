@@ -1,0 +1,106 @@
+ITEM NAME: Tracker's Water Extractor
+
+
+
+Tracker's Water Extractor
+
+
+LORE ITEM
+WT: 1.0  Weight Reduction: 0%
+Capacity: 2  Size Capacity: SMALL
+
+
+Creates Purified Water from a foraged item and a Purification Tablet. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Dytar
+
+
+
+  (51, -197)
+
+
+ Field of Bone
+
+ Klok Acet
+
+
+
+  (-2463, 2984)
+
+
+ Lake of Ill Omen
+
+ Klok Gnask
+
+
+
+  (6392, -6350)
+
+
+ Swamp of No Hope
+
+ Klok Migo
+
+
+
+  (2467, 2911)
+
+
+ Warsliks Woods
+
+ Klok Gragin
+
+
+
+  (-1651, -707)
+
+
+ Warsliks Woods
+
+ Klok Rogalin
+
+
+
+  (-1882, -600)
+
+
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing (Trivial: No-Fail)
+ Yield: Purified Water x3
+ In Tracker's Water Extractor:
+
+
+  1 x Purification Tablet - Bought
+  1 x Moss Root - Foraged
+
+
+ Brewing
+ Yield: Purified Water x3
+ In Tracker's Water Extractor:
+
+
+  1 x Purification Tablet - Bought
+  1 x Water Reed - Foraged
+
+
+
+
+

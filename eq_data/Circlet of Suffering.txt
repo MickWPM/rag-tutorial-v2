@@ -1,0 +1,36 @@
+ITEM NAME: Circlet of Suffering
+
+Velious Era (added December 2000-2001)
+
+
+
+Circlet of Suffering
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 20
+STR: +7  STA: +7  HP: +100 MANA: +50
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Post-upgrade stats. See discussion. 
+
+  Drops From 
+Temple of Veeshan
+
+ Telkorenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

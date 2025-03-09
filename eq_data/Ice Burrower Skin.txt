@@ -1,0 +1,36 @@
+ITEM NAME: Ice Burrower Skin
+
+
+Velious Era (added December 2000-2001)
+
+Ice Burrower Skin
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 24
+STR: +6  DEX: +8  STA: +12  AGI: +3  HP: +23
+SV COLD: +15  SV POISON: +7
+WT: 1.2  Size: MEDIUM
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Western Wastes
+
+ an ice burrower
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Giant Mosquito Wings
+
+Kunark Era (added 2000)
+
+
+Giant Mosquito Wings
+
+
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ a scourgewing mosquito
+
+Rathe Mountains
+
+ an adult bleeder (not classic?)
+ Bloodneedle (not classic?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

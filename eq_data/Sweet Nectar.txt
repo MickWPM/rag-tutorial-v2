@@ -1,0 +1,37 @@
+ITEM NAME: Sweet Nectar
+
+Sky Era (added January 2000)
+
+
+
+Sweet Nectar
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzzazzt
+ Bzzazzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Incapacitation
+ Magician Test of Displacement
+ Magician Test of Gesticulation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

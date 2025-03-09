@@ -1,0 +1,98 @@
+ITEM NAME: Flask of Bloodwater
+
+Kunark Era (added 2000)
+Flask of Bloodwater
+
+
+QUEST ITEM
+This is a drink!
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Ephmir
+
+
+
+  (129, -127)
+
+
+ East Cabilis
+
+ Klok Wyga
+
+
+
+  (450, -469)
+
+
+ Field of Bone
+
+ Klok Naman
+
+
+
+  (-2652, 3294)
+
+
+ Lake of Ill Omen
+
+ Klok Vydl
+
+
+
+  (6265, -6230)
+
+
+ Swamp of No Hope
+
+ Klok Roshin
+
+
+
+  (2428, 2951)
+
+
+ Warsliks Woods
+
+ Klok Kogrin
+
+
+
+  (-1710, -895)
+
+  Related quests 
+ Sarnak Hatchling Brains
+ The Penance
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ what recipes?
+
+
+ Brewing
+ Legion Lager (Trivial: 36)
+ Scale Temper (Trivial: 135)
+
+
+
+
+

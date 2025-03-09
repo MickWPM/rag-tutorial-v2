@@ -1,0 +1,38 @@
+ITEM NAME: Crown of the Froglok Kings
+
+Classic Era (added 1999-2000)
+
+Crown of the Froglok Kings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 12
+SV FIRE: +20  SV COLD: +20
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+This item works as a robust light source when worn. 
+ Merchant resale value: 14p 7g 6s 6c 
+
+  Drops From 
+Lower Guk
+
+ the froglok king
+
+ No Graphic
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,118 @@
+ITEM NAME: Bat Fur
+
+
+
+Bat Fur
+
+
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a bat
+
+Mistmoore Castle
+
+ a Mistmoore guard
+
+Dragon Necropolis
+
+ a carrion bat
+
+Greater Faydark
+
+ a giant bat
+
+Misty Thicket
+
+ a large bat
+
+Northern Desert of Ro
+
+ a bat
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Thurgadin
+
+ a scuttle bat
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Jeliala Glimmercharm
+
+
+
+  (507, 765)
+
+
+ Erudin Palace
+
+ Tika Shockstep
+
+
+
+  (917, 721)
+
+
+ West Freeport
+
+ Lysa Truegreen
+
+
+
+  (117, -719)
+
+
+ Oggok
+
+ Hrak
+
+
+
+  (821, 849)
+
+  Related quests 
+ Emerald Warriors' Items
+ The Package
+ Bat Fur and Beetle Legs
+ Bat Fur Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+ Fishing
+ Spell Research
+ Journeyman Rune (Azia) (Trivial: 95)
+
+
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Words of Discernment
+
+
+Words of Discernment
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 5 Golds
+ 9 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from any level ~24 mob
+
+Iceclad Ocean
+
+ a shadow guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Shadow Sight (Trivial: 71)
+
+
+
+
+

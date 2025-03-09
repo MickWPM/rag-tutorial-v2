@@ -1,0 +1,39 @@
+ITEM NAME: Exquisite Velium Battlehammer
+
+Velious Era (added December 2000-2001)
+
+Exquisite Velium Battlehammer
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 20
+DMG: 12 
+WT: 3.5  Size: LARGE
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the Exquisite Velium Weapons set. 
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari neophyte
+
+Western Wastes
+
+ Klandicar
+ Mraaka
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

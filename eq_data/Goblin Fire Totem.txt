@@ -1,0 +1,35 @@
+ITEM NAME: Goblin Fire Totem
+
+
+Goblin Fire Totem
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+MANA: +5
+SV FIRE: +10
+WT: 0.8  Size: SMALL
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Solusek's Eye
+
+ fire goblin shaman
+ inferno goblin shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crafted Helm Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

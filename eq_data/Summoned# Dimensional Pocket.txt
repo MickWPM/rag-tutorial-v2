@@ -1,0 +1,27 @@
+ITEM NAME: Summoned: Dimensional Pocket
+
+
+
+Dimensional Pocket
+
+
+TEMPORARY
+WT: 0.1  Weight Reduction: 100%
+Capacity: 4  Size Capacity: GIANT
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

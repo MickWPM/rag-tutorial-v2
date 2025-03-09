@@ -1,0 +1,44 @@
+ITEM NAME: Forged Velium Dagger
+
+Velious Era (added December 2000-2001)
+
+
+Forged Velium Dagger
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 3 
+Effect: Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 3.9  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 95)
+ Yield: Forged Velium Dagger x1
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  1 x Dagger Blade Mold - Bought
+  1 x Hilt Mold - Bought
+  1 x Pommel Mold - Bought
+  1 x Sheet of Velium - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

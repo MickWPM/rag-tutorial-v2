@@ -1,0 +1,38 @@
+ITEM NAME: Glowing Black Sword
+
+Velious Era (added December 2000-2001)
+
+Glowing Black Sword
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 9 
+DEX: +20
+Effect:  Neutralize Magic (Combat, Casting Time: Instant) at Level 45
+WT: 5.0  Size: TINY
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+Dispels the user, not the target.
+
+ Item Lore (from Identify): Spelleater the Cursed Blade 
+
+  Drops From 
+Kael Drakkel
+
+ Captain Bvellos
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

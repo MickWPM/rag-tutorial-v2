@@ -1,0 +1,39 @@
+ITEM NAME: Imbued Electrum Amber Earring
+
+
+
+Imbued Electrum Amber Earring
+
+
+MAGIC ITEM 
+Slot: EAR
+STR: +1 CHA: -2 INT: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Cazic-Thule
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: )
+ Imbued Electrum Amber Earring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Gold Bar - Summoned
+  1 x Imbued Amber - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

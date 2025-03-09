@@ -1,0 +1,35 @@
+ITEM NAME: Rakusha Cloak
+
+
+
+Rakusha Cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 10
+SV FIRE: +10  SV MAGIC: +10
+Haste: +36%  
+WT: 0.1  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Grandmaster R`Tal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

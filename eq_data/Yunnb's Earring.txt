@@ -1,0 +1,35 @@
+ITEM NAME: Yunnb's Earring
+
+Kunark Era (added 2000)
+
+Yunnb's Earring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 2
+WIS: +15  INT: +15  HP: +35  MANA: +50
+SV FIRE: +10  SV COLD: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Phara Dar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

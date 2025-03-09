@@ -1,0 +1,31 @@
+ITEM NAME: Miners Cap 628
+
+Classic Era (added 1999-2000)
+Miners Cap 628
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 3
+CHA: +2
+WT: 3.0  Size: SMALL
+Class: ROG
+Race: DWF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Miner's Cap
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

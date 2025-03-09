@@ -1,0 +1,39 @@
+ITEM NAME: Light Green Dye
+
+Classic Era (added 1999-2000)
+
+
+Light Green Dye
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Pale green dye. See also Green Dye and Dark Green Dye. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Light Green Dye x1
+ In Medium Clay Jar:
+
+
+  3 x Resin - Bought
+  1 x Evergreen Extract - Crafted 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Pale Green Fine Plate Armor (Trivial: Various)
+
+
+
+
+

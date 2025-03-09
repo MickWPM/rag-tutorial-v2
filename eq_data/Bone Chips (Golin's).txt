@@ -1,0 +1,35 @@
+ITEM NAME: Bone Chips (Golin's)
+
+Kunark Era (added 2000)
+
+
+Bone Chips
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: There are two nearly identical LORE "Bone Chips" that drop from the "thorny" lumpy goo. Both are required for the Spirit of Golin quest.
+ Item Lore (from Identify): Golin's Crushed Lower Torso
+ Item Lore (from Identify): Golin's Crushed Upper Torso 
+
+  Drops From 
+Crypt of Dalnir
+
+ lumpy goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit of Golin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

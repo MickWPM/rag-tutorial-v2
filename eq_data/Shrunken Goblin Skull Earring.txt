@@ -1,0 +1,41 @@
+ITEM NAME: Shrunken Goblin Skull Earring
+
+Kunark Era (added 2000)
+
+Shrunken Goblin Skull Earring
+
+
+MAGIC ITEM
+Slot: EAR
+AC: 3
+Effect:  Grim Aura (Must Equip, Casting Time: Instant) at Level 15
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 96 and faction at Indifferently
+
+ 4 Platinums
+ 9 Golds
+ 8 Silvers
+ 5 Coppers
+ 
+  Drops From 
+Warsliks Woods
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

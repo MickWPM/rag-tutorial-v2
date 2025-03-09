@@ -1,0 +1,29 @@
+ITEM NAME: Forager Bag
+
+Classic Era (added 1999-2000)
+
+Forager Bag
+
+
+LORE ITEM  NODROP
+WT: 1.0  Weight Reduction: 50%
+Capacity: 10  Size Capacity: MEDIUM
+
+
+ Item Lore (from Identify): Froglok Forager Bag
+Formerly subtracted weight from the player's Max WT. Patched November 2000 in the timeline.[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Emissary
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

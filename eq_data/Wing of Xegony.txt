@@ -1,0 +1,70 @@
+ITEM NAME: Wing of Xegony
+
+
+Wing of Xegony
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1p 5g 
+
+  Drops From 
+Field of Bone
+
+ The Tangrin
+
+Howling Stones
+
+ a sepulcher skeleton
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Ocean of Tears
+
+ Allizewsaur
+
+Old Sebilis
+
+ froglok bok shaman
+ froglok bok wizard
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a nightmare
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Hate
+
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+
+Old Sebilis
+
+ a sepsis scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Conjuration: Air (Trivial: 162)
+ Greater Conjuration: Air (Trivial: 182)
+
+
+
+
+

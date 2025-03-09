@@ -1,0 +1,34 @@
+ITEM NAME: Barracuda Liver
+
+Velious Era (added December 2000-2001)
+
+
+Barracuda Liver
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a coldwater barracuda
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crustacean Shell Armor
+ Captain Nalot's Triple Strength Rum
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

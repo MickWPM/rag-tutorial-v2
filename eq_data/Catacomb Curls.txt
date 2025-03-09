@@ -1,0 +1,44 @@
+ITEM NAME: Catacomb Curls
+
+
+
+Catacomb Curls
+
+
+Slot: HEAD
+AC: 1
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Freeport
+
+ Ping Fuzzlecutter
+
+
+
+  (-269, 535)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

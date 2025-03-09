@@ -1,0 +1,52 @@
+ITEM NAME: The Butcherblock Hammer
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+ NERF ALERT (see notes)
+
+
+The Butcherblock Hammer
+
+
+MAGIC ITEM LORE ITEM ARTIFACT NO TRADE
+Slot: PRIMARY
+Skill: 2H Blunt Atk Delay: 45
+DMG: 34 DMG Bonus: 113
+STR: +10 CHA: -10 WIS: +5
+Effect: Superior Healing(Combat, Casting Time: Instant)
+WT: 10.0 Size: LARGE
+Class: CLR PAL
+Race: DWF GNM
+
+
+ Item Lore (from Identify): The Relic of Brell Serilis
+Obtained during a GM event.
+
+[1][2][3]
+The Butcherblock Hammer
+The history of this wonderful weapon is cloudy and somewhat confusing. It is said to have been created by the god Brell Serilis, Lord of the Underfoot and father of the Dwarves and Gnomes, among others. But the texts go on to say that the hammer was wielded by Dagnor the Butcher, an Ogre Warlord of the Rakthokian Kingdom, and the most ambitious king the Ogres have ever had.
+During the Age of Blood, Dagnor the Butcher gathered a mighty army of ogres and attacked Kaladim with hopes of destroying the Dwarven race and claiming the riches of their mines. It seems contradictory that the creator of the Dwarven race, Brell Serilis, would craft a mighty weapon and then give it to the largest threat the dwarves have ever known. Back to the story, it is most likely that after Dagnor was defeated in the First Ogre-Dwarven War the hammer was locked up inside the depths of Kaladim and very few were aware of it's existence.
+Recently, the dark elves infiltrated Kaladim and stole the magical box, which contained the hammer. Whether they knew the contents of the box or not is a mystery, but either way the dwarves were very upset to find it missing. They recovered the box, but learnt the key was being held by the Captain of the Dark Elves.
+The King choose an adventurer to be the Champion of Kaladim and charged them with retrieving the key and returning it. Upon returning the key after defeating the Captain, the Champion was awarded the contents of the box, which was the Butcherblock Hammer. This weapon imparts strength and wisdom to it's wielder, and is fabled to heal it's owner during battle. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

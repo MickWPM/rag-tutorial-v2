@@ -1,0 +1,36 @@
+ITEM NAME: Ringed Mace of the Ykesha
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Ringed Mace of the Ykesha
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 22
+DMG: 10 
+Effect:  Ykesha (Combat, Casting Time: Instant) at Level 50
+WT: 3.9  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+No longer drops on Blue. (removed as per the classic timeline on 4/17/11 patch) No longer drops on Green. (removed as per the classic timeline on 12/08/20 patch) 
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg sentry
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

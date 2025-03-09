@@ -1,0 +1,41 @@
+ITEM NAME: Potion of unlife awareness
+
+
+Potion of Unlife Awareness
+
+
+EXPENDABLE  Charges: 1
+Effect:  Invisibility versus Undead (Any Slot, Casting Time: 3.0)
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 42)
+ Yield: Potion of Unlife Awareness x1
+ In Medicine Bag:
+
+
+  1 x Fennel - Bought
+  1 x Elderberry - Bought
+
+
+ Alchemy
+ 5 Dose Potion of Unlife Awareness
+ 10 Dose Potion of Unlife Awareness
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

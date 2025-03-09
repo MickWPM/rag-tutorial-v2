@@ -1,0 +1,37 @@
+ITEM NAME: Withered Leather Gloves
+
+Hole Era (added June 2000)
+
+
+
+Withered Leather Gloves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 5
+MANA: +35
+SV COLD: +10
+WT: 1.5  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+ Item Lore (from Identify):  Withered Leather GlovesPart of the Withered Leather Armor Set 
+
+  Drops From 
+The Hole
+
+ Niltoth the Unholy
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

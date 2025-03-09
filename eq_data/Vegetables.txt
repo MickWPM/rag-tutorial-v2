@@ -1,0 +1,42 @@
+ITEM NAME: Vegetables
+
+
+Vegetables
+
+
+This is a snack!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Brandy (Trivial: 122)
+ Vodka (Trivial: 135)
+ Ginesh (Trivial: 168)
+
+
+ Baking
+ Vegetable Pie (Trivial: 142)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Various
+ Misty Thicket
+
+

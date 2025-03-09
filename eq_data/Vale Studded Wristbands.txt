@@ -1,0 +1,39 @@
+ITEM NAME: Vale Studded Wristbands
+
+
+
+Vale Studded Wristbands
+
+
+Slot: WRIST
+AC: 5
+WT: 0.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the halfling cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 106)
+ Yield: Vale Studded Wristbands x1
+ In Vale Sewing Kit:
+
+
+  1 x Acorn Oil - Crafted
+  1 x Brute Hide - Dropped
+  2 x Studs - Crafted
+  1 x Wristband Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

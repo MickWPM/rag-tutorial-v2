@@ -1,0 +1,37 @@
+ITEM NAME: Knotted Turtlebone Ring
+
+Velious Era (added December 2000-2001)
+
+
+
+Knotted Turtlebone Ring
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+AC: 5
+STR: +3  HP: +25  MANA: +35
+Effect:  Enduring Breath (Worn)
+WT: 0.1  Size: TINY
+Class: ALL except WAR MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ Lodizal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,29 @@
+ITEM NAME: Spectacle
+
+
+
+Spectacle
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are two identically named items. One related to each quest. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Skullcap Quests ("Ryx's Spectacle")
+ Bandit Spectacles ("Karana Bandit Binder Spectacle")  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

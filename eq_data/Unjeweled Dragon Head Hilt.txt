@@ -1,0 +1,35 @@
+ITEM NAME: Unjeweled Dragon Head Hilt
+
+
+
+Unjeweled Dragon Head Hilt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  'Unjeweled Dragon Head Hilt' 
+Groundspawn on the lake floor at +2513, +920, underneath the aviak tower in Lake Rathetear. Appears as a small pouch on the lakebed similar to any other dropped item. If you can't find it, it's likely been picked up recently and needs to respawn. 
+
+  Drops From 
+Lake Rathetear
+
+ Ground Spawn
+ (+2513, +920) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

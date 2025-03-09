@@ -1,0 +1,35 @@
+ITEM NAME: Theurgist's Star
+
+
+
+Theurgist's Star
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 15 
+WIS: +10  MANA: +40
+SV DISEASE: +25  SV POISON: +25
+Effect:  Blessing of the Theurgist (Combat, Casting Time: Instant) at Level 50
+WT: 4.0  Size: MEDIUM
+Class: CLR
+Race: ALL
+
+
+Post-upgrade version of the Theurgist. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Theurgy
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

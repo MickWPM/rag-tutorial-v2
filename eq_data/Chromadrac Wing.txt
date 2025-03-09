@@ -1,0 +1,35 @@
+ITEM NAME: Chromadrac Wing
+
+
+Chromadrac Wing
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyfire Mountains
+
+ a chromadrac
+ a mature chromadrac
+ Faerie of Dismay
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Paradoxical Peptide (Trivial: 247)
+
+
+
+
+

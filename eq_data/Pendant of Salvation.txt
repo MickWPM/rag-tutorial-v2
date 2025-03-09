@@ -1,0 +1,44 @@
+ITEM NAME: Pendant of Salvation
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+ NERF ALERT (see notes)
+
+
+Pendant of Salvation
+
+
+MAGIC ITEM LORE ITEM
+Slot: NECK
+Charges: 5
+AC: 5
+AGI: +3 HP: +15
+Effect: Divine Aura
+WT: 0.0 Size: TINY
+Class: ALL
+Race: ALL
+
+
+Given out in a GM event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

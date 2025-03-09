@@ -1,0 +1,37 @@
+ITEM NAME: Matchless Dragonhorn Boots
+
+Velious Era (added December 2000-2001)
+
+Matchless Dragonhorn Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 19
+AGI: +11
+SV MAGIC: +7
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Cargalia
+ Vitaela
+ Yeldema
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Pickbringers Chainmail Coif
+
+
+
+Pickbringers Chainmail Coif
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 8
+SV MAGIC: +1
+WT: 3.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Northern Desert of Ro
+
+ an orc raider
+
+Southern Desert of Ro
+
+ an orc centurion
+ an orc cleric
+ an orc warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,206 @@
+ITEM NAME: Sculpting Tools
+
+
+
+Sculpting Tools
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork potter
+
+
+
+  (750, -173)
+
+
+ Butcherblock Mountains
+
+ Izbal Brightblaze
+
+
+
+  (-1287, -1972)
+
+
+ East Cabilis
+
+ Klok Hoga
+
+
+
+  (253, -202)
+
+
+ East Commonlands
+
+ Merra Clayfinger
+
+
+
+  (-135, 21)
+
+
+ West Freeport
+
+ Gurb Smithson
+
+
+
+  (-183, -329)
+
+
+ Greater Faydark
+
+ Merchant Legweien
+
+
+
+  (420, 373)
+
+
+ Halas
+
+ Merin
+
+
+
+  (260, 273)
+
+
+ Highpass Hold
+
+ Winn Greenbane
+
+
+
+  (-364, -124)
+
+
+ South Kaladim
+
+ Dooni
+
+
+
+  (224, -254)
+
+
+ Misty Thicket
+
+ Topper Drodo
+
+
+
+  (585, -2357)
+
+
+ Neriak Foreign Quarter
+
+ ChonChon
+
+
+
+  (147, -92)
+
+
+ Oggok
+
+ Helgara Dirtcarver
+
+
+
+  (225, 743)
+
+
+ The Overthere
+
+ Tin Merchant VI
+
+
+
+  (2614, 2557)
+
+
+ Paineel
+
+ Evus Doracmal
+
+
+
+  (996, 817)
+
+
+ Paineel
+
+ Taria Clayspinner
+
+
+
+  (994, 804)
+
+
+ Western Plains of Karana
+
+ Tarnar
+
+
+
+  (1008, -2087)
+
+
+ Southern Desert of Ro
+
+ Merchant Ulyssa
+
+
+
+  (128, 495)
+
+
+ Stonebrunt Mountains
+
+ Jaimiou Claypaws
+
+
+
+  (1391, -536)
+
+
+ Thurgadin
+
+ Gilthan Brittleblade
+
+
+
+  (-249, 134)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Pottery
+
+
+
+

@@ -1,0 +1,29 @@
+ITEM NAME: Conch Shell
+
+Classic Era (added 1999-2000)
+
+
+Conch Shell
+
+
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+No known use in classic. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Pirate Earrings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

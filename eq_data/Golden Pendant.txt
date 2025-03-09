@@ -1,0 +1,137 @@
+ITEM NAME: Golden Pendant
+
+Classic Era (added 1999-2000)
+
+Golden Pendant
+
+
+Slot: NECK
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Drop list likely incomplete. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 14 Platinums
+ 3 Golds
+ 8 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a cinder hornet
+ a forest giant ancient
+ a sarnak champion
+ a sarnak enthusiast
+ a sarnak extremist
+ a tottering gorilla
+ an ash hornet
+
+Crystal Caverns
+
+ a stalag terror
+
+Dragon Necropolis
+
+ a carrion bat
+ a dragon construct
+ an amorphous mass
+ an entropy serpent
+
+Dreadlands
+
+ a glacier yeti
+ a mountain giant steep
+ a tundra yeti
+
+Emerald Jungle
+
+ a raging gorilla
+ Erollisi mantrap
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+ mortuary fungus
+
+Firiona Vie
+
+ a drachnid webspinner
+ a drolvarg snarler
+ froglok nok shaman
+ froglok ton knight
+
+Frontier Mountains
+
+ goblin raider
+ a gorging brute
+
+Lower Guk
+
+ a reanimated hand
+
+Nagafen's Lair
+
+ fire giant warrior
+ imp protector
+ King Tranix
+
+Northern Karana
+
+ a griffenne
+ a griffon
+
+Ocean of Tears
+
+ a cyclops
+ a spectre
+
+Oasis
+
+ a spectre
+
+Rathe Mountains
+
+ a basalt drake
+ a cyclops
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a neriad maiden
+
+South Karana
+
+ aviak harrier
+ aviak avocet
+
+Steamfont Mountains
+
+ Minotaur Guard
+
+The Overthere
+
+ a Sarnak knight
+
+The Wakening Land
+
+ a geonid
+ a geonid shaman
+ a suit of sentient armor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

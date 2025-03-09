@@ -1,0 +1,33 @@
+ITEM NAME: Interrogator's Badge
+
+Stonebrunt Era (added summer 2001)
+
+
+Interrogator's Badge
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 2
+STR: +2  WIS: +2  INT: +2  AGI: +2  HP: +10  MANA: +10
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Qeynos Badge Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

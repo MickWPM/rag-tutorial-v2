@@ -1,0 +1,30 @@
+ITEM NAME: Gleaming Gloves
+
+
+
+Gleaming Gloves
+
+
+LORE ITEM
+Slot: HANDS
+WT: 1.5  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+Obtained by giving Tarn Visilin in Highpass Keep a Bloodstone. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Incandescent Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

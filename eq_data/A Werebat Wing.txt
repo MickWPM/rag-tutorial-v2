@@ -1,0 +1,32 @@
+ITEM NAME: A Werebat Wing
+
+
+
+A Werebat Wing
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Estate of Unrest
+
+ a werebat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Robe of Enshroudment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

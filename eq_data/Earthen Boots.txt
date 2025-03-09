@@ -1,0 +1,34 @@
+ITEM NAME: Earthen Boots
+
+Temple Era (added October 1999)
+
+
+Earthen Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 5
+STA: +5  HP: +15
+Effect:  Invisibility versus Animal (Any Slot/Can Equip, Casting Time: Instant) at Level 1
+WT: 2.0  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore (from Identify):  'Earthen Boots'   ***CLICKABLE ONLY BY MAGES, EVEN IN INVENTORY*** 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Earthen Boots Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

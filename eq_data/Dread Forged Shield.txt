@@ -1,0 +1,34 @@
+ITEM NAME: Dread Forged Shield
+
+Paineel Era (added February 2000)
+
+
+Dread Forged Shield
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 17
+STR: +5  CHA: +10  WIS: +5  MANA: +20
+SV MAGIC: +10
+WT: 1.5  Size: MEDIUM
+Class: CLR
+Race: HUM ERU
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Dread
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

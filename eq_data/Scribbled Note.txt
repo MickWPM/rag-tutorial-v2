@@ -1,0 +1,32 @@
+ITEM NAME: Scribbled Note
+
+
+
+Scribbled Note
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ A Pirate Cartographer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guard of Ik Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

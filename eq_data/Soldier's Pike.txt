@@ -1,0 +1,42 @@
+ITEM NAME: Soldier's Pike
+
+
+
+Soldier's Pike
+
+
+LORE ITEM  NO DROP
+Slot: BACK PRIMARY
+Skill: Piercing  Atk Delay: 46
+DMG: 11   AC: 4
+WT: 13.5  Size: GIANT
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #4 (Trooper's Pike)
+ Warrior Pike #3 (Soldier's Pike)
+
+  Player crafted 
+ Blacksmithing (Trivial: 62)
+ Yield: Soldier's Pike x1
+ In Forge:
+
+
+  1 x Forging Hammer - Bought, Dropped, Returned on Failure, Returned on Success
+  1 x Iron Rod - Bought
+  1 x Soldier's Pike Head - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

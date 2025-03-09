@@ -1,0 +1,34 @@
+ITEM NAME: Hardened Clay
+
+Sky Era (added January 2000)
+
+
+
+Hardened Clay
+
+
+LORE ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul tamer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of The Tree
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

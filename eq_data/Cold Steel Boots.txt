@@ -1,0 +1,35 @@
+ITEM NAME: Cold Steel Boots
+
+Velious Era (added December 2000-2001)
+
+
+
+Cold Steel Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 20
+WT: 8.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Gregendek Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

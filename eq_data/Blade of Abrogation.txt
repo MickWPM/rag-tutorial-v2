@@ -1,0 +1,48 @@
+ITEM NAME: Blade of Abrogation
+
+
+Blade of Abrogation
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 39
+DMG: 20 
+STR: +7  INT: +3
+WT: 7.5  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a blade storm
+ a gorgalask
+ a soul harvester
+ a soul tamer
+ a thunder spirit
+ a thunder spirit princess
+ an azarack
+ an essence tamer
+ Eye of Veeshan
+ Gorgalosk
+ heart harpie
+ Protector of Sky
+ Sister of the Spire
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

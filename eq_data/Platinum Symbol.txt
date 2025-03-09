@@ -1,0 +1,69 @@
+ITEM NAME: Platinum Symbol
+
+Velious Era (added December 2000-2001)
+Platinum Symbol
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Essedera
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wisdom - The Short Battle -- White Dragon IdolWhite Dragon Idol
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+AC: 15
+STR: +15  WIS: +15  HP: +50  MANA: +100
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+Effect: Flowing Thought I (Worn)  
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+ Platinum Tear
+ Platinum Symbol (from Essedera)
+ Emerald Symbol (from Grozzmel or Midayor)
+ Silver Symbol (from Essedera)
+
+ Test of Protection -- Pauldrons of the Deep FlamePauldrons of the Deep Flame
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 35
+STA: +15  HP: +100
+SV FIRE: +20  SV DISEASE: +20  SV COLD: +20  SV MAGIC: +20  SV POISON: +20
+WT: 0.5  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ Ruby Tear
+ Emerald Tear
+ Emerald Symbol (from Grozzmel or Midayor)
+ Platinum Symbol (from Essedera)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

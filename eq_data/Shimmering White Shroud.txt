@@ -1,0 +1,35 @@
+ITEM NAME: Shimmering White Shroud
+
+
+Shimmering White Shroud
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 5
+MANA: +20
+SV DISEASE: +8  SV POISON: +8
+WT: 2.5  Size: MEDIUM
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+The in-game name for this is A Shimmering White Shroud. 
+ Merchant resale value: 5.3p 
+
+  Drops From 
+Lower Guk
+
+ a froglok herbalist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

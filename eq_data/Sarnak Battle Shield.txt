@@ -1,0 +1,43 @@
+ITEM NAME: Sarnak Battle Shield
+
+Kunark Era (added 2000)
+
+Sarnak Battle Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 25
+STR: +5  STA: +5  HP: +40
+SV FIRE: +10  SV COLD: +10  SV MAGIC: +10
+WT: 3.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD SHM
+Race: ALL
+
+
+Likely a zone wide drop. 
+
+  Drops From 
+Chardok
+
+ a Di`Zok Cryptmaster
+ a Di`Zok Legionnaire
+ a Di`zok Underling
+ a Reanimated Berserker
+ a Reanimated Partisan
+ a Reanimated Champion
+ An Iksar Trustee (?)
+ Overseer Dal`guur
+ Kennel Master Al`ele
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

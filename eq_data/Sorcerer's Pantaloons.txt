@@ -1,0 +1,38 @@
+ITEM NAME: Sorcerer's Pantaloons
+
+Velious Era (added December 2000-2001)
+
+
+Sorcerer's Pantaloons
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 7
+STA: +5  INT: +2
+SV FIRE: +2  SV DISEASE: +1  SV COLD: +2  SV MAGIC: +3  SV POISON: +1
+Effect:  Elemental Armor (Must Equip, Casting Time: 15.0)
+WT: 0.4  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ A tranquil treant
+ Galiel Spirithoof
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

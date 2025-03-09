@@ -1,0 +1,42 @@
+ITEM NAME: Kromzek Mercenary Brooch
+
+Velious Era (added December 2000-2001)
+
+
+Kromzek Mercenary Brooch
+
+
+NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Confirmed this drops off a barbarian mercenary in kael on 5/3/18.  The quest this is used for may be post-revamp skyshrine, which would leave this item useless on p99. 
+
+  Drops From 
+Kael Drakkel
+
+ a barbarian mercenary
+
+The Wakening Land
+
+ Barbarian Mercenary
+ Gnome Mercenary
+ Human Mercenary
+ Ogre Mercenary
+ Teir`Dal Mercenary
+ Troll Mercenary
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kromzek Mercenary Brooches (Post Velious quest)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

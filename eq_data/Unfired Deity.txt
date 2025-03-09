@@ -1,0 +1,40 @@
+ITEM NAME: Unfired Deity
+
+
+
+Unfired Deity
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 135) 
+ Yield: Unfired Deity x1
+ In: Pottery Wheel
+
+
+ 1 x Large Block of Clay
+ 1 x Sand of Ro
+ 1 x Small Deity Sketch
+ 1 x Water Flask
+
+
+  Tradeskill recipes 
+ Pottery
+ Small Wisdom Deity (Trivial: 17)
+
+
+
+
+

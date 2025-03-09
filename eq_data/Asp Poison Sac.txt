@@ -1,0 +1,42 @@
+ITEM NAME: Asp Poison Sac
+
+Classic Era (added 1999-2000)
+
+Asp Poison Sac
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Northern Desert of Ro
+
+ a cistern asp
+
+Oasis of Marr
+
+ a cistern asp
+
+Southern Desert of Ro
+
+ a cistern asp
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yuio's Illness
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Asp Poison (Trivial: 24)
+
+
+
+
+

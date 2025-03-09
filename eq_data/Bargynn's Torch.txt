@@ -1,0 +1,34 @@
+ITEM NAME: Bargynn's Torch
+
+Kunark Era (added 2000)
+
+Bargynn's Torch
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+WIS: +2  INT: +2
+SV FIRE: +2
+WT: 5.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ Bargynn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

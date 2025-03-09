@@ -1,0 +1,35 @@
+ITEM NAME: Deceiver's Chestguard
+
+Velious Era (added December 2000-2001)
+
+
+Deceiver's Chestguard
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 48
+STR: +15  DEX: +8  STA: +6  AGI: +14  HP: +60
+SV COLD: +3  SV MAGIC: +7
+Effect: Invigorate (Any Slot/Can Equip, Casting Time: 14.5) at Level 50
+WT: 9.0  Size: LARGE
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Kael Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Warped Great Staff
+
+
+Warped Great Staff
+
+
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 40
+DMG: 7 
+WT: 11.0  Size: LARGE
+Class: ALL except BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 4 platinum 8 gold 4 silver 1 copper 
+
+  Drops From 
+East Commonlands
+
+ a ghoul
+
+West Commonlands
+
+ a ghoul
+
+Najena
+
+ BoneCracker
+
+Timorous Deep
+
+ Raider Watchman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

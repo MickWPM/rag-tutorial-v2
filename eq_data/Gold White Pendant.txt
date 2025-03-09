@@ -1,0 +1,33 @@
+ITEM NAME: Gold White Pendant
+
+Sky Era (added January 2000)
+
+
+Gold White Pendant
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 2
+INT: +5  MANA: +50
+WT: 0.1  Size: TINY
+Class: MAG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Shielding
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

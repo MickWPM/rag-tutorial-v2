@@ -1,0 +1,42 @@
+ITEM NAME: Dwarven Battle Shield (Imbued)
+
+
+Dwarven Battle Shield
+
+
+Slot: SECONDARY
+AC: 14
+STA: +2  WIS: +2
+SV FIRE: +5
+WT: 11.2  Size: MEDIUM
+Class: WAR CLR PAL ROG SHM
+Race: DWF HFL GNM
+Deity: Brell Serilis
+
+
+This is the imbued, deity restricted version of Dwarven Battle Shield. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 128)
+ Yield: Dwarven Battle Shield x1
+ In Stormguard Forge:
+
+
+  1 x Block of Brellium - Crafted, Bought
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Imbued Ruby - Summoned
+  1 x Small Kite Shield Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

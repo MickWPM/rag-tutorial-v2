@@ -1,0 +1,39 @@
+ITEM NAME: Imbued Golden Emerald Bracelet
+
+
+
+Imbued Golden Emerald Bracelet
+
+
+Slot: WRIST
+AC: 4
+STR: -3  DEX: +3
+SV FIRE: +4  SV DISEASE: +2
+Class: ALL
+Race: ALL
+Deity: Tunare
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Golden Emerald Bracelet x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Gold Bar - Summoned
+  1 x Imbued Emerald - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

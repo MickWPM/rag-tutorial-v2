@@ -1,0 +1,67 @@
+ITEM NAME: Large Brick of High Quality Ore
+
+Classic Era (added 1999-2000)
+
+Large Brick of High Quality Ore
+
+
+WT: 14.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Drops from goblins in SolA, Permafrost, Highkeep, and various Sporali in Runnyeye (confirmed: Miner, worker, scavenger). Vendors for 17p with average CHA.
+
+Use blacksmithing to convert bricks between small and large sizes, and also into small pieces. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 16 Platinums
+ 9 Golds
+ 4 Silvers
+ 9 Coppers
+ 
+  Drops From 
+High Keep
+
+ a goblin warrior
+ goblin raider
+
+Permafrost
+
+ an elite goblin guard
+
+Solusek's Eye
+
+ cinder goblin
+ inferno goblin
+ fire goblin
+ flame goblin
+
+Runnyeye
+
+ A Runnyeye Trustee
+ A Sporali Miner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 27)
+ Yield: Large Brick of High Quality Ore x1
+ In Forge:
+
+
+  3 x Small Brick of High Quality Ore - Crafted, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Block of High Quality Ore (Trivial: 55)
+
+
+
+
+

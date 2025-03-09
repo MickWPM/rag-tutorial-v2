@@ -1,0 +1,40 @@
+ITEM NAME: Evergreen Ivy Ringband
+
+Kunark Era (added 2000)
+
+Evergreen Ivy Ringband
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 3
+STA: +1
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ a forest giant evergreen
+ a forest giant greenwood
+
+Firiona Vie
+
+ a diseased forest giant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 5th Rank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

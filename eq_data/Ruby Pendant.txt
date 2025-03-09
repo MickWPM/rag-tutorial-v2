@@ -1,0 +1,34 @@
+ITEM NAME: Ruby Pendant
+
+Kunark Era (added 2000)
+
+Ruby Pendant
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+INT: +1
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Eye of Wun 
+
+  Drops From 
+Splitpaw
+
+ Kurrpok Splitpaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hollow Skull Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

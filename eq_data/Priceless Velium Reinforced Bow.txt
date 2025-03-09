@@ -1,0 +1,38 @@
+ITEM NAME: Priceless Velium Reinforced Bow
+
+Velious Era (added December 2000-2001)
+
+
+Priceless Velium Reinforced Bow
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+Skill: Archery  Atk Delay: 35
+DMG: 33  AC: 5
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +5  INT: +5  AGI: +5  HP: +25  MANA: +25
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 2.0  Range: 200  Size: MEDIUM
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+Part of the Priceless Velium Weapons set. 
+
+  Drops From 
+Sleeper's Tomb
+
+ an ancient sentry
+ an aged caretaker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

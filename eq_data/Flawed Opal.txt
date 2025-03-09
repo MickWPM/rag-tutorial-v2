@@ -1,0 +1,51 @@
+ITEM NAME: Flawed Opal
+
+Velious Era (added December 2000-2001)
+
+Flawed Opal
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is vendor trash 
+ Merchant resale value: 49p 4g Max 
+
+  Drops From 
+Cobalt Scar
+
+ a haunted seachest
+ a wyvern
+
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari master
+ a dragon construct
+
+Siren's Grotto
+
+ a neriad maiden
+
+The Wakening Land
+
+ a geonid
+
+Velketor's Labyrinth
+
+ a velium hunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

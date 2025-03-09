@@ -1,0 +1,34 @@
+ITEM NAME: Cerulean Gauntlets
+
+Velious Era (added December 2000-2001)
+
+Cerulean Gauntlets
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 10
+STR: +3  AGI: +3  MANA: +10
+WT: 2.8  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+Vendors for 2.2p. 
+
+  Drops From 
+Kael Drakkel
+
+ Slaggak the Trainer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

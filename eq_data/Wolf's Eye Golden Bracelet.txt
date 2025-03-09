@@ -1,0 +1,38 @@
+ITEM NAME: Wolf's Eye Golden Bracelet
+
+
+Wolf's Eye Golden Bracelet
+
+
+Slot: WRIST
+SV MAGIC: +7
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Note: Make sure to enchant the bar by an Enchanter before combining. If you don't do that, you will not get any stats on your created gear.
+
+ Jewelry Making (Trivial: 175)
+ Wolf's Eye Golden Bracelet x1
+ In Jeweler's Kit:
+
+
+  1 x Gold Bar - Bought
+  1 x Wolf's Eye Agate - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Acumen Mask
+
+Temple Era (added October 1999)
+
+
+Acumen Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 4
+WIS: +2  INT: +5
+Effect:  Gaze (Any Slot/Can Equip, Casting Time: Instant) at Level 20
+WT: 0.5  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Acumen Mask Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

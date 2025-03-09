@@ -1,0 +1,38 @@
+ITEM NAME: Woven Shadow Gauntlets
+
+
+Woven Shadow Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 11
+STR: +5  DEX: +5
+SV MAGIC: +10
+WT: 3.8  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ phoboplasm
+
+Plane of Hate
+
+ an abhorrent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

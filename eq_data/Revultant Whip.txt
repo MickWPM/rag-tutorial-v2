@@ -1,0 +1,38 @@
+ITEM NAME: Revultant Whip
+
+Classic Era (added 1999-2000) Naeth <Awakened> shown in offhand
+
+
+Revultant Whip
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 14
+DMG: 5 
+DEX: +5  AGI: +4
+SV DISEASE: +5  SV POISON: +5
+WT: 1.0  Size: SMALL
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ an eerie chest
+ a revultant rat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

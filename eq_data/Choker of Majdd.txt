@@ -1,0 +1,36 @@
+ITEM NAME: Choker of Majdd
+
+Kunark Era (added 2000)
+
+Choker of Majdd
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 4
+INT: +5
+Effect:  See Invisible (Worn)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Choker of Majdd 
+ Merchant resale value: 8pp 
+
+  Drops From 
+Temple of Droga
+
+ A Goblin Soothsayer (Droga)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

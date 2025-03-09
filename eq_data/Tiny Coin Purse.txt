@@ -1,0 +1,32 @@
+ITEM NAME: Tiny Coin Purse
+
+Velious Era (added December 2000-2001)
+
+Tiny Coin Purse
+
+
+LORE ITEM  WT: 0.1 Weight Reduction: 20%  Capacity: 2 Size Capacity: SMALL
+
+
+This item will reduce coin weight by 20%. 
+ Merchant resale value: 18.7p 
+
+  Drops From 
+Skyshrine
+
+ A Gargoyle Guardian
+ Nalginor Fe`Dhar
+ Ualkic Fe`Dhar
+ Most Skyshrine mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

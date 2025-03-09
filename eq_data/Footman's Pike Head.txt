@@ -1,0 +1,42 @@
+ITEM NAME: Footman's Pike Head
+
+
+
+Footman's Pike Head
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #3 (Soldier's Pike)
+
+  Player crafted 
+ Blacksmithing (Trivial: 15)
+ Yield: Footman's Pike Head x1
+ In Forge:
+
+
+  1 x Footman Head Plans - Returned on Failure
+  1 x Geozite Tool - Quested, Returned on Failure
+  1 x Petrified Redwood - Foraged, Dropped
+  1 x Raw Pike Head - Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Footman's Pike (Trivial: 21)
+
+
+
+
+

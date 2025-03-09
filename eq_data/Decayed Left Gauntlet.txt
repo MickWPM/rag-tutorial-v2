@@ -1,0 +1,34 @@
+ITEM NAME: Decayed Left Gauntlet
+
+Classic Era (added 1999-2000)
+
+
+Decayed Left Gauntlet
+
+
+LORE ITEM  NO DROP
+WT: 5.5  Size: SMALL
+Class: ALL
+Race: ALL except IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Cazic Thule
+
+ a lizard crusader
+ a lizard ritualist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Darkforge Gauntlets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

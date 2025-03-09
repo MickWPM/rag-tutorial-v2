@@ -1,0 +1,32 @@
+ITEM NAME: The Skull of Torture
+
+
+
+The Skull of Torture
+
+
+LORE ITEM
+Slot: NECK
+AC: 2
+INT: +5  HP: +10  MANA: +10
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL except ELF HIE DWF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mirgon Dower's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

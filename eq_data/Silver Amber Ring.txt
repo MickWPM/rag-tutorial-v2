@@ -1,0 +1,37 @@
+ITEM NAME: Silver Amber Ring
+
+
+Silver Amber Ring
+
+
+Slot: FINGER
+STR: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Taskmaster Earring - High Elf Male
+
+  Player crafted 
+ Jewelry Making (Trivial: 36)
+ Silver Amber Ring
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Silver Bar - Summoned
+  1 x Amber - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

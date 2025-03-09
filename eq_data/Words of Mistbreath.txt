@@ -1,0 +1,44 @@
+ITEM NAME: Words of Mistbreath
+
+Classic Era (added 1999-2000)
+
+Words of Mistbreath
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 9 Golds
+ 5 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Everfrost Peaks
+
+ a wooly mammoth
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Breath of the Dead (Trivial: 71)
+
+
+
+
+

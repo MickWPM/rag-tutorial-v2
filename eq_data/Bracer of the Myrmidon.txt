@@ -1,0 +1,34 @@
+ITEM NAME: Bracer of the Myrmidon
+
+Velious Era (added December 2000-2001) Bracer of the Myrmidon, Velious Plate, Male, Troll.
+
+
+Bracer of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 22
+STR: +2  DEX: +2  STA: +5  AGI: +9  HP: +15
+SV FIRE: +3  SV COLD: +3  SV MAGIC: +3
+WT: 4.5  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Skyshrine Bracers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

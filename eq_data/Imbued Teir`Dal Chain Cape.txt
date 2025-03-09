@@ -1,0 +1,43 @@
+ITEM NAME: Imbued Teir`Dal Chain Cape
+
+
+Imbued Teir`Dal Chain Cape
+
+
+Slot: BACK
+AC: 7
+WIS: +4  INT: +4  AGI: +2
+SV MAGIC: +4
+WT: 0.7  Size: LARGE
+Class: WAR CLR SHD BRD ROG NEC WIZ MAG ENC
+Race: DEF HEF
+Deity: Innoruuk
+
+
+Part of the dark elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 180)
+ Yield: Imbued Teir`Dal Chain Cape x1
+ In Teir`Dal Forge:
+
+
+  1 x Chainmail Cloak Pattern - Bought
+  3 x Enchanted Adamantite Rings - Crafted
+  1 x Imbued Sapphire - Summoned
+  1 x Shadow Temper - Crafted
+  1 x Silk Swatch - Crafted
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Arch Mage's Robe
+
+Velious Era (added December 2000-2001)
+
+
+Arch Mage's Robe
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 12
+STA: +14  INT: +15  HP: +40  MANA: +80
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Shield of Lava (Must Equip, Casting Time: 16.0)
+WT: 0.5  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Velium Robe
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

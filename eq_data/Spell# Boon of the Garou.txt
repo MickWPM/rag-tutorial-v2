@@ -1,0 +1,92 @@
+ITEM NAME: Spell: Boon of the Garou
+
+Velious Era (added December 2000-2001)
+
+
+Spell: Boon of the Garou
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Divination
+Mana Cost: 100
+Effect:  Boon of the Garou
+WT: 0.1  Size: SMALL
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a bulthar
+ a bulthar herdleader
+ a cobalt drake
+ a wyvern
+ an Othmir Shaman
+ an Othmir Warrior
+
+Dragon Necropolis
+
+ a Chetari Deathbinder
+
+Great Divide
+
+ a crystaline shardwurm
+ a guardian shardwurm
+ an ancient shardwurm
+
+Icewell Keep
+
+ An Icewell Sentry
+
+Skyshrine
+
+ Yeinn Kor`Va
+
+Velketor's Labyrinth
+
+ a cold shade
+ a cold spectre
+ a crystal shard
+ a crystalline gargoyle
+ a crystalline shard
+ a Frenzied Velium Broodling
+ a Frenzied Velium Stalker
+ a frost spectre
+ a large crystal shard
+ a velium broodling
+ a velium stalker
+ an Icepaw champion
+ an Icepaw cleric
+ an Icepaw kobold
+ an Icepaw kobold priest
+ an Icepaw kobold warrior
+ an Icepaw prophet
+ an icy watcher
+ Crystal Eyes
+ Crystal Fang
+ Crystal Guardian
+ Errkak Icepaw
+ Icepaw kobold
+ Icy Guardian
+ Jelek Icepaw
+ Marlek Icepaw
+ Rowwek Icepaw
+ Tpos Icepaw
+ Ular Icepaw
+ Venar Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

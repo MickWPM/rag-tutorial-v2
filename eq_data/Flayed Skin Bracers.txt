@@ -1,0 +1,38 @@
+ITEM NAME: Flayed Skin Bracers
+
+Velious Era (added December 2000-2001)
+
+Flayed Skin Bracers
+
+
+MAGIC ITEM LORE ITEM
+Slot: WRIST
+AC: 6
+STR: +2  CHA: -2  INT: +2
+SV DISEASE: +5  SV POISON: +5
+WT: 1.0  Size: MEDIUM
+Class: SHD NEC
+Race: HUM ERU
+
+
+
+ Merchant resale value: 12pp 
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg sentry
+ decayed soldier
+ skeletal guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

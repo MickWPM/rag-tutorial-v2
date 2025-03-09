@@ -1,0 +1,43 @@
+ITEM NAME: Cobalt Drake Mask
+
+Velious Era (added December 2000-2001)
+
+
+Cobalt Drake Mask
+
+
+MAGIC ITEM  QUEST ITEM
+Slot: FACE
+AC: 6
+CHA: +5  MANA: +5
+SV COLD: +3
+WT: 0.4  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Cobalt Drake Mask x1
+ In Loom:
+
+
+  1 x Cobalt Drake Hide - Dropped
+  1 x Drake Egg Oil - Crafted
+  1 x Mask Pattern - Bought
+  1 x Velium Boning - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

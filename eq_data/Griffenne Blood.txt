@@ -1,0 +1,47 @@
+ITEM NAME: Griffenne Blood
+
+Classic Era (added 1999-2000)
+
+Griffenne Blood
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Confirmed this does drop off male griffins in WC on blue server as of 9/1/2022 
+
+  Drops From 
+Commonlands
+
+ a griffin
+
+Eastern Plains of Karana
+
+ a griffon
+
+Northern Karana
+
+ a rabid griffenne
+ a griffenne
+ a griffon
+
+Plane of Sky
+
+ a soul carrier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Royal Temper (Trivial: 135)
+
+
+
+
+

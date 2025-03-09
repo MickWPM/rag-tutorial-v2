@@ -1,0 +1,35 @@
+ITEM NAME: A Maleficent Necromancer Doll
+
+Velious Era (added December 2000-2001)
+
+
+A Maleficent Necromancer Doll
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 1
+CHA: +2
+Effect:  Hug (Any Slot, Casting Time: 1.0)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Summoned by a Green Gift Box. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Combine in Empty Pot of Gold with Armor of Distraction to produce Necromancer Maleficent Armor.
+
+
+
+

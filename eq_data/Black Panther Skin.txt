@@ -1,0 +1,33 @@
+ITEM NAME: Black Panther Skin
+
+
+Black Panther Skin
+
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ a panther
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Black Pantherskin Armor (Trivial: 335)
+
+
+
+
+

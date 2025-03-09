@@ -1,0 +1,87 @@
+ITEM NAME: Sealed Poison Vial
+
+
+Sealed Poison Vial
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Dagnor's Cauldron
+
+ Conium Darkblade
+
+
+
+  (-236, -826)
+
+
+ Firiona Vie
+
+ Brak Daggermist
+
+
+
+  (-3608, 2359)
+
+
+ Lake of Ill Omen
+
+ Nubs Blackgranite
+
+
+
+  (-2517, -2920)
+
+
+ West Freeport
+
+ Toxdil
+
+
+
+  (623, 200)
+
+
+ Western Plains of Karana
+
+ Gindlin Toxfodder
+
+
+
+  (-2986, -13398)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 17)
+ Yield: Sealed Poison Vial x1
+ In Kiln:
+
+
+  1 x High Quality Firing Sheet - Bought
+  1 x Unfired Sealed Poison Vial - Crafted 
+
+
+  Tradeskill recipes 
+ Make Poison
+
+
+
+

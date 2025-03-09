@@ -1,0 +1,34 @@
+ITEM NAME: Shadow Vambraces
+
+Velious Era (added December 2000-2001)
+
+
+Shadow Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 19
+STR: +3  DEX: +3  STA: +7  HP: +25
+SV FIRE: +4  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +5  SV POISON: +1
+WT: 6.0  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Skyshrine Armplates
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

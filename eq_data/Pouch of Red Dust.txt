@@ -1,0 +1,42 @@
+ITEM NAME: Pouch of Red Dust
+
+
+
+Pouch of Red Dust
+
+
+LORE ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Pouch of Red Dust 
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire goblin
+ a fire goblin scout
+ a fire goblin wizard
+
+Solusek's Eye
+
+ cinder goblin
+ Solusek goblin
+ fire goblin shaman (?)
+ Solusek Priest
+ Solusek Goblin King
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunare Warden
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,215 @@
+ITEM NAME: Bark Potion
+
+
+Bark Potion
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Stalwart Regeneration (Any Slot, Casting Time: Instant)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Costs about 10p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork alchemist
+
+
+
+  (891, -301)
+
+
+ West Cabilis
+
+ Jondin
+
+
+
+  (-36, 508)
+
+
+ Erudin Palace
+
+ Sharin Denuen
+
+
+
+  (661, 539)
+
+
+ Felwithe
+
+ Merchant Yisasan
+
+
+
+  (448, -805)
+
+
+ Firiona Vie
+
+ Shrub Marwood
+
+
+
+  (-3253, 2267)
+
+
+ West Freeport
+
+ Olyna Mudel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Torlig Mudel
+
+
+
+  (82, -917)
+
+
+ Greater Faydark
+
+ Merchant Kaeluase
+
+
+
+  (-272, 51)
+
+
+ Greater Faydark
+
+ Merchant Ueaas
+
+
+
+  (-85, 601)
+
+
+ Halas
+
+ Murtog MacYee
+
+
+
+  (124, -364)
+
+
+ South Kaladim
+
+ Baldoleky Rockfinder
+
+
+
+  (254, -186)
+
+
+ Neriak Foreign Quarter
+
+ Gambel Quick
+
+
+
+  (253, -60)
+
+
+ Neriak Commons
+
+ Marza T`Kix
+
+
+
+  (20, -875)
+
+
+ Western Plains of Karana
+
+ Spinner
+
+
+
+  (-1453, -12837)
+
+
+ South Qeynos
+
+ Khensol Undesta
+
+
+
+  (288, -623)
+
+
+ South Qeynos
+
+ Drawna Opimsor
+
+
+
+  (303, -550)
+
+
+ South Qeynos
+
+ Caleah Herblender
+
+
+
+  (304, -555)
+
+
+ Rivervale
+
+ Byl Babbinsbort
+
+
+
+  (-146, -114)
+
+
+ Rivervale
+
+ Bimble Babbinsbort
+
+
+
+  (-162, -118)
+
+
+ Thurgadin
+
+ Frundle Frenkler
+
+
+
+  (-390, 505)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

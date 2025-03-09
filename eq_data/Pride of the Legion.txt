@@ -1,0 +1,46 @@
+ITEM NAME: Pride of the Legion
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Pride of the Legion
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: BACK PRIMARY
+Skill: Piercing  Atk Delay: 24
+DMG: 14   AC: 15
+STR: +10  STA: +10  HP: +75
+SV MAGIC: +10
+Effect:  Rage of Xyzith (Combat, Casting Time: Instant) at Level 50
+WT: 8.0  Size: GIANT
+Class: WAR
+Race: IKS
+
+
+May exist post-Velious, but likely never on p99. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #8 (Pride of the Legion)
+
+  Player crafted 
+ Blacksmithing
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

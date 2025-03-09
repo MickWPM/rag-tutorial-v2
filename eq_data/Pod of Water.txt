@@ -1,0 +1,55 @@
+ITEM NAME: Pod of Water
+
+
+
+Pod of Water
+
+
+This is a drink!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Water Flask (Trivial: 21)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Butcherblock Mountains
+ Chardok
+ Dagnor's Cauldron
+ East Commonlands
+ East Freeport
+ The Estate of Unrest
+ Everfrost Peaks
+ Greater Faydark
+ Lake Rathetear
+ Lavastorm Mountains
+ Lesser Faydark
+ Nektulos Forest
+ North Freeport
+ North Kaladim
+ Qeynos Hills
+ South Qeynos
+ Southern Desert of Ro
+ Warsliks Woods
+ West Freeport
+ Western Plains of Karana
+
+

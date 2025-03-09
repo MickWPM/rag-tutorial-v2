@@ -1,0 +1,33 @@
+ITEM NAME: A Wolf Scale
+
+Kunark Era (added 2000)
+
+
+A Wolf Scale
+
+
+WT: 1.2  Size: SMALL
+Class: None
+Race: None
+
+
+Not used for any quests. Not to be confused with Loose Scale. 
+ Merchant resale value: ~5 gold 
+
+  Drops From 
+Field of Bone
+
+ a scaled wolf
+ a scaled wolf cub
+ a scaled wolf prowler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

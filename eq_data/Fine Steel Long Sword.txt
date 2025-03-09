@@ -1,0 +1,211 @@
+ITEM NAME: Fine Steel Long Sword
+
+Classic Era (added 1999-2000)
+
+Fine Steel Long Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 28
+DMG: 6 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 5p 9g 2s 8c 
+
+  Drops From 
+Mistmoore Castle
+
+ a deathly harbinger
+ a deathly herald
+ a deathly usher
+ a ghastish ancille
+ a ghoulish ancille
+ a glyphed aegis
+ a glyphed ghoul
+ a glyphed guard
+ a glyphed sentry
+ a hemo enologist
+ a vampiric ancille
+ a will pillager
+ a will ravisher
+ a will sapper
+ an ancille cook
+ Enynti
+
+Chardok
+
+ a Chokidai Fleshripper
+ a Chokidai Growler
+ a Chokidai Herbsniffer
+ a chokidai mangler
+ a Chokidai Rootdigger
+ a Chokidai Sniffer
+ a Chokidai Whelp
+
+Clan Runnyeye
+
+ a Pickclaw mindripper
+
+Commonlands
+
+ a hill giant
+ a nightfall giant
+ Guard Reskin
+ Sergeant Slate
+ Shadow Treebright
+ Sil Silverstar
+
+Eastern Plains of Karana
+
+ a hill giant
+ Tarbul Earthstrider
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a greater dark bone
+ an undead knight of Unrest
+ mortuary fungus
+
+Everfrost Peaks
+
+ an ice giant
+ an icy orc
+
+Firiona Vie
+
+ froglok shin warrior
+ froglok ton knight
+ froglok ton warrior
+ froglok tsu shaman
+
+Frontier Mountains
+
+ a goblin adept
+ a goblin bodyguard
+ a goblin cavehunter
+ a goblin depredator
+ a goblin fanatic
+ a goblin flamedrowser
+ a goblin flashdrowser
+ a goblin soothsayer
+ a goblin taskmaster
+ a goblin whipcracker
+
+Kaesora
+
+ Guardian Of Xalgoz
+ Minion Of Xalgoz
+ Reaver of Xalgoz
+ Skeletal Guardian
+ skeletal minion
+ Skeletal Warder
+ spectral guardian
+ spectral librarian
+ Warder of Xalgoz
+
+Karnor's Castle
+
+ a drolvarg sentry
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ skeleton private
+ Skeleton Squad Leader
+ zombie advisor
+ zombie trooper
+
+Kurn's Tower
+
+ a skeletal cook
+
+Lesser Faydark
+
+ Dragoon Szorn
+ Teir`Dal Elite
+
+Rathe Mountains
+
+ a barbed bone skeleton
+ a hill giant
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+
+Northern Desert of Ro
+
+ a sand giant
+
+Ocean of Tears
+
+ Gornit
+
+Qeynos Aqueducts
+
+ Azibelle Spavin
+
+Southern Karana
+
+ a Rosch Val Gnoll
+ a Tesch Mas Gnoll
+
+Southern Desert of Ro
+
+ a deepwater goblin
+ Cazel
+ Sandgiant Husam
+
+Steamfont Mountains
+
+ Watchman Dreeb
+ Watchman Grep
+
+Swamp of No Hope
+
+ froglok krup guard
+
+The Feerrott
+
+ a Tae Ew defender
+ a Tae Ew sentinel
+
+Trakanon's Teeth
+
+ a froglok yun shaman
+ froglok shin knight
+ froglok shin warrior
+ froglok tal shaman
+ Froglok Urd Shaman
+ Froglok Vis Knight
+ Froglok Wan Knight
+
+Western Plains of Karana
+
+ a hill giant
+ Einhorst McMannus
+ Thrackin Griften
+ Ulrich McMannus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

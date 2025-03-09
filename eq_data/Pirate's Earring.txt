@@ -1,0 +1,35 @@
+ITEM NAME: Pirate's Earring
+
+Kunark Era (added 2000)
+
+Pirate's Earring
+
+
+Slot: EAR
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Pirates of Gunthak Earring Vendors for 7 silver 
+
+  Drops From 
+Ocean of Tears
+
+ Gornit
+ Capt Surestout
+ Wiltin Windwalker
+ a pirate (?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Pirate Earrings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

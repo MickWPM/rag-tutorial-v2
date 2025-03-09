@@ -1,0 +1,36 @@
+ITEM NAME: Katana of Endurance
+
+Kunark Era (added 2000)
+
+
+Katana of Endurance
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 18   AC: 10
+DEX: +10  STA: +10  HP: +20
+SV DISEASE: +10  SV POISON: +10
+WT: 2.0  Size: MEDIUM
+Class: WAR PAL
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Druushk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Mr. Secretary points with a Katana of Endurance (mainhand)
+

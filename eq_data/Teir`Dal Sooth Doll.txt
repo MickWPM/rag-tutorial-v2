@@ -1,0 +1,34 @@
+ITEM NAME: Teir`Dal Sooth Doll
+
+Kunark Era (added 2000)
+
+
+Teir`Dal Sooth Doll
+
+
+LORE ITEM  NO DROP  
+Slot: SECONDARY
+CHA: +3
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ a goblin bloodtracer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

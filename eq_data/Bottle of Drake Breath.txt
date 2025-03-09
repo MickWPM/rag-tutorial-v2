@@ -1,0 +1,35 @@
+ITEM NAME: Bottle of Drake Breath
+
+Velious Era (added December 2000-2001)
+
+
+
+Bottle of Drake Breath
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Healing (Any Slot, Casting Time: Instant) as Level 30
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Not targetable; will heal the user. 
+
+  Drops From 
+Lesser Faydark
+
+ Old Dimshimmer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

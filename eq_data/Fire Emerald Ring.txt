@@ -1,0 +1,80 @@
+ITEM NAME: Fire Emerald Ring
+
+Kunark Era (added 2000)
+
+
+Fire Emerald Ring
+
+
+Slot: FINGER
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 148p 2g 
+
+  Drops From 
+Chardok
+
+ a Di`Zok Cryptmaster
+
+Ocean of Tears
+
+ Allizewsaur
+
+Old Sebilis
+
+ a leprous scarab
+ a necrosis scarab
+ a pox scarab
+ a sepsis scarab
+ an iksar necromancer
+ frenzied pox scarab
+ froglok dar knight
+ froglok dar wizard
+ froglok ilis knight
+ froglok ilis shaman
+ froglok ilis wizard
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ Gangrenous Scarab
+ krup ghoul knight
+ sebilite guardian
+ sebilite juggernaut
+ sebilite protector
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a nightmare
+ a samhain
+ Amygdalan knight
+
+Plane of Growth
+
+ an entoling harvester
+
+Plane of Hate
+
+ a hatebone drake (2.0)
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ulthork Tusks Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

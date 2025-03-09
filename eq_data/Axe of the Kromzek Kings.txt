@@ -1,0 +1,36 @@
+ITEM NAME: Axe of the Kromzek Kings
+
+Velious Era (added December 2000-2001)
+ A Dark Elf wielding an Axe of the Kromzek Kings
+Axe of the Kromzek Kings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 36
+DMG: 37 
+STR: +25  STA: +20  HP: +100
+SV FIRE: +7 SV DISEASE: +7 SV COLD: +7 SV MAGIC: +7 SV POISON: +7
+WT: 20.0  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+After Velious 2H Stat Upgrade 
+
+  Drops From 
+Kael Drakkel
+
+ King Tormax
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

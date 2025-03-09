@@ -1,0 +1,38 @@
+ITEM NAME: Assassin's Chain Sleeves
+
+Velious Era (added December 2000-2001) Ennesae wearing the Assassin's Chain Sleeves
+
+
+Assassin's Chain Sleeves
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 16
+DEX: +7  HP: +25
+SV DISEASE: +2  SV MAGIC: +3
+WT: 6.0  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a feral amalgam
+ a spirit flux wolf
+ Grahl Strongback
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

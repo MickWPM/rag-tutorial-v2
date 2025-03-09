@@ -1,0 +1,30 @@
+ITEM NAME: Galvanized Platinum Bar
+
+Temple Era (added October 1999)
+
+
+Galvanized Platinum Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained by giving an Enchanted Platinum Bar to Genni in the Temple of Sol Ro. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gauntlets of the Ardent
+ Chestplate of the Constant
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

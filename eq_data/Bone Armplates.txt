@@ -1,0 +1,45 @@
+ITEM NAME: Bone Armplates
+
+
+Bone Armplates
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 5
+STR: +5  DEX: -4
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 2 Platinums
+ 6 Golds
+ 8 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Timorous Deep
+
+ The Great Oowomp
+
+Western Plains of Karana
+
+ an ogre shaman
+ Chief Goonda
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

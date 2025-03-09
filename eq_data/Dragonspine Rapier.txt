@@ -1,0 +1,37 @@
+ITEM NAME: Dragonspine Rapier
+
+Velious Era (added December 2000-2001)
+ Project 1999 Blue - Dragonspine Rapier
+Dragonspine Rapier
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 21
+DMG: 14 
+DEX: +10  AGI: +10  HP: +25
+SV DISEASE: +20  SV POISON: +30
+Effect: Kylie's Venom (Combat, Casting Time: Instant)
+WT: 0.5  Size: TINY
+Class: ROG
+Race: ALL
+
+
+Does not drop until October 2001 [1] 
+
+  Drops From 
+Temple of Veeshan
+
+ Zlexak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

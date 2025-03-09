@@ -1,0 +1,39 @@
+ITEM NAME: Coercion Implant
+
+Kunark Era (added 2000)
+
+
+Coercion Implant
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Crypt of Dalnir
+
+ a coerced dwarf
+ a coerced gnome
+ a coerced goblin
+ a coerced Iksar
+ a coerced penkeeper
+ a coerced Teir`Dal
+ a coerced Erudite
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Veeshan's Key
+
+Sky Era (added January 2000)
+Were you looking for Key of Veeshan (Veeshan's Peak)?
+Were you looking for Veeshan's Key (Purchased) (Plane of Sky)?
+
+
+Veeshan's Key
+
+
+LORE ITEM  NODROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained by turning in a Replica of the Wyrm Queen to Sirran the Lunatic on Island seven of Plane of Sky. Veeshan's Key is used to Access Island 8. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+  Related quests 
+ Plane of Sky Keys
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

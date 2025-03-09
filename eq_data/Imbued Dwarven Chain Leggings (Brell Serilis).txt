@@ -1,0 +1,43 @@
+ITEM NAME: Imbued Dwarven Chain Leggings (Brell Serilis)
+
+
+Imbued Dwarven Chain Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 14
+STR: +3  STA: +4
+SV FIRE: +2
+WT: 6.5  Size: MEDIUM
+Class: WAR CLR PAL BRD ROG
+Race: HUM ELF DEF HEF DWF HFL GNM
+Deity: Brell Serilis
+
+
+Part of the dwarven cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 148)
+ Yield: Imbued Dwarven Chain Leggings x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  3 x Enchanted Brellium Rings - Crafted
+  1 x Imbued Ruby - Summoned
+  1 x Small Chainmail Pant Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

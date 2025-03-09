@@ -1,0 +1,41 @@
+ITEM NAME: Whore's Bane
+
+Classic Era (added 1999-2000)
+
+Whore's Bane
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+A possible reference to pennyroyal, a poisonous herb historically used as an abortifacient. 
+ Merchant resale value: 4g 6s 1c 
+
+  Drops From 
+Najena
+
+ a goblin magician
+ a guard officer
+ an ogre guard
+ Moosh
+ the guard captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+This item is used in player tradeskills.
+
+ Poison Making
+ Lethargic Bliss (Trivial: 119)
+
+
+
+
+

@@ -1,0 +1,44 @@
+ITEM NAME: Koada`Dal Falchion of Tunare
+
+
+Koada`Dal Falchion of Tunare
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 7 
+STR: +3  WIS: +3
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG DRU BRD ROG
+Race: HUM ELF HIE HEF
+Deity: Tunare
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Koada`Dal Falchion of Tunare x1
+ In Koada`Dal Forge:
+
+
+  1 x Curved Blade Mold - Bought
+  1 x Folded Sheet of Mithril - Crafted
+  1 x Hilt Mold - Bought
+  1 x Imbued Emerald - Summoned
+  1 x Moonlight Temper - Crafted
+  1 x Pommel Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,83 @@
+ITEM NAME: Spell: Cannibalize IV
+
+Kunark Era (added 2000)
+
+
+Spell: Cannibalize IV
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Alteration
+Mana Cost: 0
+Effect:  Cannibalize IV
+WT: 0.1  Size: SMALL
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Kennel Master Al`ele
+
+Cobalt Scar
+
+ Kelorek`Dar
+
+Howling Stones
+
+ The Golem Master
+
+Iceclad Ocean
+
+ Lodizal
+
+Old Sebilis
+
+ Emperor Chottal
+
+Plane of Growth
+
+ a phase puma
+ Ail the Elder
+ an entoling essence channeler
+ an entoling harvester
+ Treah Greenroot
+
+Siren's Grotto
+
+ Mistress Latazura
+
+Skyfire Mountains
+
+ a guardian wurm
+ an ancient wyvern
+
+Western Wastes
+
+ Bufa
+ Entariz
+ Esorpa of the Ring
+ Gafala
+ Karkona
+ Nintal
+ Onava
+ Sivar
+ Yeldema
+ Zil Sapara
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: 203) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

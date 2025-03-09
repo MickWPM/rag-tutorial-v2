@@ -1,0 +1,38 @@
+ITEM NAME: White Dragon Idol
+
+Velious Era (added December 2000-2001)
+White Dragon Idol
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+AC: 15
+STR: +15  WIS: +15  HP: +50  MANA: +100
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+Effect: Flowing Thought I (Worn)  
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wisdom - The Short Battle
+ Platinum Tear (from Dozekar the Cursed)
+ Platinum Symbol (from Essedera)
+ Emerald Symbol (from Grozzmel or Midayor)
+ Silver Symbol (from Essedera)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

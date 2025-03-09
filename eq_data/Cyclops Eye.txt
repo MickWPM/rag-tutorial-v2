@@ -1,0 +1,55 @@
+ITEM NAME: Cyclops Eye
+
+Classic Era (added 1999-2000)
+
+Cyclops Eye
+
+
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+NO LONGER DROPS FROM ANY NPC AS OF 02/10/19 PATCH.
+These do not drop and were bugged till 2003 on live. 
+
+  Drops From 
+Eastern Plains of Karana
+
+ a cyclops
+ Broon
+ Droon
+ Proon
+
+Rathe Mountains
+
+ a cyclops
+ Tarskuk
+
+Ocean of Tears
+
+ a cyclops
+ a seafury cyclops
+ an ancient cyclops
+
+Southern Karana
+
+ a cyclops
+
+Western Plains of Karana
+
+ Choon
+ Froon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Xelha's Cyclops Eye
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

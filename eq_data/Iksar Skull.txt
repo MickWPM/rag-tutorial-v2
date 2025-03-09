@@ -1,0 +1,33 @@
+ITEM NAME: Iksar Skull
+
+Kunark Era (added 2000)
+
+
+Iksar Skull
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Note: There are multiple items with this name. Use identify to tell them apart. 
+
+  Drops From 
+East Cabilis
+
+ Clerk Doval ("Engraving: ..")
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Cudgel Quest No 5 ("Skull of Dai Nozok")
+ Shaman Cudgel Quest No 6 ("Engraving: ..") (3 skulls)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

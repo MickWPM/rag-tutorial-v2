@@ -1,0 +1,31 @@
+ITEM NAME: The Oblong Bottle
+
+
+
+The Oblong Bottle
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This bottle is a ground spawn at the bottom of the Ocean of Tears at neg 1611, pos 2924 (near siren twin islands).
+Bryan McGee says, 'The oblong bottle is a legend. They say one drink and you're off to oblivion, but just before that you feel the best you've ever felt and relive all your finest memories in the blink of an eye. The last I heard, some guy by the name of Turgin Swillfod turned up in Freeport spouting that he had found it. He was never heard from again.'
+Trolon Lightleer says 'Yo, ho, in the merry old harbor of Sir D'lere. There lived a small man who lived in fear.  Fear of the pawns and fear of the fish, but most of all fear of the bottle.  One day as he sailed overseas, he encountered a spat.  A lovely lady being harrassed by a buccaneer, tall and fat.  He hid all his fear and yelled 'Let her go!'  The buccaneer said that he would do so.  'I will do so if you can drink from this bottle, oblong and of weight, for twenty whole seconds. Will you test your fate?'  So as the ship did thread the needle around a quarter to five, foolish Turgin drank, passed out and took a dive.  Under went he and the evil bottle too.  Now all should fear the bottle of ochre goo.' 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Confession Document
+
+Stonebrunt Era (added summer 2001)
+
+
+Confession Document
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used in various Qeynos Badge quests to get signed confessions from various knaves. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Investigator's Badge (Badge #1)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Onyx Wristbands
+
+Velious Era (added December 2000-2001)
+
+
+Onyx Wristbands
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 23
+STR: +7  INT: +7  HP: +25  MANA: +25
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 5.0  Size: SMALL
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Onyx Wristbands x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Blue Throne - Dropped
+  A Red Throne - Dropped
+  A Red Crown - Dropped
+  A Red Knight - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

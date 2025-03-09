@@ -1,0 +1,35 @@
+ITEM NAME: Spell: Minion of Shadows
+
+
+
+Spell: Minion of Shadows
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Conjuration
+Mana Cost: 525
+Effect:  Minion of Shadows
+WT: 0.1  Size: SMALL
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Spells
+ Necromancer Spells (Cabilis)
+
+  Player crafted 
+ Research (Trivial: 151) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

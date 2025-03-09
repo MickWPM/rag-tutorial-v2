@@ -1,0 +1,46 @@
+ITEM NAME: Block of Ore
+
+Classic Era (added 1999-2000)
+Block of Ore
+
+
+WT: 25.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Beholder's Maze
+
+ a muddite elder
+ a muddite minor
+ a muddite recordkeeper
+
+Lavastorm Mountains
+
+ a rock dervish
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 27)
+ Yield: Block of Ore x1
+ In Forge:
+
+
+  3 x Large Brick of Ore - Crafted, Bought, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Folded Sheet Metal (Trivial 36)
+
+
+
+
+

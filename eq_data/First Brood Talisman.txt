@@ -1,0 +1,43 @@
+ITEM NAME: First Brood Talisman
+
+Velious Era (added December 2000-2001)
+
+
+First Brood Talisman
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 15
+STR: +5  DEX: +5  STA: +5  CHA: +5  WIS: +5  INT: +5  AGI: +5  HP: +50  MANA: +50
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Part of the Dragon Talismans armor set.
+ Item Lore (from Identify): Mark of Veeshan 
+
+  Drops From 
+Dragon Necropolis
+
+ Zlandicar
+
+Western Wastes
+
+ Harla Dar
+ Klandicar
+ Sontalak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

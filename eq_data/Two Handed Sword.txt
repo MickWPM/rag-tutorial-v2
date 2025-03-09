@@ -1,0 +1,517 @@
+ITEM NAME: Two Handed Sword
+
+
+Two Handed Sword
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 12 
+WT: 12.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+East Freeport
+
+ Gunex Eklar
+ Netuk Phenzon
+ Pietro Zarn
+ Raltur Caliskon
+
+Eastern Plains of Karana
+
+ Sir Gregon Sulltor
+
+Erudin
+
+ Tiam Khonsir
+
+Everfrost Peaks
+
+ Karg IceBear
+
+Halas
+
+ Lysbith McNaff
+
+Kithicor Forest
+
+ War Priestess T`zan
+
+North Freeport
+
+ Sir Willam
+
+Northern Karana
+
+ Sir Gerwin Thunderblade
+
+North Qeynos
+
+ Kane Bayle
+ Roesager Thusten
+
+Felwithe
+
+ Arrias Arcanum
+
+Qeynos Aqueducts
+
+ Argyn Shieldstan
+
+Southern Karana
+
+ Sir Telian Mottsworth
+
+West Freeport
+
+ Edwardian Holyblade
+
+Western Plains of Karana
+
+ Sir Arlindo Goldheart
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1253, -715)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1329, -762)
+
+
+ Ak'Anon
+
+ Drekon Vebnebber
+
+
+
+  (866, -475)
+
+
+ East Cabilis
+
+ Gaxl the scribe
+
+
+
+  (1029, -108)
+
+
+ Erudin
+
+ Ghemna Nyjuss
+
+
+
+  (-1070, -398)
+
+
+ Erudin
+
+ Rem Knarjon
+
+
+
+  (-623, -71)
+
+
+ Felwithe
+
+ Tolis Fearnone
+
+
+
+  (-105, -339)
+
+
+ Felwithe
+
+ Tylar Windspirit
+
+
+
+  (7, -256)
+
+
+ East Freeport
+
+ Prasen Rusgor
+
+
+
+  (-64, -275)
+
+
+ North Freeport
+
+ Mevah Toklius
+
+
+
+  (89, 397)
+
+
+ North Freeport
+
+ Rhensa Steadirt
+
+
+
+  (-10, 534)
+
+
+ North Freeport
+
+ Ardiflah Steadirt
+
+
+
+  (-27, 482)
+
+
+ North Freeport
+
+ Jusia Vapious
+
+
+
+  (244, -133)
+
+
+ West Freeport
+
+ Tyeg Envil
+
+
+
+  (-246, -41)
+
+
+ Greater Faydark
+
+ Merchant Milania
+
+
+
+  (-623, 206)
+
+
+ Greater Faydark
+
+ Merchant Muvien
+
+
+
+  (311, 241)
+
+
+ Grobb
+
+ Gluku
+
+
+
+  (443, -1007)
+
+
+ Grobb
+
+ Kagbkek
+
+
+
+  (210, -213)
+
+
+ Grobb
+
+ Tangiz
+
+
+
+  (433, -239)
+
+
+ Halas
+
+ Kevan McPherson
+
+
+
+  (210, -324)
+
+
+ Halas
+
+ Kar O`Dansin
+
+
+
+  (510, -505)
+
+
+ Highpass Hold
+
+ Dovik Greenbane
+
+
+
+  (-318, -113)
+
+
+ South Kaladim
+
+ Vacto Molunel
+
+
+
+  (33, 408)
+
+
+ South Kaladim
+
+ Didek Stormhammer
+
+
+
+  (136, 221)
+
+
+ South Kaladim
+
+ Handaaf Orcslicer
+
+
+
+  (-42, 428)
+
+
+ North Kaladim
+
+ Murlond Everhot
+
+
+
+  (367, -173)
+
+
+ North Kaladim
+
+ Darthur Nightseer
+
+
+
+  (947, 143)
+
+
+ Neriak Foreign Quarter
+
+ Kruna
+
+
+
+  (-308, -456)
+
+
+ Neriak Foreign Quarter
+
+ Relgor
+
+
+
+  (-330, -352)
+
+
+ Neriak Foreign Quarter
+
+ Namarg
+
+
+
+  (-279, -422)
+
+
+ Neriak Commons
+
+ Zanotix Ixtaz
+
+
+
+  (81, -868)
+
+
+ Neriak Commons
+
+ Issva H`Rugla
+
+
+
+  (-74, -1123)
+
+
+ Neriak Third Gate
+
+ Cazum N`Tan
+
+
+
+  (1335, -1269)
+
+
+ Oggok
+
+ Varrok Neckchopper
+
+
+
+  (324, -212)
+
+
+ Oggok
+
+ Iksob Darkchaser
+
+
+
+  (273, 11)
+
+
+ Oggok
+
+ Snarg Bonesmacker
+
+
+
+  (83, 1)
+
+
+ The Overthere
+
+ Tin Merchant VII
+
+
+
+  (2617, 2587)
+
+
+ Paineel
+
+ Dilche Orlezcha
+
+
+
+  (900, 470)
+
+
+ South Qeynos
+
+ Barthal
+
+
+
+  (-55, -303)
+
+
+ South Qeynos
+
+ Moran Smith
+
+
+
+  (-60, -246)
+
+
+ South Qeynos
+
+ Bisdlo Ravtahm
+
+
+
+  (-258, -525)
+
+
+ South Qeynos
+
+ Rabley Trumend
+
+
+
+  (35, -550)
+
+
+ Rathe Mountains
+
+ Ukla
+
+
+
+  (1731, 1289)
+
+
+ Rivervale
+
+ Rantho Goobler
+
+
+
+  (85, -140)
+
+
+ Thurgadin
+
+ Brigam
+
+
+
+  (-208, 485)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (6, 897)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

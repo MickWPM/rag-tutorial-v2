@@ -1,0 +1,39 @@
+ITEM NAME: Bixie Berry Pie
+
+Kunark Era (added 2000)
+
+
+Bixie Berry Pie
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ Froglok Escort
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #1 (Militia Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Swamp of No Hope (on p99?)
+ Warsliks Woods
+
+

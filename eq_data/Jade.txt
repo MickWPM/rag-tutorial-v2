@@ -1,0 +1,404 @@
+ITEM NAME: Jade
+
+Classic Era (added 1999-2000)
+
+Jade
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors for about 3p 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 3 Platinums
+ 3 Golds
+ 5 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Befallen
+
+ an elf skeleton
+
+Beholder's Maze
+
+ an evil eye
+ Lord Sviir
+ Lord Syrkl
+
+Clan Runnyeye
+
+ a goblin warlord
+
+Dreadlands
+
+ a tundra yeti
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a dry bone skeleton
+ a lurking mummy
+ a skeletal monk
+ dark boned skeleton
+ Torklar Battlemaster
+
+Everfrost Peaks
+
+ an ice giant
+ Karg IceBear
+
+South Kaladim
+
+ Guard Dinler
+
+Lake of Ill Omen
+
+ a goblin warrior
+ goblin warlord
+
+Lesser Faydark
+
+ a faerie
+ a faerie guard
+ a fairy guard
+ Thistle Underbrush
+
+Lower Guk
+
+ a ghoul assassin
+
+Mistmoore Castle
+
+ a dark elf noble
+ a dark offerer
+ a dark ritualist
+ a dark sacrificer
+ a glyphed forbidder
+ a Mistmoore guard
+ a negotiator
+ a shadowy sage
+ a shadowy scribe
+ a shadowy scrivener
+ a soul inveigling
+ a soul seductress
+ a soul temptress
+ a spectral ancille
+ a spiritish ancille
+ a thought defiler
+ a thought spoiler
+ a vampire noble
+ a vampire oracle
+ a vampiric ancille
+ a wightish ancille
+
+Nagafen's Lair
+
+ fire giant warrior
+ fire giant wizard
+ imp protector
+
+Northern Desert of Ro
+
+ a crypt mummy
+ a sand giant
+
+Oggok
+
+ Exterminator Glurg
+
+The Feerrott
+
+ a spectre
+
+The Overthere
+
+ a bristly succulent
+
+Rathe Mountains
+
+ a hill giant
+ Blackwing
+
+Southern Desert of Ro
+
+ a desert madman
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Swamp of No Hope
+
+ froglok shin shaman
+ man eating plant
+
+ Crystal Caverns 
+
+  a crystal crawler 
+  a Ry`Gorr miner 
+  a stalag terror 
+
+ Thurgadin 
+
+  a crystal spider 
+
+Warsliks Woods
+
+ a skulking brute
+ goblin spirit caller
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin (greedy)
+
+
+
+  (-54, -246)
+
+
+ West Freeport
+
+ Ping Fuzzlecutter (greedy)
+
+
+
+  (-269, 535)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ The Overthere
+
+ Tin Merchant IV (greedy)
+
+
+
+  (2697, 2620)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+ The New Worker
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Jaded Silver Ring (Trivial: 40)
+ Jaded Electrum Bracelet  (Trivial: 106)
+ Golden Jaded Bracelet (Trivial: 178)
+ Jaded Platinum Ring (Trivial: 250)
+
+
+
+
+

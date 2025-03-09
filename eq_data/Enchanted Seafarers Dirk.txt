@@ -1,0 +1,44 @@
+ITEM NAME: Enchanted Seafarers Dirk
+
+
+
+Enchanted Seafarers Dirk
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 4 
+DEX: +2  AGI: +2
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 122)
+ Yield: Enchanted Seafarers Dirk x1
+ In Antonican Forge:
+
+
+  1 x Black Pearl - Dropped
+  1 x Dagger Blade Mold - Bought
+  1 x Enchanted Sheet Metal - Crafted
+  1 x Hilt Mold - Bought
+  1 x Pommel Mold - Bought
+  1 x Sea Temper - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

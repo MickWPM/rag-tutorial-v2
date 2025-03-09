@@ -1,0 +1,33 @@
+ITEM NAME: Brass Earring
+
+
+Brass Earring
+
+
+Slot: EAR
+AC: 2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crushbone
+
+ orc taskmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Taskmaster Earring
+ A Job for Nanrum
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

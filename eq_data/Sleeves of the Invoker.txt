@@ -1,0 +1,34 @@
+ITEM NAME: Sleeves of the Invoker
+
+Velious Era (added December 2000-2001)
+
+
+Sleeves of the Invoker
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 8
+STA: +8  INT: +5  HP: +20  MANA: +35
+SV COLD: +4
+WT: 0.2  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Kael Sleeves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

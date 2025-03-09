@@ -1,0 +1,34 @@
+ITEM NAME: Deceiver's Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Deceiver's Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 17
+STR: +3  DEX: +1  STA: +1  AGI: +5
+SV MAGIC: +2
+WT: 4.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Kael Gauntlets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

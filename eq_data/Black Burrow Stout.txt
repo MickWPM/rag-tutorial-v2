@@ -1,0 +1,47 @@
+ITEM NAME: Black Burrow Stout
+
+
+
+Black Burrow Stout
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: ~7 silver 6 copper 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ocean of Tears
+
+ Cleonae Kalen
+
+
+
+  (503, -9253)
+
+  Related quests 
+ Blackburrow Stout Shipment
+ Blackburrow Stout Quest
+ Moonstones
+ Guard Shilster's Stout
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

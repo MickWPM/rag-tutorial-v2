@@ -1,0 +1,32 @@
+ITEM NAME: Cazic's Skin
+
+
+
+Cazic's Skin
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: LARGE
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Spirit Caller's Greaves
+
+
+Velious Era (added December 2000-2001)
+
+
+Spirit Caller's Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 32
+STR: +5  WIS: +12  AGI: +4  HP: +30  MANA: +80
+SV MAGIC: +2
+Effect: Abolish Disease (Any Slot/Can Equip, Casting Time: 11.0) at Level 50
+WT: 6.0  Size: LARGE
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Kael Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Spirit Caller's Armor on a male Troll
+

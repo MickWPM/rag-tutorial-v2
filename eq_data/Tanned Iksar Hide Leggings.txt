@@ -1,0 +1,35 @@
+ITEM NAME: Tanned Iksar Hide Leggings
+
+Chardok Revamp Era (added late 2001)
+
+Tanned Iksar Hide Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 8
+STR: +3  STA: +3  CHA: +4  INT: +3  HP: +25  MANA: +25
+SV DISEASE: +7  SV POISON: +7
+WT: 3.0  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Grand Lorekeeper Kino Shai`din
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

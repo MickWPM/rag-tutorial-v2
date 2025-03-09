@@ -1,0 +1,29 @@
+ITEM NAME: Snow Blossoms
+
+Kunark Era (added 2000)
+
+
+Snow Blossoms
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained via a subquest in Oggok for the enchanter epic. Item is NO DROP. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

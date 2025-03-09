@@ -1,0 +1,36 @@
+ITEM NAME: Shiverback-hide Armbands
+
+Fear Era (added July 1999)
+
+
+Shiverback-hide Armbands
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 5
+STR: +5  STA: +9  CHA: +5
+SV COLD: +7
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a shiverback
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

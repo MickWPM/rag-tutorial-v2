@@ -1,0 +1,31 @@
+ITEM NAME: Empty Pouch
+
+Classic Era (added 1999-2000)
+
+
+Empty Pouch
+
+
+Container: CLOSED.
+LORE ITEM
+WT: 0.2  Weight Reduction: 0%
+Capacity: 6  Size Capacity: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Pixie Dust (Kelethin Ranger)
+ Pixie Dust (Kelethin Rogue)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

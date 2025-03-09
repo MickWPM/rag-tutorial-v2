@@ -1,0 +1,34 @@
+ITEM NAME: Shining Star of Light
+
+Classic Era (added 1999-2000)
+
+Shining Star of Light
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Blunt Atk Delay: 28
+DMG: 6
+Effect: Cleanse (Combat, Casting Time: Instant)
+WT: 5.0 Size: MEDIUM
+Class: CLR PAL
+Race: ALL
+
+
+Acts as a light source. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cure for Lempeck Hargrin
+ Honey Jum Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

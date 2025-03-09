@@ -1,0 +1,36 @@
+ITEM NAME: Rijoely's Bracelet
+
+Velious Era (added December 2000-2001)
+
+
+Rijoely's Bracelet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 20
+STR: +3  AGI: +3
+SV MAGIC: +7
+WT: 0.1  Size: TINY
+Class: WAR MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Rijoely
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

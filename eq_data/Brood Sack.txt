@@ -1,0 +1,29 @@
+ITEM NAME: Brood Sack
+
+Kunark Era (added 2000)
+
+
+Brood Sack
+
+
+LORE ITEM NO DROP
+WT: 1.0 Weight Reduction: 0%
+Capacity: 4 Size Capacity: SMALL
+
+
+ Item Lore (from Identify): Brood Component Sack 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 4th Rank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

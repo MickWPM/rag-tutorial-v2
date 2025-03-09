@@ -1,0 +1,36 @@
+ITEM NAME: Cobalt Drake Hide
+
+Velious Era (added December 2000-2001)
+
+
+
+Cobalt Drake Hide
+
+
+MAGIC ITEM
+SV COLD: +5
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a cobalt drake
+ Azureake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Cobalt drake armor
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

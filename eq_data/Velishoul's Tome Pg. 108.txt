@@ -1,0 +1,30 @@
+ITEM NAME: Velishoul's Tome Pg. 108
+
+
+
+Velishoul's Tome Pg. 108
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: 122)
+ A Faded Velishoul's Tome Page
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

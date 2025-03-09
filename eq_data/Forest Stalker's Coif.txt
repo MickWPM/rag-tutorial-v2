@@ -1,0 +1,34 @@
+ITEM NAME: Forest Stalker's Coif
+
+Velious Era (added December 2000-2001)
+
+
+Forest Stalker's Coif
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 24
+STR: +3  DEX: +5  STA: +5  MANA: +30
+SV DISEASE: +3  SV MAGIC: +2
+WT: 5.0  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Kael Coif
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

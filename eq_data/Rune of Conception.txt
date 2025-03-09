@@ -1,0 +1,81 @@
+ITEM NAME: Rune of Conception
+
+
+Rune of Conception
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 1 Golds
+ 5 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a sarnak champion
+ a sarnak extremist
+
+City of Mist
+
+ a phantom
+
+Commonlands
+
+ Sergeant Slate
+
+Dreadlands
+
+ a drolvarg rager
+ a glacier yeti
+
+Eastern Wastes
+
+ a Ry`Gorr legionaire
+ a wooly rhino
+ An Elder Snow Griffin
+
+Everfrost Peaks
+
+ an ice giant
+
+Karnor's Castle
+
+ a drolvarg sentry
+ spectral knight
+
+Lower Guk
+
+ a dar ghoul knight
+
+Ocean of Tears
+
+ a seafury cyclops
+
+The Hole
+
+ an elemental warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Research
+ Thunderclap (Trivial: 120)
+ Common Portal (Trivial: 140)
+
+
+
+
+

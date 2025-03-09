@@ -1,0 +1,40 @@
+ITEM NAME: Merchant's Letter
+
+Epic Quests Era (added Sept 2000)
+
+
+Merchant's Letter
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+
+
+ Item Lore (from Identify): Report Information 3 of 6 
+
+  Drops From 
+City of Mist
+
+ a haze golem
+ gyrating goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest 
+
+  Book contents 
+Written in Lizardman:
+
+The list should all be in order except for the swatches of silk. I won't need such a large order in this quarter.
+Her Divinity Drian made it known to me that they would not need as many new robes this coming season as "none were quite ready to don them."
+My colleagues have all been confirming that the church is buying less and less these days.
+It seems Rak Ashiir has decided the royal donation to be cut. However I'm sure we'll find new customers soon and our orders will be back to normal shortly.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

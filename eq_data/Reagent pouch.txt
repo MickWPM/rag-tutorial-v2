@@ -1,0 +1,33 @@
+ITEM NAME: Reagent pouch
+
+Warrens Era (added spring 2001)
+
+Reagent pouch
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Pouch of the Najena apprentices 
+ Merchant resale value: 1.3 gold 
+
+  Drops From 
+Najena
+
+ a magician
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunic of Ridossan Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Combined Parchment
+
+Kunark Era (added 2000)
+
+
+Combined Parchment
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+Obtained from Stanos Herkanor in return for the top and bottom pieces. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

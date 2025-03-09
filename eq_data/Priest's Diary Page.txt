@@ -1,0 +1,38 @@
+ITEM NAME: Priest's Diary Page
+
+Epic Quests Era (added Sept 2000)
+
+
+Priest's Diary Page
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+
+
+ Item Lore (from Identify): Report Information 5 of 6 
+
+  Drops From 
+City of Mist
+
+ a vapor golem
+ an army behemoth
+ gyrating goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest 
+
+  Book contents 
+Written in Lizardman:
+Well it appears our Lord Rak
+Ashiir in his "wisdom" has cut our church's donation yet again. He claims it is to bolster the ranks of our garrison as many were wiped out during the Froglok incursions. However, I see more and more soldiers everyday, more than I ever have. And they are all equipped in the best armors the city's smiths can craft. This along with the recent replacement of our Bishop Screks with that coin grubber Biliaz leads me to suspect our King is planning on all but destroying our church entirely. I don't understand it, perhaps his missing Queen has driven him mad.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

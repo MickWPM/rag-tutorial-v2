@@ -1,0 +1,38 @@
+ITEM NAME: Monk Training Bag
+
+Kunark Era (added 2000)
+
+
+Monk Training Bag
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sparring Armor
+
+  Player crafted 
+ Tailoring (Trivial: 1)
+ Yield: Monk Training Bag x1
+ In Loom:
+
+
+ 3 x Pile of Granite Pebbles - Quested
+ 1 x Training Bag Husk - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

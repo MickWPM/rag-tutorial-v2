@@ -1,0 +1,188 @@
+ITEM NAME: Ghumim's Classical Dishes
+
+
+
+Ghumim's Classical Dishes
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Gnome Kabobs
+Need: gnome meat spices jug of sauces skewers
+Start fire. Grab gnome. Dip in sauces. Grab skewer. Push pointy
+end through gnome. Hold over fire and spin. Add spices, spin more. Bite. If crunchy, eat.
+Nose is good place to grab.
+Lots of sauces in mouth so Taste better inside and Cooking not so loud.
+Spin slow or spices fall off
+Smoked Wood Elf
+Need: wood elf parts, spices, smoker
+Find good wood elf tree. Start fire at bottom. Wait for elf to fall out Grab smoky elf and pull
+Put spices and parts in smoker Wait till smells good. Eat or put in pack
+If wood elf not smoky, Throw back in tree
+If pull too hard elf parts Too tiny and mooshy for smoker
+Hot'n Spicy Toelings
+Need: Halfling, Spices, Garnish
+Get halfling feet, Debone Dice, Fill holes with spices. Put on spit
+Heat until skin falls off. Eat
+Ghumim must chop off foot before putting on spit
+Goo between toes tastes bad
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

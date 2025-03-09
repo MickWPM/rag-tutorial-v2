@@ -1,0 +1,34 @@
+ITEM NAME: Gooey Adhesive
+
+Kunark Era (added 2000)
+
+
+Gooey Adhesive
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crypt of Dalnir
+
+ gyrating goo
+ smoldering goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

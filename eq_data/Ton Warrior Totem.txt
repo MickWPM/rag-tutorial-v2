@@ -1,0 +1,39 @@
+ITEM NAME: Ton Warrior Totem
+
+Kunark Era (added 2000)
+Ton Warrior Totem
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+STR: +2
+WT: 0.8  Size: SMALL
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Key of Dai -I... 
+
+  Drops From 
+Firiona Vie
+
+ froglok ton warrior
+
+Swamp of No Hope
+
+ froglok krup guard
+ froglok ton warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 5
+ Illusion: Iksar Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

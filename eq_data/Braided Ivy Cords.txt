@@ -1,0 +1,34 @@
+ITEM NAME: Braided Ivy Cords
+
+
+Braided Ivy Cords
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 4
+WIS: +5
+WT: 0.3  Size: SMALL
+Class: DRU BRD ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ Bracken Underbrush
+ Thistle Underbrush
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

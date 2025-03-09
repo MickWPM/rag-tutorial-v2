@@ -1,0 +1,31 @@
+ITEM NAME: Rune of the One Eye (middle)
+
+Classic Era (added 1999-2000)
+Rune of the One Eye
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+There are two versions of this item with the same name. Use Lyssa's Cataloging Libretto or have someone cast Identify on you while cursoring a rune to distinguish between them. 
+
+  Drops From 
+Western Plains of Karana
+
+ Froon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Lambent Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

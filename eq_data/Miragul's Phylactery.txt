@@ -1,0 +1,30 @@
+ITEM NAME: Miragul's Phylactery
+
+
+
+Miragul's Phylactery
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): Ancient container holding the soul of Miragul 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tome of Ages
+ The Fiery Avenger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

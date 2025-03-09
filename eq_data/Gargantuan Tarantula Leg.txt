@@ -1,0 +1,32 @@
+ITEM NAME: Gargantuan Tarantula Leg
+
+
+
+Gargantuan Tarantula Leg
+
+
+LORE ITEM
+WT: 7.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Terrorantula's Leg 
+
+  Drops From 
+Southern Desert of Ro
+
+ Terrorantula
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Terrorantula Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

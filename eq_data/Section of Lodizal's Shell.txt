@@ -1,0 +1,34 @@
+ITEM NAME: Section of Lodizal's Shell
+
+Velious Era (added December 2000-2001)
+
+
+
+Section of Lodizal's Shell
+
+
+MAGIC ITEM
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ Lodizal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lodizal Shell Shield Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

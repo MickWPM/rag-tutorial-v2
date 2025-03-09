@@ -1,0 +1,36 @@
+ITEM NAME: White Dragon Scale Sash
+
+Velious Era (added December 2000-2001)
+
+
+White Dragon Scale Sash
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 10
+WIS: +15    HP: +90  MANA: +90
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +15  SV MAGIC: +15  SV POISON: +15
+WT: 0.1  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ King Tormax
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

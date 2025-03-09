@@ -1,0 +1,35 @@
+ITEM NAME: Alluring Horn
+
+Epic Quests Era (added Sept 2000)
+
+
+Alluring Horn
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+Brass Instrument: 18
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Ocean of Tears
+
+ Quag Maelstrom
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

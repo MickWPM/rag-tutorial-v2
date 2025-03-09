@@ -1,0 +1,82 @@
+ITEM NAME: Velium Rapier
+
+Velious Era (added December 2000-2001)
+
+Velium Rapier
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 5 
+Effect:  Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 4.5  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 5pp+ 
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari guard
+ a Chetari hoarder
+ a Chetari hunter
+ a Chetari runemage
+ a Chetari servant
+ a Chetari Warrior
+ a Chetari worker
+ a Paebala Rebel
+ a Paebala Spirit Talker
+ a Paebala warrior
+
+Eastern Wastes
+
+ a frost giant
+ a frost giant savage
+ a frost giant scout
+ a kromrif prison guard
+ a Ry`Gorr centurion
+ a ulthork man o war
+ an ulthork hunter
+ an ulthork warrior
+
+Great Divide
+
+ a frost giant elite
+ a frost giant scout
+ a furious tizmak warrior
+ a tizmak champion
+ a tizmak warrior
+
+Iceclad Ocean
+
+ a frost giant elite
+ a frost giant scout
+
+Icewell Keep
+
+ a coldain skeleton
+ An Icewell Sentry
+
+Tower of Frozen Shadow
+
+ a blood familiar
+ an armored shadow
+ an undead bridesmaid
+ Vyakna
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Velium Hound Fur Cap
+
+Velious Era (added December 2000-2001)
+
+
+
+Velium Hound Fur Cap
+
+
+MAGIC ITEM Slot: HEAD AC: 5 STR: +6  STA: +6 SV FIRE: +10 WT: 0.5  Size: SMALL
+Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 268)
+ Yield: Velium Hound Fur Cap x1
+ In Loom:
+
+
+  1 x Cap Pattern - Bought
+  1 x Platinum Thread - Bought
+  2 x Velium Hound Fur - Dropped
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

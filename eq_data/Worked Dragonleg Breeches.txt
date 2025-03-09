@@ -1,0 +1,42 @@
+ITEM NAME: Worked Dragonleg Breeches
+
+Velious Era (added December 2000-2001)
+
+
+
+Worked Dragonleg Breeches
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 21
+DEX: +8  STA: +4
+WT: 4.2  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Amcilla
+ Bufa
+ Ionat
+ Mazi
+ Myga
+ Nintal
+ Von
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Thorny Vine Chestplate
+
+
+
+Thorny Vine Chestplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 26
+STR: +9  WIS: +13  HP: +50
+WT: 7.5  Size: LARGE
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Part of the Thorny Vine Armor set. 
+
+  Drops From 
+Plane of Fear
+
+ a tentacle tormentor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

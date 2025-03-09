@@ -1,0 +1,58 @@
+ITEM NAME: Leather Padding
+
+
+Leather Padding
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 31)
+ Yield: Leather Padding x1
+ In Sewing Kit:
+
+
+  1 x Low Quality Cat Pelt - Crafted, Dropped
+  1 x Silk Thread - Crafted
+
+
+ Tailoring (Trivial: 31)
+ Yield: Leather Padding x1
+ In Sewing Kit:
+
+
+  1 x Low Quality Wolf Skin - Crafted, Dropped
+  1 x Silk Thread - Crafted
+
+
+ Tailoring (Trivial: 31)
+ Yield: Leather Padding x1
+ In Sewing Kit:
+
+
+  1 x Low Quality Bear Skin - Crafted, Dropped
+  1 x Silk Thread - Crafted 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+
+ Fine Plate (Trivial: 182-242?)
+ Dwarven Plate, Imbued Dwarven Plate, Enchanted Dwarven Plate, and Imbued Enchanted Dwarven Plate. See Cultural Tradeskills: Dwarf (Trivial: 163-255)
+
+
+
+
+

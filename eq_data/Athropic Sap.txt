@@ -1,0 +1,38 @@
+ITEM NAME: Athropic Sap
+
+
+
+Anthropic Sap
+
+
+Charges: 1
+Effect:  Weakening Poison II (Combat) at Level 20
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 98)
+ Yield: Regalis Poison x1
+ In Mortar and Pestle:
+
+
+  2 x Alocasia Root - Bought
+  1 x Lined Poison Vial - Crafted, Bought, Returned on Failure
+  1 x Constrict Suspension - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

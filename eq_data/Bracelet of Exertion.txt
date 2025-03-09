@@ -1,0 +1,40 @@
+ITEM NAME: Bracelet of Exertion
+
+Sky Era (added January 2000)
+
+
+Bracelet of Exertion
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+STR: +5  HP: +75  MANA: +35
+WT: 0.1  Size: TINY
+Class: MAG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul harvester
+ a thunder spirit princess
+ Bazzt Zzzt
+ Gorgalosk
+ Keeper of Souls
+ Noble Dojorn
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Shrieking Ahlspiess
+
+
+
+Shrieking Ahlspiess
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 27
+DMG: 9 
+STR: +4  DEX: +5
+Effect:  Yaulp II (Combat, Casting Time: Instant) at Level 45
+WT: 3.0  Size: LARGE
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ an abhorrent (Hate 1.0)
+ Avatar of Abhorrence (Hate 2.0)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Pliable Goo
+
+Velious Era (added December 2000-2001)
+
+
+Pliable Goo
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+EXPENDABLE  Charges: 1
+Effect:  Regeneration (Any Slot, Casting Time: Instant) as Level 50
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ an amorphous mass
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

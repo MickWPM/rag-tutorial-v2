@@ -1,0 +1,38 @@
+ITEM NAME: Ring of the Stonechanters
+
+Kunark Era (added 2000)
+
+Ring of the Stonechanters
+
+
+MAGIC ITEM
+Slot: FINGER
+AC: 4
+STR: +3  WIS: +3
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Ring of the Stonechanters 
+
+  Drops From 
+Frontier Mountains
+
+ a goblin stonechanter
+
+Temple of Droga
+
+ a goblin stonechanter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

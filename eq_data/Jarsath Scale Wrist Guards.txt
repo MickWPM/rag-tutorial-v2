@@ -1,0 +1,34 @@
+ITEM NAME: Jarsath Scale Wrist Guards
+
+Kunark Era (added 2000)
+
+Jarsath Scale Wrist Guards
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 8
+CHA: +4  WIS: +4
+WT: 0.8  Size: SMALL
+Class: WAR CLR PAL SHD SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ skeletal warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

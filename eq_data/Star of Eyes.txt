@@ -1,0 +1,33 @@
+ITEM NAME: Star of Eyes
+
+Classic Era (added 1999-2000)
+
+
+Star of Eyes
+
+
+MAGIC ITEM  NODROP
+Effect:  Identify (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+Clickable from inventory. Usable by all classes. Requires a target(WITHIN RANGE). Does not aggro NPCs when cast on them.Warning! before you go and do this time consuming quest, there is a range requirement for being able to use the clicky. 
+The range is much less than spells like root/undead nuke/ETC.. you've been warned 
+Works as a way to gain secondary agro from someone who has primary agro on a mob. Confirmed 8/23/23 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tarton's Wheel
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

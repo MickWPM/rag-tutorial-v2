@@ -1,0 +1,32 @@
+ITEM NAME: The One Key
+
+Epic Quests Era (added Sept 2000) The One Key
+
+
+The One Key
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+On the ground in The Overthere at location. Respawn time: 24 hours (-190, -380) .
+You can get there by levitating with Air Elemental illusion up on the ramp on the north side then floating over to the correct pillar. It's the slightly lower column/pillar and the key is a small bag on the ground.
+Link to a better picture of location. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

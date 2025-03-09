@@ -1,0 +1,34 @@
+ITEM NAME: Turmoil Warts
+
+
+Turmoil Warts
+
+
+MAGIC ITEM  
+Slot: RANGE AMMO
+Skill: Throwing  Atk Delay: 24
+DMG: 9
+WT: 0.3  Range: 125  Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a turmoil toad
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

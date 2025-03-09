@@ -1,0 +1,38 @@
+ITEM NAME: Kicsh Der Pavz
+
+Classic Era (added 1999-2000)
+
+Kicsh Der Pavz
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 38
+DMG: 10 
+DEX: +5
+Effect:  Strong Poison (Combat, Casting Time: Instant) at Level 20
+WT: 8.0  Size: LARGE
+Class: WAR SHD BRD ROG
+Race: ALL
+
+
+Though a bit slow, warriors will still like this sword for its high aggro proc in the vanilla era.
+Functions as a weak light source. 
+ Merchant resale value: 9g 2s 3c 
+
+  Drops From 
+Splitpaw
+
+ Tesch Val Deval`Nmak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

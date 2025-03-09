@@ -1,0 +1,64 @@
+ITEM NAME: Flawed Topaz
+
+Velious Era (added December 2000-2001)
+
+Flawed Topaz
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 49p 4g 
+
+  Drops From 
+Cobalt Scar
+
+ an Othmir Warrior
+ an Othmir Shaman
+ a haunted seachest
+ a wyvern (Cobalt Scar)
+ a bulthar
+
+
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari master
+ a dragon construct
+
+Siren's Grotto
+
+ a neriad maiden
+
+Velketor's Labyrinth
+
+ a crystal sentinel
+ a crystalline gargoyle
+ a velium hunter
+ a velium stalker
+ An Icepaw Champion
+ an Icepaw kobold warrior
+ an Icepaw prophet
+
+Wakening Land
+
+ A_Geonid_(WL)
+ a geonid shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velious Class Armor
+ Caster Arms  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

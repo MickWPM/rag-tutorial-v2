@@ -1,0 +1,42 @@
+ITEM NAME: Excellent Siren Scales
+
+Velious Era (added December 2000-2001)
+
+
+Excellent Siren Scales
+
+
+NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a siren enticer
+ a siren seductress
+ a siren enchantress
+
+Siren's Grotto
+
+ a siren beguiler
+ a siren enchantress
+ a siren myrmidon
+ a siren templar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mechanical Net Delivery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

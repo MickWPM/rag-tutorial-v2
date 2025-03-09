@@ -1,0 +1,118 @@
+ITEM NAME: Unadorned Plate Bracer
+
+Velious Era (added December 2000-2001)
+
+Unadorned Plate Bracer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+WT: 5.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+(ToV East mobs)
+
+ an ancient guardian wurm
+ an ancient tigerclaw racnar
+ an elder shard wyvern
+ a burning guardian
+ a fiery drake
+ a greater sky drake
+ an ancient frost guardian
+ an ancient shard wyvern
+ a raging wyvern
+ a vehement wyvern
+ a shimmer drake
+ a racnar
+ an emerald watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Related quests 
+Bard Skyshrine Bracer (Bracer of TwilightBracer of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 18
+STR: +3  STA: +2  AGI: +5
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +5  SV POISON: +1
+WT: 3.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+)
+Cleric Skyshrine Bracer (Akkirus' Bracelet of the RisenAkkirus' Bracelet of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 19
+STR: +2  STA: +5  WIS: +6  HP: +35  MANA: +20
+SV COLD: +5
+Effect:  Abundant Food (Must Equip, Casting Time: 10.0)
+WT: 3.5  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+)
+Paladin Skyshrine Bracer (Scaled Knight's BracerScaled Knight's Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 18
+STR: +3  DEX: +2  STA: +4  WIS: +3  AGI: +2  HP: +10  MANA: +10
+SV POISON: +1
+WT: 3.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+)
+Shadowknight Skyshrine Bracer (Blood Lord's BracerBlood Lord's Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 18
+STR: +4  INT: +2  HP: +20  MANA: +10
+SV MAGIC: +5  SV POISON: +2
+WT: 3.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+)
+Warrior Skyshrine Bracer (Bracer of the MyrmidonBracer of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 22
+STR: +2  DEX: +2  STA: +5  AGI: +9  HP: +15
+SV FIRE: +3  SV COLD: +3  SV MAGIC: +3
+WT: 4.5  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+)
+
+

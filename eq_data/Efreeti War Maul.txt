@@ -1,0 +1,36 @@
+ITEM NAME: Efreeti War Maul
+
+Sky Era (added January 2000)
+
+Efreeti War Maul
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 35
+DMG: 15 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of the Witch Doctor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

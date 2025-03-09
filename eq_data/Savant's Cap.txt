@@ -1,0 +1,34 @@
+ITEM NAME: Savant's Cap
+
+
+Savant's Cap
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 2
+WIS: +3  INT: +3
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 3pp 
+
+  Drops From 
+The Estate of Unrest
+
+ reclusive ghoul magus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

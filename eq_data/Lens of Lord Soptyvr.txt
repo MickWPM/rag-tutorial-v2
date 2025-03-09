@@ -1,0 +1,33 @@
+ITEM NAME: Lens of Lord Soptyvr
+
+Classic Era (added 1999-2000)
+
+
+Lens of Lord Soptyvr
+
+
+LORE ITEM  NODROP
+WT: 0.1  Size: TINY
+Class: None
+Race: None
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Beholder's Maze
+
+ Lord Soptyvr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Terror
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

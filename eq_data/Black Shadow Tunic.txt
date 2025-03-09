@@ -1,0 +1,32 @@
+ITEM NAME: Black Shadow Tunic
+
+
+Black Shadow Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 6
+INT: +1
+SV POISON: +1
+WT: 9.0  Size: MEDIUM
+Class: SHD
+Race: OGR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Greenblood Shadowknight Tunic
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

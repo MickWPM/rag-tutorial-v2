@@ -1,0 +1,40 @@
+ITEM NAME: Section of a Draconic Tome
+
+Velious Era (added December 2000-2001)
+
+
+Section of a Draconic Tome
+
+
+LORE ITEM  NODROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+For a quest (resulting in Orb of Draconic Energy) that will never be implemented on Project 1999. 
+
+  Drops From 
+Kael Drakkel
+
+ a Kromzek sorcerer
+
+Tower of Frozen Shadow
+
+ VhalSera
+
+Great Divide
+
+ Fergul Frostsky
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

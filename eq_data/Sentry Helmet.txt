@@ -1,0 +1,36 @@
+ITEM NAME: Sentry Helmet
+
+Velious Era (added December 2000-2001)
+
+
+Sentry Helmet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 9
+INT: +5  AGI: +5  HP: +15  MANA: +15
+SV DISEASE: +4  SV POISON: +4
+WT: 3.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Sentry Kale
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

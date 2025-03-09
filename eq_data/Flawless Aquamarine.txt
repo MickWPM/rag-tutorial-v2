@@ -1,0 +1,144 @@
+ITEM NAME: Flawless Aquamarine
+
+Classic Era (added 1999-2000)
+
+Flawless Aquamarine
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 11 Platinums
+ 5 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a cinder hornet
+ a sarnak champion
+ a sarnak enthusiast
+ a sarnak extremist
+ a tottering gorilla
+ an ash hornet
+
+Clan Runnyeye
+
+ a goblin warlord
+
+Cobalt Scar
+
+ a wyvern
+
+Crystal Caverns
+
+ a stalag terror
+
+Dragon Necropolis
+
+ a dragon construct
+ an amorphous mass
+ an entropy serpent
+
+Dreadlands
+
+ a drachnid webmaster
+ a dread widow
+ a drolvarg rager
+ a ravishing drolvarg
+ a tundra yeti
+
+Firiona Vie
+
+ a drolvarg snarler
+ a drolvarg growler
+
+The Estate of Unrest
+
+ mortuary fungus
+
+Frontier Mountains
+
+ goblin raider
+ a mountain giant tump
+
+Kaesora
+
+ spectral librarian
+
+Lake of Ill Omen
+
+ a goblin warrior
+
+Lower Guk
+
+ a reanimated hand
+
+Rathe Mountains
+
+ a basalt drake
+ a cyclops
+
+Nagafen's Lair
+
+ fire giant warrior
+ fire giant wizard
+ imp protector
+
+The Hole
+
+ an elemental warrior
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a neriad maiden
+
+Steamfont Mountains
+
+ Minotaur Sentry
+ Zondo Hyzill
+
+Stonebrunt Mountains
+
+ a panda cub
+
+The Overthere
+
+ a Sarnak enthusiast
+ a Sarnak knight
+ a stonegazer cockatrice
+
+The Wakening Land
+
+ a geonid
+ a suit of sentient armor
+ a tar goo
+
+Warsliks Woods
+
+ a forest giant evergreen
+ goblin spirit caller
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Seafarers Harpoon (Trivial: 139)
+
+
+
+
+

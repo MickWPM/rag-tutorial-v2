@@ -1,0 +1,36 @@
+ITEM NAME: Jaundiced Bone Gauntlets
+
+Kunark Era (added 2000)
+
+Jaundiced Bone Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 14
+Effect:  Deftness (Must Equip, Casting Time: 10.0) at Level 45
+WT: 5.0  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR
+
+
+Part of the Jaundiced Bone Armor set. Vendors for roughly 438pp 
+ Merchant resale value: 446p Max 
+
+  Drops From 
+Karnor's Castle
+
+ Sentry of Sathir
+ construct of Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

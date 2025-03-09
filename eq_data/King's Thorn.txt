@@ -1,0 +1,44 @@
+ITEM NAME: King's Thorn
+
+
+
+King's Thorn
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Steamfont Mountains
+
+ Ennixy Frennor
+
+
+
+  (1371, -836)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Make Poison
+ Brewing
+
+
+
+

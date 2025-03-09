@@ -1,0 +1,33 @@
+ITEM NAME: Withered 3 Inch Finger
+
+Classic Era (added 1999-2000)
+
+
+Withered 3 Inch Finger
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ fingered skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Rock
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

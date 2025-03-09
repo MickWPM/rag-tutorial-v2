@@ -1,0 +1,33 @@
+ITEM NAME: Creeper Cabbage
+
+
+
+Creeper Cabbage
+
+
+NO DROP
+This is a meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ man eating creeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 4th Rank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

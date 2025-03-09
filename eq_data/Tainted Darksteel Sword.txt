@@ -1,0 +1,35 @@
+ITEM NAME: Tainted Darksteel Sword
+
+
+
+Tainted Darksteel Sword
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 5 
+WT: 4.0  Size: MEDIUM
+Class: PAL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Hole
+
+ Keeper of the Tombs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

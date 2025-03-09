@@ -1,0 +1,50 @@
+ITEM NAME: Kavruul`s Mystic Pouch
+
+Classic Era (added 1999-2000)
+
+Kavruul`s Mystic Pouch
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.4  Weight Reduction: 100%
+Capacity: 10  Size Capacity: GIANT
+
+
+
+
+  Drops From 
+Dreadlands
+
+ Gorenaire
+
+Emerald Jungle
+
+ Severilous
+
+Permafrost
+
+ Lady Vox
+
+Skyfire Mountains
+
+ Talendor
+
+Timorous Deep
+
+ Faydedar
+
+Nagafen's Lair
+
+ Zordakalicus Ragefire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

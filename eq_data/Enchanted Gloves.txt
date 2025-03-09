@@ -1,0 +1,30 @@
+ITEM NAME: Enchanted Gloves
+
+
+
+Enchanted Gloves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+WT: 1.5  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+Obtained by bringing Tizina in Lavastorm Mountains 50gp. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Incandescent Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

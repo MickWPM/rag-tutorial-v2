@@ -1,0 +1,36 @@
+ITEM NAME: Fae Pauldrons
+
+Sky Era (added January 2000)
+
+
+Fae Pauldrons
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 8
+STR: +4  DEX: +4
+WT: 2.0  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Eye of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Raising the Dead
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

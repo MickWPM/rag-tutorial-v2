@@ -1,0 +1,36 @@
+ITEM NAME: Tattered Arm Wrappings
+
+Kunark Era (added 2000)
+
+Tattered Arm Wrappings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 4
+STR: +3  INT: +1  MANA: +15
+SV FIRE: -2
+WT: 0.4  Size: MEDIUM
+Class: NEC
+Race: ALL
+
+
+ Item Lore (from Identify): Grave Clothes 
+Part of the Grave Clothes Armor Set. 
+
+  Drops From 
+Crypt of Dalnir
+
+ a spectral crusader
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

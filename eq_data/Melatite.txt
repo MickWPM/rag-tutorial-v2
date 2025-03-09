@@ -1,0 +1,39 @@
+ITEM NAME: Melatite
+
+
+Melatite
+
+
+WT: 5.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Sells to vendor for a piddly 9 silver. 
+
+  Drops From 
+Solusek's Eye
+
+ CWG Model CA
+ CWG Model CB
+ CWG Model CC
+ CWG Model CX
+ CWG Model MA
+ CWG Model MB
+ CWG Model MC
+ CWG Model XB
+ CWG Model XC
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Armor of Ro Quests
+ Darkforge Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

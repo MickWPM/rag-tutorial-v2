@@ -1,0 +1,39 @@
+ITEM NAME: Platinum Lapis Lazuli Necklace
+
+
+
+Platinum Lapis Lazuli Necklace
+
+
+Slot: NECK
+SV DISEASE: +7
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Note: Make sure to enchant the bar by an enchanter before combining. If u dont do that u will not get any stats on your created gear.
+
+ Jewelry Making (Trivial: 220)
+ Platinum Lapis Lazuli Necklace x1
+ In Jeweler's Kit:
+
+
+  1 x Platinum Bar - Bought
+  1 x Lapis Lazuli - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

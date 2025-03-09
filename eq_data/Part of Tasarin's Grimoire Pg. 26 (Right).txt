@@ -1,0 +1,144 @@
+ITEM NAME: Part of Tasarin's Grimoire Pg. 26 (Right)
+
+Classic Era (added 1999-2000)
+Part of Tasarin's Grimoire Pg. 26
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: Both the left and right sides have the same item name. As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Various Zones
+
+ Random drop from level ~16 mobs
+
+
+The drop tables below are pulled from EQEMU, so there may be discrepancies, please update as you find issues.
+Befallen
+
+ a ghoul
+ a necro theurgist
+
+Crushbone
+
+ Emperor Crush
+
+Estate of Unrest
+
+ a ghoul
+ dark boned skeleton
+
+Field of Bone
+
+ Burynai Excavator
+
+Gorge of King Xorbb
+
+ a gorge minotaur
+ a muddite elder
+ an evil eye
+
+Highpass Hold
+
+ a gnoll soothsayer
+ an orc medic
+ an orc scout
+ a smuggler
+ a Highpass citizen
+
+Kurn's Tower
+
+ Burynai Excavator
+ Burynai Sapper
+ greater scalebone
+ lesser icebone skeleton
+ thick boned skeleton
+
+Lavastorm Mountains
+
+ a lava crawler
+
+Lake of Ill Omen
+
+ a goblin battlemaster
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a brownie outcast
+ a faerie
+ a faerie guard
+
+Najena
+
+ a goblin magician
+ a goblin warrior
+ a magician
+ an ogre guard
+ a necromancer
+ dark-boned skeleton
+
+Northern Plains of Karana
+
+ a griffawn
+
+Ocean of Tears
+
+ a shark
+
+Permafrost Caverns
+
+ a goblin diviner
+ a goblin evoker
+ a goblin mendicant
+ an ice goblin
+
+Rivervale
+
+ Nillipuss
+
+South Ro
+
+ dry bones skeleton
+
+Southern Plains of Karana
+
+ aviak darter
+ centaur sheltie
+
+Stonebrunt Mountains
+
+ a Kejek leopard
+
+Swamp of No Hope
+
+ froglok gaz shaman
+
+Upper Guk
+
+ a froglok gaz warrior
+ a froglok ton shaman
+
+The Warrens
+
+ Prince Bragnar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Mesmerization (Trivial: 22)
+
+
+
+
+

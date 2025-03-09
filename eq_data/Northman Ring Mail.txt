@@ -1,0 +1,40 @@
+ITEM NAME: Northman Ring Mail
+
+
+
+Northman Ring Mail
+
+
+Slot: CHEST
+AC: 18
+WT: 8.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the barbarian cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 130)
+ Yield: Northman Ring Mail x1
+ In Northman Forge:
+
+
+  1 x Frost Temper - Crafted
+  1 x Large Chainmail Tunic Pattern - Bought
+  1 x Large Leather Tunic - Crafted, Bought
+  3 x Medium Quality Metal Rings - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

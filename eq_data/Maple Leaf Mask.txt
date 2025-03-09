@@ -1,0 +1,38 @@
+ITEM NAME: Maple Leaf Mask
+
+Velious Era (added December 2000-2001)
+
+
+
+Maple Leaf Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 4
+STA: +8  CHA: +8  WIS: +6
+SV DISEASE: +10  SV POISON: +10
+Effect:  Treeform (Must Equip, Casting Time: 10.0) at Level 20
+WT: 0.2  Size: SMALL
+Class: DRU ENC
+Race: HUM ERU ELF HIE DEF HEF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ Prince Thirneg
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

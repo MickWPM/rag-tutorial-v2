@@ -1,0 +1,40 @@
+ITEM NAME: Ulthork Meat Pie
+
+Velious Era (added December 2000-2001)
+
+
+Ulthork Meat Pie
+
+
+NO DROP
+This is a hearty meal!
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ Baking (Trivial: 95)
+ Yield: Ulthork Meat Pie x1
+ In Oven: (Bug? Dec 2017- Does not combine in town ovens, Spits do work however)
+
+
+  1 x Clump of Dough - Crafted
+  1 x Pie Tin - Crafted
+  1 x Spicy Ulthork Meat - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

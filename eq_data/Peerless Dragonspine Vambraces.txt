@@ -1,0 +1,43 @@
+ITEM NAME: Peerless Dragonspine Vambraces
+
+Velious Era (added December 2000-2001)
+
+
+
+Peerless Dragonspine Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 18
+STR: +11
+SV DISEASE: +7
+WT: 1.4  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Gafala
+ Hechaeva
+ Klandicar
+ Mazi
+ Neordla
+ Quoza
+ Von
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

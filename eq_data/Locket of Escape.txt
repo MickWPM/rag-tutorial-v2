@@ -1,0 +1,33 @@
+ITEM NAME: Locket of Escape
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Locket of Escape
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+Charges: 1
+Effect:  Bind Affinity (Must Equip, Casting Time: 2.0) at Level 10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Allows the user to bind anywhere, regardless of class or zone.
+No longer drops. Removed as per the classic timeline (ref).  Formerly dropped by Chief RokGus in Temple of Droga.
+Ceases to drop 1 month into Kunark. 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

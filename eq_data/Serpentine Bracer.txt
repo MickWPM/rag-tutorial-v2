@@ -1,0 +1,35 @@
+ITEM NAME: Serpentine Bracer
+
+Classic Era (added 1999-2000)
+
+Serpentine Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 1
+DEX: +3  AGI: +9
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL except IKS
+
+
+A cheap source of agility for melee who might be wearing Bone Legplates or other negative AGI items. If you have less than 75 AGI, these may net you more AC than mundane armor. 
+ Merchant resale value: 4p 6g 
+
+  Drops From 
+Lower Guk
+
+ a reanimated hand
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

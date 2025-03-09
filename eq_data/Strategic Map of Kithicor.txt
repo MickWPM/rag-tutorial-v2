@@ -1,0 +1,32 @@
+ITEM NAME: Strategic Map of Kithicor
+
+
+
+A Strategic Map of Kithicor
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Western Plains of Karana
+
+ Ghoul Messenger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Morin's Sword
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

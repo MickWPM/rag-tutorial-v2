@@ -1,0 +1,41 @@
+ITEM NAME: Ashweed
+
+
+
+Ashweed
+
+
+This is a meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire imp
+ goblin scout
+ goblin warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Ashed Dye on live, not usable on P99
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Lavastorm Mountains
+
+

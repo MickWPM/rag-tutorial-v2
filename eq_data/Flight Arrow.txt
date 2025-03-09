@@ -1,0 +1,75 @@
+ITEM NAME: Flight Arrow
+
+
+
+Flight Arrow
+
+
+Slot: AMMO
+DMG: 1
+WT: 0.1  Range: 150  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ a tatterback ape
+ a tottering gorilla
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Granthrow
+
+
+
+  (-508, -311)
+
+
+ Firiona Vie
+
+ Rafron Brandin
+
+
+
+  (-3833, 1671)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

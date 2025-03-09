@@ -1,0 +1,31 @@
+ITEM NAME: Paineel Plate Gauntlets
+
+Classic Era (added 1999-2000)
+
+ Paineel Plate Armor Set
+Paineel Plate Gauntlets
+
+
+
+Slot: HANDS
+AC: 9
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD SHM
+Race: HUM BAR ERU ELF HIE DEF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

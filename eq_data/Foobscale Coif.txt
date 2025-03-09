@@ -1,0 +1,34 @@
+ITEM NAME: Foobscale Coif
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+
+Foobscale Coif
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 7
+STR: +1  WIS: +1  INT: +1
+WT: 3.0  Size: SMALL
+Class: WAR CLR PAL SHD SHM
+Race: ALL
+
+
+Note: Item no longer obtainable on p99 as of Oct 8, 2013 patch. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Catfish Croak Sandwich Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

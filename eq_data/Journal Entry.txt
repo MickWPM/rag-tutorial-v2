@@ -1,0 +1,66 @@
+ITEM NAME: Journal Entry
+
+
+
+Journal Entry
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+
+
+Note: There are six items with this identical name (Crusader Nodfod 1-6).
+These are found as groundspawn throughout the Crypt of Dalnir, and each chronicles a different day.
+No purpose beyond hints for the Visceral Dagger, Greenmist, and flavor. 
+
+  Drops From 
+Crypt of Dalnir
+
+ Ground Spawns
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Visceral Dagger
+ Spirit of Golin 
+
+  Book contents 
+Day 47
+Crusader Golin and I have discovered what we believe to be the crypt of the ancient Haggle Baron Dalnir. It would seem as though the babble
+of the goblin slave we caught and tortured turned out to be accurate. Unfortunately we must rest and plan our route into the depths of this beast. It is filled with
+very dangerous creatures. Hopefully we can overcome the odds and find the final resting place of the Visceral Dagger and the Grand Forge.
+Day 48
+Blast! This IS the Crypt of Dalnir. We found the entrance which had the ancient Haggle Baron's name upon it. How foolish of the crypt keepers!
+The Crypt is filled with croaks from many races. They seem to be in some sort of trance and far more powerful then they appear. We were about to
+enter the main tomb when we were assaulted by the horde. Crusader Golin sustained a major gash on his shoulder. Before I could cauterize his
+wound, blood flowed all over, even this entry. Tomorrow we shall try to enter the main tomb.
+Day 49
+We finally had an opportunity to make a run into the main tomb, but just as we had the sarcophagus in our sights, we fell through a
+trap door hidden on the floor. We fell into what appears to be the true Crypt of Dalnir and also a haven for coerced sarnak! They were upon us in
+no time. We ran, but found ourselves in an unholy church. We fought our way out, but just as we broke through, Golin's skull was punctured
+by what appeared to be a rusted Crusader's khukri. I am now in hiding,praying to any god.
+Day 49 Eve
+The gods were listening. After many hours of hiding, it appears the beasts have gone to perform some sort of dark ritual in the church
+we found earlier. I could hear the screams of a sacrifice and the chant of some unknown tongue. I did a reconnaissance of this level and found
+no way out. The walls had tombs built into them as mortuaries do. None of the doors would open, but I did find one. I slid the sarcophagus out
+with much effort. Before I could attempt to open it I was scared off by noises within the drawer.
+Day 50
+Found in the Crusader Room behind the table/bed.
+ Item Lore (from Identify): Crusader Nodfod 5
+What have I gotten myself into? Soon I shall be dead. After finding the secret passage through the drawer, I found myself in a pit of evil. I
+crept through the shadows and came upon a locked door. I am no rogue. The door opened and a beast walked out, I spied the Grand Forge! Perhaps,
+also, a way to escape this madness. There must a key around here somewhere! On the beasts perhaps. Even fragments which I could piece
+together would do. I shall have to face great evil once more. Gods be with me once more.
+Day 55
+I have made my way past many locked doors and encountered great hordes of evil. The forge is here. Unfortunately I have learned that the
+dagger is fragmented in the crypt. I lost much in here. My good friend and along with him the shard which may be a piece to a larger puzzle,
+the khukri, Greenmist. I could never get that back. I would need to speak with the Brood and obtain a Crusader Coffin. But should I return to
+Cabilis without the dagger, Qyzar would torture me. No! Here shall be my last stand!
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

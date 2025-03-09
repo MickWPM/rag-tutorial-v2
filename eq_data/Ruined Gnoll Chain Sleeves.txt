@@ -1,0 +1,35 @@
+ITEM NAME: Ruined Gnoll Chain Sleeves
+
+
+
+Ruined Gnoll Chain Sleeves
+
+
+LORE ITEM
+Slot: ARMS
+AC: 2
+WT: 4.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Part of the Ruined Gnoll Chain Armor set. 
+
+  Drops From 
+Qeynos Hills
+
+ a gnoll
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

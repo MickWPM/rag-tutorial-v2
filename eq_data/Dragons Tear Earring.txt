@@ -1,0 +1,36 @@
+ITEM NAME: Dragons Tear Earring
+
+Velious Era (added December 2000-2001)
+
+
+Dragons Tear Earring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 10
+WIS: +7  INT: +7  HP: +10  MANA: +40
+SV DISEASE: +5  SV POISON: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Lord Yelinak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

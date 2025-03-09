@@ -1,0 +1,36 @@
+ITEM NAME: White-tipped Spiroc Feather
+
+Sky Era (added January 2000)
+
+
+
+White-tipped Spiroc Feather
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Guardian
+ a spiroc expulser and other trash spirocs on the island
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of Eagle
+ Wizard Test of Visualization
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

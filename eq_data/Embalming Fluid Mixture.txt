@@ -1,0 +1,43 @@
+ITEM NAME: Embalming Fluid Mixture
+
+Kunark Era (added 2000)
+
+
+embalming fluid mixture
+
+
+The Note is rolled up. 
+LORE ITEM
+WT: 0.1  Size: TINY
+
+
+Instructions on how to create Embalming Fluid (Item) for Necromancer Skullcap Quests  #3 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ a mortician
+
+
+
+
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

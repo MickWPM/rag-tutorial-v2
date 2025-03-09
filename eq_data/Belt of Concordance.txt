@@ -1,0 +1,43 @@
+ITEM NAME: Belt of Concordance
+
+Sky Era (added January 2000)
+
+
+Belt of Concordance
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 6
+STR: +5  CHA: +5
+SV POISON: +5
+Haste: +16%  
+WT: 0.1  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit princess
+ Bazzzazzt
+ Keeper of Souls
+ Protector of Sky
+ Sister of the Spire
+ The Spiroc Lord
+ Noble Dojorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Shardwurm Stinger
+
+Velious Era (added December 2000-2001)
+
+Shardwurm Stinger
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+Skill: Piercing  Atk Delay: 40
+DMG: 10 
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 9pp+ 
+
+  Drops From 
+Great Divide
+
+ a crystaline shardwurm
+ a young shardwurm
+ an ancient shardwurm
+ an elder shardwurm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

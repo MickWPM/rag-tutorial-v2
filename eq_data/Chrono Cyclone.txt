@@ -1,0 +1,30 @@
+ITEM NAME: Chrono Cyclone
+
+Classic Era (added 1999-2000)
+
+
+Chrono Cyclone
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Illusion card 3 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cheslin's Illusion Cards
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

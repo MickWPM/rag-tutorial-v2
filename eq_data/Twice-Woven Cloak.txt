@@ -1,0 +1,35 @@
+ITEM NAME: Twice-Woven Cloak
+
+
+
+Twice-Woven Cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 4
+WT: 1.5  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Lesser Faydark
+
+ a faerie guard
+ a fairy guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Robe of the Elements Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

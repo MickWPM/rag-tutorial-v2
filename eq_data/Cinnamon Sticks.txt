@@ -1,0 +1,35 @@
+ITEM NAME: Cinnamon Sticks
+
+
+Cinnamon Sticks
+
+
+This is a meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+"So the story with Cinnamon Sticks is that they were foragable before Epics were introduced (Sept 2000), then broken until Stonebrunt release (August 2001). They will be available again as a recipe with Stonebrunt."[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Pixie Powder Cinnesticks (Trivial: 202)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Greater Faydark
+
+

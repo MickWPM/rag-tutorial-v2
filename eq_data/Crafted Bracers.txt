@@ -1,0 +1,33 @@
+ITEM NAME: Crafted Bracers
+
+Classic Era (added 1999-2000)
+
+Crafted Bracers
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 10
+DEX: +2  INT: +2
+WT: 4.0  Size: SMALL
+Class: WAR
+Race: ALL except IKS
+
+
+
+ Merchant resale value: 9p 2g 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+Crafted Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

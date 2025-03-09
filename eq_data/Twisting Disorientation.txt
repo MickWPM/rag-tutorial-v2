@@ -1,0 +1,40 @@
+ITEM NAME: Twisting Disorientation
+
+Classic Era (added 1999-2000)
+
+
+Twisting Disorientation
+
+
+Effect: Dizzy IV (Combat, Casting Time: Instant) at Level 50
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 328)
+ Yield: Twisting Disorientation x1
+ In Mortar and Pestle:
+
+
+  1 x Black Henbane - Dropped
+  1 x Crystal Nightshade - Bought
+  1 x Death Cap - Dropped
+  1 x Ethereal Suspension - Bought
+  1 x Sealed Poison Vial - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

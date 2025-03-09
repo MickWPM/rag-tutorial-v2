@@ -1,0 +1,33 @@
+ITEM NAME: Gauntlets of the Ardent
+
+Temple Era (added October 1999)
+
+Gauntlets of the Ardent
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 12
+AGI: +5
+SV COLD: +5
+WT: 3.8  Size: SMALL
+Class: CLR
+Race: ALL except BAR ELF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Armor of the Priest Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

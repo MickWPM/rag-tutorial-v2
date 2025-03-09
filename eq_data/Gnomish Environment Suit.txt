@@ -1,0 +1,33 @@
+ITEM NAME: Gnomish Environment Suit
+
+
+Gnomish Environment Suit
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 9
+SV FIRE: +10  SV COLD: +10  SV POISON: +10
+WT: 3.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Solusek's Eye
+
+ Captain Bipnubble
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

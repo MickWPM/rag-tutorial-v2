@@ -1,0 +1,33 @@
+ITEM NAME: Preserved Hops
+
+
+
+Preserved Hops
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Estate of Unrest
+
+ an undead barkeep
+ an undead brewer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brell Serilis Disciple
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

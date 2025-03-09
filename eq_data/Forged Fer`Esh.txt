@@ -1,0 +1,42 @@
+ITEM NAME: Forged Fer`Esh
+
+Kunark Era (added 2000)
+
+
+Forged Fer`Esh
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 5 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Forged Fer`Esh x1
+ In Iksar Forge:
+
+
+  1 x Fer`Esh Blade Mold - Bought
+  1 x Flask of Bloodwater - Bought
+  1 x Folded Sheet Metal - Crafted
+  1 x Hilt Mold - Bought
+  1 x Pommel Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

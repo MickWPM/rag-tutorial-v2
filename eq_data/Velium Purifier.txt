@@ -1,0 +1,33 @@
+ITEM NAME: Velium Purifier
+
+Velious Era (added December 2000-2001)
+
+
+Velium Purifier
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: MEDIUM
+
+
+Tradeskill container used to make Vial of Velium Vapors.
+Say 'What velium vapors?' to Frundle Frenkler and receive the Velium Purifier.
+Apprehensive faction is high enough to get the purifier.
+Works dubiously verified 30 May 2018.
+Doable max kos to Coldain 15 Nov 2018. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #4: Fur-Lined Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

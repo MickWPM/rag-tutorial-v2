@@ -1,0 +1,31 @@
+ITEM NAME: Golden dragon claw
+
+Velious Era (added December 2000-2001)
+
+
+Golden Dragon Claw
+
+
+LORE ITEM NO TRADE
+WT: 1.0  Size: SMALL
+
+
+ Item Lore (from Identify):  'Runes begin to glow across the claws surface'  
+
+  Drops From 
+Dragon Necropolis
+
+ a chetari runemage
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mask of Draconic Enhancement
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

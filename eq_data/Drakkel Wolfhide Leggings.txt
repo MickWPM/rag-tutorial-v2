@@ -1,0 +1,34 @@
+ITEM NAME: Drakkel Wolfhide Leggings
+
+Velious Era (added December 2000-2001)
+
+Drakkel Wolfhide Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 9
+SV COLD: +2
+WT: 0.1  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a frost giant commoner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

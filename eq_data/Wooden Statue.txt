@@ -1,0 +1,29 @@
+ITEM NAME: Wooden Statue
+
+
+
+Wooden Statue
+
+
+LORE ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained from Nesiff Tallaherd. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nesiff's Statue
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

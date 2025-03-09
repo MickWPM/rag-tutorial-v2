@@ -1,0 +1,52 @@
+ITEM NAME: Words of Detachment
+
+
+Words of Detachment
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 8 Golds
+ 6 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from any level ~24 mob
+
+Lake of Ill Omen
+
+A sarnak recruit
+
+Temple of Droga
+
+a goblin legate
+
+West Commonlands
+
+ A shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Haunting Corpse (Trivial: 71) (Research Only)
+
+
+
+
+

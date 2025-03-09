@@ -1,0 +1,37 @@
+ITEM NAME: Shadow Rager
+
+Velious Era (added December 2000-2001)
+
+
+
+Shadow Rager
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 8 
+STR: +10
+Effect: Berserker Strength (Combat, Casting Time: Instant)
+WT: 4.0  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Tpos Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Shadow Rager in offhand
+

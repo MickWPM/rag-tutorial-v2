@@ -1,0 +1,35 @@
+ITEM NAME: Rotted Griffon-Hide Wrist Guard
+
+Sky Era (added January 2000)
+
+
+Rotted Griffon-Hide Wrist Guard
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+Charges: 10
+AC: 5
+DEX: +5  INT: +5  AGI: +5  MANA: +10
+Effect:  Levitate (Must Equip, Casting Time: Instant) at Level 30
+WT: 1.0  Size: SMALL
+Class: NEC
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Test of Flight
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

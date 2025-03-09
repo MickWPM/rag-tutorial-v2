@@ -1,0 +1,44 @@
+ITEM NAME: Teir`Dal Adamantite Breastplate (Enchanted)
+
+Were you looking for Teir`Dal Adamantite Breastplate?
+Were you looking for Teir`Dal Adamantite Breastplate (Imbued)?
+
+Teir`Dal Adamantite Breastplate
+
+
+Slot: CHEST
+AC: 26
+STR: +4  DEX: +10  INT: +4
+WT: 5.2  Size: LARGE
+Class: WAR CLR SHD BRD
+Race: DEF HEF
+
+
+Part of the dark elf cultural smithing armor sets.
+Prices on this page are not accurate. All 3 versions share the same name, thus prices are intermixed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 213)
+ Yield: Teir`Dal Adamantite Breastplate x1
+ In Teir`Dal Forge:
+
+
+  1 x Enchanted Adamantite Jointing - Crafted
+  3 x Enchanted Folded Adamantite Sheet - Crafted
+  1 x Leather Padding - Crafted
+  1 x Shadow Temper - Crafted
+  1 x Small Breastplate Mold - Bought
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

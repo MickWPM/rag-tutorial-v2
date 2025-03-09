@@ -1,0 +1,38 @@
+ITEM NAME: Sharp Cutting Disk
+
+Kunark Era (added 2000)
+
+
+Sharp Cutting Disk
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Catfish Croak Sandwich Quest
+
+  Player crafted 
+ Blacksmithing (Trivial: 26)
+ Yield: Sharp Cutting Disk x1
+ In Forge:
+
+
+  1 x Dull Cutting Disk - Quest Item
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

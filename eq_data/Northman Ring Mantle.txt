@@ -1,0 +1,40 @@
+ITEM NAME: Northman Ring Mantle
+
+
+
+Northman Ring Mantle
+
+
+Slot: SHOULDERS
+AC: 8
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the barbarian cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 120)
+ Yield: Northman Ring Mantle x1
+ In Northman Forge:
+
+
+  1 x Frost Temper - Crafted
+  1 x Large Chainmail Mantle Pattern - Bought
+  1 x Large Leather Shoulderpads - Crafted, Bought
+  2 x Medium Quality Metal Rings - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,63 @@
+ITEM NAME: Rusty Two Handed Sword
+
+Classic Era (added 1999-2000)
+
+Rusty Two Handed Sword
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 50
+DMG: 9 
+WT: 12.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+Part of the Rusty Weapons set. 
+
+  Drops From 
+Various Zones
+
+ Drops from low-level humanoids
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Harg Tonicka
+
+
+
+  (-41, -493)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86, -457)
+
+  Related quests 
+ Bone Chips Kaladim
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

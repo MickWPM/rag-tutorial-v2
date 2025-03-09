@@ -1,0 +1,38 @@
+ITEM NAME: Robe of the Azure Sky
+
+Hole Era (added June 2000) Zezelryck from Safe Space demonstrating High Elf fashion for the Robe of the Azure Sky.
+ Robe of the Azure Sky
+ Just totally real necromancers and definitely not Iksar shamans hanging out.
+
+
+Robe of the Azure Sky
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 18
+WIS: +20 INT: +20 HP: +85 MANA: +100
+SV FIRE: +15  SV DISEASE: +15  SV COLD: +15  SV MAGIC: +15  SV POISON: +15
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Phara Dar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

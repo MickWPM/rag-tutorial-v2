@@ -1,0 +1,41 @@
+ITEM NAME: Matchless Dragonleg Breeches
+
+Velious Era (added December 2000-2001)
+
+
+
+Matchless Dragonleg Breeches
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 26
+DEX: +13  STA: +9
+WT: 4.2  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Amcilla
+ Bufa
+ Ionat
+ Mazi
+ Myga
+ Nintal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

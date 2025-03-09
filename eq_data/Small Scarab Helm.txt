@@ -1,0 +1,30 @@
+ITEM NAME: Small Scarab Helm
+
+
+Small Scarab Helm
+
+
+Slot: HEAD
+AC: 4
+CHA: -1
+WT: 1.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scarab Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

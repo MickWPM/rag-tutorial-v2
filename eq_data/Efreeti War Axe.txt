@@ -1,0 +1,36 @@
+ITEM NAME: Efreeti War Axe
+
+Sky Era (added January 2000)
+
+Efreeti War Axe
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 28
+DMG: 12 
+WT: 0.1  Size: SMALL
+Class: WAR PAL SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Necropotence
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

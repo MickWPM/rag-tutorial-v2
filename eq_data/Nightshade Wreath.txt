@@ -1,0 +1,33 @@
+ITEM NAME: Nightshade Wreath
+
+
+Nightshade Wreath
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 1
+WIS: +5  INT: +5
+WT: 0.1  Size: SMALL
+Class: CLR DRU BRD SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+No helm graphic 
+
+  Drops From 
+Mistmoore Castle
+
+ Maid Issis
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

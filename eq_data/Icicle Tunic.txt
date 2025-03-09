@@ -1,0 +1,38 @@
+ITEM NAME: Icicle Tunic
+
+Velious Era (added December 2000-2001)
+
+
+Icicle Tunic
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 25
+STR: +5  DEX: +5  AGI: +5  HP: +80
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect:  Deadeye (Worn)
+WT: 0.5  Size: TINY
+Class: WAR MNK
+Race: HUM BAR ELF HIE DEF HEF
+DWF TRL OGR HFL GNM IKS
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Lord Doljonijiarnimorinar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

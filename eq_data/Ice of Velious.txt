@@ -1,0 +1,64 @@
+ITEM NAME: Ice of Velious
+
+Classic Era (added 1999-2000)
+
+Ice of Velious
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 3 Golds
+ 8 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Everfrost Peaks
+
+A wooly mammoth (uncommon drop)
+
+Gorge of King Xorbb
+
+a gorge minotaur (uncommon drop)
+a chasm minotaur (rare drop)
+
+Lake of Ill Omen
+
+A sarnak recruit
+
+Oasis of Marr
+
+a ghoul
+
+The Estate of Unrest
+
+a carrion ghoul (rare drop)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Lesser Summoning: Water (Trivial: 41)
+ Summoning: Water (Trivial: 62)
+
+
+ Baking
+ Unknown ice cream recipes; check "Ice Cream is Good - Part 2." (<flavoring>, Bottle of Milk, Cup of Sugar, Ice of Velious, Rock Salt, Cream*)
+ ? (Dairy Spoon, 2 Bottle of Milk, Benzoin)
+
+
+
+
+
+

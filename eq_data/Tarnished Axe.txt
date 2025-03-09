@@ -1,0 +1,40 @@
+ITEM NAME: Tarnished Axe
+
+Classic Era (added 1999-2000)
+
+
+Tarnished Axe
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 34
+DMG: 5 
+WT: 6.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Emerald Warriors' Items
+
+  Player crafted 
+ Blacksmithing (Trivial: 22)
+ Yield: Tarnished Axe x1
+ In Forge:
+
+
+  1 x Rusty Axe - Bought, Quested, Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

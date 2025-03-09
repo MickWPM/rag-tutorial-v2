@@ -1,0 +1,34 @@
+ITEM NAME: Crustacean Shell Shield
+
+Velious Era (added December 2000-2001)
+
+Crustacean Shell Shield
+
+
+Slot: SECONDARY
+AC: 17
+STR: +4  STA: +10  CHA: -7
+WT: 5.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+Part of the Crustacean Shell Armor set. 
+
+  Drops From 
+Cobalt Scar
+
+ an Othmir Shaman
+ an Othmir Warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

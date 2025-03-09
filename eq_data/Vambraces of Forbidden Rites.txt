@@ -1,0 +1,32 @@
+ITEM NAME: Vambraces of Forbidden Rites
+
+Velious Era (added December 2000-2001)
+ Myni models the Vambraces of Forbidden Rites (custom version).
+Vambraces of Forbidden Rites
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 19
+DEX: +3  WIS: +2  HP: +35
+WT: 6.0  Size: SMALL
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Velium Armplates
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

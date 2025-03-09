@@ -1,0 +1,33 @@
+ITEM NAME: Cougarskin Mask
+
+Velious Era (added December 2000-2001)
+
+
+Cougarskin Mask
+
+
+MAGIC ITEM  NO DROP
+Slot: FACE
+AC: 6
+DEX: +2  AGI: +2  HP: +10
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except TRL OGR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cougarskin Mask Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

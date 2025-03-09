@@ -1,0 +1,33 @@
+ITEM NAME: A Dark Cauldron
+
+Temple Era (added October 1999)
+
+
+A Dark Cauldron
+
+
+NO DROP
+WT: 2.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ an ancille cook
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Breastplate of Ro
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,29 @@
+ITEM NAME: Nobleman's Bag
+
+Classic Era (added 1999-2000)
+
+
+Nobleman's Bag
+
+
+LORE ITEM
+WT: 0.1  Weight Reduction: 0%
+Capacity: 4  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Sword of Nobility
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

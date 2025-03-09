@@ -1,0 +1,40 @@
+ITEM NAME: CLASS 3 Bone Hooked Arrow
+
+Classic Era (added 1999-2000)
+
+
+CLASS 3 Bone Hooked Arrow
+
+
+Slot: AMMO
+DMG: 4
+WT: 0.1  Range: 5 / 25 / 50  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 102)
+ Yield: CLASS 3 Bone Hooked Arrow x5
+ In Fletching Table:
+
+
+  1 x Hooked Arrowheads - Crafted, Bought
+  1 x Bundled Bone Arrow Shafts - Bought
+  1 x Several Shield Cut Fletchings - Bought
+  1 x Large Groove Nocks / Medium Groove Nocks / Small Groove Nocks - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

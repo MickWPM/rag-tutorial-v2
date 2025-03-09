@@ -1,0 +1,33 @@
+ITEM NAME: Mithril Frog Totem
+
+
+Mithril Frog Totem
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+AGI: +5  MANA: +35
+WT: 0.8  Size: SMALL
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+
+ Merchant resale value: 6.5p 
+
+  Drops From 
+Lower Guk
+
+ a froglok herbalist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

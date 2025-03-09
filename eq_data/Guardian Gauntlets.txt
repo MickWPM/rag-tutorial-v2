@@ -1,0 +1,36 @@
+ITEM NAME: Guardian Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Guardian Gauntlets
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 13
+STR: +3  DEX: +5  AGI: +2
+SV FIRE: +5  SV COLD: +5
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+Part of the Guardian Armor set. 
+
+  Drops From 
+Skyshrine
+
+ A Gargoyle Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

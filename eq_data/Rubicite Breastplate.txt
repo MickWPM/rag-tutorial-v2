@@ -1,0 +1,37 @@
+ITEM NAME: Rubicite Breastplate
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Rubicite Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 19
+Effect: Rubicite Aura (Worn)
+WT: 6.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: HUM BAR ERU ELF HIE DEF HEF DWF TRL OGR
+HFL GNM
+
+
+This item ceases to drop by the October 1999 (Temple of Solro) Patch. See: Green_Server#Anticipated_Patch_Release_Schedule
+Effect of +3 HP Regeneration. Part of the Rubicite Armor Set. 
+
+  Drops From 
+Cazic Thule
+
+ Avatar of Fear Classic Phase 1
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Electrum-bladed Wakizashi
+
+Classic Era (added 1999-2000)
+
+Electrum-Bladed Wakizashi
+
+
+MAGIC ITEM  NO DROP  QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 7 
+WT: 2.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Call of Flame Quest
+ Vampire Teeth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

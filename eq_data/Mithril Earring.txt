@@ -1,0 +1,162 @@
+ITEM NAME: Mithril Earring
+
+
+Mithril Earring
+
+
+Slot: EAR
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendor trash. Drop list likely incomplete. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 3 Platinums
+ 4 Golds
+ 5 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Beholder's Maze
+
+ an evil eye
+
+Commonlands
+
+ a Dervish Cutthroat
+
+Crypt of Dalnir
+
+ a coerced Iksar
+
+Crystal Caverns
+
+ a Ry`Gorr miner
+ a stalag terror
+ Derron Coldmist
+
+Dreadlands
+
+ a tundra yeti
+
+Erud's Crossing
+
+ Hastashi
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a lurking mummy
+ a skeletal monk
+ an undead knight of Unrest
+ Torklar Battlemaster
+
+Everfrost Peaks
+
+ an ice giant
+ Karg IceBear
+
+Frontier Mountains
+
+ a mountain giant hillock
+
+Lake of Ill Omen
+
+ a Sarnak adherant
+
+Lesser Faydark
+
+ a faerie
+ a faerie guard
+ a fairy guard
+ Bracken Underbrush
+ Jayla Nybright
+ Thistle Underbrush
+
+Lower Guk
+
+ a deadly black widow
+
+Mistmoore Castle
+
+ a dark elf noble
+ a dark offerer
+ a dark ritualist
+ a dark sacrificer
+ a ghostly ancille
+ a glyphed forbidder
+ a Mistmoore guard
+ a shadowy sage
+ a shadowy scribe
+ a shadowy scrivener
+ a soul inveigling
+ a soul seductress
+ a soul temptress
+ a spectral ancille
+ a spiritish ancille
+ a thought defiler
+ a thought spoiler
+ a vampire noble
+ a vampire oracle
+ a vampiric ancille
+ a wightish ancille
+
+Nagafen's Lair
+
+ imp protector
+
+Solusek's Eye
+
+ Solusek Champion
+
+Najena
+
+ Moosh
+
+North Kaladim
+
+ Guard Doradek
+
+South Kaladim
+
+ King Kazon Stormhammer
+
+Rathe Mountains
+
+ a hill giant
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Stonebrunt Mountains
+
+ a mature panda
+
+The Overthere
+
+ a prickly succulent
+
+The Wakening Land
+
+ a sifaye messenger
+ a tar goo
+
+Warsliks Woods
+
+ a skulking brute
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

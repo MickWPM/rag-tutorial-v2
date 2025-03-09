@@ -1,0 +1,43 @@
+ITEM NAME: Dark Root Ink
+
+
+
+Dark Root Ink
+
+
+MAGIC ITEM  NO DROP
+WT: 3.0  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Greater Faydark
+
+ Bilrio Surecut
+
+
+
+  (-649, 386)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

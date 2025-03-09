@@ -1,0 +1,35 @@
+ITEM NAME: Battle Worn Halberd
+
+Paineel Era (added February 2000)
+
+
+Battle Worn Halberd
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 41
+DMG: 16 
+STA: +5  AGI: +5
+SV DISEASE: +5
+WT: 8.0  Size: GIANT
+Class: SHD
+Race: ERU
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Experienced Courier
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

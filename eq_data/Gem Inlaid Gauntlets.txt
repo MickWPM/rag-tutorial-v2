@@ -1,0 +1,31 @@
+ITEM NAME: Gem Inlaid Gauntlets
+
+
+Gem Inlaid Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 8
+DEX: +3  STA: +3
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  'Gloves Crafted by Battlemore'  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gem Inlaid Gauntlets Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Donal's Gauntlets of Mourning
+
+Kunark Era (added 2000)
+
+Donal's Gauntlets of Mourning
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 16
+Effect:  Armor of Faith (Must Equip, Casting Time: 10.0) at Level 45
+WT: 5.0  Size: SMALL
+Class: CLR
+Race: ALL except IKS
+
+
+Part of the Donal's Armor of Mourning set. 
+ Merchant resale value: 434p Max 
+
+  Drops From 
+Karnor's Castle
+
+ a construct
+ a cursed hand
+ Hangnail
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

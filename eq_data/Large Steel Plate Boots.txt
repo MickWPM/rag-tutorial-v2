@@ -1,0 +1,72 @@
+ITEM NAME: Large Steel Plate Boots
+
+Classic Era (added 1999-2000)
+
+
+Large Steel Plate Boots
+
+
+Slot: FEET
+AC: 8
+WT: 8.1 Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Iskopa
+
+
+
+  (508, -236)
+
+
+ Halas
+
+ Guthan Shawnasy
+
+
+
+  (196, -324)
+
+
+ Neriak Foreign Quarter
+
+ Farlain Stonethrower
+
+
+
+  (199, -57)
+
+
+ Oggok
+
+ Uoola
+
+
+
+  (659, 684)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

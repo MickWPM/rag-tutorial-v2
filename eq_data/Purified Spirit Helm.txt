@@ -1,0 +1,39 @@
+ITEM NAME: Purified Spirit Helm
+
+Chardok Revamp Era (added late 2001)
+Purified Spirit Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 4
+CHA: +2  WIS: +2  INT: +2  HP: +5  MANA: +3
+WT: 1.0  Size: SMALL
+Class: ALL except SHD NEC WIZ MAG ENC
+Race: ALL except DEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Purified Spirit Helm x1
+ In Kejek Forge:
+
+
+  1 x Crystallized Shadow Helm - Dropped
+  1 x Soulforge Hammer - Quested, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,29 @@
+ITEM NAME: Wenglawks Manly Purse
+
+Velious Era (added December 2000-2001)
+
+
+Wenglawks Manly Purse
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Weight Reduction: 70%
+Capacity: 8  Size Capacity: GIANT
+
+
+This does NOT provide coin weight reduction on p99 as of January 2017. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mechanical Net Delivery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

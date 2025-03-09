@@ -1,0 +1,35 @@
+ITEM NAME: Blood Lord's Crown
+
+Velious Era (added December 2000-2001)
+
+
+Blood Lord's Crown
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 22
+STR: +6  DEX: +3  STA: +6  MANA: +40
+SV COLD: +4  SV MAGIC: +4
+WT: 5.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Skyshrine Helm
+ Custom Plate Helms - Skyshrine
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

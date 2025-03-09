@@ -1,0 +1,41 @@
+ITEM NAME: Northman Kite Shield
+
+
+
+Northman Kite Shield
+
+
+Slot: SECONDARY
+AC: 10
+HP: +4
+SV COLD: +5
+WT: 10.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: HUM BAR ERU HEF IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 114)
+ Yield: Northman Kite Shield x1
+ In Northman Forge:
+
+
+  1 x Kite Shield Mold - Bought
+  1 x Medium Quality Sheet Metal - Crafted, Bought
+  1 x Smithy Hammer - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

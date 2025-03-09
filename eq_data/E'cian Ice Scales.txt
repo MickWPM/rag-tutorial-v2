@@ -1,0 +1,28 @@
+ITEM NAME: E'cian Ice Scales
+
+
+
+E'cian Ice Scales
+
+
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 68) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

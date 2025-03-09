@@ -1,0 +1,32 @@
+ITEM NAME: Empty Crystal Sphere
+
+Paineel Era (added February 2000)
+
+
+Empty Crystal Sphere
+
+
+MAGIC ITEM LORE ITEM NO DROP
+WT: 0.1 Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+Paineel
+
+ Azraxs' Legacy
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

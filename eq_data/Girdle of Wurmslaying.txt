@@ -1,0 +1,35 @@
+ITEM NAME: Girdle of Wurmslaying
+
+Velious Era (added December 2000-2001)
+
+
+Girdle of Wurmslaying
+
+
+LORE ITEM
+Slot: WAIST
+AC: 8
+STR: +4  WIS: +4  INT: +4
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Velketors Experiment
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

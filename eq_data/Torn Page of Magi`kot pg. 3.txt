@@ -1,0 +1,32 @@
+ITEM NAME: Torn Page of Magi`kot pg. 3
+
+
+
+Torn Page of Magi`kot pg. 3
+
+
+QUEST ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Lower Guk
+
+ a bloodthirsty ghoul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,52 @@
+ITEM NAME: Underfoot Triple Bock
+
+
+
+Underfoot Triple Bock
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Firiona Vie
+
+ Samson
+
+
+
+  (-2952, 2977)
+
+
+ South Kaladim
+
+ Tumpy Irontoe
+
+
+
+  (178, 313)
+
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

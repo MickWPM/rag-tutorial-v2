@@ -1,0 +1,36 @@
+ITEM NAME: Breastplate of Superiority
+
+Velious Era (added December 2000-2001) Denny and Suvani with their Superior BPs
+
+
+Breastplate of Superiority
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 55
+STR: +4  DEX: +4  STA: +4  CHA: +4  WIS: +4  INT: +4  AGI: +4  HP: +50  MANA: +50
+SV FIRE: +4  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+WT: 0.0  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lendiniara the Keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Tattered Memo
+
+
+
+Tattered Memo
+
+
+LORE ITEM  NO DROP  TEMPORARY
+WT: 0.0  Size: TINY
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+This appears to be a clue (not a component) for the Long Iron Rod Quest. 
+
+  Drops From 
+Crypt of Dalnir
+
+ a coerced revenant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Day 55 I have happened upon the Crypt of Dalnir. His Grand Forge is near, I can feel it.
+I have also discovered a segment of a staff. It shows signs of Iksar craftsmanship, but of the age of Atrebe. I know the other part must be here. It would fetch heavy coin.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

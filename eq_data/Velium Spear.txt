@@ -1,0 +1,37 @@
+ITEM NAME: Velium Spear
+
+Velious Era (added December 2000-2001)
+
+Velium Spear
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 27
+DMG: 6 
+Effect: Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 6.3  Size: LARGE
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Not to be confused with Velium Spear (Dragon Necropolis), a much more valuable weapon with the same name. 
+ Merchant resale value: 6.1p 
+
+  Drops From 
+ Dragon Necropolis
+ Great Divide
+ a frost giant berserker
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

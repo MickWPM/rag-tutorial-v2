@@ -1,0 +1,41 @@
+ITEM NAME: Stupendous Tome
+
+Kunark Era (added 2000)
+
+
+Stupendous Tome
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of the Lord (#7)
+
+  Player crafted 
+ Non-Tradeskill
+ Yield: Stupendous Tome x1
+ In Pottery Wheel located inside the Droga Jail at (-198, 1113):
+
+
+  1 x Coarse Iron Needle - Quested
+  1 x Illegible Scroll  Item Lore (from Identify): Vok Na Zov I   - Dropped by failed crypt raider
+  1 x Illegible Scroll  Item Lore (from Identify): Vok Na Zov II  - Dropped by spectral courier
+  1 x Illegible Scroll  Item Lore (from Identify): Vok Na Zov III - Dropped by spectral courier
+  1 x Illegible Scroll  Item Lore (from Identify): Vok Na Zov IV  - Dropped by spectral courier
+  1 x Illegible Scroll  Item Lore (from Identify): Vok Na Zov V   - Dropped by a dark librarian
+  1 x Illegible Scroll  Item Lore (from Identify): Vok Na Zov VI  - Dropped by a dark ass`t librarian
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

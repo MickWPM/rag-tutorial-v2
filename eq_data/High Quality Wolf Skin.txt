@@ -1,0 +1,76 @@
+ITEM NAME: High Quality Wolf Skin
+
+
+High Quality Wolf Skin
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a blood wolf
+
+Commonlands
+
+ a black wolf
+ a shadow wolf
+
+Eastern Plains of Karana
+
+ a silvermist wolf
+ a war wolf
+ a dark stalker
+
+Greater Faydark
+
+ a black wolf
+
+Lesser Faydark
+
+ a mist wolf
+
+Misty Thicket
+
+ a black wolf
+
+Nektulos Forest
+
+ a black wolf
+
+Qeynos Hills
+
+ a gray wolf
+
+Southern Karana
+
+ a shadow wolf
+
+Western Plains of Karana
+
+ a mist wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wolfskin Gloves Quest
+ The Package
+ Wolf Hide Armor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Reinforced Armor (small sizes)(Trivial: 108)
+ Medium Quality Wolf Skin (Trivial: 15)
+
+
+
+
+

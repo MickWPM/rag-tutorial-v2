@@ -1,0 +1,33 @@
+ITEM NAME: Custom Champion's Crown
+
+Velious Era (added December 2000-2001)
+
+
+Custom Champion's Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 24
+STR: +2  DEX: +2  STA: +7  HP: +35
+SV FIRE: +3
+WT: 9.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Custom Plate Helms - Thurgadin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Mr. Secretary sports a Custom Champion's Crown
+

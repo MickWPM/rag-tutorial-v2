@@ -1,0 +1,37 @@
+ITEM NAME: Frost Bunny Meat
+
+Velious Era (added December 2000-2001)
+Note: Frost Bunny Meat does NOT drop on P99 server, For the correct version visit Snow Bunny Meat. "Snow Bunny Meat" was changed to "Frost Bunny Meat" with July 15, 2004 patch on LIVE.
+
+
+
+Frost Bunny Meat
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a snow bunny
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Saucy Bunnymeat (Trivial: 63)
+
+
+
+
+

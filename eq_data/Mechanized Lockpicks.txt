@@ -1,0 +1,38 @@
+ITEM NAME: Mechanized Lockpicks
+
+
+Mechanized Lockpicks
+
+
+Slot: PRIMARY
+Skill Mod: Pick Lock +2%
+WT: 0.1  Size: TINY
+Class: BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 62)
+ Yield: Mechanized Lockpicks x1
+ In Toolboxes:
+
+
+  1 x Gears - Bought
+  1 x Sprockets - Bought
+  1 x Lockpicks - Bought
+  1 x Rat Ears - Dropped, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

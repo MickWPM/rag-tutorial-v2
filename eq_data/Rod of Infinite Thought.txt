@@ -1,0 +1,42 @@
+ITEM NAME: Rod of Infinite Thought
+
+
+
+Rod of Infinite Thought
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 10 
+CHA: +5
+Effect:  Clarity (Any Slot/Can Equip, Casting Time: 7.0) at Level 46
+WT: 1.5  Size: MEDIUM
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+Post-Revamp (Current)
+Coercer T`vala
+
+
+Pre-Revamp
+ Innoruuk (God)
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

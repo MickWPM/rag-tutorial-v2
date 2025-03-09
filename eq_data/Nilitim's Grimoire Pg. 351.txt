@@ -1,0 +1,74 @@
+ITEM NAME: Nilitim's Grimoire Pg. 351
+
+
+
+Nilitim's Grimoire Pg. 351
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1p 1g 2s 1c 
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+ a tatterback ape
+
+City of Mist
+
+ a wraith
+ a phantom
+
+Eastern Wastes
+
+ a manticore
+
+Howling Stones
+
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+
+Lesser Faydark
+
+ a brownie guard
+
+Lower Guk
+
+ the ghoul arch magus
+
+Permafrost
+
+ a giant dire wolf
+
+Timorous Deep
+
+ a Raptor
+
+The Wakening Land
+
+ an elder holgresh
+ A Faerie Dragon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research
+ Extinguish Fatigue (Trivial:162)
+
+
+
+
+

@@ -1,0 +1,49 @@
+ITEM NAME: Sergeant's Claymore
+
+Velious Era (added December 2000-2001)
+Sergeant's Claymore
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 18 
+DEX: -3 AGI: -3
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Vendors for 44p 4g 6s 
+
+  Drops From 
+Kael Drakkel
+
+ Sergeant Boryek
+ Sergeant Heblaen
+ Sergeant Hedleiber
+ Sergeant Rethdaen
+ Sergeant Thardiel
+ Sergeant Tharjor
+ Sergeant Voldeyen
+ Watch Sergeant Coldbones
+ Watch Sergeant Feljar
+ Watch Sergeant Icestrider
+ Watch Sergeant Kredrer
+ Watch Sergeant Mjaek
+ Watch Sergeant Reldryel
+ Watch Sergeant Tlygrerion
+ Watch Sergeant Feldrakken
+ Watch Sergeant Vlreemar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

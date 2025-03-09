@@ -1,0 +1,34 @@
+ITEM NAME: Wilder's Girdle
+
+Sky Era (added January 2000)
+
+
+
+Wilder's Girdle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 5
+DEX: +3  AGI: +3
+WT: 0.1  Size: SMALL
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of The Bee
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Tempered Velium Battle Axe
+
+Velious Era (added December 2000-2001)
+
+
+
+Tempered Velium Battle Axe
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 40
+DMG: 32 
+WT: 6.3  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari guard
+ a Chetari hoarder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

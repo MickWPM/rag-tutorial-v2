@@ -1,0 +1,44 @@
+ITEM NAME: Mask of the Tundra Walker
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Mask of the Tundra Walker
+
+
+MAGIC ITEM LORE ITEM NO TRADE
+Charges: Unlimited 
+Slot: FACE
+AC: 10
+WIS: +10
+Effect: Illusion: Barbarian (Any Slot/Can Equip, Casting Time: 7.0)
+WT: 0.0  Size: TINY
+Class: CLR
+Race: HUM ERU
+
+
+Not classic. Will never be on P99.[[1]] See also: Globe of Darkness 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

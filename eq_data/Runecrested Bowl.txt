@@ -1,0 +1,38 @@
+ITEM NAME: Runecrested Bowl
+
+Epic Quests Era (added Sept 2000)
+Runecrested Bowl
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: The turn-in to Ella Foodcrafter (this bowl and Hardened Mixture) was made MQable on 7/14/13 [1]. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+ Ranger Epic Quest
+
+  Player crafted 
+ Pottery (Trivial: No-Fail)
+ Yield: Runecrested Bowl x1
+ In Pottery Wheel:
+
+
+  1 x Ancient Pattern - Quest Item
+  1 x Enchanted Clay - Quest Item
+  1 x Platinum Speckled Powder - Quest Item 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,96 @@
+ITEM NAME: Book of Ancient Restoration
+
+Classic Era (added 1999-2000)
+
+
+Book of Ancient Restoration
+
+
+WT: 0.4  Weight Reduction: 0%
+Capacity: 2  Size Capacity: LARGE
+
+
+Some evidence seems to suggest this item is an artifact from beta's Research scheme and had no use upon launch. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1053, -1012)
+
+
+ Southern Felwithe
+
+ Merchant Lyssia
+
+
+
+  (580, -872)
+
+
+ West Freeport
+
+ Dulia Jestes
+
+
+
+  (19, -817)
+
+
+ Neriak Commons
+
+ Veca S`Karn
+
+
+
+  (178, -919)
+
+
+ Toxxulia Forest
+
+ Xylania Rainsparkle
+
+
+
+  (2202, -1128)
+
+
+ Toxxulia Forest
+
+ Xylania Rainsparkle
+
+
+
+  (2202, -1128)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (553, 749)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

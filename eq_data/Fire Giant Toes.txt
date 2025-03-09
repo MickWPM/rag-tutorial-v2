@@ -1,0 +1,44 @@
+ITEM NAME: Fire Giant Toes
+
+
+Fire Giant Toes
+
+
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1p 8s 7c 
+
+  Drops From 
+Nagafen's Lair
+
+ fire giant warrior
+ fire giant wizard
+
+Ocean of Tears
+
+ Gornit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Torch of Alna Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy (Trivial: 155)
+ Yield: Potion of Graveyard Dust x1
+ In Medicine Bag:
+
+
+  1 x Dragonwart - Bought
+  1 x Fire Giant Toes - Dropped
+
+
+
+
+

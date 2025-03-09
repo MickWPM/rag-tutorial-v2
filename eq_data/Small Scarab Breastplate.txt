@@ -1,0 +1,33 @@
+ITEM NAME: Small Scarab Breastplate
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Small Scarab Breastplate
+
+
+Slot: CHEST
+AC: 14
+STR: +1 DEX: -1  STA: +1 HP: +10
+WT: 6.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: DWF HFL GNM
+
+
+
+ Merchant resale value: 3pp 8gp 5cp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scarab Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

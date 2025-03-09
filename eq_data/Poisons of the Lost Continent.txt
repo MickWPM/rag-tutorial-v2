@@ -1,0 +1,61 @@
+ITEM NAME: Poisons of the Lost Continent
+
+
+
+Poisons of the Lost Continent
+
+
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Lake of Ill Omen
+
+ Nubs Blackgranite
+
+
+
+  (-2517, -2920)
+
+
+ The Overthere
+
+ Tin Merchant IV
+
+
+
+  (2647, 2525)
+
+
+ Skyshrine
+
+ Barkeep Draven
+
+
+
+  (496, -735)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Unknown.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

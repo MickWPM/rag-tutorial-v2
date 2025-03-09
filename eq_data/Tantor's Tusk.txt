@@ -1,0 +1,37 @@
+ITEM NAME: Tantor's Tusk
+
+Velious Era (added December 2000-2001)
+
+ A ranger holding this curious weapon.
+Tantor's Tusk
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 60
+DMG: 50 
+HP: +50
+SV COLD: +10
+WT: 9.8  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+Pets cannot use. Looks like a Horn when equipped. 
+
+  Drops From 
+Western Wastes
+
+ Tantor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

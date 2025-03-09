@@ -1,0 +1,39 @@
+ITEM NAME: Banded Gorget
+
+Classic Era (added 1999-2000)
+Were you looking for Large Banded Armor Set? Were you looking for Small Banded Armor Set?
+
+Banded Gorget
+
+
+Slot: NECK
+AC: 5
+WT: 2.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Banded Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 102)
+ Yield: Banded Gorget x1
+ In Forge:
+
+
+  1 x Gorget Mold - Bought
+  1 x Sheet Metal - Crafted, Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Fixxin Followigs Silvery Blades
+
+
+
+Fixxin Followigs Silvery Blades
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Werewolf Hunters 
+
+  Book contents 
+Fixxin Followigs
+Silvery Blades
+Enchanted silver blades are a must for any would be monster hunter. A silver blade in the
+gut is the quickest cure for lycanthropy and undeath.
+Enchanted silver weapons must be forged from high quality ore that has been enchanted by a master enchanter such as
+myself. A sheet of the enchanted ore must be melted down with an enchanted bar of silver into the appropriate
+molds and tempered with a flask of water.
+Weapons crafted in the manner described will be quick and deadly to any supernatural beast in the hands of a skilled warrior.
+May lycanthropes everywhere tremble in fear from the glistening of silver blades under the light of the full moon!!
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

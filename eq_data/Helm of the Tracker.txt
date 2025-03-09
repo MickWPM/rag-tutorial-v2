@@ -1,0 +1,37 @@
+ITEM NAME: Helm of the Tracker
+
+ Naeth <Azure Guard>
+Velious Era (added December 2000-2001)
+
+
+Helm of the Tracker
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 20
+STR: +12  STA: +12
+SV FIRE: +15  SV COLD: +15
+Effect:  Truesight (Worn)
+WT: 3.7  Size: MEDIUM
+Class: RNG
+Race: HUM ELF HEF
+Deity: Tunare
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Helm of the Tracker Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

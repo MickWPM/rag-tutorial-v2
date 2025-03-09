@@ -1,0 +1,31 @@
+ITEM NAME: White Training Sash
+
+Classic Era (added 1999-2000)
+
+White Training Sash
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+STA: +1  CHA: +1
+WT: 0.0  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Sash Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

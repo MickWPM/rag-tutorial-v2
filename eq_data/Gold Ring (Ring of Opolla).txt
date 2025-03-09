@@ -1,0 +1,41 @@
+ITEM NAME: Gold Ring (Ring of Opolla)
+
+Classic Era (added 1999-2000)
+
+
+Gold Ring (Ring of Opolla)
+
+
+MAGIC ITEM LORE ITEM
+Slot: FINGER
+DEX: +1  CHA: -1
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Ring of Opolla 
+Used for the Paw of Opolla quest. Distinguished from an ordinary gold ring by the fact that it is MAGIC, LORE, and has the stats DEX: +1, CHA: -1. 
+
+  Drops From 
+Befallen
+
+ Gynok Moltor
+
+Kerra Isle
+
+ High Priestess Mitty
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shiny Rings
+ Paw of Opolla Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

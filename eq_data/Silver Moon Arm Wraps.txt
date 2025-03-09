@@ -1,0 +1,39 @@
+ITEM NAME: Silver Moon Arm Wraps
+
+Velious Era (added December 2000-2001)
+
+
+Silver Moon Arm Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 7
+STR: +4  DEX: +4  STA: +2  HP: +35
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+Part of the Silver Moon Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a phase puma
+ a sanguine kodiak
+ a sylvan protector
+ Grahl Strongback
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

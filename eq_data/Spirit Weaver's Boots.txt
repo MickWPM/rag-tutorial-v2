@@ -1,0 +1,36 @@
+ITEM NAME: Spirit Weaver's Boots
+
+Velious Era (added December 2000-2001)
+
+
+Spirit Weaver's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 18
+STA: +5  WIS: +3
+Effect: Extinguish Fatigue (Must Equip, Casting Time: 5.5)
+WT: 3.0  Size: MEDIUM
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+Part of the Spirit Weaver's Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a glade stalker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

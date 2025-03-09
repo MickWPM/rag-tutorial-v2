@@ -1,0 +1,35 @@
+ITEM NAME: Obsidian Shard
+
+Classic Era (added 1999-2000)Were you looking for Obsidian Shard (Sky)?
+
+Obsidian Shard
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 6 
+Effect:  Obsidian Shatter (Combat, Casting Time: Instant) at Level 16
+WT: 2.5  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+An excellent starter aggro weapon for warriors in the pre-Kunark era. 
+
+  Drops From 
+Solusek's Eye
+
+ kobold predator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

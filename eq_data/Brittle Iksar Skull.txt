@@ -1,0 +1,40 @@
+ITEM NAME: Brittle Iksar Skull
+
+Kunark Era (added 2000)
+
+
+Brittle Iksar Skull
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ a skeleton (Iksar)
+ a greater skeleton (Iksar)
+ scalebone skeleton (Unconfirmed)
+
+Swamp of No Hope
+
+ a decaying skeleton (Iksar)
+ Skeleton (Iksar)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cures
+ Necro Spells
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,46 @@
+ITEM NAME: Teir`Dal Adamantite Cloak (Imbued)
+
+Were you looking for Teir`Dal Adamantite Cloak?
+Were you looking for Teir`Dal Adamantite Cloak (Enchanted)?
+
+Teir`Dal Adamantite Cloak
+
+
+Slot: BACK
+AC: 14
+STR: +6  DEX: +6  WIS: +4  INT: +4
+WT: 3.0  Size: LARGE
+Class: WAR CLR SHD BRD
+Race: DEF HEF
+Deity: Innoruuk
+
+
+Part of the dark elf cultural smithing armor sets.
+Prices on this page are not accurate. All 3 versions share the same name, thus prices are intermixed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 230)
+ Yield: Teir`Dal Adamantite Cloak x1
+ In Teir`Dal Forge:
+
+
+  1 x Enchanted Adamantite Jointing - Crafted
+  3 x Enchanted Folded Adamantite Sheet - Crafted
+  1 x Imbued Sapphire - Summoned
+  1 x Leather Padding - Crafted
+  1 x Shadow Temper - Crafted
+  1 x Small Field Splinted Cloak Mold - Bought
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

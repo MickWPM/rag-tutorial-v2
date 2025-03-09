@@ -1,0 +1,76 @@
+ITEM NAME: Coldain Velium Scimitar
+
+Velious Era (added December 2000-2001)
+
+
+
+Coldain Velium Scimitar
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 6 
+Effect:  Velium Shards (Combat, Casting Time: Instant)
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+
+ Thurgadin
+
+ Jeril Kettletop
+
+
+
+  (-73, -482)
+
+
+ Thurgadin
+
+ Seril Kettletop
+
+
+
+  (-36, -495)
+
+
+ Thurgadin
+
+ Hakon Brightsteel
+
+
+
+  (-440, 78)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Hammer of Battle
+
+Velious Era (added December 2000-2001)
+Hammer of Battle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 17 
+STR: +10  DEX: +5  AGI: +5  HP: +75
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+Post-upgrade stats. See discussion. 
+
+  Drops From 
+Kael Drakkel
+
+ The Statue of Rallos Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

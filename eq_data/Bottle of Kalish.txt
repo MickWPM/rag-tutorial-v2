@@ -1,0 +1,384 @@
+ITEM NAME: Bottle of Kalish
+
+Classic Era (added 1999-2000)
+Bottle of Kalish
+
+
+QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+ 0 Platinums
+ 0 Golds
+ 1 Silvers
+ 4 Coppers 
+  Drops From 
+Befallen
+
+ a zombie
+
+Butcherblock Mountains
+
+ a goblin whelp
+ Glorin Binfurr
+ Glynda Smeltpot
+ Glynn Smeltpot
+ Gundl
+ Keldyn Dunfire
+ Margyl Darklin
+ Peg Leg
+ Qued
+ Stump Rundl
+
+Commonlands
+
+ a Dervish Cutthroat
+ a Dervish Thug
+
+Crushbone
+
+ orc pawn
+
+The Estate of Unrest
+
+ a festering hag
+
+Everfrost Peaks
+
+ an ice goblin scout
+ an ice goblin whelp
+
+Greater Faydark
+
+ a bandit lookout
+
+Innothule Swamp
+
+ a lesser kobold
+
+Lake Rathetear
+
+ a gnoll high shaman
+
+Lesser Faydark
+
+ Kayla Nybright
+ Tayla Nybright
+
+Misty Thicket
+
+ A Goblin Warrior
+
+Rathe Mountains
+
+ a bandit
+
+North Qeynos
+
+ a gnoll pup
+
+Northern Desert of Ro
+
+ a desert madman
+
+Qeynos Hills
+
+ a gnoll pup
+
+Steamfont Mountains
+
+ rogue cleaner
+
+Solusek's Eye
+
+ cinder goblin
+
+Western Plains of Karana
+
+ a bandit
+ Ulrich McMannus
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork grocer
+
+
+
+  (904, -284)
+
+
+ Eastern Plains of Karana
+
+ Paulina
+
+
+
+  (-732, -194)
+
+
+ Eastern Plains of Karana
+
+ Sharna
+
+
+
+  (-3790, -2399)
+
+
+ Eastern Plains of Karana
+
+ Iago
+
+
+
+  (-695, -134)
+
+
+ Eastern Plains of Karana
+
+ Lucetta
+
+
+
+  (1306, -2757)
+
+
+ Eastern Plains of Karana
+
+ Balthazar
+
+
+
+  (1328, -2722)
+
+
+ Erudin
+
+ Beth Breadmaker
+
+
+
+  (136, 109)
+
+
+ Erudin
+
+ Helia BlueHawk
+
+
+
+  (-1186, -333)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ The Feerrott
+
+ Kogg
+
+
+
+  (1045, 1462)
+
+
+ Felwithe
+
+ Fishmonger Issa
+
+
+
+  (258, -626)
+
+
+ Firiona Vie
+
+ Glinya Sweetpie
+
+
+
+  (-2750, 2550)
+
+
+ East Freeport
+
+ Winda Lylil
+
+
+
+  (44, -729)
+
+
+ North Freeport
+
+ Rashinda Elore
+
+
+
+  (290, 302)
+
+
+ West Freeport
+
+ Olyna Midel
+
+
+
+  (83, -904)
+
+
+ Halas
+
+ Teria O`Danos
+
+
+
+  (-6, -33)
+
+
+ Highpass Keep
+
+ Baker Jena
+
+
+
+  (46, -260)
+
+
+ Lake Rathetear
+
+ Turga
+
+
+
+  (3126, -1815)
+
+
+ Neriak Foreign Quarter
+
+ Tal Drana
+
+
+
+  (106, -251)
+
+
+ Neriak Foreign Quarter
+
+ Sal Drana
+
+
+
+  (106, -238)
+
+
+ Northern Karana
+
+ Bilbis Briar
+
+
+
+  (-4149, 1201)
+
+
+ Paineel
+
+ Gorng Alusnein
+
+
+
+  (984, 636)
+
+
+ Paineel
+
+ Iva Tersala
+
+
+
+  (970, 649)
+
+
+ Paineel
+
+ Toryn Roltaire
+
+
+
+  (1040, 641)
+
+
+ Western Plains of Karana
+
+ Misla McMannus
+
+
+
+  (-4023, -2344)
+
+
+ South Qeynos
+
+ McNeal Jocub
+
+
+
+  (-244, -261)
+
+
+ RunnyEye Citadel
+
+ A goblin merchant
+
+
+
+  (8, 130), (60, 139)
+
+
+ Skyshrine
+
+ Grudash the Baker
+
+
+
+  (161, -474)
+
+
+ Skyshrine
+
+ Ruru the Cook
+
+
+
+  (142, -474)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 31) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

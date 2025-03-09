@@ -1,0 +1,33 @@
+ITEM NAME: Lustrous Russet Gauntlets
+
+Fear Era (added July 1999)
+
+
+Lustrous Russet Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 16
+DEX: +5  STA: +5  HP: +50
+WT: 3.8  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except IKS
+
+
+Part of the Lustrous Russet Armor set, which no longer drops on Blue/Red/Green.
+Dropped in Plane of Fear, changed at the same time as guise/manastone change. Amygdalan Warrior 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Crown of Hatred
+
+Warrens Era (added spring 2001)
+
+Crown of Hatred
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+STR: +6  WIS: +6  INT: +6  AGI: +6
+Effect: Ultravision (Must Equip, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a haunted chest
+ An Elite Dragoon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

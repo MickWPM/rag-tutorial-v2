@@ -1,0 +1,286 @@
+ITEM NAME: Rusty Short Sword
+
+Classic Era (added 1999-2000)
+
+
+Rusty Short Sword
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 28
+DMG: 4 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 2 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Befallen
+
+ a cracked skeleton
+ a dread bone
+ a shadowknight (Human)
+ a sturdy skeleton
+ a zombie
+ an elf skeleton
+
+Butcherblock Mountains
+
+ a decaying dwarf skeleton
+ a krag elder
+ an aqua goblin
+ an undead pawn
+ an undead rook
+
+Mistmoore Castle
+
+ a glyphed familiar
+ a pledge familiar
+ an initiate familiar
+
+Commonlands
+
+ a decaying skeleton
+ a Dervish Cutthroat
+ a Dervish Thug
+ a lesser mummy
+ a parched zombie
+ a skeleton
+ a zombie
+ an orc legionnaire
+ Guard Colin
+ Guard Valon
+ orc centurion
+ orc legionnaire
+ orc weaponsmith
+ Shadow Treebright
+ Sil Silverstar
+
+Crushbone
+
+ Emperor Crush
+ Lord Darish
+ orc legionnaire
+ orc trainer
+ orc warlord
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+East Freeport
+
+ Brina Foxtripper
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+Erud's Crossing
+
+ a skeleton sailor
+ a zombie sailor
+
+The Estate of Unrest
+
+ a ghoul
+ dark boned skeleton
+ tormented dead
+
+Everfrost Peaks
+
+ a decaying skeleton
+ an orcish mountaineer
+ ice boned skeleton
+ vengeful soloist
+
+Firiona Vie
+
+ a drolvarg snarler
+
+Greater Faydark
+
+ a decaying skeleton
+ a faerie courtier
+
+Highpass Hold
+
+ a gnoll brawler
+ an orc warrior
+
+Innothule Swamp
+
+ a troll slayer
+ fungus man tracker
+ Jyle Windstorm
+
+Kithicor Forest
+
+ Ged Twigborn
+ Irin Lunis
+ skeleton trooper
+ undead cleric
+ zombie advisor
+ Zombie Commander
+ zombie infantry
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ a faerie
+ a faerie courtier
+ a faerie guard
+ a faerie noble
+ a skeleton
+ Cognoggin
+ Gearheart
+ Jayla Nybright
+ Kayla Nybright
+ orc centurion
+ orc chief
+ orc legionnaire
+ Shayla Nybright
+ Tayla Nybright
+
+Misty Thicket
+
+ orc centurion
+ orc pawn
+
+Rathe Mountains
+
+ a lizardman robber
+ a zombie
+
+Najena
+
+ a greater skeleton
+ a large skeleton
+
+Nektulos Forest
+
+ a calcified skeleton
+ a deathfist legionnaire
+ a decaying skeleton
+ a greater skeleton
+ a lesser mummy
+ a rotting citizen
+ a skeleton
+ a zombie
+ an undead annalkeeper
+ an undead steward
+
+North Qeynos
+
+ a decaying skeleton
+ Fippy Darkpaw
+
+Northern Desert of Ro
+
+ a deathfist pawn
+ a decaying skeleton
+ a Dervish Cutthroat
+ a Dervish Thug
+ a desert madman
+ a lesser mummy
+ a shriveled mummy
+ a skeleton
+ a zombie
+ dry bones skeleton
+
+Ocean of Tears
+
+ a greater skeleton
+ an isle goblin warrior
+
+Qeynos Hills
+
+ A Restless Skeleton
+ a skeleton
+
+Southern Karana
+
+ a skeleton
+ Brother Drash
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+Steamfont Mountains
+
+ a Krag elder
+
+The Feerrott
+
+ a decaying skeleton
+
+Upper Guk
+
+ a fungus drone
+ a fungus mutant
+
+West Freeport
+
+ a decaying skeleton
+ Deathfist Pawn
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Harg Tonicka
+
+
+
+  (-41,-493)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86,-457)
+
+  Related quests 
+ Bladed Weapons
+ Bone Chips Kaladim
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

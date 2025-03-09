@@ -1,0 +1,30 @@
+ITEM NAME: Avian Key
+
+Sky Era (added January 2000)
+
+
+Avian Key
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained by turning in a Bird Whistle to Sirran the Lunatic on Island four of Plane of Sky. Avian Key is used to Access Island 5. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Plane of Sky Keys
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Soft Wicker Gorget
+
+Velious Era (added December 2000-2001)
+
+
+
+Soft Wicker Gorget
+
+
+Slot: NECK
+AC: 3
+WT: 0.8  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a burly kobold
+ A Ferocious Kobold
+
+The Warrens
+
+ A Kobold Guard
+ Foodmaster Rargnar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

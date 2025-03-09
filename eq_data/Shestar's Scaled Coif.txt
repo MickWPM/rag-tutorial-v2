@@ -1,0 +1,39 @@
+ITEM NAME: Shestar's Scaled Coif
+
+Kunark Era (added 2000)
+
+Shestar's Scaled Coif
+
+
+LORE ITEM
+Slot: HEAD
+AC: 4
+WT: 0.8  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shestar's Scaled Coif Quest
+
+  Player crafted 
+ Blacksmithing (Trivial: 23)
+ Yield: Shestar's Scaled Coif x1
+ In Forge:
+
+
+  3 x Loose Scale - Dropped
+  1 x Shestar's Unfinished Coif - Returned on Failure 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

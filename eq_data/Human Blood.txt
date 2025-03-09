@@ -1,0 +1,128 @@
+ITEM NAME: Human Blood
+
+Classic Era (added 1999-2000)
+
+Human Blood
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 1 Golds
+ 9 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Befallen
+
+ a shadowknight (Human)
+
+West Commonlands
+
+ a Dervish Cutthroat
+
+East Commonlands
+
+ Rinna Lightshadow
+
+East Freeport
+
+ Runthar
+
+Eastern Plains of Karana
+
+ a bandit
+ a druid
+ Guard Diana
+ Guard Gonlo
+ Guard Juno
+
+Everfrost Peaks
+
+ Sulon McMoor
+
+Firiona Vie
+
+ Red Eye Jack
+
+Rathe Mountains
+
+ a bandit
+ Brother Zephyl
+ Maldyn the Unkempt
+ Tabien the Goodly
+
+Northern Karana
+
+ a raider
+
+North Qeynos
+
+ Togahn Sorast
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+
+Ocean of Tears
+
+ Dayle Jornin
+
+Qeynos Aqueducts
+
+ a ring leader
+ a thug
+ Argyn Shieldstan
+
+Qeynos Hills
+
+ Tovax Vmar
+
+Southern Karana
+
+ Brother Qwinn
+ Jale Phlintoes
+
+Southern Desert of Ro
+
+ a young ronin
+ a hermit
+
+Toxxulia Forest
+
+ Poacher Dell
+
+West Freeport
+
+ Thena Lonnes
+
+Western Plains of Karana
+
+ a bandit
+ Anderia
+ Brother Chintle
+ Brother Trintle
+ Habastash Gikin
+ Rongol
+ Konia Swiftfoot
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Blood Temper (Trivial: 135)
+
+
+
+
+

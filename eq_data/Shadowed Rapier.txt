@@ -1,0 +1,59 @@
+ITEM NAME: Shadowed Rapier
+
+
+Shadowed Rapier
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: WAR
+Race: NONE
+
+
+
+
+  Drops From 
+Commonlands
+
+ a shadowed man
+
+Lavastorm Mountains
+
+ a shadowed man
+
+Lesser Faydark
+
+ a shadowed man
+ a shadowed man pet
+
+Rathe Mountains
+
+ Ytyrs Reborn
+
+Innothule Swamp
+
+ a shadowed man
+
+Southern Karana
+
+ a shadowed man
+
+Nektulos Forest
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Journeyman's Boots Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

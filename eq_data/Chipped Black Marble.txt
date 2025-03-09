@@ -1,0 +1,59 @@
+ITEM NAME: Chipped Black Marble
+
+Velious Era (added December 2000-2001)
+
+
+
+Chipped Black Marble
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is vendor trash - not to be confused with CRUSHED Black Marble (melee boots) or Black Marble (priest chest) 
+ Merchant resale value: 49p 4g 
+
+  Drops From 
+Cobalt Scar
+
+ a bulthar
+ a wyvern
+
+Crystal Caverns
+
+ a geonid
+
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari master
+ a dragon construct
+
+Siren's Grotto
+
+ a neriad maiden
+
+The Wakening Land
+
+ a geonid
+ Korzak Stonehammer
+
+Velketor's Labyrinth
+
+ a velium hunter
+ an Icepaw kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

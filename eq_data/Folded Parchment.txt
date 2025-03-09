@@ -1,0 +1,32 @@
+ITEM NAME: Folded Parchment
+
+Classic Era (added 1999-2000)
+
+
+Folded Parchment
+
+
+The Note is rolled up.
+NO TRADE
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Paladins of the Underfoot 
+
+  Book contents 
+We would be honored if you would join us in serving the will of Brell. Find Datur, leader of the Paladins of the Underfoot, and give him this note. He will help you in your training.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

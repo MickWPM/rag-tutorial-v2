@@ -1,0 +1,35 @@
+ITEM NAME: Initiate Symbol of Bertoxxulous
+
+Kunark Era (added 2000)
+
+
+Initiate Symbol of Bertoxxulous
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 3
+WIS: +1  MANA: +3
+Effect:  Disease Cloud (Must Equip, Casting Time: 4.0)
+WT: 0.1  Size: TINY
+Class: CLR
+Race: HUM GNM
+Deity: Bertoxxulous
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bertoxxulous Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

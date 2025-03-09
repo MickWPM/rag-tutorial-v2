@@ -1,0 +1,31 @@
+ITEM NAME: Chunk of Tundra
+
+Epic Quests Era (added Sept 2000)
+Chunk of Tundra
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify):  Tundra from Everfrost 
+
+  Drops From 
+Everfrost Peaks
+
+ corrupted wooly mammoth
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

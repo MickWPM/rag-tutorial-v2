@@ -1,0 +1,43 @@
+ITEM NAME: Swordfish tooth
+
+Velious Era (added December 2000-2001)
+
+
+Swordfish tooth
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a coldspine seahorse
+ a servant swordfish
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Fletching  (Trivial:135)
+ Burin x1
+ In Fletching Kit:
+
+
+  1 x Ulthork Tusks - Dropped
+  1 x Swordfish tooth - Dropped
+  1 x Molkor Hide - Dropped
+
+
+
+
+

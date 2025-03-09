@@ -1,0 +1,39 @@
+ITEM NAME: Basilisk Egg
+
+Classic Era (added 1999-2000)
+
+Basilisk Egg
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Not to be confused with Basilisk eggs (plural), which are foraged in Rathe Mountains and The Feerrott. 
+
+  Drops From 
+Lavastorm Mountains
+
+ a lava basilisk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Clump of Doughx15 (Trivial: 17)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Butcherblock Mountains
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Jade Meditation Hoop
+
+Chardok Revamp Era (added late 2001)
+
+Jade Meditation Hoop
+
+
+MAGIC ITEM
+Slot: EAR
+AC: 2
+WIS: -10  INT: -10  MANA: +65
+WT: 0.5  Size: SMALL
+Class: ALL except WAR MNK ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Grand Herbalist Mak`ha
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

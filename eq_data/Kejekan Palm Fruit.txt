@@ -1,0 +1,38 @@
+ITEM NAME: Kejekan Palm Fruit
+
+
+Kejekan Palm Fruit
+
+
+This is a meal!
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yuio's Illness
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Stonebrunt Mountains
+
+"Its possible this item can only be foraged with a forage skill of 180+, based on anecdotal observations."
+NOTE: This item was also foraged with a Forage skill of 97. 5/27/2023, Green.
+NOTE: This item was also foraged with a Forage skill of 55 and 48. 10/24/2023 & 12/21/2023 respectively Green
+Note: I have yet to see one after 50ish successful forages, this thing seems to be very rare. 01/27/2025
+
+

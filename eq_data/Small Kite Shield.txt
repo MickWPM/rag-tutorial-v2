@@ -1,0 +1,170 @@
+ITEM NAME: Small Kite Shield
+
+
+Small Kite Shield
+
+
+Slot: SECONDARY
+AC: 8
+WT: 7.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+ Merchant resale value: 4p 6g 6s 3c 
+
+  Drops From 
+The Estate of Unrest
+
+ Garanel Rucksif
+
+North Kaladim
+
+ Guard Ainamar
+ Guard Dalammer
+ Guard Dalthur
+ Guard Doradek
+ Guard Kaldolar
+ Guard Kanuf
+
+South Kaladim
+
+ Guard Adolar
+ Guard Adolmer
+ Guard Anathur
+ Guard Badmer
+ Guard Bobbin
+ Guard Cardaff
+ Guard Didek
+ Guard Dinamin
+ Guard Dinler
+ Guard Gabbles
+ Guard Hinolmer
+ Guard Humkor
+ Guard Humphet
+ Guard Kathur
+ Guard Kindor
+ Guard Koranin
+ Guard Ninadek
+ Guard Ninaf
+ Guard Stump
+ Guard Tantan
+ King Kazon Stormhammer
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1285, -886)
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ West Commonlands
+
+ Ranon Strongarm
+
+
+
+  (-463, 2827)
+
+
+ East Commonlands
+
+ Altunic Jartin
+
+
+
+  (-115, 4734)
+
+
+ Felwithe
+
+ Merchant Tearlan
+
+
+
+  (-79, -385)
+
+
+ South Kaladim
+
+ Bindolmera Greybloom
+
+
+
+  (125, 399)
+
+
+ South Kaladim
+
+ Handaaf Orcslicer
+
+
+
+  (-42, 428)
+
+
+ Paineel
+
+ Kervis Ackblor
+
+
+
+  (1097, 428)
+
+
+ South Qeynos
+
+ Raffy Conticede
+
+
+
+  (-282, -491)
+
+
+ Rivervale
+
+ Rantho Goobler
+
+
+
+  (85, -140)
+
+
+ Thurgadin
+
+ Caitlin Underbelly
+
+
+
+  (-435, -144)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

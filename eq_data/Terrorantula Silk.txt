@@ -1,0 +1,33 @@
+ITEM NAME: Terrorantula Silk
+
+Warrens Era (added spring 2001)
+
+Terrorantula Silk
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+See the page on  the Terrorantula for farming tips. As seen from the Terrorantula Page on Allakhazam[1], Terrorantula Silk did not drop until April 2001; during the Warrens Era. 
+
+  Drops From 
+Southern Desert of Ro
+
+ Terrorantula
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Terrorantula Swatch (Trivial: 15)
+
+
+
+
+

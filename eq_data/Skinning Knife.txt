@@ -1,0 +1,58 @@
+ITEM NAME: Skinning Knife
+
+Classic Era (added 1999-2000)
+
+Skinning Knife
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 2 
+WT: 2.0  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 41)
+ Yield: Skinning Knife x1
+ In Forge:
+
+
+  1 x Dagger Blade Mold - Bought
+  1 x Hilt Mold - Bought
+  1 x Small Brick of Ore - Crafted, Bought, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Fishing
+ Recipe name(s)? (Trivial: ?)
+
+ Tailoring
+ Ruined Cat Pelt          (Trivial: 15)
+ Low Quality Cat Pelt     (Trivial: 15)
+ Medium Quality Cat Pelt  (Trivial: 15)
+ Ruined Bear Pelt         (Trivial: 15)
+ Low Quality Bear Skin    (Trivial: 15)
+ Medium Quality Bear Skin (Trivial: 15)
+ Ruined Wolf Pelt         (Trivial: 15)
+ Low Quality Wolf Skin    (Trivial: 15)
+ Medium Quality Wolf Skin (Trivial: 15)
+
+ Research
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

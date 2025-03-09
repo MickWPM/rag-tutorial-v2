@@ -1,0 +1,33 @@
+ITEM NAME: Cloak of the Undead Eye
+
+
+Cloak of the Undead Eye
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+Charges: 2
+AC: 4
+Effect: Invisibility versus Undead (Any Slot, Casting Time: Instant)
+WT: 3.5  Size: MEDIUM
+Class: CLR SHD NEC
+Race: DEF
+
+
+ Item Lore (from Identify):  Cloak of the Undead Eye
+Clickable from inventory (any class). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sir Lindeal's Testimony
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

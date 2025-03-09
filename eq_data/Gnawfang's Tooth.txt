@@ -1,0 +1,29 @@
+ITEM NAME: Gnawfang's Tooth
+
+
+Gnawfang's Tooth
+
+
+WT: 1.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Vendors for 3p and change. No other known use. 
+
+  Drops From 
+Southern Karana
+
+ Gnawfang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

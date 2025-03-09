@@ -1,0 +1,33 @@
+ITEM NAME: Imbued Fire Opal
+
+
+
+Imbued Fire Opal
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Created with the Wizard spell: Imbue Fire Opal. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Imbued Silver Fire Ring (Trivial: ??)
+ Imbued Electrum Fire Ring (Trivial: ??)
+ Imbued Golden Fire Ring (Trivial: ??)
+ Imbued Platinum Fire Ring (Trivial: 268)
+
+
+
+
+

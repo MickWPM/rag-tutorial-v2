@@ -1,0 +1,76 @@
+ITEM NAME: Combine Scimitar
+
+Classic Era (added 1999-2000)
+
+Combine Scimitar
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Northern Karana
+
+ Roule
+
+
+
+  (-645, -221)
+
+
+ Oasis of Marr
+
+ Transan
+
+
+
+  (613, 51)
+
+
+ Rathe Mountains
+
+ Tarikh Korula
+
+
+
+  (3974, 1422)
+
+
+ Southern Desert of Ro
+
+ Smith Tv`ysa
+
+
+
+  (93, 487)
+
+Buy price 38p 3g 0s 3c
+Sell price 37p 5g 4s 4c
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

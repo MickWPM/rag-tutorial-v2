@@ -1,0 +1,32 @@
+ITEM NAME: Flamesong
+
+Velious Era (added December 2000-2001)
+
+
+
+Flamesong
+
+
+MAGIC ITEM  LORE ITEM  Slot: PRIMARY SECONDARY Skill: 1H Slashing  Atk Delay: 24
+DMG: 10  WIS: +6 Effect: Flamesong (Combat, Casting Time: Instant) at Level 45 WT: 2.0  Size: MEDIUM
+Class: RNG Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Gleed Dragonhunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

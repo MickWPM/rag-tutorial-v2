@@ -1,0 +1,32 @@
+ITEM NAME: Shard of Golem Stone
+
+
+Shard of Golem Stone
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Skin like Rock (Any Slot, Casting Time: Instant) as Level 50
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cazic Thule
+
+ a stone golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

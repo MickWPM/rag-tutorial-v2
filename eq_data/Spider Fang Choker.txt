@@ -1,0 +1,36 @@
+ITEM NAME: Spider Fang Choker
+
+Velious Era (added December 2000-2001)
+
+Spider Fang Choker
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 3
+STA: +2  AGI: +2  MANA: +20
+SV COLD: +5  SV MAGIC: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1 silver 
+
+  Drops From 
+Crystal Caverns
+
+ a crystal lurker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

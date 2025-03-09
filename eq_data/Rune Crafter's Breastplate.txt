@@ -1,0 +1,34 @@
+ITEM NAME: Rune Crafter's Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Rune Crafter's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 37
+STR: +3  DEX: +3  STA: +6  WIS: +14  AGI: +3  HP: +30  MANA: +80
+Effect: Riotous Health (Any Slot/Can Equip, Casting Time: 9.0)
+WT: 9.0  Size: LARGE
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman's Velium Tunic
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

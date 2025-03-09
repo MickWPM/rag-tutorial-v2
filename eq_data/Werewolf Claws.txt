@@ -1,0 +1,35 @@
+ITEM NAME: Werewolf Claws
+
+
+Werewolf Claws
+
+
+MAGIC ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a werewolf
+
+Southern Karana
+
+ a werewolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lupine Claw Gauntlets Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

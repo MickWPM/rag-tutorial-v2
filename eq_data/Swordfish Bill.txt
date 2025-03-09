@@ -1,0 +1,51 @@
+ITEM NAME: Swordfish Bill
+
+Classic Era (added 1999-2000)
+
+Swordfish Bill
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 30
+DMG: 4 
+WT: 6.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 200 and faction at Amiably
+
+ 0 Platinums
+ 4 Golds
+ 9 Silvers
+ 6 Coppers 
+  Drops From 
+Kedge Keep
+
+ a lancer swordfish
+ a piercer swordfish
+ an impaler swordfish
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a swordfish
+
+West Karana
+
+ Junth McMannus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

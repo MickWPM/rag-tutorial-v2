@@ -1,0 +1,424 @@
+ITEM NAME: Basic Blacksmithing
+
+
+
+Basic Blacksmithing
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Everfrost Peaks
+
+ Dansie McVicker
+
+
+
+  (3638, 697)
+
+
+ East Freeport
+
+ Issilyn Ristan
+
+
+
+  (72, -214)
+
+
+ Grobb
+
+ Garklog
+
+
+
+  (502, -207)
+
+
+ Surefall Glade
+
+ Frannie
+
+
+
+  (-43, 12)
+
+
+ East Freeport
+
+ River Alemaker
+
+
+
+  (127, -270)
+
+
+ East Freeport
+
+ Daria Smith
+
+
+
+  (46, -226)
+
+
+ South Qeynos
+
+ Liln Sedder
+
+
+
+  (537, -45)
+
+
+ Steamfont Mountains
+
+ Oren Furdenbline
+
+
+
+  (-1623, 429)
+
+
+ Toxxulia Forest
+
+ Win Karnam
+
+
+
+  (2247, 979)
+
+
+ Western Plains of Karana
+
+ Sera McMannus
+
+
+
+  (-4011, -2222)
+
+
+ Qeynos Hills
+
+ Mira Sayer
+
+
+
+  (1404, 307)
+
+
+ Qeynos Hills
+
+ Marton Sayer
+
+
+
+  (1381, 278)
+
+
+ The Feerrott
+
+ Mugu
+
+
+
+  (972, 1236)
+
+
+ Butcherblock Mountains
+
+ Nalda Griststone
+
+
+
+  (2717, -964)
+
+
+ Greater Faydark
+
+ Merchant Uaylain
+
+
+
+  (-22, 118)
+
+
+ Greater Faydark
+
+ Merchant Linolyen
+
+
+
+  (110, 345)
+
+
+ Halas
+
+ Jil McDaniel
+
+
+
+  (325, -289)
+
+
+ Rivervale
+
+ Frankle Ironhair
+
+
+
+  (-251, -107)
+
+
+ Rivervale
+
+ Yola Sweetcookie
+
+
+
+  (-220, -189)
+
+
+ East Cabilis
+
+ Klok Gritchit
+
+
+
+  (593, 158)
+
+
+ East Cabilis
+
+ Klok Nalgoz
+
+
+
+  (239, -290)
+
+
+ East Cabilis
+
+ Brewer Prixal
+
+
+
+  (678, -26)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ East Freeport
+
+ Roghur Muleson
+
+
+
+  (-24, -492)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ Skyshrine
+
+ Barkeep Droz
+
+
+
+  (492, -654)
+
+
+ Thurgadin
+
+ Wevil Doughbeard
+
+
+
+  (-287, 134)
+
+
+ South Qeynos
+
+ Liln Sedder
+
+
+
+  (535,-41)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Guide to Blacksmithing
+Blacksmithing is the art of creating tools from the primal elements of the earth - Ore, Water and Fire. Talented blacksmiths can create weapons, armor and other useful items.
+Before you undertake your work as a smith, you will need a forge. Forges can be found in most cities. Place your raw materials upon the forge. Begin your work.
+Conversion rates:
+
+ Two pieces of Small Ore = Metal Bits
+ Three Small Bricks of Ore = Large Brick of Ore
+ Three Large Bricks of Ore = Block of Ore
+
+You will need a flask of water to cool the ore.
+BASIC BLACKSMITHING
+METAL BITS
+
+ Small Chunk of Ore
+ Flask of Water
+
+SKEWERS
+
+ Metal Bits
+ Skewer Mold
+ Flask of Water
+
+FILE
+
+ Metal Bits
+ File Mold
+ Flask of Water
+
+STEEL BONING
+
+ Small Brick of Ore
+ File
+ Flask of Water
+
+STUDS
+
+ 3 Metal Bits
+ File
+ Flask of Water
+
+SCALER
+
+ Metal Bits
+ Scaler Mold
+ Flask of Water
+
+SHEET OF METAL
+
+ 2 Small Bricks of Ore
+ Flask of Water
+
+FOLDED SHEET OF METAL
+
+ Block of Ore
+ Flask of Water
+ Smithy Hammer
+
+LANTERN
+
+ Metal Bits
+ Lantern Casing Mold
+ Bottle
+ Flask of Water
+
+LOCKPICKS
+
+ Metal Bits
+ Lockpick Mold
+ Flask of Water
+
+SHAPED COOKIE CUTTERS
+
+ Appropriately Shaped Mold
+ Metal Bits
+ Flask of Water
+
+MUFFIN TIN
+
+ Metal Bits
+ Muffin Tin Mold
+ Ceramic Lining
+ Flask of Water
+
+PIE TIN
+
+ Metal Bits
+ Pie Tin Mold
+ Ceramic Lining
+ Flask of Water
+
+CAKE ROUND
+
+ Metal Bits
+ Cake Round Mold
+ Ceramic Lining
+ Flask of Water
+
+SMOKER
+
+ Metal Bits
+ Skewers
+ Smoker Base Mold
+ Smoker Support Mold
+ Flask of Water
+
+POT
+
+ Metal Bits
+ Pot Mold
+ Standing Legs Mold
+ Flask of Water
+
+METAL CONTAINER
+
+ Metal Bits
+ Hinge Mold
+ Appropriate Container
+ Base Mold
+ Appropriate Container
+ Lid Mold
+ Flask of Water
+
+TOOL BOX
+
+ Metal Bits
+ Small Brick of Ore
+ Toolbox Mold
+ Flask of Water
+
+SEWING KIT
+
+ Metal Bits
+ Needle Mold
+ Thimble Mold
+ Flask of Water
+
+ON SHARPENING WEAPONS
+Rusty weapons can be sharpened, refurbishing them for use in combat. To refurbish a weapon, you will need a sharpening stone.
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

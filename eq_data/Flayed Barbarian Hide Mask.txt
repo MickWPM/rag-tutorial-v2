@@ -1,0 +1,41 @@
+ITEM NAME: Flayed Barbarian Hide Mask
+
+Velious Era (added December 2000-2001)
+
+Flayed Barbarian Hide Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 35
+Effect: Illusion: Barbarian (Must Equip, Casting Time: 6.0)
+STR: +15  DEX: +15  STA: +10  HP: +100
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+WT: 0.0  Size: TINY
+Class: BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify): Barbarian Hide Mask
+Originally did not have an effect (Illusion: Barbarian). Effect was added on October 2001 in the timeline.[1] 
+Clickable at level 15. 
+
+  Drops From 
+Kael Drakkel
+
+ The Avatar of War
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  See also 
+ Illusion Masks
+
+

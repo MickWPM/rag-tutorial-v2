@@ -1,0 +1,35 @@
+ITEM NAME: Shield of Battle
+
+Velious Era (added December 2000-2001)
+
+Shield of Battle
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 13
+STR: +2  WIS: +9  MANA: +10
+WT: 9.7  Size: GIANT
+Class: WAR CLR PAL RNG SHD DRU BRD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Semkak Prophet of Vallon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Strategies of the Ancient Dragons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

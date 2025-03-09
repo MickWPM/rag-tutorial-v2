@@ -1,0 +1,35 @@
+ITEM NAME: Scaled Knight's Helm
+
+Velious Era (added December 2000-2001)
+
+
+Scaled Knight's Helm
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 22
+STR: +3  STA: +6  WIS: +6  HP: +30
+SV COLD: +5  SV MAGIC: +5
+WT: 5.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Skyshrine Helm
+ Custom Plate Helms - Skyshrine
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

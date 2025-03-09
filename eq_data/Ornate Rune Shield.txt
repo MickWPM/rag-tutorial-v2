@@ -1,0 +1,35 @@
+ITEM NAME: Ornate Rune Shield
+
+Kunark Era (added 2000)
+
+Ornate Rune Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 15
+INT: +8  MANA: +10
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 3.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Runed Shield of Neh'Ashiir 
+
+  Drops From 
+City of Mist
+
+ Neh`Ashiir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Bigbrained Foreheadius the Elementalist <Safe Space> shows the Ornate Rune Shield in action on Project1999 Green
+ Ornate Rune Shield on Male Iksar
+

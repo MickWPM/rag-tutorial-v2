@@ -1,0 +1,293 @@
+ITEM NAME: Mixing Bowl
+
+
+
+Mixing Bowl
+
+
+QUEST ITEM
+WT: 0.4  Weight Reduction: 0%
+Capacity: 4  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork baker
+
+
+
+  (891, -301)
+
+
+ East Cabilis
+
+ Klok Unlar
+
+
+
+  (531, 162)
+
+
+ Erudin
+
+ Beth Breadmaker
+
+
+
+  (136, 109)
+
+
+ Erudin
+
+ Helia BlueHawk
+
+
+
+  (-1186, -333)
+
+
+ The Feerrott
+
+ Bup
+
+
+
+  (1182, 117)
+
+
+ Firiona Vie
+
+ Glinya Sweetpie
+
+
+
+  (-2750, 2550)
+
+
+ North Freeport
+
+ Rashinda Elore
+
+
+
+  (290, 302)
+
+
+ West Freeport
+
+ Olyna Mudel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Pincia Brownloe
+
+
+
+  (-276, -698)
+
+
+ Halas
+
+ Teria O`Danos
+
+
+
+  (-6, -33)
+
+
+ High Keep
+
+ Baker Jena
+
+
+
+  (46, -260)
+
+
+ North Kaladim
+
+ Tissin Greybloom
+
+
+
+  (663, -168)
+
+
+ North Kaladim
+
+ Serenk Greybloom
+
+
+
+  (663, -168)
+
+
+ Neriak Foreign Quarter
+
+ Tal Drana
+
+
+
+  (106, -251)
+
+
+ Neriak Foreign Quarter
+
+ Sal Drana
+
+
+
+  (106, -238)
+
+
+ Neriak Commons
+
+ Niz L`Crit
+
+
+
+  (82, -884)
+
+
+ Paineel
+
+ Gorng Alusnein
+
+
+
+  (984, 636)
+
+
+ Paineel
+
+ Iva Tersala
+
+
+
+  (970, 649)
+
+
+ Western Plains of Karana
+
+ Henina Miller
+
+
+
+  (-2856, -5843)
+
+
+ Western Plains of Karana
+
+ Cleet Miller Jr
+
+
+
+  (-3013, -5735)
+
+
+ South Qeynos
+
+ Karn Tassen
+
+
+
+  (-165, -255)
+
+
+ South Qeynos
+
+ Voleen Tassen
+
+
+
+  (-192, -266)
+
+
+ Rivervale
+
+ Bartle Barnick
+
+  NO LONGER SPAWNS
+
+  (-142, -358)
+
+
+ RunnyEye Citadel
+
+ A goblin merchant
+
+
+
+  (8, 130), (60, 139)
+
+
+ Skyshrine
+
+ Grudash the Baker
+
+
+
+  (161, -474)
+
+
+ Skyshrine
+
+ Ruru the Cook
+
+
+
+  (142, -474)
+
+
+ Thurgadin
+
+ Petcas Coldbeard
+
+
+
+  (-57, 94)
+
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Pottery (Trivial: 17)
+ Yield: Mixing Bowl x1
+ In Kiln:
+
+
+  1 x Firing Sheet - Bought
+  1 x Unfired Mixing Bowl - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
+
+Tradeskill Containers
+Brew Barrel • Forge • Kiln • Pottery Wheel • Loom • Sewing Kit • Fletching Kit
+Oven • Mixing Bowl • Spit • Jeweler's Kit • Toolboxes • Tackle Box
+Medicine Bag • Bearskin Potion Bag • "Always Works" containers
+
+
+

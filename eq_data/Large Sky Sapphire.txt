@@ -1,0 +1,33 @@
+ITEM NAME: Large Sky Sapphire
+
+Sky Era (added January 2000)
+
+
+ Enchanter Version Icon
+Large Sky Sapphire
+
+
+LORE ITEM  NO DROP
+WT: 0.1 Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+There are two versions of this item: the Large Sky Sapphire (Enchanter), with 15-weight, for the Enchanter quest "Azure Star Sapphire", and this 0.1-weight version that looks like a Black Sapphire for the Wizard quest ("Eye of the Storm").
+This is how the quests are set up to work on P99 [1]. 
+
+  Drops From 
+ Eye of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Preparation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

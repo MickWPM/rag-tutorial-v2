@@ -1,0 +1,36 @@
+ITEM NAME: Ornate Tin Box
+
+
+
+Ornate Tin Box
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: SMALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+No known classic use. 
+
+  Drops From 
+Swamp of No Hope
+
+ a froglok outlander
+
+Upper Guk
+
+ a froglok outlander
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

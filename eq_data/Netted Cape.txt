@@ -1,0 +1,49 @@
+ITEM NAME: Netted Cape
+
+Classic Era (added 1999-2000)
+
+
+Netted Cape
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 2
+WT: 0.4  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Part of the Netted Armor Set 
+
+  Drops From 
+Innothule Swamp
+
+ a froglok
+ a froglok fisherman
+
+Upper Guk
+
+ a froglok apprentice
+ a froglok guard
+ a froglok neophyte
+ a froglok novice
+ a froglok sentinel
+ a froglok sentry
+ a froglok tad
+
+Qeynos Aqueducts
+
+ A froglok (Qeynos Aqueducts)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

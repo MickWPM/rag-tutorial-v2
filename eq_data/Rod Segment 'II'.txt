@@ -1,0 +1,32 @@
+ITEM NAME: Rod Segment 'II'
+
+
+
+Rod Segment 'II'
+
+
+LORE ITEM  NO DROP
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crypt of Dalnir
+
+ A Kly Imprecator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Long Iron Rod Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

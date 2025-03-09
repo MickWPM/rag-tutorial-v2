@@ -1,0 +1,32 @@
+ITEM NAME: Salil's Writ Pg. 282 (Right)
+
+
+
+Salil's Writ Pg. 282
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: >= 146)
+ A Faded Salil's Writ Page
+
+
+  Tradeskill recipes 
+ Spell Research
+ Immobilize (Trivial: 140)
+
+
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Venomous Axe of the Velium Brood
+
+Velious Era (added December 2000-2001)
+
+ Oldie displays this axe in his main hand.
+Venomous Axe of the Velium Brood
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 11   AC: 10
+Effect:  Poisonous Chill (Combat, Casting Time: Instant) at Level 1
+WT: 4.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify): Axe of the Frost Spiders
+Procs an 85 DD poison nuke at Level 1. 
+
+  Drops From 
+Velketor's Labyrinth
+
+ a Frenzied Velium Stalker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

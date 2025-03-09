@@ -1,0 +1,33 @@
+ITEM NAME: Valorium Boots
+
+
+Valorium Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 17
+STA: +5  CHA: +9  INT: +5
+WT: 4.9  Size: MEDIUM
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a fetid fiend
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

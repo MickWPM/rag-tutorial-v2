@@ -1,0 +1,156 @@
+ITEM NAME: Dirge of the ForgeFire
+
+
+
+Dirge of the ForgeFire
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Kaila Rucksack
+
+
+
+  (2795, -697)
+
+
+ East Cabilis
+
+ Smithy Vyx
+
+
+
+  (-427, -215)
+
+
+ East Cabilis
+
+ Brewer Prixal
+
+
+
+  (678, -26)
+
+
+ East Freeport
+
+ Daria Smith
+
+
+
+  (46, -226)
+
+
+ Greater Faydark
+
+ Merchant Nluolian
+
+
+
+  (-107, -565)
+
+
+ Rivervale
+
+ Frankle Ironhair
+
+
+
+  (-251, -107)
+
+
+ Neriak Foreign Quarter
+
+ Ungia
+
+
+
+  (-203, -279)
+
+
+ West Karana
+
+ Spinner
+
+
+
+  (-1458, -12839)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+(Page 1)
+
+Near a defiant forge stood
+three Master smiths of great
+pedigree. Engaged in a test
+of mettle and might, they
+plied their craft till dead
+of night. Their hammers rang,
+and sparks did fly, till one
+grinned widely, his 
+expression wry.
+
+(Page 2)
+
+His skillful hand bore what
+was built, from Honest Drink,
+and Mold of Hilt. A Metal
+Sheet, and Spiked Ball Mold A
+Forged Morning Star to behold!
+
+At the blazing forge stood
+two, with bellows feeding
+flames of blue. From within
+the heated air did rise, the
+second blacksmith's joyous
+cries.
+
+(Page 3)
+
+A Water Flask and Metal Sheet,
+A Pommel Mold, and Hilt Mold
+meet. Add a Mold for Heavy
+Steel Blades, and a Forged
+Two Handed Sword is made.
+
+
+Near the waning flame stood
+one, with morning rise, his
+work near done. As the coals
+turned faded gray, his forged 
+creation saw light of day.
+
+
+(Page 4)
+
+His skill did show in com-
+pleted task, Mold of Pommel,
+Hilt and a Water Flask. A
+Mold for a strong Dual-Edged
+Blade, make a Forged Bastard
+Sword suited for any raid.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

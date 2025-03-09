@@ -1,0 +1,40 @@
+ITEM NAME: Crown of the Kromzek Kings
+
+Velious Era (added December 2000-2001)
+
+
+Crown of the Kromzek Kings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 35
+STR: +10  WIS: +10  INT: +10  HP: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +25  SV POISON: +10
+Effect: Truesight (Worn)
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Stats changed over time. 
+
+  Drops From 
+Kael Drakkel
+
+ King Tormax
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Custom Plate Helms - Kael Drakkel
+ Custom Plate Helms - Skyshrine
+ Custom Plate Helms - Thurgadin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Verlekarnorm's Horn of Disaster
+
+Velious Era (added December 2000-2001)
+Verlekarnorm's Horn of Disaster
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Brass Instrument: 22
+AC: 50
+STA: +25
+Effect: Verlekarnorm's Disaster (Any Slot/Can Equip, Casting Time: 15.0) at Level 50
+WT: 5.0  Size: TINY
+Class: BRD
+Race: ALL
+
+
+Note: Confirmed drop 5/Sep/20.
+The only instrument that drops in NToV 
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Kreizenn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

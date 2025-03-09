@@ -1,0 +1,33 @@
+ITEM NAME: Halfling Knife
+
+
+
+Halfling Knife
+
+
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 42
+DMG: 12
+WT: 0.5  Range: 60  Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Plains of Karana
+
+ Sir Morgan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

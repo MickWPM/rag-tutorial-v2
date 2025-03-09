@@ -1,0 +1,47 @@
+ITEM NAME: Warbone Chips
+
+Classic Era (added 1999-2000)
+
+
+Warbone Chips
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known classic use? 
+
+  Drops From 
+Butcherblock Mountains
+
+ an undead bishop
+ an undead king
+ an undead knight
+
+The Estate of Unrest
+
+ a barbed bone skeleton
+ a skeletal monk
+
+Lake of Ill Omen
+
+ war boned skeleton
+
+Rathe Mountains
+
+ a barbed bone skeleton
+ a skeletal monk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

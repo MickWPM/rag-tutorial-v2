@@ -1,0 +1,32 @@
+ITEM NAME: Page 34 of a Book
+
+Classic Era (added 1999-2000)
+
+
+Page 34 of a Book
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Page 34 of Testament of Vanear
+Moodoro Finharn can be found at Crow’s Pub & Casino in North Qeynos. Pay him 4 gold to get a card; do this until you get the Jester. Give the Jester back to him to get this page. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Library Book
+ Testament of Vanear Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Ring of Veeshan
+
+Sky Era (added January 2000)
+
+
+Ring of Veeshan
+
+
+LORE ITEM  NO DROP
+Slot: FINGER
+AC: 2
+INT: +4  MANA: +5
+WT: 5.0  Size: MEDIUM
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Test of The Finger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

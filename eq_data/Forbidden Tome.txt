@@ -1,0 +1,55 @@
+ITEM NAME: Forbidden Tome
+
+Kunark Era (added 2000)
+
+
+Forbidden Tome
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+
+
+This item appears to be written in Lizardman.
+ Item Lore (from Identify): The Blasphemer of Kotiz 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ a forbidden scribe
+
+
+
+  (-107, 637)
+
+
+ The Overthere
+
+ Dom K`Perl
+
+
+
+  (3017, 2193)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Unknown.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

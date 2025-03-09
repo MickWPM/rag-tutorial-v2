@@ -1,0 +1,39 @@
+ITEM NAME: Unfired Gnome Cookie Cutter
+
+
+
+Unfired Gnome Cookie Cutter
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 102)
+ Yield: Unfired Gnome Cookie Cutter x1
+ In Pottery Wheel:
+
+
+  1 x Gnome Template - Bought
+  1 x Small Block of Clay - Crafted, Bought, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Pottery
+ Gnome Shaped Cookie Cutter (Trivial: 17)
+
+
+
+
+

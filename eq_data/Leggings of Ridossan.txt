@@ -1,0 +1,33 @@
+ITEM NAME: Leggings of Ridossan
+
+Warrens Era (added spring 2001)
+ Anioah Shadowkite wearing the Helm, Tunic, and Leggings of Ridossan
+Leggings of Ridossan
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 9
+AGI: +2  MANA: +10
+SV FIRE: +3  SV MAGIC: +1
+WT: 4.2  Size: MEDIUM
+Class: SHD
+Race: ERU
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cold Iron
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

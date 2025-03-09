@@ -1,0 +1,35 @@
+ITEM NAME: Gauntlets of Ro
+
+Temple Era (added October 1999)
+
+
+
+Gauntlets of Ro
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 12
+DEX: +6
+SV POISON: +10
+WT: 2.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Armor of Ro Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

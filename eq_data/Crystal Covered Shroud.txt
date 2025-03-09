@@ -1,0 +1,47 @@
+ITEM NAME: Crystal Covered Shroud
+
+Velious Era (added December 2000-2001)
+
+Crystal Covered Shroud
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 12
+STR: +4  WIS: +4  INT: +4
+SV COLD: +10
+WT: 1.0  Size: MEDIUM
+Class: CLR DRU MNK NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+ Item Lore (from Identify):  Crystal Covered Shroud 
+ Merchant resale value: ~2.4pp 
+
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr herbalist
+ a terror carver
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
+Female Human
+
+A Crystal Covered Shroud
+(Plain Robe,
+with Kimberly Purple tint)
+
+
+
+ 
+

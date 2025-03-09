@@ -1,0 +1,32 @@
+ITEM NAME: Large Locked Crate
+
+
+
+Large Locked Crate
+
+
+LORE ITEM  NO DROP
+WT: 20.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Ocean of Tears
+
+ Brawn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Falchion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

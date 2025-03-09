@@ -1,0 +1,73 @@
+ITEM NAME: Large Brick of Velium
+
+Velious Era (added December 2000-2001)
+
+
+
+Large Brick of Velium
+
+
+WT: 14.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This is vendor trash. Conversion recipes removed in Oct 23rd, 2024 patch [1] 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 10 Platinums
+ 5 Golds
+ 5 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr miner
+
+Icewell Keep
+
+ an avalanche golem
+ Frosticube
+
+Skyshrine
+
+ A Golem Adjudicator
+ Trezum
+
+Tower of Frozen Shadow
+
+ a crystallized shadow guard
+ a golem usher
+
+Velketor's Labyrinth
+
+ a crystal destroyer
+ a crystal gargoyle
+ a crystal sentinel
+ a crystaline sentinel
+ a crystalline gargoyle
+ a crystalline hunter
+ a crystalline sentinel
+ a crystalline watcher
+ a velium hunter
+ an icy watcher
+ Bledrek
+ Crystal Fang
+ Kerdelb
+ Leljemor
+ Rijoely
+ The Brood Master
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

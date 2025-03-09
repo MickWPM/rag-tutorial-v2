@@ -1,0 +1,33 @@
+ITEM NAME: Dwarven Mace
+
+
+Dwarven Mace
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 8 
+WT: 4.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Crushbone
+
+ Emperor Crush
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Screaming Mace Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

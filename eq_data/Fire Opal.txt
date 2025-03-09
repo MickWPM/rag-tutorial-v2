@@ -1,0 +1,147 @@
+ITEM NAME: Fire Opal
+
+Classic Era (added 1999-2000)
+
+Fire Opal
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Genni in The Temple of Solusek Ro will give you these in exchange for 550 gold pieces (not platinum). 
+ Merchant resale value: 39p 5g 2s 
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+ a scoriae hornet
+ a tatterback ape
+ an ember hornet
+
+Chardok
+
+ a Di`Zok Legionnaire
+
+City of Mist
+
+ a phantom
+
+Crystal Caverns
+
+ a geonid
+
+East Karana
+
+ Proon
+
+Erud's Crossing
+
+ a killer shark
+
+Everfrost Peaks
+
+ an ice giant
+
+Howling Stones
+
+ a pyre golem
+ The Crypt Feaster
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ spectral knight
+
+Kedge Keep
+
+ a gloomstalker mermaid
+ a gloomwater mermaid
+
+Ocean of Tears
+
+ a cyclops
+ a seafury cyclops
+ corrupted seafury cyclops
+
+Old Sebilis
+
+ a sebilite golem
+ an iksar necromancer
+ dar ghoul knight
+ froglok krup knight
+ froglok reet knight
+ froglok reet shaman
+ froglok reet wizard
+
+Plane of Fear
+
+ a boogeyman
+ a fetid fiend
+ a glare lord
+ a samhain
+ Amygdalan knight
+
+Siren's Grotto
+
+ a neriad mistress
+ a siren beguiler
+ a siren myrmidon
+ a siren templar
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a skycinder drake
+ an elder wyvern
+ Black Scar
+
+Stonebrunt Mountains
+
+ An Elder Panda
+
+The Feerrott
+
+ Cyndreela
+
+The Wakening Land
+
+ a geonid
+ a tar goo
+
+Trakanon's Teeth
+
+ spectral champion
+
+Veeshan's Peak
+
+ a mature flame protector
+ a mature frost protector
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bones of Darak Lightforge
+ The Harvester
+ Ulthork Tusks Quest
+ Bard Lambent Gems
+ Lambent Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Fire Wedding Ring (Trivial: 54)
+ Electrum Fire Wedding Ring (Trivial: 124)
+ Golden Fire Wedding Ring (Trivial: 196)
+ Platinum Fire Wedding Ring (Trivial: 268)
+ Velium Fire Wedding Ring (Trivial: 271)
+
+
+
+
+

@@ -1,0 +1,44 @@
+ITEM NAME: Words of Duress
+
+
+Words of Duress
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 3 Golds
+ 8 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from any level ~34 mob
+
+Crystal Caverns
+
+ a stalag terror
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Minor Conjuration: Air (Trivial: 102) (Research Only)
+ Minor Conjuration: Fire (Trivial: 102) (Research Only)
+
+
+
+
+

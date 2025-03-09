@@ -1,0 +1,36 @@
+ITEM NAME: Blackburrow Swig
+
+
+Blackburrow Swig
+
+
+WT: 10.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ Brewing (Trivial: No Fail)
+ Yield: Blackburrow Swig x1
+ In Blackburrow Cask:
+
+
+  2 x Ol'Tujim's Fierce Brew - Crafted
+  2 x Gnoll Pup Scalp - Dropped
+  4 x Blackburrow Gnoll Skin - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

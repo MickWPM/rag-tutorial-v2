@@ -1,0 +1,35 @@
+ITEM NAME: Left Eye of Xygoz
+
+Hole Era (added June 2000)
+
+
+Left Eye of Xygoz
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+WIS: +12  INT: +12  MANA: +80
+Effect:  Ultravision (Worn)
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Xygoz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

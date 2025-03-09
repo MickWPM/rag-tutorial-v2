@@ -1,0 +1,35 @@
+ITEM NAME: Hand of the Maestro
+
+
+Hand of the Maestro
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+AC: 5
+INT: +5  HP: +20  MANA: +30
+WT: 0.0  Size: TINY
+Class: MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Maestro of Rancor
+ Hand of the Maestro (Mob) (Post-Revamp)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

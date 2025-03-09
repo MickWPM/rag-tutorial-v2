@@ -1,0 +1,35 @@
+ITEM NAME: Aviak Charm
+
+
+Aviak Charm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+DEX: +2  WIS: +1
+SV POISON: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Southern Karana
+
+ aviak avocet
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crafted Gauntlets Quest
+ Health Potion
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

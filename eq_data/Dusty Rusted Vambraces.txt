@@ -1,0 +1,36 @@
+ITEM NAME: Dusty Rusted Vambraces
+
+Kunark Era (added 2000)
+
+Dusty Rusted Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 9
+AGI: -4  HP: +30
+WT: 20.0  Size: LARGE
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+ Merchant resale value: 22pp 
+
+  Drops From 
+Howling Stones
+
+ a mortiferous golem
+ a pyre golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

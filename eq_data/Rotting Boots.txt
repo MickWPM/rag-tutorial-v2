@@ -1,0 +1,33 @@
+ITEM NAME: Rotting Boots
+
+Velious Era (added December 2000-2001)
+Rotting Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 5
+STA: +4  INT: +6  HP: +50
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+Effect: Invisibility versus Undead (Any Slot/Can Equip, Casting Time: 8.0)
+WT: 0.4  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Skyshrine Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

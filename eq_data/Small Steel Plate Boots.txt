@@ -1,0 +1,80 @@
+ITEM NAME: Small Steel Plate Boots
+
+
+
+Small Steel Plate Boots
+
+
+Slot: FEET
+AC: 8
+WT: 4.9  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork cobbler
+
+
+
+  (1174, -759)
+
+
+ Greater Faydark
+
+ Merchant Tinolwenya
+
+
+
+  (-504, 23)
+
+
+ South Kaladim
+
+ Hanek Ogerbane
+
+
+
+  (224, -254)
+
+
+ Neriak Foreign Quarter
+
+ Farlain Stonethrower
+
+
+
+  (199, -57)
+
+
+ Thurgadin
+
+ Garish Ironhelm
+
+
+
+  (-396, 552)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

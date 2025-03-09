@@ -1,0 +1,99 @@
+ITEM NAME: Summoned: Shuriken of Quellious
+
+
+
+Summoned: Shuriken of Quellious
+
+
+MAGIC ITEM  TEMPORARY  
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 23
+DMG: 7
+DEX: +4  AGI: +4
+WT: 0.1  Range: 100  Size: TINY
+Class: MNK ROG
+Race: ALL
+
+
+Related Pages
+Spells
+
+Pouch of Quellious
+
+Items
+
+ Golden Star Wrist WrapsGolden Star Wrist Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STR: +2  DEX: +2  STA: +2  HP: +10
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+Effect: Pouch of Quellious (Must Equip, Casting Time: 25.0) at Level 50
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+ Grand Master's Wrist WrapsGrand Master's Wrist Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+STR: +2  AGI: +2
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+Effect: Pouch of Quellious (Must Equip, Casting Time: 25.0)
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+ Silver Moon Wrist WrapsSilver Moon Wrist Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+STR: +2  STA: +2
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+Effect: Pouch of Quellious (Any Slot/Can Equip, Casting Time: 25.0) at Level 50
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+ White Lotus Wrist WrapsWhite Lotus Wrist Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+Effect: Pouch of Quellious (Must Equip, Casting Time: 25.0) at Level 50
+STR: +5  DEX: +3  HP: +30
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2
+SV MAGIC: +2  SV POISON: +2
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+ 
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

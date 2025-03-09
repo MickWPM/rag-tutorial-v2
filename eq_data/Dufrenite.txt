@@ -1,0 +1,144 @@
+ITEM NAME: Dufrenite
+
+Classic Era (added 1999-2000)
+
+Dufrenite
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Sold by merchants for 158pp 
+ Merchant resale value: 14.5p 
+
+  Drops From 
+Solusek's Eye
+
+ CWG Model CB
+ CWG Model MA
+ CWG Model MB
+ CWG Model MC
+ CWG Model XB
+ CWG Model XC
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Jondin
+
+
+
+  (-36, 508)
+
+
+ Firiona Vie
+
+ Shrub Marwood
+
+
+
+  (-3253, 2267)
+
+
+ West Freeport
+
+ Olyna Mudel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Torlig Mudel
+
+
+
+  (82, -917)
+
+
+ Grobb
+
+ Zumzal
+
+
+
+  (329, -495)
+
+
+ Halas
+
+ Murtog MacYee
+
+
+
+  (124, -364)
+
+
+ South Kaladim
+
+ Baldoleky Rockfinder
+
+
+
+  (254, -186)
+
+
+ Neriak Foreign Quarter
+
+ Gambel Quick
+
+
+
+  (253, -60)
+
+
+ Neriak Commons
+
+ Marza T`Kix
+
+
+
+  (20, -875)
+
+
+ Oggok
+
+ Hrak
+
+
+
+  (821, 849)
+
+
+ Oggok
+
+ Rora Dirtstamp
+
+
+
+  (212, -372)
+
+  Related quests 
+ Cannibalize II (Good)
+ Totemic Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

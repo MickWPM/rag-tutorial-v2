@@ -1,0 +1,39 @@
+ITEM NAME: Staff of Null
+
+Hole Era (added June 2000)
+
+
+ Project 1999 Blue - Staff of Null
+Staff of Null
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 34
+DMG: 19 
+STR: +10  CHA: +10  INT: +20  MANA: +85
+SV COLD: +10
+Effect:  Cancel Magic (Must Equip, Casting Time: 7.0) at Level 50
+WT: 2.0  Size: MEDIUM
+Class: MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Xygoz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

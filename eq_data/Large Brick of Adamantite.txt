@@ -1,0 +1,70 @@
+ITEM NAME: Large Brick of Adamantite
+
+
+
+Large Brick of Adamantite
+
+
+WT: 15.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Can be enchanted with the Spell: Enchant Adamantite for use in Dark Elf and Ogre cultural smithing recipes. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Commons
+
+ Trista N`Ryt
+
+
+
+  (70, -857)
+
+
+ Neriak Third Gate
+
+ Draan N`Ryt
+
+
+
+  (694, -1780)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 29)
+ Yield: Large Brick of Adamantite x1
+ In Teir`dal Forge:
+
+
+  1 x Neriak Nectar - Bought
+  3 x Small Brick of Adamantite - Crafted, Bought
+
+
+ In Oggok Forge:
+
+
+  1 x Ogre Swill - Bought
+  3 x Small Brick of Adamantite - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Block of Adamantite (Trivial: 29)
+ Adamantite Rings (Trivial: 46)
+
+
+
+
+

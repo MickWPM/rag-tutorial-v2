@@ -1,0 +1,30 @@
+ITEM NAME: Fiery Rock
+
+GM Event item (info)
+
+
+Fiery Rock
+
+
+MAGIC ITEM  NO DROP
+Effect:  Illusion: Fire Elemental (Any Slot, Casting Time: 0.1)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Dropped at a GM event (undead invasion of qeynos hills) only. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

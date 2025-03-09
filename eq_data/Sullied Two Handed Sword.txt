@@ -1,0 +1,31 @@
+ITEM NAME: Sullied Two Handed Sword
+
+
+
+Sullied Two Handed Sword
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 46
+DMG: 9 
+WT: 11.5  Size: LARGE
+Class: WAR
+Race: DEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yegek's Test, Part 2
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

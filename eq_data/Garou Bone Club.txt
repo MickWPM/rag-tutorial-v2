@@ -1,0 +1,35 @@
+ITEM NAME: Garou Bone Club
+
+Velious Era (added December 2000-2001)
+
+Garou Bone Club
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 5 
+WIS: +7  INT: +7
+Effect: Curse of the Garou (Combat, Casting Time: Instant) at Level 32
+WT: 4.0  Size: MEDIUM
+Class: CLR SHD DRU SHM
+Race: ALL
+
+
+
+ Merchant resale value: 47p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Mighty Garou
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

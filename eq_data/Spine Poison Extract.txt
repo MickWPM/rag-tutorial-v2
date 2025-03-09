@@ -1,0 +1,49 @@
+ITEM NAME: Spine Poison Extract
+
+Classic Era (added 1999-2000)
+
+
+Spine Poison Extract
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Pauldron
+
+  Player crafted 
+ Poison Making (Trivial: 21)
+ Yield: Spine Poison Extract x1
+ In Mortar and Pestle:
+
+
+  1 x Gray Colored Ice - Ground Spawn
+  2 x Pondfish Spine - Dropped
+  1 x Pot - Crafted, Returned on Failure, Returned on Success
+
+
+ Baking (Trivial: 21) [p1999]
+ Yield: Spine Poison Extract x1
+ In Oven:
+
+
+  1 x Gray Colored Ice - Ground Spawn
+  2 x Pondfish Spine - Dropped
+  1 x Pot - Crafted, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Valorium Bracers
+
+
+
+Valorium Bracers
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STR: +5  DEX: +5  MANA: +10
+SV POISON: +5
+WT: 3.0  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a fetid fiend
+ phoboplasm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

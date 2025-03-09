@@ -1,0 +1,32 @@
+ITEM NAME: Metal Pipe
+
+
+A Metal Pipe
+
+
+LORE ITEM  NO DROP
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+The metal pipe identifies as Fi version.
+There is an item with a similar name a metal pipe which is also used for the Monk Epic Quest. 
+
+  Drops From 
+Chardok
+
+ an iksar betrayer (Fi version)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Circle
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

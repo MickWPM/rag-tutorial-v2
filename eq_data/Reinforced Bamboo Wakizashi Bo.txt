@@ -1,0 +1,33 @@
+ITEM NAME: Reinforced Bamboo Wakizashi Bo
+
+Stonebrunt Era (added summer 2001)
+Reinforced Bamboo Wakizashi Bo
+
+
+Slot: PRIMARY SECONDAY
+Skill: 1H Blunt  Atk Delay: 34
+DMG: 6 
+WT: 9.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a highland kobold
+ a highland kobold shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,28 @@
+ITEM NAME: Treant Bow Staff
+
+
+Treant Bow Staff
+
+
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+  Related quests 
+ Rain Caller Quest
+ Trueshot Longbow Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Fletching
+
+
+
+

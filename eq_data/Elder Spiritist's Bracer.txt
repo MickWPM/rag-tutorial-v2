@@ -1,0 +1,34 @@
+ITEM NAME: Elder Spiritist's Bracer
+
+
+Elder Spiritist's Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 7
+Effect:  Share Wolf Form (Must Equip, Casting Time: 12.0) at Level 45
+WT: 4.0  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+Part of the Elder Spiritist's Armor set. 
+ Merchant resale value: 228p Max 
+
+  Drops From 
+Old Sebilis
+
+ Gruplinort
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

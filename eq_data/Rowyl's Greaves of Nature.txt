@@ -1,0 +1,34 @@
+ITEM NAME: Rowyl's Greaves of Nature
+
+Velious Era (added December 2000-2001)
+
+Rowyl's Greaves of Nature
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 9
+STR: +6  WIS: +7  MANA: +70
+SV COLD: +3
+Effect:  Circle of Misty (Must Equip, Casting Time: 24.0) at Level 5
+WT: 4.0  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid's Velium Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,90 @@
+ITEM NAME: Medium Quality Bear Skin
+
+Classic Era (added 1999-2000)
+
+Medium Quality Bear Skin
+
+
+QUEST ITEM
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Commonlands
+
+ a black bear
+ a kodiak
+ a young kodiak
+
+Everfrost Peaks
+
+ a glacier bear
+ a polar bear
+ a polar bear cub
+
+Misty Thicket
+
+ a young kodiak
+
+Rathe Mountains
+
+ a black bear
+ a brown bear
+ a grizzly bear
+
+Nektulos Forest
+
+ a black bear
+ a young kodiak
+
+Permafrost
+
+ a giant polar bear
+
+Qeynos Hills
+
+ a brown bear
+
+Surefall Glade
+
+ a bear cub
+
+The Feerrott
+
+ A Marsh Bear
+ a marsh bear cub
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bear Hide Armor
+ Upgraded Pelts
+
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Medium Quality Bear Skin x1
+ In Sewing Kit:
+
+
+  1 x High Quality Bear Skin - Quested, Dropped
+  1 x Skinning Knife - Crafted, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Low Quality Bear Skin (Trivial: 15)
+
+
+
+
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

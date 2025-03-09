@@ -1,0 +1,31 @@
+ITEM NAME: Pulsating Hyacinth Telesm
+
+
+
+Pulsating Hyacinth Telesm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+INT: +7  AGI: +7
+WT: 0.3  Size: SMALL
+Class: SHD NEC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Etched Stone
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

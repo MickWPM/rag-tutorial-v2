@@ -1,0 +1,39 @@
+ITEM NAME: Netted Kelp Cap
+
+Velious Era (added December 2000-2001)
+
+Netted Kelp Cap
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 5
+STR: +7  STA: +8  CHA: -2  INT: +5
+SV FIRE: +3
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Part of the Netted Kelp Armor set. 
+
+  Drops From 
+Siren's Grotto
+
+ a neriad maiden
+ a neriad mistress
+ a neriad sea princess
+ an enthralled molkor
+ an enthralled ulthork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

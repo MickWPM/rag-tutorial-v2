@@ -1,0 +1,35 @@
+ITEM NAME: Woven Grass Boots
+
+Velious Era (added December 2000-2001) Woven Grass Boots modeled by Tamtam <Empire>
+
+
+Woven Grass Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 8
+DEX: +15  MANA: +50
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+Effect: Spirit of Wolf (Any Slot/Can Equip, Casting Time: 5.5)
+WT: 2.5  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Skyshrine Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

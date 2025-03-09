@@ -1,0 +1,36 @@
+ITEM NAME: Vermiculated Leggings
+
+
+
+Vermiculated Leggings
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 8
+STR: +3  WIS: +5
+SV POISON: +7
+WT: 7.0  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a gorgon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Full armor set here: [1]
+
+

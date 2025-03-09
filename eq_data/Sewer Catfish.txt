@@ -1,0 +1,32 @@
+ITEM NAME: Sewer Catfish
+
+
+
+Sewer Catfish
+
+
+NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Can be obtained by Fishing in Cabilis or Firiona Vie. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Catfish Croak Sandwich Quest This quest has been removed on p99 and this fish should not be available either!  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Catfish Croak Sandwich (Trivial: 35) (Classic?)
+
+
+
+
+

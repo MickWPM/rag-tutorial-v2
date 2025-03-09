@@ -1,0 +1,33 @@
+ITEM NAME: Woven Grass Gauntlets
+
+Velious Era (added December 2000-2001)
+ Ginu models Woven Grass Gauntlets.
+Woven Grass Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 8
+DEX: +2  STA: +2  WIS: +3  MANA: +45
+SV DISEASE: +5  SV MAGIC: +5
+WT: 1.5  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Skyshrine Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

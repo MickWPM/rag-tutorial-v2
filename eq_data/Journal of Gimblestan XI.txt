@@ -1,0 +1,69 @@
+ITEM NAME: Journal of Gimblestan XI
+
+
+
+Journal of Gimblestan XI
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ Steamfont Mountains
+
+ a mechanical merchant
+
+
+
+  (1622, -1728)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+From the notes of Gimblestan, First Assistant to King Ak-'Anon the XVII, Master of the Tinkering Arts.
+Volume XI
+As previously mentioned, the fishing expedition had been planned for second-week, with a prize going to he clan that
+could pull the most fish from the waters of our beloved Lake Tildunk. How could we resist such a contest?
+It was a given that we would use our superior intellect to come up with a better way to win the competition. Snivlin
+suggested the use of underwater explosives, claiming that we could catch the fish once they floated to the surface. This was
+immediately voted down by the committee, since other groups might grab the fish we had used such innovation to catch.
+I myself was leery, remembering the accident at the FIREWATER storage facility from the previous week. It seems some young gnome,
+wanting to make FIREWORKS, had fixed the wrong ratio of water to gnomish spirits, resulting in unstable fuel for the
+fireworks. When she later attached the bat wings to the metal shaft, the unstable firewater ignited prematurely,
+sending the firework screaming into the storage facility.
+The new storage cavern was a welcome addition to our city.
+The committee finally decided upon a gadget of my own humble design for the contest: ANIMATED BAIT. Armed with
+bits of cork and sprikets, we assembled mass quantities of this new style bait.
+The final piece of work for the contest, and my personal favorite, is the COLLAPSIBLE FISHING POLE. Using three
+metal rods and some gnomish bolts, I tinkered together a fishing pole that would fit inside of my belt pouch.
+It was a good day to be a gnome.
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

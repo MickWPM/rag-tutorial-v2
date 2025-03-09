@@ -1,0 +1,35 @@
+ITEM NAME: Militia Captain Tunic
+
+Velious Era (added December 2000-2001)
+
+Militia Captain Tunic
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 26
+DEX: -20
+WT: 7.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF HFL GNM
+
+
+
+ Merchant resale value: 4.2p 
+
+  Drops From 
+Kael Drakkel
+
+ Kael Militia Captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

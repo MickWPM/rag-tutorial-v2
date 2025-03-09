@@ -1,0 +1,41 @@
+ITEM NAME: Velium Boning
+
+Velious Era (added December 2000-2001)
+
+Velium Boning
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 45)
+ Yield: Velium Boning x1
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  1 x File - Crafted(returned)
+  1 x Small Brick of Velium - Crafted, Dropped 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Black Pantherskin Armor (Trivial: Various)
+ Cobalt Drake Armor (Trivial: Various)
+ Haze Panther Armor (Trivial: Various)
+
+
+
+
+

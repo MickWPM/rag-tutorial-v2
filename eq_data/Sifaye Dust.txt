@@ -1,0 +1,33 @@
+ITEM NAME: Sifaye Dust
+
+Velious Era (added December 2000-2001)
+
+Sifaye Dust
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ A Sifaye Thane
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Clockwork Watchman Helm (Trivial: 212)
+
+
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Bracer of Scavenging
+
+Kunark Era (added 2000)
+
+Bracer of Scavenging
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+AC: 9
+DEX: +5  STA: +5
+WT: 2.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ Iksar Bandit Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

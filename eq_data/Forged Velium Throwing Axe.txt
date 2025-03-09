@@ -1,0 +1,41 @@
+ITEM NAME: Forged Velium Throwing Axe
+
+Velious Era (added December 2000-2001)
+
+
+Forged Velium Throwing Axe
+
+
+MAGIC ITEM  
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 28
+DMG: 7
+WT: 0.8  Range: 135  Size: MEDIUM
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 102)
+ Yield:  x
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  1 x Sheet of Velium - Crafted
+  1 x Throwing Axe Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

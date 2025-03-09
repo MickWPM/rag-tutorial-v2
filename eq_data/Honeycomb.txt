@@ -1,0 +1,49 @@
+ITEM NAME: Honeycomb
+
+Classic Era (added 1999-2000)
+
+Honeycomb
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used for several quests, but especially valued for those seeking to earn a Stein of Moggok. It is a rare drop off any bixie in Antonica. 
+
+  Drops From 
+East Commonlands
+
+ a bixie
+
+West Commonlands
+
+ a bixie
+
+Kithicor Forest
+
+ a bixie
+ a bixie drone
+
+Misty Thicket
+
+ a bixie
+ a bixie drone
+ a bixie queen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Cigar
+ Honey Jum Quest
+ Cure for Lempeck Hargrin
+ Chalice of Conquest Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

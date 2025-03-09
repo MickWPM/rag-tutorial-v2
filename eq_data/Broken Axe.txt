@@ -1,0 +1,30 @@
+ITEM NAME: Broken Axe
+
+Velious Era (added December 2000-2001)
+
+
+Broken Axe
+
+
+MAGIC ITEM  NO DROP  
+WT: 10.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Given by Boridain Glacierbane after handing him the Rabid Kodiak Skin. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #2: Silver Coldain Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

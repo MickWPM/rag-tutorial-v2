@@ -1,0 +1,34 @@
+ITEM NAME: Pauldrons of the Blue Sky
+
+
+
+Pauldrons of the Blue Sky
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+Charges: 3
+AC: 12
+STR: +8  DEX: +10  STA: +7  AGI: +10
+Effect:  Spirit of Cheetah (Must Equip, Casting Time: Instant) at Level 45
+WT: 4.5  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+Combine in Box of the Void with Mana Battery - Class Five to recharge 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Force
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

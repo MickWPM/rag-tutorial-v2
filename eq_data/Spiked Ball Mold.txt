@@ -1,0 +1,117 @@
+ITEM NAME: Spiked Ball Mold
+
+
+
+Spiked Ball Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Clockwork SmithXIII
+
+
+
+  (2163, -540)
+
+
+ Butcherblock Mountains
+
+ Kaila Rucksack
+
+
+
+  (2795, -697)
+
+
+ East Cabilis
+
+ Smithy Vyx
+
+
+
+  (-427, -215)
+
+
+ East Freeport
+
+ Jillian Dayson
+
+
+
+  (158, -371)
+
+
+ West Freeport
+
+ Olyna Midel
+
+
+
+  (83, -904)
+
+
+ Greater Faydark
+
+ Merchant Nluolian
+
+
+
+  (-107, -565)
+
+
+ Western Karana
+
+ Spinner
+
+
+
+  (-1453, -12837)
+
+
+ Skyshrine
+
+ Grudash the Baker
+
+
+
+  (161, -474)
+
+
+ Neriak Foreign Quarter
+
+ Ungia
+
+
+
+  (-203, -279)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

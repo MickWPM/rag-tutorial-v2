@@ -1,0 +1,34 @@
+ITEM NAME: The Visceral Dagger
+
+Kunark Era (added 2000)
+ The Visceral Dagger on a male Iksar
+The Visceral Dagger
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 21
+DMG: 6 
+INT: +8
+WT: 2.0  Size: MEDIUM
+Class: SHD NEC
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Tests (#6)
+ Visceral Dagger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

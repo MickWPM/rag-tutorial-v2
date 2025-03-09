@@ -1,0 +1,36 @@
+ITEM NAME: Greenmist Breastplate
+
+Warrens Era (added spring 2001)
+
+
+Greenmist Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 30
+STR: +15  STA: +10  INT: +10
+SV MAGIC: +5
+WT: 6.0  Size: MEDIUM
+Class: SHD
+Race: IKS
+
+
+Part of the Greenmist Armor set. 
+
+  Drops From 
+Plane of Fear
+
+ a nightmare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

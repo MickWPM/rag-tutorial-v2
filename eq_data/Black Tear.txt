@@ -1,0 +1,90 @@
+ITEM NAME: Black Tear
+
+Velious Era (added December 2000-2001)
+Black Tear
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Dozekar the Cursed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Request of the Arcane -- Mask of the Silver EyesMask of the Silver Eyes
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 25
+STA: +12  WIS: +12  INT: +12  HP: +20  MANA: +80
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Flowing Thought I (Worn)  
+WT: 0.5  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Black Tear
+ White Tear
+ Runed Tear
+ Glowing Drake Orb (from any HOT Named)
+
+ The Second Arcane Test -- Boots of Deep ThoughtBoots of Deep Thought
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 20
+STA: +15  INT: +15  HP: +65  MANA: +65
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Aura of Battle (Worn)  
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Ruby Tear
+ Black Tear
+ Ruby Symbol (from Lepethida)
+ White Symbol (from Casalen or Tavekalem)
+
+ Test of the Living Flame -- Earring of the Living FlameEarring of the Living Flame
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 20
+STR: +15  STA: +10
+SV FIRE: +20
+Effect:  Truesight (Worn)
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ Black Tear
+ Black Symbol (from Krigara or Ymmeln)
+ Poison Symbol (from Casalen or Tavekalem)
+ Serrated Symbol (from Lepethida)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

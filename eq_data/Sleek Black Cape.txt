@@ -1,0 +1,32 @@
+ITEM NAME: Sleek Black Cape
+
+
+Sleek Black Cape
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 6
+WT: 2.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Clan Runnyeye
+
+ a goblin warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

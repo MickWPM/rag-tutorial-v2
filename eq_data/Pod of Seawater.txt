@@ -1,0 +1,32 @@
+ITEM NAME: Pod of Seawater
+
+Epic Quests Era (added Sept 2000)
+
+Pod of Seawater
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: DRU
+Race: ALL
+
+
+ Item Lore (from Identify):  Seawater from Timorous 
+
+  Drops From 
+Timorous Deep
+
+ Faydedar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

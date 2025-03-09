@@ -1,0 +1,51 @@
+ITEM NAME: Bronze Halberd
+
+Classic Era (added 1999-2000)
+Bronze Halberd
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 52
+DMG: 10 
+WT: 15.0  Size: GIANT
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 4 Platinums
+ 4 Golds
+ 1 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Lake Rathetear
+
+ an aviak guard
+
+East Commonlands
+
+ a ghoul
+
+North Qeynos
+
+ Lieutenant Dagarok
+
+Najena
+
+ a skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

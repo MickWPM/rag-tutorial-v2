@@ -1,0 +1,35 @@
+ITEM NAME: Band of Eternal Flame
+
+Kunark Era (added 2000)
+
+Band of Eternal Flame
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+AC: 5
+STR: +4  INT: +4  HP: +25  MANA: +35
+SV FIRE: +10  SV COLD: -10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ Skeletal Berserker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

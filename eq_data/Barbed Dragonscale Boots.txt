@@ -1,0 +1,37 @@
+ITEM NAME: Barbed Dragonscale Boots
+
+Velious Era (added December 2000-2001)
+
+
+
+Barbed Dragonscale Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 19
+STA: +9  HP: +30
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Kyenka
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Living Dragons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

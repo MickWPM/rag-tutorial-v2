@@ -1,0 +1,34 @@
+ITEM NAME: Glowing Iksar Skull
+
+
+
+Glowing Iksar Skull
+
+
+NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Howling Stones
+
+ a helot skeleton
+ a sepulcher skeleton
+ an undertaker skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mirgon Dower's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

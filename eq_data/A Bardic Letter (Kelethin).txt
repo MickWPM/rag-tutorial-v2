@@ -1,0 +1,33 @@
+ITEM NAME: A Bardic Letter (Kelethin)
+
+Classic Era (added 1999-2000)
+
+
+A Bardic Letter (Kelethin)
+
+
+LORE ITEM  NO TRADE  TEMPORARY
+WT: 1.0  Size: TINY
+Class: None
+Race: None
+
+Item Information:
+The letter is sealed.
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Going Postal (Kaladim to Kelethin)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

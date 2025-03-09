@@ -1,0 +1,66 @@
+ITEM NAME: Spell: Thrall of Bones
+
+
+
+Spell: Thrall of Bones
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Alteration
+Mana Cost: 300
+Effect:  Thrall of Bones
+WT: 0.1  Size: SMALL
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+ a tatterback ape
+ A Wurm
+
+Chardok
+
+ an Ancient Guardian
+ Ancient Guardian
+
+Field of Bone
+
+ The Tangrin
+
+Howling Stones
+
+ a bottomless feaster
+ a mortiferous golem
+ greater plaguebone
+ greater war boned skeleton
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a chromadrac
+ a mature wurm
+ a mature wyvern
+ a wandering wurm
+ an elder wyvern
+ Black Scar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Spells
+ Necromancer Spells (Cabilis)
+
+  Player crafted 
+ Research (Trivial: 160) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

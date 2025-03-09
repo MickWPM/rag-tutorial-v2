@@ -1,0 +1,31 @@
+ITEM NAME: Scare Straw
+
+
+Scare Straw
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 8g 3s 
+
+  Drops From 
+Plane of Fear
+
+ a samhain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

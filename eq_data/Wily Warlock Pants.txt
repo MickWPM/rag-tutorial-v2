@@ -1,0 +1,37 @@
+ITEM NAME: Wily Warlock Pants
+
+Velious Era (added December 2000-2001)
+
+
+Wily Warlock Pants
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 20
+STA: +10  AGI: +10  HP: +5  MANA: +5
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.4  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

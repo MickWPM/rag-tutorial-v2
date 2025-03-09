@@ -1,0 +1,37 @@
+ITEM NAME: Halfling Stouters
+
+
+
+Halfling Stouters
+
+
+QUEST ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Brewing (135)
+
+Yield: Halfling Stouters x3
+In: Brew Barrel
+  1 x Shotglass - (Returned on Failure)
+  1 x Vodka - Crafted
+  1 x Berries - Foraged
+  1 x Spices - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

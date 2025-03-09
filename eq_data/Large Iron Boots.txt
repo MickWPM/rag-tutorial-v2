@@ -1,0 +1,81 @@
+ITEM NAME: Large Iron Boots
+
+Were you looking for Chainmail / Iron Armor Set? Were you looking for Small Chainmail / Iron Armor Set?
+
+
+Large Iron Boots
+
+
+Slot: FEET
+AC: 5
+WT: 6.3  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: BAR TRL OGR
+
+
+Part of the Large Chainmail / Iron Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Iskopa
+
+
+
+  (508, -236)
+
+
+ Grobb
+
+ Beztopi
+
+
+
+  (361, -236)
+
+
+ Halas
+
+ Maggie Shawnasy
+
+
+
+  (222, -299)
+
+
+ Neriak Foreign Quarter
+
+ Farlain Stonethrower
+
+
+
+  (199, -57)
+
+
+ Oggok
+
+ Uoola
+
+
+
+  (659, 684)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

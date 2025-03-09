@@ -1,0 +1,56 @@
+ITEM NAME: Brownie Parts
+
+
+Brownie Parts
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Greater Faydark
+
+ a brownie scout
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a brownie guard
+ a brownie outcast
+ Bracken Underbrush
+ brownie scout
+ corrupted brownie
+ Thistle Underbrush
+
+Rivervale
+
+ Nillipuss
+
+Steamfont Mountains
+
+ a mountain brownie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Magi Rune (Azia) (Trivial: 182) 
+
+
+ Baking
+ White Chocolate (Trivial: 95)
+ Winter Chocolate (Trivial: 95)
+
+
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Collar of Neshika
+
+
+
+Collar of Neshika
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 4
+STA: +9
+WT: 1.5  Size: SMALL
+Class: MNK
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Grim's Tiger Revenge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

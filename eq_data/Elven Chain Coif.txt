@@ -1,0 +1,40 @@
+ITEM NAME: Elven Chain Coif
+
+
+
+Elven Chain Coif
+
+
+Slot: HEAD
+AC: 7
+WT: 1.2  Size: SMALL
+Class: ALL except SHD MNK SHM NEC
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 175)
+ Yield: Elven Chain Coif x1
+ In Koada`Dal Forge:
+
+
+  1 x Chainmail Coif Pattern - Bought
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  2 x Mithril Rings - Crafted
+  1 x Moonlight Temper - Crafted
+  1 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

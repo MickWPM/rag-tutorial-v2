@@ -1,0 +1,37 @@
+ITEM NAME: Fangol
+
+Sky Era (added January 2000)
+
+
+ A female ogre in the Plane of Sky holding a mighty Fangol.
+Fangol
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 35
+DMG: 29 
+STR: +3  DEX: +10  STA: +10
+SV POISON: +5
+Effect:  Fangol's Breath (Combat, Casting Time: Instant) at Level 50
+WT: 8.0  Size: GIANT
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Bash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

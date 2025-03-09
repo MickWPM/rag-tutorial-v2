@@ -1,0 +1,36 @@
+ITEM NAME: Feir'Dal Sewing Kit
+
+
+
+Feir'Dal Sewing Kit
+
+
+WT: 4.0  Weight Reduction: 0%
+Capacity: 10  Size Capacity: LARGE
+
+
+This is the tradeskill container used for Wood Elf cultural tailoring. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: between 158 and 162; probably 162. 04/06/2023 Update: Combine successfully performed at a skill level of 161 and the combine was not trivial, implying 162 as trivial, based on the other information here.)
+ Yield: Feir'Dal Sewing Kit x1
+ In Fier`Dal Forge:
+
+
+  1 x Mithril Bits - Crafted
+  1 x Needle Mold - Bought
+  1 x Thimble Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

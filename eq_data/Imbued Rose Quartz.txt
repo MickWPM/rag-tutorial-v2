@@ -1,0 +1,30 @@
+ITEM NAME: Imbued Rose Quartz
+
+
+
+Imbued Rose Quartz
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Created from a normal Star Rose Quartz with the Imbue Rose Quartz spell. Creates items that are diety restricted to Erollisi Marr. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Human (Freeport) Cultural Smithing (Trivial: Various)
+
+
+
+
+

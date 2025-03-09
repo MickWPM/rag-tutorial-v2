@@ -1,0 +1,36 @@
+ITEM NAME: Crystal Chitin Boots
+
+Velious Era (added December 2000-2001)
+
+Crystal Chitin Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 20
+STR: +7  DEX: +3
+WT: 3.0  Size: TINY
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ a blizzard hunter
+ a crystalline hunter
+ a Frenzied Velium Broodling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,56 @@
+ITEM NAME: A Crude Stein
+
+Classic Era (added 1999-2000)
+A Crude Stein
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+Charges: 1
+STA: +10  CHA: +15
+Effect:  Minor Healing (Any Slot, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Bouncer Stein Charged
+Vendors will purchase this for 4 gold and sell it for 7.6p. 
+ Merchant resale value: 4g 
+
+  Drops From 
+The Feerrott
+
+ Bouncer Hurd
+ Bouncer Flerb
+
+Oggok
+
+ Bouncer Bak
+ Bouncer Druk
+ Bouncer Gronk
+ Bouncer Haraan
+ Bouncer Krik
+ Bouncer Mrang
+ Bouncer Praag
+ Bouncer Raan
+ Bouncer Scaar
+ Bouncer Skon
+ Bouncer Skuk
+ Bouncer Tazak
+ Bouncer Thrang
+ Bouncer Wrok
+ Bouncer Xak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crude Stein Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

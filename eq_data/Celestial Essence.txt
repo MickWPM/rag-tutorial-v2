@@ -1,0 +1,44 @@
+ITEM NAME: Celestial Essence
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+
+Celestial Essence
+
+
+QUEST ITEM WT: 0.1  Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: ?)
+ Yield: Celestial Essence x1
+ In Oven:
+
+
+  1 x Celestial Solvent - Bought
+  1 x Rune of Attraction - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

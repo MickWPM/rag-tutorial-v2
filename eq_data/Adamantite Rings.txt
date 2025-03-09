@@ -1,0 +1,49 @@
+ITEM NAME: Adamantite Rings
+
+
+
+Adamantite Rings
+
+
+WT: 2.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 46)
+ Yield: Adamantite Rings x2
+ In Tier`dal Forge:
+
+
+  1 x Neriak Nectar - Bought
+  1 x Large Brick of Adamantite - Crafted, Bought
+  1 x File - Crafted
+On Failure Returns: File
+
+
+
+ In Oggok Forge:
+
+
+  1 x Ogre Swill - CraftedBought
+  1 x Large Brick of Adamantite - Crafted, Bought
+  1 x File - Crafted 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Adamantite Chain Jointing (Trivial: 106)
+
+
+
+
+

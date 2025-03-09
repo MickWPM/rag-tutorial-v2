@@ -1,0 +1,34 @@
+ITEM NAME: Runed Protector's Vambraces
+
+Velious Era (added December 2000-2001)
+
+
+Runed Protector's Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 19
+STR: +7  MANA: +30
+SV COLD: +2  SV MAGIC: +3
+WT: 6.0  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Velium Armplates
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

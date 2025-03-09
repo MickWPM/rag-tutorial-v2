@@ -1,0 +1,35 @@
+ITEM NAME: Amulet of the Dreadgazer
+
+Velious Era (added December 2000-2001)
+Amulet of the Dreadgazer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 15
+STR: +5  STA: +5  WIS: +5  INT: +5  HP: +75  MANA: +75
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Truesight (Worn)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Aaryonar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

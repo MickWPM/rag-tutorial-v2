@@ -1,0 +1,38 @@
+ITEM NAME: Essence of Winter
+
+
+Essence of Winter
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors for about 2gp 
+
+  Drops From 
+Dreadlands
+
+ a tundra yeti
+
+Permafrost
+
+ an ice giant
+ an ice giant magus
+ an ice giant priest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Frost Temper (Trivial: 135)
+
+
+
+
+

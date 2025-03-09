@@ -1,0 +1,44 @@
+ITEM NAME: Bixie Wing
+
+Classic Era (added 1999-2000)
+
+Bixie Wing
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+West Commonlands
+
+ a bixie
+
+Misty Thicket
+
+ a bixie
+ a bixie drone
+ a bixie queen
+
+Kithicor Forest
+
+ a bixie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Apprentice Rune (Azia) (Trivial:41)
+
+
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Guard's Keyring
+
+
+
+Guard's Keyring
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Any Ogre guard has a chance to drop the Guard's Keyring, which will open all of the nearby prison cells as well as a few other select doors throughout the zone. 
+Other keys in Najena: Dull Bone Key and Golden Crescent Key. 
+
+  Drops From 
+Najena
+
+ A guard officer
+ an ogre guard
+ Moosh
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

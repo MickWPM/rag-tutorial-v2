@@ -1,0 +1,37 @@
+ITEM NAME: Book of Souls
+
+Epic Quests Era (added Sept 2000)
+
+Book of Souls
+
+
+LORE ITEM  NODROP
+Slot: SECONDARY
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+This book is a ground spawn every 10 hours and is located -60, +325, 56. This is on the night stand on the top floor of Maestro of Rancor building. Famously, it is not up. 
+
+  Drops From 
+Plane of Hate
+
+ Ground Spawn
+ (-60, +325, 56) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

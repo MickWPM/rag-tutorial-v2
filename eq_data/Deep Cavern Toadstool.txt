@@ -1,0 +1,46 @@
+ITEM NAME: Deep Cavern Toadstool
+
+Chardok Revamp Era (added late 2001)
+
+
+Deep Cavern Toadstool
+
+
+This is a enduring meal!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Fresh from the Chardok Gardens. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Chardok
+
+ Haggle Baron Dry`dn
+
+
+
+  (-93,351)
+
+
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

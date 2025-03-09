@@ -1,0 +1,35 @@
+ITEM NAME: Symbol of Tunarian Worship
+
+Velious Era (added December 2000-2001)
+
+
+Symbol of Tunarian Worship
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 15
+STR: +5  WIS: +10  MANA: +50
+SV DISEASE: +10  SV MAGIC: +10  SV POISON: +10
+WT: 3.0  Size: SMALL
+Class: CLR
+Race: HIE
+Deity: Tunare
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Four Idols
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

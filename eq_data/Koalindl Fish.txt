@@ -1,0 +1,38 @@
+ITEM NAME: Koalindl Fish
+
+
+
+Koalindl Fish
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+North Qeynos
+
+ a koalindl
+ Koalindl (Rodcet Nife)
+
+Western Karana
+
+ Frostbite
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Frostbite's Fish
+ Exotic Drinks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

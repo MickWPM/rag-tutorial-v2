@@ -1,0 +1,66 @@
+ITEM NAME: Rune of Al'Kabor
+
+
+Rune of Al'Kabor
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This rune is used for crafting Fire Spiral of Al'Kabor. Although the spell cannot be vendor purchased, it is very inefficient and never used by wizards as Pillar of Fire is much more efficient for quadding. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 1 Golds
+ 5 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Eastern Plains of Karana
+
+ a crag spider
+ a griffawn
+
+Ocean of Tears
+
+ An isle goblin
+
+The Feerrott
+
+ a spectre
+
+Upper Guk
+
+ a large heart spider
+
+Great Divide
+
+ a frost giant elite
+
+Timorous Deep
+
+ a golra
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Fire Spiral of Al'Kabor (Trivial: 41)
+ Shock Spiral of Al'Kabor (Trivial: 95)
+ Force Spiral of Al'Kabor (Trivial 140)
+
+
+
+
+

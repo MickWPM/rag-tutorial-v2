@@ -1,0 +1,45 @@
+ITEM NAME: Darkbone Marrow
+
+Classic Era (added 1999-2000)
+
+Darkbone Marrow
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This item serves little purpose other than poison making and to infuriate Necromancers who think they're Bone Chips. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 81 and faction at Indifferent
+ 0 Platinums
+ 5 Golds
+ 9 Silvers
+ 9 Coppers 
+
+  Drops From 
+The Estate of Unrest
+
+ dark boned skeleton
+
+Najena
+
+ dark-boned skeleton
+ a greater skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Leprous Pus (Trivial: 109><129)
+
+
+
+
+

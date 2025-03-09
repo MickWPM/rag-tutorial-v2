@@ -1,0 +1,37 @@
+ITEM NAME: Cracked Darkwood Shield
+
+Classic Era (added 1999-2000)
+
+ 
+Cracked Darkwood Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 12
+STR: +9
+WT: 5.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+ Item Lore (from Identify):  'Cracked Darkwood Shield' 
+This is a minor light source. 
+ Merchant resale value: 3p 
+
+  Drops From 
+Highpass Hold
+
+ Vexven Mucktail
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

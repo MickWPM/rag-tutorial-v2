@@ -1,0 +1,39 @@
+ITEM NAME: Plasmatic Priest Robe
+
+
+ Neya models the Plasmatic Priest Robe.
+Plasmatic Priest Robe
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 6
+SV FIRE: +2
+WT: 10.0  Size: MEDIUM
+Class: CLR WIZ MAG
+Race: HUM ERU HIE DEF GNM IKS
+
+
+ Item Lore (from Identify):  Plasmatic Priest Robe
+Not to be confused with the Blood Soaked Plasmatic Priest Robe for the Cleric Epic Quest. 
+
+  Drops From 
+Lake Rathetear
+
+ Shmendrik Lavawalker
+
+Nagafen's Lair
+
+ Zordak Ragefire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

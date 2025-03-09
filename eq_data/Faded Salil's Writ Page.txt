@@ -1,0 +1,33 @@
+ITEM NAME: Faded Salil's Writ Page
+
+
+Faded Salil's Writ Page
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Timorous Deep
+
+ a Spiroc Proven
+
+Lower Guk
+
+ a wan ghoul knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

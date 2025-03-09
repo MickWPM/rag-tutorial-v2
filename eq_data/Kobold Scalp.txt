@@ -1,0 +1,30 @@
+ITEM NAME: Kobold Scalp
+
+
+
+Kobold Scalp
+
+
+WT: 2.0  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Rathe Mountains
+
+ a burly kobold
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

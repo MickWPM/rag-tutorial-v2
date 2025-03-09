@@ -1,0 +1,72 @@
+ITEM NAME: Wurm Scale Cape
+
+Velious Era (added December 2000-2001)
+
+
+Wurm Scale Cape
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 9
+STR: +7  STA: +7
+SV MAGIC: +7
+WT: 1.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ A Shambling Cube
+ Dalshim Fe`Dhar
+ Deoryn Fe`Dhar
+ Dygwyn Fe`Dhar
+ Dyr Fe`Dhar
+ Elder Hajnix
+ Elder Kajind
+ Elder Kalur
+ Eldriaks Fe`Dhar
+ Elyshum Fe`Dhar
+ Glydoc Fe`Dhar
+ Jualicn
+ Kalacs Fe`Dhar
+ Laoch Ealkiq
+ Laoch Zalbryn
+ Lawyla
+ Lignark
+ Medry Fe`Dhar
+ Morachii Fe`Dhar
+ Oct Velic
+ Oglard
+ Placlis
+ Poalgin Fe`Dhar
+ Qalcnic Fe`Dhar
+ Quadrix Velic
+ Ralgyn
+ Riran Fe`Dhar
+ Taegria Fe`Dhar
+ Talgixn Fe`Dhar
+ Talnifs
+ Talon Velic
+ Tonvan Fe`Dhar
+ Tri Velic
+ Tyddyn Fe`Dhar
+ Vellyn Fe`Dhar
+ Vobryn Fe`Dhar
+ Zaldin Fe`Dhar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,46 @@
+ITEM NAME: Halfling Toe
+
+
+
+Halfling Toe
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Nektulos Forest
+
+ Initiate Abber
+ Initiate Guanin
+ Initiate Pool
+ Initiate Rambel
+ Initiate Umbra
+ Leatherfoot Captain
+ Leatherfoot Corporal
+ Leatherfoot Scout
+ Leatherfoot Sergeant
+ Master Whoopal
+ Neophyte Edel
+ Neophyte Halle
+ Neophyte Hazel
+ Quester Dunden
+ Quester Hannil
+ Quester Hannin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Mistmoore Granite
+
+
+Mistmoore Granite
+
+
+NO DROP
+WT: 2.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a flouting gargoyle
+ a jeering gargoyle
+ a leering gargoyle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Boots
+ Bars of Ronium
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Protection of the Dain
+
+Velious Era (added December 2000-2001)
+
+
+Protection of the Dain
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Charges: 1
+Effect: Divine Aura (Any Slot, Casting Time: 2.5)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #10: Ring of Dain Frostreaver IV
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

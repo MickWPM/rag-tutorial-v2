@@ -1,0 +1,35 @@
+ITEM NAME: Arch Mage's Pantaloons
+
+Velious Era (added December 2000-2001)
+
+
+Arch Mage's Pantaloons
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 7
+STA: +5  INT: +2
+SV FIRE: +2  SV DISEASE: +1  SV COLD: +2  SV MAGIC: +3  SV POISON: +1
+Effect:  Burnout III (Must Equip, Casting Time: 15.0)
+WT: 0.5  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Velium Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

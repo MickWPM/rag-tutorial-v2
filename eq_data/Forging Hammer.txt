@@ -1,0 +1,112 @@
+ITEM NAME: Forging Hammer
+
+Classic Era (added 1999-2000)
+Forging Hammer
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 38
+DMG: 4 
+WT: 6.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Crushbone
+
+ a dwarven smith
+
+The Overthere
+
+ a skeleton worker
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Weaponsmith Grugl
+
+
+
+  (-432, -33)
+
+
+ Erudin
+
+ Shinan Orefinder
+
+
+
+  (-683, -246)
+
+
+ North Freeport
+
+ Kyrin Steelbone
+
+  Groflah's Forge #4
+
+  (-21, 470)
+
+
+ Grobb
+
+ Okun
+
+
+
+  (683, -412)
+
+
+ Halas
+
+ Greta O`Reilly
+
+
+
+  (78, -245)
+
+
+ Oggok
+
+ Blergerda
+
+
+
+  (191, 915)
+
+
+ Stonebrunt Mountains
+
+ Kevar Claypaws
+
+
+
+  (1390, -579)
+
+  Related quests 
+ Warrior Pike #5 (Legionnaire's Mancatcher)
+ The Spirit of Garzicor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Bone Granite Powder (Trivial: 21)
+ Folded Skyiron Sheet (Trivial: 39)
+ Iksar Skyiron Targ Shield (Trivial: 115)
+
+
+
+
+

@@ -1,0 +1,828 @@
+ITEM NAME: Fishing Pole
+
+Classic Era (added 1999-2000)
+
+Fishing Pole
+
+
+Slot: PRIMARY
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used for fishing. 
+
+  Drops From 
+Butcherblock Mountains
+
+ Kanthuk Ogrebane
+ Tagnis Ginfarr
+
+Northern Desert of Ro
+
+ Puntar Sandfisher
+
+Southern Desert of Ro
+
+ Taldrik Stumpystout
+
+East Freeport
+
+Brunar Rankin
+Olunea Miltin
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (733, 153)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (484, -115)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1242, -775)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1284, -915)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1328, -778)
+
+
+ Butcherblock Mountains
+
+ Gamin Griststone
+
+
+
+  (2718, -941)
+
+
+ Butcherblock Mountains
+
+ Parn Gylwyn
+
+
+
+  (1465, 2817)
+
+
+ Butcherblock Mountains
+
+ Felen Razdal
+
+
+
+  (129, 2383)
+
+
+ East Cabilis
+
+ Klok Foxmyr
+
+
+
+  (123, -201)
+
+
+ Crystal Caverns
+
+ Milliace Gemshard
+
+
+
+  (-263, 233)
+
+
+ Eastern Plains of Karana
+
+ Bradly
+
+
+
+  (-856, -99)
+
+
+ Eastern Plains of Karana
+
+ Stace
+
+
+
+  (1227, -2645)
+
+
+ Eastern Plains of Karana
+
+ Sorn
+
+
+
+  (1198, -2634)
+
+
+ Eastern Plains of Karana
+
+ Tanrak
+
+
+
+  (1529, -2677)
+
+
+ Erudin
+
+ Teria Finleather
+
+
+
+  (-956, -98)
+
+
+ Erudin
+
+ Borge Finleather
+
+
+
+  (-994, -78)
+
+
+ Erud's Crossing
+
+ Renna
+
+
+
+  (-1479, 857)
+
+
+ Felwithe
+
+ Elytan Rantas
+
+
+
+  (41, -673)
+
+
+ Felwithe
+
+ Tam Slyspan
+
+
+
+  (245, -703)
+
+
+ Felwithe
+
+ Fishmonger Jassa
+
+
+
+  (162, -588)
+
+
+ Felwithe
+
+ Rolyn Longwalker
+
+
+
+  (4, -384)
+
+
+ Felwithe
+
+ Merchant Sorintal
+
+
+
+  (136, -415)
+
+
+ Field of Bone
+
+ Klok Acet
+
+
+
+  (-2463, 2984)
+
+
+ Firiona Vie
+
+ Dorg McMerin
+
+
+
+  (-3866, 1641)
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ East Freeport
+
+ Tanlok Harson
+
+
+
+  (87, -850)
+
+
+ East Freeport
+
+ Iseba Gargurd
+
+
+
+  (61, -882)
+
+
+ East Freeport
+
+ Tarker Gargurd
+
+
+
+  (61, -890)
+
+
+ North Freeport
+
+ Gibbon Morfield
+
+
+
+  (287, 284)
+
+
+ North Freeport
+
+ Yellus Gravien
+
+
+
+  (301, 273)
+
+
+ North Freeport
+
+ Tradesman Lyna
+
+
+
+  (-103, 191)
+
+
+ North Freeport
+
+ Tradesman Tulan
+
+
+
+  (-131, 209)
+
+
+ North Freeport
+
+ Bran Greenglade
+
+
+
+  (-109, -128)
+
+
+ North Freeport
+
+ Alec Greenglade
+
+
+
+  (-94, -128)
+
+
+ Greater Faydark
+
+ Merchant Winerasea
+
+
+
+  (-270, 89)
+
+
+ Greater Faydark
+
+ Merchant Aianya
+
+
+
+  (251, 614)
+
+
+ Greater Faydark
+
+ Merchant Iludarae
+
+
+
+  (-29, -149)
+
+
+ Greater Faydark
+
+ Merchant Kwein
+
+
+
+  (155, 334)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Grobb
+
+ Ootok
+
+
+
+  (233, -31)
+
+
+ Halas
+
+ Dok
+
+
+
+  (212, 275)
+
+
+ Halas
+
+ Greta Terrilon
+
+
+
+  (280, -327)
+
+
+ Halas
+
+ Leopok Terrilon
+
+
+
+  (205, 151)
+
+
+ Halas
+
+ Quillion O`Zinn
+
+
+
+  (-15, 66)
+
+
+ Highpass Hold
+
+ Maigin Greyeagle
+
+
+
+  (179, 483)
+
+
+ Highpass Hold
+
+ Sernn Rossook
+
+
+
+  (-218, 154)
+
+
+ High Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ North Kaladim
+
+ Doramafi Ratsbone
+
+
+
+  (710, 88)
+
+
+ Kerra Island
+
+ Roary Fishpouncer
+
+
+
+  (632, -681)
+
+
+ Kithicor Forest
+
+ Mune Woodchopper
+
+
+
+  (1458, 2263)
+
+
+ Lake of Ill Omen
+
+ Klok Gnask
+
+
+
+  (6392, -6350)
+
+
+ Lake Rathetear
+
+ Turga
+
+
+
+  (3126, -1815)
+
+
+ Neriak Foreign Quarter
+
+ Ootok
+
+
+
+  (-417, -457)
+
+
+ Neriak Foreign Quarter
+
+ Smaka
+
+
+
+  (-335, -107)
+
+
+ Neriak Foreign Quarter
+
+ Vala Tanbor
+
+
+
+  (210, -215)
+
+
+ Neriak Foreign Quarter
+
+ The Gobbler
+
+
+
+  (-323, -125)
+
+
+ Neriak Foreign Quarter
+
+ Dran `slug` Rembor
+
+
+
+  (210, -244)
+
+
+ Neriak Commons
+
+ Mariz Ixtaz
+
+
+
+  (-163, -938)
+
+
+ Oggok
+
+ Angrog
+
+
+
+  (-243, -2)
+
+
+ Oggok
+
+ Squeea
+
+
+
+  (647, 977)
+
+
+ Oggok
+
+ Sinsaal
+
+
+
+  (267, 677)
+
+
+ Ocean of Tears
+
+ Cleonae Kalen
+
+
+
+  (503, -9253)
+
+
+ Ocean of Tears
+
+ Craven Jonsbrow
+
+
+
+  (-2255, 7595)
+
+
+ Ocean of Tears
+
+ Endan Halson
+
+
+
+  (-2211, 7721)
+
+
+ Ocean of Tears
+
+ Sanian Shearsin
+
+
+
+  (-2102, 7798)
+
+
+ Western Plains of Karana
+
+ Carlan the Young
+
+
+
+  (972, -1868)
+
+
+ Western Plains of Karana
+
+ Maldin the Old
+
+
+
+  (972, -1868)
+
+
+ South Qeynos
+
+ Stan Cloven
+
+
+
+  (427, -265)
+
+
+ South Qeynos
+
+ Nesiff Tallaherd
+
+
+
+  (440, -243)
+
+
+ South Qeynos
+
+ Captain Rohand
+
+
+
+  (15, -40)
+
+
+ North Qeynos
+
+ Tanlyn Galliway
+
+
+
+  (125, 204)
+
+
+ North Qeynos
+
+ Sneed Galliway
+
+
+
+  (132, 243)
+
+
+ North Qeynos
+
+ Ghil Starn
+
+
+
+  (157, 195)
+
+
+ Rathe Mountains
+
+ Guzzla
+
+
+
+  (1760, 1288)
+
+
+ Rivervale
+
+ Wibble Bramblebush
+
+
+
+  (6, -329)
+
+
+ Rivervale
+
+ dock merchant
+
+
+
+  (203, -216)
+
+
+ Rivervale
+
+ Fiddy Bobick
+
+
+
+  (19, -428)
+
+
+ Steamfont Mountains
+
+ Glen Garginburr
+
+
+
+  (-1786, 337)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Swamp of No Hope
+
+ Klok Migo
+
+
+
+  (2467, 2911)
+
+
+ Thurgadin
+
+ Brigam
+
+
+
+  (-208, 485)
+
+
+ Timorous Deep
+
+ Seloris Windweaver
+
+
+
+  (-4867, -3439)
+
+
+ Warsliks Woods
+
+ Klok Gragin
+
+
+
+  (-1651, -707)
+
+
+ Warsliks Woods
+
+ Klok Rogalin
+
+
+
+  (-1882, -600)
+
+
+ West Commonlands
+
+ Maula Fishcatcher
+
+
+
+  (405, 2408)
+
+  Related quests 
+ Deputy Tagil's Debt (possible reward)
+ Lenka's Pouch (possible reward)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Fishing (Rather Important Piece of Equipment)
+
+
+
+

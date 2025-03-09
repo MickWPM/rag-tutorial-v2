@@ -1,0 +1,32 @@
+ITEM NAME: Salil's Writ Pg. 90 (Right)
+
+Classic Era (added 1999-2000)
+Salil's Writ Pg. 90
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: Left and right sides have the same item name. 
+ Merchant resale value: ~9g 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: < 142)
+ A Faded Salil's Writ Page
+
+
+  Tradeskill recipes 
+ Spell Research
+ Mana Sieve (Trivial: 122)
+
+
+
+
+

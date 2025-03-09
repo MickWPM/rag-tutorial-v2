@@ -1,0 +1,35 @@
+ITEM NAME: Necklace of Nightstalking
+
+Velious Era (added December 2000-2001)
+
+
+Necklace of Nightstalking
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 7
+DEX: +7  AGI: +7  HP: +100
+WT: 2.0  Size: TINY
+Class: SHD MNK ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Telkorenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

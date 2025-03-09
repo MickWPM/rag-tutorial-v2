@@ -1,0 +1,237 @@
+ITEM NAME: Crystallized Pumice
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Crystallized Pumice
+
+
+MAGIC ITEM
+Charges: 5
+Effect:  Nullify Magic (Any Slot, Casting Time: 3.0)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+There is some debate on whether these should be insta-cast or 3 seconds.[1][2]
+sold for 15.5p 
+ Merchant resale value: 4.8p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork alchemist
+
+
+
+  (891, -301)
+
+
+ West Cabilis
+
+ Jondin
+
+
+
+  (-36, 508)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ Erudin Palace
+
+ Sharin Denuen
+
+
+
+  (661, 539)
+
+
+ Felwithe
+
+ Merchant Yisasan
+
+
+
+  (448, -805)
+
+
+ Firiona Vie
+
+ Shrub Marwood
+
+
+
+  (-3253, 2267)
+
+
+ West Freeport
+
+ Olyna Mudel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Torlig Mudel
+
+
+
+  (82, -917)
+
+
+ Greater Faydark
+
+ Merchant Kaeluase
+
+
+
+  (-272, 51)
+
+
+ Greater Faydark
+
+ Merchant Ueaas
+
+
+
+  (-85, 601)
+
+
+ Grobb
+
+ Raztara
+
+
+
+  (440, -390)
+
+
+ Halas
+
+ Murtog MacYee
+
+
+
+  (124, -364)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ South Kaladim
+
+ Baldoleky Rockfinder
+
+
+
+  (254, -186)
+
+
+ Neriak Foreign Quarter
+
+ Gambel Quick
+
+
+
+  (253, -60)
+
+
+ Neriak Commons
+
+ Marza T`Kix
+
+
+
+  (20, -875)
+
+
+ The Overthere
+
+ Klok G`rshai
+
+
+
+  (2212, -2912)
+
+
+ Western Plains of Karana
+
+ Spinner
+
+
+
+  (-1453, -12837)
+
+
+ South Qeynos
+
+ Drawna Opimsor
+
+
+
+  (303, -550)
+
+
+ Rivervale
+
+ Byl Babbinsbort
+
+
+
+  (-146, -114)
+
+
+ Rivervale
+
+ Bimble Babbinsbort
+
+
+
+  (-162, -118)
+
+
+ Thurgadin
+
+ Frundle Frenkler
+
+
+
+  (-390, 505)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

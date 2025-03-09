@@ -1,0 +1,37 @@
+ITEM NAME: Custom Cowl of Mortality
+
+Velious Era (added December 2000-2001)
+
+ Custom Cowl of Mortality
+Custom Cowl of Mortality
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 16
+STA: +9  AGI: +12  HP: +50
+SV DISEASE: +15
+Haste: +36%  
+WT: 0.1  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Custom Plate Helms - Kael Drakkel
+ Custom Plate Helms - Skyshrine
+ Custom Plate Helms - Thurgadin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Fang of the Wolf
+
+Classic Era (added 1999-2000)
+
+Fang of the Wolf
+
+
+MAGIC ITEM  
+Slot: EAR PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 26
+DMG: 5 
+WT: 2.0  Size: MEDIUM
+Class: WAR ROG SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gnoll Fur
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

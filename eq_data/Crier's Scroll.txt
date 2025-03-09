@@ -1,0 +1,40 @@
+ITEM NAME: Crier's Scroll
+
+Kunark Era (added 2000)
+
+
+Crier's Scroll
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+
+
+ Item Lore (from Identify):  Report Information 2 of 6. 
+
+  Drops From 
+City of Mist
+
+ a fog golem
+ a haze golem
+ a vapor golem
+ spurbone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest 
+
+  Book contents 
+Hear all of Torsis! Our beloved Lord Rak'Ashiir will be appointing another High Priest into the Cazic-Thule clergy in two days.
+A festival will be held in honor of the event and the High Scale will be present to judge various contests of skill in arms.
+Booths will be set up selling various wares and food to all. Cazic guide us all.
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

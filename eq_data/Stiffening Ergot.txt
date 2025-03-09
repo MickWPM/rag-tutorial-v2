@@ -1,0 +1,38 @@
+ITEM NAME: Stiffening Ergot
+
+Classic Era (added 1999-2000)
+
+Stiffening Ergot
+
+
+QUEST ITEM
+Effect: Paralyzing Poison III (Combat, Casting Time: Instant) at Level 30
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 204)
+ Yield: Stiffening Ergot x1
+ In Mortar and Pestle:
+
+
+  2 x Heartsting Venom Sack - Dropped
+  1 x Larent Suspension - Bought
+  1 x Sealed Poison Vial - Crafted, Bought, Returned on Failure 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

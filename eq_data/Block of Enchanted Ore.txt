@@ -1,0 +1,38 @@
+ITEM NAME: Block of Enchanted Ore
+
+
+
+Block of Enchanted Ore
+
+
+WT: 18.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 32)
+ Yield: Block of Enchanted Ore x1
+ In Forge:
+
+
+  1 x Water Flask - Bought
+  3 x Large Brick of Enchanted Ore - Summoned 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Enchanted Folded Sheet Metal (Trivial: 44)
+
+
+
+
+

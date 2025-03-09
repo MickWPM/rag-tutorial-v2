@@ -1,0 +1,33 @@
+ITEM NAME: Dai Nozok skull canopic
+
+Kunark Era (added 2000)
+
+
+Dai Nozok skull canopic
+
+
+LORE ITEM  NO DROP
+WT: 1.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mines of Nurga
+
+ Overseer Dlubish
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 5
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

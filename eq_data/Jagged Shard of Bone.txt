@@ -1,0 +1,42 @@
+ITEM NAME: Jagged Shard of Bone
+
+
+
+
+ 
+
+ Notice: This page needs a revamp or clean-up. It may contain serious omissions or information which is incorrect for Project 1999. It may represent the wrong era, and/or may be the result of a revamp on Live which may not yet be active on P99. Do not trust this page.
+
+Chardok Revamp Era (added late 2001)
+Jagged Shard of Bone
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+Skill: Piercing  Atk Delay: 32
+DMG: 5 
+Effect:  Fear (Combat, Casting Time: Instant) at Level 15
+WT: 2.0  Size: SMALL
+Class: WAR RNG MNK BRD ROG
+Race: ALL except ERU HIE
+
+
+According to ZAM, dropped during a temporary zone event in lesser faydark in Jun 2001. 
+
+  Drops From 
+Lesser Faydark
+
+ an undead sprite horror (Event mob)
+ an undead sprite spook (Event mob)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

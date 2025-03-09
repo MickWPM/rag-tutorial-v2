@@ -1,0 +1,26 @@
+ITEM NAME: Bag of Eyes n Bones
+
+Classic Era (added 1999-2000)
+Bag of Eyes n Bones
+
+
+LORE ITEM NO TRADE
+WT: 2.0  Size: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yegek's Test, Part 1
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

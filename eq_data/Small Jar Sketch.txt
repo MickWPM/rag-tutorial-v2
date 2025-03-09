@@ -1,0 +1,162 @@
+ITEM NAME: Small Jar Sketch
+
+
+
+Small Jar Sketch
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork sketcher
+
+
+
+  (762, -140)
+
+
+ East Cabilis
+
+ Klok Grots
+
+
+
+  (239, -275)
+
+
+ North Freeport
+
+ Winoyn
+
+
+
+  (-110, -177)
+
+
+ West Freeport
+
+ Jynsa Smithson
+
+
+
+  (-178, -339)
+
+
+ Greater Faydark
+
+ Merchant Nildar
+
+
+
+  (867, 205)
+
+
+ Grobb
+
+ Vynugga
+
+
+
+  (443, -167)
+
+
+ Halas
+
+ Skoni
+
+
+
+  (6, -42)
+
+
+ Highpass Hold
+
+ Min Greyeagle
+
+
+
+  (197, 461)
+
+
+ Neriak Third Gate
+
+ Petra D`Dbth
+
+
+
+  (1362, -1716)
+
+
+ Oggok
+
+ Kerplooe Dirtcarver
+
+
+
+  (238, 756)
+
+
+ Rivervale
+
+ Marta Claytoe
+
+
+
+  (-160, -90)
+
+
+ Skyshrine
+
+ Ruru the Cook
+
+
+
+  (142, -474)
+
+
+ Southern Desert of Ro
+
+ Artist Passia
+
+
+
+  (160, 444)
+
+
+ Thurgadin
+
+ Brina Snowfox
+
+
+
+  (-257, 134)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Unfired Small Container (Trivial: 31)
+
+
+
+
+

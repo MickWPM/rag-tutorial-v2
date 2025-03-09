@@ -1,0 +1,45 @@
+ITEM NAME: Small Piece of Mithril
+
+
+
+Small Piece of Mithril
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Felwithe
+
+ Tanalin Silverkale
+
+
+
+  (117, -414)
+
+Vendor cost: 5g9s3c or higher. 
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

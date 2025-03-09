@@ -1,0 +1,35 @@
+ITEM NAME: Velvet-Trimmed Satin Robe
+
+
+  
+Velvet-Trimmed Satin Robe
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: CHEST
+AC: 10
+INT: +4  MANA: +15  SV FIRE +5
+WT: 10.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+This is uncommonly dropped during the final Qeynos Badge of Honor quest in Qeynos Aqueducts. The discount-store version of Shining Metallic Robes. 
+
+  Drops From 
+Qeynos Aqueducts
+
+ a necromancer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Qeynos Badge Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

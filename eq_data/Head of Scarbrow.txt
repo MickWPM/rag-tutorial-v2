@@ -1,0 +1,33 @@
+ITEM NAME: Head of Scarbrow
+
+Velious Era (added December 2000-2001)
+
+
+Head of Scarbrow
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ Scarbrow Ga`Hruk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #5: Obsidian Coldain Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

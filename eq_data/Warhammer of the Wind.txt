@@ -1,0 +1,33 @@
+ITEM NAME: Warhammer of the Wind
+
+
+
+Warhammer of the Wind
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 12 
+WIS: +14  HP: +50  MANA: +50
+WT: 3.5  Size: LARGE
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of Shrink
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

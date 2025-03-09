@@ -1,0 +1,46 @@
+ITEM NAME: Words of Dark Paths
+
+
+Words of Dark Paths
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 1p 4g 
+
+  Drops From 
+Various Zones
+
+ Random drop from level ~34 mobs
+
+The Feerrott
+
+ a spectre
+
+ Firiona Vie
+
+ A Drolvarg Snarler
+
+ Kaesora
+
+ Spectral Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Invoke Shadow (Trivial: >116)
+
+
+
+
+

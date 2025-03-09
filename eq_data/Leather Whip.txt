@@ -1,0 +1,64 @@
+ITEM NAME: Leather Whip
+
+
+Leather Whip
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ Splitpaw Commander
+
+Chardok
+
+ A Sarnak Overseer
+ a Sarnak Slavedriver
+ a Sarnak slavemaster
+ a Scarred Overseer
+ A Slaveblock Guard
+ a Treasury Guard
+ a Veteran Drillmaster
+ an apprentice kennelmaster
+
+Crushbone
+
+ orc taskmaster
+
+Frontier Mountains
+
+ a goblin flashdrowser
+ a goblin slavedriver
+ a goblin stalagknight
+ a goblin whipcracker
+
+High Keep
+
+ Dyrna Nlith
+ Tyrana Slil
+
+The Overthere
+
+ an undead foreman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Burynaibane Charm
+
+Kunark Era (added 2000)
+
+Burynaibane Charm
+
+
+Slot: NECK
+AC: 2
+SV DISEASE: +2  SV POISON: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ burynaibane spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

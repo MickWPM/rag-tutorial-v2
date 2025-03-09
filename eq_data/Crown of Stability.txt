@@ -1,0 +1,37 @@
+ITEM NAME: Crown of Stability
+
+Velious Era (added December 2000-2001)
+
+
+Crown of Stability
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 19
+STR: +2  WIS: +3  MANA: +35
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +3  SV POISON: +1
+WT: 5.5  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a gale wolf
+ Gale Wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

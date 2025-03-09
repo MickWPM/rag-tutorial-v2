@@ -1,0 +1,36 @@
+ITEM NAME: Gharn's Rock of Smashing
+
+Velious Era (added December 2000-2001)
+Gharn's Rock of Smashing
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 19
+DMG: 16 
+STR: +7  DEX: +7  STA: +25  AGI: +7  HP: +100
+SV FIRE: +10  SV DISEASE: +7  SV COLD: +10  SV MAGIC: +10  SV POISON: +7
+Effect: Strike of the Chosen (Combat, Casting Time: Instant)
+WT: 0.5  Size: TINY
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+ Item Lore (from Identify): Rock of the Chosen 
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

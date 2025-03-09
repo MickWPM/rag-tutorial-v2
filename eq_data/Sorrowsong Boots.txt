@@ -1,0 +1,47 @@
+ITEM NAME: Sorrowsong Boots
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Sorrowsong Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 25
+AGI: +6  HP: +30  MANA: +35
+SV FIRE: +8
+Required level of 51.
+Effect: Cinder Bolt (Any Slot/Can Equip, Casting Time: 7.0) at Level 51
+WT: 3.0  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Accursed Temple of Cazic-Thule (2002)
+
+ a Gyrating Mass
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

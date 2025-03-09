@@ -1,0 +1,37 @@
+ITEM NAME: Efreeti War Shield
+
+Sky Era (added January 2000)
+
+Efreeti War Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 15
+STR: +5
+SV FIRE: +10
+WT: 2.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Test of Envenoming
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

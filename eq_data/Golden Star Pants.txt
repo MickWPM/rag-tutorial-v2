@@ -1,0 +1,33 @@
+ITEM NAME: Golden Star Pants
+
+Velious Era (added December 2000-2001)
+Golden Star Pants
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 11
+STR: +3  STA: +8  AGI: +5  HP: +30
+SV FIRE: +5  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+Effect: Spirit of Ox (Must Equip, Casting Time: 20.0) at Level 50
+WT: 0.1  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Kael Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

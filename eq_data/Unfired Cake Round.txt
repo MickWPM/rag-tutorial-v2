@@ -1,0 +1,40 @@
+ITEM NAME: Unfired Cake Round
+
+
+
+Unfired Cake Round
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 15)
+ Yield: Unfired Cake Round x1
+ In Pottery Wheel:
+
+
+  1 x Block of Clay - Crafted, Dropped
+  1 x Cake Round Sketch - Bought
+  1 x Glass Shard - Bought
+  1 x Water Flask - Crafted, Bought, Dropped 
+
+
+  Tradeskill recipes 
+ Pottery
+ Cake Round (Trivial: 15)
+
+
+
+
+

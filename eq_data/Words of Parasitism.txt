@@ -1,0 +1,39 @@
+ITEM NAME: Words of Parasitism
+
+
+Words of Parasitism
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 0 Golds
+ 3 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Level Appropriate Mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Vampiric Curse (Trivial: 83+)
+
+
+
+
+

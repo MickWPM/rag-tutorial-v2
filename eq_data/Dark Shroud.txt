@@ -1,0 +1,29 @@
+ITEM NAME: Dark Shroud
+
+Epic Quests Era (added Sept 2000)
+
+Dark Shroud
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.2  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+Give this to Ghost of Glohnor in The Hole to spawn the Mummy of Glohnor. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

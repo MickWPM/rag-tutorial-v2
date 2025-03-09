@@ -1,0 +1,32 @@
+ITEM NAME: Seaworthy Planking
+
+Velious Era (added December 2000-2001)
+ NERF ALERT (see notes)
+
+Seaworthy Planking
+
+
+LORE ITEM  NO DROP
+WT: 10.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+Iceclad Ocean ground spawn was removed on Blue (several months after Velious release?), but existing planks were not removed and are MQable.
+On Green, one confirmed spawn location is (2500, -2952) which is approximately where it spawned on Blue in 2016. There may be other spawn locations, reportedly most spawns are on the icebergs east of cougar/gnome island. The respawn time doesn't seem to be instant, and could be several hours. 
+The Titanium client has had bugs in the past where ground spawns do not display after being picked up by another player. Relogging can fix this if it occurs. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Pirate Ship
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

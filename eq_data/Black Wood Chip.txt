@@ -1,0 +1,34 @@
+ITEM NAME: Black Wood Chip
+
+Classic Era (added 1999-2000)
+
+
+Black Wood Chip
+
+
+NO DROP
+Slot: NECK
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL except
+
+
+ Item Lore (from Identify): Token of Unkempt 
+
+  Drops From 
+South Qeynos
+
+ Raffel Minnmorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Nitrates and the Assassin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Bracers of Battle
+
+Classic Era (added 1999-2000)
+
+Bracers of Battle
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 3
+STR: +1  DEX: +3
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 2p 3s 
+
+  Drops From 
+Crushbone
+
+ orc warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Screaming Mace Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

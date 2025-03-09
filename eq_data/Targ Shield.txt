@@ -1,0 +1,98 @@
+ITEM NAME: Targ Shield
+
+
+Targ Shield
+
+
+Slot: SECONDARY
+AC: 7
+WT: 7.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 115 and faction at Amiably
+
+ 4 Platinums
+ 4 Golds
+ 8 Silvers
+ 6 Coppers
+ 
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ West Commonlands
+
+ Ranon Strongarm
+
+
+
+  (-463, 2827)
+
+
+ East Commonlands
+
+ Altunic Jartin
+
+
+
+  (-115, 4734)
+
+
+ Felwithe
+
+ Merchant Tearlan
+
+
+
+  (-79, -385)
+
+
+ Paineel
+
+ Kervis Ackblor
+
+
+
+  (1097, 428)
+
+
+ South Qeynos
+
+ Raffy Conticede
+
+
+
+  (-282, -491)
+
+  Related quests 
+ Bandit Sisters
+ Taskmaster Earring - Dwarf Female
+
+  Player crafted 
+ Blacksmithing
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

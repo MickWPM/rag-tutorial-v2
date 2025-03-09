@@ -1,0 +1,46 @@
+ITEM NAME: Embroidering Needle
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+
+Embroidering Needle
+
+
+WT: 0.1  Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 122)
+ Yield: Embroidering Needle x1
+ In Forge:
+
+
+  1 x Celestial Essence - Crafted
+  1 x Metal Bits - Crafted
+  1 x Needle Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

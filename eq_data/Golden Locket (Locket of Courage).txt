@@ -1,0 +1,34 @@
+ITEM NAME: Golden Locket (Locket of Courage)
+
+Were you looking for Golden Locket?
+
+Golden Locket
+
+
+MAGIC ITEM LORE ITEM
+Slot: NECK
+Charges: 5
+Effect: Courage
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+(This item acts as a light source.)
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Not to be confused with the Golden Locket that drops from a nesting rat in Qeynos Aqueducts. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Find Lucie Elron
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

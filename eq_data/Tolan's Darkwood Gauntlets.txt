@@ -1,0 +1,34 @@
+ITEM NAME: Tolan's Darkwood Gauntlets
+
+Kunark Era (added 2000)
+
+Tolan's Darkwood Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 14
+Effect:  Snare (Must Equip, Casting Time: 4.0) at Level 45
+WT: 5.0  Size: SMALL
+Class: RNG
+Race: ALL except IKS
+
+
+Part of the Tolan's Darkwood Armor set. 
+
+  Drops From 
+Karnor's Castle
+
+ skeletal captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

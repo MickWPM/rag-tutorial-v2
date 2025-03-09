@@ -1,0 +1,45 @@
+ITEM NAME: Ragebringer
+
+To allow the assassin to slay a prince, and fight his way back out, a fell blade was crafted. 
+It was small enough to conceal under a garment and yet large enough to strike a mortal blow through armor. 
+Aided by vile Teir'Dal enchantments, it is much more fearsome than it appears.
+-Stanos Herkanor
+
+Epic Quests Era (added Sept 2000)
+ NERF ALERT (see notes)
+
+Ragebringer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 15 
+STR: +20  DEX: +10  STA: +10  AGI: +10  HP: +100
+SV DISEASE: +10  SV MAGIC: +20  SV POISON: +20
+Haste: 40%
+Required level of 46.
+Effect:  Seething Fury (Worn)
+WT: 2.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+ Item Lore (from Identify): Tainter of Souls
+
+Originally allowed to be equipped in Ranged slot [1], removed on 2/13/13 patch.
+Requires level 46 to equip, but the *final turn* in can be MQed at any character level; you might need at least 5 to bypass the anti-spam restrictions and travel through all the zones to get to Highpass. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Ragebringer
+

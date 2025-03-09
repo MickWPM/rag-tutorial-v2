@@ -1,0 +1,34 @@
+ITEM NAME: Shadow Boots
+
+Velious Era (added December 2000-2001)
+
+
+Shadow Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 21
+STR: +3  STA: +6  AGI: +4  HP: +20
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+WT: 6.0  Size: MEDIUM
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Skyshrine Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

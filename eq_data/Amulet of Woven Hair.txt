@@ -1,0 +1,33 @@
+ITEM NAME: Amulet of Woven Hair
+
+Sky Era (added January 2000)
+
+
+Amulet of Woven Hair
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 2
+CHA: +4
+WT: 0.2  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Wind
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

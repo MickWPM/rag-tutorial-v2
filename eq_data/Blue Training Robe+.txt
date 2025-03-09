@@ -1,0 +1,37 @@
+ITEM NAME: Blue Training Robe*
+
+
+
+Blue Training Robe*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.7  Size: MEDIUM
+Class: WIZ MAG ENC
+Race: HUM HIE HEF
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Qeynos Hills
+
+ Neclo Rheslar
+
+West Commonlands
+
+ Jahsohn Aksot
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,46 @@
+ITEM NAME: Clockwork Watchman Boots
+
+Velious Era (added December 2000-2001)
+
+Clockwork Watchman Boots
+
+
+Slot: FEET
+Charges: 10
+AC: 11
+Effect:  Mystic Precision (Any Slot/Can Equip, Casting Time: 4.0) at Level 20
+WT: 4.9  Size: MEDIUM
+Class: WAR CLR
+Race: GNM
+
+
+Made with gnome cultural tinkering. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 231)
+ Yield: Clockwork Watchman Boots x1
+ In Deluxe Toolbox:
+
+
+  1 x Cogs - Bought
+  1 x Faun Hoof - Dropped
+  1 x Gnomish Bolts - Bought
+  1 x Grease - Bought
+  1 x Mana Battery - Class Five - Crafted, Bought, Dropped
+  1 x Metal Fastening - Bought
+  1 x Metal Twine - Bought
+  1 x Small Fine Plate Boots - Crafted
+  1 x Sprockets - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

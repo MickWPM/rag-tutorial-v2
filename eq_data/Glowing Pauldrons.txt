@@ -1,0 +1,33 @@
+ITEM NAME: Glowing Pauldrons
+
+Sky Era (added January 2000)
+
+
+Glowing Pauldrons
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 9
+STA: +5  CHA: +2  WIS: +6
+WT: 4.5  Size: SMALL
+Class: CLR
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Protection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

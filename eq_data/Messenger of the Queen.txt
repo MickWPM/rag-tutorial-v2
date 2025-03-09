@@ -1,0 +1,38 @@
+ITEM NAME: Messenger of the Queen
+
+Velious Era (added December 2000-2001)
+
+
+
+Messenger of the Queen
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 40
+DMG: 20 
+STR: +5  WIS: +5
+SV COLD: +5
+WT: 8.0  Size: LARGE
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+Vendors for 39p with average CHA. 
+
+  Drops From 
+Crystal Caverns
+
+ Queen Dracnia
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

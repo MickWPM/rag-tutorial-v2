@@ -1,0 +1,34 @@
+ITEM NAME: A Sealed List
+
+Classic Era (added 1999-2000)
+
+
+A Sealed List
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.0  Size: TINY
+
+
+Dropped on the ground by Hansl Bigroon as he wanders South Qeynos.
+
+ Item Lore (from Identify): List of Engineers 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bridge 
+
+  Book contents 
+ Antonius Bayle, Here is the list of the three engineers who will aid in the design of the Great Span.
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

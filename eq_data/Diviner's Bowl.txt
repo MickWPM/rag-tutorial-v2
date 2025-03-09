@@ -1,0 +1,35 @@
+ITEM NAME: Diviner's Bowl
+
+Warrens Era (added spring 2001)
+
+
+Diviner's Bowl
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+WIS: +2  INT: +2
+WT: 2.7  Size: TINY
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Warrens
+
+ Krode the Diviner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kobold Shaman Artifacts
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

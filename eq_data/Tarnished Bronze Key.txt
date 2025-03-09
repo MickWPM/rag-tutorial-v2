@@ -1,0 +1,34 @@
+ITEM NAME: Tarnished Bronze Key
+
+Classic Era (added 1999-2000)
+
+
+Tarnished Bronze Key
+
+
+LORE ITEM  NODROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Key for Linara Parlone quest. Not a real working door key. Is actually called 'A Tarnished Bronze Key' in game. 
+
+  Drops From 
+The Estate of Unrest
+
+ a priest of najena
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Mystic Cloak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

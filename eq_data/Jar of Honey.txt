@@ -1,0 +1,34 @@
+ITEM NAME: Jar of Honey
+
+Sky Era (added January 2000)
+
+
+
+Jar of Honey
+
+
+LORE ITEM
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzzazzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Raising the Dead
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

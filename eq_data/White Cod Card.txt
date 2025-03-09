@@ -1,0 +1,31 @@
+ITEM NAME: White Cod Card
+
+Velious Era (added December 2000-2001)
+
+
+White Cod Card
+
+
+MAGIC ITEM  LORE ITEM  QUEST ITEM
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+Caught in Plane of Mischief by fishing.
+Used with the other Colored Cod Cards to obtain King Cod Card from Ferjeneror. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Eyepatch of Plunder
+
+Velious Era (added December 2000-2001)
+Eyepatch of Plunder
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 10
+STR: +10  DEX: +10  HP: +50
+SV FIRE: +6  SV DISEASE: +6  SV COLD: +6  SV MAGIC: +6  SV POISON: +6
+Effect:  Captain Nalots Quickening (Must Equip, Casting Time: 3.5)
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Map
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Astral Cloak of the Titans
+
+Stonebrunt Era (added summer 2001)
+
+Astral Cloak of the Titans
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 4
+STR: -3  INT: +9  AGI: +6
+SV MAGIC: -5
+WT: 1.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Titan Samples (good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

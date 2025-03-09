@@ -1,0 +1,141 @@
+ITEM NAME: Wolf's Eye Agate
+
+
+
+Wolf's Eye Agate
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1074, -1041)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Harban Ranflash
+
+
+
+  (695, 883)
+
+
+ Felwithe
+
+ Merchant Jewyln
+
+
+
+  (567, -609)
+
+
+ West Freeport
+
+ Mekoma Buma
+
+
+
+  (145, -761)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Neriak Commons
+
+ Genzal R`Jyen
+
+
+
+  (119, -919)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+
+ Toxxulia Forest
+
+ Tran Lilspin
+
+
+
+  (1761, -736)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Wolf's Eye Necklace (Trivial: 38)
+ Wolf's Eye Electrum Bracelet (Trivial: 103)
+ Wolf's Eye Golden Bracelet (Trivial: 175)
+ Wolf's Eye Platinum Necklace (Trivial: 247)
+ Velium Wolf's Eye Necklace (Trivial: ???)
+
+
+ Pottery
+
+
+
+

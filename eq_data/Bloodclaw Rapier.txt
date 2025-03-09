@@ -1,0 +1,42 @@
+ITEM NAME: Bloodclaw Rapier
+
+Velious Era (added December 2000-2001)
+
+
+Bloodclaw Rapier
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 7 
+Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Collier's Weapon Treatment
+
+  Player crafted 
+ Blacksmithing (Trivial: ???)
+ Yield: Bloodclaw Rapier x1
+ In Forge:
+
+
+  1 x Forged Rapier - Crafted
+  1 x Thick Caustic Liquid - Quest 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Ring of Pine
+
+
+Ring of Pine
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+AC: 1
+STA: +1
+SV FIRE: -10
+WT: 0.2  Size: SMALL
+Class: WAR CLR PAL RNG DRU
+Race: HUM ELF HIE HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Merona's Brother
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

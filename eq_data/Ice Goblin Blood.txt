@@ -1,0 +1,46 @@
+ITEM NAME: Ice Goblin Blood
+
+
+Ice Goblin Blood
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 9 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Everfrost Peaks
+
+ goblin lackey (?)
+
+Permafrost
+
+ an elite goblin guard
+ an ice goblin
+ A goblin jailmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Frost Temper (Trivial: 135)
+
+
+
+
+

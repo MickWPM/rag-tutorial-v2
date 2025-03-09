@@ -1,0 +1,32 @@
+ITEM NAME: Barbequed Erudite
+
+Warrens Era (added spring 2001)
+
+Barbequed Erudite
+
+
+INT: +3
+This is a banquet sized meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Confirmed to exist on P99! 
+
+  Drops From 
+The Warrens
+
+ Foodmaster Rargnar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

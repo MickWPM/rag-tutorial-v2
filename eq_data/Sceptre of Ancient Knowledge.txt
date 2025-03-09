@@ -1,0 +1,32 @@
+ITEM NAME: Sceptre of Ancient Knowledge
+
+GM Event item (info)
+
+
+Sceptre of Ancient Knowledge
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+WIS: +8 INT: +8 MANA: +30
+SV FIRE: +5  SV DISEASE: +5 SV COLD: +5  SV MAGIC: +5 SV POISON: +5
+WT: 1.0  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+GM Event item dropped in Qeynos Hills Undead Invasion. Optamus Grime and Daliant are the only known p99 blue characters with this item. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

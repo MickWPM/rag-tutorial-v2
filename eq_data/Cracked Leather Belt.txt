@@ -1,0 +1,37 @@
+ITEM NAME: Cracked Leather Belt
+
+Sky Era (added January 2000)
+
+
+
+Cracked Leather Belt
+
+
+LORE ITEM
+Slot: WAIST
+AC: 4
+DEX: +2  STA: +2  AGI: +2
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bizazzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Trickery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

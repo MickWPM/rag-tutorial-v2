@@ -1,0 +1,35 @@
+ITEM NAME: Crystallized Shadow Sleeves
+
+Velious Era (added December 2000-2001)
+Crystallized Shadow Sleeves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 2
+STR: +2  DEX: +3  CHA: +1  MANA: +5
+WT: 0.2  Size: SMALL
+Class: ALL except RNG DRU NEC WIZ MAG ENC
+Race: ALL except HIE HEF DWF HFL
+
+
+Part of the Crystallized Shadow Armor set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a ghostly student
+ a ghostly scholar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

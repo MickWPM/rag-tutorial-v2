@@ -1,0 +1,33 @@
+ITEM NAME: Purple Headband
+
+Classic Era (added 1999-2000)
+
+Purple Headband
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 1
+DEX: +1  STA: +2  CHA: +2  AGI: +2  HP: +3
+WT: 0.0  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore (from Identify): Purple Headband with Red Fist 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monks of The Whistling Fist
+ Monk Purple Headband
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

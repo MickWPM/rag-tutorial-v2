@@ -1,0 +1,36 @@
+ITEM NAME: Skin of the Garou
+
+Velious Era (added December 2000-2001)
+
+Skin of the Garou
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 4
+STR: +5  DEX: -5  CHA: -5  WIS: +2  INT: +2  AGI: -5
+SV FIRE: -5  SV DISEASE: -5  SV COLD: +5  SV MAGIC: +5
+WT: 3.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ Garou
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Mighty Garou
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

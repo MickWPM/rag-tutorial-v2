@@ -1,0 +1,39 @@
+ITEM NAME: Walrusbone Shield
+
+Velious Era (added December 2000-2001)
+
+
+
+Walrusbone Shield
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 14
+STR: +5  WIS: +5
+SV MAGIC: +5
+WT: 3.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU ROG SHM
+Race: ALL
+
+
+
+ Merchant resale value: 10.9p 
+
+  Drops From 
+Skyshrine
+
+ A Shambling Cube
+ Poalgin Fe`Dhar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

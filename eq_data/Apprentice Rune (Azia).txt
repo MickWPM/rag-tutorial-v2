@@ -1,0 +1,39 @@
+ITEM NAME: Apprentice Rune (Azia)
+
+Classic Era (added 1999-2000)
+
+
+Apprentice Rune (Azia)
+
+
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (Trivial: No Fail)
+ Yield: Apprentice Rune (Azia) x1
+ In Concordance of Research:
+
+
+  1 x Quill - Bought
+  1 x Piece of Parchment - Bought
+  1 x Hematite - Bought
+  1 x Froglok Eye - Dropped
+  1 x Bixie Wing - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

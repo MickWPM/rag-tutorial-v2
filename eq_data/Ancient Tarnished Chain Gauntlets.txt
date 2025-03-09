@@ -1,0 +1,38 @@
+ITEM NAME: Ancient Tarnished Chain Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Ancient Tarnished Chain Gauntlets
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+WT: 2.5  Size: TINY
+Class: RNG ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ a shimmering green drake
+ an onyx sky drake
+ other ToV West mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Kael Gauntlets
+ Rogue Kael Gauntlets
+ Shaman Kael Gauntlets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

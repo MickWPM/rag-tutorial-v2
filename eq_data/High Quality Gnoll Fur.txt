@@ -1,0 +1,54 @@
+ITEM NAME: High Quality Gnoll Fur
+
+
+
+High Quality Gnoll Fur
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a burly gnoll
+ a gnoll
+ a gnoll brewer
+ a gnoll commander
+ a gnoll guardsman
+ a gnoll scout
+ a gnoll tactician
+ a patrolling gnoll
+ a scrawny gnoll
+ an elite gnoll guard
+
+Lake Rathetear
+
+ a gnoll shaman
+
+North Qeynos
+
+ Grarrax Darkpaw
+
+Qeynos Hills
+
+ a gnoll avenger
+ a gnoll hunter
+ a gnoll scout
+ a gnoll watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

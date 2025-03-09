@@ -1,0 +1,32 @@
+ITEM NAME: Brain of the Ishva Mal
+
+
+
+Brain of the Ishva Mal
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify):  Brain of the Ishva Mal 
+
+  Drops From 
+Splitpaw Lair
+
+ The Ishva Mal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Dread
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

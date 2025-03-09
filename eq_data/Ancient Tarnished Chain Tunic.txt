@@ -1,0 +1,37 @@
+ITEM NAME: Ancient Tarnished Chain Tunic
+
+Velious Era (added December 2000-2001)
+
+Ancient Tarnished Chain Tunic
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+WT: 4.0  Size: TINY
+Class: RNG ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ a shimmering green drake
+ an onyx sky drake
+ other ToV West mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Kael Breastplate
+ Rogue Kael Breastplate
+ Shaman Kael Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

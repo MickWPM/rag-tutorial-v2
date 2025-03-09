@@ -1,0 +1,35 @@
+ITEM NAME: Sentry Boots
+
+Velious Era (added December 2000-2001)
+
+Sentry Boots
+
+
+MAGIC ITEM LORE ITEM
+Slot: FEET
+AC: 13
+STA: +2 AGI: +3
+SV COLD: +4
+WT: 3.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Sentry Armor set. 
+
+  Drops From 
+Skyshrine
+
+ Sentries
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Kunzar Hex Amulet
+
+Kunark Era (added 2000)
+
+Kunzar Hex Amulet
+
+
+MAGIC ITEM
+Slot: NECK
+Charges: 5
+AC: 8
+Effect:  Strength of the Kunzar (Must Equip, Casting Time: 6.0)
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+Rechargable? For how much? 
+
+  Drops From 
+Howling Stones (Charasis)
+
+ Reanimated Plaguebone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

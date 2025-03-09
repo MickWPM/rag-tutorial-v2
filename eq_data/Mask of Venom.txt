@@ -1,0 +1,36 @@
+ITEM NAME: Mask of Venom
+
+Velious Era (added December 2000-2001)
+
+
+Mask of Venom
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 14
+STR: +5  DEX: +5  STA: +10  HP: +25
+SV DISEASE: +15  SV POISON: +15
+WT: 5.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+Upgraded Stats. 
+
+  Drops From 
+Temple of Veeshan
+
+ Ikatiar the Venom
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

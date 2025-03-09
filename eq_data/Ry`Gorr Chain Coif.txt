@@ -1,0 +1,40 @@
+ITEM NAME: Ry`Gorr Chain Coif
+
+Velious Era (added December 2000-2001)
+
+Ry`Gorr Chain Coif
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 13
+STR: +3  MANA: +15
+SV MAGIC: +3
+WT: 4.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Ry`Gorr Chain Armor set. 
+
+  Drops From 
+Eastern Wastes
+
+ a Ry`Gorr clan lookout
+ a Ry`Gorr clan scout
+ a Ry`Gorr legionaire
+ a Ry`Gorr prison guard
+ Ry`Gorr elite guard
+ Ry`Gorr Emissary
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

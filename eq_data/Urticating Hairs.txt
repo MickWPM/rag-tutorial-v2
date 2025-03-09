@@ -1,0 +1,60 @@
+ITEM NAME: Urticating Hairs
+
+
+Urticating Hairs
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 2 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Dreadlands
+
+ a drachnid recluse
+ a drachnid silkmistress
+ a drachnid silkstrander
+ a drachnid webmaster
+ a drachnid widow
+ a dread widow
+
+Firiona Vie
+
+ a drachnid silkspinner
+ a drachnid weblurker
+ a drachnid webspinner
+ a drachnid webstrander
+
+Northern Desert of Ro
+
+ a dune tarantula
+
+Southern Desert of Ro
+
+ a dune tarantula
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Regalis Poison (Trivial: 22)
+
+
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: A note
+
+
+
+A note
+
+
+The Note is rolled up.
+NO TRADE
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Harvester 
+
+  Book contents 
+Reminder - Shadowed Scythe.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

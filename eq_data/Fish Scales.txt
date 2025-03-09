@@ -1,0 +1,160 @@
+ITEM NAME: Fish Scales
+
+
+Fish Scales
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used as a reagent for Enduring Breath 
+
+  Drops From 
+Blackburrow
+
+ a razorgill
+
+Mistmoore Castle
+
+ a Mistmoore guard
+
+Kedge Keep
+
+ a cerulean sailfin
+ a cobalt sailfin
+ a crimson sailfin
+ a shimmering sailfin
+ a stiletto fang piranha
+ a stiletto tooth piranha
+ a stingtooth piranha
+ an emerald sailfin
+
+Kithicor Forest
+
+ a large piranha
+
+Lake of Ill Omen
+
+ a bloodgill barracuda
+ pond sturgeon
+
+Nektulos Forest
+
+ a large piranha
+
+Qeynos Aqueducts
+
+ a fish
+ a large piranha
+
+Rivervale
+
+ a large piranha
+ a trout
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Jeliala Glimmercharm
+
+
+
+  (507, 765)
+
+
+ Erudin Palace
+
+ Tika Shockstep
+
+
+
+  (917, 721)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ Kithicor Forest
+
+ Jeena Firechaser
+
+
+
+  (-216, 3813)
+
+
+ Oggok
+
+ Hrak
+
+
+
+  (821, 849)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fishing (Trivial: 135) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Blackburrow
+ Mistmoore Castle
+ East Commonlands
+ Kael Drakkel
+ Kedge Keep
+ Kithicor Forest
+ Lake of Ill Omen
+ Nektulos Forest
+ Qeynos Aqueducts
+ Rivervale
+ Steamfont Mountains
+ The Feerrott
+ West Commonlands
+ West Freeport
+
+

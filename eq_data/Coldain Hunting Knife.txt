@@ -1,0 +1,37 @@
+ITEM NAME: Coldain Hunting Knife
+
+Classic Era (added 1999-2000)
+
+Coldain Hunting Knife
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #3: Gold Coldain Insignia Ring
+
+  Player crafted 
+ Blacksmithing (Trivial: 41)
+ Yield: Coldain Hunting Knife x1
+ In Forge:
+
+
+  1 x High Quality Walrus Hide - Dropped
+  1 x Skinning Rock - Ground Spawn
+  1 x Wooly Rhino Horn - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

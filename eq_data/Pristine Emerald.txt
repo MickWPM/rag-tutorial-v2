@@ -1,0 +1,75 @@
+ITEM NAME: Pristine Emerald
+
+Velious Era (added December 2000-2001)
+
+Pristine Emerald
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 148p 2g 
+
+  Drops From 
+Cobalt Scar
+
+ Kelorek`Dar
+
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari hoarder
+ a Chetari master
+ a Chetari Packrat
+ a dragon construct
+ an entropy serpent
+ Vaniki
+
+Plane of Mischief
+
+ Lithiniath
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a neriad mistress
+ a neriad sea princess
+ a siren beguiler
+ a siren enticer
+ a siren myrmidon
+ a siren seductress
+ a siren templar
+ Mistress Latazura
+
+Velketor's Labyrinth
+
+ a crystal destroyer
+ a frost spectre
+ a large crystal shard
+ a velium hunter
+ Bled
+ Bledrek
+ Crystal Guardian
+ Icy Guardian
+ Kerd
+ Kerdelb
+ Khelkar Icepaw
+ The Brood Master
+ The Brood Mother
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velious Class Armor
+ Caster Robe  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

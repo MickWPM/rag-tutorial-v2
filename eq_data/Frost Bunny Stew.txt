@@ -1,0 +1,41 @@
+ITEM NAME: Frost Bunny Stew
+
+Velious Era (added December 2000-2001)
+
+
+Frost Bunny Stew
+
+
+NO DROP
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ Baking (Trivial: 68)
+ Yield: Frost Bunny Stew x1
+ In Oven:
+
+
+  1 x Pot - Crafted, Returned on Failure
+  1 x Saucy Bunnymeat - Crafted
+  1 x Spices - Bought
+  2 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

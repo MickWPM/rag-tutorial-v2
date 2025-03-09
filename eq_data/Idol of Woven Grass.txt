@@ -1,0 +1,48 @@
+ITEM NAME: Idol of Woven Grass
+
+Kunark Era (added 2000)
+
+Idol of Woven Grass
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: NECK SECONDARY
+STA: +2  WIS: +2  MANA: +10
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Idol of Woven Grass  
+ Merchant resale value: 5gp 
+
+  Drops From 
+Frontier Mountains
+
+ a goblin soothsayer
+
+Warsliks Woods
+
+ a goblin soothsayer
+ a goblin witchdoctor
+ goblin spirit caller
+
+Lake of Ill Omen
+
+ a goblin soothsayer
+
+Temple of Droga
+
+ a goblin boneslaver
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,50 @@
+ITEM NAME: Drachnid Silk
+
+Kunark Era (added 2000)
+
+
+Drachnid Silk
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+No known classic use. 
+
+  Drops From 
+Dreadlands
+
+ a drachnid recluse
+ a drachnid silkmistress
+ a drachnid silkstrander
+ a drachnid webmaster
+ a drachnid widow
+
+Firiona Vie
+
+ a drachnid silklurker
+ a drachnid silkspinner
+ a drachnid weblurker
+ a drachnid webspinner
+ a drachnid webstrander
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Dreadlands
+ Firiona Vie
+
+

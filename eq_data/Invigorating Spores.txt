@@ -1,0 +1,32 @@
+ITEM NAME: Invigorating Spores
+
+
+Invigorating Spores
+
+
+MAGIC ITEM  LORE ITEM
+EXPENDABLE  Charges: 1
+Effect:  Fortitude (Any Slot, Casting Time: 10.0)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ Myconid's
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

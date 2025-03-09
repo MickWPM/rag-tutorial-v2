@@ -1,0 +1,36 @@
+ITEM NAME: Assassin's Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Assassin's Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 13
+STR: +3  DEX: +1  STA: +1  AGI: +3
+SV MAGIC: +2
+WT: 4.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a spirit flux wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Drape of the Seacasters
+
+
+
+Drape of the Seacasters
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 10
+SV MAGIC: +10
+WT: 0.7  Size: MEDIUM
+Class: NEC
+Race: IKS
+
+
+
+
+  Drops From 
+East Cabilis
+
+ Grype
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

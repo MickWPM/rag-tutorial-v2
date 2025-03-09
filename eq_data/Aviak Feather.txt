@@ -1,0 +1,30 @@
+ITEM NAME: Aviak Feather
+
+
+Aviak Feather
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Pirate Earrings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Research
+ Minor Summoning: Air (Trivial: 22)
+
+
+
+
+

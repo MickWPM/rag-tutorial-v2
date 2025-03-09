@@ -1,0 +1,46 @@
+ITEM NAME: Kiola nut
+
+
+Kiola Nut
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ocean of Tears
+
+ Cleonae Kalen
+
+
+
+  (503, -9253, 12)
+
+  Related quests 
+ Exotic Drinks
+ Pirate Earrings
+ Tumpy Tonics
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Brewing
+
+
+
+

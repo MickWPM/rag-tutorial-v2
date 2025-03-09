@@ -1,0 +1,34 @@
+ITEM NAME: Sathir's Wand
+
+Kunark Era (added 2000)
+
+Sathir's Wand
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 1
+Effect:  Drain Soul (Must Equip, Casting Time: 10.0) at Level 40
+WT: 1.0  Size: SMALL
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ Knight of Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,60 @@
+ITEM NAME: Fool's Gold Stein
+
+Classic Era (added 1999-2000)
+
+
+Fool's Gold Stein
+
+
+LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 2 
+WT: 1.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK
+BRD ROG SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Rivervale
+
+ Mac Deeppockets
+
+
+
+  (-64, -188)
+
+
+ Rivervale
+
+ Flyndia Deeppockets
+
+
+
+  (-49, -207)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ See also
+ Souvenir Mugs
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Summoned: Staff of Runes
+
+Classic Era (added 1999-2000)
+Summoned: Staff of Runes
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY  
+Slot: PRIMARY
+Charges: 1
+Skill: 2H Blunt  Atk Delay: 36
+DMG: 9 
+Effect:  Cancel Magic (Any Slot, Casting Time: Instant)
+WT: 2.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Magicians summon this via Staff of Runes. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

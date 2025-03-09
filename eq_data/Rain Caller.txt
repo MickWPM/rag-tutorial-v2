@@ -1,0 +1,34 @@
+ITEM NAME: Rain Caller
+
+
+Rain Caller
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE
+Charges: 5
+Skill: Archery  Atk Delay: 45
+DMG: 20
+STR: +6  DEX: +6
+Effect:  Firestrike (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+WT: 3.0  Range: 200  Size: LARGE
+Class: RNG
+Race: HUM ELF HEF
+
+
+Buyback 610 platinum for recharging 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rain Caller Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

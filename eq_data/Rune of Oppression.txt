@@ -1,0 +1,40 @@
+ITEM NAME: Rune of Oppression
+
+
+Rune of Oppression
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Ocean of Tears
+
+ An isle goblin
+
+East Cabilis
+
+ Half Elf Maiden
+
+Kithicor Forest
+
+ An orc scout
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Enstill (Trivial: 41)
+
+
+
+
+

@@ -1,0 +1,171 @@
+ITEM NAME: Small Cloth Choker
+
+Classic Era (added 1999-2000)Were you looking for Cloth Armor Set? Were you looking for Large Cloth Armor Set?
+
+Small Cloth Choker
+
+
+Slot: NECK
+AC: 1
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Cloth Armor Set. 
+
+  Drops From 
+ Newbie mobs.
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (1313, -915)
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (771, 172)
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (963, -63)
+
+
+ Ak'Anon
+
+ a clockwork tailor
+
+
+
+  (987, -52)
+
+
+ West Commonlands
+
+ Sorsha Hobbitfriend
+
+
+
+  (-196, 468)
+
+
+ East Commonlands
+
+ Pardor the Blessed
+
+
+
+  (-121, -780)
+
+
+ East Commonlands
+
+ Dena Loommistress
+
+
+
+  (317, 4797)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ South Kaladim
+
+ Gurtha Yaptongue
+
+
+
+  (224, -254)
+
+
+ Neriak Foreign Quarter
+
+ Mordant Tather
+
+
+
+  (130, -175)
+
+
+ Neriak Commons
+
+ Mikaela S`Kor
+
+
+
+  (-5, -1002)
+
+
+ Oasis of Marr
+
+ Tran
+
+
+
+  (541, -43)
+
+
+ Rivervale
+
+ Meeka Diggs
+
+
+
+  (-18, -243)
+
+
+ Thurgadin
+
+ Kyla Frostbeard
+
+
+
+  (-113, 230)
+
+
+ Thurgadin
+
+ Cobi Frostbeard
+
+
+
+  (-114, 219)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

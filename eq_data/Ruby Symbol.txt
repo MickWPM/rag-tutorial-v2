@@ -1,0 +1,89 @@
+ITEM NAME: Ruby Symbol
+
+Velious Era (added December 2000-2001)
+Ruby Symbol
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lepethida
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Second Arcane Test -- Boots of Deep ThoughtBoots of Deep Thought
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 20
+STA: +15  INT: +15  HP: +65  MANA: +65
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Aura of Battle (Worn)  
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Ruby Tear
+ Black Tear
+ Ruby Symbol (from Lepethida)
+ White Symbol (from Casalen or Tavekalem)
+
+ Test of the Fire Storm -- Cloak of the Fire StormCloak of the Fire Storm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 24
+STR: +15  DEX: +15  STA: +15  AGI: +15  HP: +100
+SV FIRE: +35
+Haste: +40%  
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ Poison Tear
+ Serrated Tear
+ Ruby Symbol (from Lepethida)
+ Flame Kissed Symbol (from Krigara or Ymmeln)
+
+ Test of the Ruby Tear -- Silver Charm of TranquilitySilver Charm of Tranquility
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK WRIST
+AC: 35
+STR: +10  STA: +15  HP: +100  MANA: +100
+SV FIRE: +8  SV DISEASE: +8  SV COLD: +8  SV MAGIC: +8  SV POISON: +8
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Ruby Tear
+ White Symbol (from Casalen or Tavekalem)
+ Ruby Symbol (from Lepethida)
+ Silver Symbol (from Essedera)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

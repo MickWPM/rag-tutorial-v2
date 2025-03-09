@@ -1,0 +1,35 @@
+ITEM NAME: Loam Encrusted Sash
+
+Hole Era (added June 2000)
+
+Loam Encrusted Sash
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 4
+STR: +8  MANA: +10
+SV FIRE: +5  SV MAGIC: +5
+WT: 0.2  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+ Item Lore (from Identify):  Loam Encrusted SashPart of the Loam Encrusted Armor Set. 
+
+  Drops From 
+The Hole
+
+ Gibartik
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

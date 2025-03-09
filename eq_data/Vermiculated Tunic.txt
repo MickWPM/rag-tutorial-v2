@@ -1,0 +1,34 @@
+ITEM NAME: Vermiculated Tunic
+
+
+Vermiculated Tunic
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 15
+STR: +9  STA: +9  WIS: +13  HP: +35
+WT: 9.0  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a gorgon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Full armor set here: [1]
+
+

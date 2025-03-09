@@ -1,0 +1,37 @@
+ITEM NAME: Spear of Constriction
+
+Hole Era (added June 2000)
+ Project 1999 Blue - Spear of Constriction
+Spear of Constriction
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 23
+DMG: 13 
+STR: +7  WIS: +11  MANA: +60
+Effect:  Ensnare (Combat, Casting Time: Instant) at Level 50
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHM
+Race: ALL
+
+
+An excellent upgrade to Silken Whip of Ensnaring for warriors and the best source of snare for shamans who can’t use the Regent Symbol of Innoruuk.
+Compare to Tserrina's Whip which has an inferior ratio but should land more easily on magic resistant NPCs. 
+
+  Drops From 
+Veeshan's Peak
+
+ Xygoz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

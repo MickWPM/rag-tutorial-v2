@@ -1,0 +1,39 @@
+ITEM NAME: Words of Duration
+
+
+Words of Duration
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: with CHA : 80 and faction at Indifferently
+
+
+ 1 Platinums
+ 2 Golds
+ 4 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from any level ~34 mob
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Invoke Fear (Trivial: 120)
+
+
+
+
+

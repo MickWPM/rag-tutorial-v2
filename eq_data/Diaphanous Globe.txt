@@ -1,0 +1,38 @@
+ITEM NAME: Diaphanous Globe
+
+Sky Era (added January 2000)
+
+
+
+Diaphanous Globe
+
+
+LORE ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a crystalline cloud
+ a gust of wind
+ a shimmering meteor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of Tree
+ Paladin Test of Spirit
+ Shadowknight Test of Slash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

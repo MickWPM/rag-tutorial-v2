@@ -1,0 +1,37 @@
+ITEM NAME: Bow of the Silver Fang
+
+Velious Era (added December 2000-2001)
+
+
+Bow of the Silver Fang
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+Skill: Archery  Atk Delay: 42
+DMG: 35  AC: 10
+HP: +50  MANA: +50
+WT: 1.0  Range: 200  Size: TINY
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+
+ Flurry Drakes
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

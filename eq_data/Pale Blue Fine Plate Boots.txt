@@ -1,0 +1,39 @@
+ITEM NAME: Pale Blue Fine Plate Boots
+
+
+
+Pale Blue Fine Plate Boots
+
+
+Slot: FEET
+AC: 10
+WT: 6.5  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL except DWF TRL OGR HFL GNM IKS
+
+
+Part of the Pale Blue Medium Fine Plate Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 36)
+ Yield: Pale Blue Fine Plate Boots x1
+ In Forge:
+
+
+  1 x Fine Plate Boots - Crafted
+  1 x Jar of Acid - Bought
+  1 x Jar of Lacquer
+  1 x Light Blue Dye - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

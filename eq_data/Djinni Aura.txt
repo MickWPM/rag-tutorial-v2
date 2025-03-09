@@ -1,0 +1,33 @@
+ITEM NAME: Djinni Aura
+
+Sky Era (added January 2000)
+
+
+Djinni Aura
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Theurgy
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

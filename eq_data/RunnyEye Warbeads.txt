@@ -1,0 +1,40 @@
+ITEM NAME: RunnyEye Warbeads
+
+
+RunnyEye Warbeads
+
+
+QUEST ITEM
+Slot: NECK
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a goblin warrior
+ a crazed goblin
+
+Misty Thicket
+
+ Mooto
+ Other non-whelp Goblins
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Runnyeye Warbeads (Kaladim Rogue)
+ Runnyeye Warbeads (Rivervale)
+ Runnyeye Warbeads (Kaladim Warrior)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

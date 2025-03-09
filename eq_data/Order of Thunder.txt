@@ -1,0 +1,38 @@
+ITEM NAME: Order of Thunder
+
+Classic Era (added 1999-2000)
+Were you looking for Order of Thunder (Drosco)?
+
+Order of Thunder
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 2
+CHA: +5  HP: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Order of Thunder Medal
+Two items with the same name, different attributes. The version which drops from Drosco is only CHA +5. 
+
+  Drops From 
+Western Plains of Karana
+
+ Kobot Dellin
+ Parcil Vinder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Hunting
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

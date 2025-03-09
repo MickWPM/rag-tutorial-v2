@@ -1,0 +1,470 @@
+ITEM NAME: Axe
+
+Classic Era (added 1999-2000)
+Axe
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 31
+DMG: 6 
+WT: 6.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Grobb
+
+ Exterminator Filrog
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1313, -886)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1331, -707)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1324, -749)
+
+
+ East Cabilis
+
+ Granthrow
+
+
+
+  (-508, -311)
+
+
+ East Cabilis
+
+ Smithy Qag
+
+
+
+  (-525, -7)
+
+
+ East Cabilis
+
+ Smithy Ygen
+
+
+
+  (-620, -28)
+
+
+ West Commonlands
+
+ Parus the Strong
+
+
+
+  (-279, 534)
+
+
+ East Commonlands
+
+ Ponila Quickfingers
+
+
+
+  (193, -855)
+
+
+ Erud's Crossing
+
+ Renna
+
+
+
+  (-1479, 857)
+
+
+ Field of Bone
+
+ Klok Canip
+
+
+
+  (-2261, 3304)
+
+
+ Firiona Vie
+
+ Rafron Brandin
+
+
+
+  (-3833, 1671)
+
+
+ Firiona Vie
+
+ Quizan Gaxx
+
+
+
+  (-2873, 2733)
+
+
+ East Freeport
+
+ Klan Smith
+
+
+
+  (-184, -164)
+
+
+ East Freeport
+
+ Gord Smith
+
+
+
+  (-184, -138)
+
+
+ East Freeport
+
+ Tenni Kohern
+
+
+
+  (-223, -886)
+
+
+ North Freeport
+
+ Jekel Enhied
+
+
+
+  (-117, 556)
+
+
+ North Freeport
+
+ Rhensa Steadirt
+
+
+
+  (-10, 534)
+
+
+ North Freeport
+
+ Ardiflah Steadirt
+
+
+
+  (-27, 482)
+
+
+ West Freeport
+
+ Fania Esruc
+
+
+
+  (-251, -820)
+
+
+ Greater Faydark
+
+ Merchant Gerienae
+
+
+
+  (-643, 364)
+
+
+ Greater Faydark
+
+ Merchant Tenra
+
+
+
+  (-215, 255)
+
+
+ Greater Faydark
+
+ Merchant Gililya
+
+
+
+  (-481, -211)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Grobb
+
+ Hartok
+
+
+
+  (433, -201)
+
+
+ Halas
+
+ Kevan McPherson
+
+
+
+  (210, -324)
+
+
+ Halas
+
+ Elona McMahon
+
+
+
+  (212, 184)
+
+
+ Highpass Hold
+
+ Mardon Smith
+
+
+
+  (-378, -112)
+
+
+ South Kaladim
+
+ Hindaek Stormhammer
+
+
+
+  (139, 371)
+
+
+ North Kaladim
+
+ Murlond Everhot
+
+
+
+  (367, -173)
+
+
+ North Kaladim
+
+ Kafia Ratsbone
+
+
+
+  (594, 238)
+
+
+ Lake of Ill Omen
+
+ Klok Sargin
+
+
+
+  (6022, -6338)
+
+
+ Neriak Third Gate
+
+ Jerris W`Selo
+
+
+
+  (630, -1402)
+
+
+ Neriak Third Gate
+
+ Kanthu M`Rekkor
+
+
+
+  (621, -1351)
+
+
+ Oggok
+
+ Cikoona
+
+
+
+  (446, 476)
+
+
+ Oggok
+
+ Varrok Neckchopper
+
+
+
+  (324, -212)
+
+
+ Western Plains of Karana
+
+ Carlan the Young
+
+
+
+  (972, -1868)
+
+
+ Western Plains of Karana
+
+ Maldin the Old
+
+
+
+  (972, -1868)
+
+
+ South Qeynos
+
+ Moran Smith
+
+
+
+  (-60, -246)
+
+
+ South Qeynos
+
+ Barthal
+
+
+
+  (-55, -303)
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+
+ North Qeynos
+
+ Rendallen Ironforge
+
+
+
+  (50, 86)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Rathe Mountains
+
+ Lianna Ferasa
+
+
+
+  (3989, 1477)
+
+
+ Rivervale
+
+ Gaffin Deeppockets
+
+
+
+  (-53, -178)
+
+
+ Skyshrine
+
+ Raelrik
+
+
+
+  (353, -625)
+
+
+ Skyshrine
+
+ Tulgadin
+
+
+
+  (383, -625)
+
+
+ Swamp of No Hope
+
+ Klok Bygle
+
+
+
+  (2714, 2816)
+
+
+ Warsliks Woods
+
+ Klok Nogolin
+
+
+
+  (-2419, -566)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

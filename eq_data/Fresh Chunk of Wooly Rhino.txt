@@ -1,0 +1,31 @@
+ITEM NAME: Fresh Chunk of Wooly Rhino
+
+Velious Era (added December 2000-2001)Were you looking for Wooly Rhino Meat?
+
+Fresh Chunk of Wooly Rhino
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+This quest item should not be confused with Wooly Rhino Meat. 
+
+  Drops From 
+Eastern Wastes
+
+ a wooly rhino
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Captain Nalot's Triple Strength Rum
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

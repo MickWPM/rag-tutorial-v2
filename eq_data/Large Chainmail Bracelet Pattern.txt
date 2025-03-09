@@ -1,0 +1,63 @@
+ITEM NAME: Large Chainmail Bracelet Pattern
+
+
+
+Large Chainmail Bracelet Pattern
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Halas
+
+ Lynda McDobbs
+
+
+
+  (364, -295)
+
+
+ Neriak Foreign Quarter
+
+ Putad
+
+
+
+  (-213, -295)
+
+
+ Oggok
+
+ Puglala
+
+
+
+  (95, 846)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

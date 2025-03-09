@@ -1,0 +1,33 @@
+ITEM NAME: Very Tiny Crumpled Skeleton
+
+Classic Era (added 1999-2000)
+
+
+Very Tiny Crumpled Skeleton
+
+
+NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Northern Karana
+
+ a tiny skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tiny Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

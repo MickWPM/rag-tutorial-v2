@@ -1,0 +1,35 @@
+ITEM NAME: Sarnak War Bow
+
+Chardok Revamp Era (added late 2001)
+
+Sarnak War Bow
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+Skill: Archery  Atk Delay: 25
+DMG: 12
+STR: +10  STA: +5  HP: +25  MANA: +25
+WT: 3.0  Range: 150  Size: SMALL
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Drill Master Dih`roul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

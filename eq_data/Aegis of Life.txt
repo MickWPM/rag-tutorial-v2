@@ -1,0 +1,34 @@
+ITEM NAME: Aegis of Life
+
+Classic Era (added 1999-2000)
+Aegis of Life
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+Slot: BACK SECONDARY
+Charges: 1
+AC: 12
+WIS: +10
+SV DISEASE: +25
+Effect:  Superior Healing (Must Equip, Casting Time: Instant) at Level 30
+WT: 9.5  Size: LARGE
+Class: CLR PAL
+Race: ALL except TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Aegis of Life Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

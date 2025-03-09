@@ -1,0 +1,41 @@
+ITEM NAME: Embalming Dust
+
+
+Embalming Dust
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+East Commonlands
+
+ a lesser mummy
+
+Northern Desert of Ro
+
+ a crypt mummy
+ a shriveled mummy
+
+Southern Desert of Ro
+
+ a sand mummy
+ crypt mummy
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Fear
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Make Poison
+
+
+
+

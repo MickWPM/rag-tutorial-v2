@@ -1,0 +1,36 @@
+ITEM NAME: Othmir Chieftain Spear
+
+Velious Era (added December 2000-2001)
+
+Othmir Chieftain Spear
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 44
+DMG: 16 
+CHA: +2  WIS: +5  INT: +5  MANA: +20
+SV DISEASE: +10  SV POISON: +5
+WT: 6.3  Size: LARGE
+Class: WAR RNG SHD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ Chief Kalan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,44 @@
+ITEM NAME: Imbued Steelsilk Pauldron (Quellious)
+
+Velious Era (added December 2000-2001)
+
+Imbued Steelsilk Pauldron
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 11
+STR: +7  CHA: +2  WIS: +1  HP: +8  MANA: +10
+SV DISEASE: +2  SV POISON: +4
+WT: 1.5  Size: SMALL
+Class: CLR PAL
+Race: ERU
+Deity: Quellious
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: <=119 or 248?)
+ Yield: Imbued Steelsilk Pauldron x1
+ In Erudite Sewing Kit:
+
+
+  1 x Imbued Topaz - Summoned
+  1 x Platinum Thread - Bought
+  1 x Shoulderpad Pattern - Bought
+  1 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

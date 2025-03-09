@@ -1,0 +1,45 @@
+ITEM NAME: Of Pike and Mancatcher
+
+Kunark Era (added 2000)
+Of Pike and Mancatcher
+
+
+The Book is closed.
+NO DROP
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Weaponsmith Grugl
+
+
+
+  (-432, -33)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+This book existed at the launch of Kunark, but no longer exists in any databse, so we don't have the text. L2Pike.
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

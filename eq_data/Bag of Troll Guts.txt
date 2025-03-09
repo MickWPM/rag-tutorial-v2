@@ -1,0 +1,30 @@
+ITEM NAME: Bag of Troll Guts
+
+
+Bag of Troll Guts
+
+
+WT: 3.7  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Northern Karana
+
+ Zahal the Vile
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fabian's Strings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

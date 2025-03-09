@@ -1,0 +1,37 @@
+ITEM NAME: Ingot of the Reliant
+
+Temple Era (added October 1999)
+
+
+Ingot of the Reliant
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Ground spawn on a tree stump in Kithicor Forest. Jump off of the adjacent fallen tree on to the stump. Location: -90 +3300. 
+
+  Drops From 
+Kithicor Forest
+
+ Ground Spawn
+ (-90, +3300) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Boots of the Reliant
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

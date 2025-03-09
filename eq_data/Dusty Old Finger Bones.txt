@@ -1,0 +1,30 @@
+ITEM NAME: Dusty Old Finger Bones
+
+
+
+Dusty Old Finger Bones
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Ground spawn in Phinigel Autropos's room in Kedge Keep. There's an alcove on the SOUTH WALL with a large rock in the middle, and the bag spawns to the LEFT of the rock. Exact Location is neg 150, pos 127, neg 270. (proper spawn location updated July '17) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bones of Darak Lightforge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

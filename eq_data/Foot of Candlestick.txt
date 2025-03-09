@@ -1,0 +1,40 @@
+ITEM NAME: Foot of Candlestick
+
+
+
+Foot of Candlestick
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Foot of Candlestick
+ Item Lore (from Identify): Foot of a Kor Sha Candlestick
+Note: There are two items with this identical name.
+You obtain the Foot for the 6th skullcap quest by giving the Stein (from a halfling swashbuckler) to Grype. 
+
+  Drops From 
+Rathe Mountains
+
+ Unkempt Preserver (no lore)
+
+Lake of Ill Omen
+
+ a Sarnak revenant (non-classic drop) ("Foot of a Kor Sha Candlestick")
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Chalice of Conquest Quest ("No Lore")
+ Necromancer 6th Skullcap ("Foot of a Kor Sha Candlestick")  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

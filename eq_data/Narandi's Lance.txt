@@ -1,0 +1,43 @@
+ITEM NAME: Narandi's Lance
+
+Velious Era (added December 2000-2001)
+
+Narandi's Lance
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 45
+DMG: 44   AC: 8
+STR: +8  STA: +8  WIS: +8  INT: +8  HP: +30  MANA: +30
+SV DISEASE: +10
+Required level of 55.
+Effect: Boiling Blood (Combat, Casting Time: Instant)
+WT: 3.5  Size: LARGE
+Class: WAR PAL SHD
+Race: ALL
+
+
+CANNOT equip until lvl 55
+"All the lances are 38/45 until ~October2001, where the stats will be increased to 44/45.
+" ~ Nilbog [1].
+Chardok 2.0 is live and the lance is now 44/45 in game [2]
+Note: Part of Coldain Ring #10, which is classic 
+
+  Drops From 
+Great Divide
+
+ Narandi the Wretched
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #10: Ring of Dain Frostreaver IV
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

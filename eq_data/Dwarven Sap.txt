@@ -1,0 +1,34 @@
+ITEM NAME: Dwarven Sap
+
+Kunark Era (added 2000)
+
+Dwarven Sap
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 20
+DMG: 8 
+WT: 2.3  Size: MEDIUM
+Class: WAR CLR PAL ROG
+Race: DWF
+
+
+Vendors will buy this for 46p. 
+
+  Drops From 
+Karnor's Castle
+
+ skeletal warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

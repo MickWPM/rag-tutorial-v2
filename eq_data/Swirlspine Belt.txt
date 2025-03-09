@@ -1,0 +1,33 @@
+ITEM NAME: Swirlspine Belt
+
+
+Swirlspine Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 4
+Haste: +16%  
+WT: 1.0  Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kedge Keep
+
+ Swirlspine Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Rabid Wolf Hide
+
+Classic Era (added 1999-2000)
+
+
+Rabid Wolf Hide
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known classic use? Vendor trash? 
+
+  Drops From 
+Qeynos Hills
+
+ a rabid wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

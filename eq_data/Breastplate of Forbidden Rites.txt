@@ -1,0 +1,35 @@
+ITEM NAME: Breastplate of Forbidden Rites
+
+Velious Era (added December 2000-2001)
+
+ Myni models the Breastplate of Forbidden Rites (custom version).
+Breastplate of Forbidden Rites
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 42
+DEX: +5  STA: +7  WIS: +13  HP: +30  MANA: +80
+SV DISEASE: +5  SV COLD: +5  SV MAGIC: +7
+Effect:  Mark of Karn (Must Equip, Casting Time: 9.0)
+WT: 8.0  Size: LARGE
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+Unable to be clicked at lvl 39 since Green Server Kunark patch of Nov 2020. Confirmed clickable at LVL 46 on Blue in December 2020. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Velium Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

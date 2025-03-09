@@ -1,0 +1,43 @@
+ITEM NAME: Lupine Forged Arm Plates
+
+Kunark Era (added 2000)
+Lupine Forged Arm Plates
+
+
+Slot: ARMS
+AC: 6
+WT: 3.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Lupine Forged Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Phlegyl
+
+
+
+  (-640,-8)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

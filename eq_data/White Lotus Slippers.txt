@@ -1,0 +1,35 @@
+ITEM NAME: White Lotus Slippers
+
+Velious Era (added December 2000-2001)
+
+
+White Lotus Slippers
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 7
+STR: +9  HP: +40
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Firefist (Must Equip, Casting Time: 7.0) at Level 51
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Skyshrine Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

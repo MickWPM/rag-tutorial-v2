@@ -1,0 +1,35 @@
+ITEM NAME: Guardian Bracer
+
+Velious Era (added December 2000-2001)
+ Sheesha is modelling Guardian BP, Legs, Helm (no graphic), wrist, and boots.
+Guardian Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 9
+DEX: +3  STA: +3 HP: +10 MANA: +10
+SV FIRE: +5 SV COLD: +5  SV MAGIC: +4
+WT: 2.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+Part of the Guardian Armor set. 
+
+  Drops From 
+Skyshrine
+
+ A Gargoyle Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

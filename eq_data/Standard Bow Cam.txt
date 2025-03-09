@@ -1,0 +1,126 @@
+ITEM NAME: Standard Bow Cam
+
+
+Standard Bow Cam
+
+
+QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Gogon
+
+
+
+  (143, -204)
+
+
+ The Feerrott
+
+ Fugla
+
+
+
+  (975, 1267)
+
+
+ Firiona Vie
+
+ Jessica Winter
+
+
+
+  (-3426, 3310)
+
+
+ North Freeport
+
+ Timor Strongbranch
+
+
+
+  (-104, -57)
+
+
+ Greater Faydark
+
+ Merchant Sylnis
+
+
+
+  (-409, -519)
+
+
+ Neriak Commons
+
+ Dianax C`Luzz
+
+
+
+  (-147, -1064)
+
+
+ Surefall Glade
+
+ Tonsia
+
+
+
+  (125, -111)
+
+
+ Rivervale
+
+ Gerb Jinklebelly
+
+
+
+  (-211, -77)
+
+
+ Thurgadin
+
+ Argash
+
+
+
+  (-203, -298)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 75)
+ Yield: Standard Bow Cam x1
+ In Toolboxes:
+
+
+  1 x Gears - Bought, Dropped
+  1 x Gnomish Bolts - Bought
+  1 x Grease - Bought 
+
+
+  Tradeskill recipes 
+ Fletching
+ Various Recipes
+
+
+
+
+

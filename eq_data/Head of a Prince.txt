@@ -1,0 +1,32 @@
+ITEM NAME: Head of a Prince
+
+
+
+Head of a Prince
+
+
+LORE ITEM  NO DROP
+WT: 8.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Prince Selrach Di`zok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

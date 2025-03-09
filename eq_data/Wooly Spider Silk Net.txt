@@ -1,0 +1,36 @@
+ITEM NAME: Wooly Spider Silk Net
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Wooly Spider Silk Net
+
+
+MAGIC ITEM
+Charges: 3
+Effect:  Ensnaring Roots (Any Slot, Casting Time: 1.5 seconds)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Rechargeable for about 18p(merchants buy for 2 and sell for 20). As of 4/19/2020[1] patch cost about 2100 to recharge. Now no longer instant cast as well.
+These were the bread-and-butter aggro tools for warriors and monks alongside the LORE Midnight Mallet, before the nerfs in April 2020. 
+Following the Chardok revamp patch, it seems the hate from this clicky has been reduced to 97-172 per charge. (Please parse more to confirm an exact value). 
+
+  Drops From 
+Permafrost
+
+ a goblin jailmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

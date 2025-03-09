@@ -1,0 +1,33 @@
+ITEM NAME: Dull Cutting Disk
+
+Kunark Era (added 2000)
+
+
+Dull Cutting Disk
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Received from Klok Ephmir. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Catfish Croak Sandwich Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Sharp Cutting Disk (Trivial: 26)
+
+
+
+
+

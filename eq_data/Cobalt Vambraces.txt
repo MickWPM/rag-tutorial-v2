@@ -1,0 +1,36 @@
+ITEM NAME: Cobalt Vambraces
+
+Kunark Era (added 2000)
+
+
+
+Cobalt Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 25
+Effect:  Lesser Shielding (Must Equip, Casting Time: 9.0) at Level 45
+WT: 6.5  Size: SMALL
+Class: WAR
+Race: ALL except IKS
+
+
+Part of the Cobalt Armor set. 
+
+  Drops From 
+Old Sebilis
+
+ froglok zol knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,56 @@
+ITEM NAME: Minotaur Horn
+
+Classic Era (added 1999-2000)
+
+Minotaur Horn
+
+
+Slot: SECONDARY
+Wind Instruments: 20
+WT: 0.1  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+9 silver 9 copper 
+ Merchant resale value: About 3 silver 
+
+  Drops From 
+Ak'Anon
+
+ a lesser minotaur
+
+Beholder's Maze
+
+ a chasm minotaur
+ a gorge minotaur
+
+Lower Guk
+
+ a greater minotaur
+ a minotaur elder
+
+Najena
+
+ A Minotaur
+
+Steamfont Mountains
+
+ a minotaur slaver
+ Minotaur Guard
+ Minotaur Hero
+ Minotaur Lord
+ Minotaur Sentry
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Minotaur Horns
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Honey Mush Bread
+
+
+
+Honey Mush Bread
+
+
+This is a meal!
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: The Catfish Croak Sandwich quest seems to indicate this may only be available from Klok Bygle (need confirmation on p99).
+Note: As of Oct 8, 2013, this item is no longer available from vendors. [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Catfish Croak Sandwich Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Arrow of Contagion
+
+
+
+Arrow of Contagion
+
+
+MAGIC ITEM
+Slot: AMMO
+DMG: 4
+WT: 0.1  Range: 100  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ Whimsy Larktwitter
+
+Rivervale
+
+ Nillipuss
+
+Toxxulia Forest
+
+ a pixie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

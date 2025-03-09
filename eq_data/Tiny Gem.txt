@@ -1,0 +1,35 @@
+ITEM NAME: Tiny Gem
+
+Kunark Era (added 2000)
+Tiny Gem
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Received from a lesser spirit to start the Shaman Epic Quest.
+Woodelf Druid took 79 turn ins to max faction
+apprehensively to indifferently = 1 tiny gem 1 opaque gem (Not sure if opaque gem is same faction hit.)
+indifferently to amiably = 1 tiny gem
+amiably to kindly = 7 tiny gem
+kindly to warmly = 10 tiny gem
+warmly to max = 20 tiny gem
+April 22, 2024 - Agnostic Gnome Magician took 21 total turn ins to reach max Ally, starting from Apprehensive. Additionally, the Mage could not get the Tiny Gem at first without faction assistance (charm in this case), but after only 1 turn in, all gems were acquired normally. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

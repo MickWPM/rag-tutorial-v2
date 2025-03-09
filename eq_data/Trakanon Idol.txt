@@ -1,0 +1,31 @@
+ITEM NAME: Trakanon Idol
+
+Kunark Era (added 2000)
+
+
+Trakanon Idol
+
+
+NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This key allows (self-only) access to Old Sebilis. It is soulbound (appears in your inventory after death). For more information see the Key Compendium.
+Not soulbound until ~July 2000 [1] 1 month into  Hole  Era 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rune of Scale Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

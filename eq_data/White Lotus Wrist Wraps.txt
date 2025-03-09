@@ -1,0 +1,36 @@
+ITEM NAME: White Lotus Wrist Wraps
+
+Velious Era (added December 2000-2001)
+
+
+White Lotus Wrist Wraps
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+Effect: Pouch of Quellious (Must Equip, Casting Time: 25.0) at Level 50
+STR: +5  DEX: +3  HP: +30
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2
+SV MAGIC: +2  SV POISON: +2
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Skyshrine Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

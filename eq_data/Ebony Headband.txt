@@ -1,0 +1,37 @@
+ITEM NAME: Ebony Headband
+
+Velious Era (added December 2000-2001)
+
+
+Ebony Headband
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 35
+STR: +7  DEX: +7  STA: +7  AGI: +7  HP: +50
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Ultravision (Worn, Casting Time: Instant)
+WT: 0.3  Size: TINY
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lady Mirenilla
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

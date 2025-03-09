@@ -1,0 +1,39 @@
+ITEM NAME: Reaver
+
+Velious Era (added December 2000-2001)
+Were you looking for Shadow Knight (Class)?
+
+ 
+Reaver
+
+
+LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 40
+DMG: 40
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+WT: 25.0  Size: MEDIUM
+Class: WAR PAL SHD
+Race: ALL
+
+
+ Item Lore (from Identify):  'Bane of Dragons'  
+Before Oct 2001 in the timeline, is 35/45. See discussion.  
+Note: This is NOT a MAGIC item, so it won't damage enemies such as willowisps and ghouls. 
+
+  Drops From 
+Kael Drakkel
+
+ The Statue of Rallos Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

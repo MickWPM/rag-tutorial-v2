@@ -1,0 +1,38 @@
+ITEM NAME: Dire Wolf-Hide Cloak
+
+Velious Era (added December 2000-2001)
+
+
+
+Dire Wolf-Hide Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 8
+STR: +6  STA: +6  HP: +35
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Staff Sergeant Drioc
+ Captain Bvellos
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dire Wolf-Hide Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

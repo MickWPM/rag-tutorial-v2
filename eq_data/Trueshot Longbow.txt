@@ -1,0 +1,42 @@
+ITEM NAME: Trueshot Longbow
+
+
+Trueshot Longbow
+
+
+LORE ITEM
+Slot: RANGE
+Skill: Archery  Atk Delay: 45
+DMG: 20
+WT: 3.0  Range: 100  Size: LARGE
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rain Caller Quest
+ Trueshot Longbow Quest
+
+  Player crafted 
+ Skill Fletching (Trivial: 235)
+ Trueshot Longbow
+ In Fletching Kit:
+
+
+  1 x Treant Bow Staff - Quested Trueshot Longbow Quest
+  1 x Dwarven Wire - Quested Tumpy Tonics
+  1 x Planing Tool - Bought, Returned on Failure or Success
+  1 x Micro Servo - Quested Trueshot Longbow Quest
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

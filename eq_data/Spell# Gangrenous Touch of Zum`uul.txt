@@ -1,0 +1,34 @@
+ITEM NAME: Spell: Gangrenous Touch of Zum`uul
+
+Chardok Revamp Era (added late 2001)
+Spell: Gangrenous Touch of Zum`uul
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Alteration
+Mana Cost: 415
+Effect:  Gangrenous Touch of Zum`uul
+WT: 0.1  Size: SMALL
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Grand Advisor Zum`uul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

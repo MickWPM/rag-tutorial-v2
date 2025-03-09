@@ -1,0 +1,38 @@
+ITEM NAME: Small Reinforced Mask
+
+Classic Era (added 1999-2000)
+
+Small Reinforced Mask
+
+
+Slot: FACE
+AC: 4
+WT: 0.3  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Reinforced Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 108)
+ Yield: Small Reinforced Mask x1
+ In Loom or Sewing Kit:
+
+
+  1 x High Quality Wolf Pelt - Dropped
+  1 x Steel Boning - Crafted
+  1 x Mask Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

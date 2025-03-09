@@ -1,0 +1,28 @@
+ITEM NAME: Thunderhoof Quiver
+
+
+Thunderhoof Quiver
+
+
+WT: 0.4  Weight Reduction: 33%
+Capacity: 4  Size Capacity: MEDIUM
+
+
+Weight Reduction changed from 0% to 33% in Velious Era 2001.[1] 
+
+  Drops From 
+Southern Karana
+
+ Kroldir Thunderhoof
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

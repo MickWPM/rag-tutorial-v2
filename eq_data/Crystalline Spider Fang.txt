@@ -1,0 +1,39 @@
+ITEM NAME: Crystalline Spider Fang
+
+Velious Era (added December 2000-2001)
+
+
+
+Crystalline Spider Fang
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 10 
+STR: +3
+SV POISON: +10
+Effect:  Velium Shards (Combat, Casting Time: Instant) at Level 1
+WT: 5.0  Size: TINY
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Crystal Fang
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Gauntlets of Dragon Slaying
+
+Velious Era (added December 2000-2001)
+ Gauntles of Dragon Slaying, Velious Plate, Male, Troll
+Gauntlets of Dragon Slaying
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 30
+STR: +9  WIS: +9  INT: +9  HP: +75  MANA: +75
+SV FIRE: +9  SV DISEASE: +9  SV COLD: +9  SV MAGIC: +9  SV POISON: +9
+Haste: +41%  
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yelinak's Head Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

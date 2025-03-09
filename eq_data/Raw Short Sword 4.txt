@@ -1,0 +1,35 @@
+ITEM NAME: Raw Short Sword 4
+
+
+
+Raw Short Sword 4
+
+
+LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 40
+DMG: 2 
+WT: 10.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+West Commonlands
+
+ orc weaponsmith
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Weapons Delivery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Chipped Fire Emerald
+
+Velious Era (added December 2000-2001)
+
+
+Chipped Fire Emerald
+
+
+MAGIC ITEM
+STR: +2  DEX: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 83pp+ to vendor. 
+
+  Drops From 
+Crystal Caverns
+
+ a focus gem
+ a gem collector
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

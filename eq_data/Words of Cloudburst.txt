@@ -1,0 +1,33 @@
+ITEM NAME: Words of Cloudburst
+
+
+Words of Cloudburst
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 9g 3s 8c 
+
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Necromancer
+ Breath of the Dead (Trivial: 71)
+
+
+
+
+

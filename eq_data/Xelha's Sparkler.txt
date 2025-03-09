@@ -1,0 +1,30 @@
+ITEM NAME: Xelha's Sparkler
+
+Classic Era (added 1999-2000)
+Xelha's Sparkler
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+MANA: +2
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Xelha's Sparkler Wand 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Assist the Great Xelha
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

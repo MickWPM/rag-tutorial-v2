@@ -1,0 +1,35 @@
+ITEM NAME: Mischievous Dazzler Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+Mischievous Dazzler Sleeves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 14
+STR: +5  STA: +5  CHA: +5  HP: +20  MANA: +20
+SV DISEASE: +10  SV POISON: +10
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

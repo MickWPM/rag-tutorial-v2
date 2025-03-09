@@ -1,0 +1,34 @@
+ITEM NAME: Phenocryst's Focus
+
+Velious Era (added December 2000-2001)
+
+
+Phenocryst's Focus
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+AC: 5
+DEX: +3  CHA: +3  INT: +10  MANA: +40
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +5  SV POISON: +3
+WT: 0.5  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Velium Focus
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Vegetable Oil
+
+
+
+
+
+
+  MISSING INFO! Please expand the content.
+:This is a post-Velious (non-Classic) item.
+
+
+Vegetable Oil
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 102) (This recipe doesn't work on p1999)
+ Yield: Vegetable Oil x4
+ In Brewing Barrel:
+
+
+  4 x Vegetables - Foraged
+  4 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

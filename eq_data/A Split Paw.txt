@@ -1,0 +1,40 @@
+ITEM NAME: A Split Paw
+
+Were you looking for Splitpaw Lair?Classic Era (added 1999-2000)
+
+
+A Split Paw
+
+
+MAGIC ITEM  QUEST ITEM
+Charges: 5
+Effect:  Dance of the Fireflies (Any Slot, Casting Time: Instant)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Spell only cast at night (between 7PM and 5AM). 
+ Merchant resale value: 9c 
+
+  Drops From 
+Splitpaw Lair
+
+ a Rosch Val Gnoll
+ Nisch Val Torash Mashk
+
+South Karana
+
+ a Tesch Mas Gnoll
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

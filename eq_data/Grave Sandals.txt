@@ -1,0 +1,35 @@
+ITEM NAME: Grave Sandals
+
+Kunark Era (added 2000)
+
+Grave Sandals
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 5
+DEX: +10  CHA: -5  INT: +2  MANA: +10
+SV FIRE: -2
+WT: 0.5  Size: MEDIUM
+Class: NEC
+Race: ALL
+
+
+ Item Lore (from Identify): Grave Shoes 
+
+  Drops From 
+Crypt of Dalnir
+
+ lumpy goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

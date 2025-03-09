@@ -1,0 +1,50 @@
+ITEM NAME: Silver Swiftblade
+
+
+ 
+Silver Swiftblade
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 24
+DMG: 16 
+WT: 10.0  Size: LARGE
+Class: RNG
+Race: ALL
+
+
+
+ Merchant resale value: 6pp 
+
+  Drops From 
+Chardok
+
+ a Di`Zok Captain
+ a Di`Zok Cryptmaster
+ a Di`Zok Legionnaire
+ a Di`zok Librarian
+ a Di`zok Recruit
+ a Di`zok Underling
+ a sarnak myrmidon
+ a Sarnak pitboss
+ a Shai`din Soultrapper
+ a Treasury Guard
+ An Apprentice Herbalist
+ an off duty Accountant
+ Drill Master Dih`roul
+ Loremaster Piza`tak
+ Overseer Dal`guur
+ Watch Captain Hir`roul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

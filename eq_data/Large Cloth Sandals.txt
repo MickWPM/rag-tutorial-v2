@@ -1,0 +1,93 @@
+ITEM NAME: Large Cloth Sandals
+
+Classic Era (added 1999-2000)Were you looking for Cloth Armor Set? Were you looking for Small Cloth Armor Set?
+
+
+Large Cloth Sandals
+
+
+Slot: FEET
+AC: 2
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: BAR TRL OGR IKS
+
+
+Part of the Large Cloth Armor Set. 
+
+  Drops From 
+Butcherblock Mountains
+
+ a wandering greenblood
+
+Commonlands
+
+ a Dervish Cutthroat
+ orc oracle
+
+Rathe Mountains
+
+ a lizardman robber
+
+Nektulos Forest
+
+ a deathfist legionnaire
+ a deathfist templar
+
+Southern Desert of Ro
+
+ an orc cleric
+
+The Feerrott
+
+ a lizardman mystic
+ a Tae Ew justicar
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Iskopa
+
+
+
+  (508, -236)
+
+
+ Neriak Foreign Quarter
+
+ Farlain Stonethrower
+
+
+
+  (199, -57)
+
+
+ Oggok
+
+ Uoola
+
+
+
+  (659, 684)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

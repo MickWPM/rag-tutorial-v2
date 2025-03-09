@@ -1,0 +1,32 @@
+ITEM NAME: Human Heart
+
+
+
+Human Heart
+
+
+LORE ITEM  NO DROP
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Western Plains of Karana
+
+ Linaya Sowlin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Unkempt Druids Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

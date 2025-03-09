@@ -1,0 +1,65 @@
+ITEM NAME: Ro's Breath
+
+Epic Quests Era (added Sept 2000)
+Ro's Breath
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Charges: 8
+Effect:  Shield of Lava (Any Slot, Casting Time: Instant)
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: Item lore for this is "powerful magic". After you give it to Camin for the WIZ epic you recieve an identically named item back, but without any charges, that identifies as "Item Lore: I know who you are."
+
+ Yes, this really is a 900 plat item with 8 charges of targetable level 49 Magician DS. (25 pt). Stacks with Kilva's. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Firiona Vie
+
+ Marlyn McMerin
+
+
+
+  (-3813, 1669)
+
+
+ Halas
+
+ Dargon
+
+
+
+  (354, 356)
+
+
+ Oggok
+
+ Pordopa
+
+
+
+  (290, -365)
+
+  Related quests 
+ Wizard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Trooper's Pike
+
+Kunark Era (added 2000)
+Trooper's Pike
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: BACK PRIMARY
+Skill: Piercing  Atk Delay: 46
+DMG: 12   AC: 5
+WT: 13.5  Size: GIANT
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #5 (Legionnaire's Mancatcher)
+ Warrior Pike #4 (Trooper's Pike)
+
+  Player crafted 
+ Blacksmithing (Trivial: >63)
+ Yield: Trooper's Pike x1
+ In Iksar Forge:
+
+
+  1 x Forging Hammer - Bought, Dropped, Returned on Failure, Returned on Success
+  1 x Iron Rod - Bought
+  1 x Trooper's Pike Head - Crafted, Returned on Failure 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

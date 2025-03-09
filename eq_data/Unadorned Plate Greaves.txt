@@ -1,0 +1,118 @@
+ITEM NAME: Unadorned Plate Greaves
+
+Velious Era (added December 2000-2001)
+
+Unadorned Plate Greaves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+WT: 9.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+(ToV East mobs)
+
+ an ancient guardian wurm
+ an ancient tigerclaw racnar
+ an elder shard wyvern
+ a burning guardian
+ a fiery drake
+ a greater sky drake
+ an ancient frost guardian
+ an ancient shard wyvern
+ a raging wyvern
+ a vehement wyvern
+ a shimmer drake
+ a racnar
+ an emerald watcher
+
+  Related Quests 
+Bard Skyshrine Greaves (Greaves of TwilightGreaves of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 31
+STR: +7  DEX: +7  STA: +7  CHA: +5  AGI: +7  HP: +60
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 7.0  Size: LARGE
+Class: BRD
+Race: HUM ELF HEF
+
+
+)
+Cleric Skyshrine Greaves (Akkirus' Greaves of the RisenAkkirus' Greaves of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 31
+STA: +5  WIS: +10  HP: +80  MANA: +70
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +5
+Effect:  Word of Health (Must Equip, Casting Time: 12.0)
+WT: 7.0  Size: LARGE
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+)
+Paladin Skyshrine Greaves (Scaled Knight's GreavesScaled Knight's Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 31
+STR: +7  DEX: +10  STA: +5  WIS: +7  HP: +60
+SV FIRE: +4  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+WT: 7.0  Size: LARGE
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+)
+Shadowknight Skyshrine Greaves (Blood Lord's GreavesBlood Lord's Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 31
+STR: +6  STA: +9  INT: +9  HP: +70  MANA: +30
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 7.0  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+)
+Warrior Skyshrine Greaves (Greaves of the MyrmidonGreaves of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 40
+STR: +9  DEX: +9  AGI: +9  HP: +40
+SV MAGIC: +4
+WT: 8.5  Size: LARGE
+Class: WAR
+Race: ALL
+
+
+)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

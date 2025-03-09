@@ -1,0 +1,39 @@
+ITEM NAME: Ulthork Hide Boots
+
+Velious Era (added December 2000-2001)
+
+
+
+Ulthork Hide Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 8
+DEX: +3  WIS: -3
+WT: 2.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 1pp 7gp 
+
+  Drops From 
+Eastern Wastes
+
+ a ulthork man o war
+ an ulthork hunter
+ an ulthork warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

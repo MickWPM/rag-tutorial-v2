@@ -1,0 +1,35 @@
+ITEM NAME: Message to Rebby
+
+Classic Era (added 1999-2000)
+
+
+Message to Rebby
+
+
+LORE ITEM
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Note for Rebby 
+
+  Book contents 
+
+Rebby -- How many times must I remind you?
+You're over a week late on your weekly dues again!
+If Elisi wasn't so busy, she'd cut your throat herself.
+-- Nestral
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

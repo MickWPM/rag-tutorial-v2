@@ -1,0 +1,30 @@
+ITEM NAME: A Smelly Sealed Bag
+
+Paineel Era (added February 2000)
+
+
+A Smelly Sealed Bag
+
+
+LORE ITEM  NO DROP
+WT: 4.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cat Courier
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

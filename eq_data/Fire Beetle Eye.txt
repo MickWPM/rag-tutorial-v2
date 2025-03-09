@@ -1,0 +1,109 @@
+ITEM NAME: Fire Beetle Eye
+
+Classic Era (added 1999-2000)
+
+Fire Beetle Eye
+
+
+Slot: PRIMARY SECONDARY
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+A newbie light source. Used in many quests. Required reagent for Flame Lick and Immolate. 
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 0 Golds
+ 2 Silvers
+ 8 Coppers
+ 
+  Drops From 
+East Commonlands
+
+ a fire beetle
+
+West Commonlands
+
+ a fire beetle
+
+Misty Thicket
+
+ a Klaknak drone
+ a klaknak warrior
+ Blixkin Entopop
+ Prince Klaknak
+ Princess Klaknak
+
+Rathe Mountains
+
+ a fire beetle
+
+Nektulos Forest
+
+ a pyre beetle
+
+Northern Karana
+
+ a borer beetle
+ a pincer beetle
+ a scythe beetle
+
+North Qeynos
+
+ a klicnik drone
+ Prince Klicnik
+
+Northern Desert of Ro
+
+ a fire beetle
+
+Qeynos Aqueducts
+
+ a fire beetle
+
+Qeynos Hills
+
+ a fire beetle
+
+Toxxulia Forest
+
+ a fire beetle
+
+West Freeport
+
+ a fire beetle
+
+Western Plains of Karana
+
+ a fire beetle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Assist the Great Xelha
+ Bat Fur Quest
+ Bug Collection
+ Yegek's Test, Part 1
+ Fire Beetle Eyes
+ A Job for Nanrum
+ Neonate Cowardice
+ Holy Armor Scroll
+ Wizard's First Assignment
+ Zimel's Blades (SoulFire)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Brewing
+
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

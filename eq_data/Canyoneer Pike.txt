@@ -1,0 +1,36 @@
+ITEM NAME: Canyoneer Pike
+
+Kunark Era (added 2000) Wurmslayer graphic, to match its icon
+
+
+Canyoneer Pike
+
+
+MAGIC ITEM  NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 27
+DMG: 6 
+Effect:  Drowsy (Combat, Casting Time: Instant) at Level 5
+WT: 10.0  Size: LARGE
+Class: WAR ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Droga
+
+ a goblin canyoneer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

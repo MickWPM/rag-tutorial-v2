@@ -1,0 +1,33 @@
+ITEM NAME: Mithril-Runed Tunic
+
+
+Mithril-Runed Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 10
+STA: +3  WIS: +5
+WT: 2.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Lower Guk
+
+ a froglok crusader
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

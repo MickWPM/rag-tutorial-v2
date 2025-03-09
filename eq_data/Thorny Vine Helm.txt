@@ -1,0 +1,35 @@
+ITEM NAME: Thorny Vine Helm
+
+
+
+Thorny Vine Helm
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 14
+CHA: +9  WIS: +5  MANA: +10
+SV COLD: +7
+WT: 4.5  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Part of the Thorny Vine Armor set. 
+
+  Drops From 
+Plane of Fear
+
+ a tentacle tormentor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

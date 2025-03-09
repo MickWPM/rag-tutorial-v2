@@ -1,0 +1,44 @@
+ITEM NAME: Fiery Ore
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Fiery Ore
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Key of Beasts
+
+Sky Era (added January 2000)
+
+
+Key of Beasts
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained by turning in a Animal Figurine to Sirran the Lunatic on Island three of Plane of Sky. Key of Beasts is used to Access Island 4. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Plane of Sky Keys
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

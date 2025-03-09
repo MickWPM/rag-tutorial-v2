@@ -1,0 +1,47 @@
+ITEM NAME: Cutlassfish Oil
+
+Velious Era (added December 2000-2001)
+
+
+
+Cutlassfish Oil
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Fishing (Trivial: No-Fail)
+ Cutlassfish Oil x1
+ In Fish Oil Extractor:
+
+
+  3 x Iceclad Cutlassfish - Fishing 
+
+
+  Tradeskill recipes 
+ Brewing  (Trivial:168)
+ Sacred Velium Ink x1
+ In Brew Barrel:
+
+
+  1 x Liquid Velium - Crafted
+  1 x Cutlassfish Oil - Crafted
+  1 x Royal Kromrif blood - Dropped
+
+
+
+
+

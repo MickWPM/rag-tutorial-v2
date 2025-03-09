@@ -1,0 +1,32 @@
+ITEM NAME: Sea Dragon Scales
+
+Velious Era (added December 2000-2001)
+
+Sea Dragon Scales
+
+
+MAGIC ITEM
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ Kelorek`Dar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kelorek's Scales
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

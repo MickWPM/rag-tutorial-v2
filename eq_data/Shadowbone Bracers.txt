@@ -1,0 +1,35 @@
+ITEM NAME: Shadowbone Bracers
+
+Velious Era (added December 2000-2001)
+
+Shadowbone Bracers
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 4
+STR: +2  AGI: +2  MANA: +5
+WT: 1.5  Size: SMALL
+Class: ALL except MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a shadow beast
+ a shadowbone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

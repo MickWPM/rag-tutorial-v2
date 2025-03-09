@@ -1,0 +1,34 @@
+ITEM NAME: Obsidian Ring of Quintessence
+
+Kunark Era (added 2000)
+
+Obsidian Ring of Quintessence
+
+
+Slot: FINGER
+AC: 3
+INT: +2  MANA: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+City of Mist
+
+ a vapor golem
+ a haze golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

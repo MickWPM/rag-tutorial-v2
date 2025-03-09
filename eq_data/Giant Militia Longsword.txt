@@ -1,0 +1,49 @@
+ITEM NAME: Giant Militia Longsword
+
+Velious Era (added December 2000-2001)
+
+Giant Militia Longsword
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 39
+DMG: 11 
+WT: 6.0  Size: LARGE
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Sells to NPC for 4p 4g 4s 6c @ 105 CHA 
+
+  Drops From 
+Kael Drakkel
+
+ Captain Bvellos
+ Legionnaire Renarn
+ Lieutenant Coldforge
+ Lieutenant Fangcaller
+ Lieutenant Frostbite
+ Lieutenant Hrykker
+ Lieutenant Peldiyrem
+ Lieutenant Steinern
+ Lieutenant Stormeye
+ Lieutenant Vellos
+ Sergeant Fjrak
+ Sergeant Windrager
+ Watchman Baelsteirn
+ Watchman Bremmn
+ Watchman Thyek
+ Watchman Vedravik
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

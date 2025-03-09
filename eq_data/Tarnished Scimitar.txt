@@ -1,0 +1,38 @@
+ITEM NAME: Tarnished Scimitar
+
+
+Tarnished Scimitar
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 33
+DMG: 5 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Orc Hatchets
+
+  Player crafted 
+ Blacksmithing (Trivial: 23)
+ Yield: Tarnished Scimitar x1
+ In Forge:
+
+
+  1 x Sharpening Stone - Bought
+  1 x Rusty Scimitar - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,44 @@
+ITEM NAME: Royal Velium Frosted Helmet
+
+Velious Era (added December 2000-2001)
+
+
+Royal Velium Frosted Helmet
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 17
+STR: +2
+SV DISEASE: +3
+WT: 4.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Icewell Keep
+
+ An Icewell Sentinel
+ An Icewell Sentry
+ Royal Guardsman Braxis
+ Royal Guardsman Hauten
+ Royal Guardsman Horix
+ Royal Guardsman Nial
+ Royal Guardsman Raxine
+ Royal Guardsman Rhion
+ Watcher Devin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

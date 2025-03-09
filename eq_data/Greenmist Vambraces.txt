@@ -1,0 +1,35 @@
+ITEM NAME: Greenmist Vambraces
+
+Warrens Era (added spring 2001)
+
+
+Greenmist Vambraces
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 16
+STR: +5  DEX: +6  WIS: +5  HP: +20
+WT: 3.5  Size: SMALL
+Class: SHD
+Race: IKS
+
+
+Part of the Greenmist Armor set. 
+
+  Drops From 
+Plane of Fear
+
+ a nightmare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

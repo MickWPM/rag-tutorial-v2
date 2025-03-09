@@ -1,0 +1,38 @@
+ITEM NAME: Teir`Dal Robe Red
+
+Classic Era (added 1999-2000)
+
+
+Teir`Dal Robe Red
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 4
+WT: 0.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Lake Rathetear
+
+ Kazen Fecae
+
+Plane of Sky
+
+ Jzil GSix
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

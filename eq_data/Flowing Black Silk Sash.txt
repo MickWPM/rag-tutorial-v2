@@ -1,0 +1,35 @@
+ITEM NAME: Flowing Black Silk Sash
+
+Classic Era (added 1999-2000)
+
+Flowing Black Silk Sash
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+Haste: +21%  
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+This is the de facto haste item in Classic for melee. 
+
+  Drops From 
+Lower Guk
+
+ a frenzied ghoul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

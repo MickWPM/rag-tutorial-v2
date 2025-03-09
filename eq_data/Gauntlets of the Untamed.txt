@@ -1,0 +1,36 @@
+ITEM NAME: Gauntlets of the Untamed
+
+Warrens Era (added spring 2001)
+
+
+Gauntlets of the Untamed
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 13
+STR: +3  STA: +1  WIS: +5  HP: +10  MANA: +10
+SV MAGIC: +4
+WT: 4.5  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Part of the Armor of the Untamed set. 
+
+  Drops From 
+Plane of Hate
+
+ An Agent of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

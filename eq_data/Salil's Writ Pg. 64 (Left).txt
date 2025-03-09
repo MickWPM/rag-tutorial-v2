@@ -1,0 +1,31 @@
+ITEM NAME: Salil's Writ Pg. 64 (Left)
+
+Classic Era (added 1999-2000)
+Salil's Writ Pg. 64
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: Two identical items with this name (left and right sides). 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: < 142)
+ A Faded Salil's Writ Page
+
+
+  Tradeskill recipes 
+ Spell Research
+ Radiant Visage (Trivial: 122)
+
+
+
+
+

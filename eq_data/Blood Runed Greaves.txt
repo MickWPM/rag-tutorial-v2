@@ -1,0 +1,34 @@
+ITEM NAME: Blood Runed Greaves
+
+Velious Era (added December 2000-2001)
+
+Blood Runed Greaves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 39
+DEX: -5  AGI: -5  HP: +25
+WT: 15.0  Size: MEDIUM
+Class: WAR SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Bled
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

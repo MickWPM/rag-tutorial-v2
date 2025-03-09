@@ -1,0 +1,30 @@
+ITEM NAME: Brell's Blessed Stout
+
+Warrens Era (added spring 2001)
+
+
+Brell's Blessed Stout
+
+
+NO RENT
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Summoned from item: Disciple Symbol of Brell Serilis 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brell Serilis Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

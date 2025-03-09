@@ -1,0 +1,40 @@
+ITEM NAME: Bamboo Bo Stick
+
+Kunark Era (added 2000)
+
+Bamboo Bo Stick
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 20
+DMG: 8 
+WT: 1.0  Size: LARGE
+Class: MNK
+Race: ALL
+
+
+The 8dmg makes it a nice starter weapon since it is unaffected by the early damage caps and the low delay and low weight makes it a nice practice 2HB. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 72 and faction at Amiable
+
+ 17 Platinums
+ 0 Golds
+ 2 Silvers
+ 7 Coppers 
+  Drops From 
+Crypt of Dalnir
+
+ a kly imprecator
+ a spectral crusader
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+

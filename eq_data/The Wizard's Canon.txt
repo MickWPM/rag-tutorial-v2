@@ -1,0 +1,75 @@
+ITEM NAME: The Wizard's Canon
+
+Classic Era (added 1999-2000)
+
+
+The Wizard's Canon
+
+
+WT: 0.0  Size: TINY
+
+
+This book likely not supposed to be classic. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Clockwork Merchant (LG-18)
+
+
+
+  (1052, -1012)
+
+
+ Erudin Palace
+
+ Andane Starinen
+
+
+
+  (864,736,67)
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1007)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Identify:
+
+ Rune of Falalem
+ Rune of Substance
+
+Projectile Lightning:
+
+ Rune of Periphery
+ Rune of Fulguration
+
+Pillar of Fire:
+
+ Rune of Proximity
+ Rune of Nagafen
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,47 @@
+ITEM NAME: Othmir Hide Robe
+
+Velious Era (added December 2000-2001)
+
+ 
+Othmir Hide Robe
+
+
+Slot: CHEST
+AC: 9
+INT: +2
+SV COLD: +1
+WT: 2.5  Size: MEDIUM
+Class: MNK NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Yellow in Color 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Kael Drakkel
+
+ Graggaz Fleshflayer
+
+
+
+  (245, 872)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

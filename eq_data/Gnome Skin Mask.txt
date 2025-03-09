@@ -1,0 +1,36 @@
+ITEM NAME: Gnome Skin Mask
+
+Velious Era (added December 2000-2001)
+
+Gnome Skin Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 3
+SV MAGIC: +5  SV POISON: +5
+WT: 0.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Gnome Skin Armor set. Acts as a light source. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a shadow beast
+ a shadow beast guard
+ an armored shadow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

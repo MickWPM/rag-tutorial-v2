@@ -1,0 +1,35 @@
+ITEM NAME: Truesight Hammer
+
+ Halfling Cleric Healrazor wielding the Truesight Hammer.
+Truesight Hammer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 12 
+WIS: +7
+Effect:  Banish Summoned (Combat) at Level 45
+WT: 3.5  Size: MEDIUM
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Hardened Kodiak Leather Bracer
+
+Velious Era (added December 2000-2001)
+
+Hardened Kodiak Leather Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 6
+STR: +3
+WT: 1.0  Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a tundra kodiak
+
+Great Divide
+
+ A Feral Cave Kodiak
+ a ferocious cave kodiak
+ A Savage Cave Kodiak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

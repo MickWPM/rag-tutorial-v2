@@ -1,0 +1,46 @@
+ITEM NAME: Glowing Gloves
+
+
+Glowing Gloves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 4
+WT: 1.5  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Note: These probably drop from shadowed men in any zone they are found. 
+
+  Drops From 
+Lavastorm Mountains
+
+ a shadowed man
+
+Lesser Faydark
+
+ a shadowed man
+
+Innothule Swamp
+
+ a shadowed man
+
+West Commonlands
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Incandescent Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

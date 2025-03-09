@@ -1,0 +1,35 @@
+ITEM NAME: Shroud of Veeshan
+
+Hole Era (added June 2000)
+
+
+Shroud of Veeshan
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 15
+STR: +8  DEX: +8  STA: +8  CHA: +8  WIS: +12  INT: +12  AGI: +8  HP: +55  MANA: +110
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Phara Dar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

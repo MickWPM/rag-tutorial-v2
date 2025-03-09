@@ -1,0 +1,39 @@
+ITEM NAME: Berserker's Breastplate
+
+Velious Era (added December 2000-2001) Berserker's Breastplate, Velious Dragonscale, Male, Troll
+
+
+Berserker's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 47
+STR: +14  DEX: +5  STA: +10  AGI: +7  HP: +90
+SV FIRE: +10  SV MAGIC: +4
+Effect:  Invigorate (Must Equip, Casting Time: 14.5)
+WT: 17.5  Size: LARGE
+Class: WAR
+Race: ALL
+
+
+Part of the Berserker's Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a feral amalgam
+ Ail the Elder
+ Rumbleroot
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

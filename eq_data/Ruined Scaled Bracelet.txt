@@ -1,0 +1,60 @@
+ITEM NAME: Ruined Scaled Bracelet
+
+Kunark Era (added 2000)
+
+Ruined Scaled Bracelet
+
+
+Slot: WRIST
+AC: 5
+WT: 2.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Ruined Scaled Armor set. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 5 Golds
+ 3 Silvers
+ 5 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ greater plague skeleton
+ plaguebone skeleton
+
+City of Mist
+
+ a fog golem
+ a haze golem
+ a mist golem
+ a shadow
+ a vapor golem
+ a wraith
+ an apparition
+ greater plaguebone
+ greater spurbone
+ greater war boned skeleton
+ gyrating goo
+ spurbone skeleton
+
+Kurn's Tower
+
+ lesser charbone skeleton
+ lesser icebone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

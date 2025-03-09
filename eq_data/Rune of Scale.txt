@@ -1,0 +1,44 @@
+ITEM NAME: Rune of Scale
+
+Were you looking for Rune of Scale Quest?
+
+Rune of Scale
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+WT: 0.1  Size: TINY
+Class: DRU WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+Multiple versions exist:
+
+  Item Lore (from Identify): Rune of Scale (top)
+  Item Lore (from Identify): Rune of Scale (middle)
+  Item Lore (from Identify): Rune of Scale (bottom) 
+
+  Drops From 
+Oasis of Marr
+
+ a deepwater crocodile
+
+Upper Guk
+
+ a saltwater croc
+
+Lavastorm Mountains
+
+ a firescale crocodile
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Runescale Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

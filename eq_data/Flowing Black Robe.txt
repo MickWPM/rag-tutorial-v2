@@ -1,0 +1,51 @@
+ITEM NAME: Flowing Black Robe
+
+
+Flowing Black Robe
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 8
+STA: +5  INT: +3
+WT: 3.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+ Item Lore (from Identify): Flowing Black Robe 
+ Merchant resale value: 3.2p 
+
+  Drops From 
+Firiona Vie
+
+ Vekis
+
+Najena
+
+ Najena (NPC)
+
+The Overthere
+
+ Modani Qu`Loni
+ Siladdarae N`Riese
+ Vaean the Night
+
+Western Wastes
+
+ Makil Rargon
+
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

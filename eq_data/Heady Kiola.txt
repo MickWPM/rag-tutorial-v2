@@ -1,0 +1,61 @@
+ITEM NAME: Heady Kiola
+
+
+Heady Kiola
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 46)
+ Yield: Heady Kiola x1
+ In Brew Barrel:
+
+
+  1 x Bottle - Crafted, Bought, Returned on Failure
+  2 x Packet of Kiola Sap - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Cured Silk Mask Trivial 82
+ Cured Silk Cloak Trivial 82
+ Cured Silk Collar Trivial 82
+ Cured Silk Gi Trivial  82
+ Cured Silk Handwraps Trivial  82
+ Cured Silk Headband Trivial  82
+ Cured Silk Leggings Trivial  82
+ Cured Silk Mantle Trivial  82
+ Cured Silk Sandals Trivial  82
+ Cured Silk Sash Trivial  82
+ Cured Silk Sleeves Trivial  82
+ Cured Silk Wristbands Trivial  82
+ Wu's Fighting Cap Trivial 142
+ Wu's Fighting Cloak Trivial 135
+ Wu's Fighting Collar Trivial 128
+ Wu's Fighting Gauntlets Trivial 88
+ Wu's Fighting Mantle Trivial 144
+ Wu's Fighting Mask Trivial 135
+ Wu's Fighting Pantaloons Trivial 155
+ Wu's Fighting Sash Trivial 128
+ Wu's Fighting Shirt Trivial 158
+ Wu's Fighting Sleeves Trivial 151
+ Wu's Fighting Slippers Trivial 142
+ Wu's Fighting Wristbands Trivial 135
+
+
+
+
+

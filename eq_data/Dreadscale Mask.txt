@@ -1,0 +1,33 @@
+ITEM NAME: Dreadscale Mask
+
+Kunark Era (added 2000)
+
+Dreadscale Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 6
+STR: +3  INT: +3
+SV DISEASE: +5  SV POISON: +5
+WT: 1.0  Size: MEDIUM
+Class: SHD
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dreadscale Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

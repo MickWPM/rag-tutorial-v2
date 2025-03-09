@@ -1,0 +1,36 @@
+ITEM NAME: Small Shield
+
+Sky Era (added January 2000)
+
+
+Small Shield
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 15
+WIS: +4
+WT: 2.5  Size: SMALL
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Keeper of Souls
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Skill
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

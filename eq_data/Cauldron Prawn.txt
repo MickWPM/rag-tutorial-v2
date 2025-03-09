@@ -1,0 +1,50 @@
+ITEM NAME: Cauldron Prawn
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Cauldron Prawn
+
+
+This is a meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Need Description. 
+
+  Drops From 
+Dagnor's Cauldron
+
+ aqua goblin bosun
+ aqua goblin mariner
+ aqua goblin shaman
+ aqua goblin tidal lord
+ Dwigus Lowater
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Dagnor's Cauldron
+
+

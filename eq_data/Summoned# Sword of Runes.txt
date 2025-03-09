@@ -1,0 +1,33 @@
+ITEM NAME: Summoned: Sword of Runes
+
+Classic Era (added 1999-2000)
+
+Summoned: Sword of Runes
+
+
+MAGIC ITEM  TEMPORARY  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 7 
+Effect:  Ward Summoned (Combat, Casting Time: Instant) at Level 20
+WT: 6.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+Prior to Oct1999 has no combat effects. [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Functions as a light source.
+
+

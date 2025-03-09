@@ -1,0 +1,32 @@
+ITEM NAME: Mystical Lute
+
+Epic Quests Era (added Sept 2000)
+
+
+Mystical Lute
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SECONDARY
+Stringed Instruments: 21
+WT: 0.8  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

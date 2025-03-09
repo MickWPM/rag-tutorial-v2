@@ -1,0 +1,34 @@
+ITEM NAME: Strong Wooden Branch
+
+Velious Era (added December 2000-2001)
+
+
+Strong Wooden Branch
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ a holgresh conjurer
+ a holgresh elementalist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Grammar Manual
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

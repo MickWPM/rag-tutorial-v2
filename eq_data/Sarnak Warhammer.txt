@@ -1,0 +1,39 @@
+ITEM NAME: Sarnak Warhammer
+
+Kunark Era (added 2000)
+
+Sarnak Warhammer
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 20
+DMG: 9 
+Effect:  Stun (Combat, Casting Time: Instant) at Level 46
+WT: 2.8  Size: MEDIUM
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+This weapon is valued by warriors in the Kunark era for its high aggro proc and solid ratio. 
+
+  Drops From 
+Old Sebilis
+
+ Gruplinort
+
+Chardok
+
+ Drill Master Dih`roul (Velious)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

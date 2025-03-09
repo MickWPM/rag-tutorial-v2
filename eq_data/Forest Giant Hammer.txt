@@ -1,0 +1,39 @@
+ITEM NAME: Forest Giant Hammer
+
+Kunark Era (added 2000)
+
+
+Forest Giant Hammer
+
+
+LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 35
+DMG: 10 
+WT: 8.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ a forest giant
+ a forest giant evergreen
+ a forest giant greenwood
+ a forest giant sapling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

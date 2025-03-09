@@ -1,0 +1,39 @@
+ITEM NAME: Practice Rune (Beza)
+
+Classic Era (added 1999-2000)
+
+
+Practice Rune (Beza)
+
+
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (Trivial: 21)
+ Yield: Practice Rune (Beza) x1
+ In Concordance of Research:
+
+
+  1 x Quill - Bought
+  1 x Piece of Parchment - Bought
+  1 x Turquoise - Bought/Dropped
+  1 x Fire Beetle Eye - Dropped
+  1 x Any Rusty Slashing Weapon(not rusty shortened spear) - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

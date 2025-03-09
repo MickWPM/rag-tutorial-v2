@@ -1,0 +1,39 @@
+ITEM NAME: Midnight Mallet
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Midnight Mallet
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Charges: 5
+Skill: 2H Blunt  Atk Delay: 44
+DMG: 14 
+Effect:  Walking Sleep (Any Slot, Casting Time: 2.0)
+WT: 11.0  Size: GIANT
+Class: CLR SHM
+Race: BAR DWF TRL OGR IKS
+
+
+Can be used from inventory, and so is prized by warriors(No one wants these anymore) for its instant aggro potential. (2.0s Cast time Now)
+Following the chardok revamp patch, it seems the hate from this clicky has been reduced to 100-175 per charge. (Please parse more to confirm an exact value).
+ A casting time was added to the mallet with April 19th 2020 patch [1]
+The vendor-recharge cost of this item was increased in the April 2020 nerf to 10500 platinum. See Guide to Recharging Items. 
+ Merchant resale value: 79p 4s 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lynuga's Gem Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

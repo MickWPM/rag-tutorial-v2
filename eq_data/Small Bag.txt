@@ -1,0 +1,451 @@
+ITEM NAME: Small Bag
+
+Classic Era (added 1999-2000)
+Small Bag
+
+
+WT: 0.5  Weight Reduction: 0%
+Capacity: 4  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a gnoll pup
+
+Burning Woods
+
+ a tatterback ape
+ a tottering gorilla
+
+Butcherblock Mountains
+
+ a goblin shaman
+ a goblin whelp
+ Barma Dunfire
+ Glynda Smeltpot
+ Glynn Smeltpot
+ Gundl
+ Margyl Darklin
+ Peg Leg
+ Qued
+ Stump Rundl
+
+West Commonlands
+
+ a Dervish Cutthroat
+ a Dervish Thug
+
+Crushbone
+
+ orc pawn
+
+The Estate of Unrest
+
+ a festering hag
+ a greater skeleton
+
+Everfrost Peaks
+
+ an ice goblin whelp
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+
+Innothule Swamp
+
+ a lesser kobold
+
+Lake Rathetear
+
+ a gnoll high shaman
+
+Lesser Faydark
+
+ Shayla Nybright
+
+Rathe Mountains
+
+ a bandit
+
+North Qeynos
+
+ a gnoll pup
+
+Northern Desert of Ro
+
+ a desert madman
+
+Steamfont Mountains
+
+ a kobold runt
+ a kobold scout
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1265, -777)
+
+
+ East Cabilis
+
+ Klok Vednir
+
+
+
+  (58, -8)
+
+
+ West Commonlands
+
+ Ruby Boxcrafter
+
+
+
+  (-213, 591)
+
+
+ Erudin
+
+ Nerth Sailwind
+
+
+
+  (232, 96)
+
+
+ Erudin
+
+ Luren Renthalis
+
+
+
+  (-1156, -61)
+
+
+ Erudin
+
+ Reihan Wilhemson
+
+
+
+  (-906, -88)
+
+
+ Erudin
+
+ Kisrin Breezeshadow
+
+
+
+  (230, -5)
+
+
+ Erudin
+
+ Reko Saltamer
+
+
+
+  (207, -5)
+
+
+ Erudin Palace
+
+ Vall Stonewisp
+
+
+
+  (590, 832)
+
+
+ Erudin Palace
+
+ Tan Monosty
+
+
+
+  (667, 829)
+
+
+ Erudin Palace
+
+ Judge Monosty
+
+
+
+  (689, 829)
+
+
+ Felwithe
+
+ Merchant Issynal
+
+
+
+  (147, -412)
+
+
+ Firiona Vie
+
+ Broawn Goshart
+
+
+
+  (-3863, 1673)
+
+
+ Firiona Vie
+
+ Dom Pathfinder
+
+
+
+  (-2818, 2686)
+
+
+ Greater Faydark
+
+ Merchant Aildien
+
+
+
+  (-496, -133)
+
+
+ Greater Faydark
+
+ Merchant Aluuvila
+
+
+
+  (-94, 224)
+
+
+ Greater Faydark
+
+ Merchant Tilluen
+
+
+
+  (-85, 271)
+
+
+ Grobb
+
+ Graktak
+
+
+
+  (50, -396)
+
+
+ Halas
+
+ Rose McDowell
+
+
+
+  (397, 165)
+
+
+ Highpass Keep
+
+ Merchant Dominik
+
+
+
+  (37, 31)
+
+
+ South Kaladim
+
+ Aarina Ratsbone
+
+
+
+  (183, -138)
+
+
+ Kithicor Forest
+
+ Eithne Walker
+
+
+
+  (1427, -825)
+
+
+ Lake Rathetear
+
+ Srynda
+
+
+
+  (-507, 637)
+
+
+ Neriak Foreign Quarter
+
+ Palais Derekor
+
+
+
+  (205, -111)
+
+
+ Northern Karana
+
+ Mrysila
+
+
+
+  (-688, -159)
+
+
+ Oasis of Marr
+
+ Synthan
+
+
+
+  (597, -6)
+
+
+ Oggok
+
+ Brokk Boxtripper
+
+
+
+  (220, 378)
+
+
+ The Overthere
+
+ Tin Merchant II
+
+
+
+  (2694, 2583)
+
+
+ South Qeynos
+
+ Bassanio Weekin
+
+
+
+  (-40, -219)
+
+
+ South Qeynos
+
+ Fellesha Varshen
+
+
+
+  (487, -310)
+
+
+ South Qeynos
+
+ Raheim Varshen
+
+
+
+  (543, -263)
+
+
+ South Qeynos
+
+ Gahna Salbeen
+
+
+
+  (4, -220)
+
+
+ Rathe Mountains
+
+ Roshmael
+
+
+
+  (1592, -888)
+
+
+ Rivervale
+
+ bag merchant
+
+
+
+  (208, -214)
+
+
+ Southern Desert of Ro
+
+ Smith Tv`ysa
+
+
+
+  (93, 487)
+
+
+ Thurgadin
+
+ Agar
+
+
+
+  (-72, -379)
+
+
+ Toxxulia Forest
+
+ Stylla Parsini
+
+
+
+  (2105, 404)
+
+
+ Toxxulia Forest
+
+ Emil Parsini
+
+
+
+  (2119, 423)
+
+  Related quests 
+ Odus Pearls
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Young Ebon Drake Bile
+
+Classic Era (added 1999-2000)
+
+
+Young Ebon Drake Bile
+
+
+NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Confirmed to exist on p99? No known classic use. 
+
+  Drops From 
+Steamfont Mountains
+
+ a lesser ebon drake
+ a young ebon drake
+ an ebon drakeling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

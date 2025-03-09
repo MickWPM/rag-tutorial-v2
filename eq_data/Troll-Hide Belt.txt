@@ -1,0 +1,34 @@
+ITEM NAME: Troll-hide Belt
+
+
+Troll-hide Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 5
+STR: +5  STA: +5
+WT: 1.0  Size: SMALL
+Class: BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 2pp 
+
+  Drops From 
+Upper Guk
+
+ the froglok warden
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

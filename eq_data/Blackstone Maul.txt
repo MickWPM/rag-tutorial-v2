@@ -1,0 +1,37 @@
+ITEM NAME: Blackstone Maul
+
+Hole Era (added June 2000)
+
+
+ Byee with the spoils of war.
+Blackstone Maul
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 53
+DMG: 51 
+STR: +5  WIS: +5  INT: +5
+WT: 6.0  Size: LARGE
+Class: WAR PAL SHD MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Nexona
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

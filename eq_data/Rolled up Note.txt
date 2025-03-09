@@ -1,0 +1,29 @@
+ITEM NAME: Rolled up Note
+
+
+
+Rolled up Note
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: None
+Race: None
+
+
+ Item Lore (from Identify):  Rolled up note for Veisha 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Experienced Courier
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

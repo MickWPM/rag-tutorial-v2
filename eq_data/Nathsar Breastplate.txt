@@ -1,0 +1,36 @@
+ITEM NAME: Nathsar Breastplate
+
+Chardok Revamp Era (added late 2001)
+
+ Full set of Nathsar armor on a Halfling male (no head graphic).
+Nathsar Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 18
+STR: +6  WIS: +6  AGI: +6
+SV FIRE: +5  SV DISEASE: +5
+WT: 1.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Loremaster Piza`tak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

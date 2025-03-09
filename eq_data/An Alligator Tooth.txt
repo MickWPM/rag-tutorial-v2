@@ -1,0 +1,33 @@
+ITEM NAME: An Alligator Tooth
+
+
+
+An Alligator Tooth
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Noe use in Classic, but for quests in Planes of Power expansion. [1] 
+
+  Drops From 
+Innothule Swamp
+
+ a bull alligator
+ a swamp alligator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dark One's Armor
+ Spiritcharmer Final Job
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

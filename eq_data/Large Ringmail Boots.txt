@@ -1,0 +1,51 @@
+ITEM NAME: Large Ringmail Boots
+
+Were you looking for Ringmail Armor Set? Were you looking for Small Ringmail Armor Set?
+
+Large Ringmail Boots
+
+
+Slot: FEET
+AC: 5
+WT: 8.4  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: BAR TRL OGR
+
+
+Part of the Large Ringmail Armor Set. 
+
+  Drops From 
+Najena
+
+ an ogre guard
+
+Highpass Hold
+
+ a gnoll soothsayer
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ South Qeynos
+
+ Wrin Liltin
+
+
+
+  (96, -204)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

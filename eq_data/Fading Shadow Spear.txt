@@ -1,0 +1,40 @@
+ITEM NAME: Fading Shadow Spear
+
+Velious Era (added December 2000-2001)
+
+
+Fading Shadow Spear
+
+
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 26
+DMG: 7 
+HP: +2
+WT: 6.8  Size: LARGE
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Fading Shadow Weapons set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a crystallized shadow guard
+ a golem usher
+ a shadow beast
+ a shadow beast cook
+ a shadow beast guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

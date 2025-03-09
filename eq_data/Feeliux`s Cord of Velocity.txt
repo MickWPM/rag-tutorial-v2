@@ -1,0 +1,34 @@
+ITEM NAME: Feeliux`s Cord of Velocity
+
+Velious Era (added December 2000-2001)
+Feeliux`s Cord of Velocity
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 30
+STR: +25  DEX: +25  STA: +20  AGI: +25  HP: +100
+Haste: +41%  
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

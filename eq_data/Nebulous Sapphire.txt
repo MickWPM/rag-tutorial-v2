@@ -1,0 +1,33 @@
+ITEM NAME: Nebulous Sapphire
+
+Sky Era (added January 2000)
+
+
+Nebulous Sapphire
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Fists
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

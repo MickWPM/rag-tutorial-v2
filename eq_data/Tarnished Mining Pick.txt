@@ -1,0 +1,43 @@
+ITEM NAME: Tarnished Mining Pick
+
+Velious Era (added December 2000-2001)
+
+
+Tarnished Mining Pick
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 36
+DMG: 4 
+WT: 6.5  Size: MEDIUM
+Class: ALL except CLR DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ a coldain miner
+ a velium miner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 19)
+ Yield: Tarnished Mining Pick x1
+ In Forge:
+
+
+  1 x Rusty Mining Pick - Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

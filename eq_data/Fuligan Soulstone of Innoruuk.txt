@@ -1,0 +1,41 @@
+ITEM NAME: Fuligan Soulstone of Innoruuk
+
+
+Fuligan Soulstone of Innoruuk
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Required reagent for the spell Alter Plane: Hate which ports you into the Plane of Hate. Lowest vendor price is 251 platinum 9 gold 9 silver 9 copper. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Third Gate
+
+ Dvis Zexus
+
+
+
+  (453, -816)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

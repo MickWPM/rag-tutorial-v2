@@ -1,0 +1,36 @@
+ITEM NAME: Coldain Heater
+
+Velious Era (added December 2000-2001)
+
+
+Coldain Heater
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+Brewing (Trivial: 158)
+
+ In Brew Barrel
+ x1 Water Flask - Crafted, Dropped, Bought
+ x1 Allspice - Bought
+ x1 Brown Algae - Bought
+ x1 Shotglass - Bought (returned on failure)
+
+
+
+
+

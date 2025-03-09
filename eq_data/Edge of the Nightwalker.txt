@@ -1,0 +1,36 @@
+ITEM NAME: Edge of the Nightwalker
+
+Epic Quests Era (added Sept 2000)
+
+ Eboni Skies is dangerous with an Edge of the Nightwalker.
+Edge of the Nightwalker
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 14 
+STR: +8  DEX: +8  AGI: +8
+WT: 4.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kithicor Forest
+
+ General V`ghera
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

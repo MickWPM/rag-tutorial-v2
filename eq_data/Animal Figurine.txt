@@ -1,0 +1,39 @@
+ITEM NAME: Animal Figurine
+
+Sky Era (added January 2000)
+
+
+Animal Figurine
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Turn into Sirran the Lunatic on Island four of Plane of Sky to obtain the key to get to Island 4 Key of Beasts. 
+
+  Drops From 
+Plane of Sky
+
+ a crystalline cloud
+ a gorgalask
+ a gust of wind
+ a watchful guard
+ an avenging gazer
+ Gorgalosk
+ heart harpie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Plane of Sky Keys
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

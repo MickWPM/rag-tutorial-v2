@@ -1,0 +1,33 @@
+ITEM NAME: Ruined Sword Hilt
+
+Paineel Era (added February 2000)
+
+
+Ruined Sword Hilt
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+The Hole
+
+ a revenant
+ a wanderer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

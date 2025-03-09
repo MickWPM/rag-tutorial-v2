@@ -1,0 +1,32 @@
+ITEM NAME: Mallet Head
+
+Classic Era (added 1999-2000)
+
+Mallet Head
+
+
+LORE ITEM
+WT: 4.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Thex Mallet Head 
+
+  Drops From 
+Befallen
+
+ an elf skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Thex Mallet Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

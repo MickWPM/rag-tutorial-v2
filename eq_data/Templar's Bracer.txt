@@ -1,0 +1,35 @@
+ITEM NAME: Templar's Bracer
+
+Velious Era (added December 2000-2001)
+
+
+Templar's Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 21
+STR: +5  WIS: +2  HP: +35  MANA: +20
+SV DISEASE: +2
+Effect:  Abundant Food (Must Equip, Casting Time: 10.0) at Level 50
+WT: 3.5  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Kael Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

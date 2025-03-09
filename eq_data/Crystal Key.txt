@@ -1,0 +1,33 @@
+ITEM NAME: Crystal Key
+
+Velious Era (added December 2000-2001)
+
+
+Crystal Key
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): 2nd floor key
+Gives access to the 2nd floor of the Tower of Frozen Shadow from the 1st floor. See Key Compendium. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a large undead gnoll
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Mithril Bits
+
+
+
+Mithril Bits
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 43)
+ Yield: Mithril Bits x1
+ In Fier`Dal Forge:
+
+
+  1 x Morning Dew - Foraged, Dropped, Ground Spawn
+  2 x Small Piece of Mithril - Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Feir'Dal Sewing Kit (Trivial: 63)
+ Mithril Studs (Trivial: 47)
+
+
+
+
+

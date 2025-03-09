@@ -1,0 +1,36 @@
+ITEM NAME: RukGus' Sticker
+
+Kunark Era (added 2000)
+
+RukGus' Sticker
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 25
+DMG: 6 
+STR: +3  WIS: +2  INT: +2
+WT: 2.5  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK
+Race: ALL
+
+
+
+ Merchant resale value: 3pp 
+
+  Drops From 
+Temple of Droga
+
+ Chief RokGus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

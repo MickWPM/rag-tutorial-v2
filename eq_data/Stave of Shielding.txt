@@ -1,0 +1,38 @@
+ITEM NAME: Stave of Shielding
+
+Kunark Era (added 2000)
+
+Stave of Shielding
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 17 
+Effect:  Major Shielding (Combat, Casting Time: Instant) at Level 50
+WT: 3.2  Size: MEDIUM
+Class: PAL SHD MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Sorcerer of Di`zok
+ Di`zok royal guard
+ a sarnak vindicator
+ other mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

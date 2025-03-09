@@ -1,0 +1,46 @@
+ITEM NAME: Brazier of Elemental Summoning
+
+
+Brazier of Elemental Summoning
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Elemental: Fire (Any Slot, Casting Time: Instant) at Level 1
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+A fun powerleveling tool up to level 18 or so since the right-click can be activated by a level one character. Gave it a Gatorsmash Maul (30/70) and nothing else. It hit for 14 damage max. I can't speak for all weapons but it doesn't work with the maul for sure on Green. He then got mobbed and died after three kills to add insult to injury. -Green and Red usage - 25mdg+ weapons allow pet to hit for 40's tested on both green and red multiple times.
+Not all weapons are useable by pets due to pets ignoring weapon delay. Certain high damage weps would be too powerful. Decent options for pet weps are Firerune Brand for a pet that hits in 40's, or an easier to acquire Bone Bladed Claymore for a pet that hits in the 30's. A pet set of Banded Armor and a pair of Platinum Fire Wedding Ring can get you some more mileage out of the pet. The junk armor from Droga is also useful for its AC and +HP. Pick up a Muzzle of Mardu from a 56+ mage. 
+To be tested, Gigantic Zweihander
+Worn Shai`din Naginata slashed for 75
+Iceflame slaps for 71 
+Vindication spanks for 71
+Runed Frost Blade nices for 69
+Polished Obsidian Great Axe gets the pet crackin' for 67
+Sarnak Battlehammer hits for 61
+Throneblade of the Ykesha hits for 61
+Arbitor's Combine Greatsword hits for 61
+Earthen Blade hits for 53
+blade of xalgoz hits for 47
+Can confirm that Blade of Xalgoz works with this - Earthen Blade will make pet hit in the 40's even at level 1. Suggest using a 20 - 25 dmg weapon to maximize pet's lethality. Great for use in Blackburrow, Steamfont (mino camp) or places you don't have to worry about trains - Daenyvar Na'Shezbaernon. 
+Coldain Crossbow is very easy to acquire and hits for 61. 
+
+  Drops From 
+Upper Guk
+
+ a froglok summoner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Ceremonial Giant War Sword
+
+Velious Era (added December 2000-2001)
+
+Ceremonial Giant War Sword
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 20
+DMG: 4 
+Effect: Serpent Sight (Worn, Casting Time: Instant)
+WT: 10.0  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Drendar Blackblade
+ Irrek Bloodfist
+ Klraggek the Slayer
+ Velden Dragonbane
+ Vkjen Thunderslayer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

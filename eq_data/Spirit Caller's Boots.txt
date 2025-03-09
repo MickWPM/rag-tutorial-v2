@@ -1,0 +1,34 @@
+ITEM NAME: Spirit Caller's Boots
+
+Velious Era (added December 2000-2001)
+
+
+Spirit Caller's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 24
+STA: +5  WIS: +4
+SV DISEASE: +1  SV COLD: +1  SV POISON: +1
+Effect: Extinguish Fatigue (Must Equip, Casting Time: 5.5) at Level 50
+WT: 3.0  Size: MEDIUM
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Kael Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Spirit Caller's Armor on a male Troll
+

@@ -1,0 +1,29 @@
+ITEM NAME: Jester
+
+Were you looking for Jester (PoM)?
+
+Jester
+
+
+NO DROP
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Can be gotten by playing cards with Moodoro Finharn (give him 4gp per play) or Zenita D`Rin (give her 1 Innoruuk's Kiss of Death per play). Not to be confused with the card that drops in the Plane of Mischief, which is not NO DROP. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Library Book
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

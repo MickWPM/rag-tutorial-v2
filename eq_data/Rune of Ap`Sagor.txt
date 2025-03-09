@@ -1,0 +1,66 @@
+ITEM NAME: Rune of Ap`Sagor
+
+
+Rune of Ap`Sagor
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players. 
+
+  Drops From 
+Nagafen's Lair
+
+ fire giant warrior
+
+Ocean of Tears
+
+ Allizewsaur
+
+Permafrost
+
+ an ice giant
+
+Plane of Fear
+
+ a boogeyman
+ a shiverback
+ Amygdalan knight
+ phoboplasm
+
+Plane of Hate
+
+ a haunted chest
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+a Vicious Raptor
+
+Old Sebilis
+
+ froglok zol knight
+
+Skyfire Mountains
+
+ an old wurm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Wrath of Al'Kabor (Trivial: 184) (Research Only)
+
+
+
+
+

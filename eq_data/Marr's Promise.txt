@@ -1,0 +1,34 @@
+ITEM NAME: Marr's Promise
+
+
+Marr's Promise
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 14
+HP: +25
+WT: 15.0  Size: GIANT
+Class: WAR CLR PAL RNG DRU SHM
+Race: ALL except DEF TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Rathe Mountains
+
+ Tabien the Goodly
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

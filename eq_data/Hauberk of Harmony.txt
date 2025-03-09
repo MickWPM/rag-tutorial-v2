@@ -1,0 +1,36 @@
+ITEM NAME: Hauberk of Harmony
+
+Warrens Era (added spring 2001)
+ Full set of Armor of Harmony on Wood Elf Female (no head graphic).
+Hauberk of Harmony
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 22
+STR: +5  CHA: +4  WIS: +12  HP: +35  MANA: +75
+SV FIRE: +7  SV DISEASE: +5  SV COLD: +5
+Effect: Regrowth of the Grove (Any Slot/Can Equip, Casting Time: 9.0) at Level 46
+WT: 3.5  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+Part of the Armor of Harmony set. 
+
+  Drops From 
+Plane of Hate
+
+ a Disciple of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

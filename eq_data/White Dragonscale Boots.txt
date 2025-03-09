@@ -1,0 +1,34 @@
+ITEM NAME: White Dragonscale Boots
+
+Velious Era (added December 2000-2001)
+
+White Dragonscale Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 15
+WIS: +17  INT: +17  HP: +85  MANA: +110
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +20  SV MAGIC: +10  SV POISON: +5
+Effect: Flowing Thought II
+WT: 1.5  Size: SMALL
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tormax's Head - Dragons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

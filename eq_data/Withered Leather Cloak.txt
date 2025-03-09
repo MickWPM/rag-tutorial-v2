@@ -1,0 +1,36 @@
+ITEM NAME: Withered Leather Cloak
+
+Hole Era (added June 2000)
+
+
+
+Withered Leather Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 5
+STR: +5  STA: +8  MANA: +15
+WT: 2.0  Size: MEDIUM
+Class: CLR DRU SHM
+Race: ALL
+
+
+ Item Lore (from Identify):  Withered Leather CloakPart of the Withered Leather Armor Set 
+
+  Drops From 
+The Hole
+
+ Initiate Sirlis
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

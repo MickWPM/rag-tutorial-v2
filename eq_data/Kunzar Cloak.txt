@@ -1,0 +1,40 @@
+ITEM NAME: Kunzar Cloak
+
+Kunark Era (added 2000)
+
+Kunzar Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 7
+WIS: +2  INT: +2
+SV FIRE: +10
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL except HUM ERU HEF
+
+
+
+ Merchant resale value: 90pp 
+
+  Drops From 
+Kaesora
+
+ spectral librarian
+
+Karnor's Castle
+
+ caller of Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

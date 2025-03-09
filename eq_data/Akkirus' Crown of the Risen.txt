@@ -1,0 +1,35 @@
+ITEM NAME: Akkirus' Crown of the Risen
+
+Velious Era (added December 2000-2001)
+
+
+Akkirus' Crown of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 22
+STR: +3  STA: +2  WIS: +6  HP: +30  MANA: +35
+SV DISEASE: +3  SV COLD: +3  SV MAGIC: +4
+WT: 5.5  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Skyshrine Helm
+ Custom Plate Helms - Skyshrine
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Ivy Etched Tunic
+
+Temple Era (added October 1999)
+
+Ivy Etched Tunic
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 19
+STR: +3  WIS: +3  HP: +30
+WT: 6.0  Size: LARGE
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

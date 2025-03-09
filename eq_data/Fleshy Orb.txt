@@ -1,0 +1,40 @@
+ITEM NAME: Fleshy Orb
+
+Warrens Era (added spring 2001)
+
+
+Fleshy Orb
+
+
+LORE ITEM  NODROP
+CHA: -3
+SV DISEASE: -10
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Odd Tumor
+ Item Lore (from Identify): Odd Tumor returned 
+
+  Drops From 
+Qeynos Hills
+
+ a rabid wolf
+
+Western Plains of Karana
+
+ Lempeck Hargrin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fleshy Orbs
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

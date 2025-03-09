@@ -1,0 +1,123 @@
+ITEM NAME: Eroded Leather Cap
+
+Velious Era (added December 2000-2001)
+
+Eroded Leather Cap
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+WT: 1.5  Size: TINY
+Class: DRU MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a guardian of Zek
+ Adjutant Brunkin
+ Adjutant Cryyrn
+ Adjutant Daggeruk
+ Adjutant Derkan
+ Adjutant Droggren
+ Adjutant Frinevrn
+ Adjutant Frinvan
+ Adjutant Gelbenden
+ Adjutant Hekrandor
+ Adjutant Hoggren
+ Adjutant Jharll
+ Adjutant Khellendor
+ Adjutant Lynlrom
+ Adjutant Pelurr
+ Adjutant Skjell
+ Adjutant Stormkeeper
+ Adjutant Strongaxe
+ Adjutant Thyek
+ Adjutant Velsharek
+ Klraggek the Slayer
+ Legionnaire Alveyrem
+ Legionnaire Blizzardwalker
+ Legionnaire Byltor
+ Legionnaire Evbarjor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Whiteaxe
+ Legionnaire Yervin
+ Legionnaire Yvedrn
+ Lieutenant Coldforge
+ Lieutenant Fangcaller
+ Lieutenant Frostbite
+ Lieutenant Hrykker
+ Lieutenant Peldiyrem
+ Lieutenant Stormeye
+ Lieutenant Vellos
+ Sentinel Brajnor
+ Sentinel Bvellor
+ Sentinel Crrlarn
+ Sentinel Demek
+ Sentinel Drakeslayer
+ Sentinel Estrek
+ Sentinel Felshrefh
+ Sentinel Fhaard
+ Sentinel Fleshflayer
+ Sentinel Harzok
+ Sentinel Maldevor
+ Sentinel Mjrell
+ Sentinel Nellenar
+ Sentinel Stonetrader
+ Sentinel Sunderdrake
+ Sentinel Thunderfist
+ Sentinel Thurdiel
+ Sentinel Tyorpen
+ Sentinel Uthnorn
+ Sentinel Vejleorn
+ Sentinel Veldrendyr
+ Sentinel Vellharn
+ Sentinel Weldren
+ Sentinel Yeljorn
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+ Veteran Eiyloren
+ Veteran Icecaller
+ Veteran Kltrem
+ Veteran Mjrlind
+ Veteran Skeldek
+ Veteran Surlren
+ Veteran Yllhaydm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Thurgadin Helm
+ Monk Thurgadin Helm
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

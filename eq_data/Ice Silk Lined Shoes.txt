@@ -1,0 +1,38 @@
+ITEM NAME: Ice Silk Lined Shoes
+
+Velious Era (added December 2000-2001)
+
+
+
+Ice Silk Lined Shoes
+
+
+MAGIC ITEM Slot: FEET AC: 4 DEX: +5  CHA: +4  AGI: +4  HP: +20  MANA: +8
+SV COLD: +10 WT: 0.7  Size: SMALL Class: NEC WIZ MAG ENC Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 315)
+ Yield: Ice Silk Lined Shoes x1
+ In Loom:
+
+
+  1 x Boot Pattern - Bought
+  2 x Ice Silk Swatch - Crafted
+  1 x Platinum Thread - Bought
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

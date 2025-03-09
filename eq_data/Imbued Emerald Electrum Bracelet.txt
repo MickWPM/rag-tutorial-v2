@@ -1,0 +1,39 @@
+ITEM NAME: Imbued Emerald Electrum Bracelet
+
+
+
+Imbued Emerald Electrum Bracelet
+
+
+Slot: WRIST
+AC: 3
+STR: -2  DEX: +2
+SV FIRE: +2  SV DISEASE: +2
+Class: ALL
+Race: ALL
+Deity: Tunare
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Emerald Electrum Bracelet x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Electrum Bar - Summoned
+  1 x Imbued Emerald - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

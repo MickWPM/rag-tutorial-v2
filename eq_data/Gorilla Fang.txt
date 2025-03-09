@@ -1,0 +1,33 @@
+ITEM NAME: Gorilla Fang
+
+Stonebrunt Era (added summer 2001)
+
+
+Gorilla Fang
+
+
+NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known use in p99, used in a quest introduced in The Buried Sea expansion. 
+
+  Drops From 
+Stonebrunt Mountains
+
+ a mature graniteback
+ an elder graniteback
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

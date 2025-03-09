@@ -1,0 +1,35 @@
+ITEM NAME: Singing Steel Bracer
+
+Kunark Era (added 2000)
+
+Singing Steel Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 16
+Effect:  Shield of Flame (Must Equip, Casting Time: 5.0) at Level 45
+WT: 4.0  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+Part of the Singing Steel armor set. 
+ Merchant resale value: 237p Max 
+
+  Drops From 
+Old Sebilis
+
+ froglok armorer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

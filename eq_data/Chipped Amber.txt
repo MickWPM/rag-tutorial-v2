@@ -1,0 +1,33 @@
+ITEM NAME: Chipped Amber
+
+Velious Era (added December 2000-2001)
+
+
+Chipped Amber
+
+
+MAGIC ITEM
+STR: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crystal Caverns
+
+ A geonid (CC)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

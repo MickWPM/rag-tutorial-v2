@@ -1,0 +1,35 @@
+ITEM NAME: Locustlure
+
+Kunark Era (added 2000)
+
+Locustlure
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 17
+DMG: 8 
+Effect:  Walking Sleep (Combat, Casting Time: Instant) at Level 46
+WT: 1.3  Size: MEDIUM
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ skeletal scryer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

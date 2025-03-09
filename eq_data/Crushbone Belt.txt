@@ -1,0 +1,57 @@
+ITEM NAME: Crushbone Belt
+
+
+Crushbone Belt
+
+
+QUEST ITEM
+Slot: WAIST
+AC: 1
+WT: 1.3  Size: SMALL
+Class: WAR SHD ROG SHM
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ an orc scoutsman
+
+Crushbone
+
+ orc centurion
+ orc trainer
+
+Greater Faydark
+
+ an orc centurion
+ an orc conscript
+ an orc footman
+ an orc seer
+ an orc shaman
+ an orc witchdoctor
+ orc centurion
+
+Lesser Faydark
+
+ orc centurion
+
+Nektulos Forest
+
+ orc runner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Orc Vest
+ Crushbone Belts
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

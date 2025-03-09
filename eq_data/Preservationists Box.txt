@@ -1,0 +1,36 @@
+ITEM NAME: Preservationists Box
+
+Velious Era (added December 2000-2001)
+
+
+Preservationists Box
+
+
+LORE ITEM NO TRADE
+WT: 10.0  Weight Reduction: 0%
+Capacity: 10  Size Capacity: GIANT
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #2: Cloth Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Non-Tradeskill (Trivial: No-Fail)
+ Preserved Kromrif Heads x1
+ In Preservationists Box:
+
+
+  10 x Kromrif Head - Dropped
+
+
+
+
+

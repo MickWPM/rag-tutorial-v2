@@ -1,0 +1,41 @@
+ITEM NAME: Ogre War Plate Greaves
+
+
+Ogre War Plate Greaves
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 18
+WT: 10.4  Size: LARGE
+Class: WAR SHD
+Race: TRL OGR
+
+
+Part of the ogre cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 182)
+ Yield: Ogre War Plate Greaves x1
+ In Oggok Forge:
+
+
+  1 x Adamantite Chain Jointing - Crafted
+  1 x Blood Temper - Crafted
+  3 x Folded Sheet of Adamantite - Crafted
+  1 x Large Plate Greaves Mold - Bought
+  1 x Leather Padding - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

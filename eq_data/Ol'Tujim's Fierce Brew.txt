@@ -1,0 +1,38 @@
+ITEM NAME: Ol'Tujim's Fierce Brew
+
+
+Ol'Tujim's Fierce Brew
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ Brewing (Trivial: 135)
+ Yield: Ol'Tujim's Fierce Brew x2
+ In Brew Barrel:
+
+
+  1 x Barley - Bought
+  1 x Cask - Bought
+  1 x Hops - Bought
+  1 x Malt - Bought
+  1 x Yeast - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

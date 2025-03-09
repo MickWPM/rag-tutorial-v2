@@ -1,0 +1,43 @@
+ITEM NAME: Berries
+
+Classic Era (added 1999-2000)
+
+Berries
+
+
+This is a meal!
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+These are found as a ground spawn in Misty Thicket. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Supplies
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Flask of Berry Juice (Trivial 21)
+ Red Wine (Trivial 95)
+ Elven Wine (Trivial 115)
+ Halfling Stouters (Trivial 135)
+
+ Baking
+ Berry Pie (Trivial 142)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ This item can be foraged in most zones.
+
+

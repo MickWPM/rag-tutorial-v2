@@ -1,0 +1,34 @@
+ITEM NAME: A Wooden Heart
+
+Classic Era (added 1999-2000)
+
+
+Wooden Heart
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Treant heart
+May be obtained as a reward (small chance) from turning in Small Lantern to Jyle Windshot in West Freeport 
+
+  Drops From 
+Southern Karana
+
+ a treant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rain Caller Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

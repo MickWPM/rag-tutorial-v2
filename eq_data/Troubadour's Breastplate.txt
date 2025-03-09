@@ -1,0 +1,35 @@
+ITEM NAME: Troubadour's Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Troubadour's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 54
+STR: +14  CHA: +10  AGI: +10  HP: +50
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +8  SV POISON: +2
+Effect: Selo's Song of Travel (Any Slot/Can Equip, Casting Time: 5.5) at Level 46
+WT: 9.0  Size: LARGE
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Kael Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

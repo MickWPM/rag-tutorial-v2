@@ -1,0 +1,35 @@
+ITEM NAME: Ceremonial Helm
+
+Velious Era (added December 2000-2001)
+
+Ceremonial Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 11
+STR: +3  DEX: +3  CHA: +15
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a cleric of Vallon Zek
+ many giants?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

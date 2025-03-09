@@ -1,0 +1,35 @@
+ITEM NAME: Scroll of Knowledge
+
+Velious Era (added December 2000-2001)
+
+
+Scroll of Knowledge
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+WIS: +8
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ Dominator Yisaki
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scrolls of the Ancient Totem
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

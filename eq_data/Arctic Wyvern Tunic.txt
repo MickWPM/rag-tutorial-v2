@@ -1,0 +1,42 @@
+ITEM NAME: Arctic Wyvern Tunic
+
+Velious Era (added December 2000-2001)
+
+Arctic Wyvern Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 14
+STR: +10  DEX: +8  WIS: +10
+SV COLD: +10
+WT: 3.5  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Arctic Wyvern Tunic x1
+ In Coldain Tanners Kit:
+
+
+  1 x Arctic Wyvern Hide - Dropped
+  1 x Cod Oil - Crafted
+  1 x Tunic Pattern - Bought
+  5 x Velium Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

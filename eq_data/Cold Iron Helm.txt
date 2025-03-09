@@ -1,0 +1,33 @@
+ITEM NAME: Cold Iron Helm
+
+Warrens Era (added spring 2001)
+
+Cold Iron Helm
+
+
+Slot: HEAD
+AC: 10
+SV MAGIC: +2
+WT: 7.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: HUM BAR ERU ELF HIE DEF HEF
+
+
+
+
+  Drops From 
+The Warrens
+
+ King Gragnar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

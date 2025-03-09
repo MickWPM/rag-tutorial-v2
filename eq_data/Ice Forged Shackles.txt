@@ -1,0 +1,34 @@
+ITEM NAME: Ice Forged Shackles
+
+Velious Era (added December 2000-2001)
+
+Ice Forged Shackles
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STR: +5  DEX: +5  AGI: +5  HP: +30
+Effect:  Velium Shards (Must Equip, Casting Time: 3.0) at Level 35
+WT: 0.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG
+Race: ALL except BAR TRL OGR IKS
+
+
+ Item Lore (from Identify): Forged Shackles
+Velium Shards is a small right click direct damage effect (12 damage), which has a short enough cast time to potentially be cast between strikes 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Grammar Manual
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

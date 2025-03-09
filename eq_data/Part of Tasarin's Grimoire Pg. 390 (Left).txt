@@ -1,0 +1,153 @@
+ITEM NAME: Part of Tasarin's Grimoire Pg. 390 (Left)
+
+
+
+Part of Tasarin's Grimoire Pg. 390
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 6 Golds
+ 4 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from level ~ 20's mobs.  Vendor Trash.
+
+
+The drop tables below are pulled from EQEMU, so there may be discrepancies, please update as you find issues.
+Crystal Caverns
+
+ a Ry`Gorr miner
+ a Ry`Gorr inspector
+
+Eastern Wastes
+
+ a snow dervish
+
+Estate of Unrest
+
+ a barbed bone skeleton
+ a skeletal monk
+
+Everfrost Peaks
+
+ a wooly mammoth
+ an icy orc
+
+Firiona Vie
+
+ a drolvarg savage
+
+Frontier Mountains
+
+ a mountain giant hillock
+
+Great Divide
+
+ a tizmak augur
+ a tizmak warrior
+ an elder shardwurm
+
+High Keep
+
+ a Pickclaw Cabalist
+ a Pickclaw Lookout
+ a pickclaw visionary
+
+Iceclad Ocean
+
+ a shadow guardian
+ a snow dervish
+ Snowfang fisher
+
+Lake of Ill Omen
+
+ A sarnak adherent
+ a Sarnak legionnaire
+ a sarnak recruit
+ icebone skeleton
+
+Mistmoore Castle
+
+ a grinning gargoyle
+ a sneering gargoyle
+
+Najena
+
+ a guard officer
+ Drelzna
+
+Ocean of Tears
+
+ Sister of Erollisi
+
+The Overthere
+
+ a cliff golem
+
+Permafrost Caverns
+
+ a goblin prelate
+ a goblin wizard
+ a large dire wolf
+ an ice goblin
+
+Rathe Mountains
+
+ a giant skeleton
+
+Runnyeye
+
+ a Pickclaw Ambushbaiter
+
+Solusek's Eye
+
+ fire goblin
+ fire goblin wizard
+ flame goblin
+ flame goblin wizard
+ inferno goblin
+ large fire goblin
+
+Southern Plains of Karana
+
+ a treant
+
+Swamp of No Hope
+
+ Deadeye
+
+Tower of Frozen Shadow
+
+ a ghostly student
+ a shadow beast
+
+Upper Guk
+
+ a froglok ton knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research
+ Strip Enchantment (Trivial:62) (Research Only)
+
+
+
+
+

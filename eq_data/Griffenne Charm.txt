@@ -1,0 +1,38 @@
+ITEM NAME: Griffenne Charm
+
+Classic Era (added 1999-2000)
+
+Griffenne Charm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 3
+CHA: +3
+WT: 0.1  Size: TINY
+Class: BRD
+Race: HUM ELF HEF
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+I found three a griffenne spawn locations to lock down. Here is the Griffenne Map  I logged 25 a griffenne kills and found one Griffenne Charm 
+
+  Drops From 
+Northern Karana
+
+ a griffenne
+ a rabid griffenne (Karana Plague Event)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Lambent Bracers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

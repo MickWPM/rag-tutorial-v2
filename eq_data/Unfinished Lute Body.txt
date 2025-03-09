@@ -1,0 +1,45 @@
+ITEM NAME: Unfinished Lute Body
+
+
+
+Unfinished Lute Body
+
+
+Slot: SECONDARY
+Stringed Instrument
+WT: 0.8  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ South Qeynos
+
+ Ghul Rustem
+
+
+
+  (-307, -28)
+
+  Related quests 
+ Custom Naliedin Lute (Quest)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

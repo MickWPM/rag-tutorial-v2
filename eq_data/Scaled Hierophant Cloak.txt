@@ -1,0 +1,35 @@
+ITEM NAME: Scaled Hierophant Cloak
+
+Velious Era (added December 2000-2001)
+
+
+Scaled Hierophant Cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 12
+DEX: +10  STA: +5  WIS: +5  AGI: +10  MANA: +30
+WT: 3.0  Size: LARGE
+Class: SHM
+Race: IKS
+
+
+Part of the Scaled Hierophant Armor set. 
+
+  Drops From 
+Plane of Hate
+
+ a spite golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,57 @@
+ITEM NAME: About Seafarer Ringmail
+
+
+
+About Seafarer Ringmail
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ocean of Tears
+
+ Craven Jonsbrow
+
+
+
+  (-2255, 7595)
+
+
+ Ocean of Tears
+
+ Sanian Shearsin
+
+
+
+  (-2102, 7798)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Seafarer Ringmail Seafarer ringmail is the choice armor of all wise seamen. 
+Flexible enough not to hinder your motions and light enough not to drag you 
+down to the briny deep should you happen to walk the plank. Each piece of 
+Seafarer ringmail is constructed in the unique Freeport Forge of medium 
+quality rings, forged with a smithy hammer, tempered with Sea Temper, and 
+patterned onto a piece of leather armor.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Oakwynd
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+ NERF ALERT (see notes)
+
+
+Oakwynd
+
+
+MAGIC ITEM LORE ITEM ARTIFACT NO TRADE
+Slot: RANGE
+Skill: Archery Atk Delay: 20
+DMG: 175
+WT: 0.1 Range: 150 Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+ Item Lore (from Identify): Bow passed down by the Oakwynd family
+Obtained during a GM event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

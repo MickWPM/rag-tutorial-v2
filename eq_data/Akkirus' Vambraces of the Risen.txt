@@ -1,0 +1,34 @@
+ITEM NAME: Akkirus' Vambraces of the Risen
+
+Velious Era (added December 2000-2001)
+
+
+Akkirus' Vambraces of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 25
+STA: +3  WIS: +5  HP: +35  MANA: +20
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+WT: 6.0  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Skyshrine Armplates
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

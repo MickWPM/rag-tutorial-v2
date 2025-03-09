@@ -1,0 +1,37 @@
+ITEM NAME: Dragon Horn Ykesha
+
+Kunark Era (added 2000)
+
+Dragon Horn Ykesha
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 8 
+Effect:  Ykesha (Combat, Casting Time: Instant) at Level 36
+WT: 2.6  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+ Merchant resale value: 5pp 
+
+  Drops From 
+Old Sebilis
+
+ froglok dar knight
+ froglok bok shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

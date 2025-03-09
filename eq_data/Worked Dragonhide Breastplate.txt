@@ -1,0 +1,38 @@
+ITEM NAME: Worked Dragonhide Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+
+Worked Dragonhide Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 31
+STR: +3  DEX: +3  STA: +3  CHA: +3  WIS: +3  INT: +3  AGI: +3  HP: +50  MANA: +50
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 5.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Klandicar
+ Sontalak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

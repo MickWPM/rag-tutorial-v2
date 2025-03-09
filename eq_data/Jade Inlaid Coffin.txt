@@ -1,0 +1,52 @@
+ITEM NAME: Jade Inlaid Coffin
+
+Classic Era (added 1999-2000)
+
+Jade Inlaid Coffin
+
+
+WT: 10.0  Weight Reduction: 0%
+Capacity: 2  Size Capacity: TINY
+
+
+Reagent for the Summon Corpse spell used by Necromancers and Shadow Knights.
+Costs 207p1g1c with 85 charisma & amiable faction.
+Costs 201p5g9s9c with 121 charisma & amiable faction. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Plane of Sky
+
+ Key Master
+
+
+
+  (1384, 601)
+
+
+ Neriak Third Gate
+
+ Dvis Zexus
+
+
+
+  (453, -816)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

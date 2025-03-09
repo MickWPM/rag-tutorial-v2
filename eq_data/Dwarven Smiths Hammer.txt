@@ -1,0 +1,33 @@
+ITEM NAME: Dwarven Smiths Hammer
+
+Epic Quests Era (added Sept 2000)
+
+
+Dwarven Smiths Hammer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 50
+DMG: 2 
+WT: 5.0  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

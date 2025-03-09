@@ -1,0 +1,36 @@
+ITEM NAME: Axe of the Slayers
+
+Classic Era (added 1999-2000)
+
+Axe of the Slayers
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 48
+DMG: 23 
+Effect:  Rampage (Combat, Casting Time: Instant) at Level 30
+WT: 15.0  Size: LARGE
+Class: WAR
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 17pp 
+
+  Drops From 
+Rathe Mountains
+
+ Grazhak the Berzerker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

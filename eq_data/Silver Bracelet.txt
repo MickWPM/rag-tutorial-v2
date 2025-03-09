@@ -1,0 +1,35 @@
+ITEM NAME: Silver Bracelet
+
+Classic Era (added 1999-2000)
+
+Silver Bracelet
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+Charges: 14
+AC: 2
+INT: -3  AGI: +3
+SV POISON: +10
+Effect:  Cure Poison (Any Slot, Casting Time: 6.0)
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bug Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

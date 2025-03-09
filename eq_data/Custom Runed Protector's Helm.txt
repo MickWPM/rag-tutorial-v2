@@ -1,0 +1,33 @@
+ITEM NAME: Custom Runed Protector's Helm
+
+Velious Era (added December 2000-2001)
+ 
+Custom Runed Protector's Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 19
+STR: +4  DEX: +3  STA: +3  HP: +15  MANA: +15
+SV FIRE: +3  SV MAGIC: +2
+WT: 5.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Custom Plate Helms - Thurgadin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

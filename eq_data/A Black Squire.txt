@@ -1,0 +1,50 @@
+ITEM NAME: A Black Squire
+
+Velious Era (added December 2000-2001)
+
+
+
+Black Squire
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Mischief
+
+ Geb
+ A Ratfink
+ a white stallion
+ Tribunal Puppet
+ Innoruuk Puppet
+ Erollisi Puppet
+ Rallos Puppet
+ Solusek Puppet
+ Tunare Puppet
+ Bristlebane Puppet
+ A Dastardly Rascal
+ A False Treasure Chest
+ Chuckles the Great
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+ Buckler of Doom
+ Black Flower of Functionality
+ Vambraces of Distraction
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Crystal Crown of Confusion
+
+Velious Era (added December 2000-2001)
+
+
+
+Crystal Crown of Confusion
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+CHA: +25  INT: +9  MANA: +45
+Effect:  Color Skew (Must Equip, Casting Time: 15.0) at Level 30
+WT: 0.6  Size: SMALL
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Velketor the Sorcerer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

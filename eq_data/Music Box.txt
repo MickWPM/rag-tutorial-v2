@@ -1,0 +1,35 @@
+ITEM NAME: Music Box
+
+Sky Era (added January 2000)
+
+
+
+Music Box
+
+
+LORE ITEM
+WT: 8.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a watchful guard
+ Gorgalosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Voice
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

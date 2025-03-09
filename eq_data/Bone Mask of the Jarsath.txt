@@ -1,0 +1,36 @@
+ITEM NAME: Bone Mask of the Jarsath
+
+Kunark Era (added 2000)
+
+Bone Mask of the Jarsath
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 7
+STR: +2  CHA: +8  WIS: +4
+SV DISEASE: +5  SV POISON: +5
+WT: 3.0  Size: MEDIUM
+Class: CLR DRU BRD SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ a pox scarab
+ a sepsis scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

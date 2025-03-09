@@ -1,0 +1,33 @@
+ITEM NAME: Sceptre of the Coldain Ancients
+
+Velious Era (added December 2000-2001)
+
+
+Sceptre of the Coldain Ancients
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 2.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crystal Caverns
+
+ Queen Dracnia
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crystal Caverns' Ancient Artifacts
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

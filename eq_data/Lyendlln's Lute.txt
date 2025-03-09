@@ -1,0 +1,46 @@
+ITEM NAME: Lyendlln's Lute
+
+
+
+
+ 
+
+ Notice: This page was carbon-copied from Allakhazam. It is probably missing vital information.
+It also may contain info which is incorrect for the Project 1999 Timeline. Please revise accordingly and then remove this message.
+
+Velious Era (added December 2000-2001)
+
+
+Lyendlln's Lute
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+Stringed Instrument: 24
+AC: 10
+HP: +25
+WT: 5.0  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+ Item Lore (from Identify): Lute of the Sirens
+This currently does not exist on Project1999. Evidence of it dropping predates the zone's revamp. [1] 
+
+  Drops From 
+Siren's Grotto
+
+ a siren coercer
+ Mistress Latazura
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

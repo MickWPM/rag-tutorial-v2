@@ -1,0 +1,34 @@
+ITEM NAME: Sharp Tooth
+
+Classic Era (added 1999-2000)
+
+
+Sharp Tooth
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kerra Island
+
+ Fang Tooth
+ wharf rat (level 15)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rat Teeth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

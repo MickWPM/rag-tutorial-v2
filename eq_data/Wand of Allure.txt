@@ -1,0 +1,33 @@
+ITEM NAME: Wand of Allure
+
+
+Wand of Allure
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 3
+Effect:  Allure (Any Slot/Can Equip, Casting Time: Instant) at Level 45
+WT: 1.0  Size: SMALL
+Class: ENC
+Race: ALL except BAR TRL OGR IKS
+
+
+See Guide to Recharging Items for more information on the usefulness of wands. 
+
+  Drops From 
+Plane of Fear
+
+ a worry wraith
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

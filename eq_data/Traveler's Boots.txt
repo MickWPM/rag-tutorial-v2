@@ -1,0 +1,48 @@
+ITEM NAME: Traveler's Boots
+
+Velious Era (added December 2000-2001)
+
+
+Traveler's Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 1
+Effect:  TravelerBoots (Any Slot, Casting Time: 1.5)
+WT: 2.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This item has a similar effect to that of the Journeyman's Boots, the only difference being this item's 1.5 second cast time versus the Journeyman boots' instant cast time. Due to the vendor price of this item being over 5,000 platinum, it may be advisable to purchase a Journeyman's Boots multi-quest depending on current market value, as it is a strictly better item. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Solusek's Eye
+
+ Marfen Binkdirple
+
+  Outside Castle Entrance
+
+  (-306, -1072)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+These boots have a very similar active effect to Journeyman's Boots
+
+

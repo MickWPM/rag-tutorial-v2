@@ -1,0 +1,32 @@
+ITEM NAME: Tunarean Signet Ring
+
+Velious Era (added December 2000-2001)
+Tunarean Signet Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 2
+CHA: +10  WIS: +10  HP: +15
+SV FIRE: +3  SV DISEASE: +5  SV COLD: +3  SV MAGIC: +3  SV POISON: +5
+WT: 0.1  Size: TINY
+Class: RNG DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Friend of the Tunarean Court
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

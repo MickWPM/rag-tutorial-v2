@@ -1,0 +1,35 @@
+ITEM NAME: Wreath of Nature
+
+Velious Era (added December 2000-2001)
+
+
+Wreath of Nature
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 5
+CHA: +7  INT: +10  MANA: +40
+SV MAGIC: +20
+WT: 0.5  Size: SMALL
+Class: ENC
+Race: HIE
+Deity: Tunare
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Ancient Tomes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

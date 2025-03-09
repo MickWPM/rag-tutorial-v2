@@ -1,0 +1,36 @@
+ITEM NAME: Frozen Efreeti Boots
+
+Velious Era (added December 2000-2001)
+
+
+Frozen Efreeti Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 14
+STR: +9  DEX: +5  STA: +9  CHA: -5  WIS: -5  INT: -5  AGI: +9
+Effect: Invigor (Any Slot/Can Equip, Casting Time: 3.0)
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Lord Doljonijiarnimorinar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

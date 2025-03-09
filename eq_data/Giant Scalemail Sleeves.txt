@@ -1,0 +1,63 @@
+ITEM NAME: Giant Scalemail Sleeves
+
+Velious Era (added December 2000-2001)
+
+Giant Scalemail Sleeves
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 11
+WIS: +3  INT: -3  HP: +20
+WT: 4.4  Size: MEDIUM
+Class: ALL except MNK
+Race: ALL except DWF HFL GNM
+
+
+Part of the Giant Scalemail Armor set. 
+
+  Drops From 
+Kael Drakkel
+
+ a Protector of Zek
+ Legionnaire Alveyrem
+ Legionnaire Byltor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Yvedrn
+ protector of Zek
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Skulls
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

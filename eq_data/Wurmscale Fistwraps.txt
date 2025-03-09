@@ -1,0 +1,35 @@
+ITEM NAME: Wurmscale Fistwraps
+
+Chardok Revamp Era (added late 2001)
+Wurmscale Fistwraps
+
+
+MAGIC ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 18
+DMG: 14   AC: 5
+STA: +10  HP: +75
+SV FIRE: +20  SV MAGIC: +5
+WT: 0.5  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+Note: Appears to have been added in the Oct 2001 Velious upgrade patch (significantly post-Velious launch). 
+
+  Drops From 
+Temple of Veeshan
+
+ Cekenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

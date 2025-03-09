@@ -1,0 +1,36 @@
+ITEM NAME: Siren Pickles
+
+Velious Era (added December 2000-2001)
+
+
+
+Siren Pickles
+
+
+This is a Meal CHA: +4 WT: 0.1 Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking (Trivial: <=75)
+ Yield: Siren Pickles x2
+ In Oven:
+
+
+  1 x Jug of Oyster Sauces - Bought
+  1 x Seaweed Vinegar - Bought
+  1 x Siren Parts - Dropped
+
+
+
+
+

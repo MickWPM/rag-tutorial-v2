@@ -1,0 +1,40 @@
+ITEM NAME: Burynai Legion Gi
+
+Kunark Era (added 2000)
+
+Burynai Legion Gi
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 14
+DEX: +2  HP: +15  MANA: +25
+WT: 0.3  Size: MEDIUM
+Class: CLR
+Race: HUM ERU HIE DEF
+
+
+
+ Merchant resale value: 6pp. 
+
+  Drops From 
+Temple of Droga
+
+ a maddened Burynai
+
+Frontier Mountains, Mines of Nurga
+
+ a burynai cenobite
+ a burynai slave
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

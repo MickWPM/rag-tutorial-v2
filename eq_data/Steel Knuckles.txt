@@ -1,0 +1,62 @@
+ITEM NAME: Steel Knuckles
+
+Does this item still drop?  I have killed literally thousands of some of the mobs this is supposed to drop from and have never seen one, nor ever seen it in ec for sale.
+
+
+Steel Knuckles
+
+
+Slot: PRIMARY
+Skill: Hand to Hand  Atk Delay: 20
+DMG: 3 
+WT: 2.5  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Burning Woods
+
+ greater plague skeleton
+
+Mistmoore Castle
+
+ a deathly herald
+ a deathly usher
+ a ghastish ancille
+ a ghoulish ancille
+ a glyphed aegis
+ a glyphed guard
+ a glyphed sentry
+ a will pillager
+ a will ravisher
+ a will sapper
+ an ancille cook
+ Butler Syncall
+
+The Estate of Unrest
+
+ a carrion ghoul
+ mortuary fungus
+
+Lesser Faydark
+
+ a faerie guard
+
+The Feerrott
+
+ Radiant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Platinum Ring
+
+Classic Era (added 1999-2000)
+
+Platinum Ring
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+CHA: -1  AGI: +1
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Ring of Opolla 
+
+  Drops From 
+Befallen
+
+ Gynok Moltor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paw of Opolla Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Icetooth's Claws
+
+Velious Era (added December 2000-2001)
+
+Icetooth's Claws
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 29
+DMG: 11 
+WT: 2.0  Size: MEDIUM
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ Icetooth
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

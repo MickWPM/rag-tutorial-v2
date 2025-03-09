@@ -1,0 +1,35 @@
+ITEM NAME: Deadbone Barley
+
+
+
+Deadbone Barley
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Legion Lager (Trivial: 36)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Field of Bone
+
+

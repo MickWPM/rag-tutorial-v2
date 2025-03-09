@@ -1,0 +1,34 @@
+ITEM NAME: Shadow Bracer
+
+Velious Era (added December 2000-2001)
+
+
+Shadow Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 16
+STR: +6  AGI: +5  HP: +25
+SV POISON: +3
+WT: 3.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Skyshrine Bracers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

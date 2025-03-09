@@ -1,0 +1,42 @@
+ITEM NAME: Cobalt Drake Belt
+
+Velious Era (added December 2000-2001)
+
+Cobalt Drake Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 8
+STA: +5  WIS: +8  MANA: +5
+SV COLD: +4
+WT: 1.0  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Cobalt Drake Belt x1
+ In Coldain Tanners Kit:
+
+
+  1 x Belt Pattern - Bought
+  1 x Cobalt Drake Hide - Dropped
+  1 x Drake Egg Oil - Crafted
+  2 x Velium Boning - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

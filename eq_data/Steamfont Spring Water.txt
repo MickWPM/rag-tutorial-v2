@@ -1,0 +1,49 @@
+ITEM NAME: Steamfont Spring Water
+
+
+Steamfont Spring Water
+
+
+This is a refreshing drink!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: Steamfont drops unconfirmed on P99! 
+
+  Drops From 
+Steamfont Mountains
+
+ a kobold missionary
+ a kobold runt
+ a kobold scout
+ a minotaur slaver
+ an earth elemental
+ Minotaur Lord
+
+ The Warrens 
+
+  a kobold runt 
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Emerald Orange Schnapps (Trivial: 142)
+ Faydwer Schnapps (Trivial: 148)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Steamfont Mountains
+ The Warrens?
+
+

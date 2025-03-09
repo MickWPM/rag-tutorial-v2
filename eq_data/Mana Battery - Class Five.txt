@@ -1,0 +1,54 @@
+ITEM NAME: Mana Battery - Class Five
+
+
+
+Mana Battery - Class Five
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used to recharge Tinkering crafted items and Clockwork Armor in the Velious Era. Cultural_Tradeskills:_Gnome (items listed) - Costs about 53 to 55 platinum from Adinel Jailbar. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Plane of Sky
+
+ Key Master
+
+
+
+  1384,601
+
+
+ Iceclad Ocean
+
+ Adinel Jailbar
+
+
+
+  4540,1287
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 84) 
+
+  Tradeskill recipes 
+ Tinkering
+
+
+
+

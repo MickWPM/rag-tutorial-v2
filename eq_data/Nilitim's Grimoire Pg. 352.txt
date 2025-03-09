@@ -1,0 +1,46 @@
+ITEM NAME: Nilitim's Grimoire Pg. 352
+
+
+
+Nilitim's Grimoire Pg. 352
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1p 1g 2s 1c 
+
+  Drops From 
+Various Zones
+
+ Random drop from most level ~44 mobs
+
+Timorous Deep
+
+ a Raptor
+
+The Wakening Land
+
+ A Faerie Dragon
+
+Cobalt Scar
+
+ A Bulthar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Extinguish Fatigue (Trivial: 162)
+
+
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Tea Leaves
+
+Classic Era (added 1999-2000)
+
+Tea Leaves
+
+
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Feskr's Supplies
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Flask of Karana Brown Tea (Trivial: 29)
+ other teas?
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Eastern Plains of Karana
+
+

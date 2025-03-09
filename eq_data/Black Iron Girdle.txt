@@ -1,0 +1,35 @@
+ITEM NAME: Black Iron Girdle
+
+Classic Era (added 1999-2000)
+
+Black Iron Girdle
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 6
+STA: +5
+WT: 2.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+ Merchant resale value: 3p 2g 3s 0c 
+
+  Drops From 
+Clan Runnyeye
+
+ The Goblin King
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

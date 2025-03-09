@@ -1,0 +1,36 @@
+ITEM NAME: Cloak of Venom
+
+Velious Era (added December 2000-2001)
+
+
+Cloak of Venom
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 18
+DEX: +9  INT: +9 HP: +100 MANA: +80
+SV DISEASE: +7  SV POISON: +7
+WT: 0.0  Size: TINY
+Class: SHD NEC
+Race: ALL
+
+
+Post Velious Stat Upgrade 
+
+  Drops From 
+Temple of Veeshan
+
+ Ikatiar the Venom
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Wu's Quivering Staff
+
+Kunark Era (added 2000)
+
+Wu's Quivering Staff
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 28
+DMG: 23 
+WT: 9.0  Size: LARGE
+Class: MNK
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 18pp 
+
+  Drops From 
+City of Mist
+
+ a mist golem
+ a vapor golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

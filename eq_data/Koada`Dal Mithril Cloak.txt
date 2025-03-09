@@ -1,0 +1,41 @@
+ITEM NAME: Koada`Dal Mithril Cloak
+
+
+
+Koada`Dal Mithril Cloak
+
+
+Slot: BACK
+AC: 12
+WT: 3.0  Size: LARGE
+Class: WAR CLR PAL BRD
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 175)
+ Yield: Koada`Dal Mithril Cloak x1
+ In Koada`Dal Forge:
+
+
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Field Splinted Cloak Mold - Bought
+  3 x Folded Sheet of Mithril - Crafted
+  1 x Leather Padding - Crafted
+  1 x Mithril Chain Jointing - Crafted
+  1 x Moonlight Temper - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

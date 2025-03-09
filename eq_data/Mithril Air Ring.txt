@@ -1,0 +1,37 @@
+ITEM NAME: Mithril Air Ring
+
+Sky Era (added January 2000)
+
+
+
+Mithril Air Ring
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+CHA: +2  HP: +4  MANA: +4
+SV FIRE: +3  SV COLD: +3
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Conception
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

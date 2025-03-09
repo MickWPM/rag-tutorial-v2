@@ -1,0 +1,52 @@
+ITEM NAME: Large Buckler
+
+Classic Era (added 1999-2000)
+
+Large Buckler
+
+
+Slot: SECONDARY
+AC: 4
+WT: 3.8  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+The Buckler made via Smithing actually is a different item with 5AC. 
+
+  Drops From 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ Oggok
+
+ Grop
+
+
+
+  (512, 490)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

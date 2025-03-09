@@ -1,0 +1,33 @@
+ITEM NAME: Wind Walker's Mantle
+
+Sky Era (added January 2000)
+
+
+Wind Walker's Mantle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 6
+STR: +5  DEX: +5  CHA: +10  AGI: +2  HP: +50
+WT: 0.3  Size: SMALL
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Metamorphism
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

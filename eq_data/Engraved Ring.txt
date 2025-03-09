@@ -1,0 +1,34 @@
+ITEM NAME: Engraved Ring
+
+
+
+Engraved Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+CHA: +5
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Promise Ring of Neh`Ashiir 
+
+  Drops From 
+The Hole
+
+ High Scale Kirn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

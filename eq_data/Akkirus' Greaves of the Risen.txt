@@ -1,0 +1,35 @@
+ITEM NAME: Akkirus' Greaves of the Risen
+
+Velious Era (added December 2000-2001)
+
+
+Akkirus' Greaves of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 31
+STA: +5  WIS: +10  HP: +80  MANA: +70
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +5
+Effect:  Word of Health (Must Equip, Casting Time: 12.0)
+WT: 7.0  Size: LARGE
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Skyshrine Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

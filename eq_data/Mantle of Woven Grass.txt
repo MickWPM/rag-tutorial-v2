@@ -1,0 +1,36 @@
+ITEM NAME: Mantle of Woven Grass
+
+Sky Era (added January 2000)
+
+
+Mantle of Woven Grass
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 4
+WIS: +4  INT: +2
+WT: 2.0  Size: MEDIUM
+Class: DRU
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Keeper of Souls
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of The Bear
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

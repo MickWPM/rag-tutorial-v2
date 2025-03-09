@@ -1,0 +1,57 @@
+ITEM NAME: A Red Throne
+
+Velious Era (added December 2000-2001)
+
+Red Throne
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Mischief
+
+  Alice Area, final "A4" Set of Mobs 
+ TwentyTwo
+ Brenn
+ Grenn
+ Glonk
+ Grink
+ Stomples
+
+  Puppet Theater Area 
+ Tribunal Puppet
+ Innoruuk Puppet
+ Erollisi Puppet
+ Rallos Puppet
+ Solusek Puppet
+ Tunare Puppet
+ Bristlebane Puppet
+
+  Black and White Room 
+ Lithiniath (White Version)
+ Lithiniath (Black Version)
+
+  Chest Room 
+ A False Treasure Chest
+
+  Various 
+ A Dastardly Rascal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

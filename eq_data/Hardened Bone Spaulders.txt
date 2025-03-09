@@ -1,0 +1,33 @@
+ITEM NAME: Hardened Bone Spaulders
+
+Chardok Revamp Era (added late 2001)
+Hardened Bone Spaulders
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 12
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+WT: 15.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR DWF TRL OGR HFL GNM IKS
+
+
+
+
+  Drops From 
+Chardok
+
+ Grave Master Zo`lun
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

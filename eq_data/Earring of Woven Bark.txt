@@ -1,0 +1,35 @@
+ITEM NAME: Earring of Woven Bark
+
+Chardok Revamp Era (added late 2001)
+
+Earring of Woven Bark
+
+
+MAGIC ITEM  LORE ITEM
+Slot: EAR
+AC: 2
+HP: +35  MANA: +35
+Effect:  Snare (Must Equip, Casting Time: 4.5) at Level 49
+WT: 0.5  Size: SMALL
+Class: RNG DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+Chardok
+
+ Captain Di`ouz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

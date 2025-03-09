@@ -1,0 +1,43 @@
+ITEM NAME: Runed Sea Shell (Enduring Breath)
+
+Velious Era (added December 2000-2001)
+
+Runed Sea Shell
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Enduring Breath (Any Slot, Casting Time: 6.0) as Level 12
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Water Breathing Sea Shell
+Note: There are two different items with this same name.
+Runed Sea Shell (Enduring Breath) has Effect: Enduring Breath (used for shawl quest), and Runed Sea Shell (Cloud) has Effect: Cloud (used for the ring quest).
+The more common one is with Enduring Breath and the rarer one is with Cloud, which means Cloud is more expensive than Enduring Breath. 
+
+  Drops From 
+Siren's Grotto
+
+ a siren beguiler
+ a siren enchantress
+ a siren enticer
+ a siren myrmidon
+ a siren seductress
+ a siren templar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+  Enchanted Velium Powder (Trivial: No-Fail)
+
+
+
+

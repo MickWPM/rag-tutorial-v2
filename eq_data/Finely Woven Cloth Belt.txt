@@ -1,0 +1,36 @@
+ITEM NAME: Finely Woven Cloth Belt
+
+Sky Era (added January 2000)
+
+
+Finely Woven Cloth Belt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 1
+INT: +3  AGI: +3
+WT: 0.1  Size: SMALL
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Test of Slash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

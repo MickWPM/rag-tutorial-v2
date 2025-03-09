@@ -1,0 +1,1151 @@
+ITEM NAME: Backpack
+
+Classic Era (added 1999-2000)
+
+Backpack
+
+
+WT: 3.0  Weight Reduction: 0%
+Capacity: 8  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+Befallen
+
+ a dread bone
+ a zombie
+
+Blackburrow
+
+ a gnoll pup
+
+Burning Woods
+
+ a tatterback ape
+ a tottering gorilla
+
+Butcherblock Mountains
+
+ a goblin grunt
+ a goblin whelp
+ Glorin Binfurr
+
+Crushbone
+
+ orc pawn
+
+Crypt of Dalnir
+
+ a kly follower
+
+The Estate of Unrest
+
+ a festering hag
+ a greater skeleton
+
+Everfrost Peaks
+
+ an ice goblin whelp
+
+Frontier Mountains
+
+ a gorging brute
+ a ravenous brute
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+
+Highpass Hold
+
+ a gnoll shaman
+
+Lake Rathetear
+
+ a gnoll high shaman
+
+Lesser Faydark
+
+ Jayla Nybright
+ Shayla Nybright
+
+North Qeynos
+
+ a gnoll pup
+
+Northern Desert of Ro
+
+ a desert madman
+
+Qeynos Hills
+
+ a gnoll pup
+
+ The Warrens 
+
+  a kobold runt 
+
+Toxxulia Forest
+
+ a kobold shaman
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1265, -777)
+
+
+ Ak'Anon
+
+ Drekon Vebnebber
+
+
+
+  (866, -475)
+
+
+ Ak'Anon
+
+ a clockwork priest
+
+
+
+  (1198, -551)
+
+
+ East Cabilis
+
+ Rastok
+
+
+
+  (348, 11)
+
+
+ East Cabilis
+
+ Klok Vednir
+
+
+
+  (58, -8)
+
+
+ West Cabilis
+
+ Lybar
+
+
+
+  (292, 523)
+
+
+ West Commonlands
+
+ Ruby Boxcrafter
+
+
+
+  (-213, 591)
+
+
+ East Commonlands
+
+ Ponila Quickfingers
+
+
+
+  (193, -855)
+
+
+ East Commonlands
+
+ Merra Clayfinger
+
+
+
+  (-135, 23)
+
+
+ Erudin
+
+ Ayth Niphiria
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Stella Breezemoon
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Fhania Aserdon
+
+
+
+  (-1094, -470)
+
+
+ Erudin
+
+ Nerth Sailwind
+
+
+
+  (232, 96)
+
+
+ Erudin
+
+ Ghemna Nyjuss
+
+
+
+  (-1070, -398)
+
+
+ Erudin
+
+ Luren Renthalis
+
+
+
+  (-1156, -61)
+
+
+ Erudin
+
+ Reihan Wilhemson
+
+
+
+  (-906, -88)
+
+
+ Erudin
+
+ Kisrin Breezeshadow
+
+
+
+  (230, -5)
+
+
+ Erudin
+
+ Reko Saltamer
+
+
+
+  (207, -5)
+
+
+ Erudin
+
+ Rem Knarjon
+
+
+
+  (-623, -71)
+
+
+ Erudin Palace
+
+ Vall Stonewisp
+
+
+
+  (590, 832)
+
+
+ Erudin Palace
+
+ Tan Monosty
+
+
+
+  (667, 829)
+
+
+ Erudin Palace
+
+ Judge Monosty
+
+
+
+  (689, 829)
+
+
+ Felwithe
+
+ Merchant Issynal
+
+
+
+  (147, -412)
+
+
+ Felwithe
+
+ Tylar Windspirit
+
+
+
+  (7, -256)
+
+
+ Felwithe
+
+ Isyna Firspanyl
+
+
+
+  (2, -468)
+
+
+ Firiona Vie
+
+ Dran Hieth
+
+
+
+  (-3132, 2953)
+
+
+ Firiona Vie
+
+ Broawn Goshart
+
+
+
+  (-3863, 1673)
+
+
+ Firiona Vie
+
+ Dom Pathfinder
+
+
+
+  (-2818, 2686)
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ East Freeport
+
+ Celanie Xtoria
+
+
+
+  (-205, -312)
+
+
+ East Freeport
+
+ Prasen Rusgor
+
+
+
+  (-64, -275)
+
+
+ East Freeport
+
+ Tenni Kohern
+
+
+
+  (-223, -886)
+
+
+ North Freeport
+
+ Mevah Toklius
+
+
+
+  (89, 397)
+
+
+ North Freeport
+
+ Hulos Ghenar
+
+
+
+  (88, 269)
+
+
+ North Freeport
+
+ Jekel Enhied
+
+
+
+  (-117, 556)
+
+
+ North Freeport
+
+ Jusia Vapious
+
+
+
+  (244, -133)
+
+
+ West Freeport
+
+ Asnod Marnoc
+
+
+
+  (-283, -798)
+
+
+ West Freeport
+
+ Fania Esruc
+
+
+
+  (-251, -820)
+
+
+ West Freeport
+
+ Tyeg Envil
+
+
+
+  (-246, -41)
+
+
+ Greater Faydark
+
+ Innkeep Wuleran
+
+
+
+  (-324, 135)
+
+
+ Greater Faydark
+
+ Merchant Aildien
+
+
+
+  (-496, -133)
+
+
+ Greater Faydark
+
+ Merchant Aluuvila
+
+
+
+  (-94, 224)
+
+
+ Greater Faydark
+
+ Merchant Tilluen
+
+
+
+  (-85, 271)
+
+
+ Greater Faydark
+
+ Merchant Tenra
+
+
+
+  (-215, 255)
+
+
+ Greater Faydark
+
+ Merchant Gililya
+
+
+
+  (-481, -211)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Greater Faydark
+
+ Merchant Milania
+
+
+
+  (-623, 206)
+
+
+ Greater Faydark
+
+ Merchant Muvien
+
+
+
+  (311, 241)
+
+
+ Grobb
+
+ Gluku
+
+ Very back of Shadow Knight guild
+
+  (443, -1007)
+
+
+ Grobb
+
+ Graktak
+
+ Inside Gunthak's Belch
+
+  (50, -396)
+
+
+ Grobb
+
+ Kagbkek
+
+ Between Warrior trainers and Gunthak's Belch
+
+  (210, -213)
+
+
+ Grobb
+
+ Zumzal
+
+ Near Carver Cagrek
+
+  (329, -495)
+
+
+ Halas
+
+ Holana Oleary
+
+  Yee Magik shop
+
+  (137, -337)
+
+
+ Halas
+
+ Rose McDowell
+
+  Between the Shaman guild and the Sled Dog pens
+
+  (397, 165)
+
+
+ Halas
+
+ Kar O`Dansin
+
+  Outside behind the Pit of Doom
+
+  (510, -505)
+
+
+ Halas
+
+ Elona McMahon
+
+  Upstairs in the bank
+
+  (212, 184)
+
+
+ Highpass Keep
+
+ Merchant Dominik
+
+
+
+  (37, 31)
+
+
+ Highpass Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ South Kaladim
+
+ Vacto Molunel
+
+
+
+  (33, 408)
+
+
+ South Kaladim
+
+ Aarina Ratsbone
+
+
+
+  (183, -138)
+
+
+ South Kaladim
+
+ Handaaf Orcslicer
+
+
+
+  (-42, 428)
+
+
+ North Kaladim
+
+ Kafia Ratsbone
+
+
+
+  (594, 238)
+
+
+ North Kaladim
+
+ Darthur Nightseer
+
+
+
+  (947, 143)
+
+
+ North Kaladim
+
+ Baleki Nightseer
+
+
+
+  (765, 143)
+
+
+ Kithicor Forest
+
+ Eithne Walker
+
+
+
+  (1427, -825)
+
+
+ Lake Rathetear
+
+ Srynda
+
+
+
+  (-507, 637)
+
+
+ Neriak Foreign Quarter
+
+ Palais Derekor
+
+
+
+  (205, -111)
+
+
+ Neriak Foreign Quarter
+
+ Relgor
+
+
+
+  (-330, -352)
+
+
+ Neriak Foreign Quarter
+
+ Namarg
+
+
+
+  (-279, -422)
+
+
+ Neriak Commons
+
+ Mariz Ixtaz
+
+
+
+  (-163, -938)
+
+
+ Neriak Commons
+
+ Issva H`Rugla
+
+
+
+  (-74, -1123)
+
+
+ Neriak Third Gate
+
+ Cazum N`Tan
+
+
+
+  (1335, -1269)
+
+
+ Neriak Third Gate
+
+ Jerris W`Selo
+
+
+
+  (630, -1402)
+
+
+ Neriak Third Gate
+
+ Kanthu M`Rekkor
+
+
+
+  (621, -1351)
+
+
+ Neriak Third Gate
+
+ Tzanso S`Tai
+
+
+
+  (408, -836)
+
+
+ Northern Karana
+
+ Mrysila
+
+
+
+  (-688, -159)
+
+
+ Oasis of Marr
+
+ Synthan
+
+
+
+  (597, -6)
+
+
+ Oggok
+
+ Brokk Boxtripper
+
+
+
+  (220, 378)
+
+
+ Oggok
+
+ Rora Dirtstamp
+
+
+
+  (212, -372)
+
+
+ Oggok
+
+ Iksob Darkchaser
+
+
+
+  (273, 11)
+
+
+ Oggok
+
+ Snarg Bonesmacker
+
+
+
+  (83, 1)
+
+
+ The Overthere
+
+ Tin Merchant II
+
+
+
+  (2694, 2583)
+
+
+ Paineel
+
+ Tenralus Brackmar
+
+
+
+  (1225, 523)
+
+
+ Paineel
+
+ Rallia Hapera
+
+
+
+  (941, 770)
+
+
+ Paineel
+
+ Geomar Hapera
+
+
+
+  (953, 757)
+
+
+ Qeynos Catacombs
+
+ Felia Milltorn
+
+
+
+  (409, -434)
+
+
+ South Qeynos
+
+ Bassanio Weekin
+
+
+
+  (-40, -219)
+
+
+ South Qeynos
+
+ Fellesha Varshen
+
+
+
+  (487, -310)
+
+
+ South Qeynos
+
+ Raheim Varshen
+
+
+
+  (543, -263)
+
+
+ South Qeynos
+
+ Gahna Salbeen
+
+
+
+  (4, -220)
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+
+ South Qeynos
+
+ Bisdlo Ravtahm
+
+
+
+  (-258, -525)
+
+
+ South Qeynos
+
+ Rabley Trumend
+
+
+
+  (35, -550)
+
+
+ North Qeynos
+
+ Tubal Weaver
+
+
+
+  (216, 94)
+
+
+ North Qeynos
+
+ Shenro Kazpur
+
+
+
+  (257, 302)
+
+
+ Surefall Glade
+
+ Sequea Erthinon
+
+
+
+  (-155, -293)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Rathe Mountains
+
+ Ukla
+
+
+
+  (1731, 1289)
+
+
+ Rathe Mountains
+
+ Roshmael
+
+
+
+  (1592, -888)
+
+
+ Rathe Mountains
+
+ Lianna Ferasa
+
+
+
+  (3989, 1477)
+
+
+ Rivervale
+
+ Gaffin Deeppockets
+
+
+
+  (-53, -178)
+
+
+ Rivervale
+
+ Crista Tagglefoot
+
+
+
+  (-69, -381)
+
+
+ Rivervale
+
+ Pipple Purpleroot
+
+
+
+  (-246, -351)
+
+
+ Rivervale
+
+ bag merchant
+
+
+
+  (212, -212)
+
+
+ Rivervale
+
+ Rantho Goobler
+
+
+
+  (85, -140)
+
+
+ Skyshrine
+
+ Raelrik
+
+
+
+  (353, -625)
+
+
+ Skyshrine
+
+ Tulgadin
+
+
+
+  (383, -625)
+
+
+ Solusek's Eye
+
+ goblin merchant
+
+
+
+  (-753, -437)
+
+
+ Thurgadin
+
+ Brigam
+
+
+
+  (-208, 485)
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+
+ Thurgadin
+
+ Agar
+
+
+
+  (-72, -379)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (6, 897)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+
+ Toxxulia Forest
+
+ Stylla Parsini
+
+
+
+  (2105, 404)
+
+
+ Toxxulia Forest
+
+ Emil Parsini
+
+
+
+  (2119, 423)
+
+  Related quests 
+ Cheslin's Illusion Cards
+ Fisherman Convert
+ Lizard Dolls
+ Skeleton Killing
+ Zombie Flesh
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

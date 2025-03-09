@@ -1,0 +1,43 @@
+ITEM NAME: Marauder Snout Ring 'MM'
+
+Kunark Era (added 2000)
+
+Marauder Snout Ring 'MM'
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 2
+STA: +3  CHA: -10
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: BAR TRL OGR IKS
+
+
+ Item Lore (from Identify): Marrtail's Marauders Snout Ring 
+
+  Drops From 
+Field of Bone
+
+ an iksar marauder
+
+Swamp of No Hope
+
+ an iksar marauder
+
+Warsliks Woods
+
+ an iksar marauder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Marauder Armor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

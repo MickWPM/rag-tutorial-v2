@@ -1,0 +1,35 @@
+ITEM NAME: Torklar's Battle Hammer
+
+Velious Era (added December 2000-2001)
+
+
+Torklar's Battle Hammer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 6 
+WT: 5.0  Size: MEDIUM
+Class: ALL except SHD NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Estate of Unrest
+
+ Torklar Battlemaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

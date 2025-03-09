@@ -1,0 +1,35 @@
+ITEM NAME: Patch of Dire Wolf Fur
+
+Velious Era (added December 2000-2001)
+
+
+
+Patch of Dire Wolf Fur
+
+
+WT: 0.1  Size: SMALL Class: ALL Race: ALL
+
+
+No known use until Luclin era. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 46)
+ Yield: Patch of Dire Wolf Fur x1
+ In Loom:
+
+
+  1 x Embroidering Needle - Crafted, Returned on Failure, Returned on Success
+  3 x Tuft of Dire Wolf Fur - Foraged 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

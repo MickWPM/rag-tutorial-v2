@@ -1,0 +1,41 @@
+ITEM NAME: Heavy Dragonskin Mask
+
+Velious Era (added December 2000-2001)
+
+
+
+Heavy Dragonskin Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 12
+CHA: +10
+SV FIRE: +6
+WT: 1.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Atpaev
+ Entariz
+ Gafala
+ Vraptin
+ Ionat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

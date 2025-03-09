@@ -1,0 +1,33 @@
+ITEM NAME: Summoned: Globe of Water
+
+Classic Era (added 1999-2000)
+
+Summoned: Globe of Water
+
+
+TEMPORARY
+This is a drink!
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Player summoned with the Summon Drink spell. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brell Serilis Disciple
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Non-Tradeskill
+ Keg of Brells Blessed Stout (Trivial: No-Fail)
+
+
+
+
+

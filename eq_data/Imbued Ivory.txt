@@ -1,0 +1,35 @@
+ITEM NAME: Imbued Ivory
+
+
+Imbued Ivory
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Created from a normal Ivory with the Imbue Ivory spell. Creates items that are diety restricted to The Tribunal. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Barbarian Cultural Smithing (Trivial: Various)
+
+ Jewelcrafting
+ Recipe name(s)? (Trivial: ?)
+
+ Pottery
+ Idol of the Tribunal (Trivial: 252)
+
+
+
+
+

@@ -1,0 +1,29 @@
+ITEM NAME: Rile's Shattered Blade
+
+Chardok Revamp Era (added late 2001)
+Rile's Shattered Blade
+
+
+LORE ITEM  NO DROP
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Ground spawn in Karnor's Castle. LOC: (+34, -671).
+When you're in front of the Hands room, you go left and stick left until you get in a little room with a square cube in the center, it looks like an altar. The shattered blade spawns on top of it.[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusaders of Greenmist (#8)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

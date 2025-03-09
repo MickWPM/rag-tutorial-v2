@@ -1,0 +1,156 @@
+ITEM NAME: Splintering Club
+
+Classic Era (added 1999-2000)
+
+Splintering Club
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 4 
+WT: 6.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 2 Golds
+ 6 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Befallen
+
+ a zombie
+
+Butcherblock Mountains
+
+ a decaying dwarf skeleton
+ an orc oracle
+ an undead bishop
+ an undead pawn
+ an undead rook
+
+Commonlands
+
+ a lesser mummy
+ a parched zombie
+ a skeleton
+ a zombie
+ orc centurion
+ orc legionnaire
+ orc weaponsmith
+
+Crushbone
+
+ orc oracle
+ The Prophet
+
+Everfrost Peaks
+
+ a decaying skeleton
+ ice boned skeleton
+
+Greater Faydark
+
+ a decaying skeleton
+
+Highpass Hold
+
+ an orc scout
+
+Lesser Faydark
+
+ a skeleton
+ orc centurion
+
+Lower Guk
+
+ a froglok tactician
+
+Misty Thicket
+
+ a dread corpse
+ Mooto
+ orc centurion
+ orc pawn
+
+Rathe Mountains
+
+ a bandit
+
+Nektulos Forest
+
+ a deathfist legionnaire
+ a decaying skeleton
+ a greater skeleton
+ a rotting citizen
+ a skeleton
+ a zombie
+ Master Whoopal
+
+North Qeynos
+
+ a decaying skeleton
+
+Northern Desert of Ro
+
+ a deathfist pawn
+ a decaying skeleton
+ a desert madman
+ a ghoul
+ a shriveled mummy
+ a skeleton
+ a zombie
+
+Ocean of Tears
+
+ a greater skeleton
+
+Qeynos Aqueducts
+
+ Omorb
+
+Southern Karana
+
+ a skeleton
+
+Southern Desert of Ro
+
+ an orc priest
+
+The Feerrott
+
+ a decaying skeleton
+
+Upper Guk
+
+ a froglok idealist
+ a froglok realist
+ a fungus breeder
+
+West Freeport
+
+ a decaying skeleton
+ Deathfist Pawn
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vasty Deep Water
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Ethereal Mist Boots
+
+
+Ethereal Mist Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 15
+INT: +5  AGI: +5
+SV COLD: +7
+WT: 4.9  Size: MEDIUM
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ phoboplasm
+
+Plane of Hate
+
+ Cleric of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

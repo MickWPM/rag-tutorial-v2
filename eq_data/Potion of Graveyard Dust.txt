@@ -1,0 +1,38 @@
+ITEM NAME: Potion of Graveyard Dust
+
+Velious Era (added December 2000-2001)
+
+Potion of Graveyard Dust
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect: Graveyard Dust (Any Slot, Casting Time: Instant)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 170)
+ Yield: Potion of Graveyard Dust x1
+ In Medicine Bag:
+
+
+  1 x Dragonwart - Bought
+  1 x Fire Giant Toes - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

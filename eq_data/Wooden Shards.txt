@@ -1,0 +1,35 @@
+ITEM NAME: Wooden Shards
+
+
+Wooden Shards
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Identifies as Treant Wood Shards 
+
+  Drops From 
+Southern Karana
+
+ a treant
+
+Western Plains of Karana
+
+ a treant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Peacekeeper Staff Quest
+ Trueshot Longbow Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

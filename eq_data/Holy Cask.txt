@@ -1,0 +1,30 @@
+ITEM NAME: Holy Cask
+
+Warrens Era (added spring 2001)
+Holy Cask
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: LARGE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brell Serilis Disciple
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Non-Tradeskill
+ Keg of Brells Blessed Stout (Trivial: No-Fail) (Container)
+
+
+
+
+

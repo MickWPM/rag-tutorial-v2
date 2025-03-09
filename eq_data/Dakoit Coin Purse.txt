@@ -1,0 +1,30 @@
+ITEM NAME: Dakoit Coin Purse
+
+Kunark Era (added 2000)
+
+
+
+Dakoit Coin Purse
+
+
+LORE ITEM WT: 0.1  Weight Reduction: 10% Capacity: 2  Size Capacity: TINY
+
+
+
+
+  Drops From 
+Field of Bone
+
+ Iksar Dakoit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

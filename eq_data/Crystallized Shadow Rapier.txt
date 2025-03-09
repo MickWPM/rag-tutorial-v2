@@ -1,0 +1,37 @@
+ITEM NAME: Crystallized Shadow Rapier
+
+Velious Era (added December 2000-2001)
+
+Crystallized Shadow Rapier
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 6 
+STR: +2  STA: +2  CHA: +1  HP: +5
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a blood familiar
+ an enraged relative
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

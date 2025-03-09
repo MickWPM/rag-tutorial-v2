@@ -1,0 +1,33 @@
+ITEM NAME: Empty Jar
+
+Classic Era (added 1999-2000)
+
+
+Empty Jar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Jar for Wooly Fungus
+ Item Lore (from Identify): Empty Jar for Honeycombs
+ Item Lore (from Identify): Once held the Harbinger of Bertoxxulous 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wooly Fungus Quest
+ The Cigar
+ Tunic of Riddosan Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Empty Jar Obtained from Waltor Felligan  Currently on Green it is a container that is Size Capacity: TINY Is this an item issue and should it be SMALL instead?
+

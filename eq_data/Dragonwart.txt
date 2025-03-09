@@ -1,0 +1,82 @@
+ITEM NAME: Dragonwart
+
+Velious Era (added December 2000-2001)
+
+
+Dragonwart
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+66p from vendor. Introduced late Kunark or early Velious? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Innothule Swamp
+
+ Clork
+
+
+
+  (1165, 549)
+
+
+ Kithicor Forest
+
+ Elsbyth
+
+
+
+  (-776, 3082)
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ Northern Karana
+
+ Romella
+
+
+
+  (-682, -201)
+
+
+ East Commonlands
+
+ Romya
+
+
+
+  (347, 4055)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+ Potion of Graveyard Dust (Trivial: 170)
+
+
+
+
+

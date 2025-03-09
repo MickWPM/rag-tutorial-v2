@@ -1,0 +1,30 @@
+ITEM NAME: Aviak Feathers
+
+
+
+Aviak Feathers
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Southern Karana
+
+ Knari Morawk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+Not to be confused with the Aviak Feather, this item is not used in tradeskills and has no value other than to vendor for about 3.5p
+
+
+

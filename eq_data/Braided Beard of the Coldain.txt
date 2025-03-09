@@ -1,0 +1,48 @@
+ITEM NAME: Braided Beard of the Coldain
+
+Velious Era (added December 2000-2001)
+
+Braided Beard of the Coldain
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+Charges: 5
+AC: 5
+AGI: +3
+SV MAGIC: +3
+Effect: Berserker Strength (Any Slot/Can Equip, Casting Time: Instant) at Level 40
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+This effect generates significant aggro for the user and absorbs a small amount of damage. It's often used as a cheaper form of Bladestopper to ensure a pull follows the intended player. This effect does not stack with many strength buffs.
+Following the chardok revamp patch, it seems the hate from this clicky has been reduced to 41-116 per charge. (Please parse more to confirm an exact value). 
+ Merchant resale value: 4.8p 
+
+  Drops From 
+Eastern Wastes
+
+ a coldain cook
+ Rodrick Tardok
+
+Great Divide
+
+ a coldain wolfmaster
+
+Thurgadin
+
+ a lesser tar goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

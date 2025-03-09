@@ -1,0 +1,31 @@
+ITEM NAME: Jumjum Sack Tunic
+
+
+
+Jumjum Sack Tunic
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.6  Size: SMALL
+Class: DRU
+Race: HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Newbie Quest: Halfling Druid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

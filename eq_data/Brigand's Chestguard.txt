@@ -1,0 +1,35 @@
+ITEM NAME: Brigand's Chestguard
+
+Velious Era (added December 2000-2001)
+
+
+Brigand's Chestguard
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 37
+STR: +6  DEX: +12  STA: +6  AGI: +14  HP: +60
+SV MAGIC: +7  SV POISON: +3
+Effect: Invigorate (Any Slot/Can Equip, Casting Time: 15.0)
+WT: 9.0  Size: LARGE
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Velium Tunic
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

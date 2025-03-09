@@ -1,0 +1,37 @@
+ITEM NAME: Worn Leather Mask
+
+Sky Era (added January 2000)
+
+
+Worn Leather Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 4
+CHA: +5  INT: +3
+SV DISEASE: +2
+WT: 1.0  Size: MEDIUM
+Class: DRU
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Gorgalosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of The Wolf
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

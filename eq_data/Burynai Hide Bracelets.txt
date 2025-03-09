@@ -1,0 +1,34 @@
+ITEM NAME: Burynai Hide Bracelets
+
+Kunark Era (added 2000)
+
+Burynai Hide Bracelets
+
+
+Slot: WRIST
+AC: 4
+AGI: +2
+WT: 4.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Burynai Hide Armor set. 
+
+  Drops From 
+Kurn's Tower
+
+ lesser icebone skeleton
+ scalebone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

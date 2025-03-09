@@ -1,0 +1,70 @@
+ITEM NAME: Catch-A-Lot Bait
+
+
+Catch-A-Lot Bait
+
+
+MAGIC ITEM
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ The Feerrott
+
+ Kogg
+
+
+
+  (1045, 1462)
+
+
+ Ocean of Tears
+
+ Craven Jonsbrow
+
+
+
+  (-2255, 7595)
+
+
+ Ocean of Tears
+
+ Sanian Shearsin
+
+
+
+  (-2102, 7798)
+
+
+ Western Plains of Karana
+
+ Misla McMannus
+
+
+
+  (-4023, -2344)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ See Fishing.
+
+
+
+

@@ -1,0 +1,142 @@
+ITEM NAME: Copper Band
+
+Classic Era (added 1999-2000)
+
+Copper Band
+
+
+Slot: FINGER
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 0 Golds
+ 6 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Eastern Plains of Karana
+
+ an undead reaver
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+
+Frontier Mountains
+
+ goblin raider
+
+Greater Faydark
+
+ a bandit lookout
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a fae drake
+ a fae drake hatchling
+ a faerie maiden
+ a pixie prankster
+ a pixie trickster
+
+Qeynos Aqueducts
+
+ a gelatinous cube
+
+Steamfont Mountains
+
+ a lesser ebon drake
+
+Upper Guk
+
+ a heart spider
+
+West Commonlands
+
+ Kizdean Gix
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Felwithe
+
+ Merchant Silverkale
+
+
+
+  (-90, -436)
+
+
+ North Freeport
+
+ Egasia Reenix
+
+
+
+  (119, 301)
+
+
+ North Freeport
+
+ Svinal Wyspin
+
+
+
+  (64, -154)
+
+
+ North Freeport
+
+ Falia Frikniller
+
+
+
+  (-107, 78)
+
+
+ West Freeport
+
+ Asnod Marnoc
+
+
+
+  (-283, -798)
+
+
+ East Cabilis
+
+ Klok Sass
+
+
+
+  (667, -38)
+
+As of 25 Feb 2018, none of the NFP or WFP merchants had this item (maybe were sold to them before and they were just reselling?) 
+
+  Related quests 
+ The Painting
+ Black Wolf Skin Quest
+ Magic Elixir for the Warriors
+ Poacher's Head Quest (Erudin)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Words of Wealth
+
+Velious Era (added December 2000-2001)
+
+Words of Wealth
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box 
+
+  Book contents 
+Distractions bring great wealth.
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Words of Wealth x1
+ In Book of Mischief:
+
+
+  1 x Words of Wealth: Bottom Left - Dropped
+  1 x Words of Wealth: Bottom Right - Dropped
+  1 x Words of Wealth: Top Left - Dropped
+  1 x Words of Wealth: Top Right - Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill
+ Funny Money (Trivial: No-Fail)
+
+
+
+
+

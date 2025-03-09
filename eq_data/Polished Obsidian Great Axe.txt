@@ -1,0 +1,36 @@
+ITEM NAME: Polished Obsidian Great Axe
+
+Kunark Era (added 2000)
+
+Polished Obsidian Great Axe
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 48
+DMG: 33 
+DEX: -10  AGI: -10  HP: +50
+Effect:  Invoke Fear (Combat, Casting Time: Instant) at Level 40
+WT: 10.0  Size: LARGE
+Class: WAR SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ Construct of Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

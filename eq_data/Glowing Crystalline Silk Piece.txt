@@ -1,0 +1,39 @@
+ITEM NAME: Glowing Crystalline Silk Piece
+
+Velious Era (added December 2000-2001)
+Glowing Crystalline Silk Piece
+
+
+MAGIC ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #5: Silk Coldain Prayer Shawl
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Glowing Crystalline Silk Piece x1
+ In Glowing Bile Soaker:
+
+
+  3 x Crystalline Silk Fiber - Crafted
+  1 x Glowing Worm Bile - Dropped 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Silk Coldain Prayer Shawl (Trivial:115)
+
+
+
+
+

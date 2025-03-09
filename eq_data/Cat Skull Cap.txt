@@ -1,0 +1,39 @@
+ITEM NAME: Cat Skull Cap
+
+
+
+Cat Skull Cap
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 4
+SV MAGIC: +2
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Clan Runnyeye
+
+ a Pickclaw mindripper
+
+Qeynos Catacombs
+
+ a gelatinous cube
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Treant Fists
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

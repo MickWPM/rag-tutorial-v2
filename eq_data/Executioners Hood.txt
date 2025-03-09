@@ -1,0 +1,34 @@
+ITEM NAME: Executioners Hood
+
+Classic Era (added 1999-2000)
+
+Executioners Hood
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 5
+STR: +4  DEX: +9
+WT: 0.2  Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Lower Guk
+
+ a ghoul executioner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

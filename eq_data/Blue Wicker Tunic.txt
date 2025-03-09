@@ -1,0 +1,33 @@
+ITEM NAME: Blue Wicker Tunic
+
+Classic Era (added 1999-2000)
+
+Blue Wicker Tunic
+
+
+Slot: CHEST
+AC: 9
+WT: 5.3  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a greater kobold shaman
+ A kejekan amir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

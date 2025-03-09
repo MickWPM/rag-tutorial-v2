@@ -1,0 +1,34 @@
+ITEM NAME: Cloak of Leaves (Sky)
+
+Sky Era (added January 2000)
+
+
+
+Cloak of Leaves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 12
+WIS: +5  HP: +30  MANA: +30
+WT: 0.0  Size: SMALL
+Class: DRU
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. Not to be confused with the identically named Cloak of Leaves. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of The Eagle
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

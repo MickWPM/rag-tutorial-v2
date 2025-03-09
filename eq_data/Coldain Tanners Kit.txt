@@ -1,0 +1,51 @@
+ITEM NAME: Coldain Tanners Kit
+
+Velious Era (added December 2000-2001)
+
+
+Coldain Tanners Kit
+
+
+WT: 2.0  Weight Reduction: 0%
+Capacity: 8  Size Capacity: GIANT
+
+
+The container used for most all Velious Tailoring. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Rexx Frostweaver
+
+
+
+  (-272, 133)
+
+
+ Thurgadin
+
+ Betti Frostweaver
+
+
+
+  (-264, 133)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

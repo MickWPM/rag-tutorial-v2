@@ -1,0 +1,31 @@
+ITEM NAME: Bottle of Swirling Smoke
+
+Kunark Era (added 2000)
+
+
+Bottle of Swirling Smoke
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+One of three different identically named items for the Brain Bite Quest. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brain Bite (Good)
+ Brain Bite (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

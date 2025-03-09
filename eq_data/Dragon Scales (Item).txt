@@ -1,0 +1,31 @@
+ITEM NAME: Dragon Scales (Item)
+
+
+Dragon Scales
+
+
+MAGIC ITEM  LORE ITEM
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ Azdalin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dragon Scales Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

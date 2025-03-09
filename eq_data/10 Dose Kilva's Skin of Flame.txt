@@ -1,0 +1,31 @@
+ITEM NAME: 10 Dose Kilva's Skin of Flame
+
+Classic Era (added 1999-2000)
+
+
+10 Dose Kilva's Skin of Flame
+
+
+EXPENDABLE  Charges: 10
+Effect: Kilva's Skin of Flame (Any Slot, Casting Time: 10.0)
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Sells to vendors for up to 9p8g1s5c. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Golden Efreeti Ring
+
+Sky Era (added January 2000)
+
+
+Golden Efreeti Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 4
+STA: +4  CHA: +4
+SV FIRE: +3  SV DISEASE: +3
+WT: 0.2  Size: SMALL
+Class: MAG
+Race: ALL
+
+
+Part of the Golden Efreeti Armor Set 
+
+  Drops From 
+Plane of Sky
+
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Test of Interpretation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

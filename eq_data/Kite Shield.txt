@@ -1,0 +1,227 @@
+ITEM NAME: Kite Shield
+
+
+Kite Shield
+
+
+Slot: SECONDARY
+AC: 8
+WT: 10.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+ Merchant resale value: 4p 6g 
+
+  Drops From 
+East Freeport
+
+ Guard Drazden
+ Guard Fikus
+ Guard Fralldo
+ Guard Goemin
+ Guard Greedin
+ Guard Hiron
+ Guard Jup
+ Guard Kroon
+ Guard Lithnon
+ Guard Ogo
+ Guard Orpheen
+ Guard Zeph
+
+Northern Desert of Ro
+
+ Guard Brendyl
+ Guard Doolin
+ Guard Fintran
+ Guard Stoutman
+
+Paineel
+
+ Guard Korlack
+ Guard Menbuknar
+
+ Stonebrunt Mountains 
+
+  a heretic invader 
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Drekon Vebnebber
+
+
+
+  (866, -475)
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ West Commonlands
+
+ Ranon Strongarm
+
+
+
+  (-463, 2827)
+
+
+ East Commonlands
+
+ Altunic Jartin
+
+
+
+  (-115, 4734)
+
+
+ Felwithe
+
+ Merchant Tearlan
+
+
+
+  (-79, -385)
+
+
+ West Freeport
+
+ Olyna Midel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Tyeg Envil
+
+
+
+  (-246, -41)
+
+
+ Greater Faydark
+
+ Merchant Milania
+
+
+
+  (-623, 206)
+
+
+ Greater Faydark
+
+ Merchant Muvien
+
+
+
+  (311, 241)
+
+
+ Halas
+
+ Kar O`Dansin
+
+
+
+  (510, -505)
+
+
+ South Kaladim
+
+ Vacto Molunel
+
+
+
+  (33, 408)
+
+
+ Neriak Commons
+
+ Issva H`Rugla
+
+
+
+  (-74, -1123)
+
+
+ Oggok
+
+ Snarg Bonesmacker
+
+
+
+  (83, 1)
+
+
+ Paineel
+
+ Kervis Ackblor
+
+
+
+  (1097, 428)
+
+
+ South Qeynos
+
+ Ton Firepride
+
+
+
+  (173, -327)
+
+
+ South Qeynos
+
+ Rabley Trumend
+
+
+
+  (35, -550)
+
+
+ South Qeynos
+
+ Raffy Conticede
+
+
+
+  (-282, -491)
+
+
+ Skyshrine
+
+ Grudash the Baker
+
+
+
+  (161, -474)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Torn, burnt book
+
+Classic Era (added 1999-2000)
+Torn, burnt book
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): Right half of the book of scale 
+
+  Drops From 
+Emerald Jungle
+
+ Severilous
+
+Nagafen's Lair
+
+ Lord Nagafen
+
+Skyfire Mountains
+
+ Talendor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Fiery Avenger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

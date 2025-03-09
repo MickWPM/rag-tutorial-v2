@@ -1,0 +1,35 @@
+ITEM NAME: Vambraces of Ro
+
+Temple Era (added October 1999)
+
+
+
+Vambraces of Ro
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 11
+WIS: +6
+SV DISEASE: +10
+WT: 3.2  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vambraces of Ro
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

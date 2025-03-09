@@ -1,0 +1,36 @@
+ITEM NAME: White Spiroc Feather
+
+Sky Era (added January 2000)
+
+
+
+White Spiroc Feather
+
+
+LORE ITEM
+WT: 20.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a spiroc caller
+ a spiroc expulser
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Fists
+ Necromancer Test of The Finger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Miniature Sword
+
+Sky Era (added January 2000)
+
+
+Miniature Sword
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Turn into Sirran the Lunatic on Island one of Plane of Sky to obtain the key to get to Island 1.5 Key of Swords. 
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Plane of Sky Keys
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

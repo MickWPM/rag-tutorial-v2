@@ -1,0 +1,30 @@
+ITEM NAME: Vulcanized Platinum Bar
+
+Temple Era (added October 1999)
+
+
+Vulcanized Platinum Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained by giving an Enchanted Platinum Bar to Vilissia in the Temple of Solusek Ro. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vambraces of the Fervent
+ Shield of the Devout
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

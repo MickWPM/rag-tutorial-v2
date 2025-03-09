@@ -1,0 +1,33 @@
+ITEM NAME: Mask of Song
+
+
+
+Mask of Song
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 12
+STR: +3  DEX: +3  STA: +3  CHA: +3  WIS: +3  INT: +3  AGI: +3
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+WT: 0.5  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+Post-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Tone
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

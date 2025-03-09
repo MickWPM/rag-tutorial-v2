@@ -1,0 +1,52 @@
+ITEM NAME: Rusty Fer`Esh
+
+Kunark Era (added 2000)
+
+
+Rusty Fer`Esh
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 33
+DMG: 5 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 9 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Field of Bone
+
+ a skeleton
+ an iksar bandit
+ an Iksar footpad
+
+Kurn's Tower
+
+ greater scalebone
+ scalebone skeleton
+
+Lake of Ill Omen
+
+ greater scalebone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

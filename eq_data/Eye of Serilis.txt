@@ -1,0 +1,50 @@
+ITEM NAME: Eye of Serilis
+
+Classic Era (added 1999-2000)
+
+Eye of Serilis
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 6g 4s 6c 
+
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Warsliks Woods
+
+a forest giant evergreen
+
+Timorous Deep
+
+a golra
+
+Ocean of Tears
+
+a spectre
+
+Great Divide
+
+Bekerak Coldbones
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Summon Coldstone (Trivial: 82)
+
+
+
+
+

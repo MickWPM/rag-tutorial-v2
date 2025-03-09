@@ -1,0 +1,40 @@
+ITEM NAME: Unfired Medium Bowl
+
+
+
+Unfired Medium Bowl
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 122)
+ Yield: Unfired Medium Bowl x1
+ In Pottery Wheel:
+
+
+  1 x Block of Clay - Crafted, Bought, Dropped
+  1 x Medium Bowl Sketch - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Pottery
+ Medium Bowl (Trivial: 17)
+
+
+
+
+

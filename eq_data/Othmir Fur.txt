@@ -1,0 +1,37 @@
+ITEM NAME: Othmir Fur
+
+Velious Era (added December 2000-2001)
+
+Othmir Fur
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a shellfish collector
+ an Othmir Pup
+ an Othmir Shaman
+ an Othmir Warrior
+ Chief Kalan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Othmir Fur Armor (Trivial: Various)
+
+
+
+
+

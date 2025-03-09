@@ -1,0 +1,57 @@
+ITEM NAME: A Shining Stone
+
+
+
+A Shining Stone
+
+
+MAGIC ITEM  LORE ITEM  NO TRADE 
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+lore: Enchanted Lapis Lazuli 
+
+  Drops From 
+West Commonlands
+
+ a shadowed man
+
+Innothule Swamp
+
+ a shadowed man
+
+Kithicor Forest
+
+ a shadowed man
+
+Lavastorm Mountains
+
+ a shadowed man
+
+Lesser Faydark
+
+ a shadowed man
+ Shadowman Leader
+
+Nektulos Forest
+
+ a shadowed man
+
+Southern Karana
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rod of Insidious Glamour Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

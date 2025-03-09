@@ -1,0 +1,33 @@
+ITEM NAME: Astral Leggings of the Titans
+
+Stonebrunt Era (added summer 2001)
+
+Astral Leggings of the Titans
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 5
+INT: +10  AGI: +8
+SV MAGIC: -5
+WT: 3.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Titan Samples (good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

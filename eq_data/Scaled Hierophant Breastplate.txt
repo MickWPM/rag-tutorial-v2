@@ -1,0 +1,36 @@
+ITEM NAME: Scaled Hierophant Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Scaled Hierophant Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 26
+STR: +10  WIS: +16  AGI: +5  HP: +10  MANA: +50
+SV DISEASE: +10  SV MAGIC: +10  SV POISON: +10
+WT: 6.0  Size: LARGE
+Class: SHM
+Race: IKS
+
+
+Part of the Scaled Hierophant Armor set. 
+
+  Drops From 
+Plane of Hate
+
+ a spite golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

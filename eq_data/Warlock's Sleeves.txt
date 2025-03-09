@@ -1,0 +1,34 @@
+ITEM NAME: Warlock's Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+Warlock's Sleeves
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 6
+STA: +4  INT: +5  HP: +30
+SV POISON: +2
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Velium Sleeves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Scaled Knight's Boots
+
+Velious Era (added December 2000-2001)
+
+
+Scaled Knight's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 24
+STR: +3  DEX: +2  STA: +6  WIS: +2  AGI: +2
+SV DISEASE: +3  SV POISON: +3
+WT: 6.0  Size: MEDIUM
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Skyshrine Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

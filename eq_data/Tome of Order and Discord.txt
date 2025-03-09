@@ -1,0 +1,40 @@
+ITEM NAME: Tome of Order and Discord
+
+Classic Era (added 1999-2000)
+The Tome ... has become the key to a life of Discord. in spite of the author's pitiful writings.
+- Priest of Discord
+
+
+Tome of Order and Discord
+
+
+The Book is closed.
+LORE ITEM
+WT: 0.0  Size: TINY
+
+
+This book provides the mechanism for a player to intentionally become flagged for PVP on a PVE server, as well provide an immersive, in-world explanation for the restrictions of PVE. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Become PvP (Kaladim) 
+
+  Book contents 
+
+
+
+
+
+
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

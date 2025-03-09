@@ -1,0 +1,37 @@
+ITEM NAME: Crystalline Claw Dagger
+
+Velious Era (added December 2000-2001)
+
+Crystalline Claw Dagger
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 10
+HP: +15
+WT: 1.0  Size: SMALL
+Class: WAR RNG ROG
+Race: ALL
+
+
+
+ Merchant resale value: 49p 
+
+  Drops From 
+Great Divide
+
+ Shardwurm Matriarch
+ Various Other Mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

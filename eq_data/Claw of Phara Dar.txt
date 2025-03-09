@@ -1,0 +1,36 @@
+ITEM NAME: Claw of Phara Dar
+
+Hole Era (added June 2000)
+
+
+Claw of Phara Dar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 12 
+Effect:  Yaulp IV (Combat, Casting Time: Instant) at Level 50
+WT: 4.5  Size: MEDIUM
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Phara Dar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

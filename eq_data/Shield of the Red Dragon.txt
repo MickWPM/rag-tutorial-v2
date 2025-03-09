@@ -1,0 +1,34 @@
+ITEM NAME: Shield of the Red Dragon
+
+Kunark Era (added 2000)
+
+Shield of the Red Dragon
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+AC: 25
+STR: +10  CHA: +10  AGI: -5
+SV FIRE: +40  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 5.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Skyfire Mountains
+
+ Talendor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+

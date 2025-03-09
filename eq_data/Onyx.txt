@@ -1,0 +1,425 @@
+ITEM NAME: Onyx
+
+Classic Era (added 1999-2000)
+Onyx
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 6 Golds
+ 2 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ An emerald drake
+
+Befallen
+
+ the thaumaturgist
+
+City of Mist
+
+ a phantom
+
+Clan Runnyeye
+
+ a goblin warlord
+
+ Cobalt Scar 
+
+  a haunted seachest 
+
+Commonlands
+
+ a hill giant
+ orc oracle
+ Sergeant Slate
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Dreadlands
+
+ a tundra yeti
+
+Eastern Plains of Karana
+
+ a hill giant
+
+Erud's Crossing
+
+ a shark
+
+The Estate of Unrest
+
+ a dark terror
+ a lurking mummy
+ a tentacle terror
+ mortuary fungus
+
+Firiona Vie
+
+ Firiona drixie
+
+Frontier Mountains
+
+ Stonegrinder
+
+Greater Faydark
+
+ a faerie noble
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ decayed soldier
+ spectral knight
+
+Lake of Ill Omen
+
+ a goblin warrior
+ goblin warlord
+
+Lavastorm Mountains
+
+ a fire drake
+
+Lesser Faydark
+
+ a faerie courtier
+ orc chief
+ Whimsy Larktwitter
+
+Rathe Mountains
+
+ a hill giant
+
+Northern Desert of Ro
+
+ a crypt mummy
+ a desert madman
+ a sand giant
+ a shriveled mummy
+
+Old Sebilis
+
+ myconid warrior
+
+Rivervale
+
+ Nillipuss
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a skycinder drake
+ Black Scar
+
+Southern Desert of Ro
+
+ a desert madman
+ an orc cleric
+
+Steamfont Mountains
+
+ a harpy
+ a mountain brownie
+ a steam elemental
+
+Swamp of No Hope
+
+ froglok raider
+ froglok shin shaman
+
+The Feerrott
+
+ a spectre
+
+The Overthere
+
+ a bristly succulent
+ a cliff golem
+ a Kunark rhino
+ Tektite
+
+Upper Guk
+
+ a heart spider
+ a large heart spider
+
+Warsliks Woods
+
+ goblin spirit caller
+ a skulking brute
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ Oasis of Marr
+
+ Tran
+
+
+
+  (541, -43)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+  Related quests 
+ Brain Bite (Good)
+ Brain Bite (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Onyx Bracelet (Trivial: 28)
+ Electrum Onyx Pendant (Trivial: 90)
+ Gold Onyx Pendant (Trivial: 162)
+ Platinum Onyx Bracelet (Trivial: 234)
+
+
+
+
+

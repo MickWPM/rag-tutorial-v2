@@ -1,0 +1,31 @@
+ITEM NAME: Highkeep Royal Suite
+
+Classic Era (added 1999-2000)
+
+
+Highkeep Royal Suite
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Opens a locked door in High Keep. Door location: neg46.12, neg306, altitude: pos53.72 (same floor as Lozani).[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Princess Lenya
+ The Lottery Ticket
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Slick Leather Courier`s Cape
+
+Chardok Revamp Era (added late 2001)
+
+
+Slick Leather Courier`s Cape
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 9
+STR: +5  STA: +8  INT: +5  AGI: +5  HP: +50
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Slick Leather Courier's Cape 
+
+  Drops From 
+Chardok
+
+ Korucust`s Courier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

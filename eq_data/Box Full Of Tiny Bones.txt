@@ -1,0 +1,30 @@
+ITEM NAME: Box Full Of Tiny Bones
+
+Classic Era (added 1999-2000)
+
+
+Box Full of Tiny Bones
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 6.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tiny Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

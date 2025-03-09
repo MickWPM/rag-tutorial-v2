@@ -1,0 +1,41 @@
+ITEM NAME: Carmine Spiroc Feather
+
+Sky Era (added January 2000)
+
+
+
+Carmine Spiroc Feather
+
+
+LORE ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a spiroc arbiter
+ a spiroc caller
+ a spiroc expulser
+ a spiroc revolter
+ a spiroc vanquisher
+ a spiroc walker
+ The Spiroc Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Memorization
+ Magician Test of Interpretation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Zombie Flesh Bracer
+
+Warrens Era (added spring 2001)
+Zombie Flesh Bracer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 6
+INT: +5  HP: +65  MANA: +65
+Effect:  Breath of the Dead (Worn)
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Dracoliche
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

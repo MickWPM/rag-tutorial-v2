@@ -1,0 +1,41 @@
+ITEM NAME: Platinum Blue Diamond Tiara
+
+Velious Era (added December 2000-2001)
+
+Platinum Blue Diamond Tiara
+
+
+MAGIC ITEM
+Slot: HEAD
+MANA: +25
+SV FIRE: +8  SV DISEASE: +8  SV COLD: +8  SV MAGIC: +8  SV POISON: +8
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Blue Diamond Jewelcrafting combines are Velious era. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Note: Make sure to enchant the bar by an enchanter before combining. If you don't do that you will not get any stats on your created gear.
+
+ Jewelry Making (Trivial: 295)
+ Platinum Blue Diamond Tiara x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Platinum Bar - Summoned
+  1 x Blue Diamond - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

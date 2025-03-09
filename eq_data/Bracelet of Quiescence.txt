@@ -1,0 +1,39 @@
+ITEM NAME: Bracelet of Quiescence
+
+
+
+Bracelet of Quiescence
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+CHA: +7  INT: +7  MANA: +20
+WT: 0.1  Size: TINY
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit princess
+ a crystalline cloud
+ a sprited harpie
+ an essence carrier
+ Bazzzazzt
+ Noble Dojorn
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

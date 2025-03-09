@@ -1,0 +1,30 @@
+ITEM NAME: Crimson Training Tunic*
+
+
+
+Crimson Training Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.8  Size: MEDIUM
+Class: CLR
+Race: DEF
+
+
+Given to Dark Elf Cleric by their guildmaster Perrir Zexus upon turning in the note given to them during character creation. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

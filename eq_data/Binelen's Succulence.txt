@@ -1,0 +1,298 @@
+ITEM NAME: Binelen's Succulence
+
+
+
+Binelen's Succulence
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ East Cabilis
+
+ Klok Unlar
+
+
+
+  (531, 162)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ Erudin
+
+ Beth Breadmaker
+
+
+
+  (136, 109)
+
+
+ Erudin
+
+ Helia BlueHawk
+
+
+
+  (-1186, -333)
+
+
+ Firiona Vie
+
+ Glinya Sweetpie
+
+
+
+  (-2750, 2550)
+
+
+ North Freeport
+
+ Rashinda Elore
+
+
+
+  (290, 302)
+
+
+ Halas
+
+ Teria O`Danos
+
+
+
+  (-6, -33)
+
+
+ High Keep
+
+ Baker Jena
+
+
+
+  (46, -260)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ Neriak Foreign Quarter
+
+ Tal Drana
+
+
+
+  (106, -251)
+
+
+ Neriak Foreign Quarter
+
+ Sal Drana
+
+
+
+  (106, -238)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Paineel
+
+ Gorng Alusnein
+
+
+
+  (984, 636)
+
+
+ Paineel
+
+ Iva Tersala
+
+
+
+  (970, 649)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ RunnyEye Citadel
+
+ A goblin merchant
+
+
+
+  (8, 130), (60, 139)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Wolf Steaks
+Gamy yet tasty, this dish is a hunter's favorite. Commonly served with hair still attached to the
+meat for heightened taste. Usually referred to as Po' Dwarf Chops.
+Ingredients: Wolf Meat, Spices, Jug of Sauces
+Cooking instructions: Pull the fat off the wolf meat being cautious to not remove the hair or skin.
+Generously spice the meat. Grill and add sauce as desired. When the meat
+looks charred and toughened remove and eat.
+Tastes great with: Batwing Crunchies and Ale
+Bear Steaks
+Better known as Trapper's Delight, Bear Steaks are a robust and highly textured meat. Usually hand
+shredded and eaten rapidly.
+Ingredients: Bear Meat, Spices, Jug of Sauces
+Cooking instructions: Fire a spit or oven for maximum heat. Firmly pat the spices into the meat
+to absorb excess blood. Grill and add sauce as desired. When the meat puckers and crackles, remove and eat.
+Tastes great with: Fruit Pie and Brandy
+Beer Braised Wolf
+Originally created by a hunter who spilled lager onto his fresh kill. This dish is traditionally
+served over a bowl to catch excess beer.
+Ingredients: Wolf Meat, Spices, Short Beer
+Cooking instructions: Fire an oven for maximum heat. Drizzle beer on top
+of the meat and sprinkle with spices, grilling slightly. Remove from
+grill and dunk in more beer. Serve rare.
+Tastes great with: Batwing Pie, Short Beer
+Beer Braised Bear
+After the discovery of Beer Braised Wolf, who could resist braising other meats in beer?
+Overflowing with beer, you can barely discern the taste of bear meat.
+Ingredients: Bear Meat, Spices, Tall Beer
+Cooking instructions: Prepare the spit or oven. Drain excess blood from the meat as you poke deep
+holes into the meat. Fill holes with beer. Sprinkle with spices and grill until golden brown.
+Tastes great with: Beetle Eye Pie and Tall Beer
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

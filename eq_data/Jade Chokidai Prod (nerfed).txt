@@ -1,0 +1,38 @@
+ITEM NAME: Jade Chokidai Prod (nerfed)
+
+Were you looking for Jade Chokidai Prod (Pre-Nerf)?Chardok Revamp Era (added late 2001)
+ NERF ALERT (see notes)
+
+Jade Chokidai Prod
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 30
+DMG: 11 
+STA: +3  WIS: +6
+WT: 4.2  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+This is the post-nerf, SHM-only version of Jade Chokidai Prod  (Pre-Nerf).
+This version starts dropping after the April 2001 era. [1] 
+
+  Drops From 
+Lake of Ill Omen
+
+ Chancellor of Di`Zok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Key to Charasis Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

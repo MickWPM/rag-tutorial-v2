@@ -1,0 +1,38 @@
+ITEM NAME: Hot Cross Buns
+
+
+
+Hot Cross Buns
+
+
+This is a snack!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 142)
+ Yield: Hot Cross Buns x8
+ In Oven:
+
+
+  1 x Clump of Dough - Crafted
+  1 x Frosting - Bought
+  1 x Fruit - Foraged
+  1 x Muffin Tin - Crafted, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Small Stone Key
+
+Classic Era (added 1999-2000)
+
+
+Small Stone Key
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Not a working key. It appears some Unrest doors were locked in EverQuest Beta, but this key was never useful on classic Live, nor on Project 1999. 
+
+  Drops From 
+The Estate of Unrest
+
+ a reanimated hand
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

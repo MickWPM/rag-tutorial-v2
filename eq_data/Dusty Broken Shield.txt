@@ -1,0 +1,36 @@
+ITEM NAME: Dusty Broken Shield
+
+
+
+Dusty Broken Shield
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Found at loc (-608, -724, 29.67) in Erudin. 
+
+  Drops From 
+Erudin
+
+ Ground Spawn
+ (-608, -724, 29.67) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bones of Darak Lightforge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

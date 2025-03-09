@@ -1,0 +1,33 @@
+ITEM NAME: Crown of Forbidden Rites
+
+Velious Era (added December 2000-2001)
+ Myni models the Crown of Forbidden Rites (custom version).
+Crown of Forbidden Rites
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 19
+STR: +2  WIS: +3  MANA: +35
+SV FIRE: +2  SV MAGIC: +3  SV POISON: +2
+WT: 5.5  Size: SMALL
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Custom Plate Helms - Thurgadin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

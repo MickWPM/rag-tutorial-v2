@@ -1,0 +1,34 @@
+ITEM NAME: A Gypsy Medallion
+
+Classic Era (added 1999-2000)
+A Gypsy Medallion
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 2
+CHA: +9
+SV DISEASE: +10
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Northern Karana
+
+ Korvik the Cursed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

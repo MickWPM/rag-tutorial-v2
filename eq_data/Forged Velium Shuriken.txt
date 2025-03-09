@@ -1,0 +1,41 @@
+ITEM NAME: Forged Velium Shuriken
+
+Velious Era (added December 2000-2001)
+
+
+Forged Velium Shuriken
+
+
+MAGIC ITEM  QUEST ITEM  
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 24
+DMG: 5
+WT: 0.3  Range: 75  Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 104)
+ Yield:  x
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  1 x Sheet of Velium - Crafted
+  1 x Shuriken Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

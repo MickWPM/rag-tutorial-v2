@@ -1,0 +1,50 @@
+ITEM NAME: Lava Rock
+
+
+Lava Rock
+
+
+MAGIC ITEM  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire elemental
+
+Nagafen's Lair
+
+ fire giant warrior
+ fire giant wizard
+ King Tranix
+ Magi Rokyl
+
+Skyfire Mountains
+
+ a mature wyvern
+ a wyvern
+ an elder wyvern
+
+Najena
+
+ a fire elemental
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Earthen Temper (Trivial: 135)
+
+
+
+
+

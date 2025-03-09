@@ -1,0 +1,32 @@
+ITEM NAME: Dull Bone Key
+
+
+
+Dull Bone Key
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This key is necessary to open the second door to Rathyl, once you are in the room in the basement which requires the Shiny Metal Key (off of the Ogre Guard Captain - I believe). Oddly enough, the Dull Bone and the Bloodstained keys both also drop off of the Magicians in the Shiny Metal key room. 
+Other keys in Najena: Guard's Keyring and Golden Crescent Key. 
+
+  Drops From 
+Najena
+
+ BoneCracker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Large Patchwork Pants
+
+Were you looking for Patchwork Armor Set? Were you looking for Small Patchwork Armor Set?
+
+Large Patchwork Pants
+
+
+QUEST ITEM
+Slot: LEGS
+AC: 4
+WT: 5.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+Part of the Large Patchwork Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cindl's Polar Bear Collection
+
+  Player crafted 
+ Tailoring (Trivial: 26) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

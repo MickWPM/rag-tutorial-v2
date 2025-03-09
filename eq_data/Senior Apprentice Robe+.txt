@@ -1,0 +1,49 @@
+ITEM NAME: Senior Apprentice Robe*
+
+
+
+Senior Apprentice Robe*
+
+
+MAGIC ITEM LORE ITEM
+Slot: CHEST
+AC: 6
+MANA: +2
+WT: 0.7 Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF
+
+
+ Item Lore (from Identify):  Heretics' Guild Robe 
+
+  Drops From 
+Toxxulia Forest
+
+ Talrigar Eklorin
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

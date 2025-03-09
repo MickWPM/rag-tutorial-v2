@@ -1,0 +1,44 @@
+ITEM NAME: A Mancatcher Crown
+
+
+
+A Mancatcher Crown
+
+
+LORE ITEM
+WT: 8.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Weaponsmith Grugl
+
+
+
+  (-432, -33)
+
+  Related quests 
+ Warrior Pike #5 (Legionnaire's Mancatcher)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

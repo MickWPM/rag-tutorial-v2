@@ -1,0 +1,44 @@
+ITEM NAME: Imbued Ogre War Mace
+
+
+
+Imbued Ogre War Mace
+
+
+MAGIC ITEM
+Slot: RANGE PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 40
+DMG: 10
+STR: +4
+WT: 10.0  Range: 40  Size: MEDIUM
+Class: WAR SHD BRD ROG SHM
+Race: ALL except ERU HIE
+Deity: Rallos Zek / Cazic Thule
+
+
+Two different items exist with the same name, with different deity restrictions. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 190)
+ Yield:  x
+ In Oggok Forge:
+
+
+  1 x Blood Temper - Crafted
+  1 x Imbued Jade (Rallos Zek) or Imbued Amber (Cazic Thule) - Summoned
+  1 x Mace Head Mold - Bought
+  1 x Oak Shaft - Bought
+  1 x Sheet of Adamantite - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

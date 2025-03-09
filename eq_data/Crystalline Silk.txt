@@ -1,0 +1,68 @@
+ITEM NAME: Crystalline Silk
+
+Velious Era (added December 2000-2001)
+
+
+
+Crystalline Silk
+
+
+MAGIC ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Crystal cavern spiders will drop 0-3 silks, 1 each being the average. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 4 Silvers
+ 8 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a crystal crawler
+ a crystal spider
+ a crystal webmaster
+ A drachnid retainer
+
+Thurgadin
+
+ a crystal spider
+
+Velketor's Labyrinth
+
+ a blizzard hunter
+ a blizzard spider
+ a crystalline hunter
+ a crystalline watcher
+ a shard spider
+ a velium hunter
+ Crystal Fang
+ The Brood Master
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+
+ Crystalline Silk Swatch
+ Crystalline Silk Mesh
+
+
+ Pottery
+
+ Unfired Velium Vial
+
+
+
+
+

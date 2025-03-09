@@ -1,0 +1,73 @@
+ITEM NAME: Mythril Edged Skull Splitter
+
+Velious Era (added December 2000-2001)
+Mythril Edged Skull Splitter
+
+
+MAGIC ITEM LORE ITEM
+Slot: PRIMARY
+Skill: 2H Slashing Atk Delay: 45
+DMG: 33
+STR: +3 DEX: +3 AGI: +3
+SV DISEASE: +4 SV COLD: +4 SV MAGIC: +4
+WT: 8.5 Size: MEDIUM
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+Later renamed "Mithril Edged Skull Splitter" 
+
+  Drops From 
+Skyshrine
+
+ A Shambling Cube
+ Dalshim Fe`Dhar
+ Deoryn Fe`Dhar
+ Dygwyn Fe`Dhar
+ Dyr Fe`Dhar
+ Elder Hajnix
+ Elder Kajind
+ Elder Kalur
+ Eldriaks Fe`Dhar
+ Elyshum Fe`Dhar
+ Glydoc Fe`Dhar
+ Jualicn
+ Jaelk
+ Kalacs Fe`Dhar
+ Laoch Ealkiq
+ Laoch Zalbryn
+ Lararith
+ Lawyla
+ Lignark
+ Medry Fe`Dhar
+ Morachii Fe`Dhar
+ Oct Velic
+ Oglard
+ Placlis
+ Poalgin Fe`Dhar
+ Qalcnic Fe`Dhar
+ Quadrix Velic
+ Ralgyn
+ Riran Fe`Dhar
+ Taegria Fe`Dhar
+ Talgixn Fe`Dhar
+ Talnifs
+ Talon Velic
+ Tonvan Fe`Dhar
+ Tri Velic
+ Tyddyn Fe`Dhar
+ Vellyn Fe`Dhar
+ Vobryn Fe`Dhar
+ Zaldin Fe`Dhar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

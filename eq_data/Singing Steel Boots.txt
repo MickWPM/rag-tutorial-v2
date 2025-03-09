@@ -1,0 +1,37 @@
+ITEM NAME: Singing Steel Boots
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Singing Steel Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 21
+Effect:  Agilmente's Aria of Eagles (Must Equip, Casting Time: 3.5) at Level 45
+WT: 6.5  Size: MEDIUM
+Class: BRD
+Race: HUM ELF HEF
+
+
+The clicky version of this song lasts just under 5 minutes (seems to be 1 tick less than 5 minutes, in limited testing, lev dropped between 4m55s and 4m58s, but definitely varied between castings). Works with target group buff once that era is reached. Formerly, Summon Food was the effect. Summon Drink is the initial effect on green server. 
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg bodyguard
+ a drolvarg guardian
+ a drolvarg sentry
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

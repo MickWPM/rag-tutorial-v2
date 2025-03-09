@@ -1,0 +1,37 @@
+ITEM NAME: Chilled Scythe
+
+Velious Era (added December 2000-2001)
+
+Chilled Scythe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 48
+DMG: 23 
+STR: +4  DEX: +4  HP: +15  MANA: +20
+SV COLD: +20
+Effect: Shock of Frost (Combat, Casting Time: Instant) at Level 33
+WT: 1.0  Size: LARGE
+Class: WAR SHD NEC
+Race: ERU DEF TRL OGR GNM IKS
+
+
+ Item Lore (from Identify): Velium edged steel scythe 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an enraged shadow beast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

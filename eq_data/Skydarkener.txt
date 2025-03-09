@@ -1,0 +1,35 @@
+ITEM NAME: Skydarkener
+
+Velious Era (added December 2000-2001)
+Skydarkener
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+Skill: Archery  Atk Delay: 44
+DMG: 28
+DEX: +5  WIS: +5  MANA: +40
+Effect: Lightning Strike (Combat, Casting Time: Instant) at Level 35
+WT: 4.0  Range: 150  Size: MEDIUM
+Class: PAL RNG SHD
+Race: ALL
+
+
+ Item Lore (from Identify): Bow of the Relentless Storm 
+
+  Drops From 
+The Wakening Land
+
+ Wuoshi
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Moonlight Temper
+
+
+
+Moonlight Temper
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 135)
+ Yield: Moonlight Temper x1
+ In Brewing Barrel:
+
+
+  2 x Essence of Moonlight - Dropped
+  1 x Morning Dew - Foraged, Dropped, Ground Spawn
+  1 x Swirling Mist - Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Highelf Cultural Smithing (Trivial: Various)
+
+
+
+
+

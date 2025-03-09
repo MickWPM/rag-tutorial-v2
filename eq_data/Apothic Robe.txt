@@ -1,0 +1,33 @@
+ITEM NAME: Apothic Robe
+
+ 
+Apothic Robe
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 11
+DEX: +5  STA: +12  INT: +14  MANA: +40
+WT: 1.0  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a forsaken revenant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

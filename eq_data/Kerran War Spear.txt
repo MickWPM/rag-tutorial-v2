@@ -1,0 +1,34 @@
+ITEM NAME: Kerran War Spear
+
+Classic Era (added 1999-2000)
+
+Kerran War Spear
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 34
+DMG: 8 
+WT: 5.0  Size: LARGE
+Class: WAR RNG BRD SHM
+Race: ALL
+
+
+Vendors for around 40p 
+
+  Drops From 
+Kerra Isle
+
+ The Kerran Sha`rr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

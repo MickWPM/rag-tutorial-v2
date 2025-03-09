@@ -1,0 +1,36 @@
+ITEM NAME: Gunthak Scimitar
+
+Kunark Era (added 2000)
+
+
+Gunthak Scimitar
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 5 
+Poison DMG: 1
+SV POISON: +5
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Timorous Deep
+
+ a gunthak pirate
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Sarnak Liberator
+
+Kunark Era (added 2000)
+
+Sarnak Liberator
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 39
+DMG: 6 
+Effect:  Spirit Strike (Combat, Casting Time: Instant) at Level 20
+WT: 4.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+The flunkie that drops it will appear to have it equipped. Confirmed still dropping as of September 14th, 2023 (updated) off of flunkie in Lake of Ill Omen. May later stop dropping. 
+[1]. Confirmed still dropping February 9th, 2024. 
+
+  Drops From 
+The Overthere
+
+ a Sarnak flunkie
+
+Lake of Ill Omen
+
+ a Sarnak flunkie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

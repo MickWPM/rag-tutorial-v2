@@ -1,0 +1,106 @@
+ITEM NAME: Pirate Grammar Manual
+
+Velious Era (added December 2000-2001)
+
+
+Pirate Grammar Manual
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Grammar Manual 
+
+  Book contents 
+By Captain Nalot
+This here be a book about how ta talk like a pirate.
+I read some books so I be knowin what Im sayin.
+First ya use mate fer friend.
+Ya say ahoy, not hello.
+Landlubber is anyone not one o us.
+If anyone insults ya call im a scurvy dog and thats that.
+Thats how ya talk like a pirate.
+Use the rest o these words a lot fer color n such.
+
+Chapter A
+Ahoy (hello)
+Avast (might be like a vase)
+Aye (yes)
+
+Chapter B
+Barnacle (bad stuff fer ships)
+Bonny (pretty)
+Bosun (I dunno, some job Ami does)
+Buccaneer (pirates like us)
+Bunk (bed)
+
+Chapter C
+Cove (uh, a cave I think)
+Crows Nest (dunno)
+
+Chapter D to F
+There aint any
+
+Chapter G
+Galley (name fer women)
+Gar! (arrr!)
+Grog (some ogre I think)
+Grub (friend o that ogre)
+
+Chapter H
+Hoist (lift)
+
+Chapter I
+There aint any
+
+Chapter J
+Jolly Roger (me old friend Roger)
+
+Chapter K
+There aint any
+
+Chapter L
+Landlubber (anyone not one o us)
+Lass (Madan)
+
+Chapter M
+Maroon (color fer our flag)
+Matey (friend)
+Mizzenmast (mast of mizzen)
+
+Chapter N to O
+There aint any
+
+Chapter R
+Rum (you know what that is mates)
+
+Chapter S
+Sails (the cloth things)
+Scallywag (insult)
+Scalded (like a dog)
+Scrimshaw (made o bone)
+Scurvy (use with seadog)
+Seadog (insult)
+Shiver me timbers (har har)
+Swabbie (thats Tsilos' job)
+
+Chapter T
+Thar (there)
+
+There aint no more so stop readin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

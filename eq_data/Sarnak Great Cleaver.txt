@@ -1,0 +1,42 @@
+ITEM NAME: Sarnak Great Cleaver
+
+
+Sarnak Great Cleaver
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 48
+DMG: 12 
+STR: +5
+WT: 8.5  Size: LARGE
+Class: WAR
+Race: ALL
+
+
+ Item Lore (from Identify):  Sarnak Great Cleaver 
+
+ Merchant resale value: VALUE TO VENDOR with CHA :65 and faction at Indifferent
+
+ 9 Platinums
+ 3 Golds
+ 2 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak recruit
+ a Sarnak legionnaire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

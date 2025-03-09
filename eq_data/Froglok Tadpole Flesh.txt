@@ -1,0 +1,46 @@
+ITEM NAME: Froglok Tadpole Flesh
+
+Classic Era (added 1999-2000)
+
+
+Froglok Tadpole Flesh
+
+
+QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Feerrott
+
+ a froglok tad
+
+Innothule Swamp
+
+ a froglok tad
+
+Swamp of No Hope
+
+ a froglok tad
+
+Upper Guk
+
+ a froglok tad
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Froglock Tadpole Fleshies
+ Ranjor's Test
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

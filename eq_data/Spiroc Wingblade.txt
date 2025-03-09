@@ -1,0 +1,35 @@
+ITEM NAME: Spiroc Wingblade
+
+
+Spiroc Wingblade
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 38
+DMG: 15 
+Effect:  Invigor (Combat, Casting Time: Instant) at Level 45
+WT: 10.0  Size: MEDIUM
+Class: WAR RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

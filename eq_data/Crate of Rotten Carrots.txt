@@ -1,0 +1,30 @@
+ITEM NAME: Crate of Rotten Carrots
+
+
+
+Crate of Rotten Carrots
+
+
+LORE ITEM
+CHA: -1
+WT: 15.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reebo's Carrots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Grey Suede Boots
+
+Kunark Era (added 2000)
+ Iksar Monk wearing Grey Suede Boots.
+Grey Suede Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 12
+STR: +8  AGI: +8  HP: +25
+SV COLD: +10  SV POISON: +10
+Haste: +41%  
+WT: 0.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Hoshkar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

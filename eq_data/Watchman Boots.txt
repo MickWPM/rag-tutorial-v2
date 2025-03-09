@@ -1,0 +1,34 @@
+ITEM NAME: Watchman Boots
+
+Classic Era (added 1999-2000)
+
+Watchman Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+Charges: 1
+AC: 5
+STA: +5
+Effect:  Spirit of Wolf (Must Equip, Casting Time: Instant) at Level 10
+WT: 6.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tiny Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

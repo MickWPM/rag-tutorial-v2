@@ -1,0 +1,35 @@
+ITEM NAME: Blessed Ring of Nife
+
+GM Event item (info)
+
+
+Blessed Ring of Nife
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+Charges: 1
+AC: 1
+WIS: +2
+Effect: Greater Healing (Must Equip, Casting Time: 0.1)
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Unconfirmed if this exists on p1999 (removed at some point on live).[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Blessed Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

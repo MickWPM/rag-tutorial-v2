@@ -1,0 +1,35 @@
+ITEM NAME: Zephyrwind
+
+Sky Era (added January 2000)
+
+
+Zephyrwind
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 26
+DMG: 19 
+WIS: +5
+Effect:  Dismiss Summoned (Combat, Casting Time: Instant) at Level 45
+WT: 3.0  Size: MEDIUM
+Class: PAL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Plane of Sky Tests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Seal of Thoridain
+
+Velious Era (added December 2000-2001)
+
+
+Seal of Thoridain
+
+
+MAGIC ITEM LORE ITEM NO DROP
+Slot: RANGE
+AC: 3
+WIS: +3  INT: +3 MANA: +30
+SV COLD: +3  SV MAGIC: +3
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: This is obtained from a subquest for the third coldain shawl. It is possible to acquire it without doing the previous two shawl quests as long as the character has sufficient baking skill to complete it. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Coldain Skin Gloves
+
+Velious Era (added December 2000-2001)
+
+Coldain Skin Gloves
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 12
+STA: +9  WIS: +6  INT: +6  HP: +20  MANA: +20
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Yetarr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tiny Savages
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

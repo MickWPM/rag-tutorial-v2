@@ -1,0 +1,37 @@
+ITEM NAME: Sly Summoners Pants
+
+Velious Era (added December 2000-2001)
+
+
+Sly Summoners Pants
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 10
+STA: +10  INT: +10  AGI: +10  HP: +20  MANA: +20
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.5  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Ebonsting
+
+Sky Era (added January 2000)
+
+
+Ebonsting
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 20
+DMG: 11 
+DEX: +5  AGI: +5  HP: +5
+Effect:  Project Lightning (Combat, Casting Time: Instant) at Level 45
+WT: 2.0  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+Pre-upgrade PoS quest reward, replaced by Thornstinger. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Deception
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

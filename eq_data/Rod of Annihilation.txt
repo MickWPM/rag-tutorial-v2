@@ -1,0 +1,38 @@
+ITEM NAME: Rod of Annihilation
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Rod of Annihilation
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE PRIMARY
+Skill: 1H Blunt  Atk Delay: 40
+DMG: 60 
+INT: -50
+SV MAGIC: +10
+WT: 5.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+NO LONGER DROPS ON P99! Caster classes now have a weapon damage cap of 40.  Making the actual ratio of this weapon 40dmg/40delay at level 60. 
+Edit:[Fri May 05 15:31:45 2023] You crush a crystalline devourer for 119 points of damage. 
+
+  Drops From 
+Old Sebilis
+
+ crypt caretaker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

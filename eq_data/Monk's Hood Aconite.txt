@@ -1,0 +1,39 @@
+ITEM NAME: Monk's Hood Aconite
+
+Classic Era (added 1999-2000)
+
+
+Monk's Hood Aconite
+
+
+QUEST ITEM
+Effect: Weakening Poison III (Combat, Casting Time: Instant) at Level 30
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 194)
+ Yield: Monk's Hood Aconite x1
+ In Mortar and Pestle:
+
+
+  1 x Larent Suspension - Bought
+  1 x Sealed Poison Vial - Crafted, Bought, Returned on Failure
+  2 x Wolves Bane - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Totem of the Wizened Spirits
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Totem of the Wizened Spirits
+
+
+MAGIC ITEM
+Slot: RANGE
+WIS: +6
+MANA: +10
+WT: 2.0  Size: TINY
+Class: CLR DRU SHM ENC MAG NEC WIZ
+Race: ALL
+
+
+No longer drops. (removed as per the classic timeline on 4/17/11 patch) - replaced with Totem of the Warrior Spirit
+Ceases to drop 1 month into Kunark. 
+
+  Drops From 
+Warsliks Woods
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

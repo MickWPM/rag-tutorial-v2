@@ -1,0 +1,64 @@
+ITEM NAME: Words of Grappling
+
+
+Words of Grappling
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 2p 3g 3s 5c 
+
+  Drops From 
+Howling Stones
+
+ a bile golem
+ a sepulcher skeleton
+
+Kedge Keep
+
+ Estrella of Gloomwater
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Ocean of Tears
+
+ Allizewsaur
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ Amygdalan knight
+ Amygdalan warrior
+ phoboplasm
+
+Plane of Hate
+
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+Timorous Deep
+
+a Vicious Raptor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Bond of Death (Trivial: 184) (Research Only)
+
+
+
+
+

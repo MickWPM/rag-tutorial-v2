@@ -1,0 +1,36 @@
+ITEM NAME: Gargantuan Panda Pelt
+
+Stonebrunt Era (added summer 2001)
+
+
+Gargantuan Panda Pelt
+
+
+MAGIC ITEM  NO DROP
+Slot: BACK
+AC: 3
+STR: +2  DEX: +1
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ Giang Yin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Titan Samples (good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

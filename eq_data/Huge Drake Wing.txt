@@ -1,0 +1,33 @@
+ITEM NAME: Huge Drake Wing
+
+Velious Era (added December 2000-2001)
+
+Huge Drake Wing
+
+
+LORE ITEM  NO DROP
+WT: 7.5  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Tranala
+ Travala (?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Pirate Ship
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

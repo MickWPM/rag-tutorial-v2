@@ -1,0 +1,34 @@
+ITEM NAME: Runed Cowl
+
+Classic Era (added 1999-2000)
+
+Runed Cowl
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 2
+WIS: +5  INT: +9
+WT: 0.3  Size: SMALL
+Class: BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Lower Guk
+
+ a ghoul sage
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

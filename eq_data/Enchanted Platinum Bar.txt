@@ -1,0 +1,31 @@
+ITEM NAME: Enchanted Platinum Bar
+
+
+Enchanted Platinum Bar
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+An enchanter casts Enchant Platinum, consuming one Platinum Bar from inventory, and creating an enchanted platinum bar on the cursor. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bones of Darak Lightforge
+ Child of Innoruuk
+ Darkforge Armor Quests
+ Armor of Ro Quests
+ Armor of the Priest Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

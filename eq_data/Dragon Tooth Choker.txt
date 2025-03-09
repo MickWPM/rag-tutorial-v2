@@ -1,0 +1,35 @@
+ITEM NAME: Dragon Tooth Choker
+
+Velious Era (added December 2000-2001)
+
+Dragon Tooth Choker
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD NECK
+Charges: 4
+AC: 8
+STR: +5  HP: +30
+SV FIRE: +10  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Shieldskin (Any Slot, Casting Time: Instant)
+WT: 0.9  Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+This item can not be sold to NPC merchants, so sadly you can't recharge it. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Friend of the Kin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

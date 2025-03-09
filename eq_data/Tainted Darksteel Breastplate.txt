@@ -1,0 +1,35 @@
+ITEM NAME: Tainted Darksteel Breastplate
+
+Epic Quests Era (added Sept 2000)
+
+Tainted Darksteel Breastplate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 10
+WT: 10.0  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+ Item Lore (from Identify): glowing sickly green 
+
+  Drops From 
+Plane of Hate
+
+ thought destroyer
+ thought corruptor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

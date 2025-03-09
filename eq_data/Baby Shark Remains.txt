@@ -1,0 +1,32 @@
+ITEM NAME: Baby Shark Remains
+
+
+
+Baby Shark Remains
+
+
+NO DROP
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Erudin
+
+ a young shark
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Barnacle Breastplate Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

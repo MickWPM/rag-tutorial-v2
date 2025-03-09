@@ -1,0 +1,29 @@
+ITEM NAME: Summoned: Halo of Light
+
+Classic Era (added 1999-2000)
+Summoned: Halo of Light
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  TEMPORARY
+Slot: HEAD
+AC: 3
+WT: 0.1  Size: SMALL
+Class: CLR PAL DRU WIZ ENC
+Race: ALL
+
+
+Summoned with the Halo of Light spell. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

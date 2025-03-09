@@ -1,0 +1,34 @@
+ITEM NAME: Velishoul's Tome Pg. 108 (Faded)
+
+
+
+Velishoul's Tome Pg. 109
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Various Zones
+
+ Level Appropriate Mobs
+ Identifies as Velishoul's Tome Pg. 109
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Feedback (Trivial: 82)
+
+
+
+
+

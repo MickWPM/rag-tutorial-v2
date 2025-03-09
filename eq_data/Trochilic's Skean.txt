@@ -1,0 +1,36 @@
+ITEM NAME: Trochilic's Skean
+
+Epic Quests Era (added Sept 2000)
+
+Trochilic's Skean
+
+
+MAGIC ITEM  LORE ITEM NODROP
+Slot: SECONDARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 10 
+SV POISON: +5
+Effect: Clockwork Poison (Combat) at level 46
+WT: 3.5 Size: MEDIUM
+Class: WAR RNG BRD ROG
+Race: ALL 
+
+
+ Item Lore (from Identify): Trochilic's Stolen Experiment 
+
+  Drops From 
+Steamfont Mountains
+
+ Renux Herkanor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

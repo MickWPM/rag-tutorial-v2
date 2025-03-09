@@ -1,0 +1,34 @@
+ITEM NAME: Fingerbone Necklace
+
+Velious Era (added December 2000-2001)
+
+Fingerbone Necklace
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 2
+DEX: +3  WIS: +3  AGI: +3
+WT: 0.1  Size: TINY
+Class: WAR SHD MNK BRD ROG SHM
+Race: ALL except HIE DWF HFL
+
+
+ Item Lore (from Identify): Made of gnome fingers 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ maggot infested flesh
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

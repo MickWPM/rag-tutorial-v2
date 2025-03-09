@@ -1,0 +1,38 @@
+ITEM NAME: Velium Knuckledusters
+
+Velious Era (added December 2000-2001)
+
+
+
+Velium Knuckledusters
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 10 
+WT: 1.0  Size: TINY
+Class: WAR MNK ROG
+Race: ALL except ERU HIE
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Paebala Rebel
+ a Paebala Spirit Talker
+ a Paebala warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

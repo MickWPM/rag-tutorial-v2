@@ -1,0 +1,39 @@
+ITEM NAME: Shroud of Longevity
+
+Velious Era (added December 2000-2001) Blue Server First Shroud of Longevity - Hokushin <Rampage>
+ Red Server First Shroud of Longevity - Gongshow <Empire>
+ Green Server First Shroud of Longevity - Marshel, Quicken, Carceret <Seal Team>
+
+
+Shroud of Longevity
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 20
+STR: +15  STA: +20  AGI: +15  HP: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Fungal Regrowth (Worn)  
+WT: 0.1  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+See Discussion for ownership. 
+
+  Drops From 
+Sleeper's Tomb
+
+ Ventani the Warder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

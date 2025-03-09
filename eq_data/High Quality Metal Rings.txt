@@ -1,0 +1,39 @@
+ITEM NAME: High Quality Metal Rings
+
+
+
+High Quality Metal Rings
+
+
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 46)
+ Yield: High Quality Metal Rings x2
+ In Forge:
+
+
+  1 x File - Crafted, Returned on Failure, Returned on Success
+  1 x Large Brick of High Quality Ore - Crafted, Bought, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Ornate Chain Armor (Trivial: ?)
+
+
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Green Resistance Stone
+
+Velious Era (added December 2000-2001)
+Green Resistance Stone
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+AC: 1
+STR: +1  DEX: +1  STA: +1  CHA: +1  WIS: +1  INT: +1  AGI: +1
+SV POISON: +35
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Sleeper's Tomb
+
+ Ventani the Warder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,49 @@
+ITEM NAME: Ogre Head
+
+Classic Era (added 1999-2000)
+Ogre Head
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Corfunk's Head
+ Item Lore (from Identify):  Zarchoomi's Head
+ Item Lore (from Identify):  Boog's Head
+ Item Lore (from Identify):  Goob's Head
+ Item Lore (from Identify):  Pungla's Head
+Note: There are five different "Ogre Heads" with the same item name (use Identify to tell them apart). 
+
+  Drops From 
+Butcherblock Mountains
+
+ Corflunk (Corflunk's Head)
+ Zarchoomi (Zarchoomi's Head)
+
+Ocean of Tears
+
+ Boog Mudtoe (Boog's Head)
+ Goob Mudtoe (Goob's Head)
+
+Neriak Foreign Quarter
+
+ Pungla (Pungla's Head)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Miners Pick (Boog's Head)
+ The Mudtoes (Boog's Head and Goob's Head)
+ Clurg's Revenge (Pungla's Head)
+ Ogre Heads (Corflunk's Head and Zarchoomi's Head)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

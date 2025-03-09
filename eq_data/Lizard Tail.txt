@@ -1,0 +1,51 @@
+ITEM NAME: Lizard Tail
+
+Classic Era (added 1999-2000)
+
+
+Lizard Tail
+
+
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 0 Golds
+ 5 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Rathe Mountains
+
+ a lizard man guard
+ a lizard man scout
+ a lizardman mystic
+ a lizardman robber
+ a lizardman warrior
+
+The Feerrott
+
+ a lizardman mystic
+ lizard man broodling
+ a lizardman huntsman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lizard Tails
+ Lizard Tails No 2
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+
+
+
+

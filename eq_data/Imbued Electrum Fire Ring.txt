@@ -1,0 +1,40 @@
+ITEM NAME: Imbued Electrum Fire Ring
+
+
+
+Imbued Electrum Fire Ring
+
+
+Slot: FINGER
+AC: 2
+STR: -4  INT: +4  HP: +10  MANA: +25
+SV FIRE: +2
+WT: 0.1  Size: TINY
+Class: BRD WIZ
+Race: HUM ERU ELF HIE DEF HEF GNM
+Deity: Solusek Ro
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Electrum Fire Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Electrum Bar - Summoned
+  1 x Imbued Fire Opal - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

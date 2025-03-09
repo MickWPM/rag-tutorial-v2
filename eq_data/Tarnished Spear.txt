@@ -1,0 +1,39 @@
+ITEM NAME: Tarnished Spear
+
+Classic Era (added 1999-2000)
+
+
+Tarnished Spear
+
+
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 36
+DMG: 5 
+WT: 7.0  Size: LARGE
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 22)
+ Yield: Tarnished Spear x1
+ In Forge:
+
+
+  1 x Rusty Spear - Bought, Quested, Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

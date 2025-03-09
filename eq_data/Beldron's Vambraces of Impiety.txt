@@ -1,0 +1,35 @@
+ITEM NAME: Beldron's Vambraces of Impiety
+
+Velious Era (added December 2000-2001)
+
+
+Beldron's Vambraces of Impiety
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 35
+STR: +10  HP: +50
+SV MAGIC: +10
+WT: 5.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Feshlak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Ssaul with Beldron's Vambraces Rikyr Williamt with Beldron's Vambraces
+

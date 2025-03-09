@@ -1,0 +1,35 @@
+ITEM NAME: Darksea Harpoon
+
+
+Darksea Harpoon
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 28
+DMG: 10 
+STR: +5  WIS: +5  MANA: +20
+SV DISEASE: +5
+WT: 7.0  Size: LARGE
+Class: SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kedge Keep
+
+ a fierce impaler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

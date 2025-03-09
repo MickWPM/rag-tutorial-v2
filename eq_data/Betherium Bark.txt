@@ -1,0 +1,61 @@
+ITEM NAME: Betherium Bark
+
+
+
+Betherium Bark
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Klok Greyscale
+
+
+
+  (389, 525)
+
+
+ Halas??
+
+  Need
+
+
+
+
+
+
+ Innothule Swamp
+
+ Clork
+
+
+
+  (1165, 549)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+
+
+
+

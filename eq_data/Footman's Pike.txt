@@ -1,0 +1,42 @@
+ITEM NAME: Footman's Pike
+
+
+
+Footman's Pike
+
+
+LORE ITEM  NO DROP
+Slot: BACK PRIMARY
+Skill: Piercing  Atk Delay: 46
+DMG: 10   AC: 3
+WT: 13.5  Size: GIANT
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #3 (Soldier's Pike)
+ Warrior Pike #2 (Footman's Pike)
+
+  Player crafted 
+ Blacksmithing (Trivial: 62)
+ Yield: Footman's Pike x1
+ In Forge:
+
+
+  1 x Footman's Pike Head - Crafted
+  1 x Forging Hammer - Bought, Dropped, Returned on Failure, Returned on Success
+  1 x Iron Rod - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

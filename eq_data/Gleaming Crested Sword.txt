@@ -1,0 +1,31 @@
+ITEM NAME: Gleaming Crested Sword
+
+Epic Quests Era (added Sept 2000)
+Gleaming Crested Sword
+
+
+Slot: PRIMARY
+Skill: 1H Slashing Atk Delay: 30
+DMG: 10 AC: 5
+STR: +5
+WT: 5.0 Size: MEDIUM
+Class: PAL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

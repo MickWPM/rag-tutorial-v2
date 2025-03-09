@@ -1,0 +1,100 @@
+ITEM NAME: Miners Guide to Toxicology
+
+
+
+Miners Guide to Toxicology
+
+
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Kaladim
+
+ Myre
+
+
+
+  (570, 225)
+
+
+ The Overthere
+
+ Tin Merchant IV
+
+
+
+  (2647, 2525)
+
+
+ Skyshrine
+
+ Barkeep Draven
+
+
+
+  (496, -735)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Miner Maters Guide to Mineral Toxicology
+WHITE LEAD
+By combining LIMESTONE found on the coastal edge of the
+Butcherblock Mountains with LEAD SULPHIDES I have created
+a White Lead powder. Prolonged contact with one's
+skin will begin to absorb the powder and cause severe pain
+in the back and kidneys. Brell save the poor dwarf who
+suffers from this malady thus ending his days of mining and
+enjoying good Dwarven Ale.
+LEAD PEROXIDE
+This lead powder was discovered by a fortunate
+accident. While experimenting with LEAD SULPHIDES I spilled
+a bit of my favorite dwarven brew, the TUMPY TONIC into my
+mortar and pestle. Much to my surprise the result was a
+yellow lead that is absorbed through the flesh and attacks
+the bloodstream much quicker than other forms of lead. The
+results of contact with this toxin are severe head pains
+and nervous agitation.
+IRON SULPHIDE
+While visiting a gnomish acquaintance of mine dabbling
+in the same field of research I was shown a marvelous ore
+indigenous to the Steamfont Mountains called Brimstone.
+By combining some BRIMSTONE with two SMALL PIECES OF ORE
+I discovered a substance that if inhaled will deaden the
+sense of smell. If ingested or introduced into the blood
+stream iron sulphide causes extreme body-wide pain that
+has been described as feeling as if your very blood is on
+fire.
+QUICKSILVER
+Of all the metals I have come across in my studies the
+liquid metal Quicksilver is the most toxic. Strangely
+the Kobolds were the first to begin using Quicksilver by
+ingesting Cinnabar, the ore that Quicksilver is found in.
+The beasts believe that it is a cure for disease and
+fungal infections. In order to extract Quicksilver from
+the ore the CINNABAR must be ground in a mortar and pestle
+then distilled. The most effective way I have found of
+distilling the cinnabar is soaking it in GNOMISH SPIRITS.
+The result is a dense silvery liquid metal that corrodes
+organic materials, including flesh and internal organs.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

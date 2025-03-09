@@ -1,0 +1,45 @@
+ITEM NAME: Goblin Skull Crusher
+
+Kunark Era (added 2000)
+
+Goblin Skull Crusher
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 32
+DMG: 7 
+SV COLD: +6
+Effect:  Stun (Combat, Casting Time: Instant) at Level 15
+WT: 4.3  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD SHM
+Race: ALL
+
+
+
+ Merchant resale value: 1.2p 
+
+  Drops From 
+Burning Woods
+
+ a sarnak knight
+
+Lake of Ill Omen
+
+ a Sarnak dragoon
+
+The Overthere
+
+ a Sarnak knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Imbued Golden Rose Amulet
+
+
+
+Imbued Golden Rose Amulet
+
+
+MAGIC ITEM 
+Slot: NECK
+STA: -2 WIS: +4 INT: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Erollisi Marr
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: )
+ Imbued Golden Rose Amulet x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Gold Bar - Summoned
+  1 x Imbued Rose Quartz - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

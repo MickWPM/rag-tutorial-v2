@@ -1,0 +1,35 @@
+ITEM NAME: Sarnak Backstabber
+
+Chardok Revamp Era (added late 2001)
+
+Sarnak Backstabber
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 20
+DMG: 10 
+STR: +5  STA: +5  HP: +10
+WT: 1.5  Size: SMALL
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Overseer Dal`guur
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

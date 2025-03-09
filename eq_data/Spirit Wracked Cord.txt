@@ -1,0 +1,41 @@
+ITEM NAME: Spirit Wracked Cord
+
+Chardok Revamp Era (added late 2001)
+
+ Project1999 Server first spirit wracked cords - Awfal (Red Server), Detoxx (Blue Server), Yuuta (Green Server) 
+Spirit Wracked Cord
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS ARMS WRIST
+AC: 12
+STA: +5  HP: +100
+SV COLD: +10  SV MAGIC: +5
+Effect: Aura of Battle (Worn) 
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used to drop from Grand Lorekeeper Kino Shai`din, but now only quested. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ #1 Di'Zok Signet of Service Quest
+ #2 Regal Band of Bathezid Quest
+ #3 Spirit Wracked Cord Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ 
+  Additional Images 
+
+
+

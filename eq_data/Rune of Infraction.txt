@@ -1,0 +1,75 @@
+ITEM NAME: Rune of Infraction
+
+
+Rune of Infraction
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players.  This rune is used along with Rune of Al'Kabor and Rune of the Helix to create Force Spiral of Al'Kabor.  Since the Al'Kabor line is not considered usable, this spell is not important beyond completing your spellbook. 
+
+  Drops From 
+Burning Woods
+
+ a sarnak extremist
+
+City of Mist
+
+ a phantom
+
+Dreadlands
+
+ a drolvarg rager
+ a glacier yeti
+ a plaguebone thief
+
+Eastern Wastes
+
+ a manticore
+ a wooly rhino
+
+Karnor's Castle
+
+ a drolvarg sentry
+ decayed kylong Iksar
+ spectral knight
+
+Lake Rathetear
+
+ Lord Bergurgle
+
+Nagafen's Lair
+
+ lava beetle
+
+Ocean of Tears
+
+ a seafury cyclops
+
+The Feerrott
+
+ a spectre
+
+The Hole
+
+ an elemental crusader
+ an elemental warrior
+
+The Wakening Land
+
+ a holgresh conjurer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

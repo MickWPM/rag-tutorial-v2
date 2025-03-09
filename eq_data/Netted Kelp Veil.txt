@@ -1,0 +1,41 @@
+ITEM NAME: Netted Kelp Veil
+
+Velious Era (added December 2000-2001)
+
+
+
+Netted Kelp Veil
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 4
+STR: +1  STA: +3  CHA: -3  INT: +3
+SV FIRE: +2
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad maiden
+ a neriad mistress
+ a neriad sea princess
+ an enthralled molkor
+ an enthralled ulthork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Inky Shadow Silk
+
+
+Inky Shadow Silk
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowbound Gloves
+
+  Player crafted 
+ Tailoring (Trivial: 36)
+1 x Shadow Wolf Pelt - Dropped from shadow wolves.
+1 x Silk Swatch - Crafted using two spider silk.
+2 x Spell: Gather Shadows - Bought. 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

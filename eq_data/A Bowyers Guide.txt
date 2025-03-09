@@ -1,0 +1,162 @@
+ITEM NAME: A Bowyers Guide
+
+
+
+A Bowyers Guide
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Gogon
+
+
+
+  (143, -204)
+
+
+ The Feerrott
+
+ Fugla
+
+
+
+  (975, 1267)
+
+
+ Firiona Vie
+
+ Jessica Winter
+
+
+
+  (-3426, 3310)
+
+
+ East Freeport
+
+ Winsa Tanner
+
+
+
+  (38, -539)
+
+
+ North Freeport
+
+ Timor Strongbranch
+
+
+
+  (-104, -57)
+
+
+ Greater Faydark
+
+ Merchant Sylnis
+
+
+
+  (-409, -519)
+
+
+ Iceclad Ocean
+
+ Sojan the Sleepless
+
+
+
+  (4539, 1269)
+
+
+ Neriak Commons
+
+ Dianax C`Luzz
+
+
+
+  (-147, -1064)
+
+
+ Surefall Glade
+
+ Tonsia
+
+
+
+  (125, -111)
+
+
+ Rivervale
+
+ Gerb Jinklebelly
+
+
+
+  (-211, -77)
+
+
+ Thurgadin
+
+ Argash
+
+
+
+  (-203, -298)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+BOWYERS GUIDE - FIFTH EDITION
+The art of the Bowyer, the maker of bows, is as ancient as the oldest of elves. This
+tome details the construction of bows, as well as providing information on the sister
+craft of Fletching.
+Bowyers and Fletchers both require a Fletching Kit to practice their trades.
+Fletching kits can be purchased from archery shops.
+BOWS
+There are four components to every bow.
+TOOLS
+The use of tools, while not necessary in the construction of a bow, helps to produce a premium product. A whittling
+blade will increase the	quality of your bow. A planing tool is superior to a whittling blade.
+STRING
+The most commonly used string is hemp twine. One step above hemp is linen string.
+Only the best bows are strung with silk.
+CAMS
+Most bows are not built with Cams. Composite bows use a series of one or two Cams.
+LUMBER
+The material that the bow is constructed from is directly proportional to the performance of the bow.
+List of wood, in order of difficulty and quality.
+
+ Hickory
+ Elm
+ Ash
+ Oak
+ Darkwood
+ Steel
+ Ceramic
+
+  See Also 
+ Player Tradeskill Fletching
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

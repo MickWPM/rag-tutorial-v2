@@ -1,0 +1,38 @@
+ITEM NAME: Spirit Weaver's Greaves
+
+Velious Era (added December 2000-2001)
+
+
+Spirit Weaver's Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 22
+STA: +3  WIS: +10  AGI: +5  HP: +30  MANA: +80
+Effect:  Abolish Disease (Must Equip, Casting Time: 11.0)
+WT: 6.0  Size: LARGE
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a serene forest spirit
+ Galiel Spirithoof
+ Undogo Digolo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

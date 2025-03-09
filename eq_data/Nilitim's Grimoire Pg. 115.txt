@@ -1,0 +1,72 @@
+ITEM NAME: Nilitim's Grimoire Pg. 115
+
+Classic Era (added 1999-2000)
+Nilitim's Grimoire Pg. 115
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 1p 1g 2s 1c 
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+ a tatterback ape
+
+City of Mist
+
+ a phantom
+ greater war boned skeleton
+
+Howling Stones
+
+ a sepulcher skeleton
+ an undead oblation
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ spectral knight
+
+Kedge Keep
+
+ a cauldron hammerhead
+
+Lesser Faydark
+
+ a brownie guard
+
+Permafrost
+
+ an ice giant
+
+The Wakening Land
+
+ A Faerie Dragon
+ an elder holgresh
+
+Timorous Deep
+
+ a Raptor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Color Skew (Trivial: 162)(Research Only)
+
+
+
+
+

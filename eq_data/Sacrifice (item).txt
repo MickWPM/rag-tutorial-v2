@@ -1,0 +1,38 @@
+ITEM NAME: Sacrifice (item)
+
+Velious Era (added December 2000-2001)
+Were you looking for Sacrifice (spell)?
+
+Sacrifice
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 26
+DMG: 17   AC: 20
+WIS: +10  HP: +50  MANA: +42
+SV FIRE: +5  SV DISEASE: +10  SV COLD: +5  SV MAGIC: +5  SV POISON: +10
+Effect:  Cannibalize II (Combat) at Level 40
+WT: 6.5  Size: MEDIUM
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Lord Yelinak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

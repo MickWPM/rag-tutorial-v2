@@ -1,0 +1,35 @@
+ITEM NAME: Rubicite Vambraces
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Rubicite Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 10
+WT: 3.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except IKS
+
+
+Part of the Rubicite Armor Set. This item ceases to drop by the October 1999 (Temple of Solro) Patch.
+See: Green_Server#Anticipated_Patch_Release_Schedule 
+
+  Drops From 
+Cazic Thule
+
+ Tae Ew Archon Classic Phase 1
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

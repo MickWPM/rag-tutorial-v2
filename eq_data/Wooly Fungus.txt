@@ -1,0 +1,31 @@
+ITEM NAME: Wooly Fungus
+
+
+Wooly Fungus
+
+
+This is a snack!
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Everfrost Peaks
+
+ a wooly spiderling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wooly Fungus Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Veeshan's Key (Purchased)
+
+Sky Era (added January 2000)
+Were you looking for Key of Veeshan (Veeshan's Peak)?
+Were you looking for Veeshan's Key (Plane of Sky)?
+
+
+Veeshan's Key
+
+
+LORE ITEM  NODROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used to access the quest area (underside) of island 1. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Plane of Sky
+
+ Key Master
+
+
+
+  (1384, 601)
+
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

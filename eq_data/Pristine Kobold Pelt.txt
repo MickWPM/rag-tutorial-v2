@@ -1,0 +1,57 @@
+ITEM NAME: Pristine Kobold Pelt
+
+Warrens Era (added spring 2001)
+
+
+Pristine Kobold Pelt
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Warrens
+
+ a fierce kobold
+ A Frothing Kobold
+ A Huge Kobold
+ a kobold (Warrens)
+ A Kobold Archer
+ A Kobold Fisherman
+ A Kobold Guard
+ A Kobold Outcast
+ A Kobold Pit Fighter
+ a kobold protector
+ a kobold runt
+ A Kobold Runt
+ A Kobold Sentinel
+ A Kobold Sentry
+ A Large Kobold
+ a rabid kobold
+ A Training Kobold
+ An Elite Kobold
+
+Toxxulia Forest
+
+ A Kobold Caster
+ A Kobold Sentry
+ a kobold shaman
+ a kobold watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fell Blade Quests
+ Templar of Fright Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

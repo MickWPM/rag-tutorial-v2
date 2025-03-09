@@ -1,0 +1,35 @@
+ITEM NAME: Blighted Sleeves
+
+Hate Era (added November 1999)
+
+Blighted Sleeves
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 5
+INT: +7  HP: +15
+SV FIRE: +10
+WT: 0.4  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+Part of the Blighted Armor set 
+
+  Drops From 
+Plane of Fear
+
+ a boogeyman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

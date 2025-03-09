@@ -1,0 +1,34 @@
+ITEM NAME: Dagas
+
+Sky Era (added January 2000) Tuggernaut wielding a Dagas in main hand
+
+
+Dagas
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 11   AC: 20
+STR: +3  AGI: +2  HP: +100
+WT: 2.5  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+Valued by Warrior rampage-tanks as a mainhand weapon for its AC and HP, and lack of hate proc. Often paired with a shield or another 100 HP weapon such as Swiftblade of Zek (aka SBoZ). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Smash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,514 @@
+ITEM NAME: Belt Pouch
+
+Classic Era (added 1999-2000)
+
+
+Belt Pouch
+
+
+WT: 0.4  Weight Reduction: 0%
+Capacity: 4  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a goblin whelp
+ Thar Kelgand
+
+Crushbone
+
+ orc pawn
+
+The Estate of Unrest
+
+ a festering hag
+ a greater skeleton
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+
+North Qeynos
+
+ a gnoll pup
+
+Northern Desert of Ro
+
+ a desert madman
+
+Solusek's Eye
+
+ Captain Bipnubble
+
+South Qeynos
+
+ Vicus Nonad
+
+Steamfont Mountains
+
+ rogue cleaner
+
+Stonebrunt Mountains
+
+ a savage kobold
+ Girgak the Bloody
+
+Western Plains of Karana
+
+ Ulrich McMannus
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1265, -777)
+
+
+ East Cabilis
+
+ Klok Vednir
+
+
+
+  (58, -8)
+
+
+ East Cabilis
+
+ Klok Sass
+
+
+
+  (667, -38)
+
+
+ West Cabilis
+
+ Lybar
+
+
+
+  (292, 523)
+
+
+ West Commonlands
+
+ Ruby Boxcrafter
+
+
+
+  (-213, 591)
+
+
+ Erudin
+
+ Nerth Sailwind
+
+
+
+  (232, 96)
+
+
+ Erudin
+
+ Luren Renthalis
+
+
+
+  (-1156, -61)
+
+
+ Erudin
+
+ Reihan Wilhemson
+
+
+
+  (-906, -88)
+
+
+ Erudin
+
+ Kisrin Breezeshadow
+
+
+
+  (230, -5)
+
+
+ Erudin
+
+ Reko Saltamer
+
+
+
+  (207, -5)
+
+
+ Erudin Palace
+
+ Vall Stonewisp
+
+
+
+  (590, 832)
+
+
+ Erudin Palace
+
+ Tan Monosty
+
+
+
+  (667, 829)
+
+
+ Erudin Palace
+
+ Judge Monosty
+
+
+
+  (689, 829)
+
+
+ Felwithe
+
+ Merchant Issynal
+
+
+
+  (147, -412)
+
+
+ Field of Bone
+
+ Klok Acet
+
+
+
+  (-2463, 2984)
+
+
+ Firiona Vie
+
+ Broawn Goshart
+
+
+
+  (-3863, 1673)
+
+
+ Firiona Vie
+
+ Dom Pathfinder
+
+
+
+  (-2818, 2686)
+
+
+ East Freeport
+
+ Iseba Gargurd
+
+
+
+  (61, -882)
+
+
+ Greater Faydark
+
+ Merchant Aildien
+
+
+
+  (-496, -133)
+
+
+ Greater Faydark
+
+ Merchant Aluuvila
+
+
+
+  (-94, 224)
+
+
+ Greater Faydark
+
+ Merchant Tilluen
+
+
+
+  (-85, 271)
+
+
+ Grobb
+
+ Graktak
+
+
+
+  (50, -396)
+
+
+ Halas
+
+ Rose McDowell
+
+
+
+  (397, 165)
+
+
+ Highpass Keep
+
+ Merchant Dominik
+
+
+
+  (37, 31)
+
+
+ South Kaladim
+
+ Aarina Ratsbone
+
+
+
+  (183, -138)
+
+
+ Kithicor Forest
+
+ Eithne Walker
+
+
+
+  (1427, -825)
+
+
+ Lake Rathetear
+
+ Srynda
+
+
+
+  (-507, 637)
+
+
+ Lesser Faydark
+
+ a brownie merchant
+
+
+
+  (1792, 3088)
+
+
+ Lesser Faydark
+
+ a brownie merchant
+
+
+
+  (1768, 3109)
+
+
+ Lesser Faydark
+
+ a brownie merchant
+
+
+
+  (1814, 3119)
+
+
+ Neriak Foreign Quarter
+
+ Palais Derekor
+
+
+
+  (205, -111)
+
+
+ Northern Karana
+
+ Mrysila
+
+
+
+  (-688, -159)
+
+
+ Oasis of Marr
+
+ Synthan
+
+
+
+  (597, -6)
+
+
+ Oggok
+
+ Brokk Boxtripper
+
+
+
+  (220, 378)
+
+
+ The Overthere
+
+ Tin Merchant II
+
+
+
+  (2694, 2583)
+
+
+ Paineel
+
+ Rallia Hapera
+
+
+
+  (941, 770)
+
+
+ Paineel
+
+ Geomar Hapera
+
+
+
+  (953, 757)
+
+
+ South Qeynos
+
+ Bassanio Weekin
+
+
+
+  (-40, -219)
+
+
+ South Qeynos
+
+ Fellesha Varshen
+
+
+
+  (487, -310)
+
+
+ South Qeynos
+
+ Raheim Varshen
+
+
+
+  (543, -263)
+
+
+ South Qeynos
+
+ Gahna Salbeen
+
+
+
+  (4, -220)
+
+
+ Rathe Mountains
+
+ Roshmael
+
+
+
+  (1592, -888)
+
+
+ Rivervale
+
+ bag merchant
+
+
+
+  (208, -214)
+
+
+ Solusek's Eye
+
+ goblin merchant
+
+
+
+  (-753, -437)
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+
+ Thurgadin
+
+ Agar
+
+
+
+  (-72, -379)
+
+
+ Toxxulia Forest
+
+ Stylla Parsini
+
+
+
+  (2105, 404)
+
+
+ Toxxulia Forest
+
+ Emil Parsini
+
+
+
+  (2119, 423)
+
+  Related quests 
+ Skeleton Killing
+ Zombie Flesh
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

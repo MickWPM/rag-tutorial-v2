@@ -1,0 +1,46 @@
+ITEM NAME: Drake Egg
+
+Velious Era (added December 2000-2001)
+
+Drake Egg
+
+
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Drash Du Nen
+ Orivin Vor`Tun
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing (Trivial: 68)
+ Yield: Drake Egg Oil x1
+ In Brewing Barrel:
+
+
+  1 x Drake Egg - Foraged, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Skyshrine
+ Temple of Veeshan
+ Western Wastes
+
+

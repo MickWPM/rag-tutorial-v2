@@ -1,0 +1,28 @@
+ITEM NAME: Red Scabbard
+
+
+
+Red Scabbard
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: MEDIUM
+
+
+Transforms between the one-handed and two-handed versions of the Warrior epic. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

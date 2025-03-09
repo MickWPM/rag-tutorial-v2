@@ -1,0 +1,40 @@
+ITEM NAME: Banded Sleeves
+
+Classic Era (added 1999-2000)
+Were you looking for Large Banded Armor Set? Were you looking for Small Banded Armor Set?
+
+Banded Sleeves
+
+
+Slot: ARMS
+AC: 7
+WT: 3.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+This is part of the Banded Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Vambraces
+
+  Player crafted 
+ Blacksmithing (Trivial: 102)
+ Yield: Banded Sleeves x1
+ In Forge:
+
+
+  2 x Sheet Metal - Crafted, Bought
+  1 x Sleeves Sectional Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

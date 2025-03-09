@@ -1,0 +1,38 @@
+ITEM NAME: Xolion Rod
+
+Epic Quests Era (added Sept 2000)
+
+
+Xolion Rod
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 9 
+INT: +3  AGI: +3  MANA: +20
+SV MAGIC: +5
+WT: 3.0  Size: MEDIUM
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+East Cabilis
+
+ Vessel Drozlin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

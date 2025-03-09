@@ -1,0 +1,33 @@
+ITEM NAME: Vambraces of Twilight
+
+Velious Era (added December 2000-2001)
+ 
+Vambraces of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 25
+STR: +5  STA: +4  CHA: +4  HP: +20
+SV FIRE: +4  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+WT: 6.0  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Skyshrine Armplates
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

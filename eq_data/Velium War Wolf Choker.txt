@@ -1,0 +1,35 @@
+ITEM NAME: Velium War Wolf Choker
+
+Velious Era (added December 2000-2001)
+
+Velium War Wolf Choker
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 8
+STR: +5  HP: +5
+WT: 2.0  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL except HUM ERU HEF
+
+
+
+
+  Drops From 
+Great Divide
+
+ Coldain War Wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Military Wristguard Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

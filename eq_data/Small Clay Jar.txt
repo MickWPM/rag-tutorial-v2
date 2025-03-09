@@ -1,0 +1,36 @@
+ITEM NAME: Small Clay Jar
+
+Classic Era (added 1999-2000)
+
+
+Small Clay Jar
+
+
+QUEST ITEM
+WT: 3.0  Weight Reduction: 0%
+Capacity: 2  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 17)
+ Yield: Small Clay Jar x1
+ In Kiln:
+
+
+  1 x Quality Firing Sheet - Bought
+  1 x Unfired Small Container - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

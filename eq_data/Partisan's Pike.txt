@@ -1,0 +1,32 @@
+ITEM NAME: Partisan's Pike
+
+
+
+Partisan's Pike
+
+
+LORE ITEM  NO DROP
+Slot: BACK PRIMARY
+Skill: Piercing  Atk Delay: 46
+DMG: 8   AC: 1
+WT: 13.5  Size: GIANT
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike Quests (#0)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

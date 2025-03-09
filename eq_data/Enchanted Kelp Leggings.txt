@@ -1,0 +1,39 @@
+ITEM NAME: Enchanted Kelp Leggings
+
+Velious Era (added December 2000-2001)
+
+
+Enchanted Kelp Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 3
+WIS: +12
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad mistress
+ a neriad weaver
+ a siren beguiler
+ a siren myrmidon
+ a siren templar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

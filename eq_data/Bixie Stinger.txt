@@ -1,0 +1,38 @@
+ITEM NAME: Bixie Stinger
+
+Sky Era (added January 2000)
+Were you looking for Bixie Stinger (Bixie God's Stinger)?
+
+
+
+Bixie Stinger
+
+
+WT: 0.1  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+West Commonlands
+
+ a bixie
+
+Misty Thicket
+
+ a bixie drone
+ a bixie queen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

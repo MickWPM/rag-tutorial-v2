@@ -1,0 +1,47 @@
+ITEM NAME: Liquid Velium
+
+Velious Era (added December 2000-2001)
+
+
+Liquid Velium
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Brewing  (Trivial:135)
+ Liquid Velium x1
+ In Brew Barrel:
+
+
+  1 x Rubbing Alcohol - Bought
+  1 x Small Piece of Velium - Dropped 
+
+
+  Tradeskill recipes 
+ Brewing  (Trivial:168)
+ Sacred Velium Ink x1
+ In Brew Barrel:
+
+
+  1 x Liquid Velium - Crafted
+  1 x Cutlassfish Oil - Crafted
+  1 x Royal Kromrif blood - Dropped
+
+
+
+
+

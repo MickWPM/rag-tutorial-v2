@@ -1,0 +1,35 @@
+ITEM NAME: Cloak of Spiroc Feathers
+
+Sky Era (added January 2000)
+
+
+
+Cloak of Spiroc Feathers
+
+
+LORE ITEM  NO DROP
+Slot: BACK
+AC: 6
+STR: +5  STA: +6  INT: +5  MANA: +50
+WT: 0.5  Size: MEDIUM
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest
+ Necromancer Test of Power
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

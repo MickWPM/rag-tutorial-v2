@@ -1,0 +1,35 @@
+ITEM NAME: Bow of the Icepaw
+
+Velious Era (added December 2000-2001)
+
+
+Bow of the Icepaw
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+Skill: Archery  Atk Delay: 50
+DMG: 25
+WT: 0.0  Range: 125  Size: TINY
+Class: WAR RNG ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Laryk Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Velium Crawler Eye
+
+Velious Era (added December 2000-2001)
+
+
+Velium Crawler Eye
+
+
+Slot: PRIMARY SECONDARY
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Minor light source when held. No other known use. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 2 Golds
+ 7 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a velium crawler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Nature Walker's Circlet
+
+Velious Era (added December 2000-2001)
+Nature Walker's Circlet
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 11
+WIS: +9  AGI: +2  MANA: +20
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +3  SV POISON: +1
+WT: 0.6  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Kael Cap
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

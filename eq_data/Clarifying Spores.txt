@@ -1,0 +1,34 @@
+ITEM NAME: Clarifying Spores
+
+
+Clarifying Spores
+
+
+MAGIC ITEM  LORE ITEM
+EXPENDABLE  Charges: 1
+Effect:  Clarity (Any Slot, Casting Time: 4.0)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ Myconid Adept
+ Myconid Priest
+ myconid reaver
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Warlock's Robe
+
+Velious Era (added December 2000-2001)
+ Robe on an Erudite Male
+Warlock's Robe
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 12
+STA: +15  INT: +14  HP: +70  MANA: +50
+SV DISEASE: +5  SV COLD: +5  SV MAGIC: +10  SV POISON: +5
+Effect: Conjure Corpse (Any Slot/Can Equip, Casting Time: 25.0)
+WT: 0.5  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Velium Robe
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

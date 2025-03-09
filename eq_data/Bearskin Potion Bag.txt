@@ -1,0 +1,45 @@
+ITEM NAME: Bearskin Potion Bag
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Bearskin Potion Bag
+
+
+WT: 2.5
+Capacity: 10  Size Capacity: SMALL
+
+
+This tradeskill container is used by Shamans to make both 5-dose and 10-dose potions.
+Changed from Capacity: GIANT to Capacity: SMALL and 10% weight reduction removed in July 2013. [1].
+Changed so that normal alchemy recipes cannot be made in this bag, only 5 and 10-dose combines. [2] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 68)
+ Yield: Bearskin Potion Bag x1
+ In Sewing Kit or Loom:
+
+
+  1 x Grizzly Bear Skin - Dropped
+  1 x Silk Cord - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
+
+Tradeskill Containers
+Brew Barrel • Forge • Kiln • Pottery Wheel • Loom • Sewing Kit • Fletching Kit
+Oven • Mixing Bowl • Spit • Jeweler's Kit • Toolboxes • Tackle Box
+Medicine Bag • Bearskin Potion Bag • "Always Works" containers
+
+
+

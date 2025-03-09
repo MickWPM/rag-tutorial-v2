@@ -1,0 +1,32 @@
+ITEM NAME: Kromdul Toothpick
+
+Kunark Era (added 2000)
+
+
+Kromdul Toothpick
+
+
+Slot: BACK PRIMARY
+Skill: Piercing  Atk Delay: 38
+DMG: 5   AC: 1
+WT: 7.0  Size: LARGE
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bone Granite Powder Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

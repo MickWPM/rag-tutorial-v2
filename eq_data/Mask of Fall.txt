@@ -1,0 +1,36 @@
+ITEM NAME: Mask of Fall
+
+Velious Era (added December 2000-2001)
+
+
+Mask of Fall
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 15
+INT: +7  MANA: +55
+SV DISEASE: +10  SV POISON: +10
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Aaryonar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

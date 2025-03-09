@@ -1,0 +1,36 @@
+ITEM NAME: Vambraces of the Righteous
+
+Warrens Era (added spring 2001)
+
+
+Vambraces of the Righteous
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 19
+STR: +7  HP: +15  MANA: +15
+SV COLD: +3  SV POISON: +5
+WT: 6.0  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ A Knight of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

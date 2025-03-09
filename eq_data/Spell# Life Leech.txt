@@ -1,0 +1,34 @@
+ITEM NAME: Spell: Life Leech
+
+Velious Era (added December 2000-2001)
+
+
+Spell: Life Leech
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Alteration
+Mana Cost: 315
+Effect:  Life Leech
+WT: 0.1  Size: SMALL
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Etched Stone
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

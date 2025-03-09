@@ -1,0 +1,35 @@
+ITEM NAME: L.S. Pouch
+
+
+
+L.S. Pouch
+
+
+LORE ITEM NODROP
+WT: 0.4  Size: SMALL
+
+
+ Item Lore (from Identify): Lenka's Pouch
+Ground spawn in a store room below Seafarer's Roost, behind the fake wall down the stairs and on your right next to some Barrels, just before the rogue GMs and evil tunnels. Placed by Brunar Rankin at 5 AM and 5 PM?
+
+Approx location: -230, -873, -95. Respawn time ~30 min? 
+
+  Drops From 
+East Freeport
+
+ Ground Spawn
+ (-230, -873, -95) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lenka's Pouch
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Three Toothed Key
+
+Velious Era (added December 2000-2001)
+
+
+Three Toothed Key
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is the key to the third floor of the Tower of Frozen Shadow. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an angry librarian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

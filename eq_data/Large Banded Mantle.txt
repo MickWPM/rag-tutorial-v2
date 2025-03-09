@@ -1,0 +1,40 @@
+ITEM NAME: Large Banded Mantle
+
+Were you looking for Banded Armor Set? Were you looking for Small Banded Armor Set?
+
+
+
+Large Banded Mantle
+
+
+Slot: SHOULDERS
+AC: 6
+WT: 4.4  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: BAR TRL OGR
+
+
+Part of the Large Banded Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 168)
+ Yield: Large Banded Mantle x1
+ In Forge:
+
+
+  1 x Large Mantle Sectional Mold - Bought
+  2 x Sheet Metal - Crafted, Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

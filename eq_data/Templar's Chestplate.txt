@@ -1,0 +1,39 @@
+ITEM NAME: Templar's Chestplate
+
+Velious Era (added December 2000-2001)
+
+
+Templar's Chestplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 54
+STR: +5  STA: +8  WIS: +15  HP: +40  MANA: +90
+SV FIRE: +4  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +7  SV POISON: +4
+Effect:  Mark of Karn (Must Equip, Casting Time: 9.0) at Level 46
+WT: 8.0  Size: LARGE
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Kael Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Fashionquest 
+
+Teomus, Cleric of Cazic-Thule, in The Grape Jelly Breastplate.
+
+

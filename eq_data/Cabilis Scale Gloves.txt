@@ -1,0 +1,40 @@
+ITEM NAME: Cabilis Scale Gloves
+
+Kunark Era (added 2000)
+
+
+Cabilis Scale Gloves
+
+
+Slot: HANDS
+AC: 8
+WT: 3.0  Size: SMALL
+Class: WAR SHD SHM
+Race: IKS
+
+
+Iksar cultural blacksmithing. Part of the Unimbued Cabilis Scale Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 128)
+ Yield: Cabilis Scale Gloves x1
+ In Iksar Forge:
+
+
+  1 x Flask of Bloodwater - Bought
+  1 x Gauntlet Mold - Bought
+  1 x Skyiron Scales - Crafted
+  2 x Skyiron Sheet - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,50 @@
+ITEM NAME: Giant Foreman's Tunic
+
+Kunark Era (added 2000)
+
+Giant Foreman's Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 13
+CHA: -5
+SV COLD: +5
+WT: 8.0  Size: LARGE
+Class: WAR SHD SHM
+Race: BAR TRL OGR
+
+
+Note: Large races only! 
+ Merchant resale value: About 70pp. 
+
+  Drops From 
+Burning Woods
+
+ a forest giant verdant
+ Gorgul Paclock
+
+Dreadlands
+
+ a mountain giant craig
+
+Frontier Mountains
+
+ a mountain giant tump
+
+Warsliks Woods
+
+ a forest giant greenwood
+ A Forest Giant Evergreen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

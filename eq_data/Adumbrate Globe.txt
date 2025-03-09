@@ -1,0 +1,37 @@
+ITEM NAME: Adumbrate Globe
+
+Sky Era (added January 2000)
+
+
+
+Adumbrate Globe
+
+
+MAGIC ITEM  LORE ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a crystalline cloud
+ a gust of wind
+ a shimmering meteor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Protection
+ Monk Test of Speed
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

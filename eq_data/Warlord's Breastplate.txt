@@ -1,0 +1,36 @@
+ITEM NAME: Warlord's Breastplate
+
+ 
+Velious Era (added December 2000-2001)
+
+
+Warlord's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 59
+STR: +16  DEX: +7  STA: +10  AGI: +7  HP: +90
+SV COLD: +10  SV MAGIC: +6
+Effect: Invigorate (Any Slot/Can Equip, Casting Time: 14.5) at Level 50
+WT: 17.5  Size: LARGE
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Kael Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

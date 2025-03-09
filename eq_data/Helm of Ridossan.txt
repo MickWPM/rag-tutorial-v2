@@ -1,0 +1,37 @@
+ITEM NAME: Helm of Ridossan
+
+Warrens Era (added spring 2001)
+ Anioah Shadowkite wearing the Helm, Tunic, and Leggings of Ridossan
+Helm of Ridossan
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 7
+STR: +3  DEX: +1  INT: +2
+SV FIRE: +3
+Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: 0.7) at Level 20
+WT: 2.3  Size: MEDIUM
+Class: SHD
+Race: ERU
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Inventory clickable for an erudite SK? This is not clickable from inventory by non-erudite sk. (On Live, the helmet had to be worn to be used.) 
+
+  Drops From 
+The Warrens
+
+ The Muglwump
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

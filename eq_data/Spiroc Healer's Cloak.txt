@@ -1,0 +1,35 @@
+ITEM NAME: Spiroc Healer's Cloak
+
+Sky Era (added January 2000)
+
+
+Spiroc Healer's Cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+Charges: 5
+AC: 6
+DEX: +7  AGI: +7
+Effect:  Regeneration (Must Equip, Casting Time: Instant) at Level 45
+WT: 5.0  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+Pre-upgrade PoS quest reward.  Item Lore (from Identify): Spiroc Healer's Cloak - Class 3 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Defense
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

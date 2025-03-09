@@ -1,0 +1,36 @@
+ITEM NAME: Pound Cake
+
+
+Pound Cake
+
+
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 135)
+ Yield: Pound Cake x4
+ In Oven:
+
+
+  1 x Berry Pie - Crafted
+  1 x Clump of Dough - Crafted
+  1 x Spices - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

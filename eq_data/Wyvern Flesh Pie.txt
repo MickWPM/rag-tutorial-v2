@@ -1,0 +1,53 @@
+ITEM NAME: Wyvern Flesh Pie
+
+Velious Era (added December 2000-2001)
+Wyvern Flesh Pie
+
+
+This is a meal.
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+
+
+ Kael Drakkel
+
+ Kellek Felhammer
+
+
+
+  (267, 1867)
+
+
+ Kael Drakkel
+
+ Svekk Fangbinder
+
+
+
+  (159, 1952)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

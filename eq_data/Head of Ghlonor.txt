@@ -1,0 +1,33 @@
+ITEM NAME: Head of Ghlonor
+
+Classic Era (added 1999-2000)
+
+
+Head of Glohnor
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+The Hole
+
+ Mummy of Glohnor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

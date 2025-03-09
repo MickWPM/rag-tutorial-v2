@@ -1,0 +1,35 @@
+ITEM NAME: Flame Etched Short Sword
+
+Velious Era (added December 2000-2001)
+ Red99's Pappa <Empire> wielding the Flame Etched Short Sword
+Flame Etched Short Sword
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 17
+DMG: 12   AC: 25
+SV FIRE: +10  SV MAGIC: +10
+WT: 3.5  Size: TINY
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Kreizenn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

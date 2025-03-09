@@ -1,0 +1,52 @@
+ITEM NAME: Ulthork Tusks
+
+Velious Era (added December 2000-2001)
+
+
+
+Ulthork Tusks
+
+
+WT: 2.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a ulthork man o war
+ an ulthork hunter
+ an ulthork warrior
+ Ulthork Raider
+
+Siren's Grotto
+
+ an enthralled molkor
+ an enthralled ulthork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ulthork Tusks Quest
+ Emerald Dragonscale Quest
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Fletching  (Trivial:135)
+ Burin x1
+ In Fletching Kit:
+
+
+  1 x Ulthork Tusks - Dropped
+  1 x Swordfish Tooth - Dropped
+  1 x Molkor Hide - Dropped
+
+
+
+
+

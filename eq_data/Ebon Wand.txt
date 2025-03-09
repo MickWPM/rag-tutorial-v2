@@ -1,0 +1,34 @@
+ITEM NAME: Ebon Wand
+
+
+
+Ebon Wand
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+SV DISEASE: +5
+WT: 0.5  Size: SMALL
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a dry bone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

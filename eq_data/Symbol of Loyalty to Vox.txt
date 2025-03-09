@@ -1,0 +1,33 @@
+ITEM NAME: Symbol of Loyalty to Vox
+
+
+Symbol of Loyalty to Vox
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 7
+SV COLD: +7
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+Permafrost
+
+ King Thex`Ka IV
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

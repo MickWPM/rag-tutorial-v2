@@ -1,0 +1,35 @@
+ITEM NAME: Note of recommendation
+
+Classic Era (added 1999-2000)
+ 
+note of recommendation
+
+
+The Note is rolled up.
+LORE ITEM NO DROP
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Innoruuk Recommendation 
+
+  Book contents 
+Dearest Brother,
+I send you this worshiper of our Lord of Hate as you have requested. I sense that his hate is strong and he will prove to be a valuable member of The Spires of Innoruuk.
+Sincerely,
+Your sister, Princess Zaxun
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+|second_image=Noteofrec.png
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Straeven's Head
+
+
+
+Streaven's Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 2.5  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ Commander Straeven
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

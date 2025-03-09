@@ -1,0 +1,31 @@
+ITEM NAME: Barnacle Breastplate
+
+
+Barnacle Breastplate
+
+
+LORE ITEM
+Slot: CHEST
+AC: 8
+SV FIRE: +3  SV COLD: +3
+WT: 5.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD SHM
+Race: ALL except DWF TRL OGR HFL GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Barnacle Breastplate Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

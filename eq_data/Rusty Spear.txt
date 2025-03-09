@@ -1,0 +1,45 @@
+ITEM NAME: Rusty Spear
+
+Classic Era (added 1999-2000)
+
+Rusty Spear
+
+
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 38
+DMG: 5 
+WT: 7.0  Size: LARGE
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Rusty Weapons set. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 1 Golds
+ 9 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Drops from low-level humanoids
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Poacher's Head Quest (Erudin)
+ Runnyeye Warbeads (Kaladim Rogue)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Recipe?
+
+
+
+
+

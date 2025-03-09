@@ -1,0 +1,36 @@
+ITEM NAME: Blackened Iron Armplates
+
+Classic Era (added 1999-2000)
+⏱️ REVAMP ALERT (see notes)
+
+Blackened Iron Armplates
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 6
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Blackened Iron Armor Set. 
+
+  Drops From 
+Clan Runnyeye
+
+ The Goblin King
+ a goblin warlord
+ a Pickclaw Zekspeaker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

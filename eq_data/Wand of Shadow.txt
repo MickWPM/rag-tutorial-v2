@@ -1,0 +1,36 @@
+ITEM NAME: Wand of Shadow
+
+
+
+Wand of Shadow
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Charges: 5
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 5 
+Effect:  Invoke Shadow (Any Slot/Can Equip, Casting Time: Instant) at Level 35
+WT: 1.5  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ Item Lore (from Identify):  Wand of Shadow 
+
+  Drops From 
+Kedge Keep
+
+ a ferocious hammerhead
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

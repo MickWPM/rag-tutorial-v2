@@ -1,0 +1,36 @@
+ITEM NAME: Gangrenous Beetle Mask
+
+Kunark Era (added 2000)
+
+
+Gangrenous Beetle Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 7
+STR: +5  DEX: +5  MANA: +20
+SV DISEASE: +10
+WT: 4.5  Size: SMALL
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ Gangrenous Scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

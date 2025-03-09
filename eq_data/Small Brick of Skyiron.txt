@@ -1,0 +1,54 @@
+ITEM NAME: Small Brick of Skyiron
+
+
+
+Small Brick of Skyiron
+
+
+WT: 7.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Zern
+
+
+
+  (-512, 8)
+
+
+ East Cabilis
+
+ Smithy Xzatik
+
+
+
+  (-541, 21)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Skyiron Sheet (Trivial: 37)
+
+
+
+
+

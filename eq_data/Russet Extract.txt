@@ -1,0 +1,46 @@
+ITEM NAME: Russet Extract
+
+Classic Era (added 1999-2000)
+
+Russet Extract
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 36)
+ Yield: Russet Extract x1
+ In Medicine Bag:
+
+
+  1 x Empty Vial - Crafted, Bought
+  1 x Russet Oxide - Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+ Poison Making (Trivial: 36)
+ Yield: Russet Extract x1
+ In Mortar and Pestle:
+
+
+  1 x Empty Vial - Crafted, Bought
+  1 x Russet Oxide - Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

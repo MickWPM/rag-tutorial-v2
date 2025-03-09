@@ -1,0 +1,129 @@
+ITEM NAME: Snake Egg
+
+
+Snake Egg
+
+
+QUEST ITEM
+This is a snack!
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 0 Golds
+ 0 Silvers
+ 5 Coppers
+ 
+  Drops From 
+Ak'Anon
+
+ a rock snake
+
+Blackburrow
+
+ a giant snake
+
+Butcherblock Mountains
+
+ a large snake
+ a snake
+
+Commonlands
+
+ a darkweed snake
+ a giant rattlesnake
+ a large rattlesnake
+ a moss snake
+ a rattlesnake
+
+Eastern Plains of Karana
+
+ a bullnose snake
+ a chasm crawler
+ a dawnbane serpent
+
+Erud's Crossing
+
+ a kerra snake
+
+Innothule Swamp
+
+ a water moccasin
+
+Lake Rathetear
+
+ a water snake
+ an algae snake
+
+Nektulos Forest
+
+ a black mamba
+ a garter snake
+ a moss snake
+ a tree snake
+
+Northern Desert of Ro
+
+ a cistern asp
+ a giant rattlesnake
+ a moss snake
+ a rattlesnake
+ a stonesnake
+
+Southern Desert of Ro
+
+ a darkweed snake
+ a giant rattlesnake
+ a moss snake
+ a rattlesnake
+ a tree snake
+ an asp
+
+Stonebrunt Mountains
+
+ an emerald adder
+
+The Feerrott
+
+ a green snake
+ a snake
+
+Toxxulia Forest
+
+ a briar snake
+ a giant briar snake
+ a giant thistle snake
+ a large briar snake
+ a large thistle snake
+ a thistle snake
+
+West Freeport
+
+ a snake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Neonate Cowardice
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Clump of Dough (Trivial: 17)
+
+
+ Brewing
+ Snake Egg Oil (Trivial: 68)
+
+
+
+
+

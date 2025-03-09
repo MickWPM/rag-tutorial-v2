@@ -1,0 +1,36 @@
+ITEM NAME: Crystal Lined Slippers
+
+Velious Era (added December 2000-2001)
+
+Crystal Lined Slippers
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 5
+WIS: +3  INT: +3
+WT: 1.8  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 18.7p 
+
+  Drops From 
+Crystal Caverns
+
+ A crystal purifier
+ A drachnid retainer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

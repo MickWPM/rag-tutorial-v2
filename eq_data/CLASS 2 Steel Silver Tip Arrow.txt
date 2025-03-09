@@ -1,0 +1,41 @@
+ITEM NAME: CLASS 2 Steel Silver Tip Arrow
+
+Classic Era (added 1999-2000)
+
+
+CLASS 2 Steel Silver Tip Arrow
+
+
+Slot: AMMO
+Skill: Archery Atk Delay: 0
+DMG: 6
+WT: 0.1  Range: 100 / 125 /150  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 202)
+ Yield: CLASS 2 Steel Silver Tip Arrow x10
+ In Fletching Table:
+
+
+  1 x Silver Tipped Arrowheads - Crafted, Bought
+  1 x Bundled Steel Arrow Shafts - Bought
+  1 x Several Parabolic Cut Fletchings - Bought
+  1 x Large Groove Nocks / Medium Groove Nocks / Small Groove Nocks - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

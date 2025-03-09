@@ -1,0 +1,36 @@
+ITEM NAME: Monkey Hide Helm
+
+Velious Era (added December 2000-2001)
+
+
+Monkey Hide Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 15
+DEX: +10  INT: +5  HP: +30
+SV FIRE: +5  SV COLD: +5
+Effect:  Ultravision (Worn)
+WT: 0.1  Size: TINY
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

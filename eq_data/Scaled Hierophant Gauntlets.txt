@@ -1,0 +1,37 @@
+ITEM NAME: Scaled Hierophant Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Scaled Hierophant Gauntlets
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 11
+CHA: +8  WIS: +8  INT: +8  HP: +35
+SV COLD: +5
+WT: 2.8  Size: SMALL
+Class: SHM
+Race: IKS
+Slot 1, Type 7 (General: Group)
+
+
+Part of the Scaled Hierophant Armor set. 
+
+  Drops From 
+Plane of Hate
+
+ a spite golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Kedge Backbone
+
+Epic Quests Era (added Sept 2000)
+
+Kedge Backbone
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 25.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kedge Keep
+
+ Phinigel Autropos
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+ The Family Chest Straps
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

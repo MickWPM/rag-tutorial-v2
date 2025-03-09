@@ -1,0 +1,37 @@
+ITEM NAME: Frenzied Gnawer Tail
+
+Kunark Era (added 2000)
+
+
+Frenzied Gnawer Tail
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 6   AC: 2
+SV POISON: +5
+WT: 3.0  Size: SMALL
+Class: WAR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Kaesora
+
+ A Frenzied Gnawer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Vambraces
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

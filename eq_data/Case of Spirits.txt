@@ -1,0 +1,46 @@
+ITEM NAME: Case of Spirits
+
+Classic Era (added 1999-2000)
+
+
+Case of Spirits
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 6.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ Non-Tradeskill (No Fail)
+ Yield: Case of Spirits x1
+ In Bottle Crate:
+
+
+  1 x Blackburrow Swig - Brewed / Quested
+  1 x Lendel's Grand Lager - Bought
+  1 x Gator Gulp Ale - Bought
+  1 x Clockwork Oil Stout - Dropped
+  1 x Tunare's Finest - Bought
+  1 x Underfoot Triple Bock - Bought
+  1 x Frozen Toe Rum - Bought
+  1 x The Oblong Bottle - Ground Spawn / Quested
+  1 x Blood Spirit - Dropped
+  1 x Vasty Deep Ale - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

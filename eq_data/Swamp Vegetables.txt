@@ -1,0 +1,36 @@
+ITEM NAME: Swamp Vegetables
+
+
+
+Swamp Vegetables
+
+
+This is a snack!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Boot Beer (Trivial: 162)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Innothule Swamp (found on the ground near Grobb entrance)
+
+

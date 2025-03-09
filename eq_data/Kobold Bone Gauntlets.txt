@@ -1,0 +1,35 @@
+ITEM NAME: Kobold Bone Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Kobold Bone Gauntlets
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 16
+STR: +3  AGI: +3  HP: +30
+WT: 4.5  Size: SMALL
+Class: WAR PAL RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ The Brood Master
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

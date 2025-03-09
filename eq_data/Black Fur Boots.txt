@@ -1,0 +1,35 @@
+ITEM NAME: Black Fur Boots
+
+Epic Quests Era (added Sept 2000)
+ NERF ALERT (see notes)
+
+Black Fur Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 9
+STR: +3  STA: +3  WIS: +3  AGI: +3
+SV DISEASE: +3  SV MAGIC: +5  SV POISON: +3
+Effect:  Spirit of Wolf (Any Slot/Can Equip, Casting Time: Instant) at Level 10
+WT: 5.0  Size: LARGE
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+Item effect can be cast without equipping. Item effect does not work for non-shaman classes. Changed to self-only on 2/20/12 patch. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

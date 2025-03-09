@@ -1,0 +1,51 @@
+ITEM NAME: Black Wolf Tooth
+
+
+
+Black Wolf Tooth
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Commonlands
+
+ a black wolf
+
+Greater Faydark
+
+ a black wolf
+
+Misty Thicket
+
+ a black wolf
+
+Nektulos Forest
+
+ a black wolf
+ a shadow wolf
+
+Southern Karana
+
+ a shadow wolf
+
+Western Plains of Karana
+
+ a shadow wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

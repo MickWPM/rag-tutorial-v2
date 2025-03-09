@@ -1,0 +1,32 @@
+ITEM NAME: Blood Thorn Extract
+
+
+
+Blood Thorn Extract
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1.5p 
+
+  Drops From 
+Emerald Jungle
+
+ Erollisi bloodthorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

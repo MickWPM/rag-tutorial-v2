@@ -1,0 +1,40 @@
+ITEM NAME: Enchanted Chain Jointing
+
+
+
+Enchanted Chain Jointing
+
+
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 106)
+ Yield: Enchanted Chain Jointing x1
+ In Forge:
+
+
+  1 x Enchanted Metal Rings - Crafted
+  1 x Water Flask - Bought
+  1 x Smithy Hammer - Bought
+  1 x File - Crafted 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Human Cultural Smithing (Trivial: Various)
+
+
+
+
+

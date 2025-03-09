@@ -1,0 +1,42 @@
+ITEM NAME: Cobalt Drake Cloak
+
+Velious Era (added December 2000-2001)
+
+Cobalt Drake Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 9
+STR: +8  WIS: +4  MANA: +23
+SV COLD: +8
+WT: 2.0  Size: MEDIUM
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Cobalt Drake Cloak x1
+ In Loom:
+
+
+  1 x Cloak Pattern - Bought
+  1 x Cobalt Drake Hide - Dropped
+  1 x Drake Egg Oil - Crafted
+  2 x Velium Boning - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

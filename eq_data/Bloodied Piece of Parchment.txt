@@ -1,0 +1,30 @@
+ITEM NAME: Bloodied Piece of Parchment
+
+Classic Era (added 1999-2000)
+
+
+Bloodied Piece of Parchment
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Etched Stone
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

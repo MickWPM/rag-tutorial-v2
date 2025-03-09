@@ -1,0 +1,33 @@
+ITEM NAME: Summoned: Dagger of Symbols
+
+
+
+Summoned: Dagger of Symbols
+
+
+MAGIC ITEM  TEMPORARY  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 20
+DMG: 5 
+SV DISEASE: +5  SV MAGIC: +5  SV POISON: +5
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+Summoned by the Level 39 Magician spell Dagger of Symbols.
+Prior to Oct1999 has no combat effects or stat bonuses. [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

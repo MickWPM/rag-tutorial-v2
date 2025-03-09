@@ -1,0 +1,35 @@
+ITEM NAME: Sirran`s Boots of Insanity
+
+Velious Era (added December 2000-2001)
+ Sirran`s Boots of Insanity - Ishen & Posiden <KWSM> showing off their insanity.
+Sirran`s Boots of Insanity
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 20
+STA: +14  WIS: +14  INT: +14  HP: +100  MANA: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

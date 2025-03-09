@@ -1,0 +1,36 @@
+ITEM NAME: Blood Runed Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+
+Blood Runed Gauntlets
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 26
+STR: +5  HP: +50
+WT: 0.0  Size: MEDIUM
+Class: WAR SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Kerd
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

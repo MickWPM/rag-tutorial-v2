@@ -1,0 +1,32 @@
+ITEM NAME: Worn Leather Shoulderpads
+
+
+
+Worn Leather Shoulderpads
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 4
+STR: +4
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL except ERU DEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sylvani Leaf Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

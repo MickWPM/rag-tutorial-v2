@@ -1,0 +1,76 @@
+ITEM NAME: Vial of Velium Vapors
+
+Velious Era (added December 2000-2001)
+Vial of Velium Vapors
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+EXPENDABLE  Charges: 1
+Effect: Thurgadin Gate (Any Slot, Casting Time: 10.0) at Level 5
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Thurgadin Teleport Juice
+
+AKA Thurg gate pot. With a minimal time and plat investment in Pottery, any character can make this useful consumable to escape from the deepest dungeon or highest plane. Melee characters who cannot cast Gate are especially encouraged to keep one handy, along with a Worker Sledgemallet and Leatherfoot Raider Skullcap. Confirmed level 5 can click 3/7/23.  Say "What velium vapors?" to Frundle Frenkler and receive the Velium Purifier.
+ 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #4: Fur-Lined Coldain Prayer Shawl
+
+  Player crafted 
+  Tradeskill recipes 
+Step 1
+
+ Combine a small (7 lb) Small Brick of Velium, 3 Crystalline Silk and 2 Glass Shard  in a pottery wheel. You will receive an Unfired Velium Vial.
+
+ Pottery (Trivial: 122)
+ Yield: Unfired Velium Vial x1
+ In Pottery Wheel:
+
+
+  3 x Crystalline Silk - Dropped
+  2 x Glass Shard - Bought
+  1 x Small Brick of Velium - Crafted, Dropped
+
+
+Step 2
+
+ Combine the Unfired Velium Vial and a High Quality Firing Sheet in the kiln and receive a Velium Vial.
+
+ Pottery (Trivial: 122)
+ Yield: Velium Vial x1
+ In Kiln:
+
+
+  1 x High Quality Firing Sheet - Bought
+  1 x Unfired Velium Vial - Crafted
+
+
+Step 3
+
+ Get a Velium Purifier by asking Frundle Frenkler (a shopkeep near the church) "What velium vapors?".
+
+Step 4
+
+ Combine the Velium Vial and 2 Small Piece of Velium in the Velium Purifier. The Velium Purifier disappears and you are left with a Vial of Velium Vapors. The vial is a lore item and has one charge of gate to Thurgadin.
+
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Vial of Velium Vapors x1
+ In Velium Purifier:
+
+
+  1 x Velium Vial - Crafted
+  2 x Small Piece of Velium - Crafted, Dropped
+
+
+The vial is trivial at skill 122.
+
+
+

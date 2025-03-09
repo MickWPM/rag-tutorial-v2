@@ -1,0 +1,36 @@
+ITEM NAME: Frost Covered Tome
+
+Were you looking for Frost Covered Tome Alt?
+Velious Era (added December 2000-2001)
+
+Frost Covered Tome
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+AC: 2
+HP: +50  MANA: +50
+SV MAGIC: +5
+WT: 2.0  Size: MEDIUM
+Class: CLR NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Frosted Tome of Battle  Name was later hyphenated. 
+
+  Drops From 
+Velketor's Labyrinth
+
+ Lord Doljonijiarnimorinar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

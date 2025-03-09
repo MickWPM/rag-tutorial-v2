@@ -1,0 +1,118 @@
+ITEM NAME: Unadorned Plate Boots
+
+Velious Era (added December 2000-2001)
+
+Unadorned Plate Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+WT: 6.0  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+(ToV East mobs)
+
+ an ancient guardian wurm
+ an ancient tigerclaw racnar
+ an elder shard wyvern
+ a burning guardian
+ a fiery drake
+ a greater sky drake
+ an ancient frost guardian
+ an ancient shard wyvern
+ a raging wyvern
+ a vehement wyvern
+ a shimmer drake
+ a racnar
+ an emerald watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Related quests 
+Bard Skyshrine Boots (Boots of TwilightBoots of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 22
+STR: +4  CHA: +4
+SV FIRE: +2  SV COLD: +2  SV MAGIC: +3
+WT: 6.0  Size: MEDIUM
+Class: BRD
+Race: HUM ELF HEF
+
+
+)
+Cleric Skyshrine Boots (Akkirus' Boots of the RisenAkkirus' Boots of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 24
+STR: +3  STA: +6  CHA: +2  HP: +20  MANA: +20
+SV FIRE: +2  SV COLD: +2  SV MAGIC: +2
+Effect:  Abundant Drink (Must Equip, Casting Time: 10.0)
+WT: 6.0  Size: MEDIUM
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+)
+Paladin Skyshrine Boots (Scaled Knight's BootsScaled Knight's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 24
+STR: +3  DEX: +2  STA: +6  WIS: +2  AGI: +2
+SV DISEASE: +3  SV POISON: +3
+WT: 6.0  Size: MEDIUM
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+)
+Shadowknight Skyshrine Boots (Blood Lord's BootsBlood Lord's Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 24
+STR: +4  STA: +6  INT: +3
+SV DISEASE: +1  SV COLD: +1  SV POISON: +1
+WT: 5.5  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+)
+Warrior Skyshrine Boots (Boots of the MyrmidonBoots of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 28
+DEX: +2  STA: +4  HP: +25
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+WT: 7.0  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+)
+
+

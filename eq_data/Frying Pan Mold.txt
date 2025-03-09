@@ -1,0 +1,53 @@
+ITEM NAME: Frying Pan Mold
+
+Velious Era (added December 2000-2001)
+
+
+Frying Pan Mold
+
+
+WT: 1.2  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Roghur Muleson
+
+
+
+  (-24, -492)
+
+
+ Skyshrine
+
+ Barkeep Droz
+
+
+
+  (492, -654)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

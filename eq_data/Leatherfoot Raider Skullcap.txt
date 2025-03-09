@@ -1,0 +1,37 @@
+ITEM NAME: Leatherfoot Raider Skullcap
+
+Classic Era (added 1999-2000)
+
+Leatherfoot Raider Skullcap
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+Charges: 1
+AC: 7
+STR: +5  CHA: +10  AGI: +5
+SV MAGIC: +5
+Effect:  Ring of Commons (Any Slot, Casting Time: Instant)
+WT: 0.5  Size: SMALL
+Class: WAR CLR PAL RNG DRU ROG
+Race: HFL
+
+
+ Item Lore (from Identify): Player Raider Cap Players use this item to escape the threat of death or to teleport to West Commons during urgent raid situations.
+
+There are two items with identical names. This one is the Rivervale quest reward.  The cap sells to vendors for very little, but costs around 92p to buy back, and thus costs about 184p to recharge. The recharge rate for this item was not affected by the April 2020 nerf. The other one, Leatherfoot Raider Skullcap (drop), drops from halflings in Nektulos and is for the Halfling Raider Helms quest. 
+ 
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Leatherfoot Raiders
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

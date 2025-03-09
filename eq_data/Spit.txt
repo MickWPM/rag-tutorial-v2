@@ -1,0 +1,194 @@
+ITEM NAME: Spit
+
+
+
+Spit
+
+
+WT: 3.0  Weight Reduction: 0%
+Capacity: 6  Size Capacity: GIANT
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork baker
+
+
+
+  (891, -301)
+
+
+ Butcherblock Mountains
+
+ Nalda Griststone
+
+
+
+  (2717, -964)
+
+
+ East Cabilis
+
+ Klok Gritchit
+
+
+
+  (593, 158)
+
+
+ The Feerrott
+
+ Bup
+
+
+
+  (1182, 117)
+
+
+ West Freeport
+
+ Pincia Brownloe
+
+
+
+  (-276, -698)
+
+
+ Greater Faydark
+
+ Merchant Uaylain
+
+
+
+  (-22, 118)
+
+
+ Grobb
+
+ Garklog
+
+
+
+  (502, -207)
+
+
+ Halas
+
+ Jil McDaniel
+
+
+
+  (325, -289)
+
+
+ Neriak Commons
+
+ Niz L`Crit
+
+
+
+  (82, -884)
+
+
+ Qeynos Hills
+
+ Mira Sayer
+
+
+
+  (1404, 307)
+
+
+ Surefall Glade
+
+ Frannie
+
+
+
+  (-43, 12)
+
+
+ Rivervale
+
+ Yola Sweetcookie
+
+
+
+  (-220, -189)
+
+
+ Rivervale
+
+ Bartle Barnick
+
+
+
+  (-142, -358)
+
+
+ Skyshrine
+
+ Barkeep Droz
+
+
+
+  (492, -654)
+
+
+ Steamfont Mountains
+
+ Oren Furdenbline
+
+
+
+  (-1623, 429)
+
+
+ Thurgadin
+
+ Petcas Coldbeard
+
+
+
+  (-57, 94)
+
+
+ Thurgadin
+
+ Wevil Doughbeard
+
+
+
+  (-287, 134)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking (Container)
+
+
+
+
+
+Tradeskill Containers
+Brew Barrel • Forge • Kiln • Pottery Wheel • Loom • Sewing Kit • Fletching Kit
+Oven • Mixing Bowl • Spit • Jeweler's Kit • Toolboxes • Tackle Box
+Medicine Bag • Bearskin Potion Bag • "Always Works" containers
+
+
+

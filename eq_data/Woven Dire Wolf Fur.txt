@@ -1,0 +1,44 @@
+ITEM NAME: Woven Dire Wolf Fur
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+
+Woven Dire Wolf Fur
+
+
+WT: 0.1  Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 46)
+ Yield: Woven Dire Wolf Fur x1
+ In Loom:
+
+
+  1 x Embroidering Needle - Crafted, Returned on Failure, Returned on Success
+  3 x Patch of Dire Wolf Fur - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

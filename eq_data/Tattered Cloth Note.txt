@@ -1,0 +1,29 @@
+ITEM NAME: Tattered Cloth Note
+
+Classic Era (added 1999-2000)
+Tattered Cloth Note
+
+
+LORE ITEM NO DROP
+WT: 0.0  Size: TINY
+
+
+ Item Lore (from Identify): Contract on Gash
+ Item Lore (from Identify): Returned Contract on Gash
+ Item Lore (from Identify): Note to Hubard L'rodd 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Nitrates and the Assassin
+ Thex Mallet
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

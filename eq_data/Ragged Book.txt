@@ -1,0 +1,49 @@
+ITEM NAME: Ragged Book
+
+Kunark Era (added 2000)
+
+
+A Ragged Book
+
+
+NO DROP  QUEST ITEM
+WT: 0.1  Size: SMALL
+
+
+ Item Lore (from Identify): So You Lost Your Newbie Item? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Penance 
+
+  Book contents 
+The will of Cazic Thule is Strong.
+The route to Cazic Thule is through the strength of the Brood.
+The Brood is the living instrument of Cazic Thule.
+This is the will of Cazic Thule.
+
+Your lack of discipline is an assault on the well being of the Brood.
+You have shown weakness in your inability to fulfill your destiny as a member of the Brood.
+
+You have defied the will of Cazic Thule.
+Your fate will be decided by the grace of Cazic Thule.
+Please prepare yourself.
+
+Your weakness warrants your destruction.
+Only our belief in your ability to reclaim your place as a member of the Brood, a seed of Cazic Thule, keeps you from that destruction at this time.
+
+You will be allowed to pay a penance for your defiance of the destiny that Cazic Thule has chosen for you.
+Please find the Toilmaster when you are prepared to begin your penance.
+
+May Cazic Thule find a use for your wretched flesh and allow you to continue on.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

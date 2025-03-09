@@ -1,0 +1,38 @@
+ITEM NAME: Blade of the Black Dragon Eye
+
+ Teddee, wielder of one of the last BotBDE in existence.
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Blade of the Black Dragon Eye
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 14 
+Effect:  Envenomed Breath (Combat, Casting Time: Instant) at Level 50
+WT: 0.5  Size: MEDIUM
+Class: WAR SHD ROG
+Race: ALL
+
+
+No longer drops. Moved from Sebilis to VP in November 2000 (when changed to Sword of the Shissar) and replaced with a lesser Blade of the Green Dragon Eye in Sebilis.
+Ceases to drop 1 month into Kunark. 
+
+  Drops From 
+Old Sebilis
+
+ froglok reet knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

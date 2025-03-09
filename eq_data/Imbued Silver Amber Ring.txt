@@ -1,0 +1,38 @@
+ITEM NAME: Imbued Silver Amber Ring
+
+
+
+Imbued Silver Amber Ring
+
+
+MAGIC ITEM 
+Slot: FINGER
+STR: +2 CHA: -1 INT: +1
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity Cazic-Thule
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ Jewelry Making (Trivial: )
+ Imbued Silver Amber Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Silver Bar - Summoned
+  1 x Imbued Amber - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

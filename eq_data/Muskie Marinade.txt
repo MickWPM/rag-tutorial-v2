@@ -1,0 +1,40 @@
+ITEM NAME: Muskie Marinade
+
+
+Muskie Marinade
+
+
+STR: +1
+SV DISEASE: +2  SV POISON: +2
+This is a feast!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 142)
+ Yield: Muskie Marinade x2
+ In Oven:
+
+
+  1 x Fish Wine - Crafted, Bought, Dropped
+  1 x Rathe Muskie - Fished
+  1 x Snake Egg Oil - Crafted
+  1 x Spices - Bought
+  1 x Vinegar - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

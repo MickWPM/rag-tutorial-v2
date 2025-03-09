@@ -1,0 +1,29 @@
+ITEM NAME: Evil Eye Eyestalks
+
+Classic Era (added 1999-2000)
+Evil Eye Eyestalks
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Different from the Evil Eye Eyestalk that's dropped by other evil eyes, this has an icon of fishing bait and comes from the evil eye in Lower Guk. 
+
+  Drops From 
+Lower Guk
+
+ An Evil Eye (Lower Guk)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

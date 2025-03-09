@@ -1,0 +1,39 @@
+ITEM NAME: Belt of the Pine
+
+
+Belt of the Pine
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 6
+STR: +5  WIS: +5
+SV DISEASE: +5
+Haste: +16%  
+WT: 0.1  Size: SMALL
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit princess
+ a watchful guard
+ an essence carrier
+ an essence tamer
+ Gorgalosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

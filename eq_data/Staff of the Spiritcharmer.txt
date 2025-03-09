@@ -1,0 +1,53 @@
+ITEM NAME: Staff of the Spiritcharmer
+
+
+
+
+ 
+
+ Notice: This page was carbon-copied from Allakhazam. It is probably missing vital information.
+It also may contain info which is incorrect for the Project 1999 Timeline. Please revise accordingly and then remove this message.
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Staff of the Spiritcharmer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 37
+DMG: 9 
+Bane DMG: Undead +3
+STA: +5  WIS: +3  HP: +15  MANA: +10
+SV MAGIC: +5
+Recommended level of 10.
+WT: 1.0  Size: MEDIUM
+Class: SHM
+Race: TRL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spiritcharmer Final Job
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

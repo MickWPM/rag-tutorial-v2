@@ -1,0 +1,199 @@
+ITEM NAME: Bat Wing
+
+
+Bat Wing
+
+
+QUEST ITEM
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a bat
+
+Mistmoore Castle
+
+ a Mistmoore guard
+
+Greater Faydark
+
+ a giant bat
+
+Misty Thicket
+
+ a large bat
+
+Northern Desert of Ro
+
+ a bat
+
+Paineel
+
+ A black bat
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Thurgadin
+
+ a scuttle bat
+
+Tower of Frozen Shadow
+
+ a shrouded bat
+
+West Freeport
+
+ a bat
+
+East Freeport
+
+ a bat
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Jeliala Glimmercharm
+
+  Top floor of the Enchanter guild
+
+  (507, 765)
+
+
+ Erudin Palace
+
+ Tika Shockstep
+
+
+
+  (917, 721)
+
+
+ Field of Bone
+
+ Klok Acet
+
+
+
+  (-2463, 2984)
+
+
+ West Freeport
+
+ Lindie Rains
+
+
+
+  (-39, 12)
+
+
+ West Freeport
+
+ Lysa Truegreen
+
+
+
+  (117, -719)
+
+
+ West Freeport
+
+ Zasrin Blueflame
+
+
+
+  (148, -763)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ Kithicor Forest
+
+ Jeena Firechaser
+
+
+
+  (-216, 3813)
+
+
+ Oggok
+
+ Hrak
+
+
+
+  (821, 849)
+
+
+ Warsliks Woods
+
+ Klok Gragin
+
+
+
+  (-1651, -707)
+
+
+ Warsliks Woods
+
+ Klok Rogalin
+
+
+
+  (-1882, -600)
+
+  Related quests 
+ Neonate Cowardice
+ Unsar's Glory
+ Bat Wings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Baking
+ Batwing Crunchies (Trivial: 46)
+ Fish Rolls (Trivial: 135)
+ Shark Rolls (Trivial: 135)
+ Rolled Cutlassfish (Trivial: 142)
+
+ Pottery
+ Spell Research
+ Practice Rune (Azia) (Trivial:21)
+
+
+
+This is a reagent for Levitate.
+
+

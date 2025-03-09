@@ -1,0 +1,35 @@
+ITEM NAME: Dark Mail Gauntlets
+
+Classic Era (added 1999-2000)
+
+Dark Mail Gauntlets
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 10
+DEX: +5  MANA: +50
+WT: 4.5  Size: SMALL
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 10p 1g 5s 1c 
+
+  Drops From 
+Lower Guk
+
+ a ghoul sentinel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

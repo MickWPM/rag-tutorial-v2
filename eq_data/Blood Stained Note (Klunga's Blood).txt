@@ -1,0 +1,37 @@
+ITEM NAME: Blood Stained Note (Klunga's Blood)
+
+
+
+Blood Stained Note (Klunga's Blood)
+
+
+LORE ITEM
+WT: 0.2  Size: SMALL
+
+
+ Item Lore (from Identify):  Klunga's BloodPlease verify 
+
+  Drops From 
+Dagnor's Cauldron
+
+ Exiled Legionnaire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Chalice of Conquest Quest 
+
+  Book contents 
+Dis here is notice of Kungla death
+Kungla tried to redeem self by stealing cup for Crushbone
+Kungla drink frum dwarf cup at lake and die. Cup bad.
+We takes body back to Calldrin. We burns body in firepit.
+We bury cup here. We kill Gnome caster here. He noes sumting. Den all good.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

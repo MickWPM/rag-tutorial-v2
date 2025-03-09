@@ -1,0 +1,36 @@
+ITEM NAME: A Ghoul's Heart
+
+Warrens Era (added spring 2001)
+
+
+A Ghoul's Heart
+
+
+LORE ITEM NODROP
+Slot: NECK 
+CHA: -10 
+WT: 0.1 Size: TINY 
+Class: ALL 
+Race: ALL 
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a carrion ghoul
+ a crazed ghoul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Sword of Nobility
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

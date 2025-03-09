@@ -1,0 +1,34 @@
+ITEM NAME: Red Wood Wand
+
+
+Red Wood Wand
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Charges: 5
+Effect:  Pillar of Fire (Any Slot, Casting Time: 8 secs)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This wand may be clicked at level 1 and recharged. The buyback price is 6pp per wand. A lesser known way to cheese and quad a spectre. Six or so wands per spectre quad, and the spectre drops may cover the recharge cost. Nerfed April 19th 2020 [1] 
+The nerf was its value is zero meaning you can no longer sell to a vendor at all. Also now has casting time and no longer Instant. 
+
+  Drops From 
+Lesser Faydark
+
+ Mina Glimmerwing
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

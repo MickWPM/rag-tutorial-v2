@@ -1,0 +1,40 @@
+ITEM NAME: Unfired Idol
+
+Velious Era (added December 2000-2001)
+
+
+Unfired Idol
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 255)
+ Unfired Idol (of specific god)
+ In Pottery Wheel:
+
+
+ 1 x Imbued Gem - Summoned (see Idols Section of Pottery or Imbued Gems for gem/deity combination)
+  1 x Idol Sketch - Bought
+  1 x Large Block of Magic Clay - Summoned
+  1 x Sculpting Tools - Bought, Returned on Failure, Returned on Success
+  1 x Vial of Clear Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

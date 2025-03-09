@@ -1,0 +1,38 @@
+ITEM NAME: Maleficent Leggings
+
+Velious Era (added December 2000-2001) 
+ 
+
+
+Maleficent Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+Charges: 3
+AC: 10
+STA: +15  AGI: +15  MANA: +15
+SV FIRE: +5  SV COLD: +5
+Effect:  Ring of Misty (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.4  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+Image tint is slightly brighter in game. (Seafoam Green) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

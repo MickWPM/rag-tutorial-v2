@@ -1,0 +1,42 @@
+ITEM NAME: Scale Temper
+
+Kunark Era (added 2000)
+
+
+Scale Temper
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 135)
+ Yield: Scale Temper x1
+ In Brewing Barrel:
+
+
+  1 x Flask of Bloodwater - Bought
+  1 x Froglok Blood - Dropped
+  1 x Iksar Blood - Dropped
+  1 x Sarnak Blood - Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Iksar Cultural Smithing (Trivial: Various)
+
+
+
+
+

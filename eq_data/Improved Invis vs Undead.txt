@@ -1,0 +1,103 @@
+ITEM NAME: Improved Invis vs Undead
+
+Velious Era (added December 2000-2001)
+
+
+Spell: Improved Invis vs Undead
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Divination
+Mana Cost: 75
+Effect:  Improved Invis to Undead
+WT: 0.1  Size: SMALL
+Class: CLR NEC
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a bulthar herdleader
+ Azureake
+
+Dragon Necropolis
+
+ A Chetari Deathbinder
+ A Chetari Deathshaper
+ a Chetari dominator
+ a Chetari runemage
+ A Chetari seeker
+
+Great Divide
+
+ a crystaline shardwurm
+ shardwurm matriarch
+
+Icewell Keep
+
+ a coldain skeleton
+ a frost spike
+ an avalanche golem
+ Frosticube
+
+Plane of Growth
+
+ a rolling plains steed
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a neriad maiden
+ A servant manatee
+ a siren enticer
+ a siren priestess
+
+Velketor's Labyrinth
+
+ a cold shade
+ a cold spectre
+ a crystal shard
+ a crystalline gargoyle
+ a crystalline shard
+ a Frenzied Velium Broodling
+ a Frenzied Velium Stalker
+ a frost spectre
+ a large crystal shard
+ a velium broodling
+ a velium hunter
+ a velium stalker
+ An Icepaw Champion
+ an Icepaw cleric
+ an Icepaw kobold
+ an Icepaw kobold priest
+ an Icepaw kobold warrior
+ an Icepaw prophet
+ an icy watcher
+ Crystal Eyes
+ Crystal Fang
+ Crystal Guardian
+ Errkak Icepaw
+ Icepaw kobold
+ Icy Guardian
+ Jelek Icepaw
+ Laryk Icepaw
+ Marlek Icepaw
+ Rowwek Icepaw
+ Tpos Icepaw
+ Ular Icepaw
+ Venar Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

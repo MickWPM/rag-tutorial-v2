@@ -1,0 +1,72 @@
+ITEM NAME: Coldain Velium Two Handed Sword
+
+Velious Era (added December 2000-2001)
+Coldain Velium Two Handed Sword
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 43
+DMG: 13 
+Effect:  Velium Shards (Combat, Casting Time: Instant)
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+
+ Thurgadin
+
+ Hakon Brightsteel
+
+
+
+  (-440, 78)
+
+
+ Thurgadin
+
+ Jeril Kettletop
+
+
+
+  (-73, -482)
+
+
+ Thurgadin
+
+ Seril Kettletop
+
+
+
+  (-36, -495)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

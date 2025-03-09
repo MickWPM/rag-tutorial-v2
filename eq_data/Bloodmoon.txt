@@ -1,0 +1,35 @@
+ITEM NAME: Bloodmoon
+
+Classic Era (added 1999-2000)
+Bloodmoon
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 28
+DMG: 18 
+STR: +10
+WT: 3.0  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God)
+ Lord of Ire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Rod of Warding Winds
+
+Sky Era (added January 2000)
+
+
+Rod of Warding Winds
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Charges: 4
+Skill: 2H Blunt  Atk Delay: 45
+DMG: 15 
+CHA: +5  INT: +15  MANA: +75
+Effect:  Rune III (Must Equip, Casting Time: Instant) at Level 45
+WT: 5.0  Size: LARGE
+Class: ENC
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Incapacitation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

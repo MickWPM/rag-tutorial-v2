@@ -1,0 +1,38 @@
+ITEM NAME: Studded Mask
+
+Classic Era (added 1999-2000)
+
+Studded Mask
+
+
+Slot: FACE
+AC: 3
+WT: 0.3  Size: Medium
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 56)
+ Yield: Studded Mask x1
+ In Loom:
+
+
+  1 x Mask Pattern - Bought
+  1 x Medium Quality Cat Pelt - Crafted, Dropped
+  1 x Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,53 @@
+ITEM NAME: Tanned Split Paw Skin (lore)
+
+
+
+Tanned Split Paw Skin (lore)
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Note: There are four identically named items. Volumes 1, 2, 3, and 4. 
+All scrolls drop both in Splitpaw and Southern Karana 
+
+  Drops From 
+Splitpaw Lair
+
+ an Ishva Lteth gnoll (Vol 1?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gem Inlaid Gauntlets Quest
+ Tesch Val Scrolls 
+
+  Book contents 
+Helle Splitpaw-Haut
+Volume 1 - History of the Verishe Mal
+We were forged from the Earth by the hands of our lord, Brell Serilis. He molded us into an image that suited him, and we were glad. Such is our role to learn and expand, and be one with the underworld. We were born to know many things, and we shall. Our lord told us that we suffered not the curse of the others, and for this, we are grateful.
+Tanned Split Paw Skin
+Volume 2 - History of the Verishe Mal
+Our forefathers gave us many tasks to better us. We learned the way of the sword, and the way of magiks. At each test we proved victorious, and for a time, quite prosperous. In time, we grew to be a large race, and created a ruthless empire that spanned many a mile. Our worth was broken down into a caste system, and many were made slaves.
+Volume 3 - History of the Verishe Mal
+The Verishe Mal were then ruled by the Ishva Mal, hard and stern rulers. In the old tongue, Ishva meant Supreme and Mal meant ruler. Beneath the Ishva, there were the Rosch, and the Tesch, the caster and warrior castes. Above the Rosch and the Tesch were the Nisch, the spiritual leaders of the Verishe Mal. Shortly after the abolition of the old ways and the
+Volume 4 - History of the Verishe Mal
+The Council of Nine has ruled us faithfully for many a year now. We find peace in our lives, and vow not to harm another. There are still many factions that wish to return to the old ways, but the current council, has opposed those ideas in chamber. They suspect at this time that there may be someone working within the council to return the Verishe to the
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

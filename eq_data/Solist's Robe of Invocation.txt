@@ -1,0 +1,38 @@
+ITEM NAME: Solist's Robe of Invocation
+
+Hole Era (added June 2000)
+
+
+ Zigzagwanderer <KWSM> rends the competition.
+Solist's Robe of Invocation
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 14
+STA: +10  INT: +13  MANA: +70
+SV FIRE: +3  SV COLD: +3  SV MAGIC: +3
+Effect:  Rend (Must Equip, Casting Time: 14.0) at Level 50
+WT: 3.5  Size: MEDIUM
+Class: WIZ
+Race: ALL
+
+
+This item's clicky effect is a mid-level 784 damage magic nuke. With a 14 second cast time, it can put out 56 DPS. Compare to Vermilion Robe of Torrefaction, Shissar Elementalist's Staff, Vermilion Orb of Torrefaction, Sage's Robe or Solist's Icy Wand. 
+
+  Drops From 
+Veeshan's Peak
+
+ Xygoz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

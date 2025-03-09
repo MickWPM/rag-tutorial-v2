@@ -1,0 +1,36 @@
+ITEM NAME: Assassin's Coif
+
+Velious Era (added December 2000-2001)
+
+
+Assassin's Coif
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 16
+STR: +4  DEX: +3  AGI: +3  HP: +15
+SV MAGIC: +2  SV POISON: +3
+WT: 5.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a spirit flux wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

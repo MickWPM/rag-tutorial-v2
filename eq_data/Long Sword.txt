@@ -1,0 +1,684 @@
+ITEM NAME: Long Sword
+
+
+Long Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 29
+DMG: 6 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: ~11.5p 
+
+  Drops From 
+Greater Faydark
+
+ Guard Crystalwind
+
+Nektulos Forest
+
+ Captain N`Farre
+ Dragoon J`Len
+ Dragoon V`tai
+ Guard E`Tru
+ Guard X`Onnu
+ Sergeant C`orm
+
+North Karana
+
+ Lieutenant Midraim
+
+Ocean of Tears
+
+ Larisa Gelrith
+ Ascania Halvbin
+
+The Overthere
+
+ Dragoon T`Vem
+ Dragoon V`Lask
+ Dragoon V`Resh
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1253, -715)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1329, -762)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1313, -886)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1331, -707)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+  (1324, -749)
+
+
+ Ak'Anon
+
+ Drekon Vebnebber
+
+
+
+  (866, -475)
+
+
+ East Cabilis
+
+ Smithy Qag
+
+
+
+  (-525, -7)
+
+
+ East Cabilis
+
+ Smithy Ygen
+
+
+
+  (-620, -28)
+
+
+ East Cabilis
+
+ Gaxl the scribe
+
+
+
+  (1029, -108)
+
+
+ West Commonlands
+
+ Parus the Strong
+
+
+
+  (-279, 534)
+
+
+ Erudin
+
+ Ghemna Nyjuss
+
+
+
+  (-1070, -398)
+
+
+ Erudin
+
+ Rem Knarjon
+
+
+
+  (-623, -71)
+
+
+ Felwithe
+
+ Tolis Fearnone
+
+
+
+  (-105, -339)
+
+
+ Felwithe
+
+ Tylar Windspirit
+
+
+
+  (7, -256)
+
+
+ Firiona Vie
+
+ Quizan Gaxx
+
+
+
+  (-2873, 2733)
+
+
+ East Freeport
+
+ Klan Smith
+
+
+
+  (-184, -164)
+
+
+ East Freeport
+
+ Gord Smith
+
+
+
+  (-184, -138)
+
+
+ East Freeport
+
+ Prasen Rusgor
+
+
+
+  (-64, -275)
+
+
+ North Freeport
+
+ Mevah Toklius
+
+
+
+  (89, 397)
+
+
+ North Freeport
+
+ Jekel Enhied
+
+
+
+  (-117, 556)
+
+
+ North Freeport
+
+ Rhensa Steadirt
+
+
+
+  (-10, 534)
+
+
+ North Freeport
+
+ Ardiflah Steadirt
+
+
+
+  (-27, 482)
+
+
+ North Freeport
+
+ Jusia Vapious
+
+
+
+  (244, -133)
+
+
+ West Freeport
+
+ Fania Esruc
+
+
+
+  (-251, -820)
+
+
+ West Freeport
+
+ Tyeg Envil
+
+
+
+  (-246, -41)
+
+
+ Greater Faydark
+
+ Merchant Gerienae
+
+
+
+  (-643, 364)
+
+
+ Greater Faydark
+
+ Merchant Tenra
+
+
+
+  (-215, 255)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Greater Faydark
+
+ Merchant Milania
+
+
+
+  (-623, 206)
+
+
+ Greater Faydark
+
+ Merchant Muvien
+
+
+
+  (311, 241)
+
+
+ Grobb
+
+ Gluku
+
+
+
+  (443, -1007)
+
+
+ Grobb
+
+ Hartok
+
+
+
+  (433, -201)
+
+
+ Grobb
+
+ Kagbkek
+
+
+
+  (210, -213)
+
+
+ Grobb
+
+ Tangiz
+
+
+
+  (433, -239)
+
+
+ Halas
+
+ Kevan McPherson
+
+
+
+  (210, -324)
+
+
+ Halas
+
+ Kar O`Dansin
+
+
+
+  (510, -505)
+
+
+ Highpass Hold
+
+ Mardon Smith
+
+
+
+  (-378, -112)
+
+
+ Highpass Hold
+
+ Dovik Greenbane
+
+
+
+  (-318, -113)
+
+
+ South Kaladim
+
+ Vacto Molunel
+
+
+
+  (33, 408)
+
+
+ South Kaladim
+
+ Hindaek Stormhammer
+
+
+
+  (139, 371)
+
+
+ South Kaladim
+
+ Didek Stormhammer
+
+
+
+  (136, 221)
+
+
+ South Kaladim
+
+ Handaaf Orcslicer
+
+
+
+  (-42, 428)
+
+
+ North Kaladim
+
+ Murlond Everhot
+
+
+
+  (367, -173)
+
+
+ North Kaladim
+
+ Darthur Nightseer
+
+
+
+  (947, 143)
+
+
+ Neriak Foreign Quarter
+
+ Kruna
+
+
+
+  (-308, -456)
+
+
+ Neriak Foreign Quarter
+
+ Relgor
+
+
+
+  (-330, -352)
+
+
+ Neriak Foreign Quarter
+
+ Namarg
+
+
+
+  (-279, -422)
+
+
+ Neriak Commons
+
+ Zanotix Ixtaz
+
+
+
+  (81, -868)
+
+
+ Neriak Commons
+
+ Issva H`Rugla
+
+
+
+  (-74, -1123)
+
+
+ Neriak Third Gate
+
+ Cazum N`Tan
+
+
+
+  (1335, -1269)
+
+
+ Oggok
+
+ Cikoona
+
+
+
+  (446, 476)
+
+
+ Oggok
+
+ Varrok Neckchopper
+
+
+
+  (324, -212)
+
+
+ Oggok
+
+ Iksob Darkchaser
+
+
+
+  (273, 11)
+
+
+ Oggok
+
+ Snarg Bonesmacker
+
+
+
+  (83, 1)
+
+
+ The Overthere
+
+ Tin Merchant VII
+
+
+
+  (2617, 2587)
+
+
+ Paineel
+
+ Dilche Orlezcha
+
+
+
+  (900, 470)
+
+
+ South Qeynos
+
+ Barthal
+
+
+
+  (-55, -303)
+
+
+ South Qeynos
+
+ Moran Smith
+
+
+
+  (-60, -246)
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+
+ South Qeynos
+
+ Bisdlo Ravtahm
+
+
+
+  (-258, -525)
+
+
+ South Qeynos
+
+ Rabley Trumend
+
+
+
+  (35, -550)
+
+
+ North Qeynos
+
+ Rendallen Ironforge
+
+
+
+  (50, 86)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Rathe Mountains
+
+ Ukla
+
+
+
+  (1731, 1289)
+
+
+ Rathe Mountains
+
+ Lianna Ferasa
+
+
+
+  (3989, 1477)
+
+
+ Rivervale
+
+ Rantho Goobler
+
+
+
+  (85, -140)
+
+
+ Thurgadin
+
+ Brigam
+
+
+
+  (-208, 485)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (6, 897)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

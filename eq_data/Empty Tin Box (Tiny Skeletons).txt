@@ -1,0 +1,30 @@
+ITEM NAME: Empty Tin Box (Tiny Skeletons)
+
+Were you looking for Empty Tin Box (Bronze Shackle) for Monk Shackle Quests Quest?
+Classic Era (added 1999-2000)
+
+
+Empty Tin Box
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tiny Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

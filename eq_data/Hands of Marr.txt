@@ -1,0 +1,33 @@
+ITEM NAME: Hands of Marr
+
+GM Event item (info)
+
+
+Hands of Marr
+
+
+MAGIC ITEM LORE ITEM NO TRADE
+Slot: HANDS
+AC: 12
+STR: +7 AGI: +7
+SV FIRE: +5 SV COLD: +5 SV MAGIC: +5
+WT: 2.5 Size: SMALL
+Class: PAL
+Race: ALL
+
+
+GM event item. [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Peacekeeper Staff
+
+
+
+Peacekeeper Staff
+
+
+LORE ITEM
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 4 
+WT: 6.5  Size: LARGE
+Class: CLR PAL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Peacekeeper Staff Quest
+
+  Player crafted 
+ Non-Tradeskill 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

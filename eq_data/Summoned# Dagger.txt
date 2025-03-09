@@ -1,0 +1,32 @@
+ITEM NAME: Summoned: Dagger
+
+
+
+Summoned: Dagger
+
+
+MAGIC ITEM  TEMPORARY  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 21
+DMG: 3 
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+Magicians summon this via the Summon Dagger spell. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Power of the Gatecallers
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

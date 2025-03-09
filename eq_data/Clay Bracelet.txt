@@ -1,0 +1,34 @@
+ITEM NAME: Clay Bracelet
+
+Temple Era (added October 1999)
+
+
+Clay Bracelet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 4
+SV MAGIC: +5
+Effect:  Eye of Zomm (Any Slot/Can Equip, Casting Time: Instant) at Level 20
+WT: 1.0  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore (from Identify):  'Clay Bracelet'  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Clay Bracelet Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

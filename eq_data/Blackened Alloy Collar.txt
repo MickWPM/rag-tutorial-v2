@@ -1,0 +1,36 @@
+ITEM NAME: Blackened Alloy Collar
+
+Stonebrunt Era (added summer 2001)
+
+Blackened Alloy Collar
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 7
+WT: 1.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Blackened Alloy Armor Set. 
+
+  Drops From 
+Clan Runnyeye
+
+ a Pickclaw veteran
+ a Pickclaw Foeseeker
+ Battlelord Paluk
+ Lord Pickclaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,94 @@
+ITEM NAME: Helatan's Writ of Depravity
+
+
+
+Helatan's Writ of Depravity
+
+
+WT: 0.0  Size: TINY
+
+
+Recipes for necromancer spell research. Item appears to be written in Elder Dragon. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Dead Man Floating:
+Words of the Psyche
+Words of Burnishing
+Cackling Bones:
+Words of Obligation
+Words of Collection (Caza)
+Invoke Death:
+Words of Requisition
+Words of Acquisition (Beza)
+Bond of Death:
+Words of Grappling
+Words of Odus
+Lich:
+Words of the Ethereal
+Paralyzing Earth:
+Words of Crippling Force
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

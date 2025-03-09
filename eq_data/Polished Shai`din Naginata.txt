@@ -1,0 +1,37 @@
+ITEM NAME: Polished Shai`din Naginata
+
+Kunark Era (added 2000)
+
+Polished Shai`din Naginata
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 46
+DMG: 38   AC: 10
+STR: +8  STA: +10  WIS: +5  INT: +5
+SV FIRE: +3  SV COLD: +3  SV MAGIC: +3
+WT: 3.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Korocust
+ a Security Advisor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

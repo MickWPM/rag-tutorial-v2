@@ -1,0 +1,41 @@
+ITEM NAME: Blood of the Wolf
+
+
+Blood of the Wolf
+
+
+EXPENDABLE  Charges: 1
+Effect:  Spirit of Wolf (Any Slot, Casting Time: 4.0)
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+One of the more popular potions.  10 can be combined into a 10 dose potion using a Bearskin Potion Bag. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 37)
+ Yield: Blood of the Wolf x1
+ In Medicine Bag:
+
+
+  1 x Birthwort - Bought
+  1 x Fenugreek - Bought
+  1 x Wolf Blood - Bought 
+
+
+  Tradeskill recipes 
+ Alchemy
+ 5 Dose Blood of the Wolf
+ 10 Dose Blood of the Wolf
+
+
+
+
+

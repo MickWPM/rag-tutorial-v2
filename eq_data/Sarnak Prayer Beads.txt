@@ -1,0 +1,35 @@
+ITEM NAME: Sarnak Prayer Beads
+
+Chardok Revamp Era (added late 2001)
+
+Sarnak Prayer Beads
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE
+AC: 5
+STR: +15  HP: +35  MANA: +35
+SV COLD: +10
+WT: 3.0  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Foreman Ku`lul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Bracer of Midnight
+
+Velious Era (added December 2000-2001)
+
+
+Bracer of Midnight
+
+
+NO DROP
+Slot: WRIST
+AC: 9
+STR: +5  AGI: +5  HP: +10
+WT: 0.5  Size: MEDIUM
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Wenglawks Kkeak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spear Delivery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

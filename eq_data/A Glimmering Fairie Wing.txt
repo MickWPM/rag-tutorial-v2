@@ -1,0 +1,30 @@
+ITEM NAME: A Glimmering Fairie Wing
+
+Classic Era (added 1999-2000)
+
+
+A Glimmering Fairie Wing
+
+
+LORE ITEM  NO DROP
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Princess Joleena's Wing 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rain Caller Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

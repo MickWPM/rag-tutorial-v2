@@ -1,0 +1,35 @@
+ITEM NAME: Silk Bandage
+
+
+
+Silk Bandage
+
+
+QUEST ITEM
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Player Crafted. Also lighter than store bought Bandages. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 21)
+ Yield: Silk Bandage x1
+ In Loom:
+
+
+  2 x Silk Thread - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,47 @@
+ITEM NAME: A Faded Salil's Writ Page
+
+
+
+A Faded Salil's Writ Page
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+You combine these by themselves in your research book.  If successful, you will produce a usable page for research.
+If you use /outputfile inventory Filenamehere you can tell which faded page you have based off its item id 11706 is 64 (Left) (Faded), 11710 is 90 (Right) (Faded), 11712 is 153 (Left) (Faded), 11720 is 288 (Right) (Faded), 11721 is 282 (Right) (Faded). 
+ Merchant resale value: 9s 3c 
+
+  Drops From 
+Oasis of Marr
+
+ a spectre
+
+West Karana
+
+ a hill giant
+
+Kedge Keep
+
+ A piercer swordfish
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Research
+ Salil's Writ Pg. 64 (Left) (Trivial: < 142)
+ Salil's Writ Pg. 90 (Right) (Trivial: < 142)
+ Salil's Writ Pg. 153 (Left) (Trivial: >= 144)
+ Salil's Writ Pg. 282 (Right) (Trivial: >= 146)
+ Salil's Writ Pg. 288 (Right) (Trivial: >= 145)
+
+
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Amnesic Lolium
+
+Classic Era (added 1999-2000)
+
+
+Amnesic Lolium
+
+
+QUEST ITEM
+Effect: Injected Poison III (Combat, Casting Time: Instant) at Level 30
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 236)
+ Yield: Amnesic Lolium x1
+ In Mortar and Pestle:
+
+
+  1 x Larent Suspension - Bought
+  1 x Sealed Poison Vial - Crafted, Bought, Returned on Failure
+  1 x Snowfall Algae - Bought, Dropped
+  2 x Tares Lichen - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

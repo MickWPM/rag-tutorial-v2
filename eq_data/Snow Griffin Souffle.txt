@@ -1,0 +1,39 @@
+ITEM NAME: Snow Griffin Souffle
+
+Velious Era (added December 2000-2001)
+
+
+Snow Griffin Souffle
+
+
+MAGIC ITEM  NO DROP
+This is a hearty meal!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ Baking (Trivial: 122)
+ Yield: Snow Griffin Souffle x1
+ In Oven:
+
+
+  4 x Snow Griffin Egg - Dropped
+  1 x Spices - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

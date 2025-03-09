@@ -1,0 +1,48 @@
+ITEM NAME: Garsen's Brewing List
+
+Classic Era (added 1999-2000)
+
+Garsen's Brewing List
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Vengeful Musicians 
+
+  Book contents 
+The best Brews of Norrath. 
+
+   Bog Juice 
+   Kalish 
+   Honey Mead 
+   Fish Wine 
+   Ale 
+   Gypsy Wine 
+   White Wine 
+   Red Wine 
+   Gnomish Spirits 
+   Elven Wine 
+   Vodka 
+   Brandy 
+   Halfling Stouters 
+   Halas Heater 
+   Ol' Tujim's Fierce Brew 
+   Hulgarsh 
+   Bleeding Brain 
+   Ginesh
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

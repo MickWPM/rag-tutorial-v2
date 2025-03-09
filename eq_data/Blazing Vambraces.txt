@@ -1,0 +1,38 @@
+ITEM NAME: Blazing Vambraces
+
+The Shield of Flame effect is targeted; the owner is able to cast upon other players and NPC pets.
+
+
+ Sheesha models the Blazing Vambraces of Fennin Ro.
+Blazing Vambraces
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 15
+DEX: +8  CHA: +5  AGI: +8
+SV FIRE: +20
+Effect:  Shield of Flame (Must Equip, Casting Time: Instant) at Level 45
+WT: 3.7  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+ Item Lore (from Identify):  'Blazing Vambraces'  
+
+  Drops From 
+Nagafen's Lair
+
+ Zordakalicus Ragefire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Gold lined heretic cloak
+
+Hole Era (added June 2000)
+
+
+Gold lined heretic cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify):  Gold lined heretic cloak 
+
+  Drops From 
+The Hole
+
+ a revenant
+ a wanderer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

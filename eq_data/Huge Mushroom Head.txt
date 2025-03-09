@@ -1,0 +1,32 @@
+ITEM NAME: Huge Mushroom Head
+
+
+
+Huge Mushroom Head
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Spore Guardian Head 
+
+  Drops From 
+Innothule Swamp
+
+ Spore Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Froglok Skin Mask Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

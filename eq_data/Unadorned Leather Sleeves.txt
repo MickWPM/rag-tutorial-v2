@@ -1,0 +1,47 @@
+ITEM NAME: Unadorned Leather Sleeves
+
+Velious Era (added December 2000-2001)
+
+Unadorned Leather Sleeves
+
+
+LORE ITEM  NO DROP
+Slot: ARMS
+WT: 1.5  Size: TINY
+Class: DRU MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+(ToV East mobs)
+
+ an ancient guardian wurm
+ an ancient tigerclaw racnar
+ an elder shard wyvern
+ a burning guardian
+ a fiery drake
+ a greater sky drake
+ an ancient frost guardian
+ an ancient shard wyvern
+ a raging wyvern
+ a vehement wyvern
+ a shimmer drake
+ a racnar
+ an emerald watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Skyshrine Sleeves
+ Monk Skyshrine Sleeves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

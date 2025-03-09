@@ -1,0 +1,26 @@
+ITEM NAME: Quiver of Marr (Item)
+
+
+Quiver of Marr
+
+
+TEMPORARY
+WT: 0.1  Weight Reduction: 0%
+Capacity: 6  Size Capacity: MEDIUM
+
+
+Summoned via the mage spell Quiver of Marr. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

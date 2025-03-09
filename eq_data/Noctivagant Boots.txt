@@ -1,0 +1,36 @@
+ITEM NAME: Noctivagant Boots
+
+Velious Era (added December 2000-2001)
+
+
+Noctivagant Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 21
+STR: +3  INT: +2
+WT: 5.5  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+Part of the Noctivagant Armor set. 
+
+  Drops From 
+Plane of Growth
+
+ a gale wolf
+ Gale Wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

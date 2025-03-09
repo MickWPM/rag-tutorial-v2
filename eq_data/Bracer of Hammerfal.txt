@@ -1,0 +1,43 @@
+ITEM NAME: Bracer of Hammerfal
+
+Velious Era (added December 2000-2001)
+
+Bracer of Hammerfal
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+STA: +5  WIS: +3  HP: +25
+Effect:  Summon Throwing Hammer (Any Slot, Casting Time: 3.5)
+WT: 4.1  Size: MEDIUM
+Class: ALL except ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+For non-rogues this is an easily obtained source of infinite ammo throwing weapons, namely Shattering HammerShattering Hammer
+
+
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 30
+DMG: 9
+WT: 1.0  Range: 55  Size: SMALL
+Class: ALL except ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+s.  Unfortunately it lacks range, and is quite heavy for monks.  Summons stacks of 20. 
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velium Retrieval
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

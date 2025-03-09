@@ -1,0 +1,38 @@
+ITEM NAME: Batwing Pie
+
+Classic Era (added 1999-2000)
+
+Batwing Pie
+
+
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 142)
+ Yield: Batwing Pie x4
+ In Oven:
+
+
+  1 x Bat Wing - Bought, Dropped
+  1 x Clump of Dough - Crafted
+  1 x Pie Tin - Crafted, Returned on Failure, Returned on Success
+  1 x Spices - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

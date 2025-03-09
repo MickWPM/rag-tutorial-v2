@@ -1,0 +1,42 @@
+ITEM NAME: Saucy Bunnymeat
+
+Velious Era (added December 2000-2001)
+
+
+Saucy Bunnymeat
+
+
+NO DROP
+This is a meal!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ Baking (Trivial: 63)
+ Yield: Saucy Bunnymeat x1
+ In Mixing Bowl:
+
+
+  2 x Snow Bunny Meat - Dropped
+  1 x Jug of Sauces - Bought 
+
+
+  Tradeskill recipes 
+ Baking
+ Snow Bunny Stew (Trivial: 68)
+
+
+
+
+

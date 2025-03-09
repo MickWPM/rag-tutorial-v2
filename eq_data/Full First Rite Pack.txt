@@ -1,0 +1,40 @@
+ITEM NAME: Full First Rite Pack
+
+Kunark Era (added 2000)
+
+
+Full First Rite Pack
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 4.2  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Clay
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No Fail)
+ Yield: Full First Rite Pack
+ In First Rite Pack:
+
+
+  1 x Goblin Scout Beads - Dropped (Lake of Ill Omen, Warsliks Woods or Lavastorm)
+  1 x Large Scorpion Pincer - Dropped (Field of Bone)
+  1 x Skipping Stone - Dropped (Swamp of No Hope)
+  1 x Sabertooth Cub Canine - Dropped (Lake of Ill Omen) 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

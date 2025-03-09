@@ -1,0 +1,59 @@
+ITEM NAME: Runes and Research Volume I
+
+
+
+Runes and Research Volume I
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Evil Research
+ Research Aid 
+
+  Book contents 
+The Researchers Guide To Practice Runes
+compiled by The Arch-Mage of Norrath
+
+The making of Runes is a delicate matter.
+It is not just one of your researching games
+While at first you might doubt The might of my arts
+I tell you that a rune Must have two separate parts.
+
+With apologies to the Master Cat Bard
+
+Practice Runes, not to be confused with Wizard Research
+Runes, are used by Magi who wish to gain skill in research
+without the pressure of practicing on real research components.
+
+There are eight types of practice runes, and two runes
+of each type - Azia and Beza. Azia and Beza runes can be
+constructed by combining specific components in a
+Concordance of Research. There is no skill required for
+this - the Magic of the Concordance is responsible
+for the transmutation of the components into Azia and Beza Runes.
+
+Once the Azia and Beza Runes have been acquired, the Magi
+may practice her research by combining these Runes in her
+appropriate research book - a Lexicon for a Wizard, a Book
+of Dark Bindings for a Necromancer, etc.
+
+All Runes require a Quill and a piece of Parchment, as well as
+other specified components.
+
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

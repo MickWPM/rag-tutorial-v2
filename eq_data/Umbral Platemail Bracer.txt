@@ -1,0 +1,34 @@
+ITEM NAME: Umbral Platemail Bracer
+
+
+
+Umbral Platemail Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+DEX: +5  INT: +3
+WT: 3.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Amygdalan knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

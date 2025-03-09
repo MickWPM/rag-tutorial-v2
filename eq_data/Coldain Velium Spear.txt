@@ -1,0 +1,73 @@
+ITEM NAME: Coldain Velium Spear
+
+Velious Era (added December 2000-2001)
+Coldain Velium Spear
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 27
+DMG: 7 
+Effect: Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 6.3  Size: LARGE
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+
+ Thurgadin
+
+ Jeril Kettletop
+
+
+
+  (-73, -482)
+
+
+ Thurgadin
+
+ Seril Kettletop
+
+
+
+  (-36, -495)
+
+
+ Thurgadin
+
+ Hakon Brightsteel
+
+
+
+  (-440, 78)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Edge of the Taskmaster
+
+Velious Era (added December 2000-2001)
+
+Edge of the Taskmaster
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 10 
+STR: +5  AGI: +10
+SV COLD: +10
+WT: 6.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ Taskmaster Abyott
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

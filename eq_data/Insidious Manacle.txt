@@ -1,0 +1,34 @@
+ITEM NAME: Insidious Manacle
+
+
+
+Insidious Manacle
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 3
+STR: +3  DEX: +3  CHA: +2  MANA: +15
+WT: 0.3  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a forsaken revenant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

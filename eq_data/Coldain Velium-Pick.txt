@@ -1,0 +1,36 @@
+ITEM NAME: Coldain Velium-Pick
+
+Velious Era (added December 2000-2001)
+
+
+Coldain Velium-Pick
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 29
+DMG: 12 
+STA: +7
+Effect: Velium Shards (Combat, Casting Time: Instant) at Level 30
+WT: 10.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Giant Helmets
+ Mining Picks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

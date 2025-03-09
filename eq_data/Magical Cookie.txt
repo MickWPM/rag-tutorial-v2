@@ -1,0 +1,31 @@
+ITEM NAME: Magical Cookie
+
+
+
+Magical Cookie
+
+
+MAGIC ITEM  NO RENT TEMPORARY  
+This is a snack!
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Unknown  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

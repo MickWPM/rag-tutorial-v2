@@ -1,0 +1,49 @@
+ITEM NAME: Crushed Nephrite
+
+Velious Era (added December 2000-2001)
+
+Crushed Nephrite
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is vendor trash - not to be confused with Nephrite (Caster Legs) 
+ Merchant resale value: 24p 7g Max 
+
+  Drops From 
+Cobalt Scar
+
+ a haunted seachest
+
+Velketor's Labyrinth
+
+ Icepaw kobold
+
+Icewell Keep
+
+ a frost spike
+ an avalanche golem
+ Frosticube
+
+The Wakening Land
+
+ a suit of sentient armor
+ Korzak Stonehammer
+ Rapticor
+ A Faerie Dragon
+ A storm giant surveyor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

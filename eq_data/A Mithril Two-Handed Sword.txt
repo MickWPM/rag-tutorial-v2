@@ -1,0 +1,37 @@
+ITEM NAME: A Mithril Two-Handed Sword
+
+Classic Era (added 1999-2000)
+
+Mithril Two-Handed Sword
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 40
+DMG: 21 
+Haste: +31%  
+WT: 8.5  Size: LARGE
+Class: WAR PAL SHD
+Race: ALL
+
+
+ Item Lore (from Identify):  'A Mithril Two-Handed Sword'  
+ Merchant resale value: 22p 8g 5s 7c 
+
+  Drops From 
+Lower Guk
+
+ the froglok king
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

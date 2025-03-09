@@ -1,0 +1,31 @@
+ITEM NAME: Earth Stained Note
+
+Epic Quests Era (added Sept 2000)
+Earth Stained Note
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+
+
+Received from Althele in Eastern Karana. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+ Ranger Epic Quest 
+
+  Book contents 
+We cannot speak again. Our circle is now known and must seek sanctuary. In case this note were to fall into others' hands, I cannot tell you plainly the next steps of your task.
+All I can say is to seek she who walks the path of the mother, she who walks the lands in service to her kin. Give her this note and she will know.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Shackle of Stone
+
+Kunark Era (added 2000)
+
+
+Shackle of Stone
+
+
+LORE ITEM  NO DROP
+Slot: WRIST
+AC: 4
+WT: 0.5  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore (from Identify): 3rd Rung of Swifttail 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Shackle Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

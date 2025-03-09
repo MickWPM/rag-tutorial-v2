@@ -1,0 +1,48 @@
+ITEM NAME: Orc Pawn Pick
+
+Classic Era (added 1999-2000)
+
+Orc Pawn Pick
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 40
+DMG: 2 
+WT: 10.0  Size: MEDIUM
+Class: ALL except CLR DRU MNK SHM
+Race: HUM BAR DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+East Commonlands
+
+ Orc Pawn
+
+Misty Thicket
+
+ Orc Pawn
+
+Northern Desert of Ro
+
+ Deathfist Pawn
+
+West Freeport
+
+ a deathfist pawn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Orc Picks
+ The Lottery Ticket
+ Orc Pawn Picks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

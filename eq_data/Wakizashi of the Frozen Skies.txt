@@ -1,0 +1,34 @@
+ITEM NAME: Wakizashi of the Frozen Skies
+
+Stonebrunt Era (added summer 2001)
+
+Wakizashi of the Frozen Skies
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 6 
+Effect:  Spirit Strike (Combat, Casting Time: Instant) at Level 20
+WT: 1.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yuio's Illness
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Note - This weapon Procs for 80 damage at lvl 20.  Amazing weapon after it begins procing.
+
+

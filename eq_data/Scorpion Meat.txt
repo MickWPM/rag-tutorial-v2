@@ -1,0 +1,51 @@
+ITEM NAME: Scorpion Meat
+
+Kunark Era (added 2000)
+
+
+Scorpion Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Not dropping on p99? Perhaps a bug. 
+
+  Drops From 
+Field of Bone
+
+ a giant scorpion
+ a heartsting scorpion
+ a large scorpion
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Scorpion Sandwich (Trivial: 26)
+
+
+
+
+

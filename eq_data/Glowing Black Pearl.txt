@@ -1,0 +1,35 @@
+ITEM NAME: Glowing Black Pearl
+
+Sky Era (added January 2000)
+
+
+
+Glowing Black Pearl
+
+
+LORE ITEM
+WT: 6.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a heartsbane drake
+ an undine spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Test of The Hands
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

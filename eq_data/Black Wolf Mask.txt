@@ -1,0 +1,31 @@
+ITEM NAME: Black Wolf Mask
+
+
+Black Wolf Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 3
+DEX: +7  CHA: -9
+WT: 1.0  Size: SMALL
+Class: ROG
+Race: BAR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mammoth Calf Hides
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

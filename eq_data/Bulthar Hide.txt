@@ -1,0 +1,35 @@
+ITEM NAME: Bulthar Hide
+
+Velious Era (added December 2000-2001)
+
+
+Bulthar Hide
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ an enthralled bulthar
+
+Cobalt Scar
+
+ a bulthar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

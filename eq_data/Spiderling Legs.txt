@@ -1,0 +1,68 @@
+ITEM NAME: Spiderling Legs
+
+
+
+Spiderling Legs
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a rock spiderling
+
+Commonlands
+
+ a spiderling
+
+Everfrost Peaks
+
+ a wooly spiderling
+
+Field of Bone
+
+ bonecrawler hatchling
+ burynaibane spider
+
+Greater Faydark
+
+ a widow hatchling
+
+Nektulos Forest
+
+ an araneidae spiderling
+
+Qeynos Aqueducts
+
+ a sludge spiderling
+
+Steamfont Mountains
+
+ a spiderling
+
+Toxxulia Forest
+
+ a large wood spider
+
+Western Plains of Karana
+
+ a spiderling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

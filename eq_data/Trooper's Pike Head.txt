@@ -1,0 +1,42 @@
+ITEM NAME: Trooper's Pike Head
+
+
+
+Trooper's Pike Head
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #4 (Trooper's Pike)
+
+  Player crafted 
+ Blacksmithing (Trivial: 15)
+ Yield: Trooper's Pike Head x1
+ In Iksar Forge:
+
+
+  1 x Geozite Tool - Quested, Returned on Failure
+  1 x Radiant Meteorite - Foraged
+  1 x Raw Pike Head - Bought
+  1 x Trooper Head Plans - Returned on Failure 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Trooper's Pike (Trivial: >63)
+
+
+
+
+

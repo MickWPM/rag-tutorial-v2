@@ -1,0 +1,57 @@
+ITEM NAME: Dragon Meat
+
+Velious Era (added December 2000-2001)
+
+Dragon Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Dozekar the Cursed
+
+The Wakening Land
+
+ Wuoshi
+
+Western Wastes
+
+ Ayillish
+ Bratavar
+ Bufa
+ Cargalia
+ Draazak
+ Gafala
+ Glati
+ Jen Sapara
+ Karkona
+ Linbrak
+ Nintal
+ Onava
+ Quoza
+ Sivar
+ Von
+ Yeldema
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Pickled Dragon (Trivial: 135)
+ Dragon Steaks (Trivial: 242)
+
+
+
+
+

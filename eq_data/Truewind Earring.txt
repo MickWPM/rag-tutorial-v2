@@ -1,0 +1,33 @@
+ITEM NAME: Truewind Earring
+
+Sky Era (added January 2000)
+
+
+Truewind Earring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+DEX: +5  WIS: +9
+SV COLD: +10
+WT: 0.1  Size: TINY
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Courage
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

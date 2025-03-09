@@ -1,0 +1,85 @@
+ITEM NAME: Medium Quality Wolf Skin
+
+Classic Era (added 1999-2000)
+
+Medium Quality Wolf Skin
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a blood wolf
+
+Commonlands
+
+ a black wolf
+ a shadow wolf
+
+Eastern Plains of Karana
+
+ a silvermist wolf
+ a war wolf
+ A dark stalker
+
+
+Greater Faydark
+
+ a black wolf
+
+Lesser Faydark
+
+ a mist wolf
+
+Misty Thicket
+
+ a black wolf
+
+Nektulos Forest
+
+ a black wolf
+ a shadow wolf
+
+Qeynos Hills
+
+ a gray wolf
+
+Southern Karana
+
+ a shadow wolf
+
+Western Plains of Karana
+
+ a black wolf
+ a mist wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wolf Hide Armor
+
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Medium Quality Wolf Skin x1
+ In Sewing Kit:
+
+
+  1 x High Quality Wolf Skin - Quested, Dropped
+  1 x Skinning Knife - Crafted 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Low Quality Wolf Skin (Trivial: 15)
+
+
+
+
+

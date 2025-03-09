@@ -1,0 +1,78 @@
+ITEM NAME: Words of Collection (Beza)
+
+
+
+Words of Collection (Beza)
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 4 Golds
+ 3 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a sarnak extremist
+
+City of Mist
+
+ a phantom
+
+Dreadlands
+
+ a glacier yeti
+
+Eastern Wastes
+
+ a manticore
+ a wooly rhino
+
+Everfrost Peaks
+
+ An Ice Giant
+
+Karnor's Castle
+
+ a drolvarg sentry
+
+Lesser Faydark
+
+ Equestrielle the Corrupted
+
+The Feerrott
+
+ A Spectre
+
+The Hole
+
+ an elemental warrior
+
+The Wakening Land
+
+ a holgresh conjurer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tempi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Malignant Dead (Trivial: 140) (Research Only pre-Kunark)
+
+
+
+
+

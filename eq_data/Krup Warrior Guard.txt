@@ -1,0 +1,35 @@
+ITEM NAME: Krup Warrior Guard
+
+
+
+Krup Warrior Guard
+
+
+NO DROP  
+Slot: SECONDARY
+AC: 5
+CHA: -15
+WT: 5.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ froglok krup guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #5 (Legionnaire's Mancatcher)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

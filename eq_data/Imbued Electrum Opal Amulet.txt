@@ -1,0 +1,38 @@
+ITEM NAME: Imbued Electrum Opal Amulet
+
+Classic Era (added 1999-2000)
+Imbued Electrum Opal Amulet
+
+
+Slot: NECK
+STA: +3  AGI: +2
+SV DISEASE: +2  SV POISON: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Rodcet Nife
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Electrum Opal Amulet x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Electrum Bar - Summoned
+  1 x Imbued Opal - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

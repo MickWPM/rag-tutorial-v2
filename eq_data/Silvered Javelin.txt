@@ -1,0 +1,42 @@
+ITEM NAME: Silvered Javelin
+
+Classic Era (added 1999-2000)
+
+
+Silvered Javelin
+
+
+MAGIC ITEM  
+Slot: RANGE
+Skill: Throwingv1  Atk Delay: 31
+DMG: 8
+WT: 2.0  Range: 205  Size: LARGE
+Class: WAR RNG MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 115)
+ Yield: Silvered Javelin x1
+ In Forge:
+
+
+  1 x Enchanted Sheet Metal - Crafted
+  1 x Enchanted Silver Bar - Summoned
+  1 x Javelin Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Aged Nectar
+
+Sky Era (added January 2000)
+
+
+
+Aged Nectar
+
+
+LORE ITEM
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzzazzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Tranquility
+ Necromancer Test of The Hands
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

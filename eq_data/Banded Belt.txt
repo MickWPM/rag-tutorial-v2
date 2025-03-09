@@ -1,0 +1,39 @@
+ITEM NAME: Banded Belt
+
+Classic Era (added 1999-2000)
+Were you looking for Large Banded Armor Set? Were you looking for Small Banded Armor Set?
+
+Banded Belt
+
+
+Slot: WAIST
+AC: 6
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+This is part of the Banded Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 135)
+ Yield: Banded Belt x1
+ In Forge:
+
+
+  1 x Belt Sectional Mold - Bought
+  2 x Sheet Metal - Crafted, Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

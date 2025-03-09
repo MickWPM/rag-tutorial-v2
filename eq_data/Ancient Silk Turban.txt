@@ -1,0 +1,37 @@
+ITEM NAME: Ancient Silk Turban
+
+Velious Era (added December 2000-2001)
+
+
+Ancient Silk Turban
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+WT: 1.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ West Wing Mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Kael Cap
+ Magician Kael Cap
+ Necromancer Kael Cap
+ Wizard Kael Cap
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

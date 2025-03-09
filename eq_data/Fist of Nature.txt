@@ -1,0 +1,38 @@
+ITEM NAME: Fist of Nature
+
+Velious Era (added December 2000-2001)
+
+
+Fist of Nature
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 18
+DMG: 15   AC: 15
+STR: +5  STA: +15  HP: +100
+SV FIRE: +10  SV DISEASE: +7  SV COLD: +10  SV MAGIC: +10  SV POISON: +7
+Effect: Engulfing Roots (Combat, Casting Time: Instant)
+WT: 0.6  Size: TINY
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+wHiLe ThIs Is A 1hB oN pRoJeCt 1999, No PrOoF oF iTs' ExIsTeNcE pRe-LuClIn HaS bEeN pRoDuCeD. 
+
+  Drops From 
+Plane of Growth
+
+ Tunare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

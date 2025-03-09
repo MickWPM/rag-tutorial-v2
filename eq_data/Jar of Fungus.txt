@@ -1,0 +1,30 @@
+ITEM NAME: Jar of Fungus
+
+
+
+Jar of Fungus
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wooly Fungus Quest
+
+  Player crafted 
+ During Wooly Fungus Quest
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

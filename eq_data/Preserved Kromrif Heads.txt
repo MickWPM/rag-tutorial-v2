@@ -1,0 +1,37 @@
+ITEM NAME: Preserved Kromrif Heads
+
+Velious Era (added December 2000-2001)
+
+
+Preserved Kromrif Heads
+
+
+LORE ITEM NO TRADE TEMPORARY
+WT: 10.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #2: Cloth Coldain Prayer Shawl
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Preserved Kromrif Heads x1
+ In Preservationists Box:
+
+
+  10 x Kromrif Head - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

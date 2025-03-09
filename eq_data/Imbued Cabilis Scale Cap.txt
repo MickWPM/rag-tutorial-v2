@@ -1,0 +1,42 @@
+ITEM NAME: Imbued Cabilis Scale Cap
+
+Kunark Era (added 2000)
+
+Imbued Cabilis Scale Cap
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 12
+STR: +2  WIS: +2
+WT: 3.4  Size: SMALL
+Class: WAR SHD SHM
+Race: IKS
+
+
+Part of the iksar cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 159)
+ Yield: Imbued Cabilis Scale Cap x1
+ In Iksar Forge:
+
+
+  1 x Helm Mold - Bought
+  1 x Imbued Amber - Summoned
+  1 x Scale Temper - Crafted
+  1 x Skyiron Scales - Crafted
+  1 x Skyiron Sheet - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

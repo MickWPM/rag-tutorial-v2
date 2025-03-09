@@ -1,0 +1,32 @@
+ITEM NAME: Pen Key No. 7
+
+
+
+Pen Key # 7
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): QEY Arena Key 7 
+
+  Drops From 
+Erud's Crossing
+
+ Nomala
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Escaped Catman
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

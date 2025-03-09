@@ -1,0 +1,34 @@
+ITEM NAME: Golden Leaf Bracer
+
+Velious Era (added December 2000-2001)
+
+
+Golden Leaf Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 16
+STR: +7  WIS: +3  HP: +10  MANA: +10
+SV POISON: +3
+WT: 4.5  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Skyshrine Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

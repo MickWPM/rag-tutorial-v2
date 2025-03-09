@@ -1,0 +1,111 @@
+ITEM NAME: Medium Quality Cat Pelt
+
+Classic Era (added 1999-2000)
+
+Medium Quality Cat Pelt
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Commonlands
+
+ a plains cat
+ a puma
+ a lion
+ a lioness
+ a young plains cat
+
+Eastern Plains of Karana
+
+ a lion
+ a lion patriarch
+ a lioness
+ a rogue lion
+
+Lake of Ill Omen
+
+ a sabertooth cat
+ a sabertooth cub
+ a sabertooth grimalkin
+ a sabertooth kit
+ a sabertooth tiger
+ a sabertooth tigress
+
+Northern Karana
+
+ a lion
+ a lioness
+
+Northern Desert of Ro
+
+ a puma
+
+Southern Karana
+
+ a lion
+ a lioness
+
+Southern Desert of Ro
+
+ a puma
+
+Steamfont Mountains
+
+ a mountain lion
+
+Stonebrunt Mountains
+
+ A Feral Leopard
+ a highland tiger
+ A Highland Tigress
+ A Kejek Leopardess
+ Merow
+ Spowry
+
+The Overthere
+
+ a sabertooth cat
+ a sabertooth tiger
+ a sabertooth tigress
+ sabretooth tiger
+ sabretooth tigress
+
+Trakanon's Teeth
+
+ sabretooth tiger
+ sabretooth tigress
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Upgraded Pelts
+
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Medium Quality Cat Pelt x1
+ In Sewing Kit:
+
+
+  1 x High Quality Cat Pelt - Quested, Dropped
+  1 x Skinning Knife - Crafted 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Low Quality Cat Pelt (Trivial: 15)
+
+
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Warding Star
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Warding Star
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 14 
+Effect:  Guard (Combat, Casting Time: Instant) at Level 50
+WT: 2.2  Size: MEDIUM
+Class: WAR PAL BRD
+Race: ALL
+
+
+No longer drops. Replaced with the Guardians Mace as per the classic timeline. (ref)
+Ceases to drop 1 month into Kunark. 
+
+  Drops From 
+Howling Stones (Charasis)
+
+ the Skeleton Sepulcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

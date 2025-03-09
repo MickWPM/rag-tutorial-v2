@@ -1,0 +1,34 @@
+ITEM NAME: Testimony
+
+Classic Era (added 1999-2000)
+Were you looking for Testimony of Truth?
+
+
+Testimony
+
+
+This note is rolled up.
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+
+
+ Item Lore (from Identify):  Testimony of Truth
+Note: There are two items with similar names. The one looted from Sir Lindeal is not used for the Soulfire quest. 
+
+  Drops From 
+Lavastorm Mountains
+
+ Sir Lindeal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sir Lindeal's Testimony
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Baton of Royal Stature
+
+Chardok Revamp Era (added late 2001)
+
+Baton of Royal Stature
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 22
+DMG: 11 
+Effect:  Stunning Blow (Combat, Casting Time: Instant) at Level 49
+WT: 1.0  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+Note: This does NOT stack with other stun effects such as Adamantite Club. However, both can proc and deliver 60 DD simultaneously. It's also possible to 'stun-lock' consecutively if DEX is high enough (one proc simply replaces the other). 
+
+  Drops From 
+Chardok
+
+ Observer Aq`touz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

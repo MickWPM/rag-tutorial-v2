@@ -1,0 +1,39 @@
+ITEM NAME: Runed Othmir Spear
+
+Velious Era (added December 2000-2001)
+
+
+
+Runed Othmir Spear
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 46
+DMG: 16 
+INT: +5  MANA: +10
+WT: 6.3  Size: LARGE
+Class: WAR RNG SHD SHM
+Race: ALL
+
+
+
+ Merchant resale value: 6.3p 
+
+  Drops From 
+Cobalt Scar
+
+ an Othmir Shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bulthar Trunks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

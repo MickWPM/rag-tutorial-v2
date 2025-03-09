@@ -1,0 +1,34 @@
+ITEM NAME: Mischief Mushroom Spores
+
+Classic Era (added 1999-2000)
+
+
+Mischief Mushroom Spores
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Plane of Mischief
+
+ a merry mushroom man
+ a mirthful mushroom man
+ a puckish mushroom
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

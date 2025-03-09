@@ -1,0 +1,450 @@
+ITEM NAME: Club
+
+Classic Era (added 1999-2000)
+Club
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 27
+DMG: 4 
+WT: 5.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ Tomas Zelnik
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork priest
+
+
+
+  (1198, -551)
+
+
+ East Cabilis
+
+ Rastok
+
+
+
+  (348, 11)
+
+
+ East Cabilis
+
+ Weaponsmith Grugl
+
+
+
+  (-432, -33)
+
+
+ West Commonlands
+
+ Opal Woodchopper
+
+
+
+  (-515, 2576)
+
+
+ East Commonlands
+
+ Ponila Quickfingers
+
+
+
+  (193, -855)
+
+
+ Erudin
+
+ Ayth Niphiria
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Stella Breezemoon
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Fhania Aserdon
+
+
+
+  (-1094, -470)
+
+
+ Erudin
+
+ Palus Weaponsmith
+
+
+
+  (-1023, -94)
+
+
+ Felwithe
+
+ Merchant Dantree
+
+
+
+  (-70, -413)
+
+
+ Felwithe
+
+ Isyna Firspanyl
+
+
+
+  (2, -468)
+
+
+ Firiona Vie
+
+ Dran Hieth
+
+
+
+  (-3132, 2953)
+
+
+ East Freeport
+
+ Celanie Xtoria
+
+
+
+  (-205, -312)
+
+
+ East Freeport
+
+ Tenni Kohern
+
+
+
+  (-223, -886)
+
+
+ North Freeport
+
+ Hulos Ghenar
+
+
+
+  (88, 269)
+
+
+ West Freeport
+
+ Asnod Marnoc
+
+
+
+  (-283, -798)
+
+
+ Greater Faydark
+
+ Bilrio Surecut
+
+
+
+  (-649, 386)
+
+
+ Greater Faydark
+
+ Merchant Winerasea
+
+
+
+  (-270, 89)
+
+
+ Greater Faydark
+
+ Merchant Minamas
+
+
+
+  (-676, 387)
+
+
+ Greater Faydark
+
+ Merchant Gililya
+
+
+
+  (-481, -211)
+
+
+ Grobb
+
+ Raztara
+
+
+
+  (439, -393)
+
+
+ Grobb
+
+ Zumzal
+
+
+
+  (329, -495)
+
+
+ Halas
+
+ Holana Oleary
+
+
+
+  (137, -337)
+
+
+ Halas
+
+ Elona McMahon
+
+
+
+  (212, 184)
+
+
+ North Kaladim
+
+ Kafia Ratsbone
+
+
+
+  (594, 238)
+
+
+ North Kaladim
+
+ Baleki Nightseer
+
+
+
+  (765, 143)
+
+
+ Kithicor Forest
+
+ Mune Woodchopper
+
+
+
+  (1458, 2263)
+
+
+ Neriak Third Gate
+
+ Jerris W`Selo
+
+
+
+  (630, -1402)
+
+
+ Neriak Third Gate
+
+ Kanthu M`Rekkor
+
+
+
+  (621, -1351)
+
+
+ Neriak Third Gate
+
+ Tzanso S`Tai
+
+
+
+  (408, -836)
+
+
+ Oggok
+
+ Squeea
+
+
+
+  (647, 977)
+
+
+ Oggok
+
+ Brana
+
+
+
+  (75, 881)
+
+
+ Oggok
+
+ Rora Dirtstamp
+
+
+
+  (212, -372)
+
+
+ The Overthere
+
+ Tin Merchant VIII
+
+
+
+  (2615, 2616)
+
+
+ Paineel
+
+ Jenkin Fleetmore
+
+
+
+  (1097, 439)
+
+
+ Paineel
+
+ Tenralus Brackmar
+
+
+
+  (1225, 523)
+
+
+ South Qeynos
+
+ Stan Cloven
+
+
+
+  (427, -265)
+
+
+ South Qeynos
+
+ Nesiff Tallaherd
+
+
+
+  (440, -243)
+
+
+ North Qeynos
+
+ Tyokan Mekase
+
+
+
+  (-161, -146)
+
+
+ North Qeynos
+
+ Whysia Flock
+
+
+
+  (-161, -146)
+
+
+ North Qeynos
+
+ Shenro Kazpur
+
+
+
+  (257, 302)
+
+
+ Rivervale
+
+ Gaffin Deeppockets
+
+
+
+  (-53, -178)
+
+
+ Rivervale
+
+ Crista Tagglefoot
+
+
+
+  (-69, -381)
+
+
+ Rivervale
+
+ Pipple Purpleroot
+
+
+
+  (-246, -351)
+
+
+ Skyshrine
+
+ Raelrik
+
+
+
+  (353, -625)
+
+
+ Skyshrine
+
+ Tulgadin
+
+
+
+  (383, -625)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

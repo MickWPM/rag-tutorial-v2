@@ -1,0 +1,36 @@
+ITEM NAME: Bowl of Watery Protection
+
+Velious Era (added December 2000-2001)
+
+
+Bowl of Watery Protection
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+AC: 10
+SV MAGIC: +20
+Effect: Enduring Breath (Worn)
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Water's Bow 
+
+  Drops From 
+Siren's Grotto
+
+ Helsia Mindreaver
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

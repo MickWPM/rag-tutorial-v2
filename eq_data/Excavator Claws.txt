@@ -1,0 +1,41 @@
+ITEM NAME: Excavator Claws
+
+
+
+Excavator Claws
+
+
+MAGIC ITEM  NO DROP  QUEST ITEM
+WT: 2.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ a burynai excavator
+
+Frontier Mountains
+
+ Dustback
+ Stonegrinder
+
+Kurn's Tower
+
+ Burynai Excavator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Rock
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

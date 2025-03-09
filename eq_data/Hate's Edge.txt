@@ -1,0 +1,36 @@
+ITEM NAME: Hate's Edge
+
+Velious Era (added December 2000-2001)
+ 
+Hate's Edge
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 11 
+STR: +5  INT: +5  MANA: +30
+WT: 4.0  Size: SMALL
+Class: SHD
+Race: ALL
+
+
+rusty broadsword graphic 
+
+  Drops From 
+Plane of Hate
+
+ a Disciple of Innoruuk
+ Innoruuk's Chosen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

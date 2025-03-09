@@ -1,0 +1,284 @@
+ITEM NAME: Medicine Bag
+
+Classic Era (added 1999-2000)
+
+Medicine Bag
+
+
+WT: 0.4  Weight Reduction: 0%
+Capacity: 6  Size Capacity: LARGE
+
+
+This is the container used for the shaman tradeskill Alchemy. It makes an excellent all-purpose bag since the nerf of the Large Sewing Kit. Normally costs around 1pp. 
+ Merchant resale value: 9g 2s 3c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Cabilis (East)
+
+ Smithy Qag
+
+
+
+  (-525, -7)
+
+
+ Cabilis (East)
+
+ Smithy Ygen
+
+  #25 on Cabilis
+
+  (-620, -28)
+
+
+ Cabilis (West)
+
+ Jaxxtz
+
+  #7 on map
+
+  (-41, 513)
+
+
+ Cabilis (West)
+
+ Klok Scaleroot
+
+
+
+  (407, 511)
+
+
+ Field of Bone
+
+ Klok Canip
+
+
+
+  (-2261, 3304)
+
+
+ Firiona Vie
+
+ Marlyn McMerin
+
+
+
+  (-3813, 1669)
+
+
+ Firiona Vie
+
+ Quizan Gaxx
+
+
+
+  (-2873, 2733)
+
+
+ Freeport (East)
+
+ Klan Smith
+
+  Slums / Evil Area
+
+  (-184, -164)
+
+
+ Freeport (East)
+
+ Gord Smith
+
+  Slums / Evil Area
+
+  (-184, -138)
+
+
+ Grobb
+
+ Grabah
+
+
+
+  (413, -418)
+
+
+ Grobb
+
+ Blergagg
+
+
+
+  (417, -427)
+
+
+ Grobb
+
+ Zumzal
+
+
+
+  (329, -495)
+
+
+ Halas
+
+ Dargon
+
+
+
+  (354, 356)
+
+
+ Halas
+
+ Spirita
+
+
+
+  (348, 343)
+
+
+ Halas
+
+ Holana Oleary
+
+
+
+  (137, -337)
+
+
+ Highpass Hold
+
+ Mardon Smith
+
+
+
+  (-378, -112)
+
+
+ Kaladim (South)
+
+ Hindaek Stormhammer
+
+  In Redfist's Metal near the warrior guild.
+
+  (139, 371)
+
+
+ Lake of Ill Omen
+
+ Klok Sargin
+
+
+
+  (6022, -6338)
+
+
+ Neriak Commons
+
+ Opal H'Rugla
+
+  #3 on map (Smithy)
+
+  (60, -865)
+
+
+ Oggok
+
+ Garakbar
+
+
+
+  (287, -389)
+
+
+ Oggok
+
+ Rora Dirtstamp
+
+
+
+  (212, -372)
+
+
+ Oggok
+
+ Pordopa
+
+
+
+  (281, -364)
+
+
+ Paineel
+
+ Yvonne Ani
+
+  The Poisoned Petal near bank 1pp 6 silver 9 copper
+
+  (945, 748)
+
+
+ Swamp of No Hope
+
+ Klok Bygle
+
+
+
+  (2714, 2816)
+
+
+ Thurgadin
+
+ Brynjar
+
+  Next to bank
+
+  (-302, 133)
+
+
+ Thurgadin
+
+ Hulda
+
+  Next to bank
+
+  (-294, 133)
+
+
+ Warsliks Woods
+
+ Klok Nogolin
+
+
+
+  (-2419, -566)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
+
+Tradeskill Containers
+Brew Barrel • Forge • Kiln • Pottery Wheel • Loom • Sewing Kit • Fletching Kit
+Oven • Mixing Bowl • Spit • Jeweler's Kit • Toolboxes • Tackle Box
+Medicine Bag • Bearskin Potion Bag • "Always Works" containers
+
+
+

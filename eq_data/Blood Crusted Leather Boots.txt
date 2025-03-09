@@ -1,0 +1,34 @@
+ITEM NAME: Blood Crusted Leather Boots
+
+Stonebrunt Era (added summer 2001)
+
+Blood Crusted Leather Boots
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: FEET
+AC: 4 
+STR: +4
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: HUM BAR ERU ELF HIE DEF HEF TRL OGR IKS
+
+
+ Item Lore (from Identify): Girgaks Stompin Boots 
+
+  Drops From 
+Stonebrunt Mountains
+
+ Girgak the Bloody
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

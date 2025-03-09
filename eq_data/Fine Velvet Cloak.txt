@@ -1,0 +1,36 @@
+ITEM NAME: Fine Velvet Cloak
+
+Sky Era (added January 2000)
+
+
+Fine Velvet Cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 5
+INT: +2  MANA: +10
+WT: 8.0  Size: LARGE
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Keeper of Souls
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Defense
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

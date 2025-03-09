@@ -1,0 +1,42 @@
+ITEM NAME: Froglok Poison Gland
+
+
+
+Froglok Poison Gland
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This was used in a post-Velious poisonmaking recipe but has no known use in classic expansions. 
+ Merchant resale value: 5s 6c 
+
+  Drops From 
+Lower Guk
+
+ a froglok shin knight
+
+Upper Guk
+
+ a froglok gaz knight
+ a froglok gaz shaman
+ a froglok gaz warrior
+ a froglok shin shaman
+ a froglok shin warrior
+ a froglok ton shaman
+ a froglok ton warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

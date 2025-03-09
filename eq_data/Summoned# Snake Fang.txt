@@ -1,0 +1,30 @@
+ITEM NAME: Summoned: Snake Fang
+
+Classic Era (added 1999-2000)
+Summoned: Snake Fang
+
+
+MAGIC ITEM  TEMPORARY  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 26
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: ALL except CLR DRU MNK SHM
+Race: ALL
+
+
+Summoned by level 12+ MAGs with Summon Fang 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

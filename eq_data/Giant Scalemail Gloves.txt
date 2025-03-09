@@ -1,0 +1,55 @@
+ITEM NAME: Giant Scalemail Gloves
+
+Velious Era (added December 2000-2001)
+
+Giant Scalemail Gloves
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 7
+WIS: +1  INT: +1
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF HFL GNM
+
+
+Part of the Giant Scalemail Armor set. 
+
+  Drops From 
+Kael Drakkel
+
+ Legionnaire Alveyrem
+ Lieutenant Coldforge
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

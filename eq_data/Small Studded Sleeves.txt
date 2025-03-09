@@ -1,0 +1,38 @@
+ITEM NAME: Small Studded Sleeves
+
+Classic Era (added 1999-2000)
+
+Small Studded Sleeves
+
+
+Slot: ARMS
+AC: 5
+WT: 1.1  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Studded Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 56)
+ Yield: Small Studded Sleeves x1
+ In Loom:
+
+
+  1 x Medium Quality Wolf Skin - Crafted, Dropped
+  3 x Studs - Crafted
+  1 x Sleeve Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

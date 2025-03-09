@@ -1,0 +1,32 @@
+ITEM NAME: Ingot of Sacrament
+
+
+
+Ingot of Sacrament
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Rathe Mountains
+
+ a giant skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Caduceus of Sacrament Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

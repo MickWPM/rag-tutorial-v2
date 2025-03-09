@@ -1,0 +1,65 @@
+ITEM NAME: Giant Scalemail Mantle
+
+Velious Era (added December 2000-2001)
+
+Giant Scalemail Mantle
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 6
+DEX: +2  HP: +10  MANA: +10
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 4.4  Size: MEDIUM
+Class: ALL
+Race: ALL except DWF HFL GNM
+
+
+Part of the Giant Scalemail Armor set. 
+ Merchant resale value: 3p 
+
+  Drops From 
+Kael Drakkel
+
+ a Protector of Zek
+ Legionnaire Alveyrem
+ Legionnaire Byltor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Yvedrn
+ protector of Zek
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Skulls
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

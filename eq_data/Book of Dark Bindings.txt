@@ -1,0 +1,87 @@
+ITEM NAME: Book of Dark Bindings
+
+Classic Era (added 1999-2000)
+
+
+Book of Dark Bindings
+
+
+WT: 0.4  Weight Reduction: 0%
+Capacity: 4  Size Capacity: LARGE
+
+
+ Item Lore (from Identify):  Book of Dark Bindings 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+
+ Qeynos Catacombs
+
+ Kubder Restona
+
+
+
+  (277, -384)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

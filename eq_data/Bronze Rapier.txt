@@ -1,0 +1,103 @@
+ITEM NAME: Bronze Rapier
+
+Classic Era (added 1999-2000)
+
+Bronze Rapier
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 28
+DMG: 4 
+WT: 6.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Befallen
+
+ a necro theurgist
+
+Mistmoore Castle
+
+ a Mistmoore guard
+ a pledge familiar
+
+Commonlands
+
+ a Dervish Cutthroat
+
+Crushbone
+
+ royal guard
+
+The Estate of Unrest
+
+ a greater dark bone
+ tormented dead
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ skeleton trooper
+ undead cleric
+ zombie advisor
+ Zombie Commander
+ zombie infantry
+ zombie trooper
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ Jayla Nybright
+ Tayla Nybright
+
+Rathe Mountains
+
+ a bandit
+
+Neriak Third Gate
+
+ Ambassador Rylan
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a Dervish Thug
+ a desert madman
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+The Feerrott
+
+ Cyndreela
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Greenish Metal Shard
+
+Chardok Revamp Era (added late 2001)
+
+Greenish Metal Shard
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 27
+DMG: 3 
+STR: -3  STA: -1
+SV MAGIC: -7
+WT: 5.0  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Greenmist Shard 
+
+  Drops From 
+Chardok
+
+ a Alchemist`s Acolyte
+ an Apprentice Herbalist?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusaders of Greenmist (#8)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

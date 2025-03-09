@@ -1,0 +1,34 @@
+ITEM NAME: Woven Shadow Helm
+
+
+Woven Shadow Helm
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 14
+STR: +5  INT: +9
+SV DISEASE: +10
+WT: 4.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ an abhorrent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

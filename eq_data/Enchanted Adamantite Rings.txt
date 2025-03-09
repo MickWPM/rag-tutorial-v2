@@ -1,0 +1,47 @@
+ITEM NAME: Enchanted Adamantite Rings
+
+
+
+Enchanted Adamantite Rings
+
+
+WT: 2.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 51)
+ Yield: Enchanted Adamantite Rings x2
+ In Teir`Dal Forge:
+
+
+  1 x Enchanted Lrg. Brick of Adamantite - Summoned
+  1 x File - Crafted, Returned on Failure, Returned on Success
+  1 x Neriak Nectar - Bought, Quested
+
+
+ In Oggok Forge:
+
+
+  1 x Enchanted Lrg. Brick of Adamantite - Summoned
+  1 x File - Crafted, Returned on Failure, Returned on Success
+  1 x Ogre Swill - Bought, Quested 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Various Dark Elf and Ogre Cultural Recipes
+
+
+
+
+

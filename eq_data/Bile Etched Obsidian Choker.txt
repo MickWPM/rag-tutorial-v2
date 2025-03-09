@@ -1,0 +1,36 @@
+ITEM NAME: Bile Etched Obsidian Choker
+
+Warrens Era (added spring 2001)
+
+Bile Etched Obsidian Choker
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK WAIST
+AC: 10
+STR: +10  DEX: +10  STA: +10  HP: +100
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect:  See Invisible (Worn)
+WT: 0.2  Size: SMALL
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

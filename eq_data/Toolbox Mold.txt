@@ -1,0 +1,84 @@
+ITEM NAME: Toolbox Mold
+
+
+
+Toolbox Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1170, -745)
+
+
+ Butcherblock Mountains
+
+ Kaila Rucksack
+
+
+
+  (2795, -697)
+
+
+ Greater Faydark
+
+ Merchant Nluolian
+
+
+
+  (-107, -565)
+
+
+ Grobb
+
+ Ungia
+
+
+
+  (684, -447)
+
+
+ Neriak Foreign Quarter
+
+ Ungia
+
+
+
+  (-203, -279)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ what recipes?
+
+ Blacksmithing
+ Toolbox (Trivial: 52)
+
+
+
+
+

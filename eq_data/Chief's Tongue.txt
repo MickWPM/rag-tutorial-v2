@@ -1,0 +1,32 @@
+ITEM NAME: Chief's Tongue
+
+
+
+Chief's Tongue
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Lesser Faydark
+
+ orc chief
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Velium Rings
+
+Velious Era (added December 2000-2001)
+
+
+Velium Rings
+
+
+WT: 4.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 49)
+ Yield: Velium Rings x2
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  1 x File - Crafted, Returned on Failure, Returned on Success
+  1 x Large Brick of Velium - Crafted, Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

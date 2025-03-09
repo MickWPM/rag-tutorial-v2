@@ -1,0 +1,36 @@
+ITEM NAME: Cloak of the Seacaller
+
+Velious Era (added December 2000-2001)
+
+
+Cloak of the Seacaller
+
+
+LORE ITEM  NO DROP
+Slot: BACK
+AC: 10
+INT: +8  MANA: +65
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 0.0  Size: TINY
+Class: WIZ MAG
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ Mistress Latazura
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

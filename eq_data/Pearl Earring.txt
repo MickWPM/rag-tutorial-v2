@@ -1,0 +1,232 @@
+ITEM NAME: Pearl Earring
+
+
+Pearl Earring
+
+
+Slot: EAR
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 9 Golds
+ 5 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a cinder hornet
+ a sarnak champion
+ a sarnak enthusiast
+ a sarnak extremist
+ a tottering gorilla
+ an ash hornet
+ Phurzikon
+
+Cobalt Scar
+
+ a wyvern
+
+Crystal Caverns
+
+ a stalag terror
+
+Dragon Necropolis
+
+ a dragon construct
+ an amorphous mass
+ an entropy serpent
+
+Dreadlands
+
+ a dread widow
+ a tundra yeti
+ a voracious brute
+
+The Estate of Unrest
+
+ a tentacle terror
+ mortuary fungus
+
+Firiona Vie
+
+ a drolvarg snarler
+ froglok shin warrior
+ froglok ton knight
+ A goblin blightcaller
+
+Frontier Mountains
+
+ a mountain giant tump
+ goblin raider
+
+Rathe Mountains
+
+ a basalt drake
+ a cyclops
+ Cynthia
+
+Nagafen's Lair
+
+ fire giant warrior
+ imp protector
+
+Northern Karana
+
+ a griffon
+ GrimFeather
+
+The Hole
+
+ an elemental warrior
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a neriad maiden
+
+Southern Karana
+
+ a cyclops
+
+Steamfont Mountains
+
+ Minotaur Guard
+
+The Overthere
+
+ a Sarnak enthusiast
+ a Sarnak knight
+
+The Wakening Land
+
+ a geonid
+ a tar goo
+
+Upper Guk
+
+ a large heart spider
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

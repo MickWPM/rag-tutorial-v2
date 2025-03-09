@@ -1,0 +1,65 @@
+ITEM NAME: Sapphire Necklace
+
+
+Sapphire Necklace
+
+
+Slot: NECK
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 172p 9g 
+
+  Drops From 
+Chardok
+
+ A Di`zok Channeler
+ a Di`Zok Cryptmaster
+ a Di`Zok Dragoon
+ a Di`zok Librarian
+ a Reanimated Berserker
+ a Treasury Guard
+
+Kedge Keep
+
+ Phinigel Autropos
+
+Ocean of Tears
+
+ Allizewsaur
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a nightmare
+ a samhain
+ Amygdalan knight
+
+Plane of Growth
+
+ a tranquil treant
+
+Plane of Hate
+
+ a hatebone drake (2.0)
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ an abhorrent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ulthork Tusks Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Dusty Rusted Shackles
+
+Kunark Era (added 2000)
+
+
+Dusty Rusted Shackles
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 9
+AGI: -3  HP: +20
+WT: 15.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Howling Stones
+
+ a mortiferous golem
+ a pyre golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nalla's Problem
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

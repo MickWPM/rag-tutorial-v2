@@ -1,0 +1,38 @@
+ITEM NAME: Regal Band of Bathezid
+
+Chardok Revamp Era (added late 2001)
+
+Regal Band of Bathezid
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+Charges: 5
+AC: 5
+STA: +5  CHA: +2  WIS: +2 INT: +2
+HP: +85 MANA: +50
+Effect: Aegis of Bathezid (Must Equip, Casting Time: Instant) at Level 49
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Emblazoned with the Overking's Sigil.
+
+This item is rechargeable by Herald Telcha (the small sarnak at the Chardok zone in) as long as you remain ally with Brood of Di'Zok.  It is also a light source. 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Di'Zok Signet of Service Quest
+ Regal Band of Bathezid Quest
+ Spirit Wracked Cord Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

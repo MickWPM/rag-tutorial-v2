@@ -1,0 +1,180 @@
+ITEM NAME: Dwarven Ale
+
+Classic Era (added 1999-2000)
+Ahhh.. Dwarven ale is the best. You gotta hand it to those stinky little dirt diggers, they know how to make a good brew. 
+Now if they could just learn to shower, huh, Harkin? Ha ha ha!
+-Beur Tenlah
+
+
+
+Dwarven Ale
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Strangely, this item cannot be produced by players (even dwarves) via any known recipes, but is only vendor-purchased. Perhaps the recipe is a closely controlled secret in dwarven society. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Crystal Caverns
+
+ Hardat Gemshard
+
+
+
+  (-243, 177)
+
+
+ East Freeport
+
+ Henna Treghost
+
+
+
+  (-246, -874)
+
+
+ East Freeport
+
+ Gregor Nasin
+
+
+
+  (-238, -835)
+
+
+ East Freeport
+
+ Ston O`Donner
+
+ Velithe & Bardo's
+
+  (101, -417)
+
+
+ East Freeport
+
+ Myrissa O`Donner
+
+ Velithe & Bardo's
+
+  (83, -435)
+
+
+ East Freeport
+
+ Slan ODonner
+
+ Building #3
+
+  (76, -335)
+
+
+ East Freeport
+
+ Monita O`Donner
+
+ Velithe & Bardo's
+
+  (106, -378)
+
+
+ Greater Faydark
+
+ Barkeep Aanlawen
+
+
+
+  (601, 690)
+
+
+ Highpass Hold
+
+ Dyn Tarburner
+
+
+
+  (-61, 477)
+
+
+ South Kaladim
+
+ Dura Darkfoam
+
+
+
+  (108, 233)
+
+
+ Lake Rathetear
+
+ Abrod
+
+
+
+  (-433, 657)
+
+
+ Northern Karana
+
+ Romi
+
+
+
+  (-618, -201)
+
+
+ Oasis of Marr
+
+ Tran
+
+
+
+  (541, -43)
+
+
+ Paineel
+
+ Kelkarn
+
+
+
+  (953, 830)
+
+  Related quests 
+ Ale for Beur
+ The Bones of Darak Lightforge
+ Brell Serilis Disciple
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Block of Brellium (Trivial: 29)
+ Large Brick of Brellium (Trivial: 29)
+ Sheet of Brellium (Trivial: 37)
+ Folded Sheet of Brellium (Trivial: 39)
+ Brellium Rings (Trivial: 46)
+
+
+
+
+ Brewing
+ 2x Brewed 2x Stout Dwarven Ale (Trivial: 142)
+
+
+
+
+

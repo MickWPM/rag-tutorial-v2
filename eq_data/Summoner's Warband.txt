@@ -1,0 +1,35 @@
+ITEM NAME: Summoner's Warband
+
+Velious Era (added December 2000-2001)
+
+
+Summoner's Warband
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+INT: +2  AGI: +5  HP: +10  MANA: +10
+SV FIRE: +4  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Reclaim Energy (Must Equip, Casting Time: 1.0) at Level 50
+WT: 0.3  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Kael Wristband
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

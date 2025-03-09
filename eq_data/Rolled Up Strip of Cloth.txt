@@ -1,0 +1,30 @@
+ITEM NAME: Rolled Up Strip of Cloth
+
+Warrens Era (added spring 2001)
+
+
+Rolled Up Strip of Cloth
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): message to Laraena 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Catman Alliance
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

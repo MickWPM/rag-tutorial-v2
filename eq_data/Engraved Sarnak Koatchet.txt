@@ -1,0 +1,39 @@
+ITEM NAME: Engraved Sarnak Koatchet
+
+Kunark Era (added 2000)
+
+Engraved Sarnak Koatchet
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 39
+DMG: 7 
+STA: +5  CHA: +5
+WT: 5.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak flunkie
+
+Overthere
+
+ a Sarnak flunkie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

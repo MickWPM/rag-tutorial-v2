@@ -1,0 +1,34 @@
+ITEM NAME: Imbrued Platemail Vambraces
+
+
+Imbrued Platemail Vambraces
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 16
+INT: +9
+SV POISON: +10
+WT: 4.9  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a scorn banshee
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

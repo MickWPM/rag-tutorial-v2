@@ -1,0 +1,32 @@
+ITEM NAME: Silver-Plated Shark Scale Cap
+
+GM Event item (info)
+
+
+Silver-Plated Shark Scale Cap
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 6
+STR: +5  WIS: +2  AGI: +4
+WT: 1.0  Size: SMALL
+Class: RNG
+Race: ALL
+
+
+Halloween 2011 GM Event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

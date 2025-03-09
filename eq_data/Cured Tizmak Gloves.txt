@@ -1,0 +1,39 @@
+ITEM NAME: Cured Tizmak Gloves
+
+Velious Era (added December 2000-2001)
+
+Cured Tizmak Gloves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 9
+SV FIRE: +8  SV COLD: +8
+WT: 2.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ a furious tizmak warrior
+ A Tizmak Augur
+ a tizmak champion
+ a tizmak shaman
+ a tizmak spiritcaller
+ a tizmak warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

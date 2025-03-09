@@ -1,0 +1,43 @@
+ITEM NAME: Blood Wolf Harness
+
+Velious Era (added December 2000-2001)
+
+Blood Wolf Harness
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 5
+MANA: +20
+WT: 3.0  Size: MEDIUM
+Class: CLR DRU SHM
+Race: ALL except DWF HFL GNM
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 11 Platinums
+ 5 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Great Divide
+
+ A Drakkel Blood Wolf
+ Drakkel Blood Wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crystal Caverns' Ancient Artifacts
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

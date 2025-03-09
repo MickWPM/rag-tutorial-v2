@@ -1,0 +1,36 @@
+ITEM NAME: Carved Prexus Totem
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+Carved Prexus Totem
+
+
+LORE ITEM  NO TRADE  QUEST ITEM
+WT: 1.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Looks to be an item for part of Druid epic 1.5. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

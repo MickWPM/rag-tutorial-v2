@@ -1,0 +1,35 @@
+ITEM NAME: Spear of Mortification
+
+Kunark Era (added 2000)
+
+Spear of Mortification
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 23
+DMG: 6 
+Effect:  Stun (Combat, Casting Time: Instant) at Level 20
+WT: 2.0  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kaesora
+
+ failed crypt raider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

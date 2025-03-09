@@ -1,0 +1,37 @@
+ITEM NAME: Intact Kobold Pelt
+
+Warrens Era (added spring 2001)
+
+
+Intact Kobold Pelt
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Toxxulia Forest
+
+ who?
+
+The Warrens
+
+ who?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fell Blade Quests
+ Templar of Fright Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

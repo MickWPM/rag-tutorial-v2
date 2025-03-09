@@ -1,0 +1,33 @@
+ITEM NAME: Belt of Flesh Hooks
+
+
+Belt of Flesh Hooks
+
+
+Slot: WAIST
+AC: 5
+CHA: -5
+SV DISEASE: +5  SV POISON: +5
+WT: 0.2  Size: SMALL
+Class: SHD
+Race: HUM DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+Northern Karana
+
+ Zahal the Vile
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

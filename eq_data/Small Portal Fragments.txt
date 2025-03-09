@@ -1,0 +1,43 @@
+ITEM NAME: Small Portal Fragments
+
+
+
+Small Portal Fragments
+
+
+MAGIC ITEM
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Reagent consumed in the casting of certain Wizard Translocate spells including: West Commons, North Ro, Cazic Thule, Nektulos Forest. Costs 1p0g5s0c at CHA 67. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Temple of Solusek Ro
+
+ Terblyn Zelbus
+
+
+
+  (444, -73)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

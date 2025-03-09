@@ -1,0 +1,39 @@
+ITEM NAME: Hate Crystal
+
+Warrens Era (added spring 2001)
+
+Hate Crystal
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+INT: +5  HP: +75  MANA: +75
+WT: 1.0  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ A Champion of Innoruuk
+ Innoruuk's Chosen
+ A Disciple of Innoruuk
+ A Sage of Innoruuk
+ A Knight of Innoruuk
+ an Agent of Innoruuk
+ an Elite Dragoon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

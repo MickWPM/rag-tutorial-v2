@@ -1,0 +1,36 @@
+ITEM NAME: Electrum Star Ruby Ring
+
+
+Electrum Star Ruby Ring
+
+
+Slot: FINGER
+DEX: +5  CHA: +7
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 127)
+ Electrum Star Ruby Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Electrum Bar - Buy Electrum Bar and make an enchanter enchant it
+  1 x Star Ruby - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

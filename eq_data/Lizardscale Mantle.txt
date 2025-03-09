@@ -1,0 +1,33 @@
+ITEM NAME: Lizardscale Mantle
+
+
+Lizardscale Mantle
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 5
+WIS: +3  INT: +3
+WT: 2.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Cazic Thule
+
+ Tae Ew Diviner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

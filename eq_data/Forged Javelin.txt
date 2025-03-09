@@ -1,0 +1,53 @@
+ITEM NAME: Forged Javelin
+
+
+Forged Javelin
+
+
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 33
+DMG: 7
+WT: 2.0  Range: 205  Size: LARGE
+Class: WAR RNG MNK BRD ROG
+Race: ALL
+
+
+Stackable. 18pp per stack. As of 9/6/2016, they are the longest range throwing weapon for monks that is stackable and easily crafted in large quantities, except for Antonian Javelins which only humans may craft but both races may use. Depending on Blacksmithing skill and luck, the cost of crafting these is about 11pp per stack. If a monk blacksmith is trying to cut down on weight and cost, the humble Forged Throwing Axe is a good compromise. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Chardok
+
+ Haggle Baron Dry`dn
+
+
+
+  (-93,351)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 60)
+ Yield: Forged Javelin x2
+ In Forge:
+
+
+  1 x Javelin Mold - Bought
+  1 x Sheet Metal - Crafted, Bought
+  1 x Water Flask - Foraged, Crafted, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

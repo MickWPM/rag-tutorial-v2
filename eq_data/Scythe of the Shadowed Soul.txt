@@ -1,0 +1,37 @@
+ITEM NAME: Scythe of the Shadowed Soul
+
+ Scythe of the Shadowed Soul
+Epic Quests Era (added Sept 2000)
+
+
+Scythe of the Shadowed Soul
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 34
+DMG: 22 
+STR: +5  STA: +10  CHA: +5  INT: +20  HP: +20  MANA: +80
+SV FIRE: +5  SV DISEASE: +15  SV COLD: +5  SV MAGIC: +10  SV POISON: +15
+Effect:  Torment of Shadows (Must Equip, Casting Time: 9.0) at Level 50
+WT: 5.0  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ Item Lore (from Identify): Scythe of the Shadowed Soul 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

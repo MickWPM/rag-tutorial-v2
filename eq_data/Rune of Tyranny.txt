@@ -1,0 +1,72 @@
+ITEM NAME: Rune of Tyranny
+
+
+Rune of Tyranny
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: ~2p 3g 
+
+  Drops From 
+Burning Woods
+
+ a sarnak extremist
+
+City of Mist
+
+ a phantom
+
+Dreadlands
+
+ a plaguebone thief
+
+Eastern Wastes
+
+ a manticore
+ a wooly rhino
+
+Karnor's Castle
+
+ a drolvarg sentry
+ decayed kylong Iksar
+
+The Hole
+
+ an elemental warrior
+
+South Kaladim
+
+ Guard Humphet
+
+Lower Guk
+
+ a zol ghoul knight
+
+The Wakening Land
+
+ a holgresh conjurer
+
+Trakanon's Teeth
+
+ Emperor Ganak
+ Knight Dragol
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Immobilize (Trivial: 140)
+
+
+
+
+

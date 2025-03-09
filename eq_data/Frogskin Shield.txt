@@ -1,0 +1,73 @@
+ITEM NAME: Frogskin Shield
+
+Kunark Era (added 2000)
+
+
+Frogskin Shield
+
+
+Slot: SECONDARY
+AC: 3
+WT: 3.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Field of Bone
+
+ Klok Tugin
+
+
+
+  (-2361, 3351)
+
+
+ Lake of Ill Omen
+
+ Klok Foob
+
+
+
+  (6133, -6454)
+
+
+ Swamp of No Hope
+
+ Klok Gokrok
+
+
+
+  (2648, 2727)
+
+
+ Warsliks Woods
+
+ Klok Ryre
+
+
+
+  (-2415, -641)
+
+  Related quests 
+ Fern Flower Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Prayer Cloth of Tunare
+
+
+Prayer Cloth of Tunare
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 3
+WIS: +3
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Screaming Mace Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Colorfully Patched Tunic*
+
+Classic Era (added 1999-2000)
+
+
+Colorfully Patched Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 1.0  Size: MEDIUM
+Class: BRD
+Race: HUM HEF
+
+
+Starter tunic quest for a bard in North Freeport.
+
+ Item Lore (from Identify): League of Bards (Freeport) Tunic 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

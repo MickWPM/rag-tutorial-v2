@@ -1,0 +1,37 @@
+ITEM NAME: Gossamer Sash
+
+
+Gossamer Sash
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 3
+WT: 0.2  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Gossamer Armor Set 
+ Merchant resale value: 1p 3g 6c 
+
+  Drops From 
+The Estate of Unrest
+
+ a festering hag
+
+Permafrost
+
+ an icy goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

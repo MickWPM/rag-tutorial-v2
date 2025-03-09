@@ -1,0 +1,33 @@
+ITEM NAME: Robe of Benevolence
+
+Velious Era (added December 2000-2001) 
+
+
+Robe of Benevolence
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 17
+DEX: -8  CHA: +15  INT: +10  AGI: -8  HP: +25  MANA: +80
+WT: 1.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Leuz's Task
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

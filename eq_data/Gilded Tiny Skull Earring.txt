@@ -1,0 +1,45 @@
+ITEM NAME: Gilded Tiny Skull Earring
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Gilded Tiny Skull Earring
+
+
+MAGIC ITEM  LORE ITEM NODROP
+Slot: EAR
+Charges: 5
+AC: 5
+HP: +20  MANA: +20
+SV DISEASE: +6
+Effect:  Force (Must Equip, Casting Time: 2.0)
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL except DEF TRL OGR IKS
+
+
+Item and quest does not exist on P99 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Frightlings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

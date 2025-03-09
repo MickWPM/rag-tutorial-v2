@@ -1,0 +1,39 @@
+ITEM NAME: Boots of the Dead Dream
+
+Velious Era (added December 2000-2001)
+
+ Kajo the Wood Elf modeling Boots of the Dead Dream.
+Boots of the Dead Dream
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 25
+STA: +7  WIS: +7  INT: +7  HP: +25  MANA: +75
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Feshlak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ Male Dark Elf
+
+
+
+

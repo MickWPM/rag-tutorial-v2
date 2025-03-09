@@ -1,0 +1,35 @@
+ITEM NAME: Jagged Band
+
+Classic Era (added 1999-2000)
+
+Jagged Band
+
+
+MAGIC ITEM
+Slot: FINGER
+AC: 5
+STR: +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This ring is an early favorite of melee dps players in vanilla. 
+ Merchant resale value: 4p 1g 5s 3c 
+
+  Drops From 
+The Estate of Unrest
+
+ Garanel Rucksif
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

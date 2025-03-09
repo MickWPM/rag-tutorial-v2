@@ -1,0 +1,101 @@
+ITEM NAME: Oak Bark
+
+
+Oak Bark
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Ground spawn in Butcherblock Mountains at -1748, -368 (? see below) by the goblin camp on road to Dagnors Cauldron.  Found it least aggravating on eyes to have wolf form, scroll out to look from above, strafe back and forth to grid out the area, and dusk/evening was easier with a light source - the spawns glowed slightly better. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Oak Bark Tannin (Trivial: 102)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Kithicor Forest
+ Warsliks Woods
+
+  Additional Notes 
+ Map of Classic Oak Bark Spawn Points in BB (confirmed on p99)
+The map to the right is a curious find listing potential ground spawn points for this item in classic. Oak bark is confirmed to spawn at each of these points on P99 as of 9/24/2019 (respawn time unconfirmed but appears to be longer than 1 game day):
+
+
+
+ Western spawns
+
+ Northeastern spawns
+
+
+ 189, 2036  
+ 2340, -2284 
+ 2540, -1978 
+ 2764, -2122
+
+
+ 172, 1992  
+ 1961, -2124 
+ 2622, -2210 
+ 2510, -2018
+
+
+ -117, 2119 
+ 2026, -2060 
+ 2655, -1936 
+ 2232, -1806
+
+
+ 137, 2093  
+ 2327, -1838 
+ 2455, -2036 
+
+
+
+ -59, 2290  
+ 1914, -2055 
+ 1960, -1902 
+
+
+
+ Road to GFay spawns
+
+ Southeastern spawns
+
+
+ -1451, -197 
+ -1402, -843  
+ -2318, -1313  
+ -2021, -1618
+
+
+ -1427, -251 
+ -1341, -1368 
+ -2284, -1427  
+ -1933, -1841
+
+
+ -1299, -527 
+ -1489, -1689 
+ -2482, -1543  
+ -1668, -1870
+
+
+ Black by Tailiu Mistwalker. Red by Ellesidil of Sacred Circles.
+
+

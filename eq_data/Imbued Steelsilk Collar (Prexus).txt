@@ -1,0 +1,45 @@
+ITEM NAME: Imbued Steelsilk Collar (Prexus)
+
+Velious Era (added December 2000-2001)
+
+
+Imbued Steelsilk Collar
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 9
+STR: +4  DEX: +2  WIS: +2  INT: +4  HP: +5  MANA: +8
+SV POISON: +2
+WT: 1.4  Size: SMALL
+Class: CLR PAL
+Race: ERU
+Deity: Prexus
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 119)
+ Yield: Imbued Steelsilk Collar x1
+ In Erudite Sewing Kit:
+
+
+  1 x Gorget Pattern - Bought
+  1 x Imbued Black Pearl - Summoned
+  1 x Platinum Thread - Bought
+  1 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

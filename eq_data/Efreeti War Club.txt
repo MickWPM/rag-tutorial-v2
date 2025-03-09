@@ -1,0 +1,35 @@
+ITEM NAME: Efreeti War Club
+
+Sky Era (added January 2000)
+
+Efreeti War Club
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 26
+DMG: 11 
+WT: 1.0  Size: MEDIUM
+Class: ALL except BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of Shrink
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

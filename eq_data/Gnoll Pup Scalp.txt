@@ -1,0 +1,43 @@
+ITEM NAME: Gnoll Pup Scalp
+
+
+Gnoll Pup Scalp
+
+
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+NOTE: These have been confirmed to drop in all three zones - North Qeynos, Blackburrow and Everfrost Peaks. For monks looking to do the White Headband Quest, there are two spawns in North Qeynos at 1255, 922 and 1177, -260. They will spawn at these locations and begin wandering around the zone and have a 6 minute 40 seconds respawn. Two more spawn near the exit to Qeynos Hills inside Blackburrow and these are static spawns but they are on a much longer, 22 minute respawn. The newbie yard in Everfrost Peaks also has gnoll pups and they share spawns with all the creatures that wander the areas between the Blackburrow entrance and the ramp to Halas. The scalps are a less than common drop, so be prepared for a tedious grind. 
+
+  Drops From 
+Blackburrow
+
+ a gnoll pup
+
+North Qeynos
+
+ a gnoll pup
+
+Everfrost Peaks
+
+ a gnoll pup
+
+Qeynos Hills
+
+  a gnoll pup
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk White Headband
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

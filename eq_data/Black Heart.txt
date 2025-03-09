@@ -1,0 +1,35 @@
+ITEM NAME: Black Heart
+
+
+
+Black Heart
+
+
+LORE ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Ambassador K'Ryn's Heart
+ Item Lore (from Identify): Ambassador D'Vinn's Heart 
+
+  Drops From 
+Crushbone
+
+ Ambassador DVinn
+ Ambassador K`Ryn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Falchion
+ Crude Stein Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

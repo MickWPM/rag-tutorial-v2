@@ -1,0 +1,38 @@
+ITEM NAME: Remaining Bone dust
+
+Classic Era (added 1999-2000)
+
+
+Remaining Bone dust
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Blacksmithing (Trivial: 0 - 171)
+ Yield: Dusted Starmetal Block x1
+ In Forge:
+
+
+  1 x Portion of Starmetal - Crafted
+  1 x Sanctified bone dust - 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

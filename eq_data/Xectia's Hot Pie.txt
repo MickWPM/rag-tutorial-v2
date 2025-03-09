@@ -1,0 +1,186 @@
+ITEM NAME: Xectia's Hot Pie
+
+
+
+Xectia's Hot Pie
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Bixie Crunchies
+These tiny nuggets fizzle and pop upon contact. People who are constantly found eating this deli-
+cacy are nicknamed "Drooling Fools" because of the excessive foam dripping from their mouths.
+Ingredients: Bixie Parts and Frosting
+Cooking Instructions: Fire oven for low heat. Smother bixie parts in frosting and place in
+oven. Remove when hardened and frosting crystallizes.
+Tastes great with: Hot-n-Spicy Toelings and Ale
+Rat Ear Turnovers
+Also known as "Rat Splat Pie", this crunchy and nutty flavored pie is well known among chefs for its
+distinctive texture. Each bite is packed with crispy, crackling goodness.
+Ingredients: Clump of Dough, Rat Ears, 1 Pie Tin
+Cooking Instructions: For crust, line the bottom of a pie tin with a clump of dough. Combine rat
+ears and spices and pour onto the crust. Crumble extra dough on top. Bake at low heat until golden.
+Tastes great with: Pickled Gator and Bog Juice
+Fruit Pie
+Naturally sweet and delicious, fruit pie is fresh-picked goodness. For a smoother texture, try removing thorns.
+Ingredients: Clump of Dough, Fruit, Spices, 1 Pie Tin
+Cooking Instructions: For crust, line the bottom of a pie tin with a clump of dough. Combine fruit
+and spices and pour onto the crust. Bake at medium heat until bubbly, and fruit juices splatter everywhere.
+Tastes great with: Bear Steaks and Brandy
+Cookies
+Sweet and hot is the only way a cookie should be served. If a baker deems appropriate they can cut the cookies into amusing shapes.
+Ingredients: Clump of Dough, Spices, Frosting, (cookie cutter)
+Cooking Instructions: Take and beat down the clump of dough to a thin wafer. Pull off cookie
+sized segments or use the cookie cutter. Frost and spice the cookies. Set in the oven at high heat.
+Best Served With: Everything and a Flask of Water
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

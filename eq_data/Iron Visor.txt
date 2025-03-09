@@ -1,0 +1,54 @@
+ITEM NAME: Iron Visor
+
+Classic Era (added 1999-2000)
+Iron Visor
+
+
+Slot: FACE
+AC: 3
+WT: 1.3  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a crazed goblin
+ Atwin Keladryn
+
+Mistmoore Castle
+
+ a fallen noble
+ a glyphed aegis
+ a glyphed custodian
+ a glyphed forbidder
+ a glyphed ghoul
+ a glyphed sentry
+ a glyphed warder
+
+High Keep
+
+ Carson Mccabe
+
+Permafrost
+
+ an ice goblin
+
+Southern Karana
+
+ centaur archer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

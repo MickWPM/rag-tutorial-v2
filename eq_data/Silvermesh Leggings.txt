@@ -1,0 +1,32 @@
+ITEM NAME: Silvermesh Leggings
+
+
+Silvermesh Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 7
+AGI: +3
+SV MAGIC: +5
+WT: 3.5  Size: MEDIUM
+Class: ROG
+Race: ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scouts Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

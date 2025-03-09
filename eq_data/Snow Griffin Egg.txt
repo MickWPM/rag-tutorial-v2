@@ -1,0 +1,42 @@
+ITEM NAME: Snow Griffin Egg
+
+Velious Era (added December 2000-2001)
+
+
+Snow Griffin Egg
+
+
+MAGIC ITEM  NO DROP
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ A Snow Griffin
+ An Elder Snow Griffin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+Go to loc -7000, 1200 in Eastern Wastes. An Elder Snow Griffin and a Snow Griffin spawn close to it, and another pathes by it. Another location is -6150, -2295 where there is one spawn location of Elder Snow Griffin, an Elder that roams right onto that location, and a third Elder that roams South of that location and goes Westward. The Elders have a far greater chance of dropping an egg, up to 3:1 vs a regular Snow Griffin, it would appear (may need confirmation, seems about the same drop rate between the two).
+The griffins are rangers and travel at SoW speed. They are hard to catch up with once they are moving and cast root, dispell, nukes and dots. Their heals, however, are negligible. They are classified as animals. Bring a tracker and, preferably, an easy way to dispose of adds: snow dervishes, manticores and the like roam the wastes and aggro easily.
+Confirmed Spawn Locations:
+-5860, 1390  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Snow Griffin Souffle (Trivial: 122)
+
+
+
+
+

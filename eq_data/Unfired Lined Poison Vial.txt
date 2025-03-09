@@ -1,0 +1,49 @@
+ITEM NAME: Unfired Lined Poison Vial
+
+
+
+Unfired Lined Poison Vial
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 168)
+ Yield: Unfired Lined Poison Vial x1
+ In Pottery Wheel:
+
+
+  1 x Lined Vial Sketch - Bought
+  1 x Low Quality Wolf Skin** OR Crows Special Brew - Crafted, Dropped
+  1 x Small Block of Clay - Crafted, Bought, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+
+ ** Any of these will work for the skin:
+ Low Quality Wolf Skin, Medium Quality Wolf Skin, Mist Wolf Pelt, White Wolf Skin, Black Wolf Skin
+ Low Quality Cat Pelt, Medium Quality Cat Pelt
+ Low Quality Bear Skin, Medium Quality Bear Skin, Thick Grizzly Bear Skin, Polar Bear Skin
+ Zombie Skin - Verified this work on Green server. -Blancah 11FEB2025
+ Crow's Special Brew - The version with the apostrophe does not work on Green server. -Blancah 11FEB2025 
+
+
+  Tradeskill recipes 
+ Pottery
+ Lined Poison Vial (Trivial: 17)
+
+
+
+
+

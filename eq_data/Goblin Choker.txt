@@ -1,0 +1,35 @@
+ITEM NAME: Goblin Choker
+
+Kunark Era (added 2000)
+
+
+Goblin Choker
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 4
+STR: +2  DEX: +2  STA: +2  AGI: +2
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Overthere
+
+ ?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

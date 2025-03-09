@@ -1,0 +1,530 @@
+ITEM NAME: Star Rose Quartz
+
+Classic Era (added 1999-2000)
+
+Star Rose Quartz
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 9 Golds
+ 5 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Befallen
+
+ the thaumaturgist
+
+Blackburrow
+
+ a gnoll shaman
+ Lord Elgnub
+
+ Cobalt Scar 
+
+  a bulthar 
+  a haunted seachest 
+
+Commonlands
+
+ a Dervish Cutthroat
+ a hill giant
+ Guard Reskin
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Eastern Plains of Karana
+
+ a hill giant
+ an undead reaver
+ Tarbul Earthstrider
+
+Erud's Crossing
+
+ a shark
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+ mortuary fungus
+
+Firiona Vie
+
+ Firiona drixie
+
+Beholder's Maze
+
+ Yymp the Infernal
+ An Evil Eye
+
+Kurn's Tower
+
+ Burynai Excavator
+
+Lake of Ill Omen
+
+ a Sarnak youth
+
+Lavastorm Mountains
+
+ a fire drake
+ a fire elemental
+ a rock dervish
+
+Lesser Faydark
+
+ a faerie courtier
+ a monarch fae drake
+ an emperor fae drake
+
+Lower Guk
+
+a ghoul assassin
+
+Rathe Mountains
+
+ a hill giant
+ an onyx drake
+
+Northern Desert of Ro
+
+ a desert madman
+ a shriveled mummy
+ Rahotep
+
+Southern Desert of Ro
+
+ an orc cleric
+ an orc priest
+
+Steamfont Mountains
+
+ a harpy
+ a mountain brownie
+
+Upper Guk
+
+ a heart spider
+ a large heart spider
+
+Western Plains of Karana
+
+ a hill giant
+
+Warsliks Woods
+
+A Forest Giant Evergreen
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1053, -1012)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ East Cabilis
+
+ Klok Sass
+
+
+
+  (667, -38)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Jeliala Glimmercharm
+
+
+
+  (507, 765)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Felwithe
+
+ Merchant Lyssia
+
+
+
+  (580, -872)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ North Freeport
+
+ Jade
+
+
+
+  (-169, 202)
+
+
+ West Freeport
+
+ Dulia Jestes
+
+
+
+  (19, -817)
+
+
+ West Freeport
+
+ Lysa Truegreen
+
+
+
+  (117, -719)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ High Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Veca S`Karn
+
+
+
+  (178, -919)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Southern Desert of Ro
+
+ Merchant Ulyssa
+
+
+
+  (128, 495)
+
+
+ Southern Desert of Ro
+
+ Smith Tv`ysa
+
+
+
+  (93, 487)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ Southern Desert of Ro
+
+ Artist Passia
+
+
+
+  (160, 444)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+
+ Toxxulia Forest
+
+ Xylania Rainsparkle
+
+
+
+  (2202, -1128)
+
+  Related quests 
+ Brain Bite (Good)
+ Necromancer Words - X`Ta Tompi
+ Brain Bite (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Summon Ring of Flight (Trivial: 142)
+
+
+
+
+ Jewelcrafting
+ Silver Rose Engagement Ring (Trivial: 34)
+ Electrum Star Amulet (Trivial: 98)
+ Golden Star Amulet (Trivial: 170)
+ Rose Platinum Engagement Ring (Trivial: 242)
+
+
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Scorpion Sandwich
+
+Kunark Era (added 2000)
+
+
+Scorpion Sandwich
+
+
+SV POISON: +1
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Cannot be made on p99? Possibly non-classic. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 26)
+ Yield: Scorpion Sandwich x1
+ In Oven:
+
+
+  1 x Loaf of Bread - Crafted, Bought, Dropped
+  1 x Scorpion Meat - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

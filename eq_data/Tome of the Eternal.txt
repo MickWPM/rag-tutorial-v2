@@ -1,0 +1,40 @@
+ITEM NAME: Tome of the Eternal
+
+Kunark Era (added 2000)
+
+Tome of the Eternal
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+INT: +10
+SV DISEASE: -10  SV MAGIC: -10
+WT: 4.0  Size: TINY
+Class: NEC
+Race: IKS
+
+
+Like other negative MR equipment, this item is valued by Enchanters for their pets. 
+ Merchant resale value: 32pp 
+
+  Drops From 
+Frontier Mountains
+
+ a goblin fanatic
+
+Temple of Droga
+
+ a goblin fanatic
+ A Goblin Soothsayer (Droga)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

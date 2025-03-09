@@ -1,0 +1,36 @@
+ITEM NAME: Golden Diamond Mask
+
+
+Golden Diamond Mask
+
+
+Slot: FACE
+SV FIRE: +10  SV DISEASE: +5  SV COLD: +10  SV MAGIC: +3  SV POISON: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Compared to Diamond Electrum Mask this mask has more FR and CR, which are generally more useful. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 215)
+ Golden Diamond Mask x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Gold Bar - Summoned
+  1 x Diamond - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Mask of Swirling Water
+
+Velious Era (added December 2000-2001)
+
+
+
+Mask of Swirling Water
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 4
+DEX: +5  WIS: +5  HP: +25
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ Fellspine
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

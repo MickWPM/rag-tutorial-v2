@@ -1,0 +1,177 @@
+ITEM NAME: Small Brick of Ore
+
+
+
+Small Brick of Ore
+
+
+QUEST ITEM
+WT: 15.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+5 gold 1 silver 5 copper 
+
+  Drops From 
+Beholder's Maze
+
+ a muddite elder
+ a muddite minor
+
+Lavastorm Mountains
+
+ a rock dervish
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork miner
+
+
+
+  (760, -155)
+
+
+ East Cabilis
+
+ Klok Toren
+
+
+
+  (190, -303)
+
+
+ Erudin
+
+ Shinan Orefinder
+
+
+
+  (-683, -246)
+
+
+ North Freeport
+
+ Kyrin Steelbone
+
+
+
+  (-21, 470)
+
+
+ Grobb
+
+ Okun
+
+
+
+  (683, -412)
+
+
+ Halas
+
+ Greta O`Reilly
+
+
+
+  (78, -245)
+
+
+ High Keep
+
+ Miner Harton
+
+
+
+  (42, -273)
+
+
+ North Kaladim
+
+ Bloarn Norkhitter
+
+
+
+  (727, 213)
+
+
+ Neriak Commons
+
+ Glazn D`Unnar
+
+
+
+  (46, -796)
+
+
+ Oggok
+
+ Blergerda
+
+
+
+  (191, 915)
+
+
+ Paineel
+
+ Tentus Brackmar
+
+
+
+  (995, 810)
+
+
+ Steamfont Mountains
+
+ Godbin Strumharp
+
+
+
+  (43, -618)
+
+
+ Stonebrunt Mountains
+
+ Kevar Claypaws
+
+
+
+  (1390, -579)
+
+
+ Thurgadin
+
+ Nimren Stonecutter
+
+
+
+  (46, -109)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Sheet Metal (Trivial: 31)
+ Skinning Knife (Trivial: 41)
+ Toolbox (Trivial: 52)
+
+
+ Spell Research
+ Minor Summoning: Earth (Trivial: 22)
+
+
+
+
+

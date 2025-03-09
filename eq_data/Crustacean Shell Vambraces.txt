@@ -1,0 +1,35 @@
+ITEM NAME: Crustacean Shell Vambraces
+
+Velious Era (added December 2000-2001)
+
+Crustacean Shell Vambraces
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 10
+STR: +8  DEX: -4  STA: +12  CHA: -4
+WT: 6.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+Part of the Crustacean Shell Armor set. 
+
+  Drops From 
+Cobalt Scar
+
+ an Othmir Shaman
+ an Othmir Warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Skullcap of Rodcet Nife
+
+
+
+Skullcap of Rodcet Nife
+
+
+LORE ITEM  
+Slot: Head
+AC: 1
+HP: +4
+SV DISEASE: +4
+WT: 0.2  Size: SMALL
+Class: WAR CLR PAL RNG DRU MNK BRD ROG SHM WIZ MAG ENC
+Race: ELF HIE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Putrid Skeletons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

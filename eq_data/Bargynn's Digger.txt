@@ -1,0 +1,37 @@
+ITEM NAME: Bargynn's Digger
+
+Kunark Era (added 2000)
+
+
+Bargynn's Digger
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 8 
+STR: +2  CHA: -5
+WT: 2.0  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ Bargynn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Helm Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

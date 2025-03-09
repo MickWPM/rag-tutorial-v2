@@ -1,0 +1,35 @@
+ITEM NAME: Essence of Nature
+
+Velious Era (added December 2000-2001) Project 1999 First Essence of Nature - Sojutsu <Rampage>
+Essence of Nature
+
+
+LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 10
+CHA: +15  INT: +15  HP: +50  MANA: +100
+SV FIRE: +12  SV DISEASE: +12  SV POISON: +12
+Effect: Flowing Thought V 
+WT: 2.5  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ Tunare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

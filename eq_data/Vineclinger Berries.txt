@@ -1,0 +1,36 @@
+ITEM NAME: Vineclinger Berries
+
+Classic Era (added 1999-2000)
+
+
+Vineclinger Berries
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: DRU
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crest of the Wood Nymphs Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Butcherblock Mountains
+ East Karana
+
+

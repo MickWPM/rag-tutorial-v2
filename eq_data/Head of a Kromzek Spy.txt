@@ -1,0 +1,33 @@
+ITEM NAME: Head of a Kromzek Spy
+
+Velious Era (added December 2000-2001)
+
+
+Head of a Kromzek Spy
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+WT: 25.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ A Kromzek Spy
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Hsagra's Wrath
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

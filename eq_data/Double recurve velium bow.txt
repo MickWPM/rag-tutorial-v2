@@ -1,0 +1,35 @@
+ITEM NAME: Double recurve velium bow
+
+Velious Era (added December 2000-2001)
+
+Double Recurved Velium Bow
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE
+Skill: Archery  Atk Delay: 37
+DMG: 30
+WT: 2.0  Range: 130  Size: MEDIUM
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari Dominator
+ a Chetari master
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

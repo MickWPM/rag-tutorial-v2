@@ -1,0 +1,37 @@
+ITEM NAME: Ingot of the Penitent
+
+Temple Era (added October 1999)
+
+
+Ingot of the Penitent
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Ground spawn in Upper Guk in the Scryer Room, roughly 200, -500. Inside the eastern pillar of water. 
+
+  Drops From 
+Upper Guk
+
+ Ground Spawn
+ (200, -500) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Greaves of the Penitent
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

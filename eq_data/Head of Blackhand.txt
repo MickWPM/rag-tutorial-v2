@@ -1,0 +1,32 @@
+ITEM NAME: Head of Blackhand
+
+
+
+Head of Blackhand
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 3.6  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Field of Bone
+
+ Kerosh Blackhand
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Gauntlets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

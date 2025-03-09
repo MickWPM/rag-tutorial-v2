@@ -1,0 +1,36 @@
+ITEM NAME: Efreeti War Horn
+
+Sky Era (added January 2000)
+
+Efreeti War Horn
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Brass Instrument: 22
+WT: 5.0  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+ The Hand of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Brass
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Spell: Elemental Maelstrom
+
+Velious Era (added December 2000-2001)
+Spell: Elemental Maelstrom
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Evocation
+Mana Cost: 240
+Effect:  Elemental Maelstrom
+WT: 0.1  Size: SMALL
+Class: MAG
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ A Cobalt Drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Travelers Pack
+
+Classic Era (added 1999-2000)
+
+Travelers Pack
+
+
+WT: 0.4  Weight Reduction: 20%
+Capacity: 8  Size Capacity: LARGE
+
+
+A beginner's bag comparable to Shralok Pack 
+
+  Drops From 
+Najena
+
+ Rathyl
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

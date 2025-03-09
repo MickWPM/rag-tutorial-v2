@@ -1,0 +1,36 @@
+ITEM NAME: Ebon Lotus (Item)
+
+Classic Era (added 1999-2000)
+
+Ebon Lotus
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Ground spawn in Qeynos Hills at (4880, 640), but only during the quest sequence. 
+
+  Drops From 
+Qeynos Hills
+
+ Ground Spawn
+ (4880, 640) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cheslin's Illusion Cards
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

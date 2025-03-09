@@ -1,0 +1,109 @@
+ITEM NAME: Snake Meat
+
+
+
+Snake Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a giant snake
+
+Commonlands
+
+ a darkweed snake
+ a giant rattlesnake
+
+Eastern Plains of Karana
+
+ a chasm crawler
+ a dawnbane serpent
+
+Erud's Crossing
+
+ a kerra snake
+
+Northern Desert of Ro
+
+ a cistern asp
+ a giant rattlesnake
+
+Southern Desert of Ro
+
+ a darkweed snake
+ an asp
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Eastern Plains of Karana
+
+ Paulina
+
+
+
+  (-732, -194)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ Southern Desert of Ro
+
+ Merchant Ulyssa
+
+
+
+  (128, 495)
+
+
+ Southern Desert of Ro
+
+ Artist Passia
+
+
+
+  (160, 444)
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Snake Steak (Trivial: 41)
+ Snake Pickles (Trivial: 51)
+
+
+
+
+

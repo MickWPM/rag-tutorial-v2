@@ -1,0 +1,57 @@
+ITEM NAME: Sealed Letter
+
+Classic Era (added 1999-2000)
+
+Sealed Letter
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are lots of different items called a "Sealed Letter", take care!
+They can be identified to determine which you have and what it is used for. 
+
+  Drops From 
+Nektulos Forest
+
+ orc runner
+
+Western Wastes
+
+ Shardwing Courier ("Sealed Letter to Wenglawks")
+
+Highpass Hold
+
+ Malik Zaren ("ID 12270")
+
+Greater Faydark
+
+ orc runner ("Letter To King Naythox Thex")
+
+Others
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Waylaid Courier ("ID 12270")
+ Crude Stein Quest ("Letter To King Naythox Thex")
+ Orc Runner (Kelethin) ("Letter To King Naythox Thex")
+ Orc Runner (Felwithe) ("Letter To King Naythox Thex")
+ Wenglawks The Traitor ("Sealed Letter to Wenglawks")
+ Teir`Dal Courier
+ Hogcaller's Inn 
+
+  Book contents 
+Letter To King Naythox Thex:
+King Naythox Thex, Continue with your plans to exile the inept Ogres. Emperor Crush has agreed to aid us in our wars. He will require the help of the Indigo Brotherhood to rid him of the traitorous Deathfist Clan of Orcs in the Eastern Antonican region. We shall also continue our supply of arcane knowledge to their agent in Freeport. Ambassador D'Vinn Crushbone Region
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

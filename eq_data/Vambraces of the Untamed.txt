@@ -1,0 +1,36 @@
+ITEM NAME: Vambraces of the Untamed
+
+Warrens Era (added spring 2001)
+
+
+Vambraces of the Untamed
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 16
+STR: +4  STA: +6  MANA: +30
+SV FIRE: +3  SV COLD: +3
+WT: 6.0  Size: SMALL
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Part of the Armor of the Untamed set. 
+
+  Drops From 
+Plane of Hate
+
+ an Agent of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

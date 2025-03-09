@@ -1,0 +1,36 @@
+ITEM NAME: Eyepatch of the Shadows
+
+Velious Era (added December 2000-2001)
+
+Eyepatch of the Shadows
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+AC: 4
+DEX: +6  STA: +9
+SV COLD: +4  SV MAGIC: +4
+Effect:  Ultravision (Worn)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Fjokar Frozenshard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

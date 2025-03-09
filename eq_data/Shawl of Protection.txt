@@ -1,0 +1,34 @@
+ITEM NAME: Shawl of Protection
+
+Warrens Era (added spring 2001)
+ The Shawl of Protection is a highly valuable item for elite PVPer's on Red99
+Shawl of Protection
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 10
+SV FIRE: +35  SV DISEASE: +35  SV COLD: +35  SV MAGIC: +35  SV POISON: +35
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a dracoliche
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

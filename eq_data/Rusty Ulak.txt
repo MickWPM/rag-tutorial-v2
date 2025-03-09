@@ -1,0 +1,66 @@
+ITEM NAME: Rusty Ulak
+
+
+
+Rusty Ulak
+
+
+Slot: PRIMARY SECONDARY
+Skill: Hand to Hand  Atk Delay: 44
+DMG: 6 
+HP: +5  MANA: +5
+WT: 1.5  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a decaying dwarf skeleton
+
+Commonlands
+
+ a decaying skeleton
+
+Everfrost Peaks
+
+ a decaying skeleton
+
+Greater Faydark
+
+ a decaying skeleton
+
+Rathe Mountains
+
+ a lizardman robber
+
+Nektulos Forest
+
+ a decaying skeleton
+
+North Qeynos
+
+ a decaying skeleton
+
+Northern Desert of Ro
+
+ a decaying skeleton
+
+West Freeport
+
+ a decaying skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

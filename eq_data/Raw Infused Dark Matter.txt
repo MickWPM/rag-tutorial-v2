@@ -1,0 +1,30 @@
+ITEM NAME: Raw Infused Dark Matter
+
+Classic Era (added 1999-2000)
+I am getting conflicting information while researching to figure out what this item is and where to get it. This page needs corrections!! 
+
+
+Raw Infused Dark Matter
+
+
+MAGIC ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

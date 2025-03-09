@@ -1,0 +1,60 @@
+ITEM NAME: Tome of Endless Enchantments
+
+Classic Era (added 1999-2000)
+
+Tome of Endless Enchantments
+
+
+WT: 0.4  Weight Reduction: 0%
+Capacity: 4  Size Capacity: LARGE
+
+
+For Enchanter Research. 10 slot versions had combine ability removed and weight increased to 10 in Oct 23rd, 2024 patch [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Freeport
+
+ Dulia Jestes
+
+
+
+  (19, -817)
+
+
+ South Felwithe
+
+ Merchant Lyssia
+
+
+
+  (576, -864)
+
+
+ Neriak Commons
+
+ Veca S`Karn
+
+
+
+  (170, -917)
+
+

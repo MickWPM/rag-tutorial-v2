@@ -1,0 +1,37 @@
+ITEM NAME: Innoruuk's Word
+
+Epic Quests Era (added Sept 2000)
+
+
+Innoruuk's Word
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+CHA: +10  INT: +5
+WT: 2.0  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Acts as a Flameless Lantern light source. 
+
+  Drops From 
+Neriak Third Gate
+
+ Verina Tomb
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

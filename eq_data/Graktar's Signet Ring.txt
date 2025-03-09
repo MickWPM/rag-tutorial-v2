@@ -1,0 +1,29 @@
+ITEM NAME: Graktar's Signet Ring
+
+Velious Era (added December 2000-2001)
+
+
+Graktar's Signet Ring
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vkjor's Minor Task
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

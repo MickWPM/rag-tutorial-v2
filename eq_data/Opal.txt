@@ -1,0 +1,367 @@
+ITEM NAME: Opal
+
+Classic Era (added 1999-2000)
+
+Opal
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Reagant for Wake of Karana and Disintegrate. 
+ Merchant resale value: 16p 7g 9s 6c 
+
+  Drops From 
+Burning Woods
+
+ a cinder hornet
+ a forest giant arbor
+ a sarnak champion
+ a sarnak enthusiast
+ a sarnak extremist
+ a tottering gorilla
+ an ash hornet
+
+ Cobalt Scar 
+
+  a wyvern 
+  an Othmir Warrior 
+
+ Crystal Caverns 
+
+  a stalag terror 
+
+ Dragon Necropolis 
+
+  a dragon construct 
+  an amorphous mass 
+  an entropy serpent 
+
+Dreadlands
+
+ a drachnid recluse
+ a drachnid silkmistress
+ a drachnid silkstrander
+ a drachnid webmaster
+ a drachnid widow
+ a dread widow
+ a drolvarg gnasher
+ a glacier yeti
+ a mountain giant patriarch
+ a tundra yeti
+ a voracious brute
+
+Emerald Jungle
+
+ a raging gorilla
+
+The Estate of Unrest
+
+ a tentacle terror
+ mortuary fungus
+
+Firiona Vie
+
+ a drachnid silkspinner
+ a drachnid webspinner
+ a drolvarg snarler
+
+Frontier Mountains
+
+ goblin raider
+
+Kaesora
+
+ spectral librarian
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ zombie trooper
+
+Lake of Ill Omen
+
+ a bloodgill goblin
+
+Lower Guk
+
+ an urd ghoul wizard
+
+Rathe Mountains
+
+ a cyclops
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+ imp protector
+
+Northern Karana
+
+ a griffon
+
+Northern Desert of Ro
+
+ a sand giant
+
+ Siren's Grotto 
+
+  a coldspine seahorse 
+  a neriad maiden 
+
+Southern Karana
+
+ a cyclops
+
+Southern Desert of Ro
+
+ a spectre
+
+Steamfont Mountains
+
+ Minotaur Sentry
+
+ Stonebrunt Mountains 
+
+  an elder graniteback 
+  An Elder Panda 
+
+The Feerrott
+
+ a spectre
+
+The Overthere
+
+ a Sarnak enthusiast
+
+ The Wakening Land 
+
+  a frost giant sentinel 
+ Korzak Stonehammer
+  a geonid 
+  a tar goo 
+
+ The Warrens 
+
+  The Muglwump 
+
+ Tower of Frozen Shadow 
+
+  a lesser ice shade 
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Brackin Nartoise
+
+
+
+  (-3978, 2612)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin (greedy)
+
+
+
+  (-54, -246)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+  Related quests 
+ Trooper Scale Vambraces
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ recipes?
+
+
+ Blacksmithing
+ recipes?
+
+
+ Jewelcrafting
+ Silver Opal Engagement Ring (Trivial: 50)
+ Electrum Opal Amulet (Trivial: 119)
+ Golden Opal Amulet (Trivial: 191)
+ Platinum Opal Engagement Ring (Trivial: 263)
+
+
+ Pottery
+ recipes?
+
+
+
+
+

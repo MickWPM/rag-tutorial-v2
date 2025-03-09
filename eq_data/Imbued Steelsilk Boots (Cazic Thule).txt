@@ -1,0 +1,56 @@
+ITEM NAME: Imbued Steelsilk Boots (Cazic Thule)
+
+Velious Era (added December 2000-2001)
+
+Imbued Steelsilk Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 11
+STR: +5  CHA: -2  INT: +2  AGI: +6  HP: +16  MANA: +8
+SV POISON: +4
+WT: 2.6  Size: MEDIUM
+Class: CLR SHD
+Race: ERU
+Deity: Cazic-Thule
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 255)
+ Yield: Imbued Steelsilk Boots x1
+ In Erudite Sewing Kit:
+
+
+  1 x Imbued Amber - Summoned
+  1 x Boot Pattern - Bought
+  1 x Platinum Thread - Bought
+  2 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Fashionquest 
+
+Teomus, Cleric of Cazic-Thule in full visible Cazic Steelsilk.
+
+
+
+Cultural Tradeskills Pages
+Barbarian • Dark Elf • Dwarf • Erudite • Gnome • Half Elf • Halfling • High Elf • Human • Iksar • Ogre • Troll • Wood Elf
+
+
+
+
+

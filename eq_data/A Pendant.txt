@@ -1,0 +1,33 @@
+ITEM NAME: A Pendant
+
+Warrens Era (added spring 2001)
+
+
+Note to Kanthuk
+
+
+LORE ITEM NO TRADE 
+Slot: NECK 
+CHA: +1 
+WT: 0.0 Size: TINY 
+Class: PAL 
+Race: HUM ERU HIE DWF 
+
+
+ Item Lore (from Identify): Trunolis Family
+Given by Kanthuk Ogrebane in Butcherblock Mountains. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Sword of Nobility (Butcherblock Mountains)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

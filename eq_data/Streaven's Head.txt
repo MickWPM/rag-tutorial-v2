@@ -1,0 +1,32 @@
+ITEM NAME: Streaven's Head
+
+Kunark Era (added 2000)
+
+
+Streaven's Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 2.5  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+No known use. 
+
+  Drops From 
+Firiona Vie
+
+ Commander Streaven
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

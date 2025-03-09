@@ -1,0 +1,38 @@
+ITEM NAME: Imbued Golden Plains Earring
+
+
+Imbued Golden Plains Earring
+
+
+MAGIC ITEM 
+Slot: EAR
+STR: -3 STA: +2 WIS: +4
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Karana
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: <217)
+ Imbued Golden Plains Earring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Gold Bar - Summoned
+  1 x Imbued Plains Pebble - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Parrying Pick 628
+
+
+
+Parrying Pick 628
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SECONDARY
+AC: 7
+WT: 4.0  Size: MEDIUM
+Class: ROG
+Race: DWF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Parrying Pick Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

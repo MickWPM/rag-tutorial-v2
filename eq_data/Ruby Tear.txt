@@ -1,0 +1,88 @@
+ITEM NAME: Ruby Tear
+
+Velious Era (added December 2000-2001)
+Ruby Tear
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Dozekar the Cursed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Test of the Ruby Tear -- Silver Charm of TranquilitySilver Charm of Tranquility
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK WRIST
+AC: 35
+STR: +10  STA: +15  HP: +100  MANA: +100
+SV FIRE: +8  SV DISEASE: +8  SV COLD: +8  SV MAGIC: +8  SV POISON: +8
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Ruby Tear
+ White Symbol (from Casalen or Tavekalem)
+ Ruby Symbol (from Lepethida)
+ Silver Symbol (from Essedera)
+
+ Test of Protection -- Pauldrons of the Deep FlamePauldrons of the Deep Flame
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 35
+STA: +15  HP: +100
+SV FIRE: +20  SV DISEASE: +20  SV COLD: +20  SV MAGIC: +20  SV POISON: +20
+WT: 0.5  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ Ruby Tear
+ Emerald Tear
+ Emerald Symbol (from Grozzmel or Midayor)
+ Platinum Symbol (from Essedera)
+
+ The Second Arcane Test -- Boots of Deep ThoughtBoots of Deep Thought
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 20
+STA: +15  INT: +15  HP: +65  MANA: +65
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Aura of Battle (Worn)  
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Ruby Tear
+ Black Tear
+ Ruby Symbol (from Lepethida)
+ White Symbol (from Casalen or Tavekalem)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

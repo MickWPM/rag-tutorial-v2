@@ -1,0 +1,37 @@
+ITEM NAME: Efreeti Scimitar
+
+Sky Era (added January 2000)
+
+Efreeti Scimitar
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 29
+DMG: 12 
+MANA: +10
+WT: 0.1  Size: SMALL
+Class: WAR PAL RNG SHD DRU MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ Overseer of Air
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of Nature
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

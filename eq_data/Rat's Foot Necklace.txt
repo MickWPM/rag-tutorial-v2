@@ -1,0 +1,31 @@
+ITEM NAME: Rat's Foot Necklace
+
+Classic Era (added 1999-2000)
+
+Rat's Foot Necklace
+
+
+MAGIC ITEM
+Slot: NECK
+CHA: -1  HP: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Lucky Rat's Foot Necklace 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rat's Foot Necklace Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Heavy Dragonwing Mantle
+
+Velious Era (added December 2000-2001)
+
+
+
+Heavy Dragonwing Mantle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 13
+HP: +45  MANA: +45
+WT: 2.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Bratavar
+ Karkona
+ Onava
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

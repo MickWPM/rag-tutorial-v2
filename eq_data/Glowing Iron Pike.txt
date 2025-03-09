@@ -1,0 +1,33 @@
+ITEM NAME: Glowing Iron Pike
+
+
+Glowing Iron Pike
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 36
+DMG: 9 
+WT: 8.0  Size: LARGE
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+Vendors for 2.9p with average CHA. 
+
+  Drops From 
+Mistmoore Castle
+
+ Garton Viswin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

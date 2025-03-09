@@ -1,0 +1,34 @@
+ITEM NAME: Krode's Shawl
+
+Warrens Era (added spring 2001)
+
+Krode's Shawl
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 3
+WIS: +2  INT: -2  HP: +15
+WT: 2.1  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Krodem's Shawl 
+
+  Drops From 
+The Warrens
+
+ Krode the Diviner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

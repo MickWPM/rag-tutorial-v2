@@ -1,0 +1,33 @@
+ITEM NAME: Old Used Robe*
+
+Classic Era (added 1999-2000)
+
+
+Old Used Robe*
+
+
+LORE ITEM  NO DROP
+Slot: CHEST
+AC: 2
+WT: 0.7  Size: MEDIUM
+Class: WIZ
+Race: ERU
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Western Plains of Karana
+
+ Maligar's Enraged Doppleganger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

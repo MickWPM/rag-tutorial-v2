@@ -1,0 +1,33 @@
+ITEM NAME: Initiate Symbol of Innoruuk
+
+Kunark Era (added 2000)
+Initiate Symbol of Innoruuk
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 3
+WIS: +1  MANA: +3
+Effect:  Weaken (Must Equip, Casting Time: 6.0)
+WT: 0.1  Size: TINY
+Class: CLR SHM
+Race: HUM DEF TRL
+Deity: Innoruuk
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Innoruuk Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Velium Delivery Note
+
+Velious Era (added December 2000-2001)
+
+
+Velium Delivery Note
+
+
+LORE ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velium Retrieval
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

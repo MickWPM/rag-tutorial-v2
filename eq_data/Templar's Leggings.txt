@@ -1,0 +1,35 @@
+ITEM NAME: Templar's Leggings
+
+Velious Era (added December 2000-2001)
+
+
+Templar's Leggings
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 36
+WIS: +10  HP: +90  MANA: +50
+SV FIRE: +5  SV DISEASE: +5
+Effect:  Word of Health (Must Equip, Casting Time: 12.0) at Level 50
+WT: 7.0  Size: LARGE
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Kael Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Burynai Hide Cap
+
+Kunark Era (added 2000)
+
+Burynai Hide Cap
+
+
+Slot: HEAD
+AC: 5
+WIS: +2  AGI: +2
+WT: 4.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Burynai Hide Armor set. 
+
+  Drops From 
+Kurn's Tower
+
+ lesser icebone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

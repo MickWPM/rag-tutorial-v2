@@ -1,0 +1,36 @@
+ITEM NAME: Spiked Goblin Ring
+
+Kunark Era (added 2000)
+
+Spiked Goblin Ring
+
+
+LORE ITEM
+Slot: FINGER
+AC: 2
+STR: +3  WIS: +2  INT: -2  AGI: +3
+SV DISEASE: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Most likely a zonewide random drop. Confirmed to drop from a goblin flamedrowser, a goblin backbiter, a goblin depredator, a goblin taskmaster (80% sure, might have been a depredator), and  a goblin cavehunter. 
+ Merchant resale value: 4pp 
+
+  Drops From 
+Temple of Droga
+
+ Various
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

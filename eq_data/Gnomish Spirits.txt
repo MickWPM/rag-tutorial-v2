@@ -1,0 +1,158 @@
+ITEM NAME: Gnomish Spirits
+
+Classic Era (added 1999-2000)
+May the Gnomish Spirits be with you always.
+
+
+Gnomish Spirits
+
+
+QUEST ITEM
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork barkeep
+
+
+
+  (1252, -946)
+
+
+ Crystal Caverns
+
+ Hardat Gemshard
+
+
+
+  (-243, 177)
+
+
+ East Freeport
+
+ Henna Treghost
+
+
+
+  (-246, -874)
+
+
+ East Freeport
+
+ Gregor Nasin
+
+
+
+  (-238, -835)
+
+
+ East Freeport
+
+ Ston O`Donner
+
+
+
+  (101, -417)
+
+
+ East Freeport
+
+ Myrissa O`Donner
+
+
+
+  (83, -435)
+
+
+ East Freeport
+
+ Slan ODonner
+
+
+
+  (76, -335)
+
+
+ East Freeport
+
+ Monita O`Donner
+
+
+
+  (106, -378)
+
+
+ Greater Faydark
+
+ Barkeep Aanlawen
+
+
+
+  (601, 690)
+
+
+ Highpass Hold
+
+ Dyn Tarburner
+
+
+
+  (-61, 477)
+
+
+ South Kaladim
+
+ Dura Darkfoam
+
+
+
+  (108, 233)
+
+  Related quests 
+ Bertoxxulous Initiate
+
+  Player crafted 
+ Brewing (Trivial: 102)
+ Yield: Gnomish Spirits x2
+ In Brewing Barrel:
+
+
+  1 x Bottle - Crafted, Bought
+  1 x Rat Ears - Bought, Dropped
+  1 x Rice - Bought
+  1 x Spider Legs - Dropped 
+
+
+  Tradeskill recipes 
+ Poison Making
+ Quicksilver (Trivial: ?)
+
+
+ Tinkering
+ Firewater (Trivial: 17)
+
+
+ Brewing
+ Skunk Breath Ale (Trivial: 155)
+ Faydwer Shaker (Trivial: 188)
+
+
+
+
+

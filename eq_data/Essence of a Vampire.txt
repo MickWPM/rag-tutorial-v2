@@ -1,0 +1,32 @@
+ITEM NAME: Essence of a Vampire
+
+
+Essence of a Vampire
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This can drop from both male and female revenants 
+
+  Drops From 
+Plane of Hate
+
+ a forsaken revenant
+ Coercer T`vala
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

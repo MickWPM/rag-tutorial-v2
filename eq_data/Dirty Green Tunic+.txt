@@ -1,0 +1,32 @@
+ITEM NAME: Dirty Green Tunic*
+
+Classic Era (added 1999-2000)
+
+
+Dirty Green Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 1.0  Size: MEDIUM
+Class: RNG
+Race: ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Faydark's Champions
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

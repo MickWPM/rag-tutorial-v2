@@ -1,0 +1,34 @@
+ITEM NAME: Lancer Swordfish Fin
+
+
+
+Lancer Swordfish Fin
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Kedge Keep
+
+ a lancer swordfish
+ a piercer swordfish
+ an impaler swordfish
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

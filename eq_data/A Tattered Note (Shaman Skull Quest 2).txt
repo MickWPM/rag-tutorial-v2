@@ -1,0 +1,35 @@
+ITEM NAME: A Tattered Note (Shaman Skull Quest 2)
+
+Kunark Era (added 2000)
+
+
+A Tattered Note
+
+
+LORE ITEM  NO TRADE
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+The Note is rolled up.
+When opened, it reads...
+Shaman, I have sent another of your ilk to retrieve the mandible which was taken from us. He will meet up with you at Bone Run around midnight. When you have them, find a way to get some Mendglow Clay and a wheel from Cabilis so we can mend this skull. I am enroute to find the Giant Barracuda who swallowed the other skull at the lake. 
+
+  Drops From 
+Warslik's Woods
+
+ a rogue shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 2
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

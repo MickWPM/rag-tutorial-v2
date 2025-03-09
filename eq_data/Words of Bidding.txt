@@ -1,0 +1,73 @@
+ITEM NAME: Words of Bidding
+
+
+Words of Bidding
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 4 Golds
+ 3 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a sarnak extremist
+
+City of Mist
+
+ a phantom
+
+Eastern Wastes
+
+ a ulthork man o war
+ a wooly rhino
+
+Karnor's Castle
+
+ a drolvarg sentry
+
+Lower Guk
+
+ a zol ghoul knight
+ a dar ghoul knight
+
+Ocean of Tears
+
+ a seafury cyclops
+
+Permafrost
+
+ a giant polar bear
+
+The Feerrott
+
+ A Spectre
+
+The Hole
+
+ an elemental warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research - Necromancer
+ Malignant Dead (Trivial: 140) (Research Only pre-Kunark)
+
+
+
+
+

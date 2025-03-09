@@ -1,0 +1,35 @@
+ITEM NAME: Phase Spider Carapace
+
+Velious Era (added December 2000-2001)
+
+Phase Spider Carapace
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 28
+STR: +6  DEX: +5  STA: +9  CHA: +6  WIS: +6  INT: +7  AGI: +8  HP: +25
+SV FIRE: -3  SV DISEASE: -4  SV COLD: +5  SV MAGIC: +9  SV POISON: +8
+WT: 5.0  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a phase spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

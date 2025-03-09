@@ -1,0 +1,34 @@
+ITEM NAME: Charred Guardian Shield
+
+Classic Era (added 1999-2000)
+
+Charred Guardian Shield
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+AC: 10
+WIS: +9
+WT: 8.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+This is an excellent shield for priests looking for both wis and ac. This is a minor light source. 
+
+  Drops From 
+Solusek's Eye
+
+ CWG Model EXG
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

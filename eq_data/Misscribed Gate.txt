@@ -1,0 +1,33 @@
+ITEM NAME: Misscribed Gate
+
+
+
+Misscribed Gate
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ a forest giant greenwood
+ a forest giant sapling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of the Zealot (#4)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Reinforced Dragonskull Helm
+
+Velious Era (added December 2000-2001)
+
+
+
+Reinforced Dragonskull Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 16
+STA: +5  INT: +9
+WT: 3.2  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Linbrak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

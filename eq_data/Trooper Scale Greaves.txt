@@ -1,0 +1,35 @@
+ITEM NAME: Trooper Scale Greaves
+
+Epic Quests Era (added Sept 2000) Nov   2000  Era (added  Nov   2000 )
+
+
+
+Trooper Scale Greaves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 12
+STR: +2  AGI: +3
+SV FIRE: +2  SV COLD: +2
+WT: 5.0  Size: LARGE
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

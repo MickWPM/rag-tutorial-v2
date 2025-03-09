@@ -1,0 +1,35 @@
+ITEM NAME: Maleficent Bracer
+
+Velious Era (added December 2000-2001)
+
+
+Maleficent Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+DEX: +4  STA: +4  INT: +4  HP: +20  MANA: +5
+SV MAGIC: +5
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

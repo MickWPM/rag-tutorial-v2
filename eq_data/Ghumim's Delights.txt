@@ -1,0 +1,188 @@
+ITEM NAME: Ghumim's Delights
+
+
+
+Ghumim's Delights
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Dwarf Chops
+Need: Dwarf meat Spices Garnish
+Slice off Dwarf shoulder. Hang excess dwarf over pot. collect blood.
+Smear blood, spices on meat. Put on spit. Wait until meat is greenish. Eat
+Dwarf in left cage not right
+Dark green taste gooder
+Blackened Teir'Dal
+Need: Dark Elf Spices Garnish
+Catch Dark Elf Bruise meat Gut Elf Add spices Fill innards with coal. Ignite. When stop moving garnish
+Eat. Dark Elf hard to catch
+Scream too much. Garnish early no screaming
+To hard for Ghumim. Need help
+Elven Veal
+Need: High Elf meat Spices Garnish
+Tenderly pull off Elf head. arms legs Debone remaining. meat press spices in meat. 
+Put on spit. Wait for meat to sizzle. Garnish. Eat
+High Elf in right cage not left
+Point Elf away from Ghumim when removing limbs
+No eat garnish by self. use Garnish on Meat
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

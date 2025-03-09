@@ -1,0 +1,36 @@
+ITEM NAME: Geologist's Hammer
+
+Warrens Era (added spring 2001)
+
+
+Geologist's Hammer
+
+
+LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 2 
+WT: 6.0  Size: SMALL
+Class: ALL except
+Race: ALL
+
+
+
+
+  Drops From 
+Erud's Crossing
+
+ A ground spawn at -526, +2287
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Geologist's Purloined Tools
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

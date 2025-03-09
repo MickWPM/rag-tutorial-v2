@@ -1,0 +1,35 @@
+ITEM NAME: Crazy Cleric Arm Plate
+
+Velious Era (added December 2000-2001)
+
+
+Crazy Cleric Arm Plate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 32
+STR: +5  STA: +5  MANA: +25
+SV FIRE: +5  SV COLD: +5
+WT: 4.0  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

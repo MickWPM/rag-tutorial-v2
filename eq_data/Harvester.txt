@@ -1,0 +1,33 @@
+ITEM NAME: Harvester
+
+Temple Era (added October 1999)
+
+Harvester
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+AC: 4
+STR: +5  CHA: -5  INT: +5
+Effect:  Deadeye (Worn)
+WT: 8.0  Size: LARGE
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ Item Lore (from Identify):  'Harvester of Shadows'  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Harvester Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Drums of the Beast
+
+Velious Era (added December 2000-2001)
+
+ 
+Drums of the Beast
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Percussion Instrument: 26
+Effect:  Enduring Breath (Any Slot/Can Equip, Casting Time: Instant)
+WT: 1.0  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+ Item Lore (from Identify): Drums of the Sea Beasts
+This drum is extremely useful as it is equipped in the primary slot. It allows the use of a secondary item in conjunction with an instrument. 
+
+  Drops From 
+Siren's Grotto
+
+ shimmering sea spirit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

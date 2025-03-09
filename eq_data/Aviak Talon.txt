@@ -1,0 +1,38 @@
+ITEM NAME: Aviak Talon
+
+Classic Era (added 1999-2000)
+
+
+Aviak Talon
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a krag elder
+
+Ocean of Tears
+
+ an aviak quetzel
+ an aviak turaco
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Aviak Talons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

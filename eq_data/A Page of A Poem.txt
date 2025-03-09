@@ -1,0 +1,47 @@
+ITEM NAME: A Page of A Poem
+
+Kunark Era (added 2000)
+
+
+Page of a Poem
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+
+
+Note: Four identically named items all used for the same quest.
+This is apparently supposed to drop from a goblin thief but appears to be dropping from a goblin scout on p99.
+ Item Lore (from Identify): Page One of Love Poem
+ Item Lore (from Identify): Page Two of Love Poem
+ Item Lore (from Identify): Page Three of Love Poem
+ Item Lore (from Identify): Page Four of Love Poem 
+
+  Drops From 
+Warsliks Woods
+
+ a goblin thief
+ a goblin scout
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Geozite Tool Quest 
+
+  Book contents 
+Page 1 reads:
+To my dear sweet Kyg Why did we part Why did you go Now I am all alone Feeling all low.
+Page 2 reads:
+My heart is in ruin My heart is not whole I miss the sweet loving warmth and the way that we hold.
+Page 3 reads:
+I miss the picnics in the ruins the way that you smile I miss that all now that life is so vile.
+Page 4 reads:
+So listen to my plea It is heartfelt and quite big Let us get back together So hurry up and dump that zero. Hikyg.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

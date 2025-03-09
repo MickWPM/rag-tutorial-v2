@@ -1,0 +1,38 @@
+ITEM NAME: A shadowed knife
+
+Temple Era (added October 1999)
+
+
+A shadowed knife
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 20
+DMG: 3 
+INT: +2
+SV COLD: +2
+WT: 2.5  Size: SMALL
+Class: SHD NEC
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Ocean of Tears
+
+ a goblin headmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Harvester
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

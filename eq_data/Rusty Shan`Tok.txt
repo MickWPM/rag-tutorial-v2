@@ -1,0 +1,51 @@
+ITEM NAME: Rusty Shan`Tok
+
+Kunark Era (added 2000)
+
+
+Rusty Shan`Tok
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 42
+DMG: 8 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 2 Golds
+ 3 Silvers
+ 5 Coppers
+ 
+  Drops From 
+Field of Bone
+
+ a skeleton (Iksar)
+ an Iksar footpad
+
+Kurn's Tower
+
+ greater scalebone
+
+Lake of Ill Omen
+
+ a decaying skeleton (Iksar)
+ greater scalebone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

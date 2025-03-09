@@ -1,0 +1,38 @@
+ITEM NAME: Crushbone Shoulderpads
+
+Classic Era (added 1999-2000)
+Era Note: Before December 2000 era, these pads are simply called Legionnaire Shoulderpads.
+
+
+Crushbone Shoulderpads
+
+
+Slot: SHOULDERS
+AC: 1
+WT: 1.9  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+Crushbone
+
+ orc emissary
+ orc legionnaire
+ orc warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Orc Vest
+ Crushbone Shoulderpads Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

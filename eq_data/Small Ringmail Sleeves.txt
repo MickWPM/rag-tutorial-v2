@@ -1,0 +1,87 @@
+ITEM NAME: Small Ringmail Sleeves
+
+Were you looking for Large Ringmail Armor Set? Were you looking for Ringmail Armor Set?
+
+Small Ringmail Sleeves
+
+
+Slot: ARMS
+AC: 6
+WT: 3.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Ringmail Armor Set. 
+
+  Drops From 
+Butcherblock Mountains
+
+ a crazed goblin
+ a goblin
+ Glorin Binfurr
+ Thar Kelgand
+
+Mistmoore Castle
+
+ a glyphed aegis
+ a glyphed custodian
+ a glyphed forbidder
+ a glyphed guard
+ a glyphed sentry
+ a glyphed warder
+ Enynti
+
+The Estate of Unrest
+
+ a carrion ghoul
+ dark boned skeleton
+
+High Keep
+
+ a crazed goblin
+ a goblin
+
+Najena
+
+ a skeleton
+
+Northern Karana
+
+ Nul Aleswiller
+
+Steamfont Mountains
+
+ Frebin Tinderhue
+ Watchman Dreeb
+ Watchman Grep
+ Watchman Mylz
+ Watchman Prenn
+ Watchman Prynn
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ South Qeynos
+
+ Byjan Timbokker
+
+
+
+  (197, -173)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

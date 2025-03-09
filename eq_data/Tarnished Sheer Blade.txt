@@ -1,0 +1,56 @@
+ITEM NAME: Tarnished Sheer Blade
+
+
+
+Tarnished Sheer Blade
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 33
+DMG: 6 
+WT: 8.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 2gp 4sp to vendor. 
+
+  Drops From 
+Field of Bone
+
+ a skeleton
+ an Iksar footpad
+ an iksar marauder
+ skeleton
+
+Lake of Ill Omen
+
+ greater scalebone
+
+Swamp of No Hope
+
+ a decaying skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 21)
+ Yield: Tarnished Sheer Blade x1
+ In Forge:
+
+
+  1 x Rusty Sheer Blade - Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

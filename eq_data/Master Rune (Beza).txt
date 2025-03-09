@@ -1,0 +1,39 @@
+ITEM NAME: Master Rune (Beza)
+
+Classic Era (added 1999-2000)
+
+
+Master Rune (Beza)
+
+
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (Trivial: 162)
+ Yield: Master Rune (Azia) x1
+ In Concordance of Research:
+
+
+  1 x Quill - Bought
+  1 x Piece of Parchment - Bought
+  1 x Pearl - Bought
+  1 x Giant Fire Beetle Eye - Dropped
+  1 x Any Fine Steel Slashing Weapon - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

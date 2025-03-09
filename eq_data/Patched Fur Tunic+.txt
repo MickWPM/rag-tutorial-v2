@@ -1,0 +1,31 @@
+ITEM NAME: Patched Fur Tunic*
+
+
+
+Patched Fur Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 3
+WT: 1.0  Size: MEDIUM
+Class: WAR
+Race: BAR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Wolves of the North
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

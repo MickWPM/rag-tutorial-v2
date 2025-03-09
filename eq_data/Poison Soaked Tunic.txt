@@ -1,0 +1,35 @@
+ITEM NAME: Poison Soaked Tunic
+
+Velious Era (added December 2000-2001)
+
+Poison Soaked Tunic
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 48
+STR: +10
+SV POISON: +25
+WT: 8.0  Size: TINY
+Class: SHD ROG
+Race: ALL
+
+
+Shown is the Velious Stat Upgrade. See discussion. 
+
+  Drops From 
+Temple of Veeshan
+
+ Ikatiar the Venom
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

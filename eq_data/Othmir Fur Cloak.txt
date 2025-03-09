@@ -1,0 +1,38 @@
+ITEM NAME: Othmir Fur Cloak
+
+Velious Era (added December 2000-2001)
+
+
+
+Othmir Fur Cloak
+
+
+MAGIC ITEM  QUEST ITEM Slot: BACK AC: 6 STA: +6  CHA: +2  WIS: +4  HP: +5
+SV DISEASE: +4  SV MAGIC: +2 WT: 1.6  Size: MEDIUM Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 295)
+ Yield: Othmir Fur Cloak x1
+ In Coldain Tanners Kit:
+
+
+  1 x Cloak Pattern - Bought
+  4 x Othmir Fur - Dropped
+  1 x Silver Thread - Bought
+  1 x Vial of Clear Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

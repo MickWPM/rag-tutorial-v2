@@ -1,0 +1,38 @@
+ITEM NAME: Blade of the Earthcaller
+
+
+Blade of the Earthcaller
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 4 
+Effect:  Root (Combat, Casting Time: Instant) at Level 15
+WT: 3.4  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+ Merchant resale value: 5pp. 
+
+  Drops From 
+Temple of Droga
+
+ a goblin cavehunter
+ a goblin depredator
+ a goblin dirtscriber
+ a goblin taskmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

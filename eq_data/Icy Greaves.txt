@@ -1,0 +1,34 @@
+ITEM NAME: Icy Greaves
+
+
+Icy Greaves
+
+
+LORE ITEM  NO DROP
+Slot: LEGS
+AC: 8
+SV COLD: +5
+WT: 7.5  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ALL except IKS
+
+
+ Item Lore (from Identify):  'Flakes of ice slough off with every step'  
+
+  Drops From 
+Permafrost
+
+ an elite goblin guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lambent Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Blood Ember Vambraces
+
+Kunark Era (added 2000)
+
+Blood Ember Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 21
+Effect:  Vampiric Embrace (Must Equip, Casting Time: 6.0) at Level 45
+WT: 6.5  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR
+
+
+Part of the Blood Ember Armor set. 
+
+  Drops From 
+Old Sebilis
+
+ skeletal champion
+ skeletal harbinger
+ spectral revenant
+ skeletal baron
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

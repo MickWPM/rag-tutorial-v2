@@ -1,0 +1,36 @@
+ITEM NAME: Bladed Thulian Claws
+
+
+Bladed Thulian Claws
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 19
+DMG: 5 
+WT: 2.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+A popular twink item for melee, these claws sport a very fast ratio for the pre-Kunark era. Formerly named Demon Claws until July 1999 in the timeline.[1] 
+ Merchant resale value: 3p 
+
+  Drops From 
+Cazic Thule
+
+ Avatar of Fear
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

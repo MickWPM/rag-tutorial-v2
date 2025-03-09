@@ -1,0 +1,32 @@
+ITEM NAME: Sharkskin Drum
+
+
+Sharkskin Drum
+
+
+MAGIC ITEM
+Slot: SECONDARY
+Percussion Instruments: 22
+WT: 0.8  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Kedge Keep
+
+ Coralyn Kelpmaiden
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

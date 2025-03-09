@@ -1,0 +1,32 @@
+ITEM NAME: Talisman of Benevolence
+
+Velious Era (added December 2000-2001)
+Talisman of Benevolence
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE SECONDARY
+AC: 7
+WIS: +15  HP: +38  MANA: +55
+SV COLD: +12  SV MAGIC: +12
+WT: 0.1  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Leuz's Task
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

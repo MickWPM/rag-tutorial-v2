@@ -1,0 +1,33 @@
+ITEM NAME: Grotesque Girdle
+
+Warrens Era (added spring 2001)
+Grotesque Girdle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 8
+WIS: +10  INT: +10  HP: +100  MANA: +100
+WT: 0.0  Size: SMALL
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a dracoliche
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

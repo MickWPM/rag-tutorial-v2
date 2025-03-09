@@ -1,0 +1,34 @@
+ITEM NAME: Crystal Chitin Chestguard
+
+Velious Era (added December 2000-2001)
+
+Crystal Chitin Chestguard
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 25
+CHA: +7  WIS: +10  AGI: +7  MANA: +10
+WT: 15.0  Size: TINY
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ The Brood Master
+ The Brood Mother
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Stormseye looks fantastic in this druid-usable plate
+

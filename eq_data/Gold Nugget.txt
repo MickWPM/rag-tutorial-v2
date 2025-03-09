@@ -1,0 +1,37 @@
+ITEM NAME: Gold Nugget
+
+
+Gold Nugget
+
+
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Genuine Gold Nugget
+ Item Lore (from Identify):  Frontier Fool's Gold
+Note: There are two identical items with this name.
+Both are foraged in FM.
+You want the Fool's Gold (stackable, cannot be sold to a vendor) for the pike quest and the shackle quest. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #3 (Soldier's Pike)
+ Shackle of Bronze
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Frontier Mountains
+
+

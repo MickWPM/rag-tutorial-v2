@@ -1,0 +1,36 @@
+ITEM NAME: Vermiculated Gloves
+
+
+
+Vermiculated Gloves
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 6
+DEX: +13  INT: +5
+SV DISEASE: +7
+WT: 5.5  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a gorgon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Full armor set here: [1]
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Cured Silk Cloak
+
+
+Cured Silk Cloak
+
+
+Slot: BACK
+AC: 4
+WT: 0.1  Size: MEDIUM
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+Part of the Cured Silk Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Tailoring (82)
+
+Yield: Cured Silk Cloak x1
+In: Deluxe Sewing Kit, Large Sewing Kit, Loom
+  1 x Cloak Pattern - Bought
+  2 x Heady Kiola - Crafted
+  2 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

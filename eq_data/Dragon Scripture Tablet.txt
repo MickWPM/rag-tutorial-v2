@@ -1,0 +1,31 @@
+ITEM NAME: Dragon Scripture Tablet
+
+Velious Era (added December 2000-2001)
+
+
+Dragon Scripture Tablet
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+
+
+ Item Lore (from Identify):  'This tablet is written in ancient dragon script'  
+
+  Drops From 
+Eastern Wastes
+
+ Oracle of Ry`Gorr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mask of Draconic Enhancement (Quest)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

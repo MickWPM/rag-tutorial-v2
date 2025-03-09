@@ -1,0 +1,33 @@
+ITEM NAME: Mroons Toy
+
+
+Mroons Toy
+
+
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 70
+DMG: 20 
+WT: 12.0  Size: LARGE
+Class: WAR SHD SHM
+Race: BAR DWF TRL OGR IKS
+
+
+As of 10/16/2023, Pets can not equip and use Mroons Toy. 
+ Merchant resale value: 4.5p 
+
+  Drops From 
+Southern Karana
+
+ Mroon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

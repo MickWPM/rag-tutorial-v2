@@ -1,0 +1,92 @@
+ITEM NAME: Velium Morning Star
+
+Velious Era (added December 2000-2001)
+
+
+
+Velium Morning Star
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 38
+DMG: 8 
+Effect:  Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 9.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 5 Platinums
+ 9 Golds
+ 4 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari guard
+ a Chetari hoarder
+ a Chetari hunter
+ a Chetari servant
+ a Chetari Warrior
+ a Chetari worker
+ a Paebala Rebel
+ a Paebala Spirit Talker
+ a Paebala warrior
+
+Eastern Wastes
+
+ a frost giant
+ a frost giant savage
+ a frost giant scout
+ a ulthork man o war
+ an ulthork hunter
+ an ulthork warrior
+ Ry'Gorr Messenger
+
+Great Divide
+
+ a frost giant scout
+ a furious tizmak warrior
+ a tizmak champion
+ a tizmak warrior
+
+Iceclad Ocean
+
+ a frost giant elite
+ a frost giant scout
+
+Icewell Keep
+
+ An Icewell Sentry
+
+Thurgadin
+
+ Rumagur
+
+Tower of Frozen Shadow
+
+ a blood familiar
+ an armored shadow
+
+Wakening Lands
+
+ a frost giant sentinel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

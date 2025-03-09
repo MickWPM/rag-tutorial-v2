@@ -1,0 +1,85 @@
+ITEM NAME: Words of Seizure
+
+
+Words of Seizure
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: ~1p 4g 
+
+  Drops From 
+Burning Woods
+
+ a sarnak extremist
+
+City of Mist
+
+ a phantom
+ greater plaguebone
+
+East Freeport
+
+ Guard Chirven
+
+Eastern Wastes
+
+ a wooly rhino
+
+Karnor's Castle
+
+ a drolvarg sentry
+ skeletal warlord
+
+Lake of Ill Omen
+
+ a bloodgill marauder
+
+Lesser Faydark
+
+ Equestrielle the Corrupted
+
+Lower Guk
+
+ a zol ghoul knight
+
+Ocean of Tears
+
+ a seafury cyclops
+
+The Feerrott
+
+ a spectre
+
+The Hole
+
+ an elemental warrior
+
+The Wakening Land
+
+ A suit of sentient armor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: 140)
+ Yield: Spell: Nullify Magic x1
+ In Book of Dark Bindings:
+
+
+  1 x Words of Descrying - Dropped
+  1 x Words of Seizure - Dropped
+  1 x Words of Disillusionment - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

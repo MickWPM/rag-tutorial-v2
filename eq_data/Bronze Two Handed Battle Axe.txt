@@ -1,0 +1,57 @@
+ITEM NAME: Bronze Two Handed Battle Axe
+
+Classic Era (added 1999-2000)
+
+Bronze Two Handed Battle Axe
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 46
+DMG: 9 
+WT: 14.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 4 Platinums
+ 0 Golds
+ 2 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ Doran Glosglen
+ Gann Dunbull
+ Glorin Binfurr
+ Thar Kelgand
+
+The Estate of Unrest
+
+ a greater dark bone
+
+Najena
+
+ a skeleton (the ones near the water)
+ an ogre guard
+
+Qeynos Hills
+
+ Niclaus Ressinn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Taskmaster Earring - Dwarf Male
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

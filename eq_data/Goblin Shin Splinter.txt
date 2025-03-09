@@ -1,0 +1,33 @@
+ITEM NAME: Goblin Shin Splinter
+
+
+
+Goblin Shin Splinter
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 5 
+WT: 2.8  Size: MEDIUM
+Class: ALL except
+Race: ALL
+
+
+
+
+  Drops From 
+Cazic Thule
+
+ Tae Ew Templar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

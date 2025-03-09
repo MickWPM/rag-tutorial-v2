@@ -1,0 +1,58 @@
+ITEM NAME: Words of Dimension
+
+
+Words of Dimension
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 2 Golds
+ 4 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from level ~24 mobs
+
+Lake of Ill Omen
+
+A sarnak recruit
+
+Lower Guk
+
+a nok ghoul wizard
+
+South Karana
+
+ Aviak harrier
+
+Ocean of Tears
+
+An isle goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Summoning: Fire (Trivial: 62)
+ Summoning: Air (Trivial: 62)
+ Summoning: Earth (Trivial: 62)
+ Summoning: Water (Trivial: 62)
+
+
+
+
+

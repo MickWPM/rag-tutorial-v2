@@ -1,0 +1,354 @@
+ITEM NAME: Mixxy's Delicacies Vol 1
+
+
+
+Mixxy's Delicacies Vol 1
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a reanimated hand
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ East Cabilis
+
+ Klok Unlar
+
+
+
+  (531, 162)
+
+
+ West Cabilis
+
+ a forbidden scribe
+
+
+
+  (-107, 637)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ Erudin
+
+ Beth Breadmaker
+
+
+
+  (136, 109)
+
+
+ Erudin
+
+ Helia BlueHawk
+
+
+
+  (-1186, -333)
+
+
+ Firiona Vie
+
+ Glinya Sweetpie
+
+
+
+  (-2750, 2550)
+
+
+ North Freeport
+
+ Rashinda Elore
+
+
+
+  (290, 302)
+
+
+ West Freeport
+
+ Olyna Midel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Halas
+
+ Teria O`Danos
+
+
+
+  (-6, -33)
+
+
+ High Keep
+
+ Baker Jena
+
+
+
+  (46, -260)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ Neriak Foreign Quarter
+
+ Tal Drana
+
+
+
+  (106, -251)
+
+
+ Neriak Foreign Quarter
+
+ Sal Drana
+
+
+
+  (106, -238)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ The Overthere
+
+ Dom K`Perl
+
+
+
+  (3017, 2193)
+
+
+ Paineel
+
+ Gorng Alusnein
+
+
+
+  (984, 636)
+
+
+ Paineel
+
+ Iva Tersala
+
+
+
+  (970, 649)
+
+
+ Paineel
+
+ Toryn Roltaire
+
+
+
+  (1040, 641)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ RunnyEye Citadel
+
+ A goblin merchant
+
+
+
+  (8, 130), (60, 139)
+
+
+ Skyshrine
+
+ Grudash the Baker
+
+
+
+  (161, -474)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Edible Goo
+Next to pot noodle, Edible Goo is quite possibly one of the worst tasting
+dishes a creature would ever be forced to endure. Nicknamed "don't you dare feed me that crap".
+Ingredients: Rat Ears and Flame Beetle Eye
+Cooking Instructions: Choose a random temperature and set the spit or oven to
+it. Mash the Flame Beetle eyes with stones until pureed. Add rat ears.
+Leave on heat until you gain the strength to consume the mixture.
+Taste Great with: No comment
+Candied Spider
+Soft and sticky Candied Spiders are known for their sweet outsides and tangy innards. Once a
+creature has eaten one it's hard for them to not eat the whole batch.
+Ingredients: Spider Legs, Frosting, Spices
+Cooking Instructions: Spice and add frosting to the spider legs. Place them for a short time
+into an oven to liquefy the frosting. Let them sit outside until the Frosting has hardened.
+Best Served After: Fish Rolls and a Flask of Water
+Rat Sandwich
+Usually eaten unintentionally when the little critters find their way into your bread supply.
+Also known as "I-Should-Have-Bought-Myself-a-Lantern Sandwich".
+Ingredients: Rat Meat and Bread
+Cooking Instructions: Grab whole rat and shove it firmly into a loaf of bread. Serve.
+Tastes great with: Pickled Snake and Ale
+Lion Steaks
+Lion steaks are by far the most succulent and juicy; even the toothless can easily gobble up this
+delicate meat. But the blandness of this meat requires massive flavoring.
+Ingredients: Lion Meat, Spices, Jug of Sauces
+Cooking instructions: Marinate well in sauces and spices to enhance flavor. Fire a spit or
+oven for low heat. Carefully place the meat in the center of the heat without bruising the meat.
+Serve when golden.
+Tastes great with: Shark Rolls, and Ale
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

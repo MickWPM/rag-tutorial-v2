@@ -1,0 +1,68 @@
+ITEM NAME: Dwarven Blood
+
+
+Dwarven Blood
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a dwarven bandit
+ Blyle Bundin
+ Crytil Dunfire
+ Darm Dundam
+ Ganbar Dundam
+ Gann Dunbull
+ Gundl
+ Keldyn Dunfire
+ Margyl Darklin
+ Nyzil Bloodforge
+ Thar Kelgand
+
+Crushbone
+
+ a dwarven slave (female)
+ a dwarven slave (male)
+ a dwarven smith
+ Rondo Dunfire
+
+Crypt of Dalnir
+
+ a coerced dwarf (female)
+ a coerced dwarf (male)
+
+Dagnor's Cauldron
+
+ Gundalthur Izuran
+
+Steamfont Mountains
+
+ Dimlore Stormhammer
+
+Qeynos Aqueducts
+
+ a shady mercenary
+ a mercenary
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Blood Temper (Trivial: 135)
+
+
+
+
+

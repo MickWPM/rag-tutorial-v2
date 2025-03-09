@@ -1,0 +1,38 @@
+ITEM NAME: Silverleaf Belt
+
+Velious Era (added December 2000-2001)
+
+Silverleaf Belt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 7
+WIS: +10  HP: +60 MANA: +60
+SV MAGIC: +20  
+WT: 2.0  Size: SMALL
+Class: DRU
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ an Agent of Innoruuk
+ a Disciple of Innoruuk
+ A Sage of Innoruuk
+ Innoruuk's Chosen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,53 @@
+ITEM NAME: Rhino Hide Wrist Guard
+
+Kunark Era (added 2000)
+
+
+Rhino Hide Skullcap
+
+
+Slot: WRIST
+AC: 3
+WT: 1  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC MNK DRU
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Scaznar
+
+
+
+  (53, -133)
+
+
+ West Cabilis
+
+ Gryzil
+
+
+
+  (391, 515)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

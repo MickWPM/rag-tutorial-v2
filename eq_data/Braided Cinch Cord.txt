@@ -1,0 +1,34 @@
+ITEM NAME: Braided Cinch Cord
+
+Classic Era (added 1999-2000)
+
+Braided Cinch Cord
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 2
+INT: +4  HP: +8
+WT: 0.2  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Lower Guk
+
+ a ghoul sage
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

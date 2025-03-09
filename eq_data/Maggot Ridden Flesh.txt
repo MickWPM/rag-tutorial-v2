@@ -1,0 +1,35 @@
+ITEM NAME: Maggot Ridden Flesh
+
+Velious Era (added December 2000-2001)
+
+Maggot Ridden Flesh
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 2
+CHA: -20
+SV DISEASE: -20  SV POISON: -20
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known use, aside from purposeful pacify crits to pull mobs without line of sight. Vendors for 6.6p with average CHA. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ maggot infested flesh
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

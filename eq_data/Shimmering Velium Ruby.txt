@@ -1,0 +1,33 @@
+ITEM NAME: Shimmering Velium Ruby
+
+Velious Era (added December 2000-2001)
+
+
+Shimmering Velium Ruby
+
+
+WT: 0.1  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Crystal Caverns
+
+ a geonid
+ a Ry`Gorr miner
+ a Ry`Gorr watchman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

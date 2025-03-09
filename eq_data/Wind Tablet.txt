@@ -1,0 +1,33 @@
+ITEM NAME: Wind Tablet
+
+Sky Era (added January 2000)
+
+
+Wind Tablet
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzt Zzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Think
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

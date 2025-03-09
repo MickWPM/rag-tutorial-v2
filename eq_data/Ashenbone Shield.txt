@@ -1,0 +1,40 @@
+ITEM NAME: Ashenbone Shield
+
+Classic Era (added 1999-2000)
+
+Ashenbone Shield
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 25
+STA: +5  HP: +100
+WT: 5.0  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF GNM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+This item may not be equipped by Iksars until  Feb  '01. 
+
+  Drops From 
+Kithicor Forest
+
+ General V`ghera
+
+Plane of Hate
+
+ an ashenbone drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Jawless Skull
+
+Kunark Era (added 2000)
+
+
+Jawless Skull
+
+
+LORE ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Warslik's Woods
+
+ a rogue shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 2
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

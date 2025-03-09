@@ -1,0 +1,32 @@
+ITEM NAME: Torn and Ripped Tunic*
+
+Classic Era (added 1999-2000)
+
+
+Torn and Ripped Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 3
+WT: 1.0  Size: SMALL
+Class: WAR
+Race: GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Gemchopper Hall
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

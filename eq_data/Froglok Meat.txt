@@ -1,0 +1,79 @@
+ITEM NAME: Froglok Meat
+
+Classic Era (added 1999-2000)
+
+Froglok Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lower Guk
+
+ A Froglok Bok Knight
+
+Innothule Swamp
+
+ a froglok fisherman
+ Forager Grikk
+
+Upper Guk
+
+ a froglok apprentice
+ a froglok gaz knight
+ a froglok gaz shaman
+ a froglok guard
+ a froglok necromancer
+ a froglok neophyte
+ a froglok nokta shaman
+ a froglok novice
+ a froglok priest
+ a froglok realist
+ a froglok scryer
+ a froglok sentinel
+ a froglok sentry
+ a froglok shin knight
+ a froglok shin shaman
+ a froglok shinta warrior
+ a froglok tad
+ a froglok tal shaman
+ a froglok ton knight
+ a froglok ton shaman
+ a froglok ton warrior
+ a froglok tonta knight
+ a froglok tuk knight
+ a froglok tuk shaman
+ a froglok tuk warrior
+ a froglok vis knight
+ a froglok vis shaman
+ a froglok witch doctor
+ a froglok yun priest
+ the froglok shin lord
+ the froglok warden
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Pickled Frogloks
+ Ranjor's Test
+ Oven Mittens
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Ogre Swill (trivial 51)
+
+ Baking
+ Pickled Froglok (Trivial: 51)
+
+
+
+
+

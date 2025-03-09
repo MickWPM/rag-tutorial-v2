@@ -1,0 +1,33 @@
+ITEM NAME: Corrupted Ghoulbane
+
+Epic Quests Era (added Sept 2000)
+ 
+Corrupted Ghoulbane
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 34
+DMG: 16 
+Effect: Dismiss Undead (Combat, Casting Time: Instant) at Level 20
+WT: 9.5  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

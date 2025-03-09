@@ -1,0 +1,39 @@
+ITEM NAME: A Scorpion Telson
+
+Kunark Era (added 2000)
+
+
+Scorpion Telson
+
+
+LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+EXPENDABLE  Charges: 1
+Skill: Piercing  Atk Delay: 24
+DMG: 3 
+Effect:  Poison Bolt (Any Slot, Casting Time: Instant)
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+There seems to be two versions of this item, one with a charge of Poison Bolt, one without.
+The charged version is useful as an aggro-gain tool like Midnight Mallet, and is easily obtained, but not rechargeable. 
+
+  Drops From 
+Field of Bone
+
+ a heartsting scorpion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 4th Rank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

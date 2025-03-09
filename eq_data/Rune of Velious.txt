@@ -1,0 +1,45 @@
+ITEM NAME: Rune of Velious
+
+
+Rune of Velious
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This rune is used for crafting Fire Spiral of Al'Kabor. Although the spell cannot be vendor purchased, it is very inefficient and never used by wizards as Pillar of Fire is much more efficient for quadding. 
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~20 mob
+
+Ocean of Tears
+
+ An isle goblin
+
+
+Eastern Plains of Karana
+
+ a crag spider
+
+Lower Guk
+
+ a zol ghoul knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Fire Spiral of Al'Kabor (Trivial: 46)
+
+
+
+
+

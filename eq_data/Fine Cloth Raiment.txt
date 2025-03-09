@@ -1,0 +1,36 @@
+ITEM NAME: Fine Cloth Raiment
+
+Sky Era (added January 2000)
+
+
+Fine Cloth Raiment
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 3
+HP: +15
+WT: 5.0  Size: MEDIUM
+Class: NEC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Test of The Mind
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

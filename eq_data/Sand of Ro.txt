@@ -1,0 +1,51 @@
+ITEM NAME: Sand of Ro
+
+Temple Era (added October 1999)
+
+
+
+Sand of Ro
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Oasis of Marr
+
+ a sand giant
+ Cazel
+
+Northern Desert of Ro
+
+ a sand giant
+
+Southern Desert of Ro
+
+ Sandgiant Husam
+ a sand giant
+
+West Commonlands
+
+ A Nightfall Giant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Princess Lenya
+ Armor of Ro Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+Pottery
+
+ Unfired Deity (Trivial: 135)
+
+
+
+

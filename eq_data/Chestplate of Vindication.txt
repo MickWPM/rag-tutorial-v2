@@ -1,0 +1,38 @@
+ITEM NAME: Chestplate of Vindication
+
+Velious Era (added December 2000-2001)
+
+ Mr. Secretary sports a Chestplate of Vindication
+Chestplate of Vindication
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 45
+STA: +15  HP: +100
+SV FIRE: +15  SV DISEASE: +15  SV COLD: +15  SV MAGIC: +15  SV POISON: +15
+Effect: Aura of Battle (Worn)
+WT: 25.0  Size: LARGE
+Class: WAR CLR PAL SHD BRD SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Chestplate of the Vindicator
+Has the Velious texture after [Sep2001] [1], Velious Plate 1 tinted dark gray. 
+
+  Drops From 
+Kael Drakkel
+
+ Derakor the Vindicator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

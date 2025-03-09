@@ -1,0 +1,31 @@
+ITEM NAME: Faded Crimson Tunic*
+
+
+
+Faded Crimson Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 1.0  Size: MEDIUM
+Class: WAR CLR SHD
+Race: HUM HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Newbie Quest: Evil Freeport Warrior
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

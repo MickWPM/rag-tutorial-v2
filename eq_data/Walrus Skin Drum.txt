@@ -1,0 +1,35 @@
+ITEM NAME: Walrus Skin Drum
+
+Velious Era (added December 2000-2001)
+
+Walrus Skin Drum
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+Percussion Instrument: 23
+WT: 0.5  Size: SMALL
+Class: BRD
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad weaver
+ a siren enticer
+ a siren sorceress
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

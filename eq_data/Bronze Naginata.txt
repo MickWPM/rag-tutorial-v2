@@ -1,0 +1,37 @@
+ITEM NAME: Bronze Naginata
+
+Velious Era (added December 2000-2001)
+
+
+
+Bronze Naginata
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 52
+DMG: 10 
+WT: 15.0  Size: GIANT
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+The Warrens
+
+ High Shaman Drogik
+ A Kobold Sentinel
+ A Kobold Sentry
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

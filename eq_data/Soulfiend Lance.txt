@@ -1,0 +1,33 @@
+ITEM NAME: Soulfiend Lance
+
+Stonebrunt Era (added summer 2001)
+
+Soulfiend Lance
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 41
+DMG: 20   AC: 5
+INT: +3
+Effect:  Leech (Combat, Casting Time: Instant) at Level 25
+WT: 9.2  Size: LARGE
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ridossan's Spirit
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Soulfield Lance
+

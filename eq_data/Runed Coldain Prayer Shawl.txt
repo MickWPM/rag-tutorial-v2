@@ -1,0 +1,45 @@
+ITEM NAME: Runed Coldain Prayer Shawl
+
+Velious Era (added December 2000-2001)
+
+
+Runed Coldain Prayer Shawl
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 7
+STA: +7  CHA: +7  WIS: +7  INT: +7
+SV FIRE: +7  SV COLD: +7  SV POISON: +7
+Effect: Flowing Thought I (Worn)  
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Approved by the Dain
+This is shawl #7, the last one in the P99 Timeline. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Tailoring (Trivial: 162)
+ Yield: Runed Coldain Prayer Shawl x1
+ In Loom:
+
+
+  1 x Embroidered Coldain Prayer Shawl - Crafted, Quested, Returned on Failure
+  1 x Encased Velium etched rune - Crafted
+  1 x Runed Prayer Shawl pattern - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

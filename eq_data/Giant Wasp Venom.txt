@@ -1,0 +1,39 @@
+ITEM NAME: Giant Wasp Venom
+
+Classic Era (added 1999-2000)
+
+
+Giant Wasp Venom
+
+
+Effect: Contact Poison I (Combat, Casting Time: Instant) at Level 5
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Poison Sales
+
+  Player crafted 
+ Poison Making (Trivial: 20)
+ Yield: Giant Wasp Venom x1
+ In Mortar and Pestle:
+
+
+  3 x Giant Wasp Venom Sac - Dropped
+  1 x Poison Vial - Crafted, Bought, Returned on Failure
+  1 x Suspension - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

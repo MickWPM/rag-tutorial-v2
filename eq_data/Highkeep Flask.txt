@@ -1,0 +1,31 @@
+ITEM NAME: Highkeep Flask
+
+Classic Era (added 1999-2000)
+
+Highkeep Flask
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Not a drink. 
+
+  Drops From 
+High Keep
+
+ Guard Rance
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sir Morgan's Armor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

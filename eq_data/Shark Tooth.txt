@@ -1,0 +1,33 @@
+ITEM NAME: Shark Tooth
+
+
+Shark Tooth
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 5 
+WT: 1.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Kedge Keep
+
+ a frenzied cauldron shark
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

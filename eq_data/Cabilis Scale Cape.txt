@@ -1,0 +1,41 @@
+ITEM NAME: Cabilis Scale Cape
+
+Kunark Era (added 2000)
+
+
+Cabilis Scale Cape
+
+
+Slot: BACK
+AC: 8
+WT: 3.0  Size: LARGE
+Class: WAR SHD SHM
+Race: IKS
+
+
+Iksar cultural blacksmithing. Part of the Unimbued Cabilis Scale Armor set.
+Note: Alla recipe has an error, replaces Mold with some weird gloves (might be bugged on p99). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 128)
+ Yield: Cabilis Scale Cape x1
+ In Iksar Forge:
+
+
+  1 x Cloak Sectional Mold - Quested
+  1 x Flask of Bloodwater - Bought
+  2 x Skyiron Scales - Crafted
+  3 x Skyiron Sheet - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

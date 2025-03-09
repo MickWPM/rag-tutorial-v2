@@ -1,0 +1,36 @@
+ITEM NAME: Light Damask Mantle
+
+Sky Era (added January 2000)
+
+
+Light Damask Mantle
+
+
+LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 5
+STA: +2  WIS: +2  HP: +10
+WT: 9.0  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of Sight
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

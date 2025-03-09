@@ -1,0 +1,37 @@
+ITEM NAME: Collapsible Fishing Pole
+
+
+Collapsible Fishing Pole
+
+
+QUEST ITEM  
+Slot: PRIMARY
+Skill Mod: Fishing +5%
+WT: 0.3  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This Pole DOES Break - ~ 80 skillups, broke without warning, needing confirmation as of 09/04/2018 // does not show +% in-game. Bug or false? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 31)
+ Yield: Collapsible Fishing Pole x 1
+ In: Toolboxes
+
+
+  3 x Metal Rod - Bought
+  1 x Gnomish Bolts - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Death Scarab Gland
+
+Classic Era (added 1999-2000)
+
+Death Scarab Gland
+
+
+MAGIC ITEM  LORE ITEM
+Charges: 1
+Effect:  Burrowing Scarab (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Excellent aggro tool, but costs 860pp to recharge. 
+
+  Drops From 
+Nagafen's Lair
+
+ death beetle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Staff of the Four
+
+ Staff of the Four
+Epic Quests Era (added Sept 2000)
+
+
+Staff of the Four
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 20 
+STR: +10  DEX: +5  STA: +10  INT: +25  MANA: +100
+SV FIRE: +10  SV DISEASE: +5  SV COLD: +10  SV MAGIC: +10  SV POISON: +5
+Effect:  Barrier of Force (Must Equip, Casting Time: 15.0) at Level 50
+WT: 4.0  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Epic effect lasts 1 hour 40 minutes 20 seconds max 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

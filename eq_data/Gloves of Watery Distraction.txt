@@ -1,0 +1,48 @@
+ITEM NAME: Gloves of Watery Distraction
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Gloves of Watery Distraction
+
+
+LORE ITEM
+Slot: HANDS
+AC: 15
+STR: +7
+SV COLD: +10  SV MAGIC: +5
+WT: 8.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad mistress
+ a siren beguiler
+ a siren myrmidon
+ a siren templar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,127 @@
+ITEM NAME: Leather Cloak
+
+
+
+Leather Cloak
+
+
+Slot: BACK
+AC: 4
+WT: 2.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Leather Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin
+
+ Demicla Tanner
+
+
+
+  (-689, -101)
+
+
+ Felwithe
+
+ Merchant Tissan
+
+
+
+  (-122, -359)
+
+
+ Firiona Vie
+
+ Basil the skinner
+
+
+
+  (-3367, 2616)
+
+
+ East Freeport
+
+ Sanhan Tanner
+
+
+
+  (72, -568)
+
+
+ East Freeport
+
+ Winlar Tanner
+
+
+
+  (38, -561)
+
+
+ Greater Faydark
+
+ Merchant Aluwenae
+
+
+
+  (-336, -116)
+
+
+ Kithicor Forest
+
+ Lena Leatherspinner
+
+
+
+  (-265, 4000)
+
+
+ Paineel
+
+ Winnla Crestus
+
+
+
+  (944, 689)
+
+
+ South Qeynos
+
+ Fhara Semhart
+
+
+
+  (399, -80)
+
+
+ Rathe Mountains
+
+ Zok Tabruu
+
+
+
+  (-2187, 260)
+
+  Related quests 
+ Taskmaster Earring - Wood Elf Female
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

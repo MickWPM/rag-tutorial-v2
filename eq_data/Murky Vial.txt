@@ -1,0 +1,226 @@
+ITEM NAME: Murky Vial
+
+
+
+Murky Vial
+
+
+MAGIC ITEM
+Charges: 1
+Effect:  Blinding Step (Any Slot, Casting Time: Instant)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Clicking this potion during a long fall will teleport you to the ground safely (without taking damage). Useful for jumping down the Hole. Note: This seems to have been nerfed as some players report this potion has lost it's shadowstep ability, so it can't be used to safely descend The Hole. 
+ Merchant resale value: 10p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork alchemist
+
+
+
+  (891, -301)
+
+
+ West Cabilis
+
+ Jondin
+
+
+
+  (-36, 508)
+
+
+ Erudin Palace
+
+ Sharin Denuen
+
+
+
+  (661, 539)
+
+
+ Felwithe
+
+ Merchant Yisasan
+
+
+
+  (448, -805)
+
+
+ Firiona Vie
+
+ Shrub Marwood
+
+
+
+  (-3253, 2267)
+
+
+ West Freeport
+
+ Olyna Mudel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Torlig Mudel
+
+
+
+  (82, -917)
+
+
+ Greater Faydark
+
+ Merchant Kaeluase
+
+
+
+  (-272, 51)
+
+
+ Greater Faydark
+
+ Merchant Ueaas
+
+
+
+  (-85, 601)
+
+
+ Grobb
+
+ Raztara
+
+
+
+  (439, -393)
+
+
+ Halas
+
+ Murtog MacYee
+
+
+
+  (124, -364)
+
+
+ South Kaladim
+
+ Baldoleky Rockfinder
+
+
+
+  (254, -186)
+
+
+ Neriak Foreign Quarter
+
+ Gambel Quick
+
+
+
+  (253, -60)
+
+
+ Neriak Commons
+
+ Marza T`Kix
+
+
+
+  (20, -875)
+
+
+ Western Plains of Karana
+
+ Spinner
+
+
+
+  (-1453, -12837)
+
+
+ South Qeynos
+
+ Khensol Undesta
+
+
+
+  (288, -623)
+
+
+ South Qeynos
+
+ Drawna Opimsor
+
+
+
+  (303, -550)
+
+
+ South Qeynos
+
+ Caleah Herblender
+
+
+
+  (304, -555)
+
+
+ Rivervale
+
+ Byl Babbinsbort
+
+
+
+  (-146, -114)
+
+
+ Rivervale
+
+ Bimble Babbinsbort
+
+
+
+  (-162, -118)
+
+
+ Thurgadin
+
+ Frundle Frenkler
+
+
+
+  (-390, 505)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

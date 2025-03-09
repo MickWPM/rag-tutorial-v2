@@ -1,0 +1,36 @@
+ITEM NAME: Indicolite Bracer
+
+ Indicolite Bracer, Plate, Troll, Male
+
+
+Indicolite Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 12
+STR: +3  DEX: +3
+SV FIRE: +7  SV COLD: +7  SV MAGIC: +7
+WT: 3.0  Size: SMALL
+Class: WAR
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a kiraikuei
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

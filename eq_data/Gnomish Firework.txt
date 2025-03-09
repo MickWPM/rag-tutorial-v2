@@ -1,0 +1,39 @@
+ITEM NAME: Gnomish Firework
+
+
+Gnomish Firework
+
+
+MAGIC ITEM  QUEST ITEM
+EXPENDABLE  Charges: 1
+Effect:  Blazing Comet (Any Slot, Casting Time: 1.5)
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+The four different Gnomish Firework effects are: Angry Bee, Blazing Comet, Ground Bloom Flower, Happy Panda. 
+Tip - Move as you cast to keep the charge and still have the effect. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 50)
+ Yield: Gnomish Firework x4
+ In Toolboxes:
+
+
+  1 x Metal Shaft - Bought
+  1 x Bat Wing - Bought, Dropped, Quested
+  1 x Firewater - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

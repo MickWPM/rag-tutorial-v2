@@ -1,0 +1,30 @@
+ITEM NAME: Charred Ruby
+
+Classic Era (added 1999-2000)
+Charred Ruby
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ zombie of an Unrest noble
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tompi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

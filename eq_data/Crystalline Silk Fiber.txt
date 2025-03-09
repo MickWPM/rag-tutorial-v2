@@ -1,0 +1,38 @@
+ITEM NAME: Crystalline Silk Fiber
+
+Velious Era (added December 2000-2001)
+Crystalline Silk Fiber
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #5: Silk Coldain Prayer Shawl
+
+  Player crafted 
+ Tailoring (Trivial: 51)
+ Yield: Crystalline Silk Fiber x1
+ In Loom:
+
+
+  5 x Crystalline Silk Thread - Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill
+ Glowing Crystalline Silk Piece (No-Fail)
+
+
+
+
+

@@ -1,0 +1,60 @@
+ITEM NAME: Elven Trail Mix
+
+Kunark Era (added 2000)
+
+Elven Trail Mix
+
+
+This is a hearty meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 4 Silvers
+ 8 Coppers
+ 
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Greater Faydark
+
+ Merchant Weaolanae
+
+
+
+  (428, 338)
+
+
+ Greater Faydark
+
+ Merchant Kanoldar
+
+
+
+  (750, 357)
+
+  Related quests 
+ Drolvarg Teeth
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

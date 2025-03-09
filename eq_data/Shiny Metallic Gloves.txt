@@ -1,0 +1,36 @@
+ITEM NAME: Shiny Metallic Gloves
+
+Velious Era (added December 2000-2001) Blurre <Safe Space> models Shiny Metallic Gloves! (purple tint)
+
+
+Shiny Metallic Gloves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HANDS
+AC: 20
+INT: +9  MANA: +90
+SV FIRE: +8  SV COLD: +8
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Kreizenn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

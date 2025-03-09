@@ -1,0 +1,53 @@
+ITEM NAME: Flawed Flame Opal
+
+Velious Era (added December 2000-2001)
+
+Flawed Flame Opal
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is vendor trash - not to be confused with CRUSHED Flame Opal (Caster Helm) 
+ Merchant resale value: 50p Max 
+
+  Drops From 
+Cobalt Scar
+
+ a cobalt drake
+ a haunted seachest
+ a wyvern
+
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari master
+ a dragon construct
+
+Siren's Grotto
+
+ a neriad maiden
+
+The Wakening Land
+
+ a geonid
+
+Velketor's Labyrinth
+
+ a velium hunter
+ Kalik Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

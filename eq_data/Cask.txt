@@ -1,0 +1,1323 @@
+ITEM NAME: Cask
+
+
+
+Cask
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork barkeep
+
+
+
+  (1252, -946)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1265, -777)
+
+
+ Ak'Anon
+
+ a clockwork brewmaster
+
+
+
+  (1265, -924)
+
+
+ East Cabilis
+
+ Klok Vednir
+
+
+
+  (58, -8)
+
+
+ East Cabilis
+
+ Klok Poklon
+
+
+
+  (913, -85)
+
+
+ East Cabilis
+
+ Klok Sass
+
+
+
+  (667, -38)
+
+
+ Cobalt Scar
+
+ Blumblum Swigwater
+
+
+
+  (237, -1485)
+
+
+ West Commonlands
+
+ Innkeep Seke
+
+
+
+  (-104, 465)
+
+
+ West Commonlands
+
+ Ruby Boxcrafter
+
+
+
+  (-213, 591)
+
+
+ West Commonlands
+
+ Innkeep Redthorn
+
+
+
+  (-401, 2763)
+
+
+ Crystal Caverns
+
+ Hardat Gemshard
+
+
+
+  (-243, 177)
+
+
+ Crystal Caverns
+
+ Grabble Coldheart
+
+
+
+  (-261, 165)
+
+
+ East Commonlands
+
+ Innkeep Leo
+
+
+
+  (-319, 2977)
+
+
+ East Commonlands
+
+ Innkeep Elora
+
+
+
+  (-184, 71)
+
+
+ East Commonlands
+
+ Innkeep Fenia
+
+
+
+  (1021, 3731)
+
+
+ East Commonlands
+
+ Innkeep Calen
+
+
+
+  (315, 4890)
+
+
+ Erudin
+
+ Nerth Sailwind
+
+
+
+  (232, 96)
+
+
+ Erudin
+
+ Luren Renthalis
+
+
+
+  (-1156, -61)
+
+
+ Erudin
+
+ Reihan Wilhemson
+
+
+
+  (-906, -88)
+
+
+ Erudin
+
+ Kisrin Breezeshadow
+
+
+
+  (230, -5)
+
+
+ Erudin
+
+ Reko Saltamer
+
+
+
+  (207, -5)
+
+
+ Erudin Palace
+
+ Vall Stonewisp
+
+
+
+  (590, 832)
+
+
+ Erudin Palace
+
+ Tan Monosty
+
+
+
+  (667, 829)
+
+
+ Erudin Palace
+
+ Judge Monosty
+
+
+
+  (689, 829)
+
+
+ Felwithe
+
+ Merchant Issynal
+
+
+
+  (147, -412)
+
+
+ Felwithe
+
+ Wela Muselender
+
+
+
+  (102, -343)
+
+
+ Felwithe
+
+ Tyle Songwhisper
+
+
+
+  (76, -368)
+
+
+ Firiona Vie
+
+ Broawn Goshart
+
+
+
+  (-3863, 1673)
+
+
+ Firiona Vie
+
+ Dom Pathfinder
+
+
+
+  (-2818, 2686)
+
+
+ Firiona Vie
+
+ Samson
+
+
+
+  (-2952, 2977)
+
+
+ East Freeport
+
+ Lynda Tapper
+
+
+
+  (-296, -213)
+
+
+ East Freeport
+
+ Jaleel Hoglomp
+
+
+
+  (44, -746)
+
+
+ East Freeport
+
+ Cloud Alemaker
+
+
+
+  (116, -267)
+
+
+ East Freeport
+
+ River Alemaker
+
+
+
+  (127, -270)
+
+
+ East Freeport
+
+ Sun Alemaker
+
+
+
+  (127, -254)
+
+
+ East Freeport
+
+ Roghur Muleson
+
+
+
+  (-24, -492)
+
+
+ North Freeport
+
+ Judicla Riverfield
+
+
+
+  (70, -34)
+
+
+ North Freeport
+
+ Shania Tassel
+
+
+
+  (85, -34)
+
+
+ West Freeport
+
+ Krystin Charcoal
+
+
+
+  (102, 9)
+
+
+ West Freeport
+
+ Drona Whystlethin
+
+
+
+  (-120, -473)
+
+
+ West Freeport
+
+ Swin Blackeye
+
+
+
+  (-158, -527)
+
+
+ Greater Faydark
+
+ Merchant Aildien
+
+
+
+  (-496, -133)
+
+
+ Greater Faydark
+
+ Merchant Aluuvila
+
+
+
+  (-94, 224)
+
+
+ Greater Faydark
+
+ Merchant Tilluen
+
+
+
+  (-85, 271)
+
+
+ Greater Faydark
+
+ Barkeep Tvanla
+
+
+
+  (-515, -550)
+
+
+ Greater Faydark
+
+ Barkeep Sissya
+
+
+
+  (-564, -558)
+
+
+ Greater Faydark
+
+ Barkeep Myrisa
+
+
+
+  (394, 677)
+
+
+ Greater Faydark
+
+ Barkeep Lysslan
+
+
+
+  (123, 805)
+
+
+ Greater Faydark
+
+ Barkeep Tuviena
+
+
+
+  (132, 822)
+
+
+ Greater Faydark
+
+ Barkeep Syntan
+
+
+
+  (881, 93)
+
+
+ Greater Faydark
+
+ Barkeep Uulianu
+
+
+
+  (286, 520)
+
+
+ Greater Faydark
+
+ Barkeep Manlawen
+
+
+
+  (322, 542)
+
+
+ Grobb
+
+ Gartonka
+
+
+
+  (141, -306)
+
+
+ Grobb
+
+ Graktak
+
+
+
+  (50, -396)
+
+
+ Halas
+
+ Becka McGuzzlin
+
+
+
+  (198, -144)
+
+
+ Halas
+
+ Rose McDowell
+
+
+
+  (397, 165)
+
+
+ Halas
+
+ Brandyn McDonald
+
+
+
+  (182, -157)
+
+
+ Halas
+
+ Brin McQuaid
+
+
+
+  (93, -216)
+
+
+ Halas
+
+ Donald McQuaid
+
+
+
+  (93, -206)
+
+
+ Halas
+
+ Scon McDaniel
+
+
+
+  (345, -347)
+
+
+ Highpass Keep
+
+ Merchant Dominik
+
+
+
+  (37, 31)
+
+
+ Highpass Keep
+
+ Dealer Shonta
+
+
+
+  (-54, -324)
+
+
+ Highpass Hold
+
+ Paulina
+
+
+
+  (-234, 9)
+
+
+ Highpass Hold
+
+ Bartender
+
+
+
+  (395, -184)
+
+
+ Highpass Hold
+
+ Bartender
+
+
+
+  (403, -165)
+
+
+ Highpass Hold
+
+ Bartholemew
+
+
+
+  (-212, 11)
+
+
+ South Kaladim
+
+ Tumpy Irontoe
+
+
+
+  (178, 313)
+
+
+ South Kaladim
+
+ Aarina Ratsbone
+
+
+
+  (183, -138)
+
+
+ South Kaladim
+
+ Dura Darkfoam
+
+
+
+  (108, 233)
+
+
+ South Kaladim
+
+ Hanamaf Darkfoam
+
+
+
+  (95, 233)
+
+
+ Kerra Island
+
+ Raarrk
+
+
+
+  (108, 131)
+
+
+ Kithicor Forest
+
+ Eithne Walker
+
+
+
+  (1427, -825)
+
+
+ Lake Rathetear
+
+ Srynda
+
+
+
+  (-507, 637)
+
+
+ Neriak Foreign Quarter
+
+ Damar Nislan
+
+
+
+  (177, -196)
+
+
+ Neriak Foreign Quarter
+
+ Wiska
+
+
+
+  (159, -104)
+
+
+ Neriak Foreign Quarter
+
+ Palais Derekor
+
+
+
+  (205, -111)
+
+
+ Neriak Foreign Quarter
+
+ Tala Felton
+
+
+
+  (136, -98)
+
+
+ Neriak Foreign Quarter
+
+ Darien Felton
+
+
+
+  (136, -93)
+
+
+ Neriak Foreign Quarter
+
+ Tanai Tanbor
+
+
+
+  (215, -242)
+
+
+ Neriak Foreign Quarter
+
+ Sera Buelle
+
+
+
+  (255, -262)
+
+
+ Neriak Foreign Quarter
+
+ Uawn Betell
+
+
+
+  (246, -227)
+
+
+ Neriak Foreign Quarter
+
+ Yala Thiss
+
+
+
+  (242, -265)
+
+
+ Neriak Foreign Quarter
+
+ Slunga
+
+
+
+  (-336, -194)
+
+
+ Neriak Foreign Quarter
+
+ Ghrag
+
+
+
+  (-259, -260)
+
+
+ Neriak Commons
+
+ Rysva To`Biath
+
+
+
+  (11, -848)
+
+
+ Neriak Commons
+
+ Marenkor To`Biath
+
+
+
+  (9, -837)
+
+
+ Neriak Commons
+
+ Myrva N`Tan
+
+
+
+  (9, -837)
+
+
+ Neriak Commons
+
+ Myrva N`Tan
+
+
+
+  (-97, -1218)
+
+
+ Neriak Commons
+
+ Lysanda S`Kor
+
+
+
+  (40, -1218)
+
+
+ Neriak Commons
+
+ Frivsa Punox
+
+
+
+  (35, -1238)
+
+
+ Neriak Commons
+
+ Svlis C`Luzz
+
+
+
+  (-90, -1239)
+
+
+ Neriak Commons
+
+ Rista S`lon
+
+
+
+  (-152, -1011)
+
+
+ Neriak Commons
+
+ Tenso H`Rugla
+
+
+
+  (-153, -1042)
+
+
+ Neriak Third Gate
+
+ Grazis L`Crit
+
+
+
+  (703, -1472)
+
+
+ Neriak Third Gate
+
+ Katara L`Crit
+
+
+
+  (701, -1474)
+
+
+ Northern Karana
+
+ Mrysila
+
+
+
+  (-688, -159)
+
+
+ Northern Karana
+
+ Barkeep Milo
+
+
+
+  (432, 2248)
+
+
+ Northern Karana
+
+ Barkeep Jeny
+
+
+
+  (416, 2222)
+
+
+ Northern Desert of Ro
+
+ Innkeep Tozie
+
+
+
+  (3466, 489)
+
+
+ Oasis of Marr
+
+ Innkeep Tizzy
+
+
+
+  (-1307, -306)
+
+
+ Oasis of Marr
+
+ Synthan
+
+
+
+  (597, -6)
+
+
+ Oggok
+
+ Brokk Boxtripper
+
+
+
+  (220, 378)
+
+
+ Oggok
+
+ Korgarg Swillchugger
+
+
+
+  (182, -235)
+
+
+ The Overthere
+
+ Tin Merchant II
+
+
+
+  (2694, 2583)
+
+
+ Paineel
+
+ Loleluz
+
+
+
+  (949, 822)
+
+
+ Paineel
+
+ Archenm
+
+
+
+  (945, 829)
+
+
+ Paineel
+
+ Lolenton
+
+
+
+  (950, 836)
+
+
+ Paineel
+
+ Gernatis
+
+
+
+  (944, 848)
+
+
+ Paineel
+
+ Taralani Rahnta
+
+
+
+  (934, 805)
+
+
+ South Qeynos
+
+ Sunsa Jocub
+
+
+
+  (-305, -276)
+
+
+ South Qeynos
+
+ Bassanio Weekin
+
+
+
+  (-40, -219)
+
+
+ South Qeynos
+
+ Fish Ranamer
+
+
+
+  (-292, -269)
+
+
+ South Qeynos
+
+ Rucio Divella
+
+
+
+  (330, -507)
+
+
+ South Qeynos
+
+ Sissy Huntlan
+
+
+
+  (231, -129)
+
+
+ South Qeynos
+
+ Tasya Huntlan
+
+
+
+  (259, -69)
+
+
+ South Qeynos
+
+ Nug Rellash
+
+
+
+  (256, -170)
+
+
+ South Qeynos
+
+ Earron Huntlan
+
+
+
+  (254, -191)
+
+
+ South Qeynos
+
+ Fellesha Varshen
+
+
+
+  (487, -310)
+
+
+ South Qeynos
+
+ Raheim Varshen
+
+
+
+  (543, -263)
+
+
+ South Qeynos
+
+ Gahna Salbeen
+
+
+
+  (4, -220)
+
+
+ North Qeynos
+
+ Ania Klephia
+
+
+
+  (115, 359)
+
+
+ North Qeynos
+
+ Sabnie Blagard
+
+
+
+  (81, 368)
+
+
+ Rathe Mountains
+
+ Roshmael
+
+
+
+  (1592, -888)
+
+
+ Rivervale
+
+ Burtle Barrelbelly
+
+
+
+  (-37, -174)
+
+
+ Rivervale
+
+ bag merchant
+
+
+
+  (208, -214)
+
+
+ Rivervale
+
+ Mac Deeppockets
+
+
+
+  (-64, -188)
+
+
+ Rivervale
+
+ Flyndia Deeppockets
+
+
+
+  (-49, -207)
+
+
+ RunnyEye Citadel
+
+ A goblin bartender
+
+
+
+  (75, 90)
+
+
+ Skyshrine
+
+ Barkeep Droz
+
+
+
+  (492, -654)
+
+
+ Thurgadin
+
+ Loremaster Fronden
+
+
+
+  (-395, 452)
+
+
+ Thurgadin
+
+ Karey
+
+
+
+  (-38, 84)
+
+
+ Thurgadin
+
+ Celtir Gronback
+
+
+
+  (119, -406)
+
+
+ Thurgadin
+
+ Klarp Bartleby
+
+
+
+  (61, -380)
+
+
+ Thurgadin
+
+ Bixx Bartleby
+
+
+
+  (45, -380)
+
+
+ Thurgadin
+
+ Adia Coldbeard
+
+
+
+  (-57, 107)
+
+
+ Thurgadin
+
+ Doogle McBanick
+
+
+
+  (-56, -311)
+
+
+ Thurgadin
+
+ Fogerty Bottlenip
+
+
+
+  (-311, -27)
+
+
+ Thurgadin
+
+ Agar
+
+
+
+  (-72, -379)
+
+
+ Thurgadin
+
+ Durgan Bottlenip
+
+
+
+  (-329, -28)
+
+
+ Timorous Deep
+
+ Portik Grolam
+
+
+
+  (-11592, -2275)
+
+
+ Timorous Deep
+
+ Micus Vloren
+
+
+
+  (-5195, -4335)
+
+
+ Toxxulia Forest
+
+ Stylla Parsini
+
+
+
+  (2105, 404)
+
+
+ Toxxulia Forest
+
+ Emil Parsini
+
+
+
+  (2119, 423)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Ol'Tujim's Fierce Brew (Trivial: 135)
+
+
+
+
+

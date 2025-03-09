@@ -1,0 +1,40 @@
+ITEM NAME: Ogre Bouncer Shield
+
+
+
+Ogre Bouncer Shield
+
+
+Slot: SECONDARY
+AC: 12
+HP: +8
+WT: 6.2  Size: MEDIUM
+Class: WAR SHD SHM
+Race: TRL OGR
+
+
+Note: This recipe incorrectly listed a ring instead of 2x adamantite sheet (may be bugged on p99). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 175)
+ Yield: Ogre Bouncer Shield x1
+ In Oggok Forge:
+
+
+  1 x Blood Temper - Crafted
+  2 x Sheet of Adamantite - Crafted, Bought 
+  1 x Round Shield Mold - Bought
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

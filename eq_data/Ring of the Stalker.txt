@@ -1,0 +1,32 @@
+ITEM NAME: Ring of the Stalker
+
+GM Event item (info)
+
+Ring of the Stalker
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 2
+STR: +2 DEX: +9 AGI: +5
+SV FIRE: +5 SV DISEASE: +5 SV COLD: +5 SV MAGIC: +5 SV POISON: +5
+WT: 0.1  Size: TINY
+Class: ROG
+Race: ALL
+
+
+Obtained during a GM event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

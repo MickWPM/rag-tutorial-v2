@@ -1,0 +1,39 @@
+ITEM NAME: CLASS 2 Wood Point Arrow
+
+Classic Era (added 1999-2000)
+CLASS 2 Wood Point Arrow
+
+
+Slot: AMMO
+DMG: 1
+WT: 0.1  Range: 100 / 125 / 150  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+A cheap, long range arrow suitable for pulling. 
+ Merchant resale value: 8c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Fletching (Trivial: 46 / 46 / 82)
+ Yield: CLASS 2 Wood Point Arrow x5
+ In Fletching Table:
+
+
+  1 x Field Point Arrowheads - Crafted, Bought
+  1 x Bundled Wooden Arrow Shafts - Bought
+  1 x Several Parabolic Cut Fletchings - Bought
+  1 x Large Groove Nocks / Medium Groove Nocks / Small Groove Nocks - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

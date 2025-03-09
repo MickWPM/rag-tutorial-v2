@@ -1,0 +1,45 @@
+ITEM NAME: Iksar Left Hand
+
+Kunark Era (added 2000)
+
+
+Iksar Left Hand
+
+
+LORE ITEM  NO DROP
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: There are two items with the name Iksar Left Hand '=|-' both are part of the Shackle of Rock.
+One drops from the sarnak courier identifies as  Item Lore (from Identify): an Iksar Left Hand
+One is made by combining the four fingers in the hand container, and identifies as  Item Lore (from Identify): Left Hand of Talon Southpaw 
+
+  Drops From 
+Lake of Ill Omen
+
+ a sarnak courier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Rock
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No Fail)
+ Yield: Iksar Left Hand '=|-'
+ In Hand With Only a Thumb:
+
+
+  1 x Withered 2.5 Inch Finger - Dropped
+  1 x Withered 3 Inch Finger - Dropped
+  1 x Withered 3.1 Inch Finger - Dropped
+  1 x Withered 4 Inch Finger - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

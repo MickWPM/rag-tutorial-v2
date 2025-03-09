@@ -1,0 +1,34 @@
+ITEM NAME: Emerald Dragon Scales
+
+Velious Era (added December 2000-2001)
+
+
+
+Emerald Dragon Scales
+
+
+MAGIC ITEM
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Not to be confused with Green Dragon Scales which is used for the Warrior Epic Quest. (These items are NOT interchangeable on p99). 
+
+  Drops From 
+The Wakening Land
+
+ Wuoshi
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Emerald Dragonscale Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

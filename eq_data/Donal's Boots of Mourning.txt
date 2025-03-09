@@ -1,0 +1,35 @@
+ITEM NAME: Donal's Boots of Mourning
+
+Kunark Era (added 2000)
+
+Donal's Boots of Mourning
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 21
+Effect:  Tremor (Must Equip, Casting Time: 10.0) at Level 45
+WT: 6.5  Size: MEDIUM
+Class: CLR
+Race: ALL except IKS
+
+
+Part of the Donal's Armor of Mourning set. 
+ Merchant resale value: 326p Max 
+
+  Drops From 
+Karnor's Castle
+
+ a Drolvarg warlord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

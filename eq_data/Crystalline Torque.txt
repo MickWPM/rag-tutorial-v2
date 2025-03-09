@@ -1,0 +1,33 @@
+ITEM NAME: Crystalline Torque
+
+Velious Era (added December 2000-2001)
+
+Crystalline Torque
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 12
+WT: 0.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Meljemor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

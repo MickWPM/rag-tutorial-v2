@@ -1,0 +1,36 @@
+ITEM NAME: Painbringer
+
+
+
+Painbringer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 7 
+Effect:  Word of Pain (Combat, Casting Time: Instant) at Level 17
+WT: 2.0  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Nagafen's Lair
+
+ kobold champion
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

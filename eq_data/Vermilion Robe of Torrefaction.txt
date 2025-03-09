@@ -1,0 +1,36 @@
+ITEM NAME: Vermilion Robe of Torrefaction
+
+Velious Era (added December 2000-2001)
+ Vermilion Robe of Torrefaction worn by a High Elf Wizard.
+Vermilion Robe of Torrefaction
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 15
+INT: +10  HP: +40  MANA: +75
+SV FIRE: +25
+Effect:  Conflagration (Must Equip, Casting Time: 15.0) at Level 40
+WT: 1.0  Size: MEDIUM
+Class: WIZ
+Race: ALL
+
+
+This item's clicky effect is a mid-level 625 damage fire nuke. With a 15 second cast time, it can put out 41.5 DPS. Compare to Solist's Robe of Invocation, Sage's Robe or Solist's Icy Wand. The Solist's Robe is higher dps, but the Vermilion Robe tends to land more reliably. Either robe is a great addition to any wizard's wardrobe! 
+
+  Drops From 
+Velketor's Labyrinth
+
+ Velketor the Sorcerer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

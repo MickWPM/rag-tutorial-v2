@@ -1,0 +1,36 @@
+ITEM NAME: Mrylokar's Greaves
+
+Kunark Era (added 2000)
+
+Mrylokar's Greaves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 24
+STR: +5  DEX: +10  AGI: +10  HP: +50
+Effect:  Invigor (Must Equip, Casting Time: 7.0) at Level 45
+WT: 7.5  Size: LARGE
+Class: ROG
+Race: ALL except IKS
+
+
+Effect on P99 confirmed to be Invigor and not Serpent Sight.
+Part of the Mrylokar's Armor set. 
+
+  Drops From 
+Karnor's Castle
+
+ Venril Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

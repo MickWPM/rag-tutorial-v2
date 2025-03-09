@@ -1,0 +1,32 @@
+ITEM NAME: Blackburrow Cask
+
+Classic Era (added 1999-2000)
+
+Blackburrow Cask
+
+
+WT: 2.0  Weight Reduction: 0%
+Capacity: 8  Size Capacity: LARGE
+
+
+'Will Not Combine Brewing Recipes 
+
+  Drops From 
+Blackburrow
+
+ a gnoll brewer
+ Master Brewer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Blackburrow Brewers
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

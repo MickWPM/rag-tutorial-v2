@@ -1,0 +1,33 @@
+ITEM NAME: Panda Pelt
+
+Stonebrunt Era (added summer 2001)
+Panda Pelt
+
+
+QUEST ITEM
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Vendors for about 5 gold each. 
+
+  Drops From 
+Stonebrunt Mountains
+
+ a mature panda
+ a panda cub
+ a young panda
+ An Elder Panda
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

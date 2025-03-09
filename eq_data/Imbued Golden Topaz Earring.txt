@@ -1,0 +1,40 @@
+ITEM NAME: Imbued Golden Topaz Earring
+
+
+
+Imbued Golden Topaz Earring
+
+
+Slot: EAR
+AC: 3
+CHA: +4
+SV DISEASE: +4
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Quellious
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: ??)
+ Imbued Golden Topaz Earring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Gold Bar - Summoned
+  1 x Imbued Topaz - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

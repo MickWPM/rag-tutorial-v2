@@ -1,0 +1,40 @@
+ITEM NAME: Granite Bracer
+
+
+Granite Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 5
+STR: +4  STA: +7
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL except IKS
+
+
+
+ Merchant resale value: with CHA : 80 and faction at Indifferently
+
+
+ 4 Platinums
+ 1 Golds
+ 2 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Rathe Mountains
+
+ Petrifin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

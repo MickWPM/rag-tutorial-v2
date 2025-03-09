@@ -1,0 +1,60 @@
+ITEM NAME: Silk Lined Steel Helm
+
+
+
+ NERF ALERT (see notes)
+
+
+Silk Lined Steel Helm
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 4
+WT: 0.2  Size: SMALL
+Class: WAR CLR PAL ROG
+Race: GNM
+
+
+"This item could be bought off the vendor Rylin Coil for 15pp 7gp 4sp 9cp."[1]
+This item was changed to WAR CLR PAL ROG only. 
+ Merchant resale value: ~3pp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ The Overthere
+
+ Tin Merchant V
+
+
+
+  (2612, 2527)
+
+
+ Steamfont Mountains
+
+ Bom Knotwood
+
+
+
+  (175, -875)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Akkirus' Boots of the Risen
+
+Velious Era (added December 2000-2001)
+
+
+Akkirus' Boots of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 24
+STR: +3  STA: +6  CHA: +2  HP: +20  MANA: +20
+SV FIRE: +2  SV COLD: +2  SV MAGIC: +2
+Effect:  Abundant Drink (Must Equip, Casting Time: 10.0)
+WT: 6.0  Size: MEDIUM
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Skyshrine Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

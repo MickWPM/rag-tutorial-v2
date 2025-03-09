@@ -1,0 +1,35 @@
+ITEM NAME: Enchanted Velium Mask
+
+Velious Era (added December 2000-2001)
+
+Enchanted Velium Mask
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+Slot: FACE
+Charges: 4
+AC: 5
+AGI: +5
+SV COLD: +5
+Effect: Everlasting Breath (Any Slot, Casting Time: 2.0)
+WT: 1.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This is an easily attained source of enduring breath for anyone with Kromzek faction or Dictate. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reinforcements for The Tunarean Regiment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Living Thunder Earring
+
+Velious Era (added December 2000-2001)
+
+
+
+Living Thunder Earring
+
+
+MAGIC ITEM  LORE ITEM
+Slot: EAR
+AC: 10
+STR: +9
+SV MAGIC: +10
+Effect:  See Invisible (Worn)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Derakor the Vindicator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

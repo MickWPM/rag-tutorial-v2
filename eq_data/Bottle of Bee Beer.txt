@@ -1,0 +1,53 @@
+ITEM NAME: Bottle of Bee Beer
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Bottle of Bee Beer
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect: Intoxication II (Any Slot, Casting Time: Instant)
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Omens of War 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 255)
+ Yield: Bottle of Bee Beer x1
+ In Brewing Barrel:
+
+
+  1 x Barley - Bought
+  1 x Black Bees - Dropped
+  1 x Bottle - Crafted, Bought, Returned on Failure
+  1 x Cork - Crafted, Bought, Returned on Failure
+  1 x Malt - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+  1 x Yeast - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

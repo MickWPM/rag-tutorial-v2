@@ -1,0 +1,38 @@
+ITEM NAME: Dirk of the Dain
+
+ Hhel <Not Force of Will> holds a most pointy dirk
+Velious Era (added December 2000-2001)
+
+
+Dirk of the Dain
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 20
+DMG: 9 
+STR: +5  DEX: +5  AGI: +5
+SV POISON: +10
+Effect: Frost Strike (Combat, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify): Cleansed dirk of the traitor 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #10: Ring of Dain Frostreaver IV
+ Coldain Ring #9: Coldain Hero's Insignia Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

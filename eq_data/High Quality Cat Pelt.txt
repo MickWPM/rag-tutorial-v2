@@ -1,0 +1,110 @@
+ITEM NAME: High Quality Cat Pelt
+
+Classic Era (added 1999-2000)
+
+High Quality Cat Pelt
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 1 Golds
+ 9 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Commonlands
+
+ a plains cat
+ a puma
+ a lion
+ a lioness
+ a young plains cat
+
+Eastern Plains of Karana
+
+ a lion
+ a lion patriarch
+ a lioness
+ a rogue lion
+
+Lake of Ill Omen
+
+ a sabertooth cat
+ a sabertooth cub
+ a sabertooth grimalkin
+ a sabertooth tiger
+ a sabertooth tigress
+
+Northern Karana
+
+ a lion
+ a lioness
+
+Northern Desert of Ro
+
+ a puma
+
+Southern Karana
+
+ a lion
+ a lioness
+
+Southern Desert of Ro
+
+ a puma
+
+Steamfont Mountains
+
+ a mountain lion
+
+Stonebrunt Mountains
+
+ A Feral Leopard
+ a highland tiger
+ A Highland Tigress
+ Merow
+ Spowry
+
+The Overthere
+
+ a sabertooth tiger
+ a sabertooth tigress
+ sabretooth tiger
+
+Trakanon's Teeth
+
+ sabretooth tiger
+ sabretooth tigress
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ None  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Reinforced Armor (medium sizes)(Trivial: 108)
+ Medium Quality Cat Pelt (Trivial: 15)
+ Tailored Quiver (Trivial 115)
+
+
+
+
+ Pottery
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

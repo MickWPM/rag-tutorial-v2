@@ -1,0 +1,67 @@
+ITEM NAME: Piece of Rat Fur
+
+
+
+Piece of Rat Fur
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari hoarder
+ Pierre
+ Warmaster Utvara
+
+Misty Thicket
+
+ a diseased rat
+ a large thicket rat
+
+North Kaladim
+
+ Giant Rat
+
+Northern Desert of Ro
+
+ a large rat
+
+Qeynos Aqueducts
+
+ a giant sewer rat
+ a nesting rat
+ a sewer rat
+
+Qeynos Hills
+
+ Scruffy
+
+Steamfont Mountains
+
+ a female rat
+ a giant rat
+ a large rat
+
+West Freeport
+
+ a large rat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rat Fur Cap Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Strange Ochre Clay
+
+
+Strange Ochre Clay
+
+
+LORE ITEM  QUEST ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 1gp 
+
+  Drops From 
+City of Mist
+
+ an army behemoth
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cannibalize II (Good)
+ Cannibalize II (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

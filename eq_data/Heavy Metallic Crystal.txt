@@ -1,0 +1,36 @@
+ITEM NAME: Heavy Metallic Crystal
+
+Velious Era (added December 2000-2001)
+
+
+Heavy Metallic Crystal
+
+
+MAGIC ITEM LORE ITEM NO TRADE
+WT: 14.4 Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Pure Iron for the Menhir
+It's touching the meteor. 
+
+  Drops From 
+Burning Woods
+
+ Ground Spawn
+ (-842, -1179) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Velium Focus
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

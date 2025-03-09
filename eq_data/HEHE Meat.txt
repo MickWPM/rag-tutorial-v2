@@ -1,0 +1,28 @@
+ITEM NAME: HEHE Meat
+
+
+HEHE Meat
+
+
+This is a meal!
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Unsure if this is just received as part of the quest, or if it can also be baked? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ HEHE Meat Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

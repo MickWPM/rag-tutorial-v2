@@ -1,0 +1,42 @@
+ITEM NAME: Breastplate of Afflation
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+ NERF ALERT (see notes)
+
+
+Breastplate of Afflation
+
+
+MAGIC ITEM LORE ITEM
+Slot: CHEST
+AC: 27
+STR: +5 CHA: +15
+WT: 9.0 Size: LARGE
+Class: PAL
+Race: All except IKS
+
+
+Obtained during a GM event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

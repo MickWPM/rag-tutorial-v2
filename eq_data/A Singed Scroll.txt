@@ -1,0 +1,35 @@
+ITEM NAME: A Singed Scroll
+
+Epic Quests Era (added Sept 2000)
+
+
+A Singed Scroll
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+Chardok
+
+ Overking Bathezid
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Epic Quest 
+
+  Book contents 
+Unknown.
+Lore: "This item appears to be written in Elder Dragon."
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,29 @@
+ITEM NAME: First Rite Pack
+
+Kunark Era (added 2000)
+
+
+First Rite Pack
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Clay
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

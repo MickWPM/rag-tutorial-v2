@@ -1,0 +1,35 @@
+ITEM NAME: Staff of the Serpent
+
+Epic Quests Era (added Sept 2000)
+ Dainae with a Snake Stick.
+Staff of the Serpent
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 11 
+STR: +5  STA: +10  CHA: +15  INT: +20  HP: +40  MANA: +60
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect:  Speed of the Shissar (Must Equip, Casting Time: 6.0) at Level 50
+WT: 1.0  Size: LARGE
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore (from Identify):  Staff of the Serpent 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

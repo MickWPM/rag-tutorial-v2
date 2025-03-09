@@ -1,0 +1,51 @@
+ITEM NAME: Griffon Feathers
+
+Classic Era (added 1999-2000)
+
+Griffon Feathers
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 6g 2s 9c 
+
+  Drops From 
+West Commonlands
+
+ a griffin
+
+East Commonlands
+
+ a griffin
+
+Northern Karana
+
+ a griffawn
+ a griffenne
+ a griffon
+ Callowwing
+ GrimFeather
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Broom of Trilon Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Master Rune (Azia) (Trivial: 162)
+
+
+ Tailoring
+ Fleeting Quiver (Trivial: 222)
+
+
+
+
+

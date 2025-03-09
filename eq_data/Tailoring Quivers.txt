@@ -1,0 +1,162 @@
+ITEM NAME: Tailoring Quivers
+
+
+
+Tailoring Quivers
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Zotalz
+
+
+
+  (344, 526)
+
+
+ Firiona Vie
+
+ Fleceal Summer
+
+
+
+  (-3426, 3327)
+
+
+ East Freeport
+
+ Winsa Tanner
+
+
+
+  (38, -539)
+
+
+ Greater Faydark
+
+ Merchant Lanin
+
+
+
+  (414, 329)
+
+
+ Halas
+
+ Rain
+
+
+
+  (175, -296)
+
+
+ Iceclad Ocean
+
+ Adinel Jailbar
+
+
+
+  (4540, 1287)
+
+
+ Neriak Commons
+
+ Andara C`Luzz
+
+
+
+  (-135, -1062)
+
+
+ The Overthere
+
+ Tin Merchant X
+
+
+
+  (2697, 2620)
+
+
+ Surefall Glade
+
+ Livam T`Lant
+
+
+
+  (-108, -271)
+
+
+ Surefall Glade
+
+ Jarse Kedison
+
+
+
+  (105, 105)
+
+
+ Steamfont Mountains
+
+ a clockwork fletcher
+
+
+
+  (79, -661)
+
+
+ Thurgadin
+
+ Tavir
+
+
+
+  (-187, -298)
+
+
+ Thurgadin
+
+ Argash
+
+
+
+  (-203, -298)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Many archers prefer to craft their own quivers.
+The simplest of hand crafted quivers can be made in a
+tailoring kit with a High Quality Cat Pelt and a Quiver
+Pattern. There have been archers who have developed more personal
+quivers usually for the sake of style, but it is not my
+place to reveal their secrets
+FLEETING QUIVER
+The fleeting quiver is an enchanted quiver that allows
+arrows to be drawn very quickly.
+To craft a Fleeting Quiver you must obtain a Fleeting Quiver
+Pattern, Aviak Egg Oil, a High Quality Lion Skin, a Vial of
+Distilled Mana, and Griffon Feathers.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

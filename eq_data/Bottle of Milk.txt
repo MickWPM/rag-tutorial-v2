@@ -1,0 +1,674 @@
+ITEM NAME: Bottle of Milk
+
+Classic Era (added 1999-2000)
+
+Bottle of Milk
+
+
+This is a drink!
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork baker
+
+
+
+  (891, -301)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (484, -115)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1242, -775)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1284, -915)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1328, -778)
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ Butcherblock Mountains
+
+ Gamin Griststone
+
+
+
+  (2718, -941)
+
+
+ Butcherblock Mountains
+
+ Parn Gylwyn
+
+
+
+  (1465, 2817)
+
+
+ Butcherblock Mountains
+
+ Felen Razdal
+
+
+
+  (129, 2383)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ Crystal Caverns
+
+ Milliace Gemshard
+
+
+
+  (-263, 233)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ Eastern Plains of Karana
+
+ Bradly
+
+
+
+  (-856, -99)
+
+
+ Eastern Plains of Karana
+
+ Stace
+
+
+
+  (1227, -2645)
+
+
+ Eastern Plains of Karana
+
+ Sorn
+
+
+
+  (1198, -2634)
+
+
+ Eastern Plains of Karana
+
+ Tanrak
+
+
+
+  (1529, -2677)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ Erudin
+
+ Teria Finleather
+
+
+
+  (-956, -98)
+
+
+ Erudin
+
+ Borge Finleather
+
+
+
+  (-994, -78)
+
+
+ The Feerrott
+
+ Bup
+
+
+
+  (1182, 117)
+
+
+ Felwithe
+
+ Rolyn Longwalker
+
+
+
+  (4, -384)
+
+
+ Felwithe
+
+ Merchant Sorintal
+
+
+
+  (136, -415)
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ North Freeport
+
+ Gibbon Morfield
+
+
+
+  (287, 284)
+
+
+ North Freeport
+
+ Yellus Gravien
+
+
+
+  (301, 273)
+
+
+ North Freeport
+
+ Tradesman Lyna
+
+
+
+  (-103, 191)
+
+
+ North Freeport
+
+ Tradesman Tulan
+
+
+
+  (-131, 209)
+
+
+ North Freeport
+
+ Bran Greenglade
+
+
+
+  (-109, -128)
+
+
+ North Freeport
+
+ Alec Greenglade
+
+
+
+  (-94, -128)
+
+
+ West Freeport
+
+ Pincia Brownloe
+
+
+
+  (-276, -698)
+
+
+ Greater Faydark
+
+ Merchant Aianya
+
+
+
+  (251, 614)
+
+
+ Greater Faydark
+
+ Merchant Iludarae
+
+
+
+  (-29, -149)
+
+
+ Greater Faydark
+
+ Merchant Kwein
+
+
+
+  (155, 334)
+
+
+ Grobb
+
+ Ootok
+
+
+
+  (233, -31)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Halas
+
+ Dok
+
+
+
+  (212, 275)
+
+
+ Halas
+
+ Greta Terrilon
+
+
+
+  (280, -327)
+
+
+ Halas
+
+ Leopok Terrilon
+
+
+
+  (205, 151)
+
+
+ Highpass Hold
+
+ Maigin Greyeagle
+
+
+
+  (179, 483)
+
+
+ Highpass Hold
+
+ Sernn Rossook
+
+
+
+  (-218, 154)
+
+
+ North Kaladim
+
+ Doramafi Ratsbone
+
+
+
+  (710, 88)
+
+
+ Kelethin
+
+ Merchant Kwein
+
+
+
+  (156, 340)
+
+
+ Kerra Island
+
+ Melixis
+
+
+
+  (519, 179)
+
+
+ Lake Rathetear
+
+ Turga
+
+
+
+  (3126, -1815)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ Neriak Foreign Quarter
+
+ Smaka
+
+
+
+  (-335, -107)
+
+
+ Neriak Foreign Quarter
+
+ Vala Tanbor
+
+
+
+  (210, -215)
+
+
+ Neriak Foreign Quarter
+
+ The Gobbler
+
+
+
+  (-323, -125)
+
+
+ Neriak Foreign Quarter
+
+ Dran `slug` Rembor
+
+
+
+  (210, -244)
+
+
+ Neriak Commons
+
+ Niz L`Crit
+
+
+
+  (82, -884)
+
+
+ Oggok
+
+ Angrog
+
+
+
+  (-243, -2)
+
+
+ Oggok
+
+ Sinsaal
+
+
+
+  (267, 677)
+
+
+ Ocean of Tears
+
+ Endan Halson
+
+
+
+  (-2211, 7721)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Western Plains of Karana
+
+ Cleet Miller Jr
+
+
+
+  (-3013, -5735)
+
+
+ North Qeynos
+
+ Tanlyn Galliway
+
+
+
+  (125, 204)
+
+
+ North Qeynos
+
+ Sneed Galliway
+
+
+
+  (132, 243)
+
+
+ North Qeynos
+
+ Ghil Starn
+
+
+
+  (157, 195)
+
+
+ Rathe Mountains
+
+ Guzzla
+
+
+
+  (1760, 1288)
+
+
+ Rivervale
+
+ Bartle Barnick
+
+
+
+  (-142, -358)
+
+
+ Rivervale
+
+ Wibble Bramblebush
+
+
+
+  (6, -329)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Steamfont Mountains
+
+ Glen Garginburr
+
+
+
+  (-1786, 337)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Petcas Coldbeard
+
+
+
+  (-57, 94)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Timorous Deep
+
+ Seloris Windweaver
+
+
+
+  (-4867, -3439)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ Rogue Epic Quest
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+ Paladin Message
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Clump of Dough (Trivial: 17)
+
+
+ Brewing
+ Malted Milk (Trivial: 26)
+
+
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Seafarer Ring Helm
+
+
+
+Seafarer Ring Helm
+
+
+Slot: HEAD
+AC: 10
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the human cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 132)
+ Yield: Seafarer Ring Helm x1
+ In Antonican Forge:
+
+
+  1 x Chainmail Coif Pattern - Bought
+  1 x Leather Skullcap - Bought, Dropped
+  2 x Medium Quality Metal Rings - Crafted
+  1 x Sea Temper - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

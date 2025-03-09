@@ -1,0 +1,36 @@
+ITEM NAME: Immaculate Shell Horn
+
+Velious Era (added December 2000-2001)
+
+Immaculate Shell Horn
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+Brass Instrument: 24
+STR: -8  CHA: +15
+WT: 4.5  Size: SMALL
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+ Merchant resale value: 5p 7g 
+
+  Drops From 
+Siren's Grotto
+
+ a neriad weaver
+ a siren enticer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

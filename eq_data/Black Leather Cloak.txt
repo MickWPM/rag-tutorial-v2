@@ -1,0 +1,38 @@
+ITEM NAME: Black Leather Cloak
+
+
+
+
+ 
+
+ Contents of this page has been identified as part of a current Server Issue (a "bug") on Project 1999 server(s).Remove this message when the active issue is resolved.
+
+
+
+Black Leather Cloak
+
+
+Slot: BACK
+AC: 1
+DEX: +2  AGI: +2
+WT: 1.0  Size: MEDIUM
+Class: WAR SHD BRD ROG
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+ Item Lore (from Identify): Cloak of the Unseen Hands 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Errands
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,46 @@
+ITEM NAME: Baking Spirits
+
+
+
+Baking Spirits
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ South Qeynos
+
+ Karn Tassen
+
+
+
+  (-165, -255)
+
+  Related quests 
+ Rat Ear Pie Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Uncooked Rat Ear Pie (Trivial: 28)
+
+
+
+
+

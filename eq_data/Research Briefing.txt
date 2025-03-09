@@ -1,0 +1,152 @@
+ITEM NAME: Research Briefing
+
+Stonebrunt Era (added summer 2001)
+
+
+Research Briefing
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+
+
+ Item Lore (from Identify): Instructions for conducting an epidemiological study 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Researcher's Badge (Badge #3) 
+
+  Book contents 
+ 
+ 
+ 
+
+Research Briefing
+
+ Confidential ***
+
+
+
+This aura is a curious thing
+indeed. When the aura is
+released, it disperses outward
+in four directions spreading
+to each rat it encounters. The
+aura is weak. Its range is but
+a few feet.
+Note that the aura can not
+cure a diseased rat unless it
+first encounters one that is
+healthy. We are unable
+to account for this
+sympathetic effect.
+When the aura encounters a
+healthy rat it ricochets back
+in the other direction, curing
+each diseased rat between the 
+originator of the aura and the
+
+healthy rat the aura
+encountered. The aura then
+disperses.
+The object of this test is to
+place the Enchanted Rats in
+such a way as to eliminate the
+disease from all rats involved
+in the test. Do this by taking
+a jar that contains a Live
+Enchanted Rat and putting it
+directly into a Tile.
+For safety reasons, the test
+must be completed within 6
+standard Norrathian hours.
+The diagrams illustrate the
+aura's magic flow. Give this
+briefing to Velarte to begin
+the test.
+
+
+
+
+Key:
+O = Healthy Rat
+X = Diseased Rat
+
+
+Diagram 1
+O X X
+An Enchanted Rat is placed on
+the far right Tile. The aura
+spreads and heals the two
+diseased rats.
+Result:
+O O O O
+
+In diagram 1, if an Enchanted
+Rat is placed on the Tile
+below a diseased rat, there is
+no effect. The aura did not
+encounter a healthy rat and
+did not reverse its flow.
+Result
+O X X
+O
+
+
+
+Continued Next Page
+
+
+
+Diagram 2
+O X
+X
+O
+An Enchanted Rat is placed on
+the top right Tile. Diseased
+rats to the left and bottom
+are cured.
+
+Result
+O O O
+O
+O
+
+
+
+Continued Next Page
+
+Diagram 3
+O X X
+X X X
+O O
+An Enchanted Rat placed on
+the top right Tile results as
+shown right.
+
+Result...
+O O O O
+X X O
+X O
+An Enchanted Rat is then
+placed on the left tile second
+from the top. Results below.
+O O O O
+O O O O
+X O
+
+Return all three Empty
+Enchanted Jars to Velarte when
+finished. Do not drop an empty
+jar on a tile. It will break.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

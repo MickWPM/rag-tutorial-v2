@@ -1,0 +1,31 @@
+ITEM NAME: Mechanical Iksar Tail
+
+Kunark Era (added 2000)
+
+
+Mechanical Iksar Tail
+
+
+LORE ITEM
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Property of Captain Irontail 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kwinn's Quest
+ Shackle of Tynnonium (post-Velious)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

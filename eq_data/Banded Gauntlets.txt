@@ -1,0 +1,41 @@
+ITEM NAME: Banded Gauntlets
+
+Classic Era (added 1999-2000)
+Were you looking for  the Large Banded Armor Set or the Small Banded Armor Set?
+
+Banded Gauntlets
+
+
+Slot: HANDS
+AC: 7
+WT: 4.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+This is part of the Banded Armor set. Not craftable until October 1999 era: https://www.project1999.com/forums/showthread.php?t=358577 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Gauntlets
+ Totemic Gauntlets
+
+  Player crafted 
+ Blacksmithing (Trivial: 168)
+ Yield: Banded Gauntlets x1
+ In Forge:
+
+
+  1 x Gauntlet Mold - Bought
+  2 x Sheet Metal - Crafted, Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

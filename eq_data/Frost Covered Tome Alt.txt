@@ -1,0 +1,35 @@
+ITEM NAME: Frost Covered Tome Alt
+
+Were you looking for Frost Covered Tome?
+Velious Era (added December 2000-2001)
+
+Frost Covered Tome
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE SECONDARY
+STR: +3  STA: +3  HP: +30
+SV FIRE: +15
+WT: 1.0  Size: SMALL
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+ Item Lore (from Identify): Frosted Tome of Battle 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Narmak Berreka
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

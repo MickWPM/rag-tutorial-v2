@@ -1,0 +1,50 @@
+ITEM NAME: Low Quality Dire Wolf Fur
+
+Velious Era (added December 2000-2001)
+
+Low Quality Dire Wolf Fur
+
+
+MAGIC ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Vendors for about 5c. 
+
+  Drops From 
+Eastern Wastes
+
+ a dire wolf
+ a savage dire wolf
+
+Great Divide
+
+ a drakkel dire wolf
+ Drakkel Blood Wolf
+
+Iceclad Ocean
+
+ a dire wolf
+ Garou
+
+Thurgadin
+
+ Alpine
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Direwolf Fur Hood Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Telescopic Eyepatch (Trivial: 82)
+
+
+
+
+

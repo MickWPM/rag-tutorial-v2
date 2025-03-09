@@ -1,0 +1,39 @@
+ITEM NAME: Icepaw Bangle
+
+Velious Era (added December 2000-2001)
+
+
+Icepaw Bangle
+
+
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 8p 8g 9s 2c 
+
+  Drops From 
+Velketor's Labyrinth
+
+ An Icepaw Champion
+ an Icepaw cleric
+ an Icepaw kobold
+ an Icepaw kobold priest
+ an Icepaw kobold warrior
+ an Icepaw prophet
+ Kalik Icepaw
+ Khelkar Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

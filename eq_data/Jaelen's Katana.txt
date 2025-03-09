@@ -1,0 +1,39 @@
+ITEM NAME: Jaelen's Katana
+
+Velious Era (added December 2000-2001)
+
+
+Jaelen's Katana
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 19
+DMG: 14 
+STR: +15  STA: +25  HP: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Strike of the Chosen (Combat, Casting Time: Instant)
+WT: 1.0  Size: TINY
+Class: WAR
+Race: ALL
+
+
+ Item Lore (from Identify): Katana of the Chosen 
+Confirmed to proc at level 50, possibly even lower levels. 
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

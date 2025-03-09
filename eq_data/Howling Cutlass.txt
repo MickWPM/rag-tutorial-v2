@@ -1,0 +1,38 @@
+ITEM NAME: Howling Cutlass
+
+Hole Era (added June 2000)
+
+
+ Mightydorf wields a mighty cutlass in his offhand.
+Howling Cutlass
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 19
+DMG: 10 
+CHA: +4  INT: +4
+Effect:  Shrieking Howl (Combat, Casting Time: Instant) at Level 50
+WT: 4.5  Size: MEDIUM
+Class: WAR BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Nexona
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

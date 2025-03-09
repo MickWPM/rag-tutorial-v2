@@ -1,0 +1,80 @@
+ITEM NAME: Dwarf Meat
+
+
+Dwarf Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a dwarven bandit
+ Barma Dunfire
+ Blyle Bundin
+ Crytil Dunfire
+ Gann Dunbull
+ Glorin Binfurr
+ Glynda Smeltpot
+ Glynn Smeltpot
+ Gundl
+ Keldyn Dunfire
+ Margyl Darklin
+ Nyzil Bloodforge
+ Peg Leg
+ Qued
+ Stump Rundl
+ Tagnis Ginfarr
+ Thar Kelgand
+
+Crushbone
+
+ a dwarven slave (female)
+ a dwarven slave (male)
+ a dwarven smith
+ Rondo Dunfire
+
+Dagnor's Cauldron
+
+ Gundalthur Izuran
+
+Innothule Swamp
+
+ Bunk Odon
+
+Steamfont Mountains
+
+ Dimlore Stormhammer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking (Trivial: 36)
+ Yield: Dwarf Chops x2
+ In Oven:
+
+
+  1 x Garnish - Bought
+  1 x Dwarf Meat - Dropped
+  1 x Spices - Bought
+
+
+
+
+

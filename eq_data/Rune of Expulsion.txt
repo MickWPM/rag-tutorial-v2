@@ -1,0 +1,39 @@
+ITEM NAME: Rune of Expulsion
+
+
+Rune of Expulsion
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 1 Golds
+ 5 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Ocean of Tears
+
+An isle goblin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Levitate (Trivial: 64)
+
+
+
+
+

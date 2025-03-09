@@ -1,0 +1,45 @@
+ITEM NAME: Gnoll Hide Lariat
+
+
+Gnoll Hide Lariat
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 20
+DMG: 3   AC: 3
+Effect:  Stun (Combat, Casting Time: Instant) at Level 25
+WT: 3.0  Size: TINY
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 4g 6s 6c 
+
+  Drops From 
+Blackburrow
+
+ Splitpaw Commander
+
+Southern Karana
+
+ a Rosch Val Gnoll
+ a Tesch Mas Gnoll
+
+Splitpaw Lair
+
+ a Lteth Mas Gnoll
+ An Ishva Lteth gnoll
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

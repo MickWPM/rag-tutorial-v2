@@ -1,0 +1,40 @@
+ITEM NAME: Purified Star
+
+Chardok Revamp Era (added late 2001)
+Purified Star
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 37
+DMG: 9 
+CHA: +2
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 10.0  Size: MEDIUM
+Class: WAR CLR PAL RNG DRU MNK BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Fading Soul Orb x1
+ In Kejek Forge:
+
+
+  1 x Fading Shadow Star - Dropped
+  1 x Soulforge Hammer - Quested, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

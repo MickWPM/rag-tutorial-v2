@@ -1,0 +1,36 @@
+ITEM NAME: Sarnak Devastator
+
+Chardok Revamp Era (added late 2001)
+
+Sarnak Devastator
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY
+Skill: 1H Blunt  Atk Delay: 20
+DMG: 12 
+STR: +5  STA: +5  MANA: +25
+Effect:  Holy Might (Combat, Casting Time: Instant, at level 1)
+WT: 5.0  Size: MEDIUM
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Chardok
+
+ Arch Inspector Nibi`zi
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

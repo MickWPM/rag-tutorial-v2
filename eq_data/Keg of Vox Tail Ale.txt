@@ -1,0 +1,144 @@
+ITEM NAME: Keg of Vox Tail Ale
+
+
+Keg of Vox Tail Ale
+
+
+MAGIC ITEM  LORE ITEM
+EXPENDABLE  Charges: 10
+Effect:  Tap Keg (Any Slot, Casting Time: Instant)
+WT: 10.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Bought from merchants for about 106pp. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (733, 153)
+
+
+ West Commonlands
+
+ Maula Fishcatcher
+
+
+
+  (405, 2408)
+
+
+ Felwithe
+
+ Elytan Rantas
+
+
+
+  (41, -673)
+
+
+ Felwithe
+
+ Tam Slyspan
+
+
+
+  (245, -703)
+
+
+ Felwithe
+
+ Fishmonger Jassa
+
+
+
+  (162, -588)
+
+
+ East Freeport
+
+ Tanlok Harson
+
+
+
+  (87, -850)
+
+
+ East Freeport
+
+ Iseba Gargurd
+
+
+
+  (61, -882)
+
+
+ Halas
+
+ Quillion O`Zinn
+
+
+
+  (-15, 66)
+
+
+ Neriak Commons
+
+ Mariz Ixtaz
+
+
+
+  (-163, -938)
+
+
+ South Qeynos
+
+ Captain Rohand
+
+
+
+  (15, -40)
+
+
+ Rivervale
+
+ dock merchant
+
+
+
+  (203, -216)
+
+
+ Rivervale
+
+ Fiddy Bobick
+
+
+
+  (19, -428)
+
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

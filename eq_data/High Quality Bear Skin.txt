@@ -1,0 +1,106 @@
+ITEM NAME: High Quality Bear Skin
+
+Classic Era (added 1999-2000)
+
+High Quality Bear Skin
+
+
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Coveted for tailoring. 
+
+  Drops From 
+Blackburrow
+
+ a grizzly bear
+
+East Commonlands
+
+ a black bear
+ a young kodiak
+
+Eastern Plains of Karana
+
+ a brown bear
+
+Everfrost Peaks
+
+ a glacier bear
+ a polar bear
+ a polar bear cub
+
+Misty Thicket
+
+ a young kodiak
+
+Nektulos Forest
+
+ a black bear
+ a young kodiak
+
+Northern Plains of Karana
+
+ a brown bear
+ a grizzly bear
+ A Rabid Grizzly
+
+Permafrost
+
+ a giant polar bear
+
+Rathe Mountains
+
+ a black bear
+ a brown bear
+ a grizzly bear
+
+Qeynos Hills
+
+ a brown bear
+
+Southern Plains of Karana
+
+ a brown bear
+
+Surefall Glade
+
+ a bear cub
+
+The Feerrott
+
+ A Marsh Bear
+ a marsh bear cub
+
+West Commonlands
+
+ a black bear
+ a kodiak
+ a young kodiak
+
+Western Plains of Karana
+
+ a brown bear
+ a grizzly bear
+ A Rabid Grizzly
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bearskin Gloves Quest
+ Bear Hide Armor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Reinforced Armor (large sizes)(Trivial: 108)
+ Medium Quality Bear Skin (Trivial: 15)
+ Hand Made Backpack (Trivial: 88)
+
+
+
+
+

@@ -1,0 +1,128 @@
+ITEM NAME: Small Leather Wristbands
+
+
+Small Leather Wristbands
+
+
+Slot: WRIST
+AC: 3
+WT: 0.8  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Lesser Faydark
+
+ Whimsy Larktwitter
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork tanner
+
+
+
+  (954, -37)
+
+
+ Ak'Anon
+
+ a clockwork tanner
+
+
+
+  (977, -37)
+
+
+ Butcherblock Mountains
+
+ Fugan Mumfur
+
+
+
+  (-1500, 2876)
+
+
+ East Freeport
+
+ Sissin Tanner
+
+
+
+  (44, -550)
+
+
+ South Kaladim
+
+ Kalameky Darkfoam
+
+
+
+  (173, 389)
+
+
+ Misty Thicket
+
+ Sonsa Fromp
+
+
+
+  (672, -2211)
+
+
+ Neriak Third Gate
+
+ Medron Y`Lask
+
+
+
+  (769, -1310)
+
+
+ South Qeynos
+
+ Byjan Timbokker
+
+
+
+  (197, -173)
+
+
+ Rivervale
+
+ Twippie Diggs
+
+
+
+  (-116, -211)
+
+
+ Thurgadin
+
+ Mauren Frostbeard
+
+
+
+  (-146, 218)
+
+  Related quests 
+ Gearheart
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

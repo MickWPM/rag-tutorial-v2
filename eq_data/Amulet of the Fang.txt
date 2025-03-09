@@ -1,0 +1,33 @@
+ITEM NAME: Amulet of the Fang
+
+
+
+Amulet of the Fang
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 8
+CHA: +2  WIS: +8  MANA: +10
+SV FIRE: +10  SV MAGIC: +5
+WT: 0.1  Size: TINY
+Class: SHM
+Race: ALL
+
+
+Post-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of Might
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

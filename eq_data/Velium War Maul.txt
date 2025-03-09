@@ -1,0 +1,38 @@
+ITEM NAME: Velium War Maul
+
+Velious Era (added December 2000-2001)
+
+Velium War Maul
+
+
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 9 
+WT: 0.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+VALUE TO VENDOR with CHA : 57 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 0 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Great Divide
+
+ Priest of Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

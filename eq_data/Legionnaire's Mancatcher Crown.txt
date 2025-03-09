@@ -1,0 +1,42 @@
+ITEM NAME: Legionnaire's Mancatcher Crown
+
+
+
+Legionnaire's Mancatcher Crown
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #5 (Legionnaire's Mancatcher)
+
+  Player crafted 
+ Blacksmithing (Trivial: 15)
+ Yield: Legionnaire's Mancatcher Crown x1
+ In Forge:
+
+
+  1 x Geozite Tool - Quested, Returned on Failure
+  1 x Legionnaire Crown Plans - Dropped, Returned on Failure
+  1 x Mancatcher Crown - Bought
+  1 x Peridot - Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Legionnaire's Mancatcher (Trivial: 170)
+
+
+
+
+

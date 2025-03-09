@@ -1,0 +1,44 @@
+ITEM NAME: Staff of Fire
+
+
+
+
+
+
+  MISSING INFO! Please expand the content.
+
+
+
+Staff of Fire
+
+
+MAGIC ITEM
+Slot: PRIMARY
+Charges: 5
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 5 
+SV FIRE: +5
+Effect:  Burst of Flame (Any Slot, Casting Time: Instant)
+WT: 6.5  Size: LARGE
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+May have never dropped. 
+
+  Drops From 
+Solusek's Eye
+
+ Which mobs?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

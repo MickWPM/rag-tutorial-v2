@@ -1,0 +1,31 @@
+ITEM NAME: Sejah Ghulam Bracer
+
+Classic Era (added 1999-2000)
+Sejah Ghulam Bracer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 5
+DEX: +5  STA: +3
+WT: 0.2  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Second Test of Kejaar
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

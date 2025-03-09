@@ -1,0 +1,97 @@
+ITEM NAME: Diablerie II
+
+ Diablerie II
+
+
+Diablerie II
+
+
+WT: 0.0  Size: TINY
+
+
+Recipes for necromancer spell research. Includes the recipe for Hamshield, which is a typo of Harmshield. Item appears to be written in Elder Teir'Dal. 
+
+  Drops From 
+The Estate of Unrest
+
+ a reanimated hand
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Harmshield:
+Words of Refuge
+Words of Absorption
+Identify:
+Words of Enlightenment
+Words of Anthology
+Word of Shadow:
+Words of Cazic-Thule
+Words of Radiance
+Animate Dead:
+Words of the Extinct
+Words of Quickening
+Shadow Sight:
+Words of Discernment
+Words of Eventide
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

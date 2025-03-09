@@ -1,0 +1,35 @@
+ITEM NAME: Elaborate Scimitar
+
+Epic Quests Era (added Sept 2000)
+ BIG JURGENS wielding the Elaborate Scimitar, well on his way to becoming a nature walker.
+Elaborate Scimitar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 10 
+WIS: +9  MANA: +10
+SV DISEASE: +5  SV POISON: +5
+WT: 5.0  Size: MEDIUM
+Class: DRU
+Race: ALL
+
+
+ Item Lore (from Identify):  Elaborately Runed Scimitar 
+Intermediate item for the Druid Epic, must be turned in. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

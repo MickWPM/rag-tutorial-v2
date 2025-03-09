@@ -1,0 +1,34 @@
+ITEM NAME: Diseased Wolf Pelt
+
+
+
+Diseased Wolf Pelt
+
+
+NO DROP
+CHA: -3
+SV DISEASE: -10
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Qeynos Hills
+
+ a rabid wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rabid Wolves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

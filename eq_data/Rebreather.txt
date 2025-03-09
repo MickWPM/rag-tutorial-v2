@@ -1,0 +1,41 @@
+ITEM NAME: Rebreather
+
+
+Rebreather
+
+
+Slot: HEAD
+AC: 1
+Effect:  Enduring Breath (Worn)
+WT: 10.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ Tinkering (Trivial: 175)
+ Yield: Rebreather x1
+ In: Toolboxes
+
+
+  1 x Aqualung - Crafted
+  1 x Firewater - Crafted
+  1 x Lime Coated Meshing - Bought
+  1 x Metal Fastening - Bought
+  1 x Platemail Helm (Med) - Bought
+  1 x Sharkskin Tubing - Bought 
+
+
+  Tradeskill recipes 
+
+
+

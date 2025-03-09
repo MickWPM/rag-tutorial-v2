@@ -1,0 +1,32 @@
+ITEM NAME: Full Components Chest
+
+Kunark Era (added 2000)
+
+
+Full Component Chest
+
+
+LORE ITEM NO DROP
+WT: 12.0 Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+West Cabilis
+
+ Renew Bones Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

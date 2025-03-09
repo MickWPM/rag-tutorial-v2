@@ -1,0 +1,42 @@
+ITEM NAME: Cloak of the Ry`Gorr Oracles
+
+Velious Era (added December 2000-2001)
+
+
+
+Cloak of the Ry`Gorr Oracles
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 6
+WIS: +2  INT: +2  MANA: +10
+SV COLD: +10  SV MAGIC: +5
+WT: 2.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 3p 6g 1s 
+
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr oracle
+
+Eastern Wastes
+
+ Oracle of Ry`Gorr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

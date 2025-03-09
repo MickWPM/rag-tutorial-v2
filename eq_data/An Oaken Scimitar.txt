@@ -1,0 +1,32 @@
+ITEM NAME: An Oaken Scimitar
+
+GM Event item (info)
+
+
+An Oaken Scimitar
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 7 
+WIS: +10  MANA: +25
+WT: 2.0  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+GM Event item. Originally from a broken Test Server quest. - Only one exists on the server, Owned By Greame of <The Mystical Order>. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

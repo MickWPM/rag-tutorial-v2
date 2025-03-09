@@ -1,0 +1,38 @@
+ITEM NAME: Barbed Scale Whip
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Barbed Scale Whip
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SECONDARY
+Skill: 1H Slashing  Atk Delay: 11
+DMG: 4 
+STR: +3
+WT: 1.0  Size: MEDIUM
+Class: WAR RNG BRD ROG
+Race: ALL except ERU HIE IKS
+
+
+No longer drops with the Chardok 2.0 patch, replaced with Scale Hide Whip.
+
+Nerfed to offhand only (8/13/11 patch, still mainhand equippable on P99 red). The original, mainhand equippable version of this item was called "Barbed Scaled Whip". 
+
+  Drops From 
+Frontier Mountains
+
+ Draketamer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

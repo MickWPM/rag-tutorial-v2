@@ -1,0 +1,38 @@
+ITEM NAME: Cobalt Cup Cakes
+
+
+Cobalt Cup Cakes
+
+
+SV DISEASE: +3 SV POISON: +3
+This is a meal.
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 135)
+ Yield: Cobalt Cup Cakes x4
+ In Oven:
+
+
+  1 x Muffin Tin - Crafted, Returned on Failure, Returned on Success
+  1 x Clump of Dough - Crafted
+  1 x Plankton Frosting - Bought
+  1 x Algae Spices - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

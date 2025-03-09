@@ -1,0 +1,35 @@
+ITEM NAME: Initiate Symbol of Rallos Zek
+
+Kunark Era (added 2000)
+
+
+Initiate Symbol of Rallos Zek
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 3
+WIS: +1  MANA: +3
+Effect:  Yaulp (Must Equip, Casting Time: 4.0)
+WT: 0.1  Size: TINY
+Class: SHM
+Race: OGR
+Deity: Rallos Zek
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rallos Zek Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

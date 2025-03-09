@@ -1,0 +1,40 @@
+ITEM NAME: Silver Bracelet of Speed
+
+Velious Era (added December 2000-2001) Azeth the Barbarian Rogue wearing Server First Silver Bracelet of Speed  
+
+
+Silver Bracelet of Speed
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 38
+STR: +10  STA: +10  WIS: +10  INT: +10  HP: +100
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Haste: +41%  
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Test of the Platinum Tear
+ Platinum Tear (from Dozekar the Cursed)
+ Black Symbol (from Krigara or Ymmeln)
+ Serrated Symbol (from Lepethida)
+ Runed Symbol (from Grozzmel or Midayor)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

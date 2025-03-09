@@ -1,0 +1,35 @@
+ITEM NAME: Indicolite Boots
+
+
+
+Indicolite Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 20
+WIS: +5  INT: +5  AGI: +5
+SV DISEASE: +15  SV POISON: +15
+WT: 4.9  Size: MEDIUM
+Class: WAR
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a kiraikuei
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

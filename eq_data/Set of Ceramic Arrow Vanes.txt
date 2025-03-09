@@ -1,0 +1,241 @@
+ITEM NAME: Set of Ceramic Arrow Vanes
+
+
+
+Set of Ceramic Arrow Vanes
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork bowyer
+
+
+
+  (1250, -879)
+
+
+ West Cabilis
+
+ Zotalz
+
+
+
+  (344, 526)
+
+
+ East Commonlands
+
+ Joryd Longarms
+
+
+
+  (989, 3757)
+
+
+ Eastern Plains of Karana
+
+ Bryan
+
+
+
+  (-886, -12)
+
+
+ Felwithe
+
+ Merchant Longarrow
+
+
+
+  (-70, -342)
+
+
+ Firiona Vie
+
+ Fleceal Summer
+
+
+
+  (-3426, 3327)
+
+
+ Greater Faydark
+
+ Merchant Lanin
+
+
+
+  (414, 329)
+
+
+ Greater Faydark
+
+ Merchant Tiladinya
+
+
+
+  (-360, -611)
+
+
+ Greater Faydark
+
+ Merchant Neaien
+
+
+
+  (414, 464)
+
+
+ Grobb
+
+ Zazhar
+
+
+
+  (441, -271)
+
+
+ Halas
+
+ Rain
+
+
+
+  (175, -296)
+
+
+ Iceclad Ocean
+
+ Adinel Jailbar
+
+
+
+  (4540, 1287)
+
+
+ South Kaladim
+
+ Alanury Stormhammer
+
+
+
+  (137, 232)
+
+
+ Kithicor Forest
+
+ Krile Arrowsmith
+
+
+
+  (-332, 3882)
+
+
+ Neriak Commons
+
+ Andara C`Luzz
+
+
+
+  (-135, -1062)
+
+
+ Oggok
+
+ Praak
+
+
+
+  (-329, 496)
+
+
+ The Overthere
+
+ Tin Merchant X
+
+
+
+  (2697, 2620)
+
+
+ Western Plains of Karana
+
+ Brenzl McMannus
+
+
+
+  (-3686, -2002)
+
+
+ South Qeynos
+
+ Danon Fletcher
+
+
+
+  (414, -259)
+
+
+ Surefall Glade
+
+ Jarse Kedison
+
+
+
+  (105, 105)
+
+
+ Rivervale
+
+ Joana Jinklebelly
+
+
+
+  (-233, -82)
+
+
+ Steamfont Mountains
+
+ a clockwork fletcher
+
+
+
+  (79, -661)
+
+
+ Thurgadin
+
+ Tavir
+
+
+
+  (-187, -298)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Fletching
+
+
+
+

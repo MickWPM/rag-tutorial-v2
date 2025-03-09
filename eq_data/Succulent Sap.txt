@@ -1,0 +1,40 @@
+ITEM NAME: Succulent Sap
+
+Kunark Era (added 2000)
+
+Succulent Sap
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 6 gold 
+
+  Drops From 
+The Overthere
+
+ a barbed succulent
+ a bristly succulent
+ a prickly succulent
+ a spiked succulent
+ a thorny succulent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Maddening Sap (Trivial: 87)
+ Zek Frost (Trivial: 183)
+ Warlords Rage (Trivial: > 250)
+
+
+
+
+

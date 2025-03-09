@@ -1,0 +1,38 @@
+ITEM NAME: Ice Silk Sash
+
+Velious Era (added December 2000-2001)
+
+
+
+Ice Silk Sash
+
+
+MAGIC ITEM Slot: WAIST AC: 4 CHA: +1  WIS: +1  INT: +3  HP: +5  MANA: +10
+SV COLD: +5  SV MAGIC: +5 WT: 0.2  Size: SMALL Class: NEC WIZ MAG ENC Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 288)
+ Yield: Ice Silk Sash x1
+ In Loom:
+
+
+  1 x Belt Pattern - Bought
+  2 x Ice Silk Swatch - Crafted
+  1 x Platinum Thread - Bought
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

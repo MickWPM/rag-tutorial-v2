@@ -1,0 +1,162 @@
+ITEM NAME: Bear Meat
+
+Classic Era (added 1999-2000)
+
+Bear Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 60 and faction at Indifferent
+
+ 0 Platinums
+ 0 Golds
+ 0 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Blackburrow
+
+ a grizzly bear
+
+Commonlands
+
+ a black bear
+ a kodiak
+ a young kodiak
+
+Everfrost Peaks
+
+ a polar bear
+ a polar bear cub
+
+Misty Thicket
+
+ a young kodiak
+
+Rathe Mountains
+
+ a black bear
+ a brown bear
+ a grizzly bear
+ a kodiak bear
+
+Nektulos Forest
+
+ a black bear
+ a young kodiak
+
+Northern Karana
+
+ a grizzly bear
+ Bristletoe
+
+Permafrost
+
+ a giant polar bear
+ an injured polar bear
+
+Qeynos Hills
+
+ a brown bear
+
+The Feerrott
+
+ A Marsh Bear
+ a marsh bear cub
+
+Western Plains of Karana
+
+ a brown bear
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Commonlands
+
+ Parus the Strong
+
+
+
+  (-279, 534)
+
+
+ East Commonlands
+
+ Pardor the Blessed
+
+        Not on P99?
+
+  (-121, -780)
+
+
+ East Freeport
+
+ Tarker Gargurd
+
+        Not on P99?
+
+  (61, -890)
+
+
+ West Freeport
+
+ Ping Fuzzlecutter
+
+        Not on P99?
+
+  (-269, 535)
+
+
+ The Overthere
+
+ Tin Merchant V
+
+
+
+  (2612, 2527)
+
+
+ Southern Desert of Ro
+
+ Merchant Ulyssa
+
+
+
+  (128, 495)
+
+
+ Thurgadin
+
+ Mordin Frostcleaver
+
+
+
+  (-220, -216)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Bear Sandwich (Trivial: 31)
+ Bear Steaks (Trivial: 41)
+ Beer Braised Bear (Trivial: 68)
+
+
+
+
+

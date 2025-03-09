@@ -1,0 +1,37 @@
+ITEM NAME: Stained Cloth Mask
+
+Chardok Revamp Era (added late 2001)
+
+Stained Cloth Mask
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FACE
+Charges: 10
+AC: 6
+CHA: +4  HP: +20  MANA: +20
+SV DISEASE: +5  SV POISON: +5
+Effect:  Ultravision (Must Equip, Casting Time: 5.0)
+WT: 3.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ The Bridge Keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

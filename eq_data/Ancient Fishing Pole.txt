@@ -1,0 +1,37 @@
+ITEM NAME: Ancient Fishing Pole
+
+Velious Era (added December 2000-2001)
+
+
+Ancient Fishing Pole
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+Slot: PRIMARY
+HP: +75
+Effect:  Enduring Breath (Worn)
+WT: 1.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Pirates Fishing Pole This pole can break and be lost while fishing. 
+
+  Drops From 
+Siren's Grotto
+
+ a coldspine seahorse
+ a servant swordfish
+ Fellspine
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

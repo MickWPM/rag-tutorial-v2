@@ -1,0 +1,64 @@
+ITEM NAME: Tarnished Fer`Esh
+
+Kunark Era (added 2000)
+
+
+Tarnished Fer`Esh
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 32
+DMG: 5 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 1 Golds
+ 9 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Field of Bone
+
+ a skeleton (Iksar)
+ an Iksar footpad
+
+Lake of Ill Omen
+
+ a decaying skeleton (Iksar)
+ greater scalebone
+
+Swamp of No Hope
+
+ an iksar footpad
+
+Warsliks Woods
+
+ an iksar marauder
+ a skeleton (Iksar)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 20)
+ Yield: Tarnished Fer`Esh x1
+ In Forge:
+
+
+  1 x Rusty Fer`Esh - Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

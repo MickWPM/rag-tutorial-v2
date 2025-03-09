@@ -1,0 +1,43 @@
+ITEM NAME: Cloak of Confusion
+
+Velious Era (added December 2000-2001)
+
+Cloak of Confusion
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 14
+STR: +10  STA: +15  CHA: +15  HP: +45
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +10  SV POISON: +5
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): I'm confused what about you? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Cloak of Confusion  x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Blue Throne - Dropped
+  A Blue Crown - Dropped
+  A Blue Knight - Dropped
+  A Blue Squire - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

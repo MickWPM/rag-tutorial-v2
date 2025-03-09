@@ -1,0 +1,30 @@
+ITEM NAME: Mammoth Calf Hide
+
+
+Mammoth Calf Hide
+
+
+WT: 8.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Everfrost Peaks
+
+ a wooly mammoth calf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mammoth Calf Hides
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

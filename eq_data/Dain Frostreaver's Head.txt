@@ -1,0 +1,33 @@
+ITEM NAME: Dain Frostreaver's Head
+
+Velious Era (added December 2000-2001)
+
+
+Dain Frostreaver's Head
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Head of the Coldain King 
+
+  Drops From 
+Icewell Keep
+
+ Dain Frostreaver IV
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dain's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

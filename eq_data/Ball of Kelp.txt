@@ -1,0 +1,39 @@
+ITEM NAME: Ball of Kelp
+
+Velious Era (added December 2000-2001)
+
+
+Ball of Kelp
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE
+AC: 5
+WIS: +2  INT: +2  MANA: +35
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad mistress
+ a neriad sea princess
+ a siren beguiler
+ a siren myrmidon
+ a siren templar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

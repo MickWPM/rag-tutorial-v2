@@ -1,0 +1,45 @@
+ITEM NAME: Ivory Inlaid Staff
+
+Kunark Era (added 2000)
+Ivory Inlaid Staff
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt Atk Delay: 25
+DMG: 5 
+WT: 6.5 Size: LARGE
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Mohin
+
+
+
+  (426,590)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

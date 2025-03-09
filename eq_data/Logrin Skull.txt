@@ -1,0 +1,33 @@
+ITEM NAME: Logrin Skull
+
+Kunark Era (added 2000)
+
+
+Logrin Skull
+
+
+LORE ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+East Cabilis
+
+ an iksar outcast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 1
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

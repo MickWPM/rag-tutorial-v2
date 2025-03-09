@@ -1,0 +1,36 @@
+ITEM NAME: Nevederia's Claw
+
+Velious Era (added December 2000-2001) 
+
+
+Nevederia's Claw
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 17
+DMG: 11   AC: 10
+STA: +10  AGI: +15  HP: +75  MANA: +75
+WT: 7.0  Size: SMALL
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lady Nevederia
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Rotbone Bracelet
+
+
+Rotbone Bracelet
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 4
+STA: -8  MANA: +35
+WT: 5.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+ Merchant resale value: 24p 7g 
+
+  Drops From 
+Howling Stones
+
+ a sepulcher skeleton
+ an undertaker skeleton
+ an undead oblation
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

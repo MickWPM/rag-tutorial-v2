@@ -1,0 +1,30 @@
+ITEM NAME: Full Crate of Fusible Ore
+
+Velious Era (added December 2000-2001)
+
+
+Full Crate of Fusible Ore
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fusibility Research
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

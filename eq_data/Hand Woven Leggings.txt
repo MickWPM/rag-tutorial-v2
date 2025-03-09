@@ -1,0 +1,36 @@
+ITEM NAME: Hand Woven Leggings
+
+Kunark Era (added 2000)
+
+Hand Woven Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 8
+SV FIRE: +10
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 12p 8g 7s 7c 
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak adherant
+ a Sarnak legionnaire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

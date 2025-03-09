@@ -1,0 +1,36 @@
+ITEM NAME: Goblin Slaver's Whip
+
+Kunark Era (added 2000)
+
+Goblin Slaver's Whip
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 5 
+HP: +10
+WT: 3.2  Size: TINY
+Class: WAR CLR PAL RNG SHD MNK BRD ROG SHM
+Race: ALL
+
+
+Was a bugged drop, but now resolved: https://www.project1999.com/forums/showthread.php?t=296060 
+ Merchant resale value: 5pp 
+
+  Drops From 
+Warsliks Woods
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

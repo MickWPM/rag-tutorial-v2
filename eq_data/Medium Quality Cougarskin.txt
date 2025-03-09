@@ -1,0 +1,33 @@
+ITEM NAME: Medium Quality Cougarskin
+
+Velious Era (added December 2000-2001)
+Medium Quality Cougarskin
+
+
+MAGIC ITEM  NO DROP
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ a snow cougar
+ Midnight
+ rabid snow cougar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cougarskin Boots Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

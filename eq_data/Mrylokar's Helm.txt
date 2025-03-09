@@ -1,0 +1,34 @@
+ITEM NAME: Mrylokar's Helm
+
+Kunark Era (added 2000)
+
+Mrylokar's Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 18
+Effect:  Ultravision (Must Equip, Casting Time: 10.0) at Level 45
+WT: 6.0  Size: SMALL
+Class: ROG
+Race: ALL except IKS
+
+
+Part of the Mrylokar's Armor set. Can be cast on others. 
+
+  Drops From 
+Old Sebilis
+
+ froglok armsman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

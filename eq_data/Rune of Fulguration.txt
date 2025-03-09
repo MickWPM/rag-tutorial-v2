@@ -1,0 +1,44 @@
+ITEM NAME: Rune of Fulguration
+
+
+Rune of Fulguration
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 8 Golds
+ 6 Silvers
+ 3 Coppers
+ 
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Crystal Caverns
+
+ a stalag terror
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Project Lightning (Trivial: 21)
+ Energy Storm (Trivial: 96)
+
+
+
+
+

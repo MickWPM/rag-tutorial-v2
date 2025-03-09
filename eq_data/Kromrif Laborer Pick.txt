@@ -1,0 +1,38 @@
+ITEM NAME: Kromrif Laborer Pick
+
+Velious Era (added December 2000-2001)
+
+
+Kromrif Laborer Pick
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 50
+DMG: 22 
+WT: 16.0  Size: GIANT
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+ Merchant resale value: 3.7 gold 
+
+  Drops From 
+The Wakening Land
+
+ a frost giant laborer
+ Korzak Stonehammer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tunarean Tasks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

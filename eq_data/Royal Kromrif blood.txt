@@ -1,0 +1,37 @@
+ITEM NAME: Royal Kromrif blood
+
+Velious Era (added December 2000-2001)
+
+
+
+Royal Kromrif blood
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 1c 
+
+  Drops From 
+Kael Drakkel
+
+ a Kromzek sorcerer
+ Klaggan Iceshard
+ Vorken Iceshard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

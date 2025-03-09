@@ -1,0 +1,36 @@
+ITEM NAME: Siren Hair Earring
+
+Velious Era (added December 2000-2001)
+
+
+Siren Hair Earring
+
+
+LORE ITEM  NO DROP
+Slot: EAR
+AC: 2
+STA: +9  WIS: +2  INT: +2
+WT: 0.3  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ Helsia Mindreaver
+ a siren seductress (unconfirmed)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

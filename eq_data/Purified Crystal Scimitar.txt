@@ -1,0 +1,41 @@
+ITEM NAME: Purified Crystal Scimitar
+
+
+Purified Crystal Scimitar
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 6 
+CHA: +4
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Purified Crystal Scimitar x1
+ In Kejek Forge:
+
+
+  1 x Crystallized Shadow Scimitar - Dropped
+  1 x Soulforge Hammer - Quested, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Fading Shadow Warhammer
+
+Velious Era (added December 2000-2001)
+
+
+Fading Shadow Warhammer
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 29
+DMG: 7 
+HP: +2
+WT: 7.3  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the Fading Shadow Weapons set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a crystallized shadow guard
+ a golem usher
+ a shadow beast cook
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

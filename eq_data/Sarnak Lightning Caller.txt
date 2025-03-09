@@ -1,0 +1,36 @@
+ITEM NAME: Sarnak Lightning Caller
+
+Kunark Era (added 2000)
+
+
+Sarnak Lightning Caller
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 15 
+Effect: Lightning_Call (Combat, Casting Time: Instant) at Level 49
+WT: 1.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD DRU MNK BRD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Underboss Myli`ki
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

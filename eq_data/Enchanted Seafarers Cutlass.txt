@@ -1,0 +1,44 @@
+ITEM NAME: Enchanted Seafarers Cutlass
+
+
+
+Enchanted Seafarers Cutlass
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 7 
+DEX: +4  AGI: +4
+WT: 7.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 142)
+ Yield: Enchanted Seafarers Cutlass x1
+ In Antonican Forge:
+
+
+  1 x Black Pearl - Dropped
+  1 x Curved Blade Mold - Bought
+  1 x Enchanted Folded Sheet Metal - Crafted
+  1 x Hilt Mold - Bought
+  1 x Pommel Mold - Bought
+  1 x Sea Temper - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

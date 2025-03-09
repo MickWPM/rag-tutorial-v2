@@ -1,0 +1,33 @@
+ITEM NAME: Iron Cudgel of the Clairvoyant
+
+Kunark Era (added 2000)
+
+
+Iron Cudgel of the Clairvoyant
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 4
+WT: 5.0  Range: 40  Size: MEDIUM
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quests (#1)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

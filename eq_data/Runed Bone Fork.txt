@@ -1,0 +1,34 @@
+ITEM NAME: Runed Bone Fork
+
+
+Runed Bone Fork
+
+
+LORE ITEM  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 29
+DMG: 5 
+SV FIRE: +10  SV COLD: +10  SV MAGIC: +10
+WT: 4.5  Range: 50  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore (from Identify):  Runed Bone Fork 
+
+  Drops From 
+Upper Guk
+
+ a froglok gaz squire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

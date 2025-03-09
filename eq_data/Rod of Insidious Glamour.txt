@@ -1,0 +1,34 @@
+ITEM NAME: Rod of Insidious Glamour
+
+Temple Era (added October 1999)
+
+Rod of Insidious Glamour
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 6   AC: 2
+CHA: +12
+Effect:  Alliance (Any Slot/Can Equip, Casting Time: 0.0) at Level 30
+WT: 4.0  Size: MEDIUM
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+Especially useful as an easily-obtained global cooldown reset clicky. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rod of Insidious Glamour Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

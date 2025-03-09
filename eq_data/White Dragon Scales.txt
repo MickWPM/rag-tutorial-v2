@@ -1,0 +1,36 @@
+ITEM NAME: White Dragon Scales
+
+
+White Dragon Scales
+
+
+MAGIC ITEM
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dreadlands
+
+ Gorenaire
+
+Permafrost
+
+ Lady Vox
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+ White Dragonscale Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

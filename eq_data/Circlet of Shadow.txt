@@ -1,0 +1,40 @@
+ITEM NAME: Circlet of Shadow
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+ Cinu models the pre-nerf Circlet of Shadow.
+Circlet of Shadow
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 5
+MANA: +10
+SV DISEASE: +10  SV POISON: +10
+Effect:  Gather Shadows (Any Slot/Can Equip, Casting Time: Instant) at Level 20
+WT: 1.0  Size: SMALL
+Class: SHD NEC
+Race: ALL
+
+
+Nerfed as of April 2016[1]. This is the pre-nerf version of the Circlet of Shadows.[2]
+Ceases to drop about 6 months into Velious JUNE 27, 2001 
+ Merchant resale value: 45pp 
+
+  Drops From 
+Temple of Droga
+
+ a goblin bodyguard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Tin Box
+
+Kunark Era (added 2000)
+
+
+A Tin Box
+
+
+LORE ITEM  QUEST ITEM
+WT: 8.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Two different items for separate quests
+ Item Lore (from Identify): property of Rinmark
+ Item Lore (from Identify): Coin Collection Box 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Bronze
+ Rare Coins
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

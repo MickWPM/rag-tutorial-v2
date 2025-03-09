@@ -1,0 +1,44 @@
+ITEM NAME: Bone Totem
+
+
+Bone Totem
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+CHA: -9  HP: +15  MANA: +5
+WT: 0.8  Size: SMALL
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Dagnor's Cauldron
+
+ aqua goblin shaman
+
+Clan Runnyeye
+
+ ?
+
+Butcherblock Mountains
+
+ a goblin shaman
+
+Misty Thicket
+
+ a goblin shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

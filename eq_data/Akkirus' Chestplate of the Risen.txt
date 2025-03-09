@@ -1,0 +1,38 @@
+ITEM NAME: Akkirus' Chestplate of the Risen
+
+Velious Era (added December 2000-2001) Plastorative - Project Lightning
+
+
+Akkirus' Chestplate of the Risen
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 50
+STA: +9  WIS: +15  AGI: +5  HP: +50  MANA: +90
+SV FIRE: +8  SV DISEASE: +9  SV COLD: +8  SV MAGIC: +9  SV POISON: +8
+Effect:  Mark of Karn (Must Equip, Casting Time: 9.0)
+WT: 8.0  Size: LARGE
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Skyshrine Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+Clickable at level 46.
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Kylong Arm Guards
+
+Kunark Era (added 2000)
+
+Kylong Arm Guards
+
+
+LORE ITEM
+Slot: ARMS
+AC: 12
+DEX: +3
+SV FIRE: +6  SV POISON: +2
+WT: 2.6  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+ Merchant resale value: 23p 7g 
+
+  Drops From 
+Howling Stones
+
+ The Spectre Sepulcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

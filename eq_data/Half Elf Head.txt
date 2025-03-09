@@ -1,0 +1,33 @@
+ITEM NAME: Half Elf Head
+
+Classic Era (added 1999-2000)
+
+
+Half Elf Head
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+High Keep
+
+ Xentil Herkanon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scout Blade
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

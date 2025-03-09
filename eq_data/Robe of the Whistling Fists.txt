@@ -1,0 +1,37 @@
+ITEM NAME: Robe of the Whistling Fists
+
+Epic Quests Era (added Sept 2000)
+
+Robe of the Whistling Fists
+
+
+MAGIC ITEM LORE ITEM NO DROP
+Slot: CHEST
+AC: 15
+HP: +50
+SV MAGIC: +10
+Effect:  Jonthan's Whistling Warsong (Must Equip, Casting Time: Instant) at Level 30
+WT: 0.5 Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Robe of the Whistling Fists
+ The Lost Circle
+ Monks of The Whistling Fist
+ Monk Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

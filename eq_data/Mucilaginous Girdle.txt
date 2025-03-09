@@ -1,0 +1,34 @@
+ITEM NAME: Mucilaginous Girdle
+
+
+Mucilaginous Girdle
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 7
+WIS: +6  HP: +10
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 65pp 
+
+  Drops From 
+Howling Stones
+
+ Sentient Bile
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

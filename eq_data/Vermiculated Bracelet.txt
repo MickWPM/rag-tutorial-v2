@@ -1,0 +1,40 @@
+ITEM NAME: Vermiculated Bracelet
+
+
+
+Vermiculated Bracelet
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 5
+WIS: +9  MANA: +15
+SV FIRE: +7  SV COLD: +7
+WT: 3.5  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a gorgon
+
+Plane of Hate
+
+ a haunted chest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Full armor set here: [1]
+
+

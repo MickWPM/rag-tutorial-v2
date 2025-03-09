@@ -1,0 +1,34 @@
+ITEM NAME: Student's Homework
+
+Velious Era (added December 2000-2001)
+
+Student's Homework
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE
+INT: +3  MANA: +15
+SV MAGIC: +10
+WT: 1.0  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF HEF GNM IKS
+
+
+ Item Lore (from Identify): 1+1=3 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an angry librarian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,56 @@
+ITEM NAME: Sabertooth Tiger Hide
+
+
+Sabertooth Tiger Hide
+
+
+QUEST ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+VALUE TO VENDOR with CHA : 56 and faction at Indifferently
+
+ 0 Platinums
+ 2 Golds
+ 3 Silvers
+ 5 Coppers
+ 
+  Drops From 
+Lake of Ill Omen
+
+ a sabertooth cat
+ a sabertooth cub
+ a sabertooth grimalkin
+ a sabertooth kit
+ a sabertooth kitten
+ a sabertooth tiger
+ a sabertooth tigress
+
+The Overthere
+
+ a sabertooth tiger
+ a sabertooth tigress
+ sabretooth tiger
+ sabretooth tigress
+
+Trakanon's Teeth
+
+ sabretooth tiger
+ sabretooth tigress
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Used in Wood Elf tailoring.
+
+
+
+
+

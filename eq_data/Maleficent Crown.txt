@@ -1,0 +1,36 @@
+ITEM NAME: Maleficent Crown
+
+Velious Era (added December 2000-2001)
+
+
+Maleficent Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+CHA: -10  WIS: +4  INT: +10  HP: +35  MANA: +15
+SV MAGIC: +5  SV POISON: +5
+Effect:  Ultravision (Worn)
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

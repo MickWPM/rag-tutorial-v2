@@ -1,0 +1,35 @@
+ITEM NAME: Rat Shaped Ring
+
+
+Rat Shaped Ring
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+SV DISEASE: +10  SV POISON: +10
+WT: 0.1  Size: TINY
+Class: WAR CLR PAL SHD
+Race: ALL
+
+
+ Item Lore (from Identify): Bloodsaber Ring
+Nilbog: Rat Shaped Ring may not be equipped by Shadowknights until Sep2000[1] Epic Quests Era 
+
+  Drops From 
+Western Plains of Karana
+
+ Brother Trintle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rat Shaped Rings
+ Hurrieta's Tunic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

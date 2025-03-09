@@ -1,0 +1,33 @@
+ITEM NAME: Shadowed Morning Star
+
+Classic Era (added 1999-2000)
+Shadowed Morning Star
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 40
+DMG: 8 
+WT: 10.0  Size: MEDIUM
+Class: WAR
+Race: NONE
+
+
+
+
+  Drops From 
+South Karana
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

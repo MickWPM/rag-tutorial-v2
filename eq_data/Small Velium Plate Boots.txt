@@ -1,0 +1,32 @@
+ITEM NAME: Small Velium Plate Boots
+
+
+
+Small Velium Plate Boots
+
+
+Slot: FEET
+AC: 9
+WT: 5.0  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Thurgadin
+
+ Dalgrim Underbelly
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

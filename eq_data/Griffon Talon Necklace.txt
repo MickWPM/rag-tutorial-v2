@@ -1,0 +1,34 @@
+ITEM NAME: Griffon Talon Necklace
+
+Sky Era (added January 2000)
+
+
+Griffon Talon Necklace
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 4
+STR: +4  STA: +4  WIS: +5
+SV FIRE: +5  SV COLD: +5
+WT: 0.1  Size: TINY
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Body
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

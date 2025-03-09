@@ -1,0 +1,38 @@
+ITEM NAME: Smolder
+
+Velious Era (added December 2000-2001)
+Were you looking for Smolder (spell)?
+ 
+Smolder
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 17 
+STR: +10  DEX: +7  STA: +7  HP: +20
+SV COLD: +20
+Effect: Inferno Shock (Combat, Casting Time: Instant) at Level 46
+WT: 0.3  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+See Discussion for ownership.  
+
+  Drops From 
+Sleeper's Tomb
+
+ Nanzata the Warder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

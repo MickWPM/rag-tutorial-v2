@@ -1,0 +1,33 @@
+ITEM NAME: Resonant Boots
+
+Velious Era (added December 2000-2001)
+
+
+Resonant Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 19
+STR: +2  CHA: +3
+WT: 6.0  Size: MEDIUM
+Class: BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard's Velium Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

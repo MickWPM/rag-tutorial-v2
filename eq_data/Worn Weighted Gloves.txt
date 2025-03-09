@@ -1,0 +1,77 @@
+ITEM NAME: Worn Weighted Gloves
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Worn Weighted Gloves
+
+
+Slot: PRIMARY
+Skill: Hand to Hand  Atk Delay: 28
+DMG: 4 
+WT: 6.0  Size: MEDIUM
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Commonlands
+
+ orc pawn
+
+Greater Faydark
+
+ an orc centurion
+ an orc conscript
+ an orc footman
+ an orc shaman
+ orc centurion
+ orc pawn
+
+Lesser Faydark
+
+ a faerie maiden
+
+Misty Thicket
+
+ orc centurion
+ orc pawn
+
+North Qeynos
+
+ Fippy Darkpaw
+
+Steamfont Mountains
+
+ a kobold runt
+
+The Feerrott
+
+ a lizardman forager
+
+West Freeport
+
+ a deathfist pawn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

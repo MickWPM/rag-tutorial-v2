@@ -1,0 +1,35 @@
+ITEM NAME: Velium Spear of Impaling
+
+Velious Era (added December 2000-2001)
+
+
+
+Velium Spear of Impaling
+
+
+Slot: RANGE AMMO
+Skill: Throwing Atk Delay: 35
+DMG: 36 
+WT: 1.5  Range: 200  Size: LARGE
+Class: WAR SHD ROG
+Race: BAR ELF TRL OGR IKS
+
+
+
+
+  Drops From 
+Great Divide
+
+ Kromrif Spearman during the Ring war.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

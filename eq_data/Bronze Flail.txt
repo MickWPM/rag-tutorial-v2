@@ -1,0 +1,47 @@
+ITEM NAME: Bronze Flail
+
+Classic Era (added 1999-2000)
+Bronze Flail
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 37
+DMG: 6 
+WT: 10.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 3 Platinums
+ 3 Golds
+ 5 Silvers
+ 7 Coppers
+ 
+  Drops From 
+East Commonlands
+
+ a ghoul
+
+The Feerrott
+
+ Cyndreela
+
+Najena
+
+ a skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

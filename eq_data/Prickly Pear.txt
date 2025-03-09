@@ -1,0 +1,32 @@
+ITEM NAME: Prickly Pear
+
+Classic Era (added 1999-2000)
+
+Prickly Pear
+
+
+This is a snack!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Forbidden fruit! Used in quests... if uneaten... 
+
+  Drops From 
+Permafrost
+
+ an icy terror
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Etched Stone
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

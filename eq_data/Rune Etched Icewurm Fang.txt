@@ -1,0 +1,43 @@
+ITEM NAME: Rune Etched Icewurm Fang
+
+Velious Era (added December 2000-2001)
+
+
+
+Rune Etched Icewurm Fang
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 19
+DMG: 12 
+WIS: +5  MANA: +35
+Effect:  Spirit Strike (Combat, Casting Time: Instant) at Level 35
+WT: 7.0  Range: 50  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+Procs at level 35. 
+
+  Drops From 
+Kael Drakkel
+
+ Oracle Bloodstorm
+ Oracle Kaeren
+ Oracle Remalek
+ Oracle Weldom
+ Oracle Zardukel
+ Stormcaller Bludlaen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

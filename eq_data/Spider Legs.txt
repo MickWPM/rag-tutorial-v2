@@ -1,0 +1,145 @@
+ITEM NAME: Spider Legs
+
+
+Spider Legs
+
+
+QUEST ITEM
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 60 and faction at Indifferent
+
+ 0 Platinums
+ 0 Golds
+ 0 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a large spider
+ a rock spiderling
+
+Commonlands
+
+ a giant spider
+
+Dreadlands
+
+ a drachnid recluse
+ a drachnid silkmistress
+ a drachnid silkstrander
+ a drachnid webmaster
+ a drachnid widow
+
+Eastern Plains of Karana
+
+ a crag spider
+
+Erud's Crossing
+
+ a kerra spider
+
+Everfrost Peaks
+
+ a giant wooly spider
+
+Field of Bone
+
+ a bonebinder
+ bonecrawler
+
+Firiona Vie
+
+ a drachnid silkspinner
+
+Frontier Mountains
+
+ Briarweb Spider
+
+Greater Faydark
+
+ a large widow
+ a widow hatchling
+
+Kaesora
+
+ Briarweb Spider
+ Bristleweb Spider
+ Frenzied Strathbone
+ Strathbone Healer
+ Strathbone Runelord
+ strathbone spider
+
+Lesser Faydark
+
+ a giant spider
+
+Lower Guk
+
+ a deadly black widow
+
+Najena
+
+ A Giant Black Widow
+
+Nektulos Forest
+
+ a large arachneidae
+ an araneidae spiderling
+
+Northern Desert of Ro
+
+ a desert tarantula
+ a dune tarantula
+
+Oasis of Marr
+
+ a desert tarantula
+ a dune tarantula
+
+Permafrost
+
+ giant wooly spider
+
+Southern Desert of Ro
+
+ a desert tarantula
+
+Steamfont Mountains
+
+ a spiderling
+
+Upper Guk
+
+ a heart spider
+ a large heart spider
+
+Western Plains of Karana
+
+ a spiderling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Gnomish Spirits (Trivial: 102)
+ Halas Heater (Trivial: 135)
+
+ Baking
+ Wooly Spider Crunchies (Trivial: 46)
+ Candied Spider (Trivial: 88)
+
+
+
+
+

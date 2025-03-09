@@ -1,0 +1,81 @@
+ITEM NAME: Nilitim's Grimoire Pg. 35
+
+
+
+Nilitim's Grimoire Pg. 35
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: 1p 1g 2s 1c 
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+ a tatterback ape
+
+City of Mist
+
+ a phantom
+
+Eastern Wastes
+
+ a manticore
+ kromriff guardsman
+
+Howling Stones
+
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ spectral knight
+
+Lesser Faydark
+
+ a brownie guard
+
+Nagafen's Lair
+
+ imp protector
+
+Permafrost
+
+ a giant dire wolf
+ an ice giant
+
+Temple of Solusek Ro
+
+ Tazgar
+
+Timorous Deep
+
+ a Raptor
+ A Vicious Raptor
+ Dinus
+
+The Wakening Land
+
+ an elder holgresh
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research
+ Pillage Enchantment (Trivial:162) (Research Only)
+
+
+
+
+

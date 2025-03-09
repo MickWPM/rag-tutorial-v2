@@ -1,0 +1,38 @@
+ITEM NAME: Crystal Grinder
+
+Velious Era (added December 2000-2001)
+
+
+
+Crystal Grinder
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 27
+DMG: 9   AC: 2
+WT: 2.5  Size: SMALL
+Class: ALL except CLR DRU MNK
+Race: ALL
+
+
+
+ Merchant resale value: 4pp 
+
+  Drops From 
+Crystal Caverns
+
+ a crystal crawler
+ a crystal grinder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

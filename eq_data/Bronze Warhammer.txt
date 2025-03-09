@@ -1,0 +1,83 @@
+ITEM NAME: Bronze Warhammer
+
+Classic Era (added 1999-2000)
+
+Bronze Warhammer
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 33
+DMG: 5 
+WT: 8.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 1 Platinums
+ 6 Golds
+ 3 Silvers
+ 1 Coppers
+ 
+  Drops From 
+The Estate of Unrest
+
+ a greater dark bone
+
+Highpass Hold
+
+ a gnoll soothsayer
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ skeleton trooper
+ undead cleric
+ zombie advisor
+ Zombie Commander
+ zombie infantry
+ zombie trooper
+
+North Freeport
+
+ Sentry Andlin
+ Sentry Theo
+ Sentry Warren
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a Dervish Thug
+
+West Freeport
+
+ Gygus Remnara
+ Palious Jarten
+ Sentry Boris
+ Sentry Gallius
+ Sentry Janeal
+ Sentry Meighan
+ Tholius Quey
+
+Najena
+
+ a skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bandit Sashes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

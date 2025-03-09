@@ -1,0 +1,175 @@
+ITEM NAME: Bronze Long Sword
+
+Classic Era (added 1999-2000)
+
+Bronze Long Sword
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 32
+DMG: 5 
+WT: 8.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 3 Platinums
+ 0 Golds
+ 6 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Befallen
+
+ an elf skeleton
+
+Blackburrow
+
+ an elite gnoll guard
+
+Mistmoore Castle
+
+ a glyphed familiar
+ a pledge familiar
+ an initiate familiar
+
+Commonlands
+
+ a Dervish Cutthroat
+ a Dervish Thug
+ a ghoul
+ an orc legionnaire
+ orc legionnaire
+
+Crushbone
+
+ Emperor Crush
+ Lord Darish
+ orc legionnaire
+ orc warlord
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+The Estate of Unrest
+
+ a crazed ghoul
+ a ghoul
+ a greater dark bone
+ dark boned skeleton
+ tormented dead
+
+Everfrost Peaks
+
+ an orcish mountaineer
+
+Firiona Vie
+
+ a drolvarg snarler
+ Kwinn the Outlander
+
+Greater Faydark
+
+ a faerie duchess
+
+Highpass Hold
+
+ Recfek Shralok
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ skeleton trooper
+ undead cleric
+ zombie advisor
+ Zombie Commander
+ zombie infantry
+ zombie trooper
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ a faerie
+ a faerie courtier
+ orc chief
+
+Najena
+
+ a greater skeleton
+ a skeleton
+ an ogre guard
+
+Nektulos Forest
+
+ Corporal D`Abth
+ Corporal J`Rais
+ Corporal X`Horn
+ Corporal X`Tis
+ Guard D`Zel
+ Guard E`Brona
+ Guard F`Losta
+ Guard G`Varr
+ Guard N`Lan
+ Guard T`Aba
+ Guard T`Quetal
+ Guard V`Ehn
+ Guard V`Lex
+ Guard X`Onnu
+ Guard Z`Den
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a Dervish Thug
+ dry bones skeleton
+ Guard Brendyl
+ Guard Fintran
+ Guard Stoutman
+
+Permafrost
+
+ an ice goblin
+
+Solusek's Eye
+
+ young goblin
+
+Southern Karana
+
+ centaur archer
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

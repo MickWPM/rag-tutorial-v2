@@ -1,0 +1,37 @@
+ITEM NAME: Orb of Mastery
+
+ Bigbrained Foreheadius the Elementalist <Safe Space> shows the Orb of Mastery in action on Project1999 Green
+Epic Quests Era (added Sept 2000)
+Orb of Mastery
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Charges: 1
+Skill: 1H Blunt  Atk Delay: 30
+DMG: 20 
+STR: +15  DEX: +5  STA: +10  INT: +20  MANA: +100
+SV FIRE: +20  SV COLD: +20  SV MAGIC: +10
+Effect:  Manifest Elements (Must Equip, Casting Time: 20.0) at Level 50
+WT: 1.0  Size: TINY
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+See also: Spell: Summon Orb. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

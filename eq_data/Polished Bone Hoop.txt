@@ -1,0 +1,44 @@
+ITEM NAME: Polished Bone Hoop
+
+
+Polished Bone Hoop
+
+
+Slot: EAR
+MANA: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+1 gold 4 silver 8 copper 
+
+  Drops From 
+Clan Runnyeye
+
+ an Evil Eye prisoner
+
+Eastern Karana
+
+an evil eye
+
+Gorge of King Xorbb (Beholder's Maze)
+
+ an evil eye
+ Lord Sviir
+
+Southern Karana
+
+Ghanex Drah
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

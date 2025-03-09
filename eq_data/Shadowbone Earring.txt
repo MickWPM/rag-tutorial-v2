@@ -1,0 +1,34 @@
+ITEM NAME: Shadowbone Earring
+
+Velious Era (added December 2000-2001)
+
+Shadowbone Earring
+
+
+MAGIC ITEM
+Slot: EAR
+INT: +2  AGI: +4
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a shadowbone
+ a shadow beast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

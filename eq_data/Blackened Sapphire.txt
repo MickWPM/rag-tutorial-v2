@@ -1,0 +1,37 @@
+ITEM NAME: Blackened Sapphire
+
+Classic Era (added 1999-2000)
+
+Blackened Sapphire
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+STA: +3  MANA: +5
+WT: 0.1  Size: TINY
+Class: CLR SHD DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Sapphire of Souls  Is it required for The Burning Dead quest?
+Info Note: Appears to extinguish self light sources if used in an inventory slot after a light emitting item such as a greater lightstone. 
+ Merchant resale value: 1.4p 
+
+  Drops From 
+Najena
+
+ Ekeros
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Sash Quests
+ The Burning Dead
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,118 @@
+ITEM NAME: Chipped Bone Rod
+
+Classic Era (added 1999-2000)
+
+Chipped Bone Rod
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 3
+Effect:  Locate Corpse (Any Slot, Casting Time: Instant)
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Added to more merchants on 2/10/19 ("October 2001") [1] 
+
+  Drops From 
+Befallen
+
+ a necro theurgist
+ a shadowknight (Dark Elf Male)
+ the thaumaturgist
+
+  Sold by 
+Confirmed: Sold by Jondin in West Cabilis on Green. 5p 4g 5s 1c. Matsumurak (talk) 15:12, 29 October 2023 (UTC)
+
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Commons
+
+ Marza T`Kix
+
+ Bounty of the Earth(Neriak down under)
+
+  (+20, -875)
+
+
+ Rivervale
+
+ Kizzie Mintopp
+
+
+
+  (-229, -217)
+
+
+ South Qeynos
+
+ Drawna Opimsor
+
+
+
+  (303, -551)
+
+
+ Thurgadin
+
+ Frundle Frenkler
+
+
+
+  (-390, 505)
+
+
+ West Freeport
+
+ Olyna Mudel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Torlig Mudel
+
+
+
+  (82, -917)
+
+
+ West Cabilis
+
+ Jondin
+
+
+
+  (-36, 508)
+
+
+  Other Cities
+
+
+
+  Other Potion Vendors
+
+
+
+
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

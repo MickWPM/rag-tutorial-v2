@@ -1,0 +1,69 @@
+ITEM NAME: Wood Elf Parts
+
+Classic Era (added 1999-2000)
+
+Wood Elf Parts
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crushbone
+
+ an elven slave (wood elf, female)
+ an elven slave (wood elf, male)
+
+Greater Faydark
+
+ a bandit
+ a bandit lookout
+ Kindl Lunsight
+ a brownie scout
+
+Lesser Faydark
+
+ Bryn Fynndel
+ Cylas Delbrin
+ Faril Elvebryn
+ Galwyn Geldin
+ Glyndur Tindel
+ Gundel Elorion
+ Mywyn Tinendel
+ Sarawyn Amorfin
+ Vynn Thrildur
+
+Ocean of Tears
+
+ Antinime
+ Larisa Gelrith
+ Sister of Erollisi
+
+Southern Desert of Ro
+
+ Lockjaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking (Trivial: 95)
+ Yield: Smoked Wood Elf x2
+ In Oven:
+
+
+  1 x Smoker - Crafted, Returned on Failure, Returned on Success
+  1 x Spices - Bought
+  1 x Wood Elf Parts - Dropped
+
+
+
+
+

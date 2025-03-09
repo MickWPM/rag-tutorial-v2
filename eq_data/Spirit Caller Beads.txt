@@ -1,0 +1,36 @@
+ITEM NAME: Spirit Caller Beads
+
+
+
+Spirit Caller Beads
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ goblin spirit caller
+
+Lake of Ill Omen
+
+ goblin spirit caller
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Boots
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

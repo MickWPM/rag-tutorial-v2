@@ -1,0 +1,357 @@
+ITEM NAME: Great Staff
+
+
+Great Staff
+
+
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 38
+DMG: 9 
+WT: 10.0  Size: LARGE
+Class: ALL except BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 17pp 
+
+  Drops From 
+Neriak Third Gate
+
+ Perrir Zexus
+
+Southern Karana
+
+ a treant
+
+Eastern Karana
+
+ a treant
+
+Surefall Glade
+
+ Ran Walker
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork priest
+
+
+
+  (1198, -551)
+
+
+ Ak'Anon
+
+ a clockwork weaponsmith
+
+
+
+   (1253, -715), (1329, -762)
+
+
+ East Cabilis
+
+ Weaponsmith Grugl
+
+
+
+  (-432, -33)
+
+
+ West Commonlands
+
+ Opal Woodchopper
+
+
+
+  (-515, 2576)
+
+
+ Erudin
+
+ Ayth Niphiria
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Stella Breezemoon
+
+
+
+  (-622, -83)
+
+
+ Erudin
+
+ Fhania Aserdon
+
+
+
+  (-1094, -470)
+
+
+ Erudin
+
+ Palus Weaponsmith
+
+
+
+  (-1023, -94)
+
+
+ Felwithe
+
+ Merchant Dantree
+
+
+
+  (-70, -413)
+
+
+ Felwithe
+
+ Isyna Firspanyl
+
+
+
+  (2, -468)
+
+
+ East Freeport
+
+ Celanie Xtoria
+
+
+
+  (-205, -312)
+
+
+ North Freeport
+
+ Hulos Ghenar
+
+
+
+  (88, 269)
+
+
+ Greater Faydark
+
+ Bilrio Surecut
+
+
+
+  (-649, 386)
+
+
+ Greater Faydark
+
+ Merchant Winerasea
+
+
+
+  (-270, 89)
+
+
+ Greater Faydark
+
+ Merchant Minamas
+
+
+
+  (-676, 387)
+
+
+ Grobb
+
+ Zumzal
+
+
+
+  (329, -495)
+
+
+ Halas
+
+ Holana Oleary
+
+
+
+  (137, -337)
+
+
+ North Kaladim
+
+ Baleki Nightseer
+
+
+
+  (765, 143)
+
+
+ Kithicor Forest
+
+ Mune Woodchopper
+
+
+
+  (1458, 2263)
+
+
+ Neriak Third Gate
+
+ Tzanso S`Tai
+
+
+
+  (408, -836)
+
+
+ Northern Desert of Ro
+
+ Murissa Sandwhisper
+
+
+
+  (3712, 126)
+
+
+ Oggok
+
+ Squeea
+
+
+
+  (647, 977)
+
+
+ Oggok
+
+ Brana
+
+
+
+  (75, 881)
+
+
+ Oggok
+
+ Rora Dirtstamp
+
+
+
+  (212, -372)
+
+
+ The Overthere
+
+ Tin Merchant VIII
+
+
+
+  (2615, 2616)
+
+
+ Paineel
+
+ Jenkin Fleetmore
+
+
+
+  (1097, 439)
+
+
+ Paineel
+
+ Tenralus Brackmar
+
+
+
+  (1225, 523)
+
+
+ South Qeynos
+
+ Stan Cloven
+
+
+
+  (427, -265)
+
+
+ South Qeynos
+
+ Nesiff Tallaherd
+
+
+
+  (440, -243)
+
+
+ North Qeynos
+
+ Tyokan Mekase
+
+
+
+  (-161, -146)
+
+
+ North Qeynos
+
+ Whysia Flock
+
+
+
+  (-161, -146)
+
+
+ Surefall Glade
+
+ Sequea Erthinon
+
+
+
+  (-155, -293)
+
+
+ Rivervale
+
+ Crista Tagglefoot
+
+
+
+  (-69, -381)
+
+
+ Rivervale
+
+ Pipple Purpleroot
+
+
+
+  (-246, -351)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

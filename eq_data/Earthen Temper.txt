@@ -1,0 +1,39 @@
+ITEM NAME: Earthen Temper
+
+
+Earthen Temper
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 135)
+ Yield: Earthen Temper x1
+ In Brew Barrel:
+
+
+  2 x Drop of Mercury - Dropped
+  1 x Dwarven Ale - Bought
+  1 x Lava Rock - Dropped 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Cultural Tradeskills: Dwarf
+
+
+
+
+

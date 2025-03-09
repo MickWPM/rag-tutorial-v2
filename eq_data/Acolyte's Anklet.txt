@@ -1,0 +1,31 @@
+ITEM NAME: Acolyte's Anklet
+
+Velious Era (added December 2000-2001)
+Acolyte's Anklet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 3
+CHA: +3  WIS: +2  AGI: +2
+WT: 1.2  Size: SMALL
+Class: CLR DRU
+Race: DWF HFL GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Acolyte
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

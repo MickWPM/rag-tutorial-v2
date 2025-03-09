@@ -1,0 +1,31 @@
+ITEM NAME: Large Patchwork Boots
+
+Were you looking for Patchwork Armor Set? Were you looking for Small Patchwork Armor Set?
+
+Large Patchwork Boots
+
+
+Slot: FEET
+AC: 3
+WT: 3.1  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+Part of the Large Patchwork Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cindl's Polar Bear Collection
+
+  Player crafted 
+ Tailoring (Trivial: 26) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

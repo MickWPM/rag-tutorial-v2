@@ -1,0 +1,41 @@
+ITEM NAME: Fine Steel Dagger
+
+Classic Era (added 1999-2000)
+
+Fine Steel Dagger
+
+
+QUEST ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 3 
+WT: 2.4  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 4 Platinums
+ 3 Golds
+ 1 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Level Appropriate Mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Rijoely's Dancing Rapier
+
+Velious Era (added December 2000-2001)
+
+
+Rijoely's Dancing Rapier
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 19
+DMG: 9   AC: 5
+DEX: +7  CHA: +7  HP: +55
+WT: 2.0  Size: TINY
+Class: RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Rijoely
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

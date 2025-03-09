@@ -1,0 +1,52 @@
+ITEM NAME: Shadowed Long Sword
+
+Classic Era (added 1999-2000)
+
+
+Shadowed Long Sword
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 29
+DMG: 6 
+WT: 7.5  Size: MEDIUM
+Class: WAR
+Race: NONE
+
+
+
+
+  Drops From 
+West Commonlands
+
+ a shadowed man
+
+Lavastorm Mountains
+
+ a shadowed man
+
+Lesser Faydark
+
+ a shadowed man
+ a shadowed man pet
+
+Rathe Mountains
+
+ Ytyrs Reborn
+
+Nektulos Forest
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

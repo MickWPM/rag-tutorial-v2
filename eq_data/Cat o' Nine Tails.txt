@@ -1,0 +1,37 @@
+ITEM NAME: Cat o' Nine Tails
+
+Classic Era (added 1999-2000)
+
+ Odbee <Riot>
+Cat o' Nine Tails
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 36
+DMG: 9 
+Effect:  Feet like Cat (Combat, Casting Time: Instant) at Level 20
+WT: 8.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Small AGI buff, Also acts as a Light Source 
+
+  Drops From 
+Kerra Isle
+
+ kerran tiger spahi
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Apprentice Skullcap - 2nd Rank
+
+Kunark Era (added 2000)
+Apprentice Skullcap - 2nd Rank
+
+
+LORE ITEM  NO DROP
+Slot: HEAD
+AC: 3
+WT: 0.6  Size: SMALL
+Class: NEC
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Skullcap Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

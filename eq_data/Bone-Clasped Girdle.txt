@@ -1,0 +1,36 @@
+ITEM NAME: Bone-Clasped Girdle
+
+Warrens Era (added spring 2001)
+
+Bone-Clasped Girdle
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 4
+STR: +7 DEX: +7 STA: +7 HP: +75 MANA: +75
+WT: 0.1  Size: SMALL
+Class: CLR DRU BRD SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ Dracoliche
+ Fright
+ Dread
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

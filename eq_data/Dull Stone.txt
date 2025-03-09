@@ -1,0 +1,37 @@
+ITEM NAME: Dull Stone
+
+Sky Era (added January 2000)
+
+
+
+Dull Stone
+
+
+LORE ITEM
+WT: 9.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+  A spiroc arbiter 
+  A spiroc banisher 
+  A spiroc caller 
+  The Spiroc Guardian 
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Wind
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

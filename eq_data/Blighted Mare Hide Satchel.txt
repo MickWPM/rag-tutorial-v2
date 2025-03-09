@@ -1,0 +1,27 @@
+ITEM NAME: Blighted Mare Hide Satchel
+
+Warrens Era (added spring 2001)
+Blighted Mare Hide Satchel
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Weight Reduction: 30%
+Capacity: 6  Size Capacity: MEDIUM
+
+
+reward for faydark corruption event quest. never implemented on blue 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Child of Innoruuk
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

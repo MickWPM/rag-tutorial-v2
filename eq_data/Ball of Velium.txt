@@ -1,0 +1,43 @@
+ITEM NAME: Ball of Velium
+
+Velious Era (added December 2000-2001)
+
+
+Ball of Velium
+
+
+MAGIC ITEM  NO DROP  
+Slot: RANGE
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+Effect:  Velium Shards (Must Equip, Casting Time: 7.0) at Level 40
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+The clicky effect is 12dd with a max range of "barely outside melee".
+Drop rate of crystal cavern spiders probably around 1%. 
+
+  Drops From 
+Crystal Caverns
+
+ a crystal spiderling
+ a crystal webmaster
+
+Velketor's Labyrinth
+
+ a crystalline hunter
+ a crystalline watcher
+ a velium hunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

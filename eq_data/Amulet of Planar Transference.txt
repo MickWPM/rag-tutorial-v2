@@ -1,0 +1,35 @@
+ITEM NAME: Amulet of Planar Transference
+
+Sky Era (added January 2000)
+
+
+Amulet of Planar Transference
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+Charges: 1
+AC: 2
+DEX: +5  CHA: +2  AGI: +5  MANA: +50
+Effect:  Alter Plane: Sky (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: TINY
+Class: WIZ
+Race: ALL
+
+
+Pre-upgrade version of Amulet of the Void? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Visualization
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

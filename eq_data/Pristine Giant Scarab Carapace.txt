@@ -1,0 +1,50 @@
+ITEM NAME: Pristine Giant Scarab Carapace
+
+
+Pristine Giant Scarab Carapace
+
+
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a giant scarab
+
+East Commonlands
+
+ a giant scarab
+
+The Estate of Unrest
+
+ a death beetle
+
+Misty Thicket
+
+ a giant scarab
+
+Northern Desert of Ro
+
+ a sand scarab
+
+Rathe Mountains
+
+ Ankhetperure
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scarab Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

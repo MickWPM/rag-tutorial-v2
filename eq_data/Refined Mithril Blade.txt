@@ -1,0 +1,35 @@
+ITEM NAME: Refined Mithril Blade
+
+Kunark Era (added 2000)
+
+
+Refined Mithril Blade
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 10 
+DEX: +5  HP: +10
+SV MAGIC: +5
+WT: 2.0  Size: MEDIUM
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

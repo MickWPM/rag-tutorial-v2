@@ -1,0 +1,43 @@
+ITEM NAME: Imbued Dwarven Chain Mail (Bristlebane)
+
+
+Imbued Dwarven Chain Mail
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 20
+DEX: +3  AGI: +4
+SV FIRE: +3
+WT: 8.5  Size: MEDIUM
+Class: WAR CLR PAL BRD ROG
+Race: HUM ELF DEF HEF DWF HFL GNM
+Deity: Bristlebane
+
+
+Part of the dwarven cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 155)
+ Yield: Imbued Dwarven Chain Mail x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  3 x Enchanted Brellium Rings - Crafted
+  1 x Imbued Peridot - Summoned
+  1 x Small Chainmail Tunic Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

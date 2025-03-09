@@ -1,0 +1,35 @@
+ITEM NAME: Barbed Armplates
+
+Classic Era (added 1999-2000)
+
+Barbed Armplates
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 7
+DEX: +2
+WT: 4.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Befallen
+
+ a shadowknight (Dark Elf Female)
+ a shadowknight (Ogre)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,54 @@
+ITEM NAME: Rhino Hide Collar
+
+Kunark Era (added 2000)
+
+
+Rhino Hide Collar
+
+
+Slot: NECK
+AC: 3
+WT: 0.5  Size: TINY
+Class: WAR SHD SHM
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Scaznar
+
+
+
+  (53, -133)
+
+
+ West Cabilis
+
+ Gryzil
+
+
+
+  (391, 515)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

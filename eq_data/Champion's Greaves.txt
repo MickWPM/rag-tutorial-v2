@@ -1,0 +1,32 @@
+ITEM NAME: Champion's Greaves
+
+Velious Era (added December 2000-2001)
+
+Champion's Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 34
+STR: +9  STA: +7
+SV MAGIC: +4
+WT: 8.5  Size: LARGE
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior's Velium Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Champion's Greaves, Velious Plate, Troll, Male
+

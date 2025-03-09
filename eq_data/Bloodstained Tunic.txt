@@ -1,0 +1,34 @@
+ITEM NAME: Bloodstained Tunic
+
+
+Bloodstained Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 13
+WIS: +4  AGI: +4
+WT: 6.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+ Merchant resale value: 5pp 
+
+  Drops From 
+The Estate of Unrest
+
+ an undead knight of Unrest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

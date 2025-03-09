@@ -1,0 +1,33 @@
+ITEM NAME: Corrupted Fauns Skin
+
+Velious Era (added December 2000-2001)
+
+
+Corrupted Fauns Skin
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ a corrupted faun
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Natures Defender Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

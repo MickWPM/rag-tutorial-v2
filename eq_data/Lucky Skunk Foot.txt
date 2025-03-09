@@ -1,0 +1,35 @@
+ITEM NAME: Lucky Skunk Foot
+
+Velious Era (added December 2000-2001)
+
+
+Lucky Skunk Foot
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  QUEST ITEM
+Slot: NECK
+AC: 5
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): It Magically Smells Like Fish 
+
+  Drops From 
+Plane of Mischief
+
+ Debbis the Fish
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

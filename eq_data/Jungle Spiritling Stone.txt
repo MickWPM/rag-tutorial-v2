@@ -1,0 +1,34 @@
+ITEM NAME: Jungle Spiritling Stone
+
+Stonebrunt Era (added summer 2001)
+
+
+Jungle Spiritling Stone
+
+
+MAGIC ITEM  QUEST ITEM  
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ A jungle spiritling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

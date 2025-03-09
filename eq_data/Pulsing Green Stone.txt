@@ -1,0 +1,34 @@
+ITEM NAME: Pulsing Green Stone
+
+Epic Quests Era (added Sept 2000)
+
+Pulsing Green Stone
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): 	Pulsing with a sickly light
+It is MQable. 
+
+  Drops From 
+Karnor's Castle
+
+ Venril Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+ Ranger Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

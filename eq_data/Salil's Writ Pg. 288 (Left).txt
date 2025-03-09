@@ -1,0 +1,45 @@
+ITEM NAME: Salil's Writ Pg. 288 (Left)
+
+Classic Era (added 1999-2000)
+Salil's Writ Pg. 288
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are two different items with this identical name: left and right. As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+ Merchant resale value: ~1p 
+
+  Drops From 
+Various Zones
+
+ Random drop from most level ~39 mobs
+
+City of Mist
+
+ greater plaguebone
+
+The Feerrott
+
+ a spectre
+
+Lower Guk
+
+ a dar ghoul knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Mind Wipe (Trivial: 142)
+
+
+
+
+

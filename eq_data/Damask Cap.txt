@@ -1,0 +1,38 @@
+ITEM NAME: Damask Cap
+
+
+Damask Cap
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 3
+WT: 0.3  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Damask Armor Set 
+
+  Drops From 
+Befallen
+
+ the thaumaturgist
+ a necro acolyte
+ a necro theurgist
+
+Najena
+
+ a magician
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

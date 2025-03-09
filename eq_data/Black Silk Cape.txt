@@ -1,0 +1,37 @@
+ITEM NAME: Black Silk Cape
+
+Sky Era (added January 2000)
+
+
+
+Black Silk Cape
+
+
+LORE ITEM  NO DROP
+Slot: BACK
+AC: 3
+MANA: +10
+WT: 0.0  Size: TINY
+Class: NEC
+Race: ALL
+
+
+ Item Lore (from Identify): Black Silk Cape 
+
+  Drops From 
+Plane of Sky
+
+ Keeper of Souls
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Plane of Sky Tests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

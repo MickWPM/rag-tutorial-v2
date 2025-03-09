@@ -1,0 +1,35 @@
+ITEM NAME: Copper Disc
+
+Sky Era (added January 2000)
+
+
+
+Copper Disc
+
+
+LORE ITEM
+WT: 8.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ an azarack
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of Bear
+ Shadowknight Test of Smash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

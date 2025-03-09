@@ -1,0 +1,35 @@
+ITEM NAME: Ebon Razor
+
+Kunark Era (added 2000)
+
+Ebon Razor
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 9 
+SV FIRE: +4  SV COLD: +4  SV MAGIC: +4
+WT: 3.5  Size: SMALL
+Class: WAR PAL SHD BRD ROG
+Race: ELF HIE DEF DWF HFL GNM
+
+
+This has the basic short sword model it is in fact NOT red. 
+
+  Drops From 
+Frontier Mountains
+
+ Eboneyes
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Tarnished Broad Sword
+
+Classic Era (added 1999-2000)
+
+
+Tarnished Broad Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 34
+DMG: 5 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 21)
+ Yield: Tarnished Broad Sword x1
+ In Forge:
+
+
+  1 x Rusty Broad Sword - Bought, Quested, Dropped
+  1 x Sharpening Stone - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

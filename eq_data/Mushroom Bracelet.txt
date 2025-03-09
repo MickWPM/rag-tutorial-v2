@@ -1,0 +1,45 @@
+ITEM NAME: Mushroom Bracelet
+
+Velious Era (added December 2000-2001)
+
+
+Mushroom Bracelet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 18
+STR: +6  AGI: +6
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 0.0  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+ Item Lore (from Identify): Big small in between 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Mushroom Bracelet x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Black Throne - Dropped
+  A Blue Throne - Dropped
+  A Blue Crown - Dropped
+  A Blue Knight - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

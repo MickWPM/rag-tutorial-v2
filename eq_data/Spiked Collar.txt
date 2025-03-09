@@ -1,0 +1,41 @@
+ITEM NAME: Spiked Collar
+
+
+Spiked Collar
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 3
+STR: +3
+WT: 0.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 1 Platinums
+ 1 Golds
+ 5 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Blackburrow
+
+ a gnoll commander
+ an elite gnoll guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

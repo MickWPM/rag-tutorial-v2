@@ -1,0 +1,33 @@
+ITEM NAME: Sage's Crown
+
+Velious Era (added December 2000-2001)
+
+Sage's Crown
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 6
+STA: +6  INT: +5  MANA: +35
+SV FIRE: +2  SV MAGIC: +7
+WT: 0.1  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+At some point in the timeline, it was mistakenly set as droppable.[1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard's Velium Cap
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

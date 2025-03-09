@@ -1,0 +1,36 @@
+ITEM NAME: Sebilite Scale Cap
+
+Kunark Era (added 2000)
+
+Sebilite Scale Cap
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 12
+STR: +4  WIS: +4  INT: +4
+SV MAGIC: +2  SV POISON: +2
+WT: 3.4  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ Froggy
+ froglok chef
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

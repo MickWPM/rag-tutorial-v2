@@ -1,0 +1,32 @@
+ITEM NAME: Crafted Pauldron
+
+
+Crafted Pauldron
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 12
+STR: +2
+SV MAGIC: +2
+WT: 4.5  Size: SMALL
+Class: WAR
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crafted Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

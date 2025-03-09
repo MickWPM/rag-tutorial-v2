@@ -1,0 +1,42 @@
+ITEM NAME: Purified Crystal Long Sword
+
+Chardok Revamp Era (added late 2001)
+
+Purified Crystal Long Sword
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 7 
+CHA: +4
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Purified Crystal Long Sword x1
+ In Kejek Forge:
+
+
+  1 x Crystallized Shadow Long Sword - Dropped
+  1 x Soulforge Hammer - Quested, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

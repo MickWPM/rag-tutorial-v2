@@ -1,0 +1,37 @@
+ITEM NAME: Old Silver Coin
+
+Classic Era (added 1999-2000)
+
+
+
+
+
+  MISSING INFO! Please expand the content.
+
+
+
+Old Silver Coin
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Several versions exist, scattered about the land, for some the Tome of Tesh. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coin of Tash (Tashania spell)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

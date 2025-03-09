@@ -1,0 +1,34 @@
+ITEM NAME: Sigil of the Calendar
+
+Kunark Era (added 2000)
+
+
+Sigil of the Calendar
+
+
+MAGIC ITEM  LORE ITEM NORENT
+Charges: 1
+Effect:  Color Skew (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is the key to the West Wing in HS. It is NO RENT. 
+
+  Drops From 
+Howling Stones
+
+ the Crypt Keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

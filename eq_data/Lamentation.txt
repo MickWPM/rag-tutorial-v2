@@ -1,0 +1,36 @@
+ITEM NAME: Lamentation
+
+Were you looking for Lamentation Blade?
+Kunark Era (added 2000)
+
+Lamentation
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 19
+DMG: 9 
+STR: +6  STA: +6  HP: +20
+WT: 0.6  Size: MEDIUM
+Class: WAR RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ sebilite guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

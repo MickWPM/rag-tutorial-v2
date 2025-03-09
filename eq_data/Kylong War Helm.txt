@@ -1,0 +1,36 @@
+ITEM NAME: Kylong War Helm
+
+Kunark Era (added 2000)
+
+Kylong War Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 12
+HP: +20  MANA: +20
+SV MAGIC: +7  SV POISON: +4
+WT: 3.4  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+ Merchant resale value: 30pp 
+
+  Drops From 
+Howling Stones
+
+ The Skeleton Sepulcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

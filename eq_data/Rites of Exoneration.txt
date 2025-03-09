@@ -1,0 +1,60 @@
+ITEM NAME: Rites of Exoneration
+
+Kunark Era (added 2000)
+
+
+Rites of Exoneration
+
+
+NO DROP
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Penance 
+
+  Book contents 
+Understand.....
+The will of Cazic Thule is strong.
+The route to Cazic Thule is through the strength of the Brood.
+The Brood is the living instrument of Cazic Thule.
+You have disgraced the Brood
+
+The soil at the glorious feet of Cazic Thule shall be fed with your ground bones and worthless flesh, lest you prove yourself during the period of your penance. The Rite of Exoneration.
+You will need several items to assist you in the completion of you penance.
+
+Contact the Toilmaster and ask for the Hammer of Exoneration.
+Carry this tool with you.
+It will teach you discipline, patience, and focus.
+It will strengthen your weak mind and weak will.
+
+Use it to shatter the bones of those that might oppose the Brood. It will return you to the grace of Cazic Thule.
+The Toilmaster will also give you the bag that you will need to complete your penance. You will need to ask him for it. Do not forget this step. Failure to follow directions is what brought
+
+you to this rite. Do not make the mistake of erring again.
+Seek out the Mortician and ask for a mortar and pestle.
+You will need to use these two tools to grind the bone fragments that you retrieve from our enemies. Fill the mortar completely and then grind the bones into a fine powder. You should praise
+
+the will of Cazic Thule while you grind the bones.
+Take the bone powder and place it into the Penance bag and praise the unerring will of Cazic Thule.
+As you fill the bag with bone powder, leave room for one flask's worth of blood water. This will keep
+
+the bone powder together and within the bag.
+Know the will of Cazic Thule and you will know the will of the Brood.
+Once the bag is completely full, lock the hasp on the bag and return it and this tome to the representative of your guild that sent you. They will decide the sincerity and strength of your will.
+
+Should you be allowed back into the mind of our Lord of Fear, you should praise the might of the Brood and the glorious will of Cazic Thule.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Boots of Deep Thought
+
+Velious Era (added December 2000-2001)
+Boots of Deep Thought
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 20
+STA: +15  INT: +15  HP: +65  MANA: +65
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Aura of Battle (Worn) 
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Second Arcane Test
+ Ruby Tear (from Dozekar the Cursed)
+ Black Tear (from Dozekar the Cursed)
+ Ruby Symbol (from Lepethida)
+ White Symbol (from Casalen or Tavekalem)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

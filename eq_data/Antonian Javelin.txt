@@ -1,0 +1,44 @@
+ITEM NAME: Antonian Javelin
+
+Velious Era (added December 2000-2001)
+
+Antonian Javelin
+
+
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 30
+DMG: 8
+WT: 1.5  Range: 250  Size: LARGE
+Class: WAR RNG MNK BRD ROG SHM
+Race: ALL
+
+
+Stackable like Forged Javelins. [1] costs about 23pp per stack to craft.
+Antonian Javelin CAN ONLY BE CRAFTED BY HUMANS! 
+Note: The Medium Quality Sheet Metal used to craft the Antonian Javelin can only be bought from a Merchant. The crafted Medium Quality Folded Sheet Metal that is listed on the blacksmithing page is not compatible with the Antonian Javelin combine and will not work.
+
+North Freeport - Trudie Steelbone (-34, 470)
+Steamfont Mountains - Godbin Strumharp (43, -618) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 112)
+ Yield: Antonian Javelin x4
+ In Royal Qeynos Forge:
+
+
+  1 x Javelin Mold - Bought
+  1 x Medium Quality Sheet Metal - Bought 
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

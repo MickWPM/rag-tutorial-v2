@@ -1,0 +1,75 @@
+ITEM NAME: Coldain Velium Rapier
+
+Velious Era (added December 2000-2001)
+
+Coldain Velium Rapier
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 6 
+Effect:  Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 46.8p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (60, 905)
+
+
+ Thurgadin
+
+ Jeril Kettletop
+
+
+
+  (-73, -482)
+
+
+ Thurgadin
+
+ Seril Kettletop
+
+
+
+  (-36, -495)
+
+
+ Thurgadin
+
+ Hakon Brightsteel
+
+
+
+  (-440, 78)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

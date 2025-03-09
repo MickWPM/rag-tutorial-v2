@@ -1,0 +1,36 @@
+ITEM NAME: Boots of the Righteous
+
+Warrens Era (added spring 2001)
+
+
+Boots of the Righteous
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 21
+STR: +3  WIS: +2
+WT: 6.0  Size: MEDIUM
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a hatebone drake
+ A Knight of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

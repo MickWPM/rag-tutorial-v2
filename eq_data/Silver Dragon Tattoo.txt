@@ -1,0 +1,36 @@
+ITEM NAME: Silver Dragon Tattoo
+
+Velious Era (added December 2000-2001)
+
+
+Silver Dragon Tattoo
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE SHOULDERS ARMS WRIST
+AC: 2
+STR: +4  WIS: +4
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Nojas Blackfist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sifaye Abominations (?)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

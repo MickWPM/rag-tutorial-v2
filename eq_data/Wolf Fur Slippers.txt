@@ -1,0 +1,34 @@
+ITEM NAME: Wolf Fur Slippers
+
+Classic Era (added 1999-2000)
+
+Wolf Fur Slippers
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 2
+AGI: +7  MANA: +20
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Vendors for about 47p. 
+
+  Drops From 
+Permafrost
+
+ a goblin scryer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

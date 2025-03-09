@@ -1,0 +1,44 @@
+ITEM NAME: Forest Barley
+
+
+
+Forest Barley
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Kithicor Forest
+
+ Clomen Walker
+
+
+
+  (1443, -840)
+
+  Related quests 
+ Brell Serilis Disciple
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

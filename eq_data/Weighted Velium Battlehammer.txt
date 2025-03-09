@@ -1,0 +1,31 @@
+ITEM NAME: Weighted Velium Battlehammer
+
+Velious Era (added December 2000-2001)
+
+Weighted Velium Battlehammer
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 22
+DMG: 11 
+WT: 3.5  Size: LARGE
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

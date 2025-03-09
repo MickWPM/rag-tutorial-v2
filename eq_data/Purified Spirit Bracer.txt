@@ -1,0 +1,39 @@
+ITEM NAME: Purified Spirit Bracer
+
+Chardok Revamp Era (added late 2001)
+Purified Spirit Bracer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 1
+STR: +1  DEX: +2  CHA: +1  MANA: +5
+WT: 0.1  Size: SMALL
+Class: ALL except SHD NEC WIZ MAG ENC
+Race: ALL except DEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Purified Spirit Bracer x1
+ In Kejek Forge:
+
+
+  1 x Crystallized Shadow Bracer - Dropped
+  1 x Soulforge Hammer - Quested, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

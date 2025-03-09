@@ -1,0 +1,40 @@
+ITEM NAME: Potion of the Bone Field
+
+Velious Era (added December 2000-2001)
+
+
+
+Potion of the Bone Field
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Field of Bone Port (Any Slot, Casting Time: 30.0)
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Teleports the user (self-only) to loc  -1961,+340  in Field of Bone. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 170)
+ Yield: Potion of the Bone Field x1
+ In Medicine Bag:
+
+
+  1 x Heliotrope - Bought
+  1 x Sandalwood - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

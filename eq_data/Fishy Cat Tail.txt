@@ -1,0 +1,32 @@
+ITEM NAME: Fishy Cat Tail
+
+
+
+Fishy Cat Tail
+
+
+NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kerra Island
+
+ a catfisher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Catfish Tail
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

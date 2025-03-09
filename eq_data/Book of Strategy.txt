@@ -1,0 +1,36 @@
+ITEM NAME: Book of Strategy
+
+Velious Era (added December 2000-2001)
+
+
+
+Book of Strategy
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE
+STR: +6  WIS: +6
+WT: 1.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Semkak Prophet of Vallon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Strategies of the Ancient Dragons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

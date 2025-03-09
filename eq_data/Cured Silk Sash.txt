@@ -1,0 +1,38 @@
+ITEM NAME: Cured Silk Sash
+
+Classic Era (added 1999-2000)
+
+Cured Silk Sash
+
+
+Slot: WAIST
+AC: 3
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+Part of the Cured Silk Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 82)
+ Yield: Cured Silk Sash x1
+ In Loom:
+
+
+  1 x Belt Pattern - Bought
+  2 x Heady Kiola - Crafted
+  1 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

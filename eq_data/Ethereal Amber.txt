@@ -1,0 +1,36 @@
+ITEM NAME: Ethereal Amber
+
+Sky Era (added January 2000)
+
+
+
+Ethereal Amber
+
+
+LORE ITEM
+WT: 15.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a gorgalask
+ a watchful guard
+ a spirited harpie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of Health
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

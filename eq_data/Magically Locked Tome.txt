@@ -1,0 +1,40 @@
+ITEM NAME: Magically Locked Tome
+
+Kunark Era (added 2000)
+
+
+Magically Locked Tome
+
+
+LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of Pain (#2)
+
+  Player crafted 
+ Non-Tradeskill
+ Yield: Stupendous Tome x1
+ In Tome Binder Dropped by froglok raider:
+
+
+  1 x Page of a Tome - Quested (No Drop & Lore)
+  8 x Page of a Tome - Dropped by froglok raider (Lore)
+  1 x Page of a Tome - Dropped by froglok raider (Non-Lore) 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,48 @@
+ITEM NAME: Morning Dew
+
+Classic Era (added 1999-2000)
+
+Morning Dew
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+See thread about p99 drops/foraging. 
+
+  Drops From 
+ a faerie guard
+ a faerie maiden
+ a faerie courtier
+ A Brownie Farmer
+ A Brownie
+
+This item can also be found as a "ground spawn" in Lesser Faydark. They look like small green leaves.
+One loc is (792,2457) ; (1460,2789) 
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Moonlight Temper (Trivial: 135)
+
+ Blacksmithing
+ Mithril Bits (Trivial: 43)
+ Various High Elf Cultural Recipes
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Lesser Faydark
+ Greater Faydark
+
+

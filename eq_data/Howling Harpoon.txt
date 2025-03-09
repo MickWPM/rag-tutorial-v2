@@ -1,0 +1,39 @@
+ITEM NAME: Howling Harpoon
+
+Kunark Era (added 2000)
+
+Howling Harpoon
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 35
+DMG: 13 
+WIS: +6  MANA: +40
+Effect:  Stun (Combat, Casting Time: Instant) at Level 40
+WT: 4.2  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+
+ Merchant resale value: 50pp 
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg sentry
+ spectral caller
+ Spectral Curate
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

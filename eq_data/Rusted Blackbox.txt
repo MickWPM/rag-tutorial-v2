@@ -1,0 +1,33 @@
+ITEM NAME: Rusted Blackbox
+
+Classic Era (added 1999-2000)
+
+
+Rusted Blackbox
+
+
+NO DROP
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Rogue Blackbox 
+
+  Drops From 
+Steamfont Mountains
+
+ rogue clockwork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rusted Black Boxes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

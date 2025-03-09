@@ -1,0 +1,37 @@
+ITEM NAME: Nature's Wrath
+
+Kunark Era (added 2000)
+
+Nature's Wrath
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 44
+DMG: 29 
+WIS: +4  MANA: +20
+Effect:  Nature's Wrath (Combat, Casting Time: Instant) at Level 46
+WT: 4.5  Size: LARGE
+Class: RNG
+Race: ALL
+
+
+Required Level 46 for Nature's Wrath (Spell) to process. 
+
+  Drops From 
+Karnor's Castle
+
+ caller of Sathir
+ Sentry of Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

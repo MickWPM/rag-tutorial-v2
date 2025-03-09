@@ -1,0 +1,36 @@
+ITEM NAME: Velium Focus
+
+Velious Era (added December 2000-2001)
+
+
+Velium Focus
+
+
+MAGIC ITEM LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Velium Focus From Normon
+ Item Lore (from Identify):  Altered Focus From Phenocryst
+ Item Lore (from Identify):  Velium Focus From a geonid
+This is one of 3 identical such items found in The Velium Focus Quest.
+From Normon Stonetooth
+From Phenocryst
+From a geonid 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Velium Focus
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

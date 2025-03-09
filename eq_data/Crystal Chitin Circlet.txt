@@ -1,0 +1,38 @@
+ITEM NAME: Crystal Chitin Circlet
+
+Velious Era (added December 2000-2001)
+
+
+
+Crystal Chitin Circlet
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 12
+STR: +3  WIS: +3  INT: +3
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ a blizzard hunter
+ a crystalline hunter
+ The Brood Master
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

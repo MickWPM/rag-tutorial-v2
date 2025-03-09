@@ -1,0 +1,39 @@
+ITEM NAME: Orange Flavored Cod
+
+
+
+Orange Flavored Cod
+
+
+SV DISEASE: +2 SV POISON: +1
+This is a hearty meal.
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: ?)
+ Yield: Orange Flavored Cod x2
+ In Oven:
+
+
+  1 x Cobalt Cod - Fished
+  1 x Jug of Oyster Sauces - Bought
+  1 x Kelp Garnish - Bought
+  1 x Emerald Orange - Foraged 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

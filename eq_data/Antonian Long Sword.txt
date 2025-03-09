@@ -1,0 +1,40 @@
+ITEM NAME: Antonian Long Sword
+
+
+Antonian Long Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 28
+DMG: 8 
+WT: 7.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: HUM BAR ERU HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 123)
+ Yield: Antonian Long Sword x1
+ In Royal Qeynos Forge:
+
+
+  1 x Folded Sheet Metal - Crafted
+  1 x Hilt Mold - Bought
+  1 x Long Blade Mold - Bought
+  1 x Pommel Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

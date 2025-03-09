@@ -1,0 +1,44 @@
+ITEM NAME: Frozen Mantle
+
+Velious Era (added December 2000-2001)
+
+
+
+Frozen Mantle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 6
+MANA: +10
+WT: 2.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a snow dervish
+
+Iceclad Ocean
+
+ a frost giant elite
+ a frost giant scout
+ a shadow guardian
+ a snow dervish
+ Pulsating Icestorm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

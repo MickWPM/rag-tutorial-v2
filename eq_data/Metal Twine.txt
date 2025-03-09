@@ -1,0 +1,54 @@
+ITEM NAME: Metal Twine
+
+
+
+Metal Twine
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Sold for 1pp 
+ Merchant resale value: 2gp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ The Overthere
+
+ Tin Merchant V
+
+
+
+  (2612, 2527)
+
+
+ Steamfont Mountains
+
+ Bom Knotwood
+
+
+
+  (175, -875)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Pottery
+
+
+
+

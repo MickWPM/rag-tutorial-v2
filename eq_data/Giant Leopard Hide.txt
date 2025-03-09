@@ -1,0 +1,31 @@
+ITEM NAME: Giant Leopard Hide
+
+Chardok Revamp Era (added late 2001)
+Giant Leopard Hide
+
+
+MAGIC ITEM  NO DROP
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ Prowler of the Jungle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Titan Samples (good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Ancient Pattern
+
+Epic Quests Era (added Sept 2000)
+Ancient Pattern
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Epic Quest
+ Ranger Epic Quest 
+
+  Book contents 
+
+ .........x..........w...............iea.......Pla......Sp......Powder....
+ Encha......lay.......
+ This........attern.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Runecrested Bowl (Trivial: No-Fail)
+
+
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Vambraces of Harmony
+
+Warrens Era (added spring 2001)
+ Full set of Armor of Harmony on Wood Elf Female (no head graphic).
+Vambraces of Harmony
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 8
+WIS: +3  MANA: +25
+WT: 1.5  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+Part of the Armor of Harmony set. 
+
+  Drops From 
+Plane of Hate
+
+ a Disciple of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

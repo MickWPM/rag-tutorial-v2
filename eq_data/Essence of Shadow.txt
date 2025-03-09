@@ -1,0 +1,49 @@
+ITEM NAME: Essence of Shadow
+
+
+Essence of Shadow
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ Ssynthi
+
+Commonlands
+
+ a shadowed man
+
+Lavastorm Mountains
+
+ a shadowed man
+
+Lesser Faydark
+
+ a shadowed man
+
+Nektulos Forest
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Shadow Temper (Trivial: 135)
+
+
+
+
+

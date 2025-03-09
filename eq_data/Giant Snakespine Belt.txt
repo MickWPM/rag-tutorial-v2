@@ -1,0 +1,39 @@
+ITEM NAME: Giant Snakespine Belt
+
+
+Giant Snakespine Belt
+
+
+MAGIC ITEM
+Slot: WAIST
+AC: 4
+AGI: +5
+SV POISON: +5
+WT: 3.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Timorous Deep
+
+ The Great Oowomp
+
+Western Plains of Karana
+
+ an ogre shaman
+ an ogre priestess
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

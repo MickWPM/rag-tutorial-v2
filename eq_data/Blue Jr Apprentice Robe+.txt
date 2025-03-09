@@ -1,0 +1,47 @@
+ITEM NAME: Blue Jr Apprentice Robe*
+
+Classic Era (added 1999-2000) 
+
+
+Blue Jr Apprentice Robe*
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 4
+MANA: +1
+WT: 0.7  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Harban Ranflash
+
+
+
+  (695, 883)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

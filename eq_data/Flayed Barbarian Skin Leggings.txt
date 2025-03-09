@@ -1,0 +1,35 @@
+ITEM NAME: Flayed Barbarian Skin Leggings
+
+Velious Era (added December 2000-2001)
+
+ The Monk Pants
+Flayed Barbarian Skin Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 60
+STR: +10  DEX: +10  STA: +10  AGI: +10  HP: +100
+WT: 0.0  Size: TINY
+Class: MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ The Avatar of War
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

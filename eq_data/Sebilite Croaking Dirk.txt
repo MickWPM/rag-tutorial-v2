@@ -1,0 +1,36 @@
+ITEM NAME: Sebilite Croaking Dirk
+
+Kunark Era (added 2000)
+
+Sebilite Croaking Dirk
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 10   AC: 4
+CHA: +2  AGI: +2
+SV MAGIC: +5  SV POISON: +5
+WT: 3.2  Size: MEDIUM
+Class: WAR BRD ROG
+Race: ALL
+
+
+This vogue Kunark dagger still holds up well in Velious for mid-range melees who can use it. 
+
+  Drops From 
+Old Sebilis
+
+ sebilite juggernaut
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

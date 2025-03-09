@@ -1,0 +1,39 @@
+ITEM NAME: Large Reinforced Belt
+
+Classic Era (added 1999-2000)
+
+
+Large Reinforced Belt
+
+
+Slot: WAIST
+AC: 5
+WT: 1.3  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+Part of the Reinforced Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 108)
+ Yield: Large Reinforced Belt x1
+ In Loom or Sewing Kit:
+
+
+  1 x High Quality Bear Skin - Dropped
+  2 x Steel Boning - Crafted
+  1 x Belt Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

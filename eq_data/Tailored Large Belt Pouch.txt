@@ -1,0 +1,33 @@
+ITEM NAME: Tailored Large Belt Pouch
+
+
+Tailored Large Belt Pouch
+
+
+WT: 0.6  Weight Reduction: 10%
+Capacity: 6  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 36)
+ Yield: Tailored Large Belt Pouch x1
+ In Loom:
+
+
+  1 x Low Quality Cat Pelt - Crafted, Dropped
+  1 x Silk Cord - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

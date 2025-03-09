@@ -1,0 +1,33 @@
+ITEM NAME: Runed Wind Amulet
+
+Sky Era (added January 2000)
+
+
+Runed Wind Amulet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 6
+STR: +7  AGI: +7  HP: +40
+WT: 0.1  Size: TINY
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Strength
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

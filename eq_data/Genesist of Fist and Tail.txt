@@ -1,0 +1,46 @@
+ITEM NAME: Genesist of Fist and Tail
+
+Kunark Era (added 2000)
+
+
+Genesist of Fist and Tail
+
+
+LORE ITEM NO RENT
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+
+
+ East Cabilis
+
+ the Court Chronicler
+
+
+
+  (351, 48)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Unknown
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

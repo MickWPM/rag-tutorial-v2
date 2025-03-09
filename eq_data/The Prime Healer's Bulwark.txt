@@ -1,0 +1,34 @@
+ITEM NAME: The Prime Healer's Bulwark
+
+GM Event item (info)
+
+
+The Prime Healer's Bulwark
+
+
+MAGIC ITEM  LORE ITEM  ARTIFACT  NO TRADE
+Slot: CHEST
+AC: 45
+STR: +25 STA: +45 HP: +125
+SV DISEASE: +25  SV POISON: +25
+Effect:  Prime Healers Blessing (Worn)
+WT: 0.1  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Dropped at a GM event (Cleansing of the Karana's) only. [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,72 @@
+ITEM NAME: Rune of The Combine
+
+
+Rune of the Combine
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a dark sacrificer
+ a deathly herald
+ a deathly usher
+ a ghoulish ancille
+ a hemo enologist
+ a jeering gargoyle
+ a shadowy scribe
+ a thought spoiler
+
+City of Mist
+
+ a phantom
+
+Crystal Caverns
+
+ a stalag terror
+
+Dreadlands
+
+ a drolvarg rager
+
+The Estate of Unrest
+
+ a dark terror
+
+Firiona Vie
+
+ a drachnid silklurker
+
+Karnor's Castle
+
+ a drolvarg sentry
+
+Rathe Mountains
+
+ a cyclops
+
+The Hole
+
+ an elemental warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Tox Portal (Trivial: 95)
+ Common Portal (Trivial: 140)
+
+
+
+
+

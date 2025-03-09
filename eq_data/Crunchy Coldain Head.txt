@@ -1,0 +1,45 @@
+ITEM NAME: Crunchy Coldain Head
+
+Velious Era (added December 2000-2001)
+
+
+Crunchy Coldain Head
+
+
+NO TRADE
+This is a hearty meal.
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Kael Drakkel
+
+ Bjorak Stonefist
+
+
+
+  (933, 1149), in Arena stands
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

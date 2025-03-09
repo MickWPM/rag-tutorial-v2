@@ -1,0 +1,35 @@
+ITEM NAME: Water Sprinkler of Nem Ankh
+
+Epic Quests Era (added Sept 2000)
+
+Water Sprinkler of Nem Ankh
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 32
+DMG: 20 
+STA: +10  CHA: +15  WIS: +25  MANA: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect:  Reviviscence (Must Equip, Casting Time: 10.0) at Level 50
+WT: 8.0  Size: MEDIUM
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+ Item Lore (from Identify): Water Sprinkler of Nem Ankh.The right-click effect is the Level 56 Cleric resurrection, which restores 96% experience. Invaluable for raids. Quest can be completed at any level but isn't equippable until level 46. Right click effect is usable at level 50. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

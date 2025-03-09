@@ -1,0 +1,35 @@
+ITEM NAME: Otterhide Tunic
+
+Velious Era (added December 2000-2001)
+
+ 
+Otterhide Tunic
+
+
+MAGIC ITEM
+Slot: Chest
+AC: 16
+HP: +5
+WT: 3.0  Size: Medium
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: HUM BAR ERU ELF HIE DEF HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ Snowfang spearguard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

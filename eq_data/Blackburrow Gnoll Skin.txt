@@ -1,0 +1,36 @@
+ITEM NAME: Blackburrow Gnoll Skin
+
+
+Blackburrow Gnoll Skin
+
+
+WT: 4.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a gnoll brewer
+ a gnoll commander
+ a gnoll tactician
+ an elite gnoll guard
+ Splitpaw Commander
+ the gnoll high shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Orange Headband
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

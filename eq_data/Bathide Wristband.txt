@@ -1,0 +1,36 @@
+ITEM NAME: Bathide Wristband
+
+Classic Era (added 1999-2000)
+
+Bathide Wristband
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 1
+INT: +2  MANA: +2
+SV DISEASE: -1
+WT: 0.5  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+The Warrens
+
+ a mischievious batling
+ a batling spiritchanneler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

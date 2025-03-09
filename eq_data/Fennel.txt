@@ -1,0 +1,81 @@
+ITEM NAME: Fennel
+
+
+
+Fennel
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Sold by merchants for 3.6pp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Jaxxtz
+
+
+
+  (-41, 513)
+
+
+ Grobb
+
+ Grabah
+
+
+
+  (413, -418)
+
+
+ Halas
+
+ Spirita
+
+
+
+  (348, 343)
+
+
+ Oggok
+
+ Garakbar
+
+
+
+  (281, -364)
+
+
+ Thurgadin
+
+ Brynjar
+
+
+
+  (-302, 133)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+ Baking
+ Brewing
+
+
+
+

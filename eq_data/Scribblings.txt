@@ -1,0 +1,33 @@
+ITEM NAME: Scribblings
+
+Kunark Era (added 2000)
+
+
+Scribblings
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Sorcerer Scribblings 
+
+  Drops From 
+Firiona Vie
+
+ a pilgrim
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Entalon's Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

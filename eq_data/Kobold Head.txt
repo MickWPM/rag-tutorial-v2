@@ -1,0 +1,34 @@
+ITEM NAME: Kobold Head
+
+Warrens Era (added spring 2001)
+
+
+Kobold Head
+
+
+NO DROP
+WT: 7.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Later in the timeline, other Heads existed, but for Classic, only the Stonebrunt Kobold head exists.
+ Item Lore (from Identify): Head of Rognarog the Infuriated 
+
+  Drops From 
+Stonebrunt Mountains
+
+ Rognarog the Infuriated
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rognarog's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

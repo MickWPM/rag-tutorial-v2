@@ -1,0 +1,33 @@
+ITEM NAME: Chipped Black Sapphire
+
+Velious Era (added December 2000-2001)
+
+Chipped Black Sapphire
+
+
+MAGIC ITEM
+HP: +10  MANA: +10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 172pp+ to vendor.
+Crystal Caverns
+
+ a focus gem
+ a gem collector 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

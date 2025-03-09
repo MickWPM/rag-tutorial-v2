@@ -1,0 +1,29 @@
+ITEM NAME: Tattered Leather Pouch
+
+Classic Era (added 1999-2000)
+
+
+Tattered Leather Pouch
+
+
+QUEST ITEM
+WT: 0.4  Weight Reduction: 0%
+Capacity: 2  Size Capacity: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Tattered Pouch
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

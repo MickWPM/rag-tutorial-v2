@@ -1,0 +1,34 @@
+ITEM NAME: Nature Walker's Chestguard
+
+Velious Era (added December 2000-2001)
+
+Nature Walker's Chestguard
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 27
+STR: +5  DEX: +5  WIS: +15  HP: +40  MANA: +80
+SV FIRE: +3  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +10  SV POISON: +3
+Effect:  Regrowth of the Grove (Must Equip, Casting Time: 9.0) at Level 50
+WT: 3.5  Size: LARGE
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+Confirmed not clickable until lvl 50 09/17/22 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Kael Tunic
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

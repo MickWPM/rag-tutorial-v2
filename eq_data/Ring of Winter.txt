@@ -1,0 +1,37 @@
+ITEM NAME: Ring of Winter
+
+Velious Era (added December 2000-2001)
+
+
+
+Ring of Winter
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+AC: 3
+WIS: +5  INT: +5  HP: +55  MANA: +25
+SV MAGIC: +5
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Frostreaver's Insignia Ring 
+
+  Drops From 
+Icewell Keep
+
+ Dain Frostreaver IV
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

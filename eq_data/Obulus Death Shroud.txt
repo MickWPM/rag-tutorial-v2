@@ -1,0 +1,36 @@
+ITEM NAME: Obulus Death Shroud
+
+Kunark Era (added 2000)
+
+Obulus Death Shroud
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 10
+STR: +3  STA: +5  WIS: +3  MANA: +25
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ froglok bok wizard
+ froglok dar knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

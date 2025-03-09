@@ -1,0 +1,43 @@
+ITEM NAME: Lock of Siren Hair
+
+Velious Era (added December 2000-2001)
+
+
+
+Lock of Siren Hair
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+No use on P99? 
+ Merchant resale value: 4 gold 
+
+  Drops From 
+Cobalt Scar
+
+ a siren enticer
+ a siren priestess
+
+Siren's Grotto
+
+ a siren beguiler
+ a siren enchantress
+ a siren enticer
+ a siren myrmidon
+ a siren templar
+ Mistress Latazura
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

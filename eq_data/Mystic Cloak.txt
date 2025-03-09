@@ -1,0 +1,35 @@
+ITEM NAME: Mystic Cloak
+
+Classic Era (added 1999-2000)
+
+Mystic Cloak
+
+
+LORE ITEM  NO DROP
+Slot: BACK
+Charges: 10
+AC: 8
+INT: +5
+SV MAGIC: +5
+Effect:  Steelskin (Any Slot, Casting Time: Instant)
+WT: 0.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Confirmed this is inventory-clickable.  Not rechargeable.  Does not consume jasper. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Mystic Cloak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

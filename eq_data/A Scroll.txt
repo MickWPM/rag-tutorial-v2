@@ -1,0 +1,30 @@
+ITEM NAME: A Scroll
+
+Kunark Era (added 2000)
+
+
+A Scroll
+
+
+The Note is rolled up.
+LORE ITEM  NO TRADE TEMPORARY
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a sarnak adherent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

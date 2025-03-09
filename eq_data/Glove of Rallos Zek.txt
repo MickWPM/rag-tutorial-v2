@@ -1,0 +1,57 @@
+ITEM NAME: Glove of Rallos Zek
+
+
+Glove of Rallos Zek
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 4 Golds
+ 8 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Lake of Ill Omen
+
+A sarnak recruit
+
+Ocean of Tears
+
+An isle goblin
+
+West Karana
+
+Ulrich McMannus
+
+Everfrost
+
+a wooly mammoth
+
+Timorous Deep
+
+a golra
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Summoning: Earth (Trivial: 62)
+ Greater Summoning: Earth (Trivial: 82)
+ Lesser Conjuration: Earth (Trivial: 122)
+
+
+
+
+

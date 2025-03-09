@@ -1,0 +1,31 @@
+ITEM NAME: Curscale Tunic
+
+Kunark Era (added 2000)
+
+Curscale Tunic
+
+
+Slot: CHEST
+AC: 5
+SV FIRE: +3
+WT: 1.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Curscale Armor Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

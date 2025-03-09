@@ -1,0 +1,30 @@
+ITEM NAME: Key to Charasis
+
+Kunark Era (added 2000)
+
+Key to Charasis
+
+
+NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Small Stone Key This key allows (self-only) access to Howling Stones. It is soulbound (appears in your inventory after death).
+Not soulbound until ~July 2000 [1] 1 month into  Hole  Era 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Key to Charasis Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

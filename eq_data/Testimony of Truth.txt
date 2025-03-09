@@ -1,0 +1,37 @@
+ITEM NAME: Testimony of Truth
+
+Classic Era (added 1999-2000)
+Were you looking for Testimony?
+
+
+Testimony of Truth
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.0  Size: TINY
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+West Freeport
+
+ Sir Lucan D`Lere (undead)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Zimel's Blades (SoulFire) 
+
+  Book contents 
+TESTIMONY TRUTH
+I believe in the might of Mithaniel Marr. I shall uphold the words of Marr and defend them with my life. I shall protect the righteous weak and avenge the souls of those whose life has been taken for naught. From this day forth I shall become a living vessel for the ideals of the Truthbringer and if I should ever falter from his grace may he cast me from this life and into the lifeless void.
+PRAISE BE TO MARR
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

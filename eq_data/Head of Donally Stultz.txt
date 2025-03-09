@@ -1,0 +1,33 @@
+ITEM NAME: Head of Donally Stultz
+
+Classic Era (added 1999-2000)
+
+
+Head of Donally Stultz
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+South Qeynos
+
+ Donally Stultz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Investigator's Badge (Badge #1)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

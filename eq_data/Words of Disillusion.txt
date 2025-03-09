@@ -1,0 +1,37 @@
+ITEM NAME: Words of Disillusion
+
+Classic Era (added 1999-2000)
+
+
+Words of Disillusionment
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: Words of Disillusionment does not exhist the proper words are "Words of Disilussion" 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Research (Trivial: 140)
+ Yield: Spell: Nullify Magic x1
+ In Book of Dark Bindings:
+
+
+  1 x Words of Descrying - Dropped
+  1 x Words of Seizure - Dropped
+  1 x Words of Disillusion - Dropped
+
+
+
+
+

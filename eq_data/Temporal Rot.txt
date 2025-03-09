@@ -1,0 +1,41 @@
+ITEM NAME: Temporal Rot
+
+Classic Era (added 1999-2000)
+
+
+Temporal Rot
+
+
+QUEST ITEM
+Effect: Liquid Silver III (Combat, Casting Time: Instant) at Level 30
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 258)
+ Yield: Temporal Rot x1
+ In Mortar and Pestle:
+
+
+  1 x Embalming Dust - Dropped
+  1 x King's Thorn - Bought
+  1 x Larent Suspension - Bought
+  1 x Sealed Poison Vial - Crafted, Bought, Returned on Failure
+  1 x Wood Rose - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Barracuda Tooth
+
+Kunark Era (added 2000)
+
+
+Barracuda Tooth
+
+
+NO DROP
+WT: 0.3  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+East Cabilis
+
+ a pygmy barracuda
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Restraining Order
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

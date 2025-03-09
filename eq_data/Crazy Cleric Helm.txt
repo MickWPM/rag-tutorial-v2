@@ -1,0 +1,36 @@
+ITEM NAME: Crazy Cleric Helm
+
+Velious Era (added December 2000-2001)
+
+
+Crazy Cleric Helm
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 35
+CHA: +10  WIS: +10  HP: +20  MANA: +25
+SV FIRE: +5  SV COLD: +5
+Effect:  Ultravision (Worn, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: CLR
+Race: ALL except BAR HEF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ Non-Tradeskill (Trivial: ?) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

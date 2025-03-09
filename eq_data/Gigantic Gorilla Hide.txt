@@ -1,0 +1,31 @@
+ITEM NAME: Gigantic Gorilla Hide
+
+Chardok Revamp Era (added late 2001)
+Gigantic Gorilla Hide
+
+
+MAGIC ITEM  NO DROP
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ Old Ghostback
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Titan Samples (good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

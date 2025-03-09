@@ -1,0 +1,33 @@
+ITEM NAME: Gavel of Justice
+
+Classic Era (added 1999-2000)
+
+Gavel of Justice
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 34
+DMG: 5 
+MANA: +5
+WT: 7.5  Size: MEDIUM
+Class: SHM
+Race: ALL
+
+
+Also functions as a light source. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Goblin Caster Necklace
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

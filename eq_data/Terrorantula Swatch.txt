@@ -1,0 +1,34 @@
+ITEM NAME: Terrorantula Swatch
+
+
+
+Terrorantula Swatch
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used for erudite cultural tailoring. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Terrorantula Swatch x1
+ In Erudite Sewing Kit:
+
+
+  2 x Terrorantula Silk - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

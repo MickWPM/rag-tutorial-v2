@@ -1,0 +1,47 @@
+ITEM NAME: Wax Candle
+
+Classic Era (added 1999-2000)Were you looking for Everburn Candle Quest?
+
+Same graphic as a torch
+
+
+Wax Candle
+
+
+NO DROP  
+Slot: SECONDARY
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Halas
+
+ Dok
+
+
+
+  (212, 275)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

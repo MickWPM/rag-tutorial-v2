@@ -1,0 +1,34 @@
+ITEM NAME: Withered Leather Gorget
+
+
+Withered Leather Gorget
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 4
+WIS: +3  MANA: +5
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 0.5  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL except DWF HFL GNM
+
+
+ Item Lore (from Identify):  Withered Leather GorgetPart of the Withered Leather Armor Set 
+
+  Drops From 
+The Hole
+
+ Ulrik the Devout
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

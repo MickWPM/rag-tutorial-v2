@@ -1,0 +1,126 @@
+ITEM NAME: Part of Tasarin's Grimoire Pg. 375 (Left)
+
+
+
+Part of Tasarin's Grimoire Pg. 375
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 5 Golds
+ 5 Silvers
+ 2 Coppers
+ 
+  Drops From 
+The drop tables below are pulled from EQEMU, so there may be discrepancies, please update as you find issues.
+Eastern Plains of Karana
+
+ a crag spider
+ Chief Sanre`Rexsa
+
+Estate of Unrest
+
+ a carrion ghoul
+ a dry bone skeleton
+ a lurking mummy
+
+Gorge of King Xorbb
+
+ a chasm minotaur
+ Lord Syrkl
+
+Kerra Island
+
+ a kerran amira priestess
+ a kerran mujahed
+ kerran tiger spahi
+
+Kurn's Tower
+
+ lesser charbone skeleton
+
+Lake of Ill Omen
+
+ war boned skeleton
+
+Mistmoore Castle
+
+ a pledge familiar
+ an initiate familiar
+
+Najena
+
+ a froglok ghoul
+ a magician
+ an injured halfling
+ Moosh
+
+Ocean of Tears
+
+ a gargoyle
+ Captain Surestout
+
+Permafrost Caverns
+
+ a dire wolf
+ a goblin evoker
+ a goblin priest
+ an ice goblin
+
+Runnyeye
+
+ a Pickclaw Foeslicer
+
+Solusek's Eye
+
+ cinder goblin
+ young goblin
+ young goblin shaman
+
+Southern Plains of Karana
+
+ a bull elephant
+ aviak rook
+ centaur archer
+
+Swamp of No Hope
+
+ froglok gaz knight
+ froglok ton shaman
+
+Upper Guk
+
+ a froglok shin shaman
+ a froglok ton warrior
+
+The Warrens
+
+ High Shaman Drogik
+
+Warsliks Woods
+
+ a goblin agressor
+ a goblin warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Endure Magic (Trivial: 42)
+
+
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Jewel of Ganak
+
+Kunark Era (added 2000)
+
+
+Jewel of Ganak
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ Red Eye Jack
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 7th Rank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

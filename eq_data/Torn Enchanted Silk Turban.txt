@@ -1,0 +1,106 @@
+ITEM NAME: Torn Enchanted Silk Turban
+
+Velious Era (added December 2000-2001)
+
+
+
+Torn Enchanted Silk Turban
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+WT: 1.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a guardian of Zek
+ Adjutant Brunkin
+ Adjutant Cryyrn
+ Adjutant Daggeruk
+ Adjutant Derkan
+ Adjutant Droggren
+ Adjutant Frinevrn
+ Adjutant Frinvan
+ Adjutant Hekrandor
+ Adjutant Hoggren
+ Adjutant Jharll
+ Adjutant Khellendor
+ Adjutant Stormkeeper
+ Adjutant Strongaxe
+ Adjutant Thyek
+ Adjutant Velsharek
+ Armor of Zek
+ Legionnaire Alveyrem
+ Legionnaire Blizzardwalker
+ Legionnaire Byltor
+ Legionnaire Evbarjor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Whiteaxe
+ Legionnaire Yervin
+ Legionnaire Yvedrn
+ Sentinel Brajnor
+ Sentinel Bvellor
+ Sentinel Demek
+ Sentinel Drakeslayer
+ Sentinel Fleshflayer
+ Sentinel Harzok
+ Sentinel Stonetrader
+ Sentinel Sunderdrake
+ Sentinel Thunderfist
+ Sentinel Thurdiel
+ Sentinel Veldrendyr
+ Sentinel Vellharn
+ Sentinel Weldren
+ Sentinel Yeljorn
+ Trooper Bargrik
+ Trooper Coldstone
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Mykeor
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+ Veteran Eiyloren
+ Veteran Icecaller
+ Veteran Kltrem
+ Veteran Mjrlind
+ Veteran Skeldek
+ Veteran Surlren
+ Veteran Yllhaydm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Thurgadin Armor Quests
+ Wizard Thurgadin Armor Quests
+ Magician Thurgadin Armor Quests
+ Necromancer Thurgadin Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

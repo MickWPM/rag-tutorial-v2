@@ -1,0 +1,41 @@
+ITEM NAME: Incarnadine Breastplate
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Incarnadine Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 35
+STR: +15  DEX: +15  INT: +5  HP: +25
+Effect:  Gather Shadows (Must Equip, Casting Time: 8.0) at Level 50
+WT: 7.0  Size: MEDIUM
+Class: WAR SHD
+Race: HUM BAR ERU ELF HIE DEF
+HEF DWF TRL OGR HFL GNM
+
+
+Part of the Incarnadine Armor set. Changed from "Must Equip" to inventory clickable on 2/13/13 patch.
+Nerfed back to "Must Equip" a few months into Velious. 
+
+  Drops From 
+Chardok
+
+ Overking Bathezid
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ Fashion
+
+
+

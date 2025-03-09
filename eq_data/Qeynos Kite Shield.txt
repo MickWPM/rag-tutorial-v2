@@ -1,0 +1,57 @@
+ITEM NAME: Qeynos Kite Shield
+
+
+Qeynos Kite Shield
+
+
+Slot: SECONDARY
+AC: 8
+WT: 10.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Vendors for about 2pp 
+
+  Drops From 
+Eastern Plains of Karana
+
+ Guard Mercyl
+ Guard Miranda
+ Guard Philip
+
+Northern Karana
+
+ Guard Bartley
+ Guard Fredrick
+ Guard Shilster
+ Guard Stanard
+
+North Qeynos
+
+ Corporal Lancot
+ Guard Gehnus
+ Guard Hezlan
+ Kane Bayle
+
+Qeynos Hills
+
+ Guard Nash
+
+Western Plains of Karana
+
+ Guard Justyn
+ Guard Kilson
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Darkforge Vambraces
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

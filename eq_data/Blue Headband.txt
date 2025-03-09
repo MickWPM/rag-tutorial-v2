@@ -1,0 +1,32 @@
+ITEM NAME: Blue Headband
+
+
+
+Blue Headband
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 1
+STR: +1  DEX: +2  STA: +3  CHA: +3  AGI: +2  HP: +3
+WT: 0.0  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Blue Headband
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

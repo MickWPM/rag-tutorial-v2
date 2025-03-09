@@ -1,0 +1,33 @@
+ITEM NAME: An Outlander's Head
+
+Kunark Era (added 2000)
+
+
+An Outlander's Head
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Head of Kwinn the Hunter 
+
+  Drops From 
+Firiona Vie
+
+ Kwinn the Outlander
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Copper
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

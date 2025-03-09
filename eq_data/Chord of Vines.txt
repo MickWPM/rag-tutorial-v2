@@ -1,0 +1,35 @@
+ITEM NAME: Chord of Vines
+
+Velious Era (added December 2000-2001)
+
+
+Chord of Vines
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 8
+STA: +5  INT: +10  MANA: +40
+SV FIRE: +10  SV COLD: +10  SV MAGIC: +5
+WT: 1.0  Size: SMALL
+Class: MAG
+Race: HIE
+Deity: Tunare
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Tome
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

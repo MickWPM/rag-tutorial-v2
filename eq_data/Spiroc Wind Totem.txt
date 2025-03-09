@@ -1,0 +1,40 @@
+ITEM NAME: Spiroc Wind Totem
+
+Sky Era (added January 2000)
+
+
+
+Spiroc Wind Totem
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a spiroc arbiter
+ a spiroc banisher
+ a spiroc caller
+ a spiroc expulser
+ a spiroc revolter
+ a spiroc vanquisher
+ a spiroc walker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Think
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

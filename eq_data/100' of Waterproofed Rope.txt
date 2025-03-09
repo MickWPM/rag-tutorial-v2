@@ -1,0 +1,31 @@
+ITEM NAME: 100' of Waterproofed Rope
+
+Velious Era (added December 2000-2001)
+100' of Waterproofed Rope
+
+
+LORE ITEM  NO DROP
+WT: 6.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a haunted seachest
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Pirate Ship
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,55 @@
+ITEM NAME: Honey Berry
+
+
+
+Honey Berry
+
+
+QUEST ITEM
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Dreadlands
+
+ a drolvarg gnasher
+ a drolvarg rager
+ a drolvarg snarler
+ a mountain giant brae
+ a petrifier cockatrice
+ a ravishing drolvarg
+
+Firiona Vie
+
+ a drolvarg snarler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Dreadlands
+ Frontier Mountains
+ Firiona Vie
+
+

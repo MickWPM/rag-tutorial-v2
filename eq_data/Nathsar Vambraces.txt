@@ -1,0 +1,35 @@
+ITEM NAME: Nathsar Vambraces
+
+Kunark Era (added 2000)
+
+Nathsar Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 8
+DEX: +4  WIS: +4  AGI: +4
+SV DISEASE: +2  SV COLD: +2
+WT: 0.9  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Watch Sergeant Riz`oul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

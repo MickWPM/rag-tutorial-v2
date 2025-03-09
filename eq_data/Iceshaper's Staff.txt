@@ -1,0 +1,36 @@
+ITEM NAME: Iceshaper's Staff
+
+Velious Era (added December 2000-2001)
+
+Iceshaper's Staff
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 7 
+STR: +3  WIS: +5  MANA: +30
+SV COLD: +8
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+This staff is very rare and has a semi unique look  - matching the Di`zok Escape Staff but useable by All / All. Fashion Quest! 
+
+  Drops From 
+Kael Drakkel
+
+ Nojas Blackfist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

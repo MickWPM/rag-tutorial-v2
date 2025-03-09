@@ -1,0 +1,31 @@
+ITEM NAME: Golden Crescent Key
+
+
+Golden Crescent Key
+
+
+MAGIC ITEM  TEMPORARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Drops off of Drelzna from both of her spawns in the zone. The Golden Crescent key opens the door on the other side of the underwater passage in the lake with the Froglok Ghoul. 
+
+  Drops From 
+Najena
+
+ Drelzna
+ Najena
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

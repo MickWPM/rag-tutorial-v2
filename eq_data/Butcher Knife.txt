@@ -1,0 +1,34 @@
+ITEM NAME: Butcher Knife
+
+
+
+Butcher Knife
+
+
+LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 24
+DMG: 3 
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+ Item Lore' (from Identify):  'Killer's Knife 
+
+  Drops From 
+Steamfont Mountains
+
+ Feddi Dooger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

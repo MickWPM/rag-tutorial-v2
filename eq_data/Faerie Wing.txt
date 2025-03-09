@@ -1,0 +1,47 @@
+ITEM NAME: Faerie Wing
+
+
+Faerie Wing
+
+
+QUEST ITEM
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Greater Faydark
+
+ a faerie courtier
+ a faerie duchess
+ a faerie guard
+ a faerie maiden
+ a faerie noble
+ a faerie royal guard
+
+Lesser Faydark
+
+ a faerie
+ a faerie courtier
+ a faerie guard
+ a faerie maiden
+ a faerie noble
+ a fairy guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Expert Rune (Azia) (Trivial: 142)
+
+
+
+
+

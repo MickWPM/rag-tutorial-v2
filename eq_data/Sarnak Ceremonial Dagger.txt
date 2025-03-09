@@ -1,0 +1,56 @@
+ITEM NAME: Sarnak Ceremonial Dagger
+
+Kunark Era (added 2000)
+
+Sarnak Ceremonial Dagger
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 38
+DMG: 6 
+WIS: +3  INT: +3
+WT: 1.2  Size: TINY
+Class: BRD ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Merchant resale value: 6p 2g 0s 0c 
+
+  Drops From 
+Burning Woods
+
+ a sarnak extremist
+ a sarnak zealot
+
+Crypt of Dalnir
+
+ a kly invoker
+ a kly acolyte
+
+Frontier Mountains
+
+ a Sarnak enthusiast
+
+Lake of Ill Omen
+
+ a Sarnak gem oracle
+ a Sarnak recruit
+ a sarnak adherent
+
+The Overthere
+
+ a Sarnak enthusiast
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

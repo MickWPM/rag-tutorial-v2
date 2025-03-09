@@ -1,0 +1,44 @@
+ITEM NAME: Teir`Dal Adamantite Collar
+
+Were you looking for Teir`Dal Adamantite Collar (Enchanted)?
+Were you looking for Teir`Dal Adamantite Collar (Imbued)?
+
+Teir`Dal Adamantite Collar
+
+
+Slot: NECK
+AC: 8
+WT: 2.1  Size: SMALL
+Class: WAR CLR SHD BRD
+Race: DEF HEF
+
+
+Part of the dark elf cultural smithing armor sets.
+Prices on this page are not accurate. All 3 versions share the same name, thus prices are intermixed.
+Note: Alla recipe incorrectly replaces Mold with "Field Supplies". 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 190)
+ Yield: Teir`Dal Adamantite Collar x1
+ In Teir`Dal Forge:
+
+
+  1 x Adamantite Chain Jointing - Crafted
+  1 x Folded Sheet of Adamantite - Crafted
+  1 x Leather Padding - Crafted
+  1 x Shadow Temper - Crafted
+  1 x Small Plate Gorget Mold - Bought
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

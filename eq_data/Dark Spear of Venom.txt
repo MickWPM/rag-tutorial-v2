@@ -1,0 +1,39 @@
+ITEM NAME: Dark Spear of Venom
+
+Velious Era (added December 2000-2001)
+
+
+Dark Spear of Venom
+
+
+MAGIC ITEM  NO DROP  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 27
+DMG: 17 
+INT: +5  HP: +20
+SV MAGIC: +5
+Effect: Sicken (Combat, Casting Time: Instant) at Level 45
+WT: 7.0  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Clrakk Blackfist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Strife to the Coldain
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

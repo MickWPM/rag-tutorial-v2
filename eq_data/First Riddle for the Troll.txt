@@ -1,0 +1,36 @@
+ITEM NAME: First Riddle for the Troll
+
+
+
+First Riddle for the Troll
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+Nektulos Forest
+
+ Forley
+ Gollee
+ Himmel
+ Initiate Pool
+ Initiate Umbra
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+In a place of fire we have hidden riddle number 
+three, the wings of a beast hide something for thee.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

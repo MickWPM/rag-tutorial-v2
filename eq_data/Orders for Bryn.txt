@@ -1,0 +1,30 @@
+ITEM NAME: Orders for Bryn
+
+Classic Era (added 1999-2000)
+
+
+Orders for Bryn
+
+
+LORE ITEM NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Orc Impaler
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

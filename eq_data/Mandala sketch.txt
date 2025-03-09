@@ -1,0 +1,37 @@
+ITEM NAME: Mandala sketch
+
+Warrens Era (added spring 2001)
+
+Mandala sketch
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Mandala of Dragon Binding 
+
+  Drops From 
+Howling Stones
+
+ Ground Spawn
+ (140, -410) 
+
+
+It spawns inside the room that looks like a horizonal 'H', in the East Wing. Inside this room there are four tables. The item spawns on top of the top-left table, as seen on the map from the top view.
+The respawn time is 1 hour.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

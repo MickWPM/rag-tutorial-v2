@@ -1,0 +1,36 @@
+ITEM NAME: Fayguard Parrying Dagger
+
+Kunark Era (added 2000)
+
+
+Fayguard Parrying Dagger
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 17
+DMG: 9   AC: 10
+Effect:  Word of Pain (Combat, Casting Time: Instant) at Level 35
+WT: 1.0  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones
+
+ the Crypt Keeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

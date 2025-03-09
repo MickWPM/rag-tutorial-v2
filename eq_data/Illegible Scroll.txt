@@ -1,0 +1,46 @@
+ITEM NAME: Illegible Scroll
+
+
+Illegible Scroll
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: There are multiple different items with this same name. 
+
+  Drops From 
+Butcherblock Mountains, Crushbone, West Commonlands
+
+ Orc Oracle ("Oracle Scroll")
+
+Kaesora
+
+ failed crypt raider ("Vok Na Zov I")(NO TRADE)
+
+City of Mist
+
+ spectral courier ("Vok Na Zov II", "Vok Na Zov III" and "Vok Na Zov IV")
+
+Mistmoore Castle
+
+ a dark librarian ("Vok Na Zov V")
+ a dark ass`t librarian ("Vok Na Zov VI")
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of the Lord (#7) ("Vok Na Zov")
+ Illegible Scrolls ("Oracle Scroll")
+ Illegible Scrolls (Felwithe)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

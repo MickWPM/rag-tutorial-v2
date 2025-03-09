@@ -1,0 +1,46 @@
+ITEM NAME: Velium Bar
+
+Velious Era (added December 2000-2001)
+
+
+
+Velium Bar
+
+
+QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+252p is the lowest price you can get. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334,-71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+
+
+
+

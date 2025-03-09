@@ -1,0 +1,36 @@
+ITEM NAME: Sebilite Scale Leggings
+
+Kunark Era (added 2000)
+
+Sebilite Scale Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 16
+STR: +4  CHA: +4  WIS: +4
+SV FIRE: +2  SV POISON: +2
+WT: 4.1  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ froglok armsman
+ froglok repairer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

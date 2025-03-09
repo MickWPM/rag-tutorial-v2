@@ -1,0 +1,32 @@
+ITEM NAME: Barbarian Head (Head of Wulfthan)
+
+Classic Era (added 1999-2000)
+Barbarian Head
+
+
+LORE ITEM  NO DROP
+WT: ?  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Head of Wulthan 
+Many items like this with the same name: http://lucy.allakhazam.com/itemlist.html?searchtext=barbarian+head 
+
+  Drops From 
+Upper Guk
+
+ A Froglok Shinta Warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Tishan's Kilt Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

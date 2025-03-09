@@ -1,0 +1,36 @@
+ITEM NAME: Xalgozian Fang
+
+Kunark Era (added 2000)
+
+Xalgozian Fang
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 20
+DMG: 6
+STR: +3  DEX: +3  STA: +3  AGI: +3
+WT: 0.3  Range: 20  Size: MEDIUM
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+Kaesora
+
+ Xalgoz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Key to Charasis Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

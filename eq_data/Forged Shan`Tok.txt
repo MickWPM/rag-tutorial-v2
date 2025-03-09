@@ -1,0 +1,42 @@
+ITEM NAME: Forged Shan`Tok
+
+Kunark Era (added 2000)
+
+
+Forged Shan`Tok
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 38
+DMG: 8 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 82)
+ Yield: Forged Shan`Tok x1
+ In Iksar Forge:
+
+
+  1 x Flask of Bloodwater - Bought
+  1 x Folded Sheet Metal - Crafted
+  1 x Hilt Mold - Bought
+  1 x Pommel Mold - Bought
+  1 x Shan`Tok Blade Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

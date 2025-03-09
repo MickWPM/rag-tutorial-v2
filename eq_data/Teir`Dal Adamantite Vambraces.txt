@@ -1,0 +1,44 @@
+ITEM NAME: Teir`Dal Adamantite Vambraces
+
+Were you looking for Teir`Dal Adamantite Vambraces (Enchanted)?
+Were you looking for Teir`Dal Adamantite Vambraces (Imbued)?
+
+Teir`Dal Adamantite Vambraces
+
+
+Slot: ARMS
+AC: 12
+STR: +4 DEX: +5 WIS +4 INT: +4
+WT: 3.4  Size: SMALL
+Class: WAR CLR SHD BRD
+Race: DEF HEF
+
+
+Part of the dark elf cultural smithing armor sets.
+Prices on this page are not accurate. All 3 versions share the same name, thus prices are intermixed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 190)
+ Yield: Teir`Dal Adamantite Vambraces x1
+ In Teir`Dal Forge:
+
+
+  1 x Adamantite Chain Jointing - Crafted
+  2 x Folded Sheet of Adamantite - Crafted
+  1 x Leather Padding - Crafted
+  1 x Shadow Temper - Crafted
+  1 x Small Plate Vambrace Mold - Bought
+  1 x Teir`Dal Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

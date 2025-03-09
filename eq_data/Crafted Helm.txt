@@ -1,0 +1,32 @@
+ITEM NAME: Crafted Helm
+
+
+Crafted Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 14
+CHA: +5  WIS: +5
+SV MAGIC: +2
+WT: 6.0  Size: SMALL
+Class: WAR
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crafted Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

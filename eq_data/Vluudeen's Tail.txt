@@ -1,0 +1,38 @@
+ITEM NAME: Vluudeen's Tail
+
+Velious Era (added December 2000-2001)
+
+
+Vluudeen's Tail
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 7 
+HP: +25
+SV COLD: +10
+WT: 0.0  Size: TINY
+Class: WAR RNG DRU BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ Vluudeen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gleed's Bow
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

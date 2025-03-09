@@ -1,0 +1,34 @@
+ITEM NAME: Water Reed
+
+Kunark Era (added 2000)
+
+Water Reed
+
+
+WT: 0.7  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Purified Water (Trivial: No-Fail)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Lake of Ill Omen
+
+

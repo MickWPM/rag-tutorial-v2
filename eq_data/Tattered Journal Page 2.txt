@@ -1,0 +1,31 @@
+ITEM NAME: Tattered Journal Page 2
+
+
+
+Tattered Journal Page 2
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.3  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Nektulos Forest
+
+ an undead annalkeeper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

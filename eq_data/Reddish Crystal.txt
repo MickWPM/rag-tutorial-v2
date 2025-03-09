@@ -1,0 +1,36 @@
+ITEM NAME: Reddish Crystal
+
+Velious Era (added December 2000-2001)
+
+
+Reddish Crystal
+
+
+MAGIC ITEM LORE ITEM NO TRADE
+WT: 10.0 Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  Beryll for the Menhir
+Near the entrance of the underwater tunnel leading to the Ishva area. 
+
+  Drops From 
+Splitpaw Lair
+
+ Ground Spawn
+ (+690, -17) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Velium Focus
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

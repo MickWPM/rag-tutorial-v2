@@ -1,0 +1,40 @@
+ITEM NAME: Maneater Bud
+
+
+Maneater Bud
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Emerald Jungle
+
+ Erollisi mantrap
+
+Swamp of No Hope
+
+ man eating fern
+ man eating plant
+ man eating shrub
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Swamp of No Hope
+
+

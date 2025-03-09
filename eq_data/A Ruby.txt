@@ -1,0 +1,39 @@
+ITEM NAME: A Ruby
+
+Classic Era (added 1999-2000)
+
+
+A Ruby
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is for the Iksar Warrior Warrior Pike Quests, not to be confused with Ruby. 
+ Merchant resale value: 0p 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike Quests
+
+  Player crafted 
+ Blacksmithing (Trivial: ??)
+ Yield: A Ruby
+ In Forge:
+
+
+ 1 x Forging Hammer
+ 1 x Thick Iksar Skull
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

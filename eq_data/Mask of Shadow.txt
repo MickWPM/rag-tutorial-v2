@@ -1,0 +1,34 @@
+ITEM NAME: Mask of Shadow
+
+Classic Era (added 1999-2000)
+
+Mask of Shadow
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY
+EXPENDABLE  Charges: 1
+Effect:  Shadow Step (Any Slot, Casting Time: Instant) as Level 10
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+You can avoid fall damage with this item because Shadow Step will blink you a short distance at ground level. However, you might still take some fall damage depending on how long you fall before you click the mask. This even works when zoning into The Hole from the big pit. 
+
+  Drops From 
+Various Zones
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Robe of Enshroudment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

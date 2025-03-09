@@ -1,0 +1,35 @@
+ITEM NAME: Harnessed Soul Gem
+
+Velious Era (added December 2000-2001)
+
+
+Harnessed soul gem
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+INT: +6  MANA: +35
+Effect: Reclaim Energy (Any Slot/Can Equip, Casting Time: 10.0)
+WT: 0.1  Size: SMALL
+Class: MAG
+Race: ALL
+
+
+Must equip to use, making this clickable by Magicians only. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Tserrina Syl`Tor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

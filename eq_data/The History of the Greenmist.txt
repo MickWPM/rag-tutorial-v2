@@ -1,0 +1,33 @@
+ITEM NAME: The History of the Greenmist
+
+Chardok Revamp Era (added late 2001)
+
+The History of the Greenmist
+
+
+LORE ITEM
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Grand Lorekeeper Kino Shai`din
+ Loremaster Piza`tak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusaders of Greenmist
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

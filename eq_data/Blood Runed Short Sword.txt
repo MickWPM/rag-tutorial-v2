@@ -1,0 +1,35 @@
+ITEM NAME: Blood Runed Short Sword
+
+Velious Era (added December 2000-2001)
+ Project 1999's First Picture of Someone with Blood Runed Short Sword
+Blood Runed Short Sword
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 9 
+Effect: Lifespike (Combat, Casting Time: Instant)
+WT: 5.0  Size: TINY
+Class: WAR SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Failed Experiment
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

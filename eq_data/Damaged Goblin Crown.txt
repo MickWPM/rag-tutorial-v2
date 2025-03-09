@@ -1,0 +1,35 @@
+ITEM NAME: Damaged Goblin Crown
+
+
+
+Damaged Goblin Crown
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 2
+SV FIRE: +4
+WT: 2.0  Size: MEDIUM
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Lake Rathetear
+
+ a spirit of flame
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Coppernickel Key
+
+Velious Era (added December 2000-2001)
+
+
+Coppernickel Key
+
+
+LORE ITEM  QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Coppernickel Key "..II.." 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Steel
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No Fail)
+ Yield: Coppernickel Key x1
+ In Part of a Large Key:
+
+
+  1 x Copper Key - Dropped
+  1 x Nickel Key - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

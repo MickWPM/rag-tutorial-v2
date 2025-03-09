@@ -1,0 +1,69 @@
+ITEM NAME: Lambent Stone
+
+Classic Era (added 1999-2000)
+
+Lambent Stone
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This uncommon gem is held by many kinds of hill and sand giants. It is used in Lambent Armor Quests. 
+
+  Drops From 
+West Commonlands
+
+ a hill giant
+
+Eastern Plains of Karana
+
+ a griffon
+ a hill giant
+ Tarbul Earthstrider
+
+Rathe Mountains
+
+ a hill giant
+ Broog Bloodbeard
+ tainted hill giant
+
+Northern Karana
+
+ a griffon
+ a hill giant
+ GrimFeather
+
+Northern Desert of Ro
+
+ a sand giant
+
+Oasis of Marr
+
+ a sand giant
+ Cazel
+
+Southern Desert of Ro
+
+ a sand giant
+
+Western Plains of Karana
+
+ a hill giant
+
+  Sold by 
+ Lambent stones are not stocked by any merchants; however, they are commonly found on vendors in the Karanas, Commonlands, and throughout Antonica generally wherever giant hunting players might sell their loot. They can also be foraged in the Karanas. They can not be foraged anywhere. 
+
+  Related quests 
+ Darkwood Staff Quest
+ Lambent Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

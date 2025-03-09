@@ -1,0 +1,38 @@
+ITEM NAME: Vambraces of Avoidance
+
+Velious Era (added December 2000-2001)
+
+
+
+Vambraces of Avoidance
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 12
+STR: +3
+SV MAGIC: +5
+WT: 3.2  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Vorken Iceshard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vambraces of Avoidance Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

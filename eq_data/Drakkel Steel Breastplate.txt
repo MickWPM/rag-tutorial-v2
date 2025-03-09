@@ -1,0 +1,44 @@
+ITEM NAME: Drakkel Steel Breastplate
+
+Velious Era (added December 2000-2001)
+Drakkel Steel Breastplate
+
+
+Slot: CHEST
+AC: 17
+STA: +2
+WT: 12.5  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Kael Drakkal
+
+ Weyrevar Bluehammer
+
+
+
+  (-403, 1394)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Burynaibane Spider Fang
+
+Kunark Era (added 2000)
+
+Burynaibane Spider Fang
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 29
+DMG: 4 
+Effect:  Sear (Combat, Casting Time: Instant)
+WT: 2.0  Size: MEDIUM
+Class: ALL except CLR DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Field of Bone
+
+ burynaibane spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

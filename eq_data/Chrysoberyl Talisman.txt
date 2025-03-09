@@ -1,0 +1,34 @@
+ITEM NAME: Chrysoberyl Talisman
+
+
+Chrysoberyl Talisman
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 5
+WIS: +3  MANA: +20
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 8.8p 
+
+  Drops From 
+Lower Guk
+
+ a minotaur elder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

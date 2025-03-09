@@ -1,0 +1,35 @@
+ITEM NAME: Alligator Egg
+
+
+
+Alligator Egg
+
+
+This is a snack!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Drop list likely incomplete. Vendors for 3g3s5c at 80 CHA. 
+
+  Drops From 
+Qeynos Aqueducts
+
+ Bloated Alligator
+
+The Feerrott
+
+ an alligator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

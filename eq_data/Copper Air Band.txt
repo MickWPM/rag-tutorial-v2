@@ -1,0 +1,38 @@
+ITEM NAME: Copper Air Band
+
+Sky Era (added January 2000)
+
+
+
+Copper Air Band
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+INT: +1  AGI: +1
+SV DISEASE: +4  SV POISON: +4
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a greater sphinx
+ a heartsbane drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Preparation
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

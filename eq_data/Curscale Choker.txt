@@ -1,0 +1,31 @@
+ITEM NAME: Curscale Choker
+
+Kunark Era (added 2000)
+
+
+Curscale Choker
+
+
+Slot: NECK
+AC: 2
+WT: 0.2  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Curskins
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Barbarian Head (Talym's Head)
+
+Classic Era (added 1999-2000)
+Barbarian Head
+
+
+LORE ITEM  NO DROP
+WT: 0.7  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Many items like this with the same name: http://lucy.allakhazam.com/itemlist.html?searchtext=barbarian+head. This Identifies as Talym's Head 
+
+  Drops From 
+East Freeport
+
+ Talym Shoontar
+
+Qeynos Hills
+
+ Talym Shoontar
+
+Surefall Glade
+
+ Talym Shoontar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Talym Shoontar's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

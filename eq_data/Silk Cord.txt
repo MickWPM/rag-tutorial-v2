@@ -1,0 +1,40 @@
+ITEM NAME: Silk Cord
+
+
+Silk Cord
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 26)
+ Yield: Silk Cord x1
+ In Loom or Sewing Kit:
+
+
+  3 x Silk Thread - Crafted 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Tailored Wrist Pouch (Trivial: 26)
+ Tailored Small Bag (Trivial: 31)
+ Tailored Large Belt Pouch (Trivial: 37)
+ Tailored Large Bag (Trivial: 41)
+ Bearskin Potion Bag (Trivial: 68)
+
+
+
+
+

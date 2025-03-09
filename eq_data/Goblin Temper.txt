@@ -1,0 +1,37 @@
+ITEM NAME: Goblin Temper
+
+Kunark Era (added 2000)
+
+
+Goblin Temper
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used for non-classic "Deathsteel" smithing recipes, anything else? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 100)
+ Yield: Goblin Temper x1
+ In Brewing Barrel:
+
+
+  1 x Grinning Goblin Brew - Dropped
+  1 x Mt. Death Mineral Salts - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

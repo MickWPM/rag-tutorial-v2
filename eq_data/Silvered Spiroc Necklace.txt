@@ -1,0 +1,36 @@
+ITEM NAME: Silvered Spiroc Necklace
+
+Sky Era (added January 2000)
+
+
+Silvered Spiroc Necklace
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 2
+MANA: +10
+WT: 5.0  Size: MEDIUM
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Bazzt Zzzt
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Resolution
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

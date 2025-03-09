@@ -1,0 +1,37 @@
+ITEM NAME: Windstriker
+
+Sky Era (added January 2000)
+
+
+
+ Naeth firing Windstriker.
+Windstriker
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+Skill: Archery  Atk Delay: 60
+DMG: 45
+STR: +5  DEX: +5  AGI: +5  HP: +50
+Effect:  Whirlwind (Combat, Casting Time: Instant) at Level 50
+WT: 4.0  Range: 200  Size: MEDIUM
+Class: RNG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Test of Ranged Attack
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

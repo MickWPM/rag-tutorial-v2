@@ -1,0 +1,33 @@
+ITEM NAME: Ton Po's Eye Patch
+
+Sky Era (added January 2000)
+
+
+Ton Po's Eye Patch
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+STR: +8  DEX: +8  AGI: +8
+Effect:  See Invisible (Worn)
+WT: 0.1  Size: TINY
+Class: MNK
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Test of Sight
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

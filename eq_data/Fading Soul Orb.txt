@@ -1,0 +1,38 @@
+ITEM NAME: Fading Soul Orb
+
+Stonebrunt Era (added summer 2001)
+
+
+Fading Soul Orb
+
+
+MAGIC ITEM  NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify):  'a fading imprisoned soul'  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: 15)
+ Yield: Purified Weapon and a Fading Soul Orb x1
+ In Kejek Forge:
+
+
+  1 x Any Fading Shadow Weapon - Dropped
+  1 x Soulforge Hammer - Quested, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

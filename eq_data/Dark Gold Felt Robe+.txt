@@ -1,0 +1,36 @@
+ITEM NAME: Dark Gold Felt Robe*
+
+ 
+Classic Era (added 1999-2000)
+
+
+Worn Felt Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.8  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Dark Reflection Enchanter
+ Guild Summons - Dark Reflection Magician
+ Guild Summons - Dark Reflection Necromancer
+ Guild Summons - Dark Reflection Wizard
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Large Fine Steel Breastplate
+
+
+Large Fine Steel Breastplate
+
+
+Slot: CHEST
+AC: 19
+WT: 12.5  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: BAR TRL OGR
+
+
+Part of the Large Fine Plate Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Hole Era (added June 2000)
+ Blacksmithing (Trivial: 228)
+ Yield: Large Fine Steel Breastplate x1
+ In Forge:
+
+
+  1 x Large Breastplate Mold - Bought
+  1 x Leather Padding - Crafted
+  3 x Medium Quality Folded Sheet Metal - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

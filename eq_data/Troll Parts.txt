@@ -1,0 +1,53 @@
+ITEM NAME: Troll Parts
+
+
+Troll Parts
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Innothule Swamp
+
+ a troll slayer
+
+South Karana
+
+ Groi Gutblade
+
+Southern Desert of Ro
+
+ Lockjaw
+
+Steamfont Mountains
+
+ Bugglegupp
+
+Toxxulia Forest
+
+ Rungupp
+
+Upper Guk
+
+ a troll prisoner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Pickled Troll (Trivial: 51)
+
+
+
+
+

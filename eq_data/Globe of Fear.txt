@@ -1,0 +1,46 @@
+ITEM NAME: Globe of Fear
+
+
+Globe of Fear
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Amusingly, this stackable item can be held in either hand and produces a bag graphic. I have only ever seen these drop from  spectres in the Ocean of Tears. Confirmed to drop on Spectres in Tower of Frozen Shadow 4/28/23. Confirmed to drop on Spectres in Oasis of Marr 5/11/24. 
+ Merchant resale value: 9.5 gold 
+
+  Drops From 
+Ocean of Tears
+
+ a spectre
+
+Oasis of Marr
+
+ a spectre
+
+Qeynos Aqueducts
+
+ a spectre
+
+Tower of Frozen Shadow
+
+ a lesser ice shade
+ an ice shade
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

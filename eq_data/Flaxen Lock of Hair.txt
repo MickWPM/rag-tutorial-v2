@@ -1,0 +1,42 @@
+ITEM NAME: Flaxen Lock of Hair
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+Kunark Era (added 2000)
+
+
+Flaxen Lock of Hair
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 3
+MANA: +10
+WT: 9.0  Size: LARGE
+Class: ENC
+Race: ALL
+
+
+This item was part of the 8th Necromancer Skullcap Quest but was never implemented during the classic era, and so will never appear on Project 1999. 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 8th Rank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

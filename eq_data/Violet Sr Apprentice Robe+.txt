@@ -1,0 +1,70 @@
+ITEM NAME: Violet Sr Apprentice Robe*
+
+
+
+Violet Sr Apprentice Robe*
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 6
+MANA: +1
+WT: 0.7  Size: MEDIUM
+Class: WIZ MAG ENC
+Race: HUM ERU HIE DEF
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+West Freeport
+
+ Dooly Jonkers
+ Glyssa Sonshaw
+ Nusk Treton
+ Romiak Jusathorn
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Freeport
+
+ Dulia Jestes
+
+
+
+  (19, -817)
+
+
+ West Freeport
+
+ Voglan Dransed
+
+
+
+  (155, -762)
+
+
+ West Freeport
+
+ Mekoma Buma
+
+
+
+  (145, -761)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Ornately Runed Shell Necklace
+
+Velious Era (added December 2000-2001)
+
+Ornately Runed Shell Necklace
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+Effect: Enduring Breath (Worn)
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 11p 5g 5s 7c  buyback = 372p 7g 8s 3c 
+
+  Drops From 
+Siren's Grotto
+
+ a siren priestess
+ a siren enticer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kelorek's Scales
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

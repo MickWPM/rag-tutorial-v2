@@ -1,0 +1,45 @@
+ITEM NAME: Imbued Ogre War Visor (Rallos Zek)
+
+
+Imbued Ogre War Visor
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 7
+STA: +2  INT: +2
+SV MAGIC: +2
+WT: 2.2  Size: SMALL
+Class: WAR SHD
+Race: BAR TRL OGR
+Deity: Rallos Zek
+
+
+Part of the ogre cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 214)
+ Yield: Imbued Ogre War Visor  x1
+ In Oggok Forge:
+
+
+  1 x Blood Temper - Crafted
+  1 x Enchanted Adamantite Jointing - Crafted
+  1 x Enchanted Folded Adamantite Sheet - Crafted
+  1 x Imbued Jade - Summoned
+  1 x Large Plate Visor Mold - Bought
+  1 x Leather Padding - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

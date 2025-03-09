@@ -1,0 +1,33 @@
+ITEM NAME: Dark Runed Gauntlets
+
+Velious Era (added December 2000-2001)
+
+
+Dark Runed Gauntlets
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 15
+STR: +2  DEX: +1  STA: +1  INT: +2  AGI:+1  MANA: +10
+WT: 4.0  Size: SMALL
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Velium Gauntlets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

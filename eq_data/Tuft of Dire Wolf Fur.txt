@@ -1,0 +1,38 @@
+ITEM NAME: Tuft of Dire Wolf Fur
+
+Velious Era (added December 2000-2001)
+
+
+
+Tuft of Dire Wolf Fur
+
+
+WT: 0.3  Size: SMALL Class: ALL Race: ALL
+
+
+Used in Halfling cultural tailoring in post-Velious expansions. No confirmed use in Velious. 
+ Merchant resale value: 1c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Eastern Wastes
+ Iceclad Ocean
+ Great Divide
+ Thurgadin
+ Western Wastes
+ Kael Drakkal
+
+

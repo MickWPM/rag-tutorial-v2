@@ -1,0 +1,42 @@
+ITEM NAME: Silk Swatch
+
+
+Silk Swatch
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Swatches are made from Spider Silk, not Spiderling Silk. They are used for raw, cured, and wu's silk armor production, which are great recipes for leveling up your Tailoring skill. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Orc Vest
+
+  Player crafted 
+ Tailoring (Trivial: 15)
+ Yield: Silk Swatch x1
+ In: Sewing Kit
+
+
+  2 x Spider Silk
+
+
+  Tradeskill recipes 
+  Tailoring 
+ All Raw Silk Armor - Trivial 36
+ All Cured Silk Armor - Trivial 82
+ The full Wu's Fighting Armor Set - Trivial between 88 and 158
+ Quest item Shadow Silk - Trivial 36
+ Quest item Large Shadow Silk - Trivial 34
+ Quest item Inky Shadow Silk - Trivial 34
+
+
+
+

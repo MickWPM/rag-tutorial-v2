@@ -1,0 +1,71 @@
+ITEM NAME: Runed Symbol
+
+Velious Era (added December 2000-2001)
+Runed Symbol
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Grozzmel
+ Midayor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The First Arcane Test -- White Dragon StatueWhite Dragon Statue
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+AC: 15
+STA: +15  INT: +15  HP: +50  MANA: +100
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+Effect: Flowing Thought I (Worn)  
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Poison Tear
+ Poison Symbol (from Casalen or Tavekalem)
+ Runed Symbol (from Grozzmel or Midayor)
+ Serrated Symbol (from Lepethida)
+
+ Test of the Platinum Tear -- Silver Bracelet of SpeedSilver Bracelet of Speed
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 38
+STR: +10  STA: +10  WIS: +10  INT: +10  HP: +100
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Haste: +41%  
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Platinum Tear
+ Black Symbol (from Krigara or Ymmeln)
+ Serrated Symbol (from Lepethida)
+ Runed Symbol (from Grozzmel or Midayor)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: A Gossamer Wing
+
+
+
+A Gossamer Wing
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+for quest https://wiki.project1999.com/Faerie_Dragon_Wings 
+
+  Drops From 
+Wakening Land
+
+ Lord Gossimerwind
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+
+
+

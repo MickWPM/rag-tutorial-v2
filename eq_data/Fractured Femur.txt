@@ -1,0 +1,38 @@
+ITEM NAME: Fractured Femur
+
+
+
+Fractured Femur
+
+
+MAGIC ITEM LORE ITEM NO TRADE
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 4 
+SV DISEASE: +2
+WT: 0.5  Size: SMALL
+Class: WAR RNG SHD BRD ROG NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Clan Runnyeye
+
+ a goblin captain (pre-revamp)
+ a Pickclaw bonemender (post-revamp)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Mining Caps
+ The Treant Fists
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

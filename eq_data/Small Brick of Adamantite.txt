@@ -1,0 +1,73 @@
+ITEM NAME: Small Brick of Adamantite
+
+
+
+Small Brick of Adamantite
+
+
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Commons
+
+ Trista N`Ryt
+
+
+
+  (70, -857)
+
+
+ Neriak Third Gate
+
+ Draan N`Ryt
+
+
+
+  (694, -1780)
+
+
+ Oggok
+
+ Gralbug
+
+ No longer exists
+
+  (332, 782)
+
+
+ Oggok
+
+ Puglala
+
+ No longer sells
+
+  (95, 846)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Large Brick of Adamantite (Trivial: 29)
+ Sheet of Adamantite (Trivial: 37)
+
+
+
+
+

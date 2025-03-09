@@ -1,0 +1,34 @@
+ITEM NAME: Honeycomb Belt
+
+Sky Era (added January 2000)
+
+
+Honeycomb Belt
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 6
+CHA: +2  WIS: +8  MANA: +75
+Haste: +26%  
+WT: 2.0  Size: SMALL
+Class: DRU
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Druid Test of The Bee
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

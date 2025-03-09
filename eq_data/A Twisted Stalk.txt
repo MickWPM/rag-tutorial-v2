@@ -1,0 +1,40 @@
+ITEM NAME: A Twisted Stalk
+
+
+
+
+ 
+
+ Notice: This page was carbon-copied from Allakhazam. It is probably missing vital information.
+It also may contain info which is incorrect for the Project 1999 Timeline. Please revise accordingly and then remove this message.
+
+
+
+A Twisted Stalk
+
+
+WT: 0.5  Size: TINY
+Class: None
+Race: None
+
+
+Useless? 
+
+  Drops From 
+Swamp of No Hope
+
+ a man-eating fern
+ a man-eating plant
+ man eating shrub
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

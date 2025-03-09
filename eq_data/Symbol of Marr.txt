@@ -1,0 +1,39 @@
+ITEM NAME: Symbol of Marr
+
+
+
+Symbol of Marr
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 15
+STR: +5  WIS: +5
+WT: 0.1  Size: TINY
+Class: PAL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a thunder spirit princess
+ Bazzzazzt
+ Gorgalosk
+ Keeper of Souls
+ Sister of the Spire
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

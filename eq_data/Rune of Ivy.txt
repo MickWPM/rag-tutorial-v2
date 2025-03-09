@@ -1,0 +1,47 @@
+ITEM NAME: Rune of Ivy
+
+
+
+Rune of Ivy
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Note: There are four identically named "Rune of Ivy" - top, bottom, left, and right.
+They are all used for Ivy Etched Armor quests. You can use Identify to determine which one you have if you forget. 
+
+  Drops From 
+Everfrost Peaks
+
+ Redwind (Bottom)
+
+Lesser Faydark
+
+ Thistle Underbrush (Right)
+
+Mistmoore Castle
+
+ a deathly usher (Top)
+
+Northern Karana
+
+ GrimFeather (Left)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivy Etched Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

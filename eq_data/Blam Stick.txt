@@ -1,0 +1,60 @@
+ITEM NAME: Blam Stick
+
+Velious Era (added December 2000-2001)
+ BLAM BLAM!
+Blam Stick
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 1H Blunt Atk Delay: 40
+DMG: 30 
+Effect: 
+WT: 0.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU
+MNK BRD ROG SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Looks painful
+
+
+This item is rarely found in the main room on the Halflings: Stitch, Snitch, Plupple, Dupple, Blich, Kitch, Krupple, and Nupple. They commonly drop Broken Blam StickBroken Blam Stick
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 40
+DMG: 30 
+WT: 1.0  Size: MEDIUM
+Class: NONE
+Race: ALL
+
+
+, same stats but Class: NONE.
+Telin added this as a rare drop as per [1], 4/7/19 officially in game. "Effect" is intentionally blank, but has a graphical fireball effect (harmless).[2]
+After some testing on green, it seems like this is less than 5% chance to drop. Very rare, not rare/uncommon as hoped. 1 blam stick out of 20 kills, then 35+ kills still no blam stick. So 1 stick in 55 kills and still waiting on another to drop. 
+
+  Drops From 
+Plane of Mischief
+
+ Stitch
+ Snitch
+ Plupple
+ Dupple
+ Blich
+ Nupple
+ Kitch
+ Krupple
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

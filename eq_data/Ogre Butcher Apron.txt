@@ -1,0 +1,31 @@
+ITEM NAME: Ogre Butcher Apron
+
+
+Ogre Butcher Apron
+
+
+LORE ITEM
+Slot: CHEST
+AC: 5
+SV FIRE: +5
+WT: 6.6  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Pickled Frogloks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

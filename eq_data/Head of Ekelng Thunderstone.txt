@@ -1,0 +1,31 @@
+ITEM NAME: Head of Ekelng Thunderstone
+
+Velious Era (added December 2000-2001)
+Head of Ekelng Thunderstone
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ Ekelng Thunderstone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Vambraces of Avoidance Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

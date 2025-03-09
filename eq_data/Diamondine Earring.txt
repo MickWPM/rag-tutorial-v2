@@ -1,0 +1,34 @@
+ITEM NAME: Diamondine Earring
+
+Classic Era (added 1999-2000)
+
+Diamondine Earring
+
+
+MAGIC ITEM
+Slot: EAR
+AC: 2
+STR: +3  HP: +12
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ Lasna Cheroon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

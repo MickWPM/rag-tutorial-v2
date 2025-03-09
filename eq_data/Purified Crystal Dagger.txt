@@ -1,0 +1,42 @@
+ITEM NAME: Purified Crystal Dagger
+
+Stonebrunt Era (added summer 2001)
+
+Purified Crystal Dagger
+
+
+MAGIC ITEM  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 4 
+CHA: +4
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 2.4  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: 15, no fail)
+ Yield: Purified Crystal Dagger x1
+ In Kejek Forge:
+
+
+  1 x Crystallized Shadow Dagger - Dropped
+  1 x Soulforge Hammer - Quested, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

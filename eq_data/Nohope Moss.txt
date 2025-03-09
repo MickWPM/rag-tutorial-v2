@@ -1,0 +1,41 @@
+ITEM NAME: Nohope Moss
+
+
+
+Nohope Moss
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ froglok gaz knight
+ froglok gaz shaman
+ froglok gaz warrior
+ froglok shin shaman
+ froglok ton shaman
+ froglok tuk knight
+ froglok tuk shaman
+ froglok tuk warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Susceptible Essence (Trivial: 288)
+
+
+
+
+

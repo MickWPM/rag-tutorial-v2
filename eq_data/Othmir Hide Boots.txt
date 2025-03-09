@@ -1,0 +1,46 @@
+ITEM NAME: Othmir Hide Boots
+
+Velious Era (added December 2000-2001)
+
+
+Othmir Hide Boots
+
+
+Slot: FEET
+AC: 4
+SV COLD: +1
+WT: 1.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Costs about 5 plat 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Kael Drakkal
+
+ Graggaz Fleshflayer
+
+
+
+  (247,872)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

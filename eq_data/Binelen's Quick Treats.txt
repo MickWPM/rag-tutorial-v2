@@ -1,0 +1,340 @@
+ITEM NAME: Binelen's Quick Treats
+
+
+
+Binelen's Quick Treats
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Butcherblock Mountains
+
+ Urazun Thranon
+
+
+
+  (2794, -883)
+
+
+ East Cabilis
+
+ Klok Sweetzie
+
+
+
+  (551, 159)
+
+
+ East Cabilis
+
+ Klok Unlar
+
+
+
+  (531, 162)
+
+
+ Crystal Caverns
+
+ Praps Gemshard
+
+
+
+  (-250, 370, -424)
+
+
+ East Commonlands
+
+ Parthar
+
+
+
+  (-119, 240)
+
+
+ Erudin
+
+ Beth Breadmaker
+
+
+
+  (136, 109)
+
+
+ Erudin
+
+ Helia BlueHawk
+
+
+
+  (-1186, -333)
+
+
+ Firiona Vie
+
+ Glinya Sweetpie
+
+
+
+  (-2750, 2550)
+
+
+ North Freeport
+
+ Rashinda Elore
+
+
+
+  (290, 302)
+
+
+ West Freeport
+
+ Olyna Midel
+
+
+
+  (83, -904)
+
+
+ West Freeport
+
+ Ran Brownloe
+
+
+
+  (-243, -710)
+
+
+ Halas
+
+ Sissia
+
+
+
+  (368, -329)
+
+
+ Halas
+
+ Teria O`Danos
+
+
+
+  (-6, -33)
+
+
+ High Keep
+
+ Baker Jena
+
+
+
+  (46, -260)
+
+
+ Misty Thicket
+
+ Bim Buskin
+
+
+
+  (905, -2345)
+
+
+ Neriak Foreign Quarter
+
+ Tal Drana
+
+
+
+  (106, -251)
+
+
+ Neriak Foreign Quarter
+
+ Sal Drana
+
+
+
+  (106, -238)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ Paineel
+
+ Gorng Alusnein
+
+
+
+  (984, 636)
+
+
+ Paineel
+
+ Iva Tersala
+
+
+
+  (970, 649)
+
+
+ Paineel
+
+ Toryn Roltaire
+
+
+
+  (1040, 641)
+
+
+ Western Plains of Karana
+
+ Chrislin Baker
+
+
+
+  (1048, -1989)
+
+
+ Rivervale
+
+ Uma Sweetcookie
+
+
+
+  (-182, -151)
+
+
+ RunnyEye Citadel
+
+ A goblin merchant
+
+
+
+  (8, 130), (60, 139)
+
+
+ Skyshrine
+
+ Grudash the Baker
+
+
+
+  (161, -474)
+
+
+ Skyshrine
+
+ Chef Kollof
+
+
+
+  (142, -474)
+
+
+ Steamfont Mountains
+
+ Finkel Rardobaen
+
+
+
+  (-1515, -1844)
+
+
+ Stonebrunt Mountains
+
+ Chef Stead
+
+
+
+  (1348, -490)
+
+
+ Thurgadin
+
+ Perkins Doughbeard
+
+
+
+  (-279, 134)
+
+
+ Toxxulia Forest
+
+ Quana Rainsparkle
+
+
+
+  (2171, -1111)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Rat Kabobs
+More fun than roasting marshmallows, Rat Kabobs are the tasty way to rid yourself of unwanted pests.
+Ingredients:
+Rat meat, Spices, and Jug of Sauces, Skewers
+Cooking Instructions:
+Fire a spit for high heat. Gently impale whole rat onto skewer. Place over heat and cook until hair
+sears off. Dip in sauces and spices and cook until eyes glaze over and serve.
+Tastes great with:
+Wasp Wing Crunchies and Ale
+Beer Braised Rat
+Preferably served with the head and tail still attached, Beer Braised Rat is lots of fun because it "watches" you eat it.
+Ingredients:
+Rat Meat, Spices, Short Beer
+Cooking instructions:
+Prepare the spit or oven to high heat. Carefully pull the skin off of the rat leaving head and tail
+intact. Drench rat meat in stale beer and roll in spices. Grill until dark- ened and falls apart.
+Tastes great with:
+Muffins and Short Beer
+Woolie Spider Crunchies
+Like cotton candy with a crunchy center. The delightfully fluffy texture of these sweets
+leaves your mouth feeling scratchy and dry. A food with no drawbacks!
+Ingredients:
+Woolie Spider Legs and Frosting
+Cooking Instructions:
+Fire oven for low heat. Smother woolie spider legs in frosting and place in oven. Remove when hardened and frosting crystallizes.
+Tastes great with:
+Cookies and Short Beer
+Beetle Eye Pie
+Being both crunchy and squishy, Beetle Eye Pie is the best of both worlds.
+Ingredients:
+Clump of Dough, Flame Beetle Eye, Spices, 1 Pie Tin
+Cooking Instructions:
+For crust, line the bottom of a pie tin with a clump of dough. Delicately combine eyeballs and spices
+and pour onto the crust. Top with extra dough. Bake until golden.
+Tastes great with:
+Beer Braised Bear and Tall Beer
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

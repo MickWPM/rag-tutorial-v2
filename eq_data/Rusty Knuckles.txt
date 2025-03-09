@@ -1,0 +1,84 @@
+ITEM NAME: Rusty Knuckles
+
+
+
+Rusty Knuckles
+
+
+Slot: PRIMARY
+Skill: Hand to Hand  Atk Delay: 24
+DMG: 3 
+WT: 2.5  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a burly gnoll
+ a patrolling gnoll
+ a scrawny gnoll
+ an elite gnoll guard
+
+Butcherblock Mountains
+
+ a goblin
+
+Commonlands
+
+ orc legionnaire
+
+Beholder's Maze
+
+ a goblin lookout
+ a goblin veteran
+
+Greater Faydark
+
+ an orc centurion
+ an orc conscript
+ an orc footman
+ an orc shaman
+ orc centurion
+ orc hatchetman
+ orc pawn
+
+Lesser Faydark
+
+ a faerie maiden
+
+Misty Thicket
+
+ orc apprentice
+
+Rathe Mountains
+
+ a lizardman robber
+
+Steamfont Mountains
+
+ a decaying gnome skeleton
+ a runaway clockwork
+
+Swamp of No Hope
+
+ a froglok bounder
+
+West Freeport
+
+ a deathfist pawn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

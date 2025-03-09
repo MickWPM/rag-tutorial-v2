@@ -1,0 +1,41 @@
+ITEM NAME: Steelsilk Greaves
+
+
+Steelsilk Greaves
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 13
+STR: +4  DEX: +8  HP: +25  MANA: +25
+SV POISON: +8
+WT: 3.2  Size: LARGE
+Class: CLR PAL SHD
+Race: ERU
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 255)
+ Yield: Steelsilk Greaves x1
+ In Erudite Sewing Kit:
+
+
+  1 x Pant Pattern - Bought
+  1 x Platinum Thread - Bought
+  3 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

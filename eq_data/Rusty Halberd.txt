@@ -1,0 +1,84 @@
+ITEM NAME: Rusty Halberd
+
+Classic Era (added 1999-2000)
+
+Rusty Halberd
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 56
+DMG: 10 
+WT: 14.0  Size: GIANT
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Commonlands
+
+ a skeleton
+ Dragoon Zytl
+ Guard Valon
+
+Crushbone
+
+ orc trainer
+
+Everfrost Peaks
+
+ a decaying skeleton
+
+Greater Faydark
+
+ a decaying skeleton
+
+Lesser Faydark
+
+ a skeleton
+
+Najena
+
+ a large skeleton
+ an ogre guard
+
+Nektulos Forest
+
+ a calcified skeleton
+ a decaying skeleton
+ a greater skeleton
+ an undead annalkeeper
+
+North Qeynos
+
+ a decaying skeleton
+
+Northern Desert of Ro
+
+ a decaying skeleton
+
+Ocean of Tears
+
+ Sister of Erollisi
+
+West Freeport
+
+ a decaying skeleton
+
+Western Plains of Karana
+
+ Ulrich McMannus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crushbone Shoulderpads Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

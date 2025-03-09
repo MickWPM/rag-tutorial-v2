@@ -1,0 +1,35 @@
+ITEM NAME: Iksar Scaled Gloves
+
+Kunark Era (added 2000)
+
+Iksar Scaled Gloves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 10
+STR: +3  DEX: +3  HP: +10
+WT: 4.0  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Grachnist's Handywork 
+ Merchant resale value: ~6pp 
+
+  Drops From 
+Warsliks Woods
+
+ Grachnist the Destroyer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

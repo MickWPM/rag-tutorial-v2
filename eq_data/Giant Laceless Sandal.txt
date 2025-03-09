@@ -1,0 +1,33 @@
+ITEM NAME: Giant Laceless Sandal
+
+
+Giant Laceless Sandal
+
+
+Slot: SECONDARY
+AC: 15
+STA: +5  CHA: -7
+WT: 5.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Northern Karana
+
+ Timbur the Tiny
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Solvedi Scimitar Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

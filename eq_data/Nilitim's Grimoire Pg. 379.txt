@@ -1,0 +1,83 @@
+ITEM NAME: Nilitim's Grimoire Pg. 379
+
+Classic Era (added 1999-2000)
+Nilitim's Grimoire Pg. 379
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+  Drops From 
+Field of Bone
+
+ The Tangrin
+
+Howling Stones
+
+ a bile golem
+ an undertaker skeleton
+
+Kedge Keep
+
+ Phinigel Autropos
+
+Nagafen's Lair
+
+ fire giant warrior
+
+Ocean of Tears
+
+ Allizewsaur
+
+Permafrost
+
+ an ice giant
+
+Plane of Fear
+
+ a boogeyman
+ a fetid fiend
+ a glare lord
+ a samhain
+ a spinechiller spider
+ Amygdalan knight
+ phoboplasm
+
+Plane of Growth
+
+ Treah Greenroot
+
+Plane of Hate
+
+ a kiraikuei
+ a loathling lich
+ a repulsive rat
+ a spite golem
+ an abhorrent
+
+Timorous Deep
+
+a Vicious Raptor
+
+Trakanon's Teeth
+
+ Champion Thenrin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Skill Research
+ Allure (Trivial: ?) (Research Only)
+
+
+
+
+

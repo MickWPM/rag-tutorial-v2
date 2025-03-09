@@ -1,0 +1,33 @@
+ITEM NAME: Golden Ear Stud
+
+
+Golden Ear Stud
+
+
+Slot: EAR
+INT: +3
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake Rathetear
+
+ a gnoll embalmer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Find Lucie Elron
+ The Gnome Take
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

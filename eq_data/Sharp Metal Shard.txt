@@ -1,0 +1,40 @@
+ITEM NAME: Sharp Metal Shard
+
+Kunark Era (added 2000)
+
+Sharp Metal Shard
+
+
+LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 27
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 72 and faction at Amiable
+
+ 0 Platinums
+ 4 Golds
+ 7 Silvers
+ 3 Coppers 
+  Drops From 
+Crypt of Dalnir
+
+ a kly imprecator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Visceral Dagger
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+

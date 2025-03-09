@@ -1,0 +1,48 @@
+ITEM NAME: Shadowed Scythe
+
+Classic Era (added 1999-2000)
+
+Shadowed Scythe
+
+
+MAGIC ITEM  LORE ITEM  TEMPORARY  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 11 
+WT: 12.0  Size: LARGE
+Class: WAR
+Race: NONE
+
+
+
+
+  Drops From 
+West Commonlands
+
+ a shadowed man
+
+Lavastorm Mountains
+
+ a shadowed man
+
+Lesser Faydark
+
+ a shadowed man
+ a shadowed man pet
+
+Nektulos Forest
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Harvester
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

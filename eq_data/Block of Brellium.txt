@@ -1,0 +1,39 @@
+ITEM NAME: Block of Brellium
+
+
+
+Block of Brellium
+
+
+WT: 25.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ None 
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 29)
+ Yield: Block of Brellium x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Ale - Bought
+  3 x Large Brick of Brellium - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Folded Sheet of Brellium (Trivial: 39)
+
+
+
+
+

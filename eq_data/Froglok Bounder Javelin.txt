@@ -1,0 +1,36 @@
+ITEM NAME: Froglok Bounder Javelin
+
+Kunark Era (added 2000)
+
+
+Froglok Bounder Javelin
+
+
+NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 32
+DMG: 4 
+WT: 8.5  Size: SMALL
+Class: WAR SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Swamp of No Hope
+
+ a froglok bounder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #2 (Footman's Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

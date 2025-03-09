@@ -1,0 +1,45 @@
+ITEM NAME: Mask of Deception
+
+Temple Era (added October 1999)
+
+Mask of Deception
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 4
+CHA: +13
+SV MAGIC: +7
+Effect:  Illusion: Dark Elf (Any Slot/Can Equip, Casting Time: 6.0) at Level 15
+WT: 0.4  Size: SMALL
+Class: BRD ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+New version of the Guise of the Deceiver. 
+A rogue level 10 (I did this with a Level 5 Rogue today Dec 2, 2019) or above can hide/sneak undetected up to the ass/sup room. Therefore if someone is leaving a Mask of Deception to rot your rogue should be able to get there and loot it. [1]
+Be aware that the assassin can see through hide, unlike most other mobs in the area. Always /consider mobs on the way for safety. The minimum level to zone into Lower Guk is 5.
+Drops on green as of May/1/2020.
+Note: Unlike the Guise of the Deceiver, this item can only be used by the classes that can wear it, even from inventory. 
+
+  Drops From 
+Lower Guk
+
+ a ghoul assassin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  See also 
+ Illusion Masks
+
+

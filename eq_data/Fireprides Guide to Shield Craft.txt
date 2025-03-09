@@ -1,0 +1,121 @@
+ITEM NAME: Fireprides Guide to Shield Craft
+
+Classic Era (added 1999-2000)
+Fireprides Guide to Shield Craft
+
+
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Valentin Fireheart
+
+
+
+  (54, -167)
+
+
+ East Freeport
+
+ Kif
+
+
+
+  (42, -183)
+
+
+ East Freeport
+
+ Daria Smith
+
+
+
+  (46, -226)
+
+
+ Felwithe
+
+ Nerrisia Irontree
+
+
+
+  (-88, -395)
+
+
+ Neriak Third Gate
+
+ Krystiana N`Ryt
+
+
+
+  (857, -1499)
+
+
+ Oggok
+
+ Bubbgrib
+
+
+
+  (288, -211)
+
+
+ Rivervale
+
+ Frankle Ironhair
+
+
+
+  (-251, -107)
+
+
+ North Kaladim
+
+ Tortuk Everhot
+
+
+
+  (350, -206)
+
+
+ East Cabilis
+
+ Smithy Zern
+
+
+
+  (-512, 8)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Smithing Shields by Ton Firepride
+All shields require a FORGE, WATER, SMITHY HAMMER, and a MOLD of the size and type you wish to craft. The type of shield also determines the amount of metal required. The most commonly smithed shields are Buckler, Round, Targ, Kite, and Tower Shields.
+Buckler Shields require ONE SHEET of METAL.
+Round Shields require TWO SHEETS of METAL.
+Targ Shields require ONE FOLDED SHEET of METAL.
+Kite Shields require TWO MEDIUM QUALITY SHEETS of METAL.
+Tower Shields require ONE MEDIUM QUALITY FOLDED SHEET of METAL.
+I have seen shields carried by visitors of my shop from other lands. Some the foreign shields were of superb craftmanship and a few had been bestowed with special magical properties. Perhaps one day I will have the opportunity to travel to other lands and ask their master blacksmiths to teach me their special techniques.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

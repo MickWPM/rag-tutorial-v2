@@ -1,0 +1,38 @@
+ITEM NAME: Spine Chill Spear
+
+Velious Era (added December 2000-2001)
+
+Spine Chill Spear
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 28
+DMG: 10 
+STA: +3  WIS: +6
+SV COLD: +10
+Effect: Shock of Ice (Combat, Casting Time: Instant) at Level 40
+WT: 3.0  Size: MEDIUM
+Class: WAR RNG ROG SHM
+Race: ALL
+
+
+
+ Merchant resale value: 21.7p 
+
+  Drops From 
+Eastern Wastes
+
+ Chief Ry`Gorr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

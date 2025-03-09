@@ -1,0 +1,38 @@
+ITEM NAME: Torch of Alna
+
+Temple Era (added October 1999)
+
+
+
+Torch of Alna
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 6 
+INT: +2
+SV FIRE: +5
+Effect:  Reclaim Energy (Any Slot, Casting Time: Instant) at Level 20
+Focus Effect: Minion of Fire
+WT: 3.5  Size: LARGE
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+It is a light source while equipped. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Torch Of Alna Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

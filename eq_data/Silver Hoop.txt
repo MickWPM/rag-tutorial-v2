@@ -1,0 +1,33 @@
+ITEM NAME: Silver Hoop
+
+Sky Era (added January 2000)
+
+
+Silver Hoop
+
+
+LORE ITEM  NO DROP
+WT: 15.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Gorgalosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Courage
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

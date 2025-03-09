@@ -1,0 +1,42 @@
+ITEM NAME: Enchanted Elven Chain Veil
+
+
+
+Enchanted Elven Chain Veil
+
+
+Slot: FACE
+AC: 4
+WIS: +2  INT: +2
+SV MAGIC: +2
+WT: 0.2  Size: SMALL
+Class: ALL except SHD MNK SHM NEC
+Race: ELF HIE HEF
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 130)
+ Yield: Enchanted Elven Chain Veil x1
+ In Koada`Dal Forge:
+
+
+  1 x Chainmail Veil Pattern - Bought
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Enchanted Mithril Rings - Crafted
+  1 x Moonlight Temper - Crafted
+  1 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

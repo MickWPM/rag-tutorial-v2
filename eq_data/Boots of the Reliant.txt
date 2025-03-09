@@ -1,0 +1,32 @@
+ITEM NAME: Boots of the Reliant
+
+Temple Era (added October 1999)
+
+Boots of the Reliant
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 11
+SV DISEASE: +6
+WT: 4.9  Size: MEDIUM
+Class: CLR
+Race: ALL except BAR ELF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Armor of the Priest Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

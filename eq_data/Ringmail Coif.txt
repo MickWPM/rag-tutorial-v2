@@ -1,0 +1,63 @@
+ITEM NAME: Ringmail Coif
+
+Were you looking for Large Ringmail Armor Set? Were you looking for Small Ringmail Armor Set?
+
+Ringmail Coif
+
+
+Slot: HEAD
+AC: 7
+WT: 6.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Ringmail Armor Set. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 2 Platinums
+ 5 Golds
+ 9 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Butcherblock Mountains
+
+ a crazed goblin
+
+Mistmoore Castle
+
+ a fallen noble
+ a glyphed aegis
+ a glyphed custodian
+ a glyphed forbidder
+ a glyphed ghoul
+ a glyphed guard
+ a glyphed sentry
+ a glyphed warder
+
+The Estate of Unrest
+
+ a lurking mummy
+
+Highpass Hold
+
+ an orc berserker
+ an orc scout
+
+Kithicor Forest
+
+ Kithicor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

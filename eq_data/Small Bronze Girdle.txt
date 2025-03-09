@@ -1,0 +1,50 @@
+ITEM NAME: Small Bronze Girdle
+
+Classic Era (added 1999-2000)Were you looking for Bronze Armor Set? Were you looking for Large Bronze Armor Set?
+
+Small Bronze Girdle
+
+
+Slot: WAIST
+AC: 7
+WT: 3.8  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Bronze Armor Set 
+
+  Drops From 
+Mistmoore Castle
+
+ a ghastish ancille
+ a ghoulish ancille
+ a hemo enologist
+ a vampiric ancille
+ an ancille cook
+
+The Estate of Unrest
+
+ a barbed bone skeleton
+ a greater dark bone
+ an undead knight of Unrest
+
+Rathe Mountains
+
+ a barbed bone skeleton
+
+High Keep
+
+ a pickclaw warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

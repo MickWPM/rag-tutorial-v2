@@ -1,0 +1,40 @@
+ITEM NAME: Jagged Blade of Mourning
+
+Kunark Era (added 2000)
+
+Jagged Blade of Mourning
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 13   AC: 3
+DEX: +10
+SV MAGIC: +10
+WT: 4.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ A Di`zok Underling
+ The Bridge Keeper
+ Prince Selrach Di'zok
+ a Scarred Overseer
+ Overseer Dal`guur
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

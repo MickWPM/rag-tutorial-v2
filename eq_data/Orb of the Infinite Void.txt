@@ -1,0 +1,38 @@
+ITEM NAME: Orb of the Infinite Void
+
+Velious Era (added December 2000-2001)
+
+ Project 1999 Green - Cheekpoker <Safe Space> models an Orb of the Infinite Void.
+Orb of the Infinite Void
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SECONDARY
+AC: 35
+WIS: +5  INT: +5  HP: +75  MANA: +75
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Ball of Black Energy 
+
+  Drops From 
+Kael Drakkel
+
+ Keldor Dek`Torek
+
+This item is tagged as a shield for AC purposes.
+Serves as a greater light source..
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

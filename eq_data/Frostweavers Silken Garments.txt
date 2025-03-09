@@ -1,0 +1,49 @@
+ITEM NAME: Frostweavers Silken Garments
+
+Velious Era (added December 2000-2001)
+Frostweavers Silken Garments
+
+
+The Book is closed.
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Thurgadin
+
+ Betti Frostweaver
+
+  Bank
+
+  (-265, 133)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Frostweavers Silken Garments
+Crystalline Silk
+Swatches sewn from the crystalline strands of the velium spiders may be sewn into exquisite finery.
+The materials required are an appropriate pattern, silver thread, and the necessary amount of silk. Caps, Masks, Collars, Mantles and Wristbands require One Crystalline Silk Swatch. Sashes, Sleeves, Gloves, and Slippers require Two Crystalline Silk Swatches. Shirts, Pantaloons, and Cloaks Require Three Crystalline Silk Swatches.
+Ice Burrower Silk
+The silk of the Ice Burrowers is of the most resilient of all silken textiles. Swatches of Ice Silk may be sewn by an experienced tailor.
+The materials required are an appropriate pattern, platinum thread, a vial of purified mana, and the necessary amount of silk. Caps, Masks, Collars, Mantles and Wristbands require One Ice Silk Swatch. Sashes, Sleeves, Gloves, and Slippers require Two Ice Silk Swatches. Robes, Pantaloons, and Cloaks require Three Ice Silk Swatches.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

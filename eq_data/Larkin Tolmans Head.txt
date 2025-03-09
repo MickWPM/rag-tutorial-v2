@@ -1,0 +1,41 @@
+ITEM NAME: Larkin Tolmans Head
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Larkin Tolmans Head
+
+
+LORE ITEM  NO DROP
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Note: Removed from p99 on Oct 8, 2013 patch. 
+
+  Drops From 
+Western Plains of Karana
+
+ Larkin Tolman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

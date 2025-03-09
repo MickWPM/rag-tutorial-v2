@@ -1,0 +1,33 @@
+ITEM NAME: Head of Morley Murrain
+
+Stonebrunt Era (added summer 2001)
+
+
+Head of Morley Murrain
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Southern Karana
+
+ Morley Murrain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Interrogator's Badge (Badge #2)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

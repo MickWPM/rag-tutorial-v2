@@ -1,0 +1,36 @@
+ITEM NAME: Elder Spiritist's Vambraces
+
+Kunark Era (added 2000)
+
+Elder Spiritist's Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 8
+Effect:  Drones of Doom (Must Equip, Casting Time: 8.0) at Level 45
+WT: 6.5  Size: SMALL
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+Part of the Elder Spiritist's Armor set. 
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg captain
+ a drolvarg sentry
+ Hangnail
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

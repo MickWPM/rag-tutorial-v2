@@ -1,0 +1,34 @@
+ITEM NAME: Sphinx Hide
+
+Sky Era (added January 2000)
+
+
+
+Sphinx Hide
+
+
+LORE ITEM
+WT: 18.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul harvester
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Test of Sight
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

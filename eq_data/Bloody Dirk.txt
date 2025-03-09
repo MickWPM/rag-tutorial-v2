@@ -1,0 +1,36 @@
+ITEM NAME: Bloody Dirk
+
+Classic Era (added 1999-2000)
+
+Bloody Dirk
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 22
+DMG: 6 
+STR: +3  DEX: +3
+Effect: Disease Cloud (Combat, Casting Time: Instant) at Level 15
+WT: 1.0  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Everfrost Peaks
+
+ Dark Assassin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

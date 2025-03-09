@@ -1,0 +1,36 @@
+ITEM NAME: Sentry Girdle
+
+Velious Era (added December 2000-2001)
+
+Sentry Girdle
+
+
+MAGIC ITEM LORE ITEM
+Slot: WAIST
+AC: 10
+CHA: +5 AGI: +8 HP: +10
+SV MAGIC: +5
+WT: 2.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Sentry Armor set. 
+
+  Drops From 
+Skyshrine
+
+ Sentry Emil
+ Sentries
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

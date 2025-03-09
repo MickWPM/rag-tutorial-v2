@@ -1,0 +1,35 @@
+ITEM NAME: Meditative Blanket
+
+Kunark Era (added 2000)
+
+
+Meditative Blanket
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 10
+STR: +2  WIS: +3  INT: +3  AGI: +2
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ Titail Sinok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,46 @@
+ITEM NAME: Ethereal Bladed Naginata
+
+Velious Era (added December 2000-2001)
+Warrens Era (added spring 2001) Ethereal Bladed Naginata
+
+
+Ethereal Bladed Naginata
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 40
+DMG: 37   AC: 15
+STR: +5  DEX: +10  AGI: +15  HP: +50
+SV FIRE: +11  SV COLD: +11  SV MAGIC: +11
+Effect: Garzicor's Vengeance (Combat, Casting Time: Instant) at Level 50
+WT: 10.3  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+ Item Lore (from Identify): Eldriaks Verified Naginata 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Blacksmithing (Trivial: 160)
+ Yield: Ethereal Bladed Naginata x1
+ In Forge:
+
+
+  1 x Assembled Naginata - Player Crafted
+  1 x Blackened Diamond - Quested
+  1 x Gold Tinted Diamond - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Small Studded Cloak
+
+Classic Era (added 1999-2000)
+
+Small Studded Cloak
+
+
+Slot: BACK
+AC: 5
+WT: 1.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 56)
+ Yield: Small Studded Cloak x1
+ In Loom:
+
+
+  1 x Cloak Pattern - Bought
+  1 x Medium Quality Wolf Skin - Crafted, Quested, Dropped
+  4 x Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

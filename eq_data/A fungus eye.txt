@@ -1,0 +1,34 @@
+ITEM NAME: A fungus eye
+
+Temple Era (added October 1999)
+
+
+A fungus eye
+
+
+LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Estate of Unrest
+
+ mortuary fungus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Harvester
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

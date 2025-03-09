@@ -1,0 +1,38 @@
+ITEM NAME: Gigantic Chipped Tusk
+
+Classic Era (added 1999-2000)
+
+
+Gigantic Chipped Tusk
+
+
+Slot: FINGER
+WT: 10.0  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+Finger slot item!
+
+ Item Lore (from Identify): Mammoth Tusks 
+ Merchant resale value: ~10 platinum 
+
+  Drops From 
+Southern Karana
+
+ Cracktusk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ See also
+ Gigantic Cracked Tusk
+
+

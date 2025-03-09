@@ -1,0 +1,36 @@
+ITEM NAME: Ravenscale Armguards
+
+
+Ravenscale Armguards
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 10
+DEX: +5
+SV FIRE: +5
+WT: 3.7  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Part of the Ravenscale Armor Set. 
+
+  Drops From 
+Cazic Thule
+
+ Tae Ew Archon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

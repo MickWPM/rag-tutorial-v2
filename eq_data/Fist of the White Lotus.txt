@@ -1,0 +1,34 @@
+ITEM NAME: Fist of the White Lotus
+
+Velious Era (added December 2000-2001)
+
+
+Fist of the White Lotus
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 10
+STR: +14  STA: +3  AGI: +3  HP: +35
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Skyshrine Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

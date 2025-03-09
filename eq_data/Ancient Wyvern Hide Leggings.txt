@@ -1,0 +1,36 @@
+ITEM NAME: Ancient Wyvern Hide Leggings
+
+Velious Era (added December 2000-2001)
+
+
+Ancient Wyvern Hide Leggings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 25
+STR: +5  STA: +15  AGI: +25  HP: +50
+SV DISEASE: +15
+WT: 2.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Ikatiar the Venom
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

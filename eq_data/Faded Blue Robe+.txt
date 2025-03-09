@@ -1,0 +1,31 @@
+ITEM NAME: Faded Blue Robe*
+
+Classic Era (added 1999-2000)
+
+
+Faded Blue Robe*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.7  Size: MEDIUM
+Class: WIZ MAG ENC
+Race: HUM HIE HEF
+
+
+ Item Lore (from Identify): Order of Three Training Robe Starting quest for enchanters, wizards and magicians. Turn in a note to a GM to receive. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Patchwork Pants
+
+Were you looking for Large Patchwork Armor Set? Were you looking for Small Patchwork Armor Set?
+
+Patchwork Pants
+
+
+Slot: LEGS
+AC: 4
+WT: 4.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Patchwork Armor Set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 26)
+
+See Patchwork Armor
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

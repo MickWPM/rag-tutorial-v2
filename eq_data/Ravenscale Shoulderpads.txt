@@ -1,0 +1,36 @@
+ITEM NAME: Ravenscale Shoulderpads
+
+Epic Quests Era (added Sept 2000)
+
+Ravenscale Shoulderpads
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 10
+STR: +5
+SV MAGIC: +5
+WT: 2.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Part of the Ravenscale Armor Set. 
+
+  Drops From 
+Steamfont Mountains
+
+ Renux Herkanor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

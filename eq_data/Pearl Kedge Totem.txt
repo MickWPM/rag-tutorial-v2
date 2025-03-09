@@ -1,0 +1,32 @@
+ITEM NAME: Pearl Kedge Totem
+
+
+Pearl Kedge Totem
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+STR: -9  WIS: +18
+WT: 0.8  Size: SMALL
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Dagnor's Cauldron
+
+ Bilge Farfathom
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,56 @@
+ITEM NAME: Dark Gold Sr Apprentice Robe*
+
+
+
+Dark Gold Sr Apprentice Robe*
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 4
+MANA: +2
+WT: 0.6  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Ak'Anon
+
+ Eonis Mournunder
+ Rilgor Plegnog
+ Vaenor Husga
+ Velena Corgtec
+
+Najena
+
+ Akksstaff
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (2083, -392)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

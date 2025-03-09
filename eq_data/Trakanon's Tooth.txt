@@ -1,0 +1,38 @@
+ITEM NAME: Trakanon's Tooth
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Trakanon's Tooth
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Charges: 1
+Skill: Piercing  Atk Delay: 30
+DMG: 2 
+Effect: Deadly Lifetap (Casting Time: Instant) at Level ?
+WT: 1.0  Size: MEDIUM
+Class: ALL except CLR PAL DRU MNK
+Race: ALL
+
+
+One charge of Deadly Lifetap added on 9/18/12 patch. Clickable from inventory. The ratio is also a pun: 2 / 30 ... tooth hurty! 
+
+  Drops From 
+Old Sebilis
+
+ Trakanon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rune of Scale Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

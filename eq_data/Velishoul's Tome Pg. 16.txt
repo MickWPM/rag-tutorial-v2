@@ -1,0 +1,31 @@
+ITEM NAME: Velishoul's Tome Pg. 16
+
+
+
+Velishoul's Tome Pg. 16
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: 88) 
+
+  Tradeskill recipes 
+ Spell Research
+ Invigor (Trivial: 62)
+
+
+
+
+

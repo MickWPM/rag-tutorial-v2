@@ -1,0 +1,34 @@
+ITEM NAME: Shining Helm
+
+Velious Era (added December 2000-2001)
+
+
+Shining Helm
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 27
+STR: +3  DEX: +3  STA: +3  WIS: +4  MANA: +30
+SV DISEASE: +3  SV MAGIC: +2
+WT: 5.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Kael Helm
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Petrified Redwood
+
+
+Petrified Redwood
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Overthere
+
+ a spiked succulent
+ a thorny succulent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #2 (Footman's Pike)
+ Shackle of Bronze
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ The Overthere (maybe just a drop in OT?)
+ Warsliks Woods
+
+

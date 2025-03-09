@@ -1,0 +1,300 @@
+ITEM NAME: Arrow
+
+Classic Era (added 1999-2000)
+
+Arrow
+
+
+QUEST ITEM
+Slot: AMMO
+DMG: 1
+WT: 0.1  Range: 25  Size: SMALL
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ an aqua goblin
+ an aqua goblin wizard
+ aqua goblin marauder
+
+Dagnor's Cauldron
+
+ Dwigus Lowater
+
+Innothule Swamp
+
+ Tann Cellus
+
+Kithicor Forest
+
+ Kithicor
+
+Lake Rathetear
+
+ a deepwater goblin
+ tainted aquagoblin
+
+Lesser Faydark
+
+ Whimsy Larktwitter
+
+Southern Karana
+
+ centaur archer
+ centaur charger
+
+Southern Desert of Ro
+
+ a deepwater goblin
+
+The Warrens
+
+ Huntmaster Furgrl
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork bowyer
+
+
+
+  (1250, -879)
+
+
+ East Cabilis
+
+ Granthrow
+
+
+
+  (-508, -311)
+
+
+ Dreadlands
+
+ Klok F`tshai
+
+
+
+  (780, 9140)
+
+
+ East Commonlands
+
+ Joryd Longarms
+
+
+
+  (989, 3757)
+
+
+ Eastern Plains of Karana
+
+ Bryan
+
+
+
+  (-886, -12)
+
+
+ Felwithe
+
+ Merchant Longarrow
+
+
+
+  (-70, -342)
+
+
+ Firiona Vie
+
+ Rafron Brandin
+
+
+
+  (-3833, 1671)
+
+
+ Greater Faydark
+
+ Merchant Winerasea
+
+
+
+  (-270, 89)
+
+
+ Greater Faydark
+
+ Merchant Tuluvdar
+
+
+
+  (-427, 466)
+
+
+ Grobb
+
+ Zazhar
+
+
+
+  (441, -271)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ South Kaladim
+
+ Alanury Stormhammer
+
+
+
+  (137, 232)
+
+
+ Kithicor Forest
+
+ Mune Woodchopper
+
+
+
+  (1458, 2263)
+
+
+ Kithicor Forest
+
+ Krile Arrowsmith
+
+
+
+  (-332, 3882)
+
+
+ Oggok
+
+ Praak
+
+
+
+  (-329, 496)
+
+
+ Oggok
+
+ Squeea
+
+
+
+  (647, 977)
+
+
+ The Overthere
+
+ Klok G`rshai
+
+
+
+  (2212, -2912)
+
+
+ Western Plains of Karana
+
+ Carlan the Young
+
+
+
+  (972, -1868)
+
+
+ Western Plains of Karana
+
+ Maldin the Old
+
+
+
+  (972, -1868)
+
+
+ Western Plains of Karana
+
+ Brenzl McMannus
+
+
+
+  (-1971, -8967)
+
+
+ South Qeynos
+
+ Stan Cloven
+
+
+
+  (427, -265)
+
+
+ South Qeynos
+
+ Nesiff Tallaherd
+
+
+
+  (440, -243)
+
+
+ Surefall Glade
+
+ Grathin Nilm
+
+
+
+  (104, -86)
+
+
+ Thurgadin
+
+ Clara
+
+
+
+  (51, -121)
+
+
+ Thurgadin
+
+ Tavir
+
+
+
+  (-187, -298)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

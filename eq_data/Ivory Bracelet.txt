@@ -1,0 +1,33 @@
+ITEM NAME: Ivory Bracelet
+
+Classic Era (added 1999-2000)
+
+Ivory Bracelet
+
+
+MAGIC ITEM
+Slot: WRIST
+AGI: +3  MANA: +20
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a reanimated hand
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Clay coated blade
+
+Velious Era (added December 2000-2001)
+
+
+Clay coated blade
+
+
+LORE ITEM  NO DROP
+WT: 20.1  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+ Pottery (Trivial: 128)
+ Yield: Clay coated blade x1
+ In Pottery Wheel:
+
+
+  1 x Clay/water mixture - Crafted
+  1 x Complete shaped blade - Crafted 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Finished Naginata Blade
+
+
+
+
+

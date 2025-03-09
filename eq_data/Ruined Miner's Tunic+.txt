@@ -1,0 +1,32 @@
+ITEM NAME: Ruined Miner's Tunic*
+
+Classic Era (added 1999-2000)
+
+
+Ruined Miner's Tunic*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.8  Size: MEDIUM
+Class: ROG
+Race: DWF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Guild Summons - Miners Guild 628
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

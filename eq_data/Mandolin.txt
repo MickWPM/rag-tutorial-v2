@@ -1,0 +1,104 @@
+ITEM NAME: Mandolin
+
+Classic Era (added 1999-2000)
+
+Mandolin
+
+
+Slot: SECONDARY
+Stringed Instruments: 20
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+East Freeport
+
+ Branis Noolright
+ Canlan Talespinner
+ Caskin Marsheart
+ Fabian
+ Marus Kemson
+
+Qeynos Hills
+
+ Misty Storyswapper
+
+Southern Karana
+
+ Baenar Swiftsong
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ North Freeport
+
+ Jekel Enhied
+
+
+
+  (-117, 556)
+
+
+ West Freeport
+
+ Fania Esruc
+
+
+
+  (-251, -820)
+
+
+ Greater Faydark
+
+ Merchant Tenra
+
+
+
+  (-215, 255)
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ South Qeynos
+
+ Sansa Nusk
+
+
+
+  (557, -146)
+
+
+ Rathe Mountains
+
+ Lianna Ferasa
+
+
+
+  (3989, 1477)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

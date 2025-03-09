@@ -1,0 +1,43 @@
+ITEM NAME: Ulthork Meat
+
+Velious Era (added December 2000-2001)
+
+
+
+Ulthork Meat
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a ulthork man o war
+ an ulthork hunter
+ an ulthork warrior
+
+Siren's Grotto
+
+ an enthralled ulthork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Spicy Ulthork Meat (Trivial: 82)
+
+
+
+
+

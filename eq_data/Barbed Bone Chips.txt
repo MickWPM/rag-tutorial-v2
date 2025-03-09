@@ -1,0 +1,35 @@
+ITEM NAME: Barbed Bone Chips
+
+
+
+Barbed Bone Chips
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a barbed bone skeleton
+
+Rathe Mountains
+
+ a barbed bone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Tempi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

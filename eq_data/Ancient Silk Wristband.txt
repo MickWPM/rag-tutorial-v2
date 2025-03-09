@@ -1,0 +1,36 @@
+ITEM NAME: Ancient Silk Wristband
+
+Velious Era (added December 2000-2001)
+
+Ancient Silk Wristband
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+WT: 1.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ West Wing Mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Kael Wristband
+ Magician Kael Wristband
+ Necromancer Kael Wristband
+ Wizard Kael Wristband
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

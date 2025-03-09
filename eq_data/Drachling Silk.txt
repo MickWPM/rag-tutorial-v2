@@ -1,0 +1,37 @@
+ITEM NAME: Drachling Silk
+
+Kunark Era (added 2000)
+
+
+Drachling Silk
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+The no drop version is foraged in DL with lore  Item Lore (from Identify):  Drachling Silk
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Note: Appears to be two items with this same name, one is NO DROP while the other is droppable. No known use for either. Neither can be sold to a vendor. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Dreadlands
+ Firiona Vie
+
+

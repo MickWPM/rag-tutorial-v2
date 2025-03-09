@@ -1,0 +1,37 @@
+ITEM NAME: Blood Ember Bracer
+
+
+Blood Ember Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 16
+Effect:  Gather Shadows (Must Equip, Casting Time: 10.0) at Level 45
+WT: 4.0  Size: SMALL
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+Part of the Blood Ember Armor set. 
+
+  Drops From 
+Old Sebilis
+
+ spectral harbinger
+
+Trakanon's Teeth
+
+ Spectral Commander
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Shiny Card
+
+
+
+Shiny Card
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Are there different for each guard? 
+
+  Drops From 
+Steamfont Mountains
+
+ Watchman Dreeb
+ Watchman Grep
+ Watchman Mylz
+ Watchman Prenn
+ Watchman Prynn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Series C Black Boxes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

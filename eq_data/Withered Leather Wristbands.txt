@@ -1,0 +1,33 @@
+ITEM NAME: Withered Leather Wristbands
+
+
+Withered Leather Wristbands
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 3
+STR: +3  STA: +2  WIS: +5  MANA: +5
+WT: 1.0  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+Part of the Withered Leather Armor Set 
+
+  Drops From 
+The Hole
+
+ Irslak the Wretched
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

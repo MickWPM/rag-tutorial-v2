@@ -1,0 +1,44 @@
+ITEM NAME: Imbued Sapphire
+
+
+
+Imbued Sapphire
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Created from a normal Sapphire by the Imbue Sapphire spell. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+  Various Dark Elf Recipes
+ Imbued Teir'Dal Chain Armor Set
+ Teir'Dal Adamantite Armor Set (Imbued)
+ Imbued Teir`Dal Dragoon Shield
+ Indigo Sabre of Innoruuk
+
+  Various Human Recipes
+Imbued Field Plate (Innoruuk)
+
+
+ Deity Tradeskills: Jewelcrafting
+ Imbued Black Sapphire Silvered Necklace
+ Imbued Black Sapphire Electrum Earring
+ Imbued Golden Black Sapphire Earring
+ Imbued Black Sapphire Platinum Necklace
+
+
+
+
+

@@ -1,0 +1,49 @@
+ITEM NAME: Blackened Mithril Boots
+
+
+
+
+ 
+
+ Notice: This article is being considered for deletion.
+Please add comments or information below, as to whether this page applies to p99 and should be kept or not.
+Feel free to edit the article, but please do not blank it or remove this notice. (See: deletion policy or image policy)
+
+
+
+
+
+Blackened Mithril Boots
+
+
+MAGIC ITEM  NO DROP
+Slot: FEET
+AC: 5
+MANA: +10
+SV MAGIC: +5
+WT: 2.0  Size: MEDIUM
+Class: DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+Nagafen's Lair
+
+ a kobold guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

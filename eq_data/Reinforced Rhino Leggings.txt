@@ -1,0 +1,32 @@
+ITEM NAME: Reinforced Rhino Leggings
+
+Kunark Era (added 2000)
+
+Reinforced Rhino Leggings
+
+
+Slot: LEGS
+AC: 6
+WT: 4.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ a burynai excavator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

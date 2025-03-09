@@ -1,0 +1,33 @@
+ITEM NAME: Gnoll's Eye
+
+Classic Era (added 1999-2000)
+
+
+Gnoll's Eye
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Splitpaw Lair
+
+ a one eyed gnoll
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gnoll Slayer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

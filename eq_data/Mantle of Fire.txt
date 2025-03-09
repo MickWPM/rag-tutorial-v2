@@ -1,0 +1,35 @@
+ITEM NAME: Mantle of Fire
+
+
+
+Mantle of Fire
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 6
+DEX: +12  AGI: +12
+SV FIRE: +15
+WT: 0.5  Size: MEDIUM
+Class: MNK ROG WIZ MAG
+Race: ALL
+
+
+It is a moderately bright light source. 
+
+  Drops From 
+Burning Woods
+
+ Ixiblat Fer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

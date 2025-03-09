@@ -1,0 +1,36 @@
+ITEM NAME: Halfling Parts
+
+
+Halfling Parts
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Plains of Karana
+
+ a carrion spider
+
+Oasis of Marr
+
+ Lockjaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Hot-N-Spicy Toelings (Trivial: 56)
+
+
+
+
+

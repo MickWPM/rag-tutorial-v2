@@ -1,0 +1,32 @@
+ITEM NAME: Footman Head Plans
+
+
+
+Footman Head Plans
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Recieved from Drill Master Kyg in return for the full Footman's Pack and the previous pike. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #2 (Footman's Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Footman's Pike Head (Trivial: 15)
+
+
+
+
+

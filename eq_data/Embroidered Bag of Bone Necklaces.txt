@@ -1,0 +1,33 @@
+ITEM NAME: Embroidered Bag of Bone Necklaces
+
+Classic Era (added 1999-2000)
+
+
+Embroidered Bag of Bone Necklaces
+
+
+LORE ITEM  NO DROP
+WT: 0.9  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Quellious Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Non Tradeskill
+  8x Odd Bone Necklace - Dropped
+
+
+
+
+

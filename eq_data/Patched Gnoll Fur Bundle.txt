@@ -1,0 +1,37 @@
+ITEM NAME: Patched Gnoll Fur Bundle
+
+
+Patched Gnoll Fur Bundle
+
+
+Slot: BACK
+AC: 4
+SV COLD: +5
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gnoll Fur
+
+  Player crafted 
+ Tailoring (Trivial: 31)
+ Yield: Patched Gnoll Fur Bundle x1
+ In Loom:
+
+
+  4 x Gnoll Fur Patch Quarter - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

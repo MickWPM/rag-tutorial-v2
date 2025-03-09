@@ -1,0 +1,39 @@
+ITEM NAME: Grayish Liquid
+
+
+
+Grayish Liquid
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Pauldron
+
+  Player crafted 
+ Brewing (Trivial: 21)
+ Yield: Grayish Liquid x1
+ In Brewing Barrel:
+
+
+  1 x Bottle - Crafted, Bought, Returned on Failure
+  1 x Hopeless Willow Moss - Foraged
+  1 x Spine Poison Extract - Crafted
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

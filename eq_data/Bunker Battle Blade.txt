@@ -1,0 +1,33 @@
+ITEM NAME: Bunker Battle Blade
+
+
+
+Bunker Battle Blade
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 46
+DMG: 10 
+WT: 13.0  Size: LARGE
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Corrupt Guards
+ The Test of the Green and Blue
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

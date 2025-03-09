@@ -1,0 +1,35 @@
+ITEM NAME: Grotesque Alloy Mask
+
+Stonebrunt Era (added summer 2001)
+
+Grotesque Alloy Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 6
+DEX: +7  CHA: -15  AGI: +2
+SV MAGIC: +5
+WT: 1.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Functions as a moderate light source like Lightstone when equipped. 
+
+  Drops From 
+Clan Runnyeye
+
+ Lord Pickclaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Runebranded Girdle
+
+Kunark Era (added 2000)
+
+Runebranded Girdle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 7
+STR: +8  DEX: +8  STA: +8  HP: +25  MANA: +25
+Haste: +27%  
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Runebranded Girdle 
+
+  Drops From 
+Kithicor Forest
+
+ Advisor C`zatl
+ Coercer Q`ioul
+
+Old Sebilis
+
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ krup ghoul knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

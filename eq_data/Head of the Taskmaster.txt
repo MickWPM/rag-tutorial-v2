@@ -1,0 +1,33 @@
+ITEM NAME: Head of the Taskmaster
+
+Velious Era (added December 2000-2001)
+
+
+Head of the Taskmaster
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 10.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ Taskmaster Abyott
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ralgyn's Promise
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

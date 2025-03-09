@@ -1,0 +1,38 @@
+ITEM NAME: Dragon Crafted Urn
+
+Warrens Era (added spring 2001)
+
+
+Dragon Crafted Urn
+
+
+LORE ITEM NO TRADE 
+WT: 2.5  Weight Reduction: 0%
+Capacity: 2  Size Capacity: LARGE
+
+
+Becomes an inventory item after combine.
+ Item Lore (from Identify): Filled with bone dust and wing 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Spirit of Garzicor
+
+  Player crafted 
+  Tradeskill recipes 
+ None
+ Dragon Crafted Urn (Trivial: No Trivial)
+
+
+In Urn Container:
+
+  1 x Dragonbone Dust - Questd
+  1 x Dragonwing Skin - Quested
+
+
+
+
+

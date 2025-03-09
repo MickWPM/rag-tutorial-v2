@@ -1,0 +1,33 @@
+ITEM NAME: Spiroc Sky Totem
+
+Sky Era (added January 2000)
+
+
+Spiroc Sky Totem
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Silence
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

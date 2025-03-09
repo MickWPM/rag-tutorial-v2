@@ -1,0 +1,39 @@
+ITEM NAME: Pestilence Scythe (droppable)
+
+Kunark Era (added 2000)
+
+Pestilence Scythe
+
+
+LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 50
+DMG: 10 
+WT: 11.9  Size: LARGE
+Class: ALL except CLR WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+This is the droppable version implemented in a Kunark-Velious patch [1].
+Do not turn this version in for the Aegis of Life quest, rather turn in the Pestilence Scythe. 
+ Merchant resale value: 4 gold 
+
+  Drops From 
+Southern Karana
+
+ Lord Grimrot (live)
+ Lord Grimrot (undead) (?)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

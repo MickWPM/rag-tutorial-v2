@@ -1,0 +1,33 @@
+ITEM NAME: Broken Disk
+
+Velious Era (added December 2000-2001)
+
+
+Broken Disk
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ a Kromzek Captain
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Leuz's Task
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

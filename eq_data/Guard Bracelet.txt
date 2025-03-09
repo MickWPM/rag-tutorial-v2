@@ -1,0 +1,44 @@
+ITEM NAME: Guard Bracelet
+
+Classic Era (added 1999-2000)
+
+
+Guard Bracelet
+
+
+NO DROP
+Slot: WRIST
+AC: 5
+WT: 2.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Two versions exist
+ Item Lore (from Identify): Corrupt Guard Bracelet
+ Item Lore (from Identify): Loyal Guard Bracelet 
+
+  Drops From 
+Western Plains of Karana
+
+ Guard McCluskey
+ Guard Donlan
+
+North Karana
+
+ Guard Oystin
+ Guard Westyn
+ Guard Stanard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Corrupt Guards
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

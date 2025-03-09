@@ -1,0 +1,37 @@
+ITEM NAME: Lance of Thunder
+
+Velious Era (added December 2000-2001)
+
+ 
+Lance of Thunder
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Piercing  Atk Delay: 46
+DMG: 52 
+WIS: +15  INT: +15  HP: +75
+SV MAGIC: +15
+WT: 15.0  Size: MEDIUM
+Class: PAL SHD
+Race: ALL
+
+
+Note: Showing post-upgrade stats. 
+
+  Drops From 
+Temple of Veeshan
+
+ Telkorenar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,40 @@
+ITEM NAME: Clay Totem
+
+Classic Era (added 1999-2000)
+
+Clay Totem
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+HP: +5
+WT: 0.8  Size: SMALL
+Class: CLR DRU BRD SHM
+Race: ALL
+
+
+
+ Merchant resale value: 1p 
+
+  Drops From 
+Butcherblock Mountains
+
+ a goblin shaman
+ a goblin wizard
+
+Misty Thicket
+
+ Mooto
+ a goblin shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

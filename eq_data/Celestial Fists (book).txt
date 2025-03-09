@@ -1,0 +1,30 @@
+ITEM NAME: Celestial Fists (book)
+
+Epic Quests Era (added Sept 2000)
+
+Celestial Fists
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Illegible Tome of Immense Power
+Obtained by handing Lheao the Robe of Whistling Fists and Danl's Reference. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

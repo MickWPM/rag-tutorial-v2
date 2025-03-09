@@ -1,0 +1,36 @@
+ITEM NAME: Hotof's Bracer
+
+Warrens Era (added spring 2001)
+
+
+Hotof's Bracer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STR: +10  CHA: +10  WIS: +10
+SV FIRE: +15  SV COLD: +15
+WT: 1.0  Size: SMALL
+Class: WAR RNG DRU BRD ROG
+Race: ELF
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

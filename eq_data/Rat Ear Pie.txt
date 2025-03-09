@@ -1,0 +1,35 @@
+ITEM NAME: Rat Ear Pie
+
+
+Rat Ear Pie
+
+
+This is a meal!
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rat Ear Pie Quest
+ Paw of Opolla Quest
+
+  Player crafted 
+ Baking (Trivial: 142)
+ In Oven:
+
+
+  1 x Uncooked Rat Ear Pie - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

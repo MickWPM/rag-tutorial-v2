@@ -1,0 +1,32 @@
+ITEM NAME: White Spider Fur
+
+Velious Era (added December 2000-2001)
+
+White Spider Fur
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Not for any tradeskills.[1] 
+ Merchant resale value: 4pp 7g 8s 3c 
+
+  Drops From 
+Velketor's Labyrinth
+
+ a blizzard hunter
+ a shard spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

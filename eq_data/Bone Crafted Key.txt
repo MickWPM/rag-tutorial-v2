@@ -1,0 +1,40 @@
+ITEM NAME: Bone Crafted Key
+
+Paineel Era (added February 2000)
+
+
+Bone Crafted Key
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Key to the City of Paineel
+
+Opens elevator to access city area in Paineel.
+If Paineel is your home city it is in your inventory; also given free if you have at least Amiable faction: say "need" to one of the 4 skeleton guards that hand out the keys. This key is not soul bound! 
+Also acts as a weak light source.
+In order to use the key, click on the rock at the elevator door, with the key on your mouse pointer. It doesn't work if in your inventory. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ Obtained From
+Guard Heridion
+Guard Menbuknar
+Guard Korlack
+Guard Lecknar
+
+

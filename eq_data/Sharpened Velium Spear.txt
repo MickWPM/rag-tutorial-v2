@@ -1,0 +1,35 @@
+ITEM NAME: Sharpened Velium Spear
+
+Velious Era (added December 2000-2001)
+
+Sharpened Velium Spear
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 11 
+WT: 2.8  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ Pierre
+ A Chetari Guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Magnifying Glass
+
+Warrens Era (added spring 2001)
+
+
+Magnifying Glass
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Erud's Crossing
+
+ A ground spawn at -600, +2000
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Geologist's Purloined Tools
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

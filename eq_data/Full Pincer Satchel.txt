@@ -1,0 +1,37 @@
+ITEM NAME: Full Pincer Satchel
+
+Kunark Era (added 2000)
+
+
+Full Pincer Satchel
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 3.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Geozite Tool Quest
+
+  Player crafted 
+ Non-Tradeskill (No Fail)
+ Yield: Full Pincer Satchel x1
+ In Pincer Satchel:
+
+
+  2 x Large Scorpion Pincer - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

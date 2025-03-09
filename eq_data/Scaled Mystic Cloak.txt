@@ -1,0 +1,31 @@
+ITEM NAME: Scaled Mystic Cloak
+
+
+Scaled Mystic Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 9
+STA: +5  MANA: +10
+WT: 3.0  Size: LARGE
+Class: SHM
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Cloak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Titanium Rod
+
+
+
+Titanium Rod
+
+
+NO DROP
+WT: 7.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Weaponsmith Grugl
+
+
+
+  (-432, -33)
+
+  Related quests 
+Warrior Pike #8 (Pride of the Legion) (Not on P99)
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,80 @@
+ITEM NAME: Velium Dagger
+
+Velious Era (added December 2000-2001)
+
+Velium Dagger
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 3 
+Effect:  Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 3.9  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+ Merchant resale value: 4pp 4gp 
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari guard
+ a Chetari hoarder
+ a Chetari hunter
+ a Chetari servant
+ a Chetari Warrior
+ a Chetari worker
+ a Paebala Rebel
+ a Paebala Spirit Talker
+ a Paebala warrior
+
+Eastern Wastes
+
+ a frost giant
+ a frost giant savage
+ a frost giant scout
+ a Ry`Gorr snow trooper
+ a ulthork man o war
+ an ulthork hunter
+ an ulthork warrior
+
+Great Divide
+
+ a frost giant scout
+ a furious tizmak warrior
+ a tizmak champion
+ a tizmak warrior
+
+Iceclad Ocean
+
+ a frost giant elite
+ a frost giant scout
+
+Icewell Keep
+
+ a coldain skeleton
+
+Tower of Frozen Shadow
+
+ a blood familiar
+ an armored shadow
+
+Wakening Lands
+
+ a frost giant sentinel
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

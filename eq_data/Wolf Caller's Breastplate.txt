@@ -1,0 +1,34 @@
+ITEM NAME: Wolf Caller's Breastplate
+
+Velious Era (added December 2000-2001)
+ 
+Wolf Caller's Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 43
+STR: +6  DEX: +6  STA: +6  WIS: +15  AGI: +6  HP: +45  MANA: +90
+SV FIRE: +4  SV DISEASE: +4  SV COLD: +4  SV MAGIC: +4  SV POISON: +4
+Effect: Riotous Health (Any Slot/Can Equip, Casting Time: 9.0)
+WT: 9.0  Size: LARGE
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+will click well before 46 - however the target must be at least level 41 if a player.  Pets / NPC's are ignored on level check part of effect. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skyshrine Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

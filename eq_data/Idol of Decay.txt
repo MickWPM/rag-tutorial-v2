@@ -1,0 +1,34 @@
+ITEM NAME: Idol of Decay
+
+Velious Era (added December 2000-2001)
+
+
+Idol of Decay
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 6.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ a cleric of Vallon Zek
+ a cleric of Tallon Zek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Four Idols
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

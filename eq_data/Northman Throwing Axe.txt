@@ -1,0 +1,39 @@
+ITEM NAME: Northman Throwing Axe
+
+
+
+Northman Throwing Axe
+
+
+Slot: RANGE
+Skill: Throwingv1  Atk Delay: 30
+DMG: 8
+WT: 1.5  Range: 70  Size: MEDIUM
+Class: WAR RNG MNK BRD ROG
+Race: ALL except ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 94)
+ Yield: Northman Throwing Axe x1
+ In Forge:
+
+
+  1 x Medium Quality Sheet Metal - Crafted, Bought
+  1 x Throwing Axe Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Imbued Ogre War Cloak (Cazic Thule)
+
+
+Imbued Ogre War Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 11
+STR: +6  STA: +2
+SV MAGIC: +2
+WT: 7.5  Size: LARGE
+Class: WAR SHD
+Race: BAR TRL OGR
+Deity: Cazic-Thule
+
+
+Part of the ogre cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 228)
+ Yield: Imbued Ogre War Cloak x1
+ In Oggok Forge:
+
+
+  1 x Blood Temper - Crafted
+  1 x Enchanted Adamantite Jointing - Crafted
+  3 x Enchanted Folded Adamantite Sheet - Crafted
+  1 x Imbued Amber - Summoned
+  1 x Large Field Splinted Cloak Mold - Bought
+  1 x Leather Padding - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

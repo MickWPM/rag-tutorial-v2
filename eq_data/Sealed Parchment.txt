@@ -1,0 +1,33 @@
+ITEM NAME: Sealed Parchment
+
+Warrens Era (added spring 2001)
+
+
+Sealed Parchment
+
+
+MAGIC ITEM LORE ITEM NO DROP
+WT: 0.0 Size: TINY
+Class: ALL
+Race: ALL
+
+
+Two versions:
+
+  Item Lore (from Identify): Sealed Letter to Heraldry Researcher -- Received from Leraena Shelyrak
+  Item Lore (from Identify): Sealed Letter to Drigaz Grumblegrowl -- Received from Glyssa Sonshaw 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Quellious Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

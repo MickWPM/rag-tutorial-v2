@@ -1,0 +1,34 @@
+ITEM NAME: Large Patchwork Tunic
+
+Were you looking for Patchwork Armor Set? Were you looking for Small Patchwork Armor Set?
+
+Large Patchwork Tunic
+
+
+Slot: CHEST
+AC: 6
+WT: 4.4  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+Part of the Large Patchwork Armor Set. 
+
+  Drops From 
+Innothule Swamp
+
+ a fat alligator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cindl's Polar Bear Collection
+
+  Player crafted 
+ Tailoring (Trivial: 26) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

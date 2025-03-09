@@ -1,0 +1,41 @@
+ITEM NAME: Purified Long Sword
+
+Velious Era (added December 2000-2001)
+
+Purified Long Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 7 
+CHA: +2
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Aid
+
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Fading Soul Orb x1
+ In Kejek Forge:
+
+
+  1 x Fading Shadow Long Sword - Dropped
+  1 x Soulforge Hammer - Quested, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

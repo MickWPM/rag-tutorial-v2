@@ -1,0 +1,47 @@
+ITEM NAME: Magi Rune (Azia)
+
+Classic Era (added 1999-2000)
+
+
+Magi Rune (Azia)
+
+
+WT: 0.1  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Spell Research (Trivial: No Fail)
+ Yield: Magi Rune (Azia) x1
+ In Concordance of Research:
+
+
+  1 x Quill - Bought
+  1 x Piece of Parchment - Bought
+  1 x Topaz - Bought/Dropped
+  1 x Shark Skin - Dropped
+  1 x Brownie Parts - Dropped 
+
+
+  Tradeskill recipes 
+ Spell Research (Trivial: 182)
+ Yield: Magi Rune (Complete) x1
+ In Lexicon, Elemental Grimoire, Tome of Endless Enchantments, Book of Dark Bindings:
+
+
+  1 x Magi Rune (Azia) - Crafted
+  1 x Magi Rune (Beza) - Crafted
+
+
+
+
+

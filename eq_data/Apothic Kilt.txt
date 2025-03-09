@@ -1,0 +1,35 @@
+ITEM NAME: Apothic Kilt
+
+
+
+Apothic Kilt
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 5
+STR: +5  HP: +25
+SV COLD: +10
+WT: 0.5  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ a forsaken revenant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

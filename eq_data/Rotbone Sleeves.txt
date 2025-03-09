@@ -1,0 +1,39 @@
+ITEM NAME: Rotbone Sleeves
+
+Kunark Era (added 2000)
+
+
+Rotbone Sleeves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 4
+STA: -6  MANA: +20
+WT: 10.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Howling Stones
+
+ a helot skeleton
+ an undead oblation
+ greater plaguebone
+ A sepulcher skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nalla's Problem
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

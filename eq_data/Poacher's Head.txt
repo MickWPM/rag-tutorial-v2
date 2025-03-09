@@ -1,0 +1,49 @@
+ITEM NAME: Poacher's Head
+
+
+
+Poacher's Head
+
+
+NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+A few versions exist, depending on zone/mob.
+ Item Lore (from Identify): A Poacher's Head
+ Item Lore (from Identify): Poacher Head 
+
+  Drops From 
+Eastern Karana
+
+ Vance Bearstalker
+
+Surefall Glade
+
+ A Poacher
+
+Toxxulia Forest
+
+ Poacher Dell
+ Poacher Hill
+ Poacher Shelli
+ Poacher Topi
+ Poacher Willa
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Call of Flame Quest
+ Poacher Leader
+ Poacher's Head Quest (Erudin)
+ Poacher's Head Quest (Surefall Glade)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

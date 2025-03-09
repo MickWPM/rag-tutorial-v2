@@ -1,0 +1,33 @@
+ITEM NAME: Blurred Map
+
+Classic Era (added 1999-2000)
+
+
+A Blurred Map
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Tombor's Map 
+
+  Drops From 
+Erud's Crossing
+
+ a zombie sailor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Blurred Map Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

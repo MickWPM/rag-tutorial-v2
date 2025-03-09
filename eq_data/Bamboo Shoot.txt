@@ -1,0 +1,38 @@
+ITEM NAME: Bamboo Shoot
+
+
+Bamboo Shoot
+
+
+This is a meal!
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a mature panda
+ a young panda
+ Giang Yin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yuio's Illness
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Stonebrunt Mountains
+
+

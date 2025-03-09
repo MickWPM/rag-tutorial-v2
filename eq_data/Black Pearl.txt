@@ -1,0 +1,191 @@
+ITEM NAME: Black Pearl
+
+Classic Era (added 1999-2000)
+
+Black Pearl
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used by jewelcrafters to make DEX/AGI jewelry. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 19 Platinums
+ 1 Golds
+ 8 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a cinder hornet
+ a sarnak champion
+ a sarnak enthusiast
+ a sarnak extremist
+ a tottering gorilla
+ an ash hornet
+
+Cobalt Scar
+
+ a wyvern
+
+Commonlands
+
+ a griffin
+
+Crypt of Dalnir
+
+ a kly invoker
+
+Crystal Caverns
+
+ a focus gem
+ a gem collector
+ a geonid
+ a stalag terror
+ Foreman Smason
+
+Dragon Necropolis
+
+ a dragon construct
+ an amorphous mass
+ an entropy serpent
+
+Dreadlands
+
+ a drachnid recluse
+ a drachnid silkmistress
+ a drachnid silkstrander
+ a drachnid webmaster
+ a drachnid widow
+ a dread widow
+ a drolvarg rager
+ a glacier yeti
+ a mountain giant steep
+ a tundra yeti
+ a voracious brute
+ a wulfware lonewolf
+
+Emerald Jungle
+
+ a raging gorilla
+
+Firiona Vie
+
+ a drachnid silkspinner
+ a drolvarg snarler
+ froglok nok shaman
+ froglok shin warrior
+ froglok ton knight
+ froglok tsu shaman
+
+Frontier Mountains
+
+ a mountain giant tump
+ goblin raider
+
+Kaesora
+
+ spectral librarian
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ zombie trooper
+
+Lower Guk
+
+ an urd ghoul wizard
+ a zol ghoul knight
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+ imp protector
+
+Northern Desert of Ro
+
+ a sand giant
+
+Northern Karana
+
+ a griffon
+ a hill giant
+
+Oasis of Marr
+
+ a spectre
+
+Rathe Mountains
+
+ a basalt drake
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a neriad maiden
+
+Southern Karana
+
+ centaur charger
+ centaur courser
+
+Steamfont Mountains
+
+ a minotaur slaver
+ minotaur slaver
+
+Stonebrunt Mountains
+
+ An Elder Panda
+
+Temple of Droga
+
+ a goblin stonechanter
+
+The Overthere
+
+ a Sarnak berserker
+ a Sarnak enthusiast
+ a Sarnak knight
+
+The Wakening Land
+
+ a geonid
+ a tar goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ None  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Blackened Pearl Silver Ring (Trivial: 52)
+ Black Pearl Electrum Choker (Trivial: 122)
+ Golden Black Pearl Choker (Trivial: 194)
+ Black Pearl Platinum Ring (Trivial: 266)
+ Black Pearl Velium Ring (Trivial: ???)
+
+
+ Blacksmithing
+ Enchanted Seafarers Dirk (Trivial: 122)
+ Enchanted Seafarers Cutlass (Trivial: 142)
+
+
+
+
+

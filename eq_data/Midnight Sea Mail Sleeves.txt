@@ -1,0 +1,34 @@
+ITEM NAME: Midnight Sea Mail Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+Midnight Sea Mail Sleeves
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: ARMS
+AC: 8
+STA: +1  MANA: +20
+SV COLD: +3  SV MAGIC: +3
+WT: 3.4  Size: TINY
+Class: CLR PAL
+Race: ERU
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Geologist's Purloined Tools
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

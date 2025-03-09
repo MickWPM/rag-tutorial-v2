@@ -1,0 +1,38 @@
+ITEM NAME: A Metal Pipe
+
+
+A Metal Pipe
+
+
+LORE ITEM  NO DROP
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+The Karnor's Castle A Metal Pipe identifies as Zan Version. (auction pricing for this version)
+The Chardok A Metal Pipe identifies as Fi Version. 
+Use the spell Identify to figure out which one you have if you forgot where your pipe is from.
+(Fi pipe = 12980,  Zan pipe = 12979  via  /outputfile inventory command). 
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg pawbuster (Zan version)
+
+Chardok
+
+ an iksar betrayer (Fi version)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Lost Circle
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Summoned: Shard of the Core
+
+Velious Era (added December 2000-2001)
+Summoned: Shard of the Core
+
+
+MAGIC ITEM  TEMPORARY
+Slot: RANGE
+SV COLD: +15  SV POISON: +15
+Effect:  Ultravision (Worn, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,47 @@
+ITEM NAME: Sacred Velium Ink
+
+Velious Era (added December 2000-2001)
+
+
+Sacred Velium Ink
+
+
+LORE ITEM NO TRADE
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Brewing  (Trivial:168)
+ Sacred Velium Ink x1
+ In Brew Barrel:
+
+
+  1 x Liquid Velium - Crafted
+  1 x Cutlassfish Oil - Crafted
+  1 x Royal Kromrif blood - Dropped 
+
+
+  Tradeskill recipes 
+ Fletching (Trivial:168)
+ Velium Etched Rune x1
+ In Fletching Kit:
+
+
+  1 x Sacred Velium Ink - Crafted
+  1 x Etched Rune - Crafted
+
+
+
+
+

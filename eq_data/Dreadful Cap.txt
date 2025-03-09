@@ -1,0 +1,34 @@
+ITEM NAME: Dreadful Cap
+
+Warrens Era (added spring 2001)
+
+Dreadful Cap
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 2
+STA: +5  MANA: +10
+SV MAGIC: +2
+WT: 0.4  Size: SMALL
+Class: WAR CLR SHD SHM NEC
+Race: ERU TRL OGR IKS
+Deity: Cazic-Thule
+
+
+ Item Lore (from Identify): Fear the Hat 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Azzar's Dreadful Hat, Part 2
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

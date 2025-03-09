@@ -1,0 +1,39 @@
+ITEM NAME: Panther Meat
+
+Velious Era (added December 2000-2001)
+
+
+
+Panther Meat
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ a haze panther
+ a panther
+ Corrupted Panther
+ Mist Panther
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reinforcements for The Tunarean Regiment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Blackened Panther (Trivial: 62)
+
+
+
+
+

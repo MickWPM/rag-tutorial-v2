@@ -1,0 +1,35 @@
+ITEM NAME: Cloth Coldain Prayer Shawl
+
+Velious Era (added December 2000-2001)
+
+
+Cloth Coldain Prayer Shawl
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 2
+WIS: +2  INT: +2
+SV COLD: +2
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This is shawl #2. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #3: Woven Coldain Prayer Shawl
+ Coldain Shawl #2: Cloth Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

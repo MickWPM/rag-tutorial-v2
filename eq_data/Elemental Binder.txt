@@ -1,0 +1,43 @@
+ITEM NAME: Elemental Binder
+
+
+Elemental Binder
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 5
+INT: +5
+SV FIRE: +5  SV COLD: +5
+WT: 8.0  Size: MEDIUM
+Class: MAG
+Race: ALL
+
+
+ Item Lore (from Identify): Elemental Necklace
+Merchants do not buy this item. 
+
+  Drops From 
+The Hole
+
+ an elemental deceiver
+ an elemental warrior
+ an elemental channeler
+ an elemental visier
+ an elemental crusader
+ an elemental capturer
+ an elemental harvester
+ an elemental wizard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Magician Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

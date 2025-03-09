@@ -1,0 +1,41 @@
+ITEM NAME: Fine Plate Breastplate
+
+
+Fine Plate Breastplate
+
+
+Slot: CHEST
+AC: 19
+WT: 10.0  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ALL except DWF TRL OGR HFL GNM IKS
+
+
+Part of the Medium Fine Plate Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Emerald Dragonscale Quest
+
+  Player crafted 
+Hole Era (added June 2000)
+ Blacksmithing (Trivial: 228)
+ Yield: Fine Plate Breastplate x1
+ In Forge:
+
+
+  1 x Breastplate Mold - Bought
+  1 x Leather Padding - Crafted
+  3 x Medium Quality Folded Sheet Metal - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

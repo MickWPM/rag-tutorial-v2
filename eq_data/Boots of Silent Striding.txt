@@ -1,0 +1,38 @@
+ITEM NAME: Boots of Silent Striding
+
+Velious Era (added December 2000-2001) 
+Boots of Silent Striding
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 35
+STA: +10  WIS: +15  MANA: +50
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Aura of Battle (Worn)  
+WT: 0.0  Size: TINY
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wisdom - The Long Battle
+ Runed Tear (from Dozekar the Cursed)
+ Flame Kissed Tear (from Dozekar the Cursed)
+ Black Symbol (from Krigara or Ymmeln)
+ Glowing Drake Orb (from any HOT Named)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

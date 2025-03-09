@@ -1,0 +1,66 @@
+ITEM NAME: Thick Grizzly Bear Skin
+
+Classic Era (added 1999-2000)
+Were you looking for Grizzly Bear Skin?
+
+Thick Grizzly Bear Skin
+
+
+QUEST ITEM
+WT: 5.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+Unlike the more valuable Grizzly Bear Skin, this skin is only used for making poison vials or can be vendored for a few gold. 
+
+  Drops From 
+Blackburrow
+
+ a grizzly bear
+
+Commonlands
+
+ a kodiak
+ a young kodiak
+
+Misty Thicket
+
+ a young kodiak
+
+Rathe Mountains
+
+ a grizzly bear
+
+Nektulos Forest
+
+ a young kodiak
+
+Northern Karana
+
+ a grizzly bear
+
+Qeynos Hills
+
+ a rabid grizzly
+
+The Feerrott
+
+ A Marsh Bear
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Unfired Poison Vial (Trivial: 142)
+ Unfired Lined Poison Vial (Trivial: 168)
+ Unfired Sealed Poison Vial (Trival: 188)
+
+
+
+
+

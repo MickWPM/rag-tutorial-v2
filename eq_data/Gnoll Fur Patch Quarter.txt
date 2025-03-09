@@ -1,0 +1,38 @@
+ITEM NAME: Gnoll Fur Patch Quarter
+
+
+
+Gnoll Fur Patch Quarter
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gnoll Fur
+
+  Player crafted 
+ Tailoring (Trivial: 26)
+ Yield: Gnoll Fur Patch Quarter x1
+ In Loom:
+
+
+  4 x Gnoll Fur Patch - Crafted 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Patched Gnoll Fur Bundle (Trivial 31)
+
+
+
+
+

@@ -1,0 +1,31 @@
+ITEM NAME: Scroll of Flayed Goblin Skin
+
+Classic Era (added 1999-2000)
+
+
+Scroll of Flayed Goblin Skin
+
+
+LORE ITEM  QUEST ITEM
+WT: 0.2  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Visiting Priestess 
+
+  Book contents 
+Unknown.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

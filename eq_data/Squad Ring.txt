@@ -1,0 +1,33 @@
+ITEM NAME: Squad Ring
+
+Were you looking for Squad Ring (dropped)?
+Classic Era (added 1999-2000)
+
+Squad Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+Charges: 1
+Effect:  Healing (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Wall Squad Ring Two distinct rings with identical lore. This ring is the quest reward for the Wall Squad Ring quest, which has a rechargable heal (NOTE: Will not work with indifferent faction, you will lose the ring on recharge. Requires Amiable or better faction.).  The other version Squad Ring (dropped) drops from the halfling guards around the wall and inside the city.  It gives a +5 CHA boost, but has no spell effect. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wall Squad Ring
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

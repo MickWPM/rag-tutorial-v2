@@ -1,0 +1,39 @@
+ITEM NAME: Spectral Pestle
+
+Kunark Era (added 2000)
+
+
+Spectral Pestle
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Pretty common drop off Spectral Guardians in church. 
+
+  Drops From 
+Kaesora
+
+ spectral guardian
+ other mobs?
+
+Trakanon's Teeth
+
+ spectral guardian
+ spectral partisan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cannibalize II (Good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

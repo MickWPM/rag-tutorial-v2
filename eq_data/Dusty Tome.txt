@@ -1,0 +1,33 @@
+ITEM NAME: Dusty Tome
+
+Epic Quests Era (added Sept 2000)
+
+
+Dusty Tome
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.3  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+The Hole
+
+ a ratman guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

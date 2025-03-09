@@ -1,0 +1,37 @@
+ITEM NAME: Bow of the Huntsman
+
+Velious Era (added December 2000-2001)
+
+
+
+Bow of the Huntsman
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE
+Skill: Archery  Atk Delay: 30
+DMG: 20
+Effect: Spirit Strike (Combat, Casting Time: Instant) at Level 49
+WT: 2.0  Range: 180  Size: MEDIUM
+Class: WAR RNG
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Gleed Dragonhunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gleed's Bow
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Bow of the Huntsman
+

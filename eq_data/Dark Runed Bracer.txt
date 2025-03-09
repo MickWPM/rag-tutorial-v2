@@ -1,0 +1,34 @@
+ITEM NAME: Dark Runed Bracer
+
+Velious Era (added December 2000-2001)
+
+
+Dark Runed Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 15
+STR: +2  INT: +3  HP: +10  MANA: +10
+SV COLD: +1
+WT: 3.0  Size: SMALL
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadowknight Velium Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

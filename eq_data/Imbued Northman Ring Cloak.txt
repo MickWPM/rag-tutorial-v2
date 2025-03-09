@@ -1,0 +1,43 @@
+ITEM NAME: Imbued Northman Ring Cloak
+
+
+Imbued Northman Ring Cloak
+
+
+Slot: BACK
+AC: 9
+STR: +1  WIS: +2
+SV COLD: +2
+WT: 5.0  Size: LARGE
+Class: WAR BRD ROG SHM
+Race: HUM BAR HEF
+Deity: The Tribunal
+
+
+Part of the barbarian cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 150)
+ Yield: Imbued Northman Ring Cloak x1
+ In Northman Forge:
+
+
+  1 x Frost Temper - Crafted
+  1 x Imbued Ivory - Summoned
+  1 x Large Chainmail Cloak Pattern - Bought
+  1 x Large Leather Cloak - Crafted, Bought
+  3 x Medium Quality Metal Rings - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

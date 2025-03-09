@@ -1,0 +1,34 @@
+ITEM NAME: Thex Dagger
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Thex Dagger
+
+
+LORE ITEM
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 24
+DMG: 4 
+SV DISEASE: +50
+WT: 2.5  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+This item can no longer be obtained on p1999 Blue, Red and Green. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Thex Dagger Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

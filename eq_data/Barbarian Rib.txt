@@ -1,0 +1,33 @@
+ITEM NAME: Barbarian Rib
+
+Classic Era (added 1999-2000)
+
+
+Barbarian Rib
+
+
+LORE ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Everfrost Peaks
+
+ goblin diver
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivan McMannus' Remains
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

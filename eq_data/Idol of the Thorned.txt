@@ -1,0 +1,34 @@
+ITEM NAME: Idol of the Thorned
+
+Kunark Era (added 2000)
+
+Idol of the Thorned
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE
+AC: 10
+STR: +7  STA: +10
+WT: 4.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Droga
+
+ Chief RokGus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

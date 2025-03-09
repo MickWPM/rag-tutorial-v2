@@ -1,0 +1,41 @@
+ITEM NAME: Forged Short Sword
+
+Classic Era (added 1999-2000)
+
+Forged Short Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 4 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 62)
+ Yield: Forged Short Sword x1
+ In Forge:
+
+
+  1 x Hilt Mold - Bought
+  1 x Pommel Mold - Bought
+  1 x Sheet Metal - Crafted, Bought
+  1 x Short Blade Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

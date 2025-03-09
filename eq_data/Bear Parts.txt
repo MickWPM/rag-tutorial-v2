@@ -1,0 +1,58 @@
+ITEM NAME: Bear Parts
+
+Classic Era (added 1999-2000)
+
+
+Bear Parts
+
+
+QUEST ITEM
+WT: 0.9  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a grizzly bear
+
+Commonlands
+
+ a black bear
+ a kodiak
+ a young kodiak
+
+Everfrost Peaks
+
+ a polar bear cub
+
+Rathe Mountains
+
+ a grizzly bear
+
+Nektulos Forest
+
+ a young kodiak
+
+Surefall Glade
+
+ a bear cub
+
+The Feerrott
+
+ a marsh bear cub
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

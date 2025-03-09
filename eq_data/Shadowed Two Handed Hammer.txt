@@ -1,0 +1,43 @@
+ITEM NAME: Shadowed Two Handed Hammer
+
+Classic Era (added 1999-2000)
+
+
+Shadowed Two Handed Hammer
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  TEMPORARY  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 51
+DMG: 13 
+WT: 13.0  Size: LARGE
+Class: WAR
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+West Commonlands
+
+ a shadowed man
+
+Lesser Faydark
+
+ a shadowed man
+
+Nektulos Forest
+
+ a shadowed man
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

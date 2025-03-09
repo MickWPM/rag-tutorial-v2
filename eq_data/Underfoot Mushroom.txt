@@ -1,0 +1,42 @@
+ITEM NAME: Underfoot Mushroom
+
+Velious Era (added December 2000-2001)
+
+
+Underfoot Mushroom
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kaladim
+
+ This item is harvested from the ground at Greybloom Farms (#9 on the map) in North Kaladim.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing (Trivial: 168)
+ Underfoot Brown x1
+ In Brewing Barrel:
+
+
+  1 x Short Beer - Bought, Crafted
+  1 x Cask - Bought
+  1 x Malt - Bought
+  4 x Underfoot Mushroom - Ground Spawn
+  1 x Water Flask - Bought
+
+
+
+
+

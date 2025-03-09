@@ -1,0 +1,30 @@
+ITEM NAME: Icon of the Reliant
+
+Temple Era (added October 1999)
+
+
+Icon of the Reliant
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL except
+
+
+Turgan's Note is a ground spawn in Kithicor Woods at location +1700, +1100, inside a burnt hut. Give the note to Turgan in Lake Rathetear to receive the icon. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Boots of the Reliant
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

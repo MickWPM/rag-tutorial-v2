@@ -1,0 +1,44 @@
+ITEM NAME: Forged Velium Short Sword
+
+Velious Era (added December 2000-2001)
+
+
+Forged Velium Short Sword
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 5 
+Effect: Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 3.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 108)
+ Yield: Forged Velium Short Sword x1
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  1 x Hilt Mold - Bought
+  1 x Pommel Mold - Bought
+  1 x Sheet of Velium - Crafted
+  1 x Short Blade Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

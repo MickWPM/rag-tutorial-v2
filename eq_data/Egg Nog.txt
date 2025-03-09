@@ -1,0 +1,41 @@
+ITEM NAME: Egg Nog
+
+
+
+Egg Nog
+
+
+This is a drink!
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 55)
+ Yield: Egg Nog x2
+ In Brewing Barrel:
+
+
+  2 x Aviak Eggs - Foraged, Dropped
+  1 x Bottle - Crafted, Bought
+  1 x Malted Milk - Crafted
+  1 x Spices - Bought 
+
+
+  Tradeskill recipes 
+ Brewing
+ Egg Nog XXX (Trivial: 56)
+
+
+
+
+

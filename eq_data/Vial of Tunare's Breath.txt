@@ -1,0 +1,32 @@
+ITEM NAME: Vial of Tunare's Breath
+
+
+
+Vial of Tunare's Breath
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): Vial of Tunare's Breath 
+
+  Drops From 
+Lesser Faydark
+
+ Kalayia Woodwhisper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Fright
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

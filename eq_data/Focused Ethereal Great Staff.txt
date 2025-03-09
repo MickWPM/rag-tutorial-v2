@@ -1,0 +1,37 @@
+ITEM NAME: Focused Ethereal Great Staff
+
+Velious Era (added December 2000-2001)
+
+Focused Ethereal Great Staff
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 35
+DMG: 9 
+DEX: +2  AGI: +4
+WT: 5.0  Size: LARGE
+Class: ALL except BRD ROG
+Race: ALL
+
+
+Part of the Focused Ethereal Weapons set. 
+
+  Drops From 
+Skyshrine
+
+ Guardian Dojma
+ Guardian Selbbep
+ which other mobs?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

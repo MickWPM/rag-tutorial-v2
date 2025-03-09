@@ -1,0 +1,43 @@
+ITEM NAME: Cobalt Drake Skullcap
+
+Velious Era (added December 2000-2001)
+
+
+Cobalt Drake Skullcap
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 9
+MANA: +8
+SV COLD: +5
+WT: 0.6  Size: SMALL
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Cobalt Drake Skullcap x1
+ In Loom:
+
+
+  1 x Cap Pattern - Bought
+  1 x Cobalt Drake Hide - Dropped
+  1 x Drake Egg Oil - Crafted
+  2 x Velium Boning - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

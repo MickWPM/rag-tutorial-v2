@@ -1,0 +1,98 @@
+ITEM NAME: Bead Necklace
+
+Classic Era (added 1999-2000)
+
+
+Bead Necklace
+
+
+Slot: NECK
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Sell to Indifferent NPC shop @ CHA 95 for 3s 8c 
+
+  Drops From 
+Blackburrow
+
+ a patrolling gnoll
+
+Butcherblock Mountains
+
+ an undead pawn
+
+Commonlands
+
+ Kizdean Gix
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+
+Field of Bone
+
+ an Iksar footpad
+
+Greater Faydark
+
+ a bandit
+ a brownie scout
+ a faerie maiden
+ a pixie trickster
+
+Lake of Ill Omen
+
+ a Sarnak hatchling
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a fae drake hatchling
+ a faerie maiden
+ a pixie prankster
+ a pixie trickster
+ Bryn Fynndel
+ Cylas Delbrin
+ Faril Elvebryn
+ Galwyn Geldin
+ Glyndur Tindel
+ Gundel Elorion
+ Mywyn Tinendel
+ Sarawyn Amorfin
+ Vynn Thrildur
+
+Steamfont Mountains
+
+ a lesser ebon drake
+ a young ebon drake
+
+Stonebrunt Mountains
+
+ a savage kobold
+
+Swamp of No Hope
+
+ man eating shrub
+
+The Warrens
+
+ A Kobold Guard
+ Smithy Rrarrgin
+ Lorekeeper Roggik
+ A mischievious batling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Sparkling Soul Necklace
+
+Velious Era (added December 2000-2001)
+
+Sparkling Soul Necklace
+
+
+LORE ITEM
+Slot: NECK
+AC: 2
+DEX: +5  AGI: +6
+SV DISEASE: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): You feel a soul within 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Amontehepna
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,49 @@
+ITEM NAME: Unfired Sealed Poison Vial
+
+Classic Era (added 1999-2000)
+
+Unfired Sealed Poison Vial
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 188)
+ Yield: Unfired Sealed Poison Vial x1
+ In Pottery Wheel:
+
+
+  1 x Thick Grizzly Bear Skin** or Crows Special Brew - Dropped
+  1 x Sealed Vial Sketch - Bought
+  1 x Small Block of Clay - Crafted, Bought, Dropped
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped
+
+
+
+ ** Any of these will work for the skin:
+ Medium Quality Wolf Skin, High Quality Wolf Skin, Mist Wolf Pelt, White Wolf Skin, Black Wolf Skin
+ Medium Quality Cat Pelt, High Quality Cat Pelt
+ Medium Quality Bear Skin, High Quality Bear Skin, Thick Grizzly Bear Skin, Polar Bear Skin
+ Zombie Skin
+ Crow's Special Brew
+
+
+  Tradeskill recipes 
+ Pottery
+ Sealed Poison Vial (Trivial: 17)
+
+
+
+
+

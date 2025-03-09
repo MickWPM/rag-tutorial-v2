@@ -1,0 +1,38 @@
+ITEM NAME: Holgresh Fur Moccasins
+
+Velious Era (added December 2000-2001)
+
+
+
+Holgresh Fur Moccasins
+
+
+MAGIC ITEM  QUEST ITEM Slot: FEET AC: 4 DEX: +3  CHA: +3  MANA: +15
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5 WT: 0.9  Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 282)
+ Yield: Holgresh Fur Moccasins x1
+ In Loom:
+
+
+  1 x Boot Pattern - Bought
+  1 x Gold Thread - Bought
+  3 x Holgresh Fur - Dropped
+  1 x Vial of Distilled Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

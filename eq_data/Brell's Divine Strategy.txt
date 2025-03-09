@@ -1,0 +1,35 @@
+ITEM NAME: Brell's Divine Strategy
+
+Velious Era (added December 2000-2001)
+
+
+Brell's Divine Strategy
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+WIS: +4
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: BAR DWF TRL OGR IKS
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a coldain missionary
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Books of Tactics
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

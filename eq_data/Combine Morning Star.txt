@@ -1,0 +1,58 @@
+ITEM NAME: Combine Morning Star
+
+Classic Era (added 1999-2000)
+
+Combine Morning Star
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 38
+DMG: 8 
+WT: 10.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+Part of the Combine Weapons set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Vyx
+
+
+
+  (-427, -215)
+
+
+ Lavastorm Mountains
+
+ Cyspeth Romtai
+
+
+
+  (395, 768)
+
+Buy price 52p 4g 9s 9c
+Sell price 23p 7g 5s 0c
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

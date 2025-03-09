@@ -1,0 +1,32 @@
+ITEM NAME: Token of Truth
+
+
+
+Token of Truth
+
+
+LORE ITEM NO TRADE
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+North Freeport
+
+ Guard Willia
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Zimel's Blades (SoulFire)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

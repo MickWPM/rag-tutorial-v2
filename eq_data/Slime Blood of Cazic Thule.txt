@@ -1,0 +1,42 @@
+ITEM NAME: Slime Blood of Cazic Thule
+
+
+Slime Blood of Cazic Thule
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 16
+STR: +2  DEX: +2  STA: +2  CHA: +2  WIS: +2  INT: +2  AGI: +2  HP: +20  MANA: +20
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 15.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+Post-Revamp (Current)
+ Fright
+ Dread
+ Terror
+
+Pre-Revamp
+ Cazic Thule (God)
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,101 @@
+ITEM NAME: Froglok Blood
+
+
+Froglok Blood
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used in Iksar Cultural Armor Making. 
+
+  Drops From 
+Chardok
+
+ a froglok slave
+
+Firiona Vie
+
+ froglok nok shaman
+ froglok tal shaman
+ froglok tsu shaman
+
+Innothule Swamp
+
+ a froglok fisherman
+ a froglok forager
+
+Lower Guk
+
+ a froglok shin knight
+ A Froglok Slave
+ A Froglok Urd Shaman
+
+Old Sebilis
+
+ froglok bok shaman
+ froglok bok wizard
+ froglok dar wizard
+ froglok ilis acolyte
+ froglok ilis shaman
+ froglok ilis wizard
+ froglok jin shaman
+ froglok jin wizard
+ froglok kor shaman
+ froglok krup enchanter
+ froglok krup shaman
+ froglok krup wizard
+ froglok reet shaman
+ froglok reet wizard
+
+Swamp of No Hope
+
+ a froglok outlander
+ froglok berserker
+ froglok gaz shaman
+ froglok raider
+ froglok shin shaman
+ froglok ton shaman
+
+Trakanon's Teeth
+
+ froglok tal shaman
+ Froglok Urd Shaman
+ Froglok Wan Knight
+
+Upper Guk
+
+ a froglok gaz knight
+ a froglok gaz shaman
+ a froglok gaz squire
+ a froglok guard
+ a froglok neophyte
+ a froglok realist
+ a froglok sentinel
+ a froglok sentry
+ a froglok shin shaman
+ a froglok tad
+ a froglok ton shaman
+ a froglok ton warrior
+ a froglok tuk knight
+ a froglok tuk shaman
+ a froglok tuk warrior
+ a froglok witch doctor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Scale Temper (Trivial: 135)
+
+
+
+
+

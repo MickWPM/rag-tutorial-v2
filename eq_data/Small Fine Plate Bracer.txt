@@ -1,0 +1,40 @@
+ITEM NAME: Small Fine Plate Bracer
+
+
+Small Fine Plate Bracer
+
+
+Slot: WRIST
+AC: 9
+WT: 3.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Fine Plate Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Hole Era (added June 2000)
+ Blacksmithing (Trivial: 208)
+ Yield: Small Fine Plate Bracer x1
+ In Forge:
+
+
+  1 x Leather Padding - Crafted
+  1 x Medium Quality Folded Sheet Metal - Crafted
+  1 x Small Plate Bracer Mold - Bought
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

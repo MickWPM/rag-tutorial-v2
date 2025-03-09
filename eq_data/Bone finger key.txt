@@ -1,0 +1,33 @@
+ITEM NAME: Bone finger key
+
+Velious Era (added December 2000-2001)
+
+
+Bone finger key
+
+
+LORE ITEM  NODROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): 6th floor key 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ an enraged relative
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reinforcements for The Tunarean Regiment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Ayillish's Talisman
+
+Velious Era (added December 2000-2001)
+
+Ayillish's Talisman
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+AC: 7
+STR: +6  DEX: +6  STA: +6  CHA: +6  WIS: +6  INT: +6  AGI: +6  HP: +30  MANA: +30
+SV FIRE: +6  SV DISEASE: +6  SV COLD: +6  SV MAGIC: +6  SV POISON: +6
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Part of the Dragon Talismans armor set. 
+
+  Drops From 
+Western Wastes
+
+ Ayillish
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

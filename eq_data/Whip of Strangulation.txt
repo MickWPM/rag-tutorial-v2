@@ -1,0 +1,37 @@
+ITEM NAME: Whip of Strangulation
+
+Kunark Era (added 2000)
+
+Whip of Strangulation
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 6 
+HP: +15
+Effect:  Choke (Combat, Casting Time: Instant) at Level 10
+WT: 0.0  Size: TINY
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 12pp. 
+
+  Drops From 
+Temple of Droga
+
+ a goblin bodyguard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

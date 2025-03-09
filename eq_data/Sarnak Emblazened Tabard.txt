@@ -1,0 +1,59 @@
+ITEM NAME: Sarnak Emblazened Tabard
+
+Kunark Era (added 2000)
+
+Sarnak Emblazened Tabard
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 14
+HP: +10
+SV MAGIC: +10
+WT: 6.0  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+ Merchant resale value: 1p 5g 6s 2c 
+
+  Drops From 
+Burning Woods
+
+ a sarnak extremist
+ a sarnak zealot
+
+Frontier Mountains
+
+ a Sarnak enthusiast
+ A sarnak partisan
+
+Lake of Ill Omen
+
+ a Sarnak adherant
+ a Sarnak gem oracle
+ a Sarnak revealer
+ a Sarnak revenant
+
+The Overthere
+
+ a Sarnak enthusiast
+
+Dalnir
+
+ a Kly Acolyte
+ a kly imprecator
+ a kly evoker?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Golden Locket
+
+Classic Era (added 1999-2000)Were you looking for Golden Locket (Locket of Courage)?
+
+Golden Locket
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 2
+CHA: +3
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Not to be confused with the Golden Locket rewarded by the Find Lucie Elron quest. 
+
+  Drops From 
+Qeynos Aqueducts
+
+ a nesting rat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

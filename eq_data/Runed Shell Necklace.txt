@@ -1,0 +1,43 @@
+ITEM NAME: Runed Shell Necklace
+
+Velious Era (added December 2000-2001)
+
+Runed Shell Necklace
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 5
+Effect:  Everlasting Breath (Any Slot, Casting Time: Instant) as Level 25
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Trash - not the item needed for the shawl, ring, or the permanent EB item of similar name. 
+ Merchant resale value: 11.2p 
+
+  Drops From 
+Cobalt Scar
+
+ a siren seductress
+ a siren enticer
+
+Siren's Grotto
+
+ a siren beguiler
+ a siren enticer
+ a siren myrmidon
+ a siren templar
+ Priestess Sercema
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

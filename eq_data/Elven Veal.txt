@@ -1,0 +1,37 @@
+ITEM NAME: Elven Veal
+
+
+Elven Veal
+
+
+DEX: +1  WIS: +1  INT: +1  AGI: +1
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking (Trivial: 56) (or >=95?)
+ Yield: Elven Veal x2
+ In Oven:
+
+
+  1 x Garnish - Bought
+  1 x High Elf Parts - Dropped
+  1 x Spices - Bought
+
+
+
+
+

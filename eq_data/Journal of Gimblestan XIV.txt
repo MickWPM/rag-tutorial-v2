@@ -1,0 +1,117 @@
+ITEM NAME: Journal of Gimblestan XIV
+
+Classic Era (added 1999-2000)
+
+
+Journal of Gimblestan XIV
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ Firiona Vie
+
+ Leala Swiftarrow
+
+
+
+  (-3299, 3338)
+
+
+ Kael Drakkel
+
+ Bendad the Trader
+
+
+
+  (-1658, 1953)
+
+
+ The Overthere
+
+ Tin Merchant V
+
+
+
+  (2612, 2527)
+
+
+ Steamfont Mountains
+
+ Bom Knotwood
+
+
+
+  (175, -875)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+From the notes of Gimblestan, First Assistant to King Ak-'Anon the XVII, Master of the Tinkering Arts.
+Volume XIV
+Today our party embarked upon a quest of high adventure,
+setting out to catch that most elusive of prey, the crafty
+minotaur. Zookeeper Visgig had posted a rich reward for a
+live capture - I believe that he is looking for a new zoo
+exhibit. The rest of my party seemed to be interested in the
+money; my reason was to field-test my latest inventions.
+Once into the Steamfont Mountains, I produced the
+first of my new toys, a portable location detection
+unit. I call it a COMPASS, after my wife Compassvna,
+who never can seem to orient her way anywhere. The design
+is quite simple. Taking a pie tin, I filled it with a
+flask of water. After running a static orb over an
+old skewer, I stuck the skewer into a cork and
+placed it in the pie tin. The others were quite
+impressed with the functionality.
+Journal Note: Transvin suggested a new device, a
+MECHANICAL LOCKPICK. I think this could be
+accomplished quite easily. Materials to try - lockpicks,
+gears, sprockets. Perhaps a rat ear, for use in the
+amplification of the sound. Must try to make one when we return.
+As night approached, I brought out my FLAMELESS
+TORCH. Yet another simple device I am surprised nobody
+else thought of. Taking a large lantern, I removed the
+regular fuel system and replaced it with a flask of
+firewater. Wrapping it with metal twine produces a
+gentle light, as the heat from the firewater causes
+the twine to glow.
+Our hunting party was very appreciative.
+As we approached the minotaur settlement, our warriors
+unstrung their bows. Jarnikiv, Master Fletcher, had provided us with a new
+type of composite bow, one using CAMS. The gears and
+gnomish bolts, once greased, gave our composite bows
+range superior to our old recurve bows. With these
+ready we crept stealthily through the night. Transvin,
+scouting ahead, reported the far-off sound of minotaur singing.
+[CONTINUED]
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

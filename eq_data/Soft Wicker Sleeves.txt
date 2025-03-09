@@ -1,0 +1,40 @@
+ITEM NAME: Soft Wicker Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+
+Soft Wicker Sleeves
+
+
+Slot: ARMS
+AC: 4
+WT: 2.2  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a burly kobold
+
+The Warrens
+
+ A Kobold Guard
+ Foodmaster Rargnar
+ A howler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

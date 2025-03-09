@@ -1,0 +1,34 @@
+ITEM NAME: Silver Runed Jade Earring
+
+GM Event item (info)
+
+
+Silver Runed Jade Earring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 1
+STR: +3  DEX: +3  WIS: +3
+SV MAGIC: +5
+WT: 0.1  Size: TINY
+Class: RNG
+Race: ALL
+
+
+Halloween 2011 GM Event. 
+
+  Drops From 
+GM Event
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

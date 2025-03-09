@@ -1,0 +1,37 @@
+ITEM NAME: Goblin Ice Necklace
+
+
+
+Goblin Ice Necklace
+
+
+QUEST ITEM
+Slot: NECK
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Everfrost Peaks
+
+ an ice goblin scout
+ an ice goblin whelp
+ ice goblin diver
+ Redwind
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ice Goblin Beads
+ Ice Goblin Necklaces
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

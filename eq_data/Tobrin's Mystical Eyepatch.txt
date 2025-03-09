@@ -1,0 +1,38 @@
+ITEM NAME: Tobrin's Mystical Eyepatch
+
+Classic Era (added 1999-2000)
+
+Tobrin's Mystical Eyepatch
+
+
+MAGIC ITEM
+Slot: FACE
+WIS: +15  INT: +15
+Effect:  See Invisible (Worn)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Permafrost
+
+ Lady Vox
+
+Skyfire Mountains
+
+ Talendor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

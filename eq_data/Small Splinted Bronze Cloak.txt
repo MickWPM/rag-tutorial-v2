@@ -1,0 +1,55 @@
+ITEM NAME: Small Splinted Bronze Cloak
+
+Classic Era (added 1999-2000)Were you looking for Bronze Armor Set? Were you looking for Large Bronze Armor Set?
+
+Small Splinted Bronze Cloak
+
+
+Slot: BACK
+AC: 8
+WT: 5.1  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Part of the Small Bronze Armor Set 
+
+  Drops From 
+Mistmoore Castle
+
+ a ghastish ancille
+ a ghoulish ancille
+ a hemo enologist
+ a vampiric ancille
+ an ancille cook
+
+Dreadlands
+
+ a drolvarg gnasher
+ a drolvarg rager
+
+Lake Rathetear
+
+ a dry bone skeleton
+
+The Estate of Unrest
+
+ a barbed bone skeleton
+ a greater dark bone
+
+Western Plains of Karana
+
+ Einhorst McMannus
+ Ulrich McMannus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

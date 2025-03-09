@@ -1,0 +1,32 @@
+ITEM NAME: Sewn Hide Shawl
+
+GM Event item (info)
+
+
+Sewn Hide Shawl
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+WIS: +3  INT: +3
+SV FIRE: +10  SV COLD: +10  SV MAGIC: +10
+WT: 1.0  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+Obtained during a GM event. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

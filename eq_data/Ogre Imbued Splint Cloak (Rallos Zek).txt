@@ -1,0 +1,43 @@
+ITEM NAME: Ogre Imbued Splint Cloak (Rallos Zek)
+
+
+
+Ogre Imbued Splint Cloak
+
+
+Slot: BACK
+AC: 9
+STR: +3
+WT: 5.5  Size: LARGE
+Class: WAR SHD SHM
+Race: HUM BAR HEF TRL OGR
+Deity: Rallos Zek
+
+
+Part of the ogre cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 155)
+ Yield: Ogre Imbued Splint Cloak x1
+ In Oggok Forge:
+
+
+  1 x Blood Temper - Crafted
+  1 x Imbued Jade - Summoned
+  1 x Large Chainmail Cloak Pattern - Bought
+  1 x Large Leather Cloak - Crafted, Bought
+  3 x Sheet of Adamantite - Crafted, Bought
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

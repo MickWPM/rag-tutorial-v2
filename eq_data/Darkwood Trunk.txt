@@ -1,0 +1,36 @@
+ITEM NAME: Darkwood Trunk
+
+
+Darkwood Trunk
+
+
+LORE ITEM
+WT: 2.0  Weight Reduction: 100%
+Capacity: 10  Size Capacity: GIANT
+
+
+
+
+  Drops From 
+Plane of Fear
+Post-Revamp (Current)
+
+ Fright
+ Dread
+ Terror
+
+Pre-Revamp
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

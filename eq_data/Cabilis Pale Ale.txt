@@ -1,0 +1,116 @@
+ITEM NAME: Cabilis Pale Ale
+
+
+
+Cabilis Pale Ale
+
+
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Ephmir
+
+
+
+  (129, -127)
+
+
+ East Cabilis
+
+ Klok Wyga
+
+
+
+  (450, -469)
+
+
+ East Cabilis
+
+ Klok Poklon
+
+
+
+  (913, -85)
+
+
+ Field of Bone
+
+ Klok Naman
+
+
+
+  (-2652, 3294)
+
+
+ Lake of Ill Omen
+
+ Klok Vydl
+
+
+
+  (6265, -6230)
+
+
+ Neriak Third Gate
+
+ Belyea K`Jartan
+
+
+
+  (864, -1424)
+
+
+ Neriak Third Gate
+
+ Cecile K`Jartan
+
+
+
+  (910, -1413)
+
+
+ Swamp of No Hope
+
+ Klok Roshin
+
+
+
+  (2428, 2951)
+
+
+ Warsliks Woods
+
+ Klok Kogrin
+
+
+
+  (-1710, -895)
+
+  Related quests 
+ Cabilis Pale Ale (Cabilis)
+ Cabilis Pale Ale (Firiona Vie)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

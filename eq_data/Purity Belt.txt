@@ -1,0 +1,35 @@
+ITEM NAME: Purity Belt
+
+
+Purity Belt
+
+
+Slot: WAIST
+AC: 3
+STR: +2  STA: +2
+WT: 1.2  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+sells for about 1.5pp to vendors 
+
+  Drops From 
+Ocean of Tears
+
+ Antinime
+ Euboea Delewyn
+ Larisa Gelrith
+ Sister of Erollisi
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

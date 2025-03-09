@@ -1,0 +1,30 @@
+ITEM NAME: Dusty Old Leg Bone
+
+Classic Era (added 1999-2000)
+
+
+Dusty Old Leg Bone
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Femur of Darak LightforgeReceived by talking to Diggs Duggun in Beholder's Maze (Gorge of King Xorbb). 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bones of Darak Lightforge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

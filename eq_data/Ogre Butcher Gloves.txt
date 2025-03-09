@@ -1,0 +1,30 @@
+ITEM NAME: Ogre Butcher Gloves
+
+
+Ogre Butcher Gloves
+
+
+Slot: HANDS
+AC: 1
+SV DISEASE: +25  SV POISON: +25
+WT: 1.9  Size: SMALL
+Class: WAR SHD SHM
+Race: TRL OGR
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Preserved Meat Delivery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

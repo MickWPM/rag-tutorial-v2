@@ -1,0 +1,51 @@
+ITEM NAME: Misty Thicket Picnic
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+Misty Thicket Picnic
+
+
+STR: +5 STA: +5 WIS: +5 INT: +5 HP: +20 MANA: +30
+This is a miraculous meal!
+WT: 0.1 Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 335)
+ Yield: Misty Thicket Picnic x4
+ In Oven:
+
+
+ 1 x Marmalade Sandwich - Crafted
+ 1 x Jumjum Salad - Crafted
+ 1 x Royal Mints - Crafted
+ 2 x Slice of Jumjum Cake - Crafted
+ 1 x Mature Cheese - Crafted
+ 1 x Picnic Basket - Crafted
+ 1 x Jumjum Spiced Beer - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

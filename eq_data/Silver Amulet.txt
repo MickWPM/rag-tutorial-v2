@@ -1,0 +1,318 @@
+ITEM NAME: Silver Amulet
+
+
+Silver Amulet
+
+
+Slot: NECK
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 2 Platinums
+ 3 Golds
+ 9 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Mistmoore Castle
+
+ a dark elf noble
+ a dark offerer
+ a dark ritualist
+ a dark sacrificer
+ a ghostly ancille
+ a glyphed forbidder
+ a Mistmoore guard
+ a negotiator
+ a shadowy sage
+ a shadowy scribe
+ a shadowy scrivener
+ a soul inveigling
+ a soul seductress
+ a soul temptress
+ a spectral ancille
+ a spiritish ancille
+ a thought defiler
+ a thought spoiler
+ a vampire noble
+ a vampire oracle
+ a vampiric ancille
+ a wightish ancille
+ a wraithish ancille
+ Princess Cherista
+
+West Commonlands
+
+ a Dervish Cutthroat
+ a hill giant
+
+Crystal Caverns
+
+ a Ry`Gorr miner
+ a Ry`Gorr watchman
+ a stalag terror
+ Flint Velweaver
+
+Dagnor's Cauldron
+
+ Gundalthur Izuran
+
+Eastern Plains of Karana
+
+ an evil eye
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a lurking mummy
+ a skeletal monk
+ dark boned skeleton
+ Torklar Battlemaster
+
+Everfrost Peaks
+
+ an ice giant
+ Karg IceBear
+ Martar Icebear
+
+Beholder's Maze
+
+ an evil eye
+
+Lesser Faydark
+
+ a faerie
+ a faerie guard
+ Thistle Underbrush
+
+Lower Guk
+
+ a deadly black widow
+ a ghoul assassin
+
+Rathe Mountains
+
+ a hill giant
+
+Nagafen's Lair
+
+ imp protector
+
+Najena
+
+ an ogre guard
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+
+South Kaladim
+
+ King Kazon Stormhammer
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+Swamp of No Hope
+
+ man eating vine
+
+The Overthere
+
+ a stonepeep cockatrice
+
+The Wakening Land
+
+ a tar goo
+
+Thurgadin
+
+ a crystal spider
+
+Upper Guk
+
+ a fungus drone
+ a large heart spider
+
+Warsliks Woods
+
+ a forest giant greenwood
+ a skulking brute
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ East Freeport
+
+ Tohsan Hallard
+
+
+
+  (-86, -457)
+
+
+ East Freeport
+
+ Sun Alemaker
+
+
+
+  (127, -254)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Dran Hieth
+
+
+
+  (-3132, 2953)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Finlay Kitoran
+
+
+
+  (2769, 2365)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Warsliks Woods
+
+ Klok Gragin
+
+
+
+  (-1651, -707)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Putrid Bear Hide
+
+Classic Era (added 1999-2000)
+
+
+Putrid Bear Hide
+
+
+NODROP
+CHA: -3
+SV DISEASE: -10
+WT: 4.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Diseased Bear Hide 
+
+  Drops From 
+Qeynos Hills, Northern Karana, Western Plains of Karana
+
+ a rabid grizzly
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rabid Grizzlies
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

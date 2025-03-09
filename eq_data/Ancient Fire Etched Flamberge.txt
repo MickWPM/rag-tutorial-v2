@@ -1,0 +1,37 @@
+ITEM NAME: Ancient Fire Etched Flamberge
+
+Velious Era (added December 2000-2001)
+ Rums Feld readies an Ancient Fire Etched Flamberge
+Ancient Fire Etched Flamberge
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 44
+DMG: 46   AC: 30
+STR: +25  STA: +10  HP: +50
+SV FIRE: +25  SV MAGIC: +14
+Effect: Flame of the Efreeti (Combat, Casting Time: Instant)
+WT: 4.5  Size: TINY
+Class: WAR PAL SHD
+Race: ALL
+
+
+This excellent two-hander is prized by tanks for its reasonable ratio, lure proc, and excellent stats as a good defense against enemies with dangerous procs or rampages such as Venril Sathir, a dracoliche and Maestro of Rancor. In this role, few other two-handers are better, such as Gaudralek, Sword of the Sky and Palladius` Axe of Slaughter. 
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Kreizenn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

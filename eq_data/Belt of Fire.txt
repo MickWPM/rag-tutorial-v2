@@ -1,0 +1,34 @@
+ITEM NAME: Belt of Fire
+
+Epic Quests Era (added Sept 2000)
+Belt of Fire
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 4
+DEX: +8  CHA: +4  AGI: +8  MANA: +10
+SV FIRE: +10
+WT: 1.5  Size: MEDIUM
+Class: WIZ MAG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Burning Woods
+
+ Ixiblat Fer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

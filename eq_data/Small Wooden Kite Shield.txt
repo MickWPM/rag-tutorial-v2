@@ -1,0 +1,43 @@
+ITEM NAME: Small Wooden Kite Shield
+
+
+
+Small Wooden Kite Shield
+
+
+Slot: SECONDARY
+AC: 7
+WT: 9.3  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

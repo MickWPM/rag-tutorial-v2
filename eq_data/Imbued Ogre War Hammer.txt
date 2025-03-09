@@ -1,0 +1,44 @@
+ITEM NAME: Imbued Ogre War Hammer
+
+
+
+Imbued Ogre War Hammer
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 56
+DMG: 19 
+STR: +5
+WT: 13.0  Size: LARGE
+Class: WAR SHD SHM
+Race: ALL except ERU HIE
+Deity: Rallos Zek / Cazic Thule
+
+
+Two different items exist with the same name, with different deity restrictions. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 130)
+ Yield:  x
+ In Oggok Forge:
+
+
+  1 x Blood Temper - Crafted
+  1 x Hammer Head Mold - Bought
+  1 x Imbued Jade (Rallos Zek) or Imbued Amber (Cazic Thule) - Summoned
+  1 x Oak Shaft - Bought
+  1 x Sheet of Adamantite - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

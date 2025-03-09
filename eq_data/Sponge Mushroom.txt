@@ -1,0 +1,34 @@
+ITEM NAME: Sponge Mushroom
+
+Kunark Era (added 2000)
+
+
+Sponge Mushroom
+
+
+WT: 0.7  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 6
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Mines of Nurga
+
+

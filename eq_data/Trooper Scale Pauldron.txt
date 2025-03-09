@@ -1,0 +1,35 @@
+ITEM NAME: Trooper Scale Pauldron
+
+Epic Quests Era (added Sept 2000) Nov   2000  Era (added  Nov   2000 )
+
+
+
+Trooper Scale Pauldron
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 10
+STR: +2  HP: +20
+SV MAGIC: +2
+WT: 3.0  Size: SMALL
+Class: WAR
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Pauldron
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

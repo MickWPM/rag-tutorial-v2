@@ -1,0 +1,39 @@
+ITEM NAME: Blank Rune
+
+Velious Era (added December 2000-2001)
+
+
+Blank Rune
+
+
+MAGIC ITEM LORE ITEM NO TRADE
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Pottery (Trivial:15)
+ Blank Rune x1
+ In Kiln:
+
+
+  1 x Unfired Rune - Crafted
+  1 x High Quality Firing Sheet - Bought
+  1 x Water Flask - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Crescent Fighting Gloves
+
+Kunark Era (added 2000)
+
+
+Crescent Fighting Gloves
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 3
+DEX: +6  STA: +3
+SV POISON: +2
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+Part of the Crescent Armor Set 
+
+  Drops From 
+Crypt of Dalnir
+
+ a kly follower
+ the Kly Overseer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

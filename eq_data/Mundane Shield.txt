@@ -1,0 +1,31 @@
+ITEM NAME: Mundane Shield
+
+Paineel Era (added February 2000)
+
+
+Mundane Shield
+
+
+LORE ITEM  NO DROP
+AC: 4
+WT: 5.5  Size: TINY
+Class: CLR
+Race: HUM ERU
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Summoning of Dread
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

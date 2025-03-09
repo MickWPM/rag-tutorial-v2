@@ -1,0 +1,45 @@
+ITEM NAME: Imbued Steelsilk Mask (Quellious)
+
+Velious Era (added December 2000-2001)
+
+
+Imbued Steelsilk Mask
+
+
+MAGIC ITEM
+Slot: FACE
+AC: 8
+CHA: +2  WIS: +5  INT: +4  HP: +5  MANA: +8
+SV DISEASE: +2  SV POISON: +3
+WT: 0.4  Size: SMALL
+Class: CLR PAL
+Race: ERU
+Deity: Quellious
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 119? or >250)
+ Yield: Imbued Steelsilk Mask x1
+ In Erudite Sewing Kit:
+
+
+  1 x Imbued Topaz - Summoned
+  1 x Mask Pattern - Bought
+  1 x Platinum Thread - Bought
+  1 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

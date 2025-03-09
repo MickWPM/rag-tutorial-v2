@@ -1,0 +1,35 @@
+ITEM NAME: A Bone Necklace
+
+Kunark Era (added 2000)
+
+
+A Bone Necklace
+
+
+LORE ITEM  NO DROP
+Slot: NECK
+AC: 2
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Droga Pens Secondary Opens the main door to gain entry to the Droga Jail. 
+
+  Drops From 
+Droga
+
+ a goblin penmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of the Lord (#7)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

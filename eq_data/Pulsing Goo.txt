@@ -1,0 +1,35 @@
+ITEM NAME: Pulsing Goo
+
+Velious Era (added December 2000-2001)
+
+
+Pulsing Goo
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Charges: 1
+Effect: Resuscitate (Any Slot/Can Equip, Casting Time: 0.2) at Level 50
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Pre-nerf version. Replaced with Pliable Goo. 
+
+  Drops From 
+Dragon Necropolis
+
+ an amorphous mass
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Folded Skyiron Sheet
+
+
+
+Folded Skyiron Sheet
+
+
+WT: 15.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 39)
+ Yield: Folded Skyiron Sheet x1
+ In Iksar Forge:
+
+
+  1 x Block of Skyiron - Bought
+  1 x Flask of Bloodwater - Bought
+  1 x Forging Hammer - Bought, Dropped, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Various Iksar Cultural Recipes
+
+
+
+
+

@@ -1,0 +1,65 @@
+ITEM NAME: Goblin Gazughi Ring
+
+Kunark Era (added 2000)
+
+Goblin Gazughi Ring
+
+
+MAGIC ITEM
+Slot: FINGER
+AC: 1
+SV MAGIC: +5
+Effect:  Invisibility versus Animals (Must Equip, Casting Time: Instant) at Level 5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Acts as a light source with exactly the same illumination distance as a Greater Lightstone but with a yellowish tint.
+This ring must be worn and cannot be cast from inventory; however, the spell itself can be cast on others. For a guide to spawning the Courier and farming the ring, please see a Sarnak courier. 
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak courier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+  Reported Drop Rate 
+From [1].
+Sarnak: 1 = 1 ring - 5 minutes
+Sarnak: 4 = 1 ring - 1 hour
+Sarnak: 14 = 1 ring - 3 hours
+Sarnak: 18 = 1 ring - 4 hours
+Sarnak: 25 = 1 ring - 4.25 hours
+Sarnak: ? = 1 ring - 5 hours
+Sarnak: 58 = 1 ring (roughly 18 hours) 10/01/22
+Sarnak: 163 = 1 ring - 50+ hours 04/05/21
+6 rings in ~63 hours of camping the dual spawn point
+Sarnak: 5 = no ring - 1 hour
+Sarnak: 4 = no ring - 1 hour
+Sarnak: 3 = no ring - 1 hour
+Sarnak: 4 = no ring - 1.5 hours
+Sarnak: 11 = no ring - 3 hours
+Sarnak: 22 = 1 ring - 5.5 hour (single spawn point)
+Sarnak: 24 = no ring - 5.5 hours
+Sarnak: 25 = no ring - 6.5 hours
+Sarnak: ? = no ring  - 6 hours
+Sarnak: 46 = no ring - 9 hours
+Sarnak: 36 = no ring - 10 hours
+Sarnak: 22 = 1 ring - 6 hours (double spawn point. Got ring after 4.5 hours and 20 spawns, stayed an additional 1.5 hours and only saw 2 more) - 7/20/23
+Sarnak: 25 = 1 ring, 8.5 hours over many ~1h sessions, about 50/50 single & double camp (double being often taken already). 06/27/24
+---
+I camped 8 rings over this holiday season over the course of 224 kills of a sarnak courier for a rate of 3.5%. There is an extreme amount of variability here with the first 3 rings coming in 18 kills and ring 5 taking 67 kills. Good luck on the grind! - Beckoning
+---
+Over 15 days at 2-3 hour increments I killed 241 couriers before my first ring drop. This was all at the two double spawn points. - Comorbidity (Green 11/21/23)
+
+

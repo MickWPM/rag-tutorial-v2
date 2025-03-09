@@ -1,0 +1,30 @@
+ITEM NAME: Mad Monkey Doll
+
+Velious Era (added December 2000-2001)
+
+Mad Monkey Doll
+
+
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Summoned by a Grey Gift Box. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Combine in Empty Pot of Gold with Armor of Distraction to produce Monkey Hide Armor.
+
+
+
+

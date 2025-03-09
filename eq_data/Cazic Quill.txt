@@ -1,0 +1,39 @@
+ITEM NAME: Cazic Quill
+
+Epic Quests Era (added Sept 2000)
+
+Cazic Quill
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 8 
+AGI: +5
+Effect:  Shadow Vortex (Combat, Casting Time: Instant) at Level 35
+WT: 1.1  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Turned so fast into Ragebringer, Rogue's never thought it might have any other value. 
+
+  Drops From 
+Kithicor Forest
+
+ General V`ghera
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

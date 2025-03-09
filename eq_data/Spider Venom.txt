@@ -1,0 +1,42 @@
+ITEM NAME: Spider Venom
+
+
+
+Spider Venom
+
+
+Charges: 1
+Effect:  Weakening Poison I (Combat) at Level 5
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Toxxulia Forest
+
+ a large widow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bug Collection
+
+  Player crafted 
+ Poison Making (Trivial: 16)
+ Yield: Spider Venom x1
+ In Mortar and Pestle:
+
+
+  1 x Poison Vial - Crafted, Bought, Returned on Failure
+  2 x Spider Venom Sac - Dropped
+  1 x Suspension - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

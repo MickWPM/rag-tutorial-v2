@@ -1,0 +1,28 @@
+ITEM NAME: Small Coin Purse
+
+Velious Era (added December 2000-2001)
+
+
+
+Small Coin Purse
+
+
+LORE ITEM  WT: 0.1 Weight Reduction: 30%  Capacity: 4 Size Capacity: SMALL
+
+
+This item will reduce coin weight by 30%. 
+
+  Drops From 
+ a Frozen Cube
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

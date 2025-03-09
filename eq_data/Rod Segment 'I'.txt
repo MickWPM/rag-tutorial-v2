@@ -1,0 +1,34 @@
+ITEM NAME: Rod Segment 'I'
+
+Kunark Era (added 2000)
+
+
+Rod Segment 'I'
+
+
+LORE ITEM  NO DROP
+WT: 4.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Segment of Kor Sha `I` 
+
+  Drops From 
+Crypt of Dalnir
+
+ a coerced revenant
+ a kly imprecator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Long Iron Rod Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

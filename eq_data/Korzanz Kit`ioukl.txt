@@ -1,0 +1,34 @@
+ITEM NAME: Korzanz Kit`ioukl
+
+
+
+Korzanz Kit`ioukl
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 10
+STR: +3  DEX: +2  AGI: +3  HP: +20
+WT: 8.5  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ Klok Denris
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

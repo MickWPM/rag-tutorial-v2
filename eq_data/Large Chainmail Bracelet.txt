@@ -1,0 +1,71 @@
+ITEM NAME: Large Chainmail Bracelet
+
+Were you looking for Chainmail / Iron Armor Set? Were you looking for Small Chainmail / Iron Armor Set?
+
+Large Chainmail Bracelet
+
+
+Slot: WRIST
+AC: 5
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: BAR TRL OGR
+
+
+Part of the Large Chainmail / Iron Armor Set 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Grobb
+
+ Beztopi
+
+
+
+  (361, -236)
+
+
+ Halas
+
+ Maggie Shawnasy
+
+
+
+  (222, -299)
+
+
+ Neriak Foreign Quarter
+
+ Bronk
+
+
+
+  (-242, -388)
+
+
+ Oggok
+
+ Lopuka
+
+
+
+  (250, -138)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

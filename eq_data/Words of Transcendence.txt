@@ -1,0 +1,72 @@
+ITEM NAME: Words of Transcendence
+
+
+Words of Transcendence
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Can drop in Dalnir 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 5 Golds
+ 7 Silvers
+ 6 Coppers
+ 
+  Drops From 
+Innothule Swamp
+
+ A shadowed man
+
+Lake of Ill Omen
+
+A sarnak recruit
+
+Paineel
+
+ Azzar Habbib
+
+Nektulos Forest
+
+ A shadowed man
+
+Lavastorm
+
+ A shadowed man
+
+Permafrost
+
+ an elite honor guard
+
+Southern Karana
+
+  a treant
+
+Solusek's Eye
+
+ Fire Goblin
+
+Rathe Mountains
+
+ a giant skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Cornucopia (Trivial: 62) (Research Only)
+ Everfount (Trivial: 62) (Research Only)
+
+
+
+
+

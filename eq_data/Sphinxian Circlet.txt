@@ -1,0 +1,38 @@
+ITEM NAME: Sphinxian Circlet
+
+Sky Era (added January 2000)
+
+
+Sphinxian Circlet
+
+
+LORE ITEM  NO DROP
+Slot: HEAD
+Charges: 1
+AC: 4
+STR: +4  DEX: +4
+Effect:  Haste (Any Slot, Casting Time: Instant)
+WT: 1.0  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Trickery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

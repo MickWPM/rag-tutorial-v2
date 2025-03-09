@@ -1,0 +1,34 @@
+ITEM NAME: Sarnak Parrying Blade
+
+Chardok Revamp Era (added late 2001)
+
+Sarnak Parrying Blade
+
+
+MAGIC ITEM  
+Slot: SECONDARY
+Skill: 1H Slashing  Atk Delay: 30
+DMG: 16   AC: 10
+WT: 3.0  Size: SMALL
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Grand Herbalist Mak`ha
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

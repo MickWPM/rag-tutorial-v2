@@ -1,0 +1,29 @@
+ITEM NAME: Tinmizer's Stupendous Contraption
+
+Classic Era (added 1999-2000)
+
+
+Tinmizer's Stupendous Contraption
+
+
+LORE ITEM  NODROP
+WT: 25.5  Weight Reduction: 0%
+Capacity: 10  Size Capacity: Large
+
+
+ Item Lore (from Identify): Tinmizer's Stupendous Contraption Random reward from Scrap Metal Quest . A portable pottery wheel? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader Tests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

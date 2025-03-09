@@ -1,0 +1,67 @@
+ITEM NAME: Mt. Death Mineral Salts
+
+Chardok Revamp Era (added late 2001)
+Mt. Death Mineral Salts
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Released later in Velious with Chardok revamp. 
+
+  Drops From 
+Firiona Vie
+
+ A goblin blightcaller
+
+Frontier Mountains (most actually in Temple of Droga)
+
+ a goblin adept
+ A Goblin Backbiter
+ a goblin blightcaller
+ a goblin bodyguard
+ a goblin cavehunter
+ a goblin depredator
+ A Goblin Dustscryer
+ a goblin fanatic
+ a goblin flamedrowser
+ a goblin flashdrowser
+ a goblin slavedriver
+ a goblin soothsayer
+ a goblin stalagknight
+ a goblin taskmaster
+ a goblin whipcracker
+
+Mines of Nurga
+
+ goblins
+
+Temple of Droga
+
+ a goblin blightcaller
+ a goblin boneseer
+ a goblin boneslaver
+ a goblin depredator
+ a goblin dirttracer
+ a goblin flame adept
+ a goblin stalagknight
+ a goblin taskmaster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Di'Zok Signet of Service Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Mind Melt (Trivial: 322)
+
+
+
+
+

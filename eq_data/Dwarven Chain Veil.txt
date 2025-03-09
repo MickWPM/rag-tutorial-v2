@@ -1,0 +1,40 @@
+ITEM NAME: Dwarven Chain Veil
+
+
+
+Dwarven Chain Veil
+
+
+Slot: FACE
+AC: 5
+SV FIRE: +1
+WT: 2.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR ERU TRL OGR IKS
+
+
+Part of the dwarven cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 123)
+ Yield: Dwarven Chain Veil x1
+ In Stormguard Forge:
+
+
+  1 x Brellium Rings - Crafted
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Small Chainmail Veil Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

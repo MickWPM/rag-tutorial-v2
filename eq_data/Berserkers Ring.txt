@@ -1,0 +1,33 @@
+ITEM NAME: Berserkers Ring
+
+Warrens Era (added spring 2001)
+Berserkers Ring
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+STR: +25  DEX: -20  AGI: -20
+Effect: Firefist (Must Equip, Casting Time: Instant)
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a dracoliche
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

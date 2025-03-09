@@ -1,0 +1,29 @@
+ITEM NAME: Tearon's Bracer
+
+
+
+Tearon's Bracer
+
+
+Slot: WRIST
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ELF HIE DEF DWF HFL GNM
+
+
+There is also a separate version of this item with 1 AC. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Thex Dagger Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

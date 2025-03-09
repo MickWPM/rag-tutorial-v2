@@ -1,0 +1,43 @@
+ITEM NAME: Wurmslayer
+
+Kunark Era (added 2000)
+ NERF ALERT (see notes)
+
+Wurmslayer
+
+
+MAGIC ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 40
+DMG: 25   AC: 5
+STR: +5
+SV MAGIC: +5
+WT: 15.0  Size: GIANT
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+Note: Changed to PRIMARY only on blue in 2/13/13 patch and green in 4/3/21 patch. Before this, it was equipable in SECONDARY and RANGE too. 
+
+Will actually fit (I just test on my warrior with a this bag) into GIANT-capacity bags, such as Shralok PackShralok Pack
+
+
+PENDING LORE
+WT: 0.4  Weight Reduction: 25%
+Capacity: 8  Size Capacity: GIANT
+
+
+. 
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dragon Scales Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Mr. Smish and his Wurmy
+

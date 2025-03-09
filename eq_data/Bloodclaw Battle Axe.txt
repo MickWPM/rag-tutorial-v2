@@ -1,0 +1,43 @@
+ITEM NAME: Bloodclaw Battle Axe
+
+Stonebrunt Era (added summer 2001)
+
+
+
+Bloodclaw Battle Axe
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 31
+DMG: 10 
+Effect: Blood Claw (Combat, Casting Time: Instant) at Level 18
+WT: 8.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Collier's Weapon Treatment
+
+  Player crafted 
+ Blacksmithing (Trivial: ???)
+ Yield: Bloodclaw Battle Axe x1
+ In Forge:
+
+
+  1 x Forged Battle Axe - Crafted
+  1 x Thick Caustic Liquid - Quested 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

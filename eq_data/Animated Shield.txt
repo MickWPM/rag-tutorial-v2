@@ -1,0 +1,77 @@
+ITEM NAME: Animated Shield
+
+Classic Era (added 1999-2000)
+
+
+Animated Shield
+
+
+MAGIC ITEM  NO DROP  TEMPORARY  
+Slot: SECONDARY
+AC: 8
+WT: 10.0  Size: LARGE
+Class: WAR
+Race: NONE
+
+
+
+
+  Drops From 
+Beholder's Maze
+
+ an evil eye pet
+ Lord Sviir pet
+ Lord Syrkl pet
+
+Kithicor Forest
+
+ Coercer Q`ioul Pet
+
+Lesser Faydark
+
+ an emperor fae drake pet
+
+Lower Guk
+
+ A Ghoul Scribe Pet
+
+Nagafen's Lair
+
+ kobold noble pet
+
+Northern Karana
+
+ Ezmirella pet
+
+Plane of Fear
+
+ a worry wraith pet
+
+Plane of Hate
+
+ a forsaken revenant pet
+
+Skyshrine
+
+ Ahcaz pet
+ Drookas Pet
+ Erepon pet
+ Orivin Vor`Tun Pet
+ Osino pet
+ Suez pet
+
+Tower of Frozen Shadow
+
+ an undead bridesmaid pet
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

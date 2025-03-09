@@ -1,0 +1,57 @@
+ITEM NAME: Interrogator's Briefing
+
+Warrens Era (added spring 2001)
+
+
+Interrogator's Briefing
+
+
+The Book is closed.
+LORE ITEM  NODROP
+WT: 0.1  Size: TINY
+
+
+ Item Lore (from Identify): Instructions for obtaining an Interrogator's Badge 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Qeynos Badge Quests 
+
+  Book contents 
+Interrogator's Apprentice 
+
+Briefing
+Secret: Your Eyes-Only
+With the information gleaned from our investigator's we have learned that several members of the 
+Bloodsabers have taken refuge in the Southern Plains of Karana. One man in particular,
+a drifter who fled Qeynos when the arrests began, has information on the whereabouts of
+two individuals whose actions resulted in the death of one of our most respected citizens
+during the terrible events that transpired some time ago.
+Due to his personality profile we suspect that this drifter will not divulge information 
+willingly nor will he be willing to sign any confessions. More physical 
+means of persuasion may be necessary to get him to comply. Keep in mind that interrogator's 
+are only authorized to use non-deadly forms of physical persuasion during their interrogations.
+You are to locate the interrogator in the Southern Plains of Karana
+and give him this secret briefing document, which will identify you
+as an interrogator apprentice. The interrogator will give you 
+further instructions as you begin your hands on training. You are to follow his lead at all times.
+Please Note: You should locate an investigator first and obtain an Unsigned Confession Document.
+It will be needed provided you are able to gain this drifter's cooperation. Be alert and do not underestimate
+these individuals. The dark power these Bloodsabers wield is indeed frightening.
+
+In service of Qeynos, 
+Bayle and the Council
+
+Vegalys Keldrane,
+Magistrate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

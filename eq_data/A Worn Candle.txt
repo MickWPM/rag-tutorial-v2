@@ -1,0 +1,47 @@
+ITEM NAME: A Worn Candle
+
+
+
+
+ 
+
+ Contents of this page has been identified as part of a current Server Issue (a "bug") on Project 1999 server(s).Remove this message when the active issue is resolved.
+
+
+
+
+ 
+
+ Notice: This page was carbon-copied from Allakhazam. It is probably missing vital information.
+It also may contain info which is incorrect for the Project 1999 Timeline. Please revise accordingly and then remove this message.
+
+Were you looking for Wax Candle?
+Classic Era (added 1999-2000)
+
+
+A Worn Candle
+
+
+NO DROP
+Slot: SECONDARY
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Newbie light source. Starting gear for Humans and Barbarians, per https://www.project1999.com/forums/showthread.php?t=245972
+Humans, Erudites, and Barbarians starting item. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Belt of Transience
+
+
+Belt of Transience
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 6
+STR: +5  DEX: +5
+SV POISON: +10
+Haste: +21%  
+WT: 0.1  Size: SMALL
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a gust of wind
+ a thunder spirit
+ a thunder spirit princess
+ an essence carrier
+ Bazzzazzt
+ Bzzzt
+ Gorgalosk
+ Protector of Sky
+ Sister of the Spire
+ The Hand of Veeshan
+ The Spiroc Lord
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

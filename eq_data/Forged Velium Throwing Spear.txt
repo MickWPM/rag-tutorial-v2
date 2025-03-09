@@ -1,0 +1,42 @@
+ITEM NAME: Forged Velium Throwing Spear
+
+Velious Era (added December 2000-2001)
+
+
+Forged Velium Throwing Spear
+
+
+MAGIC ITEM  
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 32
+DMG: 8
+WT: 1.5  Range: 215  Size: LARGE
+Class: WAR RNG MNK BRD ROG
+Race: ALL
+
+
+Stackable. These are the longest range stackable monk throwing weapons, however they are difficult to mass manufacture because temper required is sold in Thurgadin while molds are sold in other cities. They are also expensive, being over 4pp per jav in costs from temper alone.  A blacksmith should consider making the Forged Javelin instead, which is far more efficient. 
+
+  Drops From 
+ none
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 106)
+ Yield:  x
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Crafted, Bought
+  1 x Javelin Mold - Bought
+  1 x Sheet of Velium - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

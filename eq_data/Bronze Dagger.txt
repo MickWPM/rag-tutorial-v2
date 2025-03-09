@@ -1,0 +1,120 @@
+ITEM NAME: Bronze Dagger
+
+Classic Era (added 1999-2000)
+Bronze Dagger
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 22
+DMG: 3 
+WT: 3.0  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a Mistmoore guard
+ a pledge familiar
+
+Commonlands
+
+ a Dervish Cutthroat
+
+Crushbone
+
+ royal guard
+
+Erud's Crossing
+
+ a frantic kerran
+
+The Estate of Unrest
+
+ a greater dark bone
+
+Everfrost Peaks
+
+ a snow orc shaman
+
+Highpass Hold
+
+ an orc scout
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ skeleton trooper
+ undead cleric
+ zombie advisor
+ Zombie Commander
+ zombie infantry
+ zombie trooper
+
+Lake Rathetear
+
+ a deepwater goblin
+
+Lesser Faydark
+
+ Tayla Nybright
+
+Rathe Mountains
+
+ a bandit
+
+Neriak Commons
+
+ a leatherfoot spy
+
+Neriak Third Gate
+
+ Ambassador Rylan
+
+Northern Desert of Ro
+
+ a Dervish Cutthroat
+ a Dervish Thug
+ a desert madman
+ Guard Brendyl
+ Guard Fintran
+ Guard Stoutman
+
+Permafrost
+
+ High Priest Zaharn
+
+Southern Desert of Ro
+
+ a deepwater goblin
+ Obretl
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+The Feerrott
+
+ Cyndreela
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

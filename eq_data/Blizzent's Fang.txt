@@ -1,0 +1,37 @@
+ITEM NAME: Blizzent's Fang
+
+Velious Era (added December 2000-2001)
+
+
+Bllizent's Fang
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 25
+DMG: 8 
+WT: 7.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ Blizzent
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Demise of Blizzent
+ Blizzent's Fang Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

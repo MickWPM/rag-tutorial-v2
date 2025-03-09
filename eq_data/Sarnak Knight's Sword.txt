@@ -1,0 +1,37 @@
+ITEM NAME: Sarnak Knight's Sword
+
+
+
+Sarnak Knight's Sword
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 33
+DMG: 7 
+AGI: +2  MANA: +20
+SV MAGIC: +3
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Burning Woods
+
+ a sarnak knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dreadscale Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

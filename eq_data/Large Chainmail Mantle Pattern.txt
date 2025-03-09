@@ -1,0 +1,74 @@
+ITEM NAME: Large Chainmail Mantle Pattern
+
+
+
+Large Chainmail Mantle Pattern
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Halas
+
+ Lynda McDobbs
+
+
+
+  (364, -295)
+
+
+ Neriak Foreign Quarter
+
+ Putad
+
+
+
+  (-213, -295)
+
+
+ Oggok
+
+ Puglala
+
+
+
+  (95, 846)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Recipe name(s) 
+
+
+Large Ornate Chain MantleLarge Ornate Chain Mantle
+
+
+Slot: SHOULDERS
+AC: 7
+WT: 3.9  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: BAR TRL OGR
+
+
+ (Trivial: 182)
+
+
+

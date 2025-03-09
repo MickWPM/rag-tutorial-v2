@@ -1,0 +1,35 @@
+ITEM NAME: Valorium Helmet
+
+
+
+Valorium Helmet
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 17
+WIS: +7  MANA: +15
+SV MAGIC: +13
+WT: 4.5  Size: SMALL
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a fetid fiend
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

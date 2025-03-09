@@ -1,0 +1,38 @@
+ITEM NAME: Pixie Wing
+
+
+Pixie Wing
+
+
+QUEST ITEM
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Greater Faydark
+
+ a pixie trickster
+
+Lesser Faydark
+
+ a pixie prankster
+ a pixie trickster
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Journeyman Rune (Azia) (Trivial: 95)
+
+
+
+
+

@@ -1,0 +1,47 @@
+ITEM NAME: Crushed Jaundice Gem
+
+Velious Era (added December 2000-2001)
+
+Crushed Jaundice Gem
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a haunted seachest
+ A wyvern (Cobalt Scar)
+
+Icewell Keep
+
+ a frost spike
+ an avalanche golem
+ Frosticube
+
+The Wakening Land
+
+ Korzak Stonehammer
+ Rapticor
+ A Faerie Dragon
+ A Suit of Sentient Armor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Velious Class Armor
+ Caster Boots  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Netted Kelp Cloak
+
+Velious Era (added December 2000-2001)
+
+
+
+Netted Kelp Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 6
+STR: +2  STA: +8  CHA: -3  INT: +3
+SV FIRE: +5
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ a neriad maiden
+ a neriad mistress
+ a neriad sea princess
+ an enthralled molkor
+ an enthralled ulthork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

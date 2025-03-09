@@ -1,0 +1,234 @@
+ITEM NAME: Silver Ring
+
+Classic Era (added 1999-2000)
+
+Silver Ring
+
+
+Slot: FINGER
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+vendor trash 
+ Merchant resale value: 4g 6s 6c 
+
+  Drops From 
+Blackburrow
+
+ a gnoll shaman
+
+Cobalt Scar
+
+ a bulthar herdleader
+ a haunted seachest
+
+West Commonlands
+
+ a Dervish Cutthroat
+ a hill giant
+ Sergeant Slate
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Eastern Plains of Karana
+
+ a hill giant
+ an undead reaver
+
+Erud's Crossing
+
+ a shark
+
+The Estate of Unrest
+
+ a dark terror
+
+Lake of Ill Omen
+
+ a goblin brawler
+
+Lavastorm Mountains
+
+ a fire drake
+
+Lesser Faydark
+
+ an emperor fae drake
+ Whimsy Larktwitter
+
+Misty Thicket
+
+ orc oracle
+
+Rathe Mountains
+
+ a hill giant
+
+Northern Karana
+
+ a griffawn
+ a ghoul
+
+Northern Desert of Ro
+
+ a desert madman
+ a shriveled mummy
+
+Old Sebilis
+
+ myconid warrior
+
+Southern Desert of Ro
+
+ an orc priest
+
+Steamfont Mountains
+
+ a harpy
+ a mountain brownie
+ an earth elemental
+
+Swamp of No Hope
+
+ froglok raider
+ man eating fern
+ Iksar Pariah
+
+The Wakening Land
+
+ a drixie thane
+
+Upper Guk
+
+ a fungus breeder
+ a fungus soldier
+ a large heart spider
+
+Warsliks Woods
+
+ an iksar marauder
+
+Western Plains of Karana
+
+ a hill giant
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Pickled Drake
+
+Velious Era (added December 2000-2001)
+
+
+
+Pickled Drake
+
+
+This is a Meal WIS: +2 INT: +2 WT: 0.1 Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking (Trivial: ?)
+ Yield: Pickled Drake x2
+ In Oven: Spit
+
+
+  1 x Drake Meat - Dropped
+  1 x Jug of Oyster Sauces - Bought
+  1 x Seaweed Vinegar - Bought
+
+
+
+
+

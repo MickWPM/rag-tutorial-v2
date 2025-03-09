@@ -1,0 +1,36 @@
+ITEM NAME: Ulthork Hide Tunic
+
+Velious Era (added December 2000-2001)
+
+
+
+Ulthork Hide Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 13
+CHA: -5  WIS: +3  HP: -35  MANA: +35
+WT: 3.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a ulthork man o war
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

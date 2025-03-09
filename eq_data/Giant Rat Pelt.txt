@@ -1,0 +1,54 @@
+ITEM NAME: Giant Rat Pelt
+
+
+
+Giant Rat Pelt
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Innothule Swamp
+
+ a giant rat
+
+North Kaladim
+
+ Giant Rat
+
+Misty Thicket
+
+ a giant rat
+
+Qeynos Aqueducts
+
+ a giant sewer rat
+
+Qeynos Hills
+
+ a giant rat
+
+Steamfont Mountains
+
+ a giant rat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ratskin Gloves Quest (Kithicor Forest)
+ Rat Patrol (North Kaladim)
+ Rat Pelts (South Kaladim)
+ Rat Pelt Cape Quest (Qeynos)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

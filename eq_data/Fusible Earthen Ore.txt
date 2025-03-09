@@ -1,0 +1,41 @@
+ITEM NAME: Fusible Earthen Ore
+
+
+
+
+ 
+
+ Contents of this page has been identified as part of a current Server Issue (a "bug") on Project 1999 server(s).Remove this message when the active issue is resolved.
+
+Velious Era (added December 2000-2001)
+
+
+Fusible Earthen Ore
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Could possibly be a ground spawn: https://www.project1999.com/forums/showthread.php?t=281241 
+
+  Drops From 
+The Hole
+
+ Master Yael
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fusibility Research
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Telescopic Eyepatch
+
+Velious Era (added December 2000-2001)
+
+Telescopic Eyepatch
+
+
+QUEST ITEM
+Slot: FACE
+AC: 3
+Effect:  Telescope (Any Slot/Can Equip, Casting Time: 1.0) at Level 10
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Made with gnome cultural tinkering. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tinkering (Trivial: 82)
+ Yield: Telescopic Eyepatch x1
+ In Toolboxes:
+
+
+  1 x Gnomish Bolts - Bought
+  1 x Low Quality Dire Wolf Fur - Dropped
+  1 x Reflective Shard - Bought
+  1 x Velium Lens - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

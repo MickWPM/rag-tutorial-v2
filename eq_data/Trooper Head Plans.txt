@@ -1,0 +1,32 @@
+ITEM NAME: Trooper Head Plans
+
+
+
+Trooper Head Plans
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #4 (Trooper's Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Trooper's Pike Head (Trivial: 15)
+
+
+
+
+

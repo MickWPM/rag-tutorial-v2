@@ -1,0 +1,40 @@
+ITEM NAME: Gnome Skin Tunic
+
+Velious Era (added December 2000-2001)
+
+Gnome Skin Tunic
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 13
+SV POISON: +10
+WT: 4.0  Size: TINY
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Gnome Skin Armor set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a golem usher
+ a shadow beast
+ a shadow beast guard
+ a shrouded bat
+ an angry librarian
+ an armored shadow
+ an icy shade
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

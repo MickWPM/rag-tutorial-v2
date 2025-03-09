@@ -1,0 +1,40 @@
+ITEM NAME: Seafarer Ring Gauntlets
+
+
+
+Seafarer Ring Gauntlets
+
+
+Slot: HANDS
+AC: 9
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the human cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 128)
+ Yield: Seafarer Ring Gauntlets x1
+ In Antonican Forge:
+
+
+  1 x Chainmail Glove Pattern - Bought
+  1 x Leather Gloves - Bought, Quested, Dropped
+  2 x Medium Quality Metal Rings - Crafted
+  1 x Sea Temper - Crafted
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

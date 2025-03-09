@@ -1,0 +1,36 @@
+ITEM NAME: Blued Flower Katana
+
+Kunark Era (added 2000) not very blue
+
+
+Blued Flower Katana
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 25
+DMG: 13 
+STR: +5  DEX: +10  STA: +10
+WT: 2.0  Size: MEDIUM
+Class: WAR RNG BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Silverwing
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

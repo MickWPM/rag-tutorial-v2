@@ -1,0 +1,31 @@
+ITEM NAME: Greenmist Icon
+
+Kunark Era (added 2000)
+
+
+Greenmist Icon
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+CHA: +5
+WT: 0.2  Size: SMALL
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Iksar Prisoner Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

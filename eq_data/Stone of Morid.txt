@@ -1,0 +1,35 @@
+ITEM NAME: Stone of Morid
+
+Kunark Era (added 2000)
+
+Stone of Morid
+
+
+MAGIC ITEM  LORE ITEM
+Slot: RANGE
+STA: -5
+SV FIRE: +30  SV COLD: +30
+WT: 7.0  Size: TINY
+Class: WAR SHD MNK SHM NEC
+Race: IKS
+
+
+Became BAR TRL OGR usable after a 2001 patch.[1] -- Aug '17: Currently IKS only on Project 1999. 
+ Merchant resale value: 12 pp. 
+
+  Drops From 
+Temple of Droga
+
+ a goblin fanatic
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

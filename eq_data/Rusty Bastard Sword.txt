@@ -1,0 +1,113 @@
+ITEM NAME: Rusty Bastard Sword
+
+Classic Era (added 1999-2000)
+
+Rusty Bastard Sword
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 42
+DMG: 6 
+WT: 9.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Befallen
+
+ a cracked skeleton
+ a dread bone
+ a shadowknight (Human)
+ a sturdy skeleton
+ a zombie
+
+Butcherblock Mountains
+
+ a decaying dwarf skeleton
+
+Commonlands
+
+ a decaying skeleton
+ a lesser mummy
+ a parched zombie
+ a zombie
+ Guard Colin
+ orc centurion
+
+Everfrost Peaks
+
+ a decaying skeleton
+ an ice goblin whelp
+ ice boned skeleton
+
+Greater Faydark
+
+ a decaying skeleton
+
+Innothule Swamp
+
+ fungus man tracker
+
+Lesser Faydark
+
+ orc centurion
+
+Misty Thicket
+
+ orc centurion
+
+Rathe Mountains
+
+ a lizardman robber
+ a zombie
+
+Nektulos Forest
+
+ a deathfist legionnaire
+ a decaying skeleton
+ a rotting citizen
+ a zombie
+ an undead annalkeeper
+ an undead steward
+ Himmel
+
+North Qeynos
+
+ a decaying skeleton
+
+Northern Desert of Ro
+
+ a shriveled mummy
+ a zombie
+
+Ocean of Tears
+
+ a greater skeleton
+
+Southern Karana
+
+ an undead cyclops
+ Brother Drash
+
+West Freeport
+
+ a decaying skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bladed Weapons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Practice Rune (Beza) (Trivial:21)
+
+
+
+
+

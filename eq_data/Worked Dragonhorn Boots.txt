@@ -1,0 +1,42 @@
+ITEM NAME: Worked Dragonhorn Boots
+
+Velious Era (added December 2000-2001)
+
+
+
+Worked Dragonhorn Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 15
+AGI: +7
+SV MAGIC: +3
+WT: 2.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Cargalia
+ Glati
+ Myga
+ Sontalak
+ Vitaela
+ Yeldema
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,70 @@
+ITEM NAME: Targ Shield Mold
+
+
+
+Targ Shield Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Zern
+
+
+
+  (-512, 8)
+
+
+ Felwithe
+
+ Merchant Tearlan
+
+
+
+  (-79, -385)
+
+
+ East Freeport
+
+ Kif
+
+
+
+  (42, -183)
+
+
+ South Qeynos
+
+ Ton Firepride
+
+
+
+  (173, -327)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

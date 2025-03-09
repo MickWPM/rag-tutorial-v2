@@ -1,0 +1,34 @@
+ITEM NAME: Goblin Spirit Catcher
+
+Kunark Era (added 2000)
+
+Goblin Spirit Catcher
+
+
+MAGIC ITEM
+Slot: FINGER
+AC: 2
+MANA: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Sells for 8p to merchant with 128 CHA and indifferent faction 
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak courier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

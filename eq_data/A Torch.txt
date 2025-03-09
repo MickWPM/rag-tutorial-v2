@@ -1,0 +1,46 @@
+ITEM NAME: A Torch
+
+Classic Era (added 1999-2000)Were you looking for Torch (cheap light source)?
+
+
+A Torch
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Torch of Fire  This item was introduced as part of a Temple of Solusek Ro quest Oct 1999 era. [1] 
+
+  Drops From 
+Najena
+
+ A Magician
+ a goblin magician
+ a goblin warrior
+ dark-boned skeleton
+
+Cazic Thule
+
+ an alligator
+
+Everfrost Peaks
+
+ an ice goblin scout
+ ice goblin diver
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Torch Of Alna Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

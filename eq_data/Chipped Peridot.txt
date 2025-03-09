@@ -1,0 +1,34 @@
+ITEM NAME: Chipped Peridot
+
+Velious Era (added December 2000-2001)
+
+
+Chipped Peridot
+
+
+MAGIC ITEM
+AC: 1  SV COLD: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 9p 8g 8s to vendor.
+Crystal Caverns
+
+ a focus gem
+ a gem collector 
+
+  Drops From 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Aegis of the Wind
+
+
+
+Aegis of the Wind
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+AC: 25
+WIS: +9  MANA: +60
+SV DISEASE: +10
+WT: 9.5  Size: LARGE
+Class: CLR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of Skill
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

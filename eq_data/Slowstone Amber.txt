@@ -1,0 +1,34 @@
+ITEM NAME: Slowstone Amber
+
+
+Slowstone Amber
+
+
+LORE ITEM
+Charges: 3
+Effect:  Shiftless Deeds (Any Slot/Can Equip, Casting Time: 2.5) at Level 45
+WT: 1.0  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+Rechargeable for 5000p. This item is prized by Monks for its ability to generate significant aggro instantly; capped at 400 hate per charge and has a 2.5 cast time;  and rip a target from a second puller's train.  It is also especially favored by racing teams for its 250 range, which is longer than other items such as the Wooly Spider Silk Net and faster than the Antonian Javelin; It is now slower than Javelins due to the cast time.  In addition to the above points, the effect itself is a 65% slow, which is the best available to any class besides Enchanters and Shamans (and Bards) (Bard slow spell caps at 35%).
+Changed from Instant to 2.5 second cast time with the April 19, 2020 patch. 
+
+  Drops From 
+Plane of Hate
+
+ a kiraikuei
+  Grandmaster R`Tal (Hate 2.0)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

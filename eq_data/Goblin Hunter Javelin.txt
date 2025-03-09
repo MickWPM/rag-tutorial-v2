@@ -1,0 +1,40 @@
+ITEM NAME: Goblin Hunter Javelin
+
+Kunark Era (added 2000)
+
+
+Goblin Hunter Javelin
+
+
+NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 32
+DMG: 4 
+WT: 9.0  Size: SMALL
+Class: WAR SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a goblin hunter
+
+Warsliks Woods
+
+ a goblin hunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #2 (Footman's Pike)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

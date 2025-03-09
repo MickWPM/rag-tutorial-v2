@@ -1,0 +1,33 @@
+ITEM NAME: Holgresh Spirit Beads
+
+Velious Era (added December 2000-2001)
+
+Holgresh Spirit Beads
+
+
+Slot: NECK
+SV FIRE: +1  SV COLD: +1  SV MAGIC: +2
+Grim Aura (Worn)   
+WT: 0.2  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+Note: Seems to have a permanent (non-clickie) Grim Aura effect INSTEAD of Atk +7 in classic (same effect). 
+
+  Drops From 
+The Wakening Land
+
+ a holgresh elementalist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

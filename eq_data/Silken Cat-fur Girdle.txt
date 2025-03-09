@@ -1,0 +1,34 @@
+ITEM NAME: Silken Cat-fur Girdle
+
+Kunark Era (added 2000)
+
+Silken Cat-fur Girdle
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 5
+STR: +9  DEX: +13
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ Sigra
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

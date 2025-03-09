@@ -1,0 +1,53 @@
+ITEM NAME: Gossamer Robe
+
+
+Gossamer Robe
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 8
+WT: 1.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Gossamer Armor Set 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 2 Platinums
+ 4 Golds
+ 9 Silvers
+ 4 Coppers
+ 
+  Drops From 
+Befallen
+
+ a necro theurgist
+ the thaumaturgist
+
+The Estate of Unrest
+
+ a festering hag
+
+Firiona Vie
+
+ Vrionele
+
+Plane of Sky
+
+ Kihun Solstin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Taskmaster Earring - High Elf Female
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

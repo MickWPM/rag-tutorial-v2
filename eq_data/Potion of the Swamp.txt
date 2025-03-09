@@ -1,0 +1,36 @@
+ITEM NAME: Potion of the Swamp
+
+
+Potion of the Swamp
+
+
+EXPENDABLE  Charges: 1
+Effect:  Swamp Port (Any Slot, Casting Time: 30.0)
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Teleports the user (self-only) to loc  +1188,+544  in Innothule Swamp. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Alchemy (Trivial: 170)
+ Yield: Potion of the Swamp x1
+ In Medicine Bag:
+
+
+  1 x Heliotrope - Bought
+  1 x Bladderwrack - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

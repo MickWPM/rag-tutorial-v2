@@ -1,0 +1,42 @@
+ITEM NAME: Steelsilk Helm
+
+
+
+Steelsilk Helm
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 13
+STR: +6  HP: +5  MANA: +15
+SV POISON: +6
+WT: 2.5  Size: SMALL
+Class: CLR PAL SHD
+Race: ERU
+
+
+Part of the erudite cultural tailoring armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 248)
+ Yield: Steelsilk Helm x1
+ In Erudite Sewing Kit:
+
+
+  1 x Cap Pattern - Bought
+  1 x Platinum Thread - Bought
+  1 x Terrorantula Swatch - Crafted
+  1 x Vial of Purified Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

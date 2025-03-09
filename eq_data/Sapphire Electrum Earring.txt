@@ -1,0 +1,36 @@
+ITEM NAME: Sapphire Electrum Earring
+
+
+Sapphire Electrum Earring
+
+
+Slot: EAR
+STR: +4  INT: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 132)
+ Sapphire Electrum Earring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Electrum Bar - Summoned
+  1 x Sapphire - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

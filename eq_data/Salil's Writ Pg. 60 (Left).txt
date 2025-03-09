@@ -1,0 +1,44 @@
+ITEM NAME: Salil's Writ Pg. 60 (Left)
+
+
+
+Salil's Writ Pg. 60
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this page is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this page to sell or give to other players. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 9 Golds
+ 1 Silvers
+ 1 Coppers
+ 
+  Drops From 
+Various Zones
+
+ Random drop from any level ~34 mob
+
+Lower Guk
+
+ A ghoul ritualist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Insipid Weakness (Trivial: 122)
+
+
+
+
+

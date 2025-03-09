@@ -1,0 +1,32 @@
+ITEM NAME: Sarnak Whelp Head
+
+
+
+Sarnak Whelp Head
+
+
+NO DROP  QUEST ITEM
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak hatchling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of the Pawn (#1)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

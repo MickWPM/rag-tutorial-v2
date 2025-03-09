@@ -1,0 +1,41 @@
+ITEM NAME: Tailor-made Whip
+
+
+Tailor-made Whip
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 33
+DMG: 7 
+WT: 6.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ Ebon Lotus?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 36)
+ Yield: Tailor-made Whip x1
+ In Loom:
+
+
+  4 x Heady Kiola - Crafted
+  1 x Medium Quality Cat Pelt - Crafted, Quested, Dropped
+  1 x Whip Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

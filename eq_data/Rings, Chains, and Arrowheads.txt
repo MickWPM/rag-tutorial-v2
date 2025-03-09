@@ -1,0 +1,66 @@
+ITEM NAME: Rings, Chains, and Arrowheads
+
+
+
+Rings, Chains, and Arrowheads
+
+
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Daria Smith
+
+
+
+  (46, -226)
+
+
+ East Freeport
+
+ Issilyn Ristan
+
+
+
+  (72, -214)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Rings, Chains, and Arrowheads by Gord Smith
+When times are hard it is wise for a blacksmith to forge small items that are used by other craftsmen.
+Some of the more profitable forged supplies are metal rings, chain jointing, arrow-heads, steel shafts, and skinning knives.
+WATER FLASKS and a FORGE are of course required to forge any of these items.
+METAL RINGS must be carefully shaped out of a LARGE BRICK OF ORE with a FILE.
+The METAL RINGS can then be joined together into CHAIN JOINTING with a FILE and SMITHY HAMMER.
+Chain jointing is used by skilled blacksmithing in the crafting of Field Plate and Full Plate armors.
+FIELD ARROWHEADS can be easily shaped from METAL BITS with a FILE.
+HOOKED ARROWHEADS must be crafted with a FILE and THREE SMALL BRICKS of ORE.
+SILVER TIPPED ARROWHEADS are very desirable by fletchers but require a SILVER BAR in addition to a FILE and a BLOCK of MEDIUM QUALITY ORE.
+Another smithed item in demand by fletchers are STEEL ARROWSHAFTS which can be smithed using a FILE and TWO LARGE BRICKS of MEDIUM QUALITY ORE.
+SKINNING KNIVES are a favorite tool for tailors who specialize in hides and leathers. 
+A skinning knife can be crafted with a DAGGER BLADE MOLD, a SMALL BRICK OF ORE, and a HILT MOLD.
+Happy smithing and may your coin purse never go hungry!
+The End.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

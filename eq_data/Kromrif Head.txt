@@ -1,0 +1,44 @@
+ITEM NAME: Kromrif Head
+
+Velious Era (added December 2000-2001)
+
+Kromrif Head
+
+
+MAGIC ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Doesn't seem to drop off scouts in Iceclad Ocean.  10 of these are used for the second coldain shawl quest, which can be repeated (after the first shawl) for minimal faction. 
+
+  Drops From 
+Eastern Wastes
+
+ a frost giant
+ a frost giant captain
+ a frost giant savage
+ a frost giant scout
+ a kromrif prison guard
+ Fjloaren Icebane
+ Ghrek Squatnot
+
+Great Divide
+
+ a frost giant berserker
+ a frost giant elite
+ a frost giant scout
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #2: Cloth Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

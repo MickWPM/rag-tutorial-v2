@@ -1,0 +1,34 @@
+ITEM NAME: Sarnak Hatchling Brain
+
+Kunark Era (added 2000)
+
+
+Sarnak Hatchling Brain
+
+
+NODROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Developed Brain 
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak hatchling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sarnak Hatchling Brains
+ Necromancer 1st Rank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

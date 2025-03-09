@@ -1,0 +1,70 @@
+ITEM NAME: Skinning Rock
+
+Velious Era (added December 2000-2001)
+[[File:{{{imagefilename}}}|{{{width}}}|{{{align}}}|Skinning Rock]]
+
+ Skinning Rock
+ Race: Rock
+ Class: None
+ Level: 1
+ Spawn
+ Zone: Eastern Wastes
+ Location: 100% @ (-2809, -65), (-5749, -954), (-5886, -486), (-6565, -2561),  (-6242,-2638), (-3208,-2603), (-6865, +1170); (-5810, +2585); (-3335, -2370); (+70, -1285); (-7480, +890); (-6530, +2105); (-4900, -1300)
+
+
+ Stats
+ AC: {{{AC}}}
+ HP: {{{HP}}} ({{{HP_regen}}})
+ Damage per hit: {{{damage_per_hit}}}
+ Attacks per round: {{{attacks_per_round}}} ({{{attack_speed}}})
+ Special: {{{special}}}
+
+
+  Description 
+Description needed! Replace this text with characteristics of the mob.
+
+  Known Loot 
+ None
+
+  Factions 
+ None
+
+  Opposing Factions 
+ None
+
+  Related Quests 
+ None
+
+
+
+
+
+
+
+Skinning Rock
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Ground spawn in Eastern Wastes at: (-6865, +1170); (-5810, +2585); (-3335, -2370); (+70, -1285); (-7480, +890); (-6530, +2105); (-4900, -1300)  (possible).
+p99: Confirmed Ground Spawn at: (-2809, -65), (-5749, -954), (-5886, -486), (-6565, -2561),  (-6242,-2638), (-3208,-2603), (-4138,-517), (-6796,-17), (-4917, -600), (-6250, 209), (-7075, 1355), (-3240, 1867), (-4140, 3420), (-7520, -1300), (-1757, -2515), (-2270, -3680), (-5336, 337)  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Ring #3: Gold Coldain Insignia Ring
+ Direwolf Fur Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Brain Freeze
+
+Classic Era (added 1999-2000)
+
+
+Brain Freeze
+
+
+QUEST ITEM
+Effect: System Shock II (Combat, Casting Time: Instant) at Level 20
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 130)
+ Yield: Brain Freeze x1
+ In Mortar and Pestle:
+
+
+  1 x Constrict Suspension - Bought, Dropped
+  2 x Gelsemium Root - Bought
+  1 x Sealed Poison Vial - Crafted, Bought, Returned on Failure 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

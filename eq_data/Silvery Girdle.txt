@@ -1,0 +1,37 @@
+ITEM NAME: Silvery Girdle
+
+Sky Era (added January 2000)
+
+
+
+Silvery Girdle
+
+
+LORE ITEM
+Slot: WAIST
+AC: 10
+STR: +5  STA: +5
+WT: 0.2  Size: SMALL
+Class: PAL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul harvester
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Test of Spirit
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,39 @@
+ITEM NAME: Amulet of the Void
+
+Classic Era (added 1999-2000)
+
+
+Amulet of the Void
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+Charges: 1
+AC: 4
+DEX: +5  CHA: +5  INT: +5  AGI: +5  MANA: +50
+Effect: Alter Plane: Sky (Any Slot/Can Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: TINY
+Class: WIZ
+Race: ALL
+
+
+Appears to be a post-upgrade version of Amulet of Planar Transference.
+The Amulet of the Void can be recharged in a Box of the Void with a Mana Battery - Class Five both of which can be bought from the Key Master on the first Island for about 55 platinum.
+Unlike the casted spell version of Alter Plane: Sky, this amulet is not usable in Plane of Sky.
+This item is now usable in Plane of Sky with the chardok revamp patch.
+Besides saving a guild money on sky raids, it's a great instant click panic button like a WC cap but cheaper to use and easier to recharge. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Wizard Test of Visualization
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Personal Diary Page
+
+
+
+Personal Diary Page
+
+
+LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+
+
+ Item Lore (from Identify):  Report Information 1 of 6 
+
+  Drops From 
+City of Mist
+
+ a haze golem
+ a vapor golem
+ greater spurbone
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest 
+
+  Book contents 
+I heard last night that there was some kind of commotion at the castle. Guards were shouting, spells went off throughout the halls and many died.
+Some say there was an assassination, some say a band of frogloks attacked under the command of a dragon, some even say there was some divine intervention.
+I have no idea why any god would strike against Lord Rak Ashiir. He is a paragon for the cause of Cazic-Thule.
+I hope whatever it was sticks to attacking the castle and not my shop though.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,49 @@
+ITEM NAME: Siren Hair
+
+Velious Era (added December 2000-2001)
+
+
+Siren Hair
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ a siren enchantress
+ a siren seductress
+ a siren enticer
+
+Siren's Grotto
+
+ a siren enticer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #6: Embroidered Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring (Trivial: 162)
+ Yield: Spool of Sacred Coldain Thread x1
+ In Sewing Kit:
+
+
+  2 x Drakkel Wolf Whisker - Dropped
+  2 x Manticore Mane - Dropped
+  2 x Siren Hair - Dropped
+  1 x Woven Frost Giant Beard - Dropped
+
+
+
+
+

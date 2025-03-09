@@ -1,0 +1,35 @@
+ITEM NAME: Swarmer Pincers
+
+Velious Era (added December 2000-2001) Swarmer Pincer in Primary
+
+
+Swarmer Pincers
+
+
+LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 19
+DMG: 10 
+WT: 5.1  Size: SMALL
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a swarming beetle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

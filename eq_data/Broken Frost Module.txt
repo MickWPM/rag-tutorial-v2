@@ -1,0 +1,30 @@
+ITEM NAME: Broken Frost Module
+
+
+Broken Frost Module
+
+
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+No known classic use? 
+ Merchant resale value: 1p 4g 7s 7c 
+
+  Drops From 
+Solusek's Eye
+
+ CWG Model CC
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

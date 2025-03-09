@@ -1,0 +1,37 @@
+ITEM NAME: Riptide Spear
+
+
+Riptide Spear
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Charges: 3
+Skill: Piercing  Atk Delay: 33
+DMG: 6 
+SV COLD: +2  SV MAGIC: -5
+Effect:  Enduring Breath (Any Slot, Casting Time: Instant)
+WT: 4.5  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL except ERU HIE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Popular for Enchanters who like to charm for the negative magic resist. 
+
+  Drops From 
+Butcherblock Mountains
+
+ Glubbsink
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

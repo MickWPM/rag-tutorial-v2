@@ -1,0 +1,40 @@
+ITEM NAME: Serrated Dragon Tooth
+
+Velious Era (added December 2000-2001)
+ 
+Serrated Dragon Tooth
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 13   AC: 30
+DEX: +10  STA: +10  AGI: +10
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+Haste: +41%  
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+Updated to P99 stats. -Fife 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Test of the Tooth
+ White Tear (from Dozekar the Cursed)
+ Silver Symbol (from Essedera)
+ White Symbol (from Casalen or Tavekalem)
+ Glowing Drake Orb (from any HOT Named)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,153 @@
+ITEM NAME: Compass
+
+
+Compass
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ Rylin Coil
+
+
+
+  (1469, -190)
+
+
+ East Commonlands
+
+ Bubar
+
+
+
+  (-1519, -116)
+
+
+ Kithicor Forest
+
+ Elsbyth
+
+
+
+  (-776, 3082)
+
+
+ Lake Rathetear
+
+ Dreana
+
+
+
+  (-424, 450)
+
+
+ Lavastorm Mountains
+
+ Jenah Wheelspinner
+
+
+
+  (401, 826)
+
+
+ Northern Karana
+
+ Romella
+
+
+
+  (-682, -201)
+
+
+ Northern Desert of Ro
+
+ Murissa Sandwhisper
+
+
+
+  (3712, 126)
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ South Qeynos
+
+ Ghul Rustem
+
+
+
+  (-307, -28)
+
+
+ Rathe Mountains
+
+ Viira Bali
+
+
+
+  (1644, -875)
+
+
+ Rathe Mountains
+
+ Susanna
+
+
+
+  (2908, -769)
+
+
+ Rathe Mountains
+
+ Chandra Kali
+
+
+
+  (3922, 1390)
+
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ Tinkering (Trivial: 50)
+ Yield: Compass x 1
+ In: Toolboxes
+
+
+  1 x Static Orb - Bought
+  1 x Water Flask - Bought, Crafted, Dropped, Quested
+  1 x Pie Tin - Crafted
+  1 x Cork - Bought
+  1 x Skewers - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

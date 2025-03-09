@@ -1,0 +1,36 @@
+ITEM NAME: Silver Whip of Rage
+
+Velious Era (added December 2000-2001)
+ Project 1999 Blue - Grumpet "Indiana Gnomes" holds the Silver Whip of Rage in his off-hand
+Silver Whip of Rage
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 19
+DMG: 13 
+SV MAGIC: +25
+Effect: Silver Skin (Combat, Casting Time: Instant)
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Vyemm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

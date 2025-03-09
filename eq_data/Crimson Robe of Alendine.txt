@@ -1,0 +1,45 @@
+ITEM NAME: Crimson Robe of Alendine
+
+Classic Era (added 1999-2000)
+
+
+
+Crimson Robe of Alendine
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 12
+DEX: +15  INT: +15  HP: +50  MANA: +50
+WT: 1.0  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+
+
+  Drops From 
+Plane of Fear
+Post-Revamp (Current)
+
+ Fright
+ Dread
+ Terror
+ a dracoliche
+
+Pre-Revamp
+
+ Cazic Thule (God)
+ a dracoliche
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

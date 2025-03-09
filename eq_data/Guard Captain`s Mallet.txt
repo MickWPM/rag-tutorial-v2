@@ -1,0 +1,35 @@
+ITEM NAME: Guard Captain`s Mallet
+
+Chardok Revamp Era (added late 2001)
+
+Guard Captain`s Mallet
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 20
+DMG: 11 
+DEX: +6  AGI: +6  HP: +45
+WT: 5.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Captain Di`ouz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

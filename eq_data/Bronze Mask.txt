@@ -1,0 +1,65 @@
+ITEM NAME: Bronze Mask
+
+Classic Era (added 1999-2000)Were you looking for Large Bronze Armor Set? Were you looking for Small Bronze Armor Set?
+
+Bronze Mask
+
+
+Slot: FACE
+AC: 5
+WT: 1.9  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL except DWF TRL OGR HFL GNM IKS
+
+
+Part of the Bronze Armor Set. 
+ Merchant resale value: 2p 4g Max 
+
+  Drops From 
+Mistmoore Castle
+
+ a deathly harbinger
+ a deathly herald
+ a deathly usher
+ a will pillager
+ a will ravisher
+ a will sapper
+ Butler Syncall
+
+Dreadlands
+
+ a drolvarg gnasher
+ a drolvarg rager
+
+Firiona Vie
+
+ a drolvarg snarler
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ greater kobold
+ Solusek kobold
+ Solusek kobold shaman
+
+Permafrost
+
+ an elite goblin guard
+
+Western Plains of Karana
+
+ Einhorst McMannus
+ Ulrich McMannus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

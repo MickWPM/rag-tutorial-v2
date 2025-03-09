@@ -1,0 +1,32 @@
+ITEM NAME: Glob of Gooey Goo
+
+
+Glob of Gooey Goo
+
+
+MAGIC ITEM
+EXPENDABLE  Charges: 1
+Effect:  Immobilize (Any Slot, Casting Time: 8.0)
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones
+
+ a bile golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,41 @@
+ITEM NAME: Small Ornate Chain Skirt
+
+Classic Era (added 1999-2000)
+
+
+Small Ornate Chain Skirt
+
+
+Slot: WAIST
+AC: 7
+WT: 1.4  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 168)
+ Yield: Small Ornate Chain Skirt x1
+ In Forge:
+
+
+  2 x High Quality Metal Rings - Crafted
+  1 x Silver Bar - Bought, Dropped
+  1 x Small Chainmail Skirt Pattern - Bought
+  1 x Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

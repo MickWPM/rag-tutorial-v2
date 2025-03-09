@@ -1,0 +1,40 @@
+ITEM NAME: Forged Two Handed Sword
+
+
+Forged Two Handed Sword
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 44
+DMG: 12 
+WT: 11.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 73)
+ Yield: Forged Two Handed Sword x1
+ In Forge:
+
+
+  1 x Heavy Steel Blade Mold
+  1 x Hilt Mold
+  1 x Pommel Mold
+  1 x Sheet Metal
+  1 x Water Flask
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,45 @@
+ITEM NAME: Torn Brown Shirt*
+
+
+
+Torn Brown Shirt*
+
+
+LORE ITEM
+Slot: CHEST
+AC: 2
+WT: 0.8  Size: MEDIUM
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+Lower Guk
+
+ Raster of Guk
+
+North Qeynos
+
+ Togahn Sorast
+
+Southern Karana
+
+ Brother Qwinn
+
+West Freeport
+
+ Thena Lonnes
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

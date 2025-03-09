@@ -1,0 +1,29 @@
+ITEM NAME: Sarnak Head Pack
+
+Kunark Era (added 2000)
+
+
+Sarnak Head Pack
+
+
+LORE ITEM NO DROP
+WT: 2.0 Weight Reduction: 0%
+Capacity: 4 Size Capacity: SMALL
+
+
+ Item Lore (from Identify): Pack for Whelp Heads 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of the Pawn (#1)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

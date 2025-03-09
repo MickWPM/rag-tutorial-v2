@@ -1,0 +1,29 @@
+ITEM NAME: Icon of Sacrament
+
+
+
+Icon of Sacrament
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Ground spawn in Mistmoore Castle at -68, +280  (Also reported to be ground spawn in Lesser Faydark at -855, +3610 ? Searched here for 20 minutes on October 4th, 2020, no luck) 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Caduceus of Sacrament Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

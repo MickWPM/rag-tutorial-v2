@@ -1,0 +1,34 @@
+ITEM NAME: Renard's Belt of Quickness
+
+Sky Era (added January 2000)
+
+
+Renard's Belt of Quickness
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 6
+STR: +5  DEX: +12  CHA: +5  AGI: +12
+Haste: +41%  
+WT: 1.0  Size: MEDIUM
+Class: ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Test of Trickery
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

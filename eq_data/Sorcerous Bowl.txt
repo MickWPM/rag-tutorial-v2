@@ -1,0 +1,37 @@
+ITEM NAME: Sorcerous Bowl
+
+Velious Era (added December 2000-2001)
+
+
+
+Sorcerous Bowl
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 25
+DMG: 1 
+CHA: -5  WIS: +7  INT: +7  HP: +50  MANA: +10
+SV FIRE: +5  SV COLD: +5  SV MAGIC: +5
+WT: 0.5  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF HEF GNM IKS
+
+
+ Item Lore (from Identify): You feel interference 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ Cara Omica
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ Doting wielding a sorcerous bowl
+

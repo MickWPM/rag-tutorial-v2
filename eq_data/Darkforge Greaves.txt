@@ -1,0 +1,36 @@
+ITEM NAME: Darkforge Greaves
+
+Temple Era (added October 1999)
+
+
+
+Darkforge Greaves
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 13
+STA: +9
+SV MAGIC: +3
+WT: 3.7  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest
+ Darkforge Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,55 @@
+ITEM NAME: Kobold Molar
+
+Warrens Era (added spring 2001)
+
+
+Kobold Molar
+
+
+NO DROP  QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ a scouting kobold
+
+The Warrens
+
+ a fierce kobold
+ A Frothing Kobold
+ A Huge Kobold
+ a kobold (Warrens)
+ A Kobold Archer
+ A Kobold Fisherman
+ A Kobold Guard
+ A Kobold Outcast
+ A Kobold Pit Fighter
+ a kobold protector
+ A Kobold Runt
+ A Kobold Sentinel
+ A Kobold Sentry
+ A Large Kobold
+ a rabid kobold
+ A Training Kobold
+ An Elite Kobold
+ Foodmaster Rargnar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kobold Molars (Good)
+ Kobold Molars (evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

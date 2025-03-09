@@ -1,0 +1,35 @@
+ITEM NAME: Ring of the Dead
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Ring of the Dead
+
+
+MAGIC ITEM  NO DROP  LORE ITEM
+Slot: FINGER
+Charges: 1
+Effect: Bind Affinity (Must Equip, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: SHD NEC
+Race: DEF
+
+
+This item, like the Locket of Escape, with the ability to bind melee, was viewed as game altering, and changed several times on live.
+It flipped between NO DROP and not, as well as Must Equip to Any Slot (usable by all classes). See this thread for more details.
+Currently NO DROP on p99 as of the 2/17/13 patch. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Thex Mallet Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

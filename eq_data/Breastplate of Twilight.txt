@@ -1,0 +1,35 @@
+ITEM NAME: Breastplate of Twilight
+
+Velious Era (added December 2000-2001)
+
+
+Breastplate of Twilight
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 50
+STR: +11  STA: +11  CHA: +11  AGI: +11  HP: +60
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +10  SV POISON: +5
+Effect: Selo's Song of Travel (Must Equip, Casting Time: 5.5) at Level 46
+WT: 9.0  Size: LARGE
+Class: BRD
+Race: HUM ELF HEF
+
+
+Does NOT use instrument modifiers, making the click slower than regular song + instrument. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Skyshrine Breastplate
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

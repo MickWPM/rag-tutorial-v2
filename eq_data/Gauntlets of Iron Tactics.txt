@@ -1,0 +1,35 @@
+ITEM NAME: Gauntlets of Iron Tactics
+
+Velious Era (added December 2000-2001)
+
+Gauntlets of Iron Tactics
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HANDS
+AC: 2
+STR: +7  DEX: +7  CHA: -5  WIS: +7
+WT: 1.0  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Gkrean Prophet of Tallon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Books of Tactics
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

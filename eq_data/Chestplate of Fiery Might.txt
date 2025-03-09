@@ -1,0 +1,38 @@
+ITEM NAME: Chestplate of Fiery Might
+
+Velious Era (added December 2000-2001) P99 Green Shadow Knight Theythem Manymanparts wearing the Chestplate of Fiery Might.
+
+
+Chestplate of Fiery Might
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 60
+STR: +7  DEX: +7  STA: +7  CHA: +7  WIS: +7  INT: +7  AGI: +7  HP: +30  MANA: +30
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+Effect: Fiery Might (Any Slot, Casting Time: Instant)
+WT: 24.4  Size: TINY
+Class: WAR PAL SHD
+Race: ALL
+
+
+Fiery Might is an instant click that can be used by any race/class from inventory, making it an excellent GCD reset and regeneration buff for characters without Ring of Dain Frostreaver IV
+Does not stack with the click effect of Ring of Dain Frostreaver IV or the Regeneration line of spells. 
+
+  Drops From 
+Temple of Veeshan
+
+ Lord Feshlak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

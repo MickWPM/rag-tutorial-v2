@@ -1,0 +1,37 @@
+ITEM NAME: Spiroc Bone Dust
+
+
+Spiroc Bone Dust
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 8 gold 
+
+  Drops From 
+Timorous Deep
+
+ a Spiroc Lightbringer
+ a Spiroc Lightfoot
+ a Spiroc Proven
+ a Spiroc Warrior
+ a Spiroc Watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Make Poison
+ Rending Swiftness (Trivial: > 250)
+
+
+
+
+

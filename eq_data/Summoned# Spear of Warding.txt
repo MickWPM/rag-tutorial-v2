@@ -1,0 +1,33 @@
+ITEM NAME: Summoned: Spear of Warding
+
+Classic Era (added 1999-2000)
+
+Summoned: Spear of Warding
+
+
+MAGIC ITEM  TEMPORARY  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 27
+DMG: 6 
+SV FIRE: +5  SV COLD: +5
+WT: 7.0  Size: LARGE
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Magicians summon this via Spear of Warding.
+Prior to Oct1999 has no stat bonuses. [1] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

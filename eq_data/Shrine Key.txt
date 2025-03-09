@@ -1,0 +1,35 @@
+ITEM NAME: Shrine Key
+
+Velious Era (added December 2000-2001)
+
+
+Shrine Key
+
+
+MAGIC ITEM  LORE ITEM  NODROP
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Allows entrance to Cobalt Scar from Skyshrine. It is soulbound (appears in your inventory after death). 
+
+  Drops From 
+Skyshrine
+
+ Ziglark Whisperwing
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+Skyshrine
+
+ Key to Cobalt Scar
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

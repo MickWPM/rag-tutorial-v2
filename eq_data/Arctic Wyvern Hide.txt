@@ -1,0 +1,36 @@
+ITEM NAME: Arctic Wyvern Hide
+
+Velious Era (added December 2000-2001)
+
+Arctic Wyvern Hide
+
+
+MAGIC ITEM
+WT: 3.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Leveled 45.5 to 51 on wyverns exclusively and I got a grand total of 52 hides. The ~7% drop rate seems accurate.
+ 
+
+  Drops From 
+Cobalt Scar
+
+ A wyvern (Cobalt Scar)
+ Yvolcarn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Arctic Wyvern Armor (Trivial: 335)
+
+
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Donal's Leggings of Mourning
+
+Kunark Era (added 2000)
+
+Donal's Leggings of Mourning
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 26
+STR: +8  STA: +8  WIS: +8  HP: +30  MANA: +30
+Effect:  Symbol of Naltron (Must Equip, Casting Time: 10.0) at Level 45
+WT: 7.5  Size: LARGE
+Class: CLR
+Race: ALL except IKS
+
+
+The right click effect requires a peridot to cast.Part of the Donal's Armor of Mourning set. 
+
+  Drops From 
+Karnor's Castle
+
+ Venril Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

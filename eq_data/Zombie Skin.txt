@@ -1,0 +1,105 @@
+ITEM NAME: Zombie Skin
+
+Classic Era (added 1999-2000)
+
+Zombie Skin
+
+
+QUEST ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: MAX VALUE TO VENDOR
+
+ 0 Platinums
+ 0 Golds
+ 9 Silvers
+ 5 Coppers
+ 
+  Drops From 
+Mistmoore Castle
+
+ a Mistmoore guard
+
+Commonlands
+
+ a zombie
+
+Erud's Crossing
+
+ a zombie sailor
+
+The Estate of Unrest
+
+ tormented dead
+
+Innothule Swamp
+
+ a zombie
+
+Kithicor Forest
+
+ zombie advisor
+ Zombie Commander
+ zombie infantry
+ zombie trooper
+
+Lake Rathetear
+
+ a greater zombie
+
+Rathe Mountains
+
+ monstrous zombie
+ a zombie
+
+Nektulos Forest
+
+ a rotting citizen
+ a rotting initiate
+ a zombie
+
+Northern Desert of Ro
+
+ a parched zombie
+ a zombie
+
+Solusek's Eye
+
+ young goblin wizard
+
+Steamfont Mountains
+
+ Meldrath The Malignant
+
+The Feerrott
+
+ Greenblood Zombie
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Zombie Flesh Quest
+ The Summoning of Fear
+ Mining Caps
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Pottery
+ Unfired Poison Vial (Trivial: 148)
+ Unfired Lined Poison Vial (Trivial: 168) - can be used in place of Low Quality Wolf Skin or Crows Special Brew
+ Unfired Sealed Poison Vial (Trivial: 188) - can be used in place of Thick Grizzly Bear Skin or Crows Special Brew
+
+
+ Spell Research
+ Training Rune (Azia) (Trivial: 62)
+
+
+
+
+

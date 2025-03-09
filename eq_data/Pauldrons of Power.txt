@@ -1,0 +1,35 @@
+ITEM NAME: Pauldrons of Power
+
+Velious Era (added December 2000-2001)
+
+
+Pauldrons of Power
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 10
+STR: +9  CHA: +9  WIS: +9  INT: +9  HP: +30  MANA: +30
+WT: 2.0  Size: SMALL
+Class: CLR PAL SHD NEC WIZ MAG ENC
+Race: ERU
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God - Hate Revamp)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Boots of Ro
+
+Temple Era (added October 1999)
+
+
+
+Boots of Ro
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 11
+HP: +35
+WT: 1.5  Size: MEDIUM
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Boots of Ro
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

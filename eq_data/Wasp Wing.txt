@@ -1,0 +1,49 @@
+ITEM NAME: Wasp Wing
+
+
+
+Wasp Wing
+
+
+QUEST ITEM
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Greater Faydark
+
+ a giant wasp drone
+ a giant wasp warrior
+ a giant wasp worker
+
+Lesser Faydark
+
+ a wasp sentinel
+ a wasp soldier
+
+Misty Thicket
+
+ a giant wasp (NOTE:  3/26/2023 Confirmed on Green Server - Only drops the Giant Wasp Wing not the regular Wasp Wing)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Gator Rolls Trivial 135
+
+
+ Spell Research
+ Training Rune (Azia) (Trivial: 62)
+
+
+
+
+

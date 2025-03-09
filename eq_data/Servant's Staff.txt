@@ -1,0 +1,32 @@
+ITEM NAME: Servant's Staff
+
+
+Servant's Staff
+
+
+LORE ITEM
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 28
+DMG: 4 
+MANA: +5
+WT: 8.5  Size: LARGE
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ice Goblin Beads
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Imbued Dwarven Chain Mantle (Brell Serilis)
+
+
+Imbued Dwarven Chain Mantle
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 9
+STR: +3  STA: +4
+SV FIRE: +2
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL BRD ROG
+Race: HUM ELF DEF HEF DWF HFL GNM
+Deity: Brell Serilis
+
+
+Part of the dwarven cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 135)
+ Yield: Imbued Dwarven Chain Mantle x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  2 x Enchanted Brellium Rings - Crafted
+  1 x Imbued Ruby - Summoned
+  1 x Small Chainmail Mantle Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

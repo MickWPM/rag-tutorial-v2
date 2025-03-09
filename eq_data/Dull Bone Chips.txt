@@ -1,0 +1,35 @@
+ITEM NAME: Dull Bone Chips
+
+
+
+Dull Bone Chips
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a skeletal monk
+
+Rathe Mountains
+
+ a skeletal monk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Words - X`Ta Timpi
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

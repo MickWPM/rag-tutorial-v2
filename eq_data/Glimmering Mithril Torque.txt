@@ -1,0 +1,36 @@
+ITEM NAME: Glimmering Mithril Torque
+
+Velious Era (added December 2000-2001)
+
+
+
+Glimmering Mithril Torque
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 15
+STR: +2
+WT: 0.2  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Captain Bvellos
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

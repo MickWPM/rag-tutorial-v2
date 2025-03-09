@@ -1,0 +1,32 @@
+ITEM NAME: Incomplete Tool Kit
+
+Warrens Era (added spring 2001)
+
+
+Incomplete Tool Kit
+
+
+LORE ITEM  NO DROP
+WT: 25.0  Weight Reduction: 0%
+Capacity: 2  Size Capacity: SMALL
+
+
+ Item Lore (from Identify): Yelesom's Tool Kit, incomplete 
+
+  Drops From 
+Erud's Crossing
+
+ a frantic kerran
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Geologist's Purloined Tools
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

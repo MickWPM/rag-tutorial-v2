@@ -1,0 +1,34 @@
+ITEM NAME: Medallion of the Nathsar
+
+Kunark Era (added 2000)
+
+
+Medallion of the Nathsar
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Trakanon's Teeth
+
+ froglok hunter
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Key to Sebilis Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

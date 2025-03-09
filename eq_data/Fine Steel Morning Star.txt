@@ -1,0 +1,210 @@
+ITEM NAME: Fine Steel Morning Star
+
+Classic Era (added 1999-2000)
+
+Fine Steel Morning Star
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 38
+DMG: 8 
+WT: 10.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 5 Platinums
+ 9 Golds
+ 4 Silvers
+ 7 Coppers
+ 
+  Drops From 
+Mistmoore Castle
+
+ a deathly harbinger
+ a deathly herald
+ a deathly usher
+ a fallen noble
+ a ghastish ancille
+ a ghoulish ancille
+ a glyphed custodian
+ a glyphed forbidder
+ a glyphed ghoul
+ a glyphed guard
+ a glyphed sentry
+ a glyphed warder
+ a hemo enologist
+ a vampiric ancille
+ a will pillager
+ a will ravisher
+ a will sapper
+ an ancille cook
+ Butler Syncall
+ Enynti
+
+Butcherblock Mountains
+
+ Ganbar Dundam
+
+Commonlands
+
+ a hill giant
+ Ranvigoz Tonsmith
+ Sergeant Slate
+ Shadow Treebright
+ Sil Silverstar
+ Timtok Tonsmith
+ Veli Greenwhisper
+ Vuli Greenwhisper
+
+Crypt of Dalnir
+
+ a coerced goblin
+
+Eastern Plains of Karana
+
+ a hill giant
+
+The Estate of Unrest
+
+ a carrion ghoul
+ a greater dark bone
+ mortuary fungus
+
+Everfrost Peaks
+
+ an ice giant
+
+Firiona Vie
+
+ froglok shin warrior
+ froglok tal shaman
+ froglok ton knight
+ froglok ton warrior
+ froglok tsu shaman
+
+Frontier Mountains
+
+ a goblin adept
+ a goblin bodyguard
+ a goblin cavehunter
+ a goblin depredator
+ a goblin fanatic
+ a goblin flamedrowser
+ a goblin flashdrowser
+ a goblin soothsayer
+ a goblin taskmaster
+ a goblin whipcracker
+
+Kaesora
+
+ failed crypt raider
+
+Karnor's Castle
+
+ a construct
+ a cursed hand
+ Hangnail
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ zombie trooper
+
+Kurn's Tower
+
+ undead crusader
+
+Lesser Faydark
+
+ Priestess Llandra
+ Teir`Dal Prophet
+
+
+Lower Guk
+
+ a nok ghoul wizard
+
+Rathe Mountains
+
+ a hill giant
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+ kobold champion
+
+Northern Desert of Ro
+
+ a sand giant
+
+Ocean of Tears
+
+ Gornit
+
+Permafrost
+
+ an elite goblin guard
+
+Southern Karana
+
+ a Nisch Mas Gnoll
+ a Rosch Val Gnoll
+ High Shaman Phido
+
+Southern Desert of Ro
+
+ a deepwater goblin
+ Sandgiant Husam
+
+Steamfont Mountains
+
+ a kobold missionary
+ Watchman Dreeb
+
+Swamp of No Hope
+
+ froglok krup guard
+ froglok shin shaman
+
+The Feerrott
+
+ a Tae Ew defender
+ a Tae Ew sentinel
+ Bouncer Hurd
+
+Trakanon's Teeth
+
+ a froglok yun shaman
+ froglok shin knight
+ froglok shin warrior
+ Froglok Urd Shaman
+ Froglok Vis Knight
+ Froglok Wan Knight
+
+Western Plains of Karana
+
+ a hill giant
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

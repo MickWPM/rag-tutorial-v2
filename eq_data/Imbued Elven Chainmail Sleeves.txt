@@ -1,0 +1,43 @@
+ITEM NAME: Imbued Elven Chainmail Sleeves
+
+
+Imbued Elven Chainmail Sleeves
+
+
+Slot: ARMS
+AC: 7
+CHA: +2  WIS: +3  INT: +3
+SV MAGIC: +4
+WT: 0.7  Size: SMALL
+Class: ALL except SHD MNK SHM NEC
+Race: ELF HIE HEF
+Deity: Tunare
+
+
+Part of the high elf cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 155)
+ Yield: Imbued Elven Chainmail Sleeves x1
+ In Koada`Dal Forge:
+
+
+  1 x Chainmail Sleeve Pattern - Bought
+  1 x Elven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  2 x Enchanted Mithril Rings - Crafted
+  1 x Imbued Emerald - Summoned
+  1 x Moonlight Temper - Crafted
+  1 x Silk Swatch - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Glowing Blade
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+
+Glowing Blade
+
+
+LORE ITEM  NO DROP
+WT: 7.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Glowing Blade
+"This item could be purchased from merchants in the Neriak zones. This item was part of a quest that was either unfinished,undiscovered, or broken."[1]
+Confirmed to have been available at the Maiden's Fancy, sold by merchant(s) at no cost to the buyer. [2] [3] 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

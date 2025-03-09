@@ -1,0 +1,55 @@
+ITEM NAME: Lobal's Cures for Undeath
+
+
+
+Lobal's Cures for Undeath
+
+
+WT: 0.1  Size: SMALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Steamfont Mountains
+
+ Ennixy Frennor
+
+
+
+  (1371, -836)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Lobal Postugger's Cures for Undeath
+The practices of our unsavory kin that dwell in the mines of malfunction have caused a
+plague of undead. In order to help us rid the Steamfonts of the monstrosities my rogues
+and I have developed some concoctions that will rapidly increase the rate of decay in
+non-living tissue.
+The most basic of the concoctions simply involves mixing two piles of EMBALMING DUST
+in a mortar and pestle. A POISON VIAL and SUSPENSION are also needed for storage.
+More effective but also more difficult to mash properly is the pulp of two KINGS THORNS,
+a SEALED POISON VIAL, and CONSTRICT SUSPENSION.
+The most difficult but also the most effective concoction involves grinding and mixing
+one KINGS THORN, one pile of EMBALMING DUST, one part WOOD ROSE, and LARENT SUSPENSION. 
+A SEALED POISON VIAL is needed for storage. This will cause extremely rapid decomposition
+Perhaps with the assistance of these concoctions the Steamfont Mountains will soon be rid of the undead.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,30 @@
+ITEM NAME: Velishoul's Tome Pg. 75
+
+Classic Era (added 1999-2000)
+Velishoul's Tome Pg. 75
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 7g 7s 4c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research - Enchanter
+ Enstill (Trivial: 95)
+
+
+
+
+

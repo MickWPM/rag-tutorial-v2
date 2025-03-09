@@ -1,0 +1,56 @@
+ITEM NAME: Giant Bat Wing
+
+Classic Era (added 1999-2000)
+
+Giant Bat Wing
+
+
+QUEST ITEM
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a giant bat
+
+Erud's Crossing
+
+ a vampire bat
+
+Misty Thicket
+
+ a giant bat
+ a giant fruit bat
+
+Nagafen's Lair
+
+ sonic bat
+
+The Feerrott
+
+ a giant bat
+
+The Warrens
+
+ a cave bat
+ a giant cave bat
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Study Rune (Azia) (Trivial: 162)
+
+
+
+
+

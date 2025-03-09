@@ -1,0 +1,33 @@
+ITEM NAME: Titan Blessed Tanto
+
+Stonebrunt Era (added summer 2001)
+
+Titan Blessed Tanto
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 4   AC: 2
+HP: +5
+WT: 3.0  Size: SMALL
+Class: ALL except CLR PAL DRU MNK SHM
+Race: ALL
+
+
+ Item Lore (from Identify): Blessed by the Stonebrunt Titans 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rognarog's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

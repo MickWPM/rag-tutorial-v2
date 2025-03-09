@@ -1,0 +1,34 @@
+ITEM NAME: Tolan's Darkwood Boots
+
+Kunark Era (added 2000)
+
+Tolan's Darkwood Boots
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FEET
+AC: 18
+Effect:  Invigor (Must Equip, Casting Time: 7.0) at Level 45
+WT: 6.5  Size: MEDIUM
+Class: RNG
+Race: ALL except IKS
+
+
+Currently the pre-patched version (Invigor effect) is available on Project 1999. In 2003, these boots' effect was replaced with Serpent Sight.  Part of the Tolan's Darkwood Armor set. 
+
+  Drops From 
+Karnor's Castle
+
+ Skeletal Caretaker
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

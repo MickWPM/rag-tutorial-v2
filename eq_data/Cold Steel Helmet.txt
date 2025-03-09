@@ -1,0 +1,35 @@
+ITEM NAME: Cold Steel Helmet
+
+Velious Era (added December 2000-2001)
+
+
+
+Cold Steel Helmet
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 19
+WT: 8.0  Size: MEDIUM
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Tpos Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

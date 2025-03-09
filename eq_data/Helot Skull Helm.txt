@@ -1,0 +1,36 @@
+ITEM NAME: Helot Skull Helm
+
+Kunark Era (added 2000)
+
+Helot Skull Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 6
+CHA: -15  INT: +7  MANA: +25
+SV MAGIC: +5
+Effect:  Serpent Sight (Worn)
+WT: 0.6  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+ Item Lore (from Identify): Skull of a Helot Skeleton 
+
+  Drops From 
+Howling Stones
+
+ The Crypt Excavator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

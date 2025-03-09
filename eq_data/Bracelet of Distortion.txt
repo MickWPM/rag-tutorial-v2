@@ -1,0 +1,37 @@
+ITEM NAME: Bracelet of Distortion
+
+
+
+Bracelet of Distortion
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+STR: +5  INT: -5  HP: +50  MANA: +50
+WT: 0.1  Size: TINY
+Class: WIZ
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a soul harvester
+ a thunder spirit princess
+ Bizazzt
+ Gorgalosk
+ Sister of the Spire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

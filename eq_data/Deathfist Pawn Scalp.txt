@@ -1,0 +1,37 @@
+ITEM NAME: Deathfist Pawn Scalp
+
+Classic Era (added 1999-2000)
+
+Deathfist Pawn Scalp
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Northern Desert of Ro
+
+ a deathfist pawn
+ Deathfist Pawn
+
+West Freeport
+
+ a deathfist pawn
+ Deathfist Pawn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ White Sash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

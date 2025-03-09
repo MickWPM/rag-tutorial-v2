@@ -1,0 +1,35 @@
+ITEM NAME: Block of Permafrost
+
+
+
+Block of Permafrost
+
+
+MAGIC ITEM  LORE ITEM
+WT: 15.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Widely reported to never drop off the ice giants in Everfrost.  Is used by Denken Strongpick to cool his ale. 
+
+  Drops From 
+Permafrost
+
+ An Ice Giant (Permafrost)
+ An Ice Giant Magus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

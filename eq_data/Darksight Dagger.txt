@@ -1,0 +1,34 @@
+ITEM NAME: Darksight Dagger
+
+
+Darksight Dagger
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 40
+DMG: 24 
+Effect: Chill Sight (Combat, Casting Time: Instant) at Level 44
+WT: 1.2  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Chardok
+
+ Sarnak Collective Auditor
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

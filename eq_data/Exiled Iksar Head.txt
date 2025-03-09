@@ -1,0 +1,41 @@
+ITEM NAME: Exiled Iksar Head
+
+Kunark Era (added 2000)
+
+
+Exiled Iksar Head
+
+
+LORE ITEM  NO DROP
+WT: 3.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ Iksar exile
+
+Swamp of No Hope
+
+ Iksar exile
+
+Warsliks Woods
+
+ Iksar exile
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Scaled Mystic Greaves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

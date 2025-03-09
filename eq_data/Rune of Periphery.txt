@@ -1,0 +1,33 @@
+ITEM NAME: Rune of Periphery
+
+
+
+Rune of Periphery
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players. 
+
+  Drops From 
+Various Zones
+
+ Random drop from level ~16 mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Project Lightning (Trivial: 26)
+
+
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Stormwood Battle Staff
+
+Kunark Era (added 2000)
+
+Stormwood Battle Staff
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 2H Blunt  Atk Delay: 40
+DMG: 26 
+STR: +4  DEX: +4  STA: +4
+Effect:  Shock of Flame (Combat, Casting Time: Instant) at Level 36
+WT: 10.0  Size: LARGE
+Class: WAR RNG MNK
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Old Sebilis
+
+ froglok kor shaman
+ froglok jin shaman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

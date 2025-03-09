@@ -1,0 +1,43 @@
+ITEM NAME: Loose Scale
+
+Kunark Era (added 2000)
+
+
+Loose Scale
+
+
+WT: 1.0  Size: Tiny
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 8 copper 
+
+  Drops From 
+East Cabilis
+
+ a young scaled wolf
+
+Field of Bone
+
+ a scaled wolf
+ a scaled wolf cub
+ a scaled wolf hunter
+ a scaled wolf prowler
+ a scaled wolf pup
+ a scaled wolf stalker
+ a scaled prowler
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shestar's Scaled Coif Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Othmir Fur Cap
+
+Velious Era (added December 2000-2001)
+
+
+
+Othmir Fur Cap
+
+
+MAGIC ITEM Slot: HEAD AC: 3 DEX: +3  WIS: +6  AGI: +2  HP: +7 SV COLD: +4
+WT: 0.4  Size: SMALL Class: ALL Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 262)
+ Yield: Othmir Fur Cap x1
+ In Coldain Tanners Kit:
+
+
+  1 x Cap Pattern - Bought
+  2 x Othmir Fur - Dropped
+  1 x Silver Thread - Bought
+  1 x Vial of Clear Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

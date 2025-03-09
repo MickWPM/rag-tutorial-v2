@@ -1,0 +1,39 @@
+ITEM NAME: Earring of Disease Reflection
+
+
+Earring of Disease Reflection
+
+
+MAGIC ITEM
+Slot: EAR
+AC: 1
+SV DISEASE: +5
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 4.7p 
+
+  Drops From 
+Najena
+
+ Drelzna
+
+Erud's Crossing
+
+ an erudite madman
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nillipuss the Brownie
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

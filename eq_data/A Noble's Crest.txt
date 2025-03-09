@@ -1,0 +1,39 @@
+ITEM NAME: A Noble's Crest
+
+Classic Era (added 1999-2000)
+A Noble's Crest
+
+
+NO DROP
+Slot: NECK
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Innothule Swamp
+
+ Bunk Odon
+ Gwynn Marthank
+ Hogus Durmas
+ Jars Legola
+ Rell Ostodl
+ Tal Godin
+ Tann Cellus
+ Zepin Winsle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Noble Hunters
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,42 @@
+ITEM NAME: Orc Fang Earring
+
+Velious Era (added December 2000-2001)
+
+Orc Fang Earring
+
+
+MAGIC ITEM
+Slot: EAR
+AC: 3
+STR: +3  HP: +15
+WT: 0.3  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Eastern Wastes
+
+ a Ry`Gorr centurion
+ a Ry`Gorr clan scout
+ a Ry`Gorr legionaire
+ a Ry`Gorr prison guard
+ a Ry`Gorr snow trooper
+ Interrogator of Ry`Gorr
+ mystic of Ry`Gorr
+ Poxbreath Yellowfang
+ Ry`Gorr elite guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

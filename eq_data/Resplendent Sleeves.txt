@@ -1,0 +1,39 @@
+ITEM NAME: Resplendent Sleeves
+
+Velious Era (added December 2000-2001)
+
+
+
+Resplendent Sleeves
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 6
+CHA: +4  INT: +5  HP: +10  MANA: +20
+SV FIRE: +2
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+Plane of Growth
+
+ a sanguine kodiak
+ a sylvan protector
+ Grahl Strongback
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

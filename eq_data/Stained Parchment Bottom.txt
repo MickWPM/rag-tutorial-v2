@@ -1,0 +1,32 @@
+ITEM NAME: Stained Parchment Bottom
+
+
+Stained Parchment Bottom
+
+
+LORE ITEM
+AC: 4
+WT: 1.0  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+
+
+  Drops From 
+Neriak Third Gate
+
+ Tani N`Mar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

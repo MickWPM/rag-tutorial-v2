@@ -1,0 +1,29 @@
+ITEM NAME: Part of a Large Key
+
+Velious Era (added December 2000-2001)
+
+
+Part of a Large Key
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Weight Reduction: 0%
+Capacity: 2  Size Capacity: TINY
+
+
+ Item Lore (from Identify): Base of Coppernickel Key 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Steel
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

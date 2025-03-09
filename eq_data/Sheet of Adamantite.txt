@@ -1,0 +1,60 @@
+ITEM NAME: Sheet of Adamantite
+
+
+
+Sheet of Adamantite
+
+
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Third Gate
+
+ Draan N`Ryt
+
+
+
+  (694, -1780)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 37)
+ Yield: Sheet of Adamantite x1
+ In Teir`dal Forge:
+
+
+  1 x Neriak Nectar - Bought
+  2 x Small Brick of Adamantite - Crafted, Bought
+
+
+ In Oggok Forge:
+
+
+  1 x Ogre Swill - Bought
+  2 x Small Brick of Adamantite - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Various Dark Elf and Ogre Cultural Recipes
+
+
+
+
+

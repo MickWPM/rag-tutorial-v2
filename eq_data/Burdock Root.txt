@@ -1,0 +1,45 @@
+ITEM NAME: Burdock Root
+
+
+
+Burdock Root
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Halas
+
+ Dargon
+
+
+
+  (354, 356)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Alchemy
+ Recipe name(s)? (Trivial: ?)
+
+
+
+
+

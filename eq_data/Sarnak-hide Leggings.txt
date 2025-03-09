@@ -1,0 +1,34 @@
+ITEM NAME: Sarnak-hide Leggings
+
+Kunark Era (added 2000)
+
+Sarnak-hide Leggings
+
+
+MAGIC ITEM  LORE ITEM
+Slot: LEGS
+AC: 4
+STR: +3  DEX: +3  STA: +3  AGI: +3
+WT: 1.5  Size: MEDIUM
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ Goblinstomper
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

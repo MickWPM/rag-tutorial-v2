@@ -1,0 +1,35 @@
+ITEM NAME: Efreeti Standard
+
+Sky Era (added January 2000)
+
+Efreeti Standard
+
+
+MAGIC ITEM LORE ITEM  
+Slot: SECONDARY
+Skill: 1H Blunt  Atk Delay: 10
+DMG: 3 
+WT: 10.0  Size: LARGE
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM NEC WIZ MAG ENC
+Race: HUM BAR ERU ELF HIE DEF HEF DWF TRL OGR HFL GNM IKS
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cleric Test of The Weak
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,95 @@
+ITEM NAME: Lightstone
+
+Classic Era (added 1999-2000)
+
+Lightstone
+
+
+MAGIC ITEM  QUEST ITEM
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+(This item acts as a light source.)
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 0 Platinums
+ 9 Golds
+ 5 Silvers
+ 9 Coppers
+ 
+  Drops From 
+Befallen
+
+ a willowisp
+
+Commonlands
+
+ a willowisp
+
+Eastern Plains of Karana
+
+ a willowisp
+
+Erud's Crossing
+
+ a willowisp
+
+Everfrost Peaks
+
+ Karg IceBear
+
+Greater Faydark
+
+ a willowisp
+
+Innothule Swamp
+
+ a water moccasin
+
+Rathe Mountains
+
+ a zombie
+
+Nektulos Forest
+
+ a willowisp
+
+Northern Karana
+
+ a willowisp
+
+Qeynos Hills
+
+ a willowisp
+
+Southern Karana
+
+ a treant
+
+Toxxulia Forest
+
+ a willowisp
+
+Western Plains of Karana
+
+ a treant
+ a willowisp
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Research Aid
+ Evil Research
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Rough Elm Recurve Bow
+
+Were you looking for Rough Elm Recurve Bow (Hemp)?
+Were you looking for Rough Elm Recurve Bow (Linen)?
+Were you looking for Rough Elm Recurve Bow (Silk)?
+Classic Era (added 1999-2000)
+
+Rough Elm Recurve Bow
+
+
+Slot: RANGE
+Skill: Archery  Atk Delay: 51 / 47 / 43
+DMG: 13 / 12 / 11
+WT: 4.0  Range: 75  Size: LARGE
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Poacher's Head Quest
+
+  Player crafted 
+ Fletching (Trivial: 68) 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

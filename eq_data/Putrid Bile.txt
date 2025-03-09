@@ -1,0 +1,35 @@
+ITEM NAME: Putrid Bile
+
+
+Putrid Bile
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lavastorm Mountains
+
+ a fire drake
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Corrosive Solvent (Trivial: 161-171)
+ Putrid Bane (Trivial: 56)
+ Acidic Dissolver (Trivial: 245)
+
+
+
+
+

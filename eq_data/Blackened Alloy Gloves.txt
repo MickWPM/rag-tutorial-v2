@@ -1,0 +1,34 @@
+ITEM NAME: Blackened Alloy Gloves
+
+Stonebrunt Era (added summer 2001)
+
+Blackened Alloy Gloves
+
+
+MAGIC ITEM
+Slot: HANDS
+AC: 8
+WT: 3.5  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+Part of the Blackened Alloy Armor Set. 
+
+  Drops From 
+Clan Runnyeye
+
+ a Pickclaw Foeseeker
+ Battlelord Paluk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Light Cloth Mantle
+
+Sky Era (added January 2000)
+
+
+Light Cloth Mantle
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 4
+STA: +3  CHA: +3
+WT: 9.0  Size: LARGE
+Class: ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Keeper of Souls
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Metamorphism
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

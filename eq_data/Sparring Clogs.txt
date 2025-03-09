@@ -1,0 +1,31 @@
+ITEM NAME: Sparring Clogs
+
+Kunark Era (added 2000)
+
+Sparring Clogs
+
+
+Slot: FEET
+AC: 3
+AGI: +2
+WT: 0.5  Size: SMALL
+Class: MNK
+Race: IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Sparring Armor
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

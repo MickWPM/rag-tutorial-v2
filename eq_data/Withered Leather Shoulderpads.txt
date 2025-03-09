@@ -1,0 +1,35 @@
+ITEM NAME: Withered Leather Shoulderpads
+
+
+Withered Leather Shoulderpads
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 4
+STR: +5  STA: +5  MANA: +15
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+WT: 1.5  Size: SMALL
+Class: CLR DRU SHM
+Race: ALL
+
+
+ Item Lore (from Identify):  Withered Leather ShoulderpadsPart of the Withered Leather Armor Set 
+
+  Drops From 
+The Hole
+
+ a revenant
+ a wanderer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

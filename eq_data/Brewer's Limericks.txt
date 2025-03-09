@@ -1,0 +1,84 @@
+ITEM NAME: Brewer's Limericks
+
+Classic Era (added 1999-2000)
+Brewer's Limericks
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Crystal Caverns
+
+ Hardat Gemshard
+
+
+
+  (-243, 177)
+
+
+ South Kaladim
+
+ Dura Darkfoam
+
+
+
+  (108, 233)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Some of Norrath's imbibers put together a compilation of their favorite limericks.
+If you look closely you can almost tell how to put together the drinks they enjoy with each one.
+Here are a few to start.
+
+When Ssra goes to move barley
+He meets a girl named Darley
+To the cask in the vault
+He adds hops and malt
+And drinks till her face
+isn't gnarly
+
+With hops malt and Yeast
+An ogre made mead for a feast
+when his cask they did fill
+not a drop did he spill
+So they cheered the ugly
+beast
+
+My good friend where is my
+cask?
+Is the water too much to ask?
+Deliver barley and hops
+With the rest of my crops
+Or your death will be my next
+task!
+
+Ogre's lust for a wench named
+Sulock
+For a date bring a cask and
+Froglok
+Malt and yeast to the barber
+Get them near her harbor
+And you'll hear an uproar
+if they dock
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

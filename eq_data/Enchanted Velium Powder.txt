@@ -1,0 +1,42 @@
+ITEM NAME: Enchanted Velium Powder
+
+Velious Era (added December 2000-2001)
+
+
+
+Enchanted Velium Powder
+
+
+LORE ITEM
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ Baking (Trivial:No-Fail)
+ Enchanted Velium Powder x1
+ In Mixing Bowl:
+
+
+  1 x Runed Sea Shell - Dropped
+  1 x Small Brick of Velium - Dropped 
+
+
+  Tradeskill recipes 
+ Pottery
+ Unfired Rune (Trivial:162)
+
+
+
+
+

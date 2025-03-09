@@ -1,0 +1,35 @@
+ITEM NAME: Vambraces of the Myrmidon
+
+
+Velious Era (added December 2000-2001)
+
+
+Vambraces of the Myrmidon
+
+
+MAGIC ITEM  NO DROP
+Slot: ARMS
+AC: 30
+STR: +5  STA: +5  AGI: +5  HP: +25
+SV FIRE: +6  SV MAGIC: +4
+WT: 6.0  Size: SMALL
+Class: WAR
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Skyshrine Armplates
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

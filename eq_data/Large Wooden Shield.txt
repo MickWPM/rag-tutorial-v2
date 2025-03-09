@@ -1,0 +1,114 @@
+ITEM NAME: Large Wooden Shield
+
+
+
+Large Wooden Shield
+
+
+Slot: SECONDARY
+AC: 5
+WT: 6.2  Size: MEDIUM
+Class: ALL except MNK NEC WIZ MAG ENC
+Race: BAR TRL OGR IKS
+
+
+
+
+  Drops From 
+Commonlands
+
+ orc oracle
+
+Nektulos Forest
+
+ a deathfist legionnaire
+ a deathfist templar
+
+Southern Desert of Ro
+
+ an orc cleric
+
+Western Plains of Karana
+
+ a bandit
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ West Commonlands
+
+ Ranon Strongarm
+
+
+
+  (-463, 2827)
+
+
+ East Commonlands
+
+ Altunic Jartin
+
+
+
+  (-115, 4734)
+
+
+ Oggok
+
+ Grop
+
+
+
+  (512, 490)
+
+
+ Paineel
+
+ Kervis Ackblor
+
+
+
+  (1097, 428)
+
+
+ South Qeynos
+
+ Wrin Liltin
+
+
+
+  (96, -204)
+
+
+ South Qeynos
+
+ Raffy Conticede
+
+
+
+  (-282, -491)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

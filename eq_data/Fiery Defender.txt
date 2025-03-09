@@ -1,0 +1,41 @@
+ITEM NAME: Fiery Defender
+
+Kunark Era (added 2000)
+Epic Quests Era (added Sept 2000)
+ Project99 Server First Fiery Defender - Senaiel
+Fiery Defender
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 40
+DMG: 35   AC: 15
+STR: +20  STA: +10  WIS: +15  HP: +70  MANA: +30
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect:  Holy Shock (Combat, Casting Time: Instant) at Level 50
+WT: 0.1  Size: LARGE
+Class: PAL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Able to bash with this weapon, despite it being two-handed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ 
+  Comic 
+
+
+

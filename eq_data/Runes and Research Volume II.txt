@@ -1,0 +1,127 @@
+ITEM NAME: Runes and Research Volume II
+
+
+
+Runes and Research Volume II
+
+
+WT: 0.1  Size: TINY
+
+
+
+ Merchant resale value: 9s 5c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Evil Research
+ Research Aid 
+
+  Book contents 
+Practice Rune Azia
+
+Lapis Lazuli
+Bat Wing
+Bone Chips
+
+Practice Rune Beza
+
+Turquoise
+Fire Beetle Eye
+Any Rusty Slashing Weapon
+
+Apprentice Rune Azia
+
+Hematite
+Bixie Wing
+Froglok Eye
+
+Apprentice Rune Beza
+
+Cat Eye Agate
+Large Snake Rattle
+Any Rusty Piercing or Bludgeoning Weapon
+
+Training Rune Azia
+
+Bloodstone
+Wasp Wing
+Zombie Skin
+
+Training Rune Beza
+
+Onyx
+Spiderling Silk
+Raw Hide Armor - Any Size, Cap, Mask, Gorget, Tunic, Shoulderpads or Cloak.
+
+Journeyman Rune Azia
+
+Jasper
+Pixie Wing
+Bat Fur
+
+Journeyman Rune Beza
+
+Star Rose Quartz
+Burned Out Lightstone
+Raw Hide Armor - Any Size, Belt, Sleeves, Wristbands, Gloves, Leggings, Boots
+
+Study Rune Azia
+
+Amber
+Giant Bat Wing
+Giant Scarab Eye
+
+Study Rune Beza
+
+Amber
+Giant Snake Fang
+Ring Mail - Any Size, Coif, Visor, Neckguard, Coat, Mantle, Cape
+
+Expert Rune Azia
+
+Jade
+Faerie Wing
+Fire Drake Scales
+
+Expert Rune Beza
+
+Jade
+Giant Snake Rattle
+Ring Mail - Any Size, Skirt or Belt, Sleeves, Bracelet, Gloves, Pants, Boots
+
+Master Rune Azia
+
+Pearl
+Griffon Feather
+Undead Froglok Tongue
+
+Master Rune Beza
+
+Pearl
+Giant Fire Beetle Eye
+Any Fine Steel Slashing Weapon
+
+Magi Rune Azia
+
+Topaz
+Shark Skin
+Brownie Parts
+
+Magi Rune Beza
+
+Topaz
+Giant Toes - Hill, Fire or Ice
+Any Fine Steel Piercing or Bludgeoning Weapon
+
+The end.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Jade Magma
+
+Kunark Era (added 2000)
+
+
+Jade Magma
+
+
+NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ a burynai miner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shackle of Bronze
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

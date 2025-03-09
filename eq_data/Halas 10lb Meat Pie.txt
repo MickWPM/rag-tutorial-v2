@@ -1,0 +1,52 @@
+ITEM NAME: Halas 10lb Meat Pie
+
+N O T C L A S S I C !
+
+
+ 
+
+ Notice: THE ARTICLE CONTAINS NON-P99 CONTENT.
+Contents may contain items, mobs, or formulas that do NOT exist in the Project 1999 Timelines.
+
+
+
+
+
+Halas 10lb Meat Pie
+
+
+DEX: +5  STA: +5  AGI: +5  HP: +30
+This is a miraculous meal!
+WT: 7.2  Size: GIANT
+Class: ALL
+Race: ALL
+
+
+Luclin-era recipe. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Baking (Trivial: 226)
+ Yield: Halas 10lb Meat Pie x6
+ In Oven:
+
+
+  1 x Bear Fillet in Cream - Crafted
+  2 x Clump of Dough - Crafted
+  1 x Lion Fillet in Cream - Crafted
+  1 x Mammoth Fillet in Cream - Crafted
+  1 x Pie Tin - Crafted, Returned on Failure, Returned on Success
+  1 x Sage Leaf - Bought
+  1 x Wolf Fillet in Cream - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

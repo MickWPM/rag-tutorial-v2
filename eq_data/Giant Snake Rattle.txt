@@ -1,0 +1,60 @@
+ITEM NAME: Giant Snake Rattle
+
+
+Giant Snake Rattle
+
+
+QUEST ITEM
+WT: 1.2  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ a giant snake
+
+East Commonlands
+
+ a darkweed snake
+ a giant rattlesnake
+ an asp
+
+Rathe Mountains
+
+ a giant moccasin
+
+Northern Desert of Ro
+
+ a cistern asp
+ a giant rattlesnake
+
+Southern Karana
+
+ a gaduladian widemouth
+
+Southern Desert of Ro
+
+ a darkweed snake
+ a giant rattlesnake
+ an asp
+
+ Stonebrunt Mountains 
+
+  an emerald adder 
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yellow Sash
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Marr Cherries
+
+Velious Era (added December 2000-2001)
+
+Marr Cherries
+
+
+This is a meal!
+WT: 0.6  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crest of the Wood Nymphs Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Baking
+ Chocolate Marr Cherries (Trivial: 126)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Ocean of Tears
+
+

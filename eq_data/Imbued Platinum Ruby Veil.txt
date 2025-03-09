@@ -1,0 +1,39 @@
+ITEM NAME: Imbued Platinum Ruby Veil
+
+Classic Era (added 1999-2000)
+
+Imbued Platinum Ruby Veil
+
+
+MAGIC ITEM
+Slot: FACE
+STR: +7  STA: +4  AGI: -4  WIS: +7
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+Deity: Brell Serilis
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: >203)
+ Imbued Platinum Ruby Veil x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Platinum Bar - Summoned
+  1 x Imbued Ruby - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

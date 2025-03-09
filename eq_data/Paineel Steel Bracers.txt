@@ -1,0 +1,33 @@
+ITEM NAME: Paineel Steel Bracers
+
+
+Paineel Steel Bracers
+
+
+Slot: WRIST
+AC: 7
+WT: 4.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD SHM
+Race: ALL except DWF TRL OGR HFL GNM IKS
+
+
+Part of the Paineel Steel Armor Set 
+
+  Drops From 
+The Hole
+
+ a revenant
+ a wanderer
+ A Ratman Warrior
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Ginesh
+
+
+Ginesh
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Brewing (Trivial: 168)
+ Yield: Ginesh x2
+ In Brew Barrel:
+
+
+  1 x Short Beer - Bought, Crafted, Dropped
+  1 x Shotglass - Bought, returned if failed
+  1 x Vegetables - Foraged
+  1 x Water Flask - Crafted, Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

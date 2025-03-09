@@ -1,0 +1,44 @@
+ITEM NAME: Enchanted Dwarven Splinted Cloak
+
+
+Enchanted Dwarven Splinted Cloak
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 11
+STR: +6  STA: +6
+SV FIRE: +3  SV MAGIC: +5
+WT: 4.1  Size: LARGE
+Class: WAR CLR PAL SHD
+Race: DWF HFL GNM
+
+
+Part of the dwarven cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 201)
+ Yield: Enchanted Dwarven Splinted Cloak x1
+ In Stormguard Forge:
+
+
+  1 x Dwarven Smithy Hammer - Bought
+  1 x Earthen Temper - Crafted
+  1 x Enchanted Brellium Jointing - Crafted
+  3 x Enchanted Folded Brellium Sheet - Crafted
+  1 x Leather Padding - Crafted
+  1 x Small Field Splinted Cloak Mold - Bought
+
+
+ Sir Messerschmidt channeling the spirit of Brell by chanting "Dirts me favorite color"
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,64 @@
+ITEM NAME: Block of Medium Quality Ore
+
+
+
+Block of Medium Quality Ore
+
+
+WT: 18.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+ Sold for ~20p
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ High Keep
+
+ Graham Embersmith
+
+
+
+  (30, -267)
+
+
+ South Qeynos
+
+ Liln Sedder
+
+
+
+  (537, -45)
+
+
+ Rathe Mountains
+
+ Ukla
+
+
+
+  (1731, 1289)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 25) 
+
+  Tradeskill recipes 
+ Blacksmithing
+
+
+
+

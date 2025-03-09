@@ -1,0 +1,39 @@
+ITEM NAME: Ivory Imbued Collar
+
+Kunark Era (added 2000)
+
+Ivory Imbued Collar
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 8
+WIS: +5  MANA: +10
+SV FIRE: +2  SV DISEASE: +10  SV COLD: +2  SV MAGIC: +2  SV POISON: +10
+WT: 3.5  Size: SMALL
+Class: SHM
+Race: ALL
+
+
+
+ Merchant resale value: 1p 4g 8s 2c 
+
+  Drops From 
+Chardok
+
+ a Di`Zok Captain
+ a Di`zok Researcher
+ Di`zok royal guard
+ a Di`zok Underling
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,27 @@
+ITEM NAME: Fern Flower Pouch
+
+Kunark Era (added 2000)
+Fern Flower Pouch
+
+
+LORE ITEM
+WT: 0.5  Weight Reduction: 0%
+Capacity: 4  Size Capacity: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Fern Flower Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

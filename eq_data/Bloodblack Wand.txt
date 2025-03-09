@@ -1,0 +1,33 @@
+ITEM NAME: Bloodblack Wand
+
+
+
+Bloodblack Wand
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY SECONDARY
+WT: 0.5  Size: SMALL
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Rathe Mountains
+
+ a giant skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Weeping Wand Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

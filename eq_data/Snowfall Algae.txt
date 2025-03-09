@@ -1,0 +1,57 @@
+ITEM NAME: Snowfall Algae
+
+
+Snowfall Algae
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 7 gold 
+
+  Drops From 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Halas
+
+ Elona McMahon
+
+    Bank
+
+  (212, 184)
+
+
+Permafrost
+
+ a goblin diviner
+ a goblin evoker
+ a goblin mendicant
+ a goblin patriarch
+ a goblin preacher
+ a goblin prelate
+ a goblin priest
+ a goblin wizard
+ an ice goblin
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Amnesic Lolium (Trivial: 236)
+
+
+
+
+

@@ -1,0 +1,56 @@
+ITEM NAME: File
+
+
+File
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 21)
+ Yield: File x1
+ In Forge:
+
+
+  1 x Metal Bits
+  1 x File Mold
+  1 x Flask of Water
+
+
+  Tradeskill recipes 
+ Blacksmithing
+ Metal Rings (Trivial: 40?)
+ Studs (Trivial: 41)
+ Steel Boning (Trivial: 41)
+ Field Point Arrowheads (Trivial: 41)
+ Medium Quality Metal Rings (Trivial: 43?)
+ Hooked Arrowheads (Trivial: 44?)
+ Bundled Steel Arrow Shafts (Trivial: 44?)
+ Velium Boning (Trivial: 45)
+ Adamantite Rings (Trivial: 46)
+ High Quality Metal Rings (Trivial: 46?)
+ Brellium Rings (Trivial: 46)
+ Velium Rings (Trivial: 49)
+ Enchanted Metal Rings (Trivial: 51)
+ Velium Studs (Trivial: >41<67)
+ Silver Tipped Arrowheads (Trivial: 79?)
+ Chain Jointing (Trivial: 95)
+ Adamantite Chain Jointing (Trivial: ??)
+ Medium Quality Chain Jointing (Trivial: 100)
+ Enchanted Chain Jointing (Trivial: 106)
+
+
+
+
+

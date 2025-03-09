@@ -1,0 +1,54 @@
+ITEM NAME: Fishing Grubs
+
+
+Fishing Grubs
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 3cp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Foxmyr
+
+
+
+  (123, -201)
+
+  Related quests 
+ Deck of Spontaneous Generation Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ East Freeport
+ Everfrost Peaks
+ Halas
+ Misty Thicket
+ Oasis of Marr
+ West Commonlands
+
+

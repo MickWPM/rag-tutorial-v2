@@ -1,0 +1,29 @@
+ITEM NAME: Ruined Tundra Kodiak Pelt
+
+Velious Era (added December 2000-2001)
+Ruined Tundra Kodiak Pelt
+
+
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Vendors for ~4g 
+
+  Drops From 
+Eastern Wastes
+
+ a tundra kodiak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

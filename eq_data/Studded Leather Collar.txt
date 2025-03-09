@@ -1,0 +1,33 @@
+ITEM NAME: Studded Leather Collar
+
+
+Studded Leather Collar
+
+
+MAGIC ITEM
+Slot: NECK
+AC: 3
+STR: +1  STA: +1
+WT: 0.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Blackburrow
+
+ an elite gnoll guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Spell: Shroud of Undeath
+
+Velious Era (added December 2000-2001)
+Spell: Shroud of Undeath
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Alteration
+Mana Cost: 100
+Effect:  Shroud of Undeath
+WT: 0.1  Size: SMALL
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+Chardok
+
+ Battle Master Ska`tu
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

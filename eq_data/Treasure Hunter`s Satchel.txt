@@ -1,0 +1,46 @@
+ITEM NAME: Treasure Hunter`s Satchel
+
+Kunark Era (added 2000)
+
+Treasure Hunter`s Satchel
+
+
+MAGIC ITEM  LORE ITEM
+WT: 0.4  Weight Reduction: 100%
+Capacity: 10  Size Capacity: GIANT
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Emerald Jungle
+
+ Severilous
+
+Nagafen's Lair
+
+ Lord Nagafen
+
+Skyfire Mountains
+
+ Talendor
+
+Timorous Deep
+
+ Faydedar
+
+Western Wastes
+
+ Melalafen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

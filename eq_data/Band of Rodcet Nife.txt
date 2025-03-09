@@ -1,0 +1,31 @@
+ITEM NAME: Band of Rodcet Nife
+
+
+
+Band of Rodcet Nife
+
+
+LORE ITEM  NO DROP
+Slot: FINGER
+INT: +3  MANA: +10
+WT: 0.1  Size: TINY
+Class: ALL except SHD SHM NEC
+Race: ALL
+
+
+ Item Lore (from Identify): Ring of Channeling 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Frostbite's Fish
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

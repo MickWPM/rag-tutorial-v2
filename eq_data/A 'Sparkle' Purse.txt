@@ -1,0 +1,31 @@
+ITEM NAME: A 'Sparkle' Purse
+
+
+
+A 'Sparkle' Purse
+
+
+LORE ITEM  NO DROP
+WT: 0.2  Weight Reduction: 0%
+Capacity: 4  Size Capacity: SMALL
+
+
+ Item Lore (from Identify): Noresa's Purse 
+
+  Drops From 
+Solusek's Eye
+
+ Lynada the exiled
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Redemption
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

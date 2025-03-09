@@ -1,0 +1,36 @@
+ITEM NAME: Shroud of Nature
+
+Kunark Era (added 2000)
+
+Shroud of Nature
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 13
+WIS: +6
+SV FIRE: +8  SV COLD: +8
+WT: 5.0  Size: MEDIUM
+Class: RNG DRU
+Race: ALL
+
+
+
+ Merchant resale value: 13pp 
+
+  Drops From 
+Temple of Droga
+
+ A Goblin Warder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

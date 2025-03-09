@@ -1,0 +1,35 @@
+ITEM NAME: Ribcage Chest Armor
+
+Classic Era (added 1999-2000)
+
+Ribcage Chest Armor
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 6
+SV FIRE: +2
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Misty Thicket
+
+ a goblin alchemist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Treant Fists
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

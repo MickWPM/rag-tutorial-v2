@@ -1,0 +1,57 @@
+ITEM NAME: Rhino Hide Boots
+
+Kunark Era (added 2000)
+
+
+Rhino Hide Boots
+
+
+Slot: FEET
+AC: 4
+WT: 2.5  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC MNK DRU
+Race: ALL except DWF HFL GNM
+
+
+
+
+  Drops From 
+Kurn's Tower
+
+ Greater skeleton (Iksar)
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Scaznar
+
+
+
+  (53, -133)
+
+
+ West Cabilis
+
+ Gryzil
+
+
+
+  (391, 515)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

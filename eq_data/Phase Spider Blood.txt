@@ -1,0 +1,34 @@
+ITEM NAME: Phase Spider Blood
+
+Velious Era (added December 2000-2001)
+
+Phase Spider Blood
+
+
+MAGIC ITEM  LORE ITEM
+EXPENDABLE  Charges: 1
+Effect: Improved Invisibility (Any Slot, Casting Time: 0.0)
+WT: 0.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Dragon Necropolis
+
+ a phase spider
+ Queen Raltaas
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

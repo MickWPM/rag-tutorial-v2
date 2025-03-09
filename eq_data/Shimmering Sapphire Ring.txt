@@ -1,0 +1,37 @@
+ITEM NAME: Shimmering Sapphire Ring
+
+
+Shimmering Sapphire Ring
+
+
+MAGIC ITEM  
+Slot: FINGER
+HP: +15
+SV FIRE: +5 SV MAGIC: +5
+WT: 0.1 Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 4.2p 
+
+  Drops From 
+Qeynos Aqueducts
+
+ Corrupt Guard Helminth
+ A Necromancer
+ Azibelle Spavin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Qeynos Badge Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

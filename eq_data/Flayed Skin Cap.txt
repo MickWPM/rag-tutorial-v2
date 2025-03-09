@@ -1,0 +1,36 @@
+ITEM NAME: Flayed Skin Cap
+
+
+Flayed Skin Cap
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 8
+STR: +4  CHA: -2  INT: +4
+WT: 1.0  Size: MEDIUM
+Class: SHD NEC
+Race: HUM ERU
+
+
+
+ Merchant resale value: 16pp 
+
+  Drops From 
+Karnor's Castle
+
+ a drolvarg sentry
+ decayed prisoner
+ skeletal guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

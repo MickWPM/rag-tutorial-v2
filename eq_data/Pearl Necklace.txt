@@ -1,0 +1,131 @@
+ITEM NAME: Pearl Necklace
+
+
+Pearl Necklace
+
+
+Slot: NECK
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 4.75pp with 75 CHA vs indifferent merchant 4pp 9g 4s best price. 
+
+  Drops From 
+Ak'Anon
+
+ King Ak`Anon
+
+Burning Woods
+
+ a sarnak zealot
+ a scoriae hornet
+ a tatterback ape
+
+Chardok
+
+ a Di`Zok Legionnaire
+
+City of Mist
+
+ a phantom
+
+Cobalt Scar
+
+ a cobalt drake
+
+Firiona Vie
+
+ a drolvarg growler
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ spectral knight
+
+Kedge Keep
+
+ a gloomstalker mermaid
+ a gloomwater mermaid
+
+Ocean of Tears
+
+ a seafury cyclops
+
+Old Sebilis
+
+ a sebilite golem
+
+Plane of Fear
+
+ a boogeyman
+ a glare lord
+ a samhain
+ Amygdalan knight
+ Amygdalan warrior
+
+Siren's Grotto
+
+ a neriad mistress
+ a siren beguiler
+ a siren myrmidon
+ a siren templar
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a skycinder drake
+ Black Scar
+
+The Wakening Land
+
+ a geonid
+ a tar goo
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ Oasis of Marr
+
+ Gadallion
+
+
+
+  (493, 0)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Spear of Fate
+
+Epic Quests Era (added Sept 2000)
+ Spear of Fate wielded by an Ogre Shaman. The Curse of the Spirits is a magic based damage over time spell that starts off weak, but gradually increases in damage towards the end of the spell's duration. This is why it draws little or no aggro when you cast it. It does a total of about 1425 HP damage over a course of 1.5 minutes.
+Spear of Fate
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 30
+DMG: 20 
+STR: +10  DEX: +10  STA: +10  WIS: +20  HP: +30  MANA: +70
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Required level of 46.
+Effect:  Curse of the Spirits (Must Equip, Casting Time: 9.0) at Level 50
+WT: 1.0  Size: MEDIUM
+Class: SHM
+Race: BAR TRL OGR IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+Acts as a major light source when equipped. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

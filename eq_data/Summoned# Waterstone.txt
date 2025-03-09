@@ -1,0 +1,31 @@
+ITEM NAME: Summoned: Waterstone
+
+Classic Era (added 1999-2000)
+
+
+Summoned: Waterstone
+
+
+MAGIC ITEM  TEMPORARY
+EXPENDABLE  Charges: 1
+Effect: Enduring Breath (Any Slot, Casting Time: Instant) as Level 10
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Created with the Summon Waterstone spell. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

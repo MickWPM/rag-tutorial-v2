@@ -1,0 +1,35 @@
+ITEM NAME: Deep Six Cutlass
+
+Classic Era (added 1999-2000)
+
+Deep Six Cutlass
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Charges: 3
+Skill: 1H Slashing  Atk Delay: 36
+DMG: 14 
+STR: +5
+Effect:  Enduring Breath (Any Slot, Casting Time: Instant)
+WT: 12.5  Size: GIANT
+Class: PAL
+Race: HUM ERU HIE HEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Bridge
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

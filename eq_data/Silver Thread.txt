@@ -1,0 +1,81 @@
+ITEM NAME: Silver Thread
+
+
+
+Silver Thread
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Purchased from vendors for ~1p 4s 2c. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ West Cabilis
+
+ Kamzar
+
+
+
+  (184, 544)
+
+
+ Erudin
+
+ Galbasi Weaver
+
+
+
+  (-755,-112)
+
+
+ Paineel
+
+ Pardas Nalue
+
+
+
+  (944, 678)
+
+
+ Thurgadin
+
+ Kyla Frostbeard
+
+
+
+  (-113, 230)
+
+
+ Thurgadin
+
+ Cobi Frostbeard
+
+
+
+  (-114, 219)
+
+Note: Sold only in Thurgadin during early Velious era. 
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+
+
+
+

@@ -1,0 +1,203 @@
+ITEM NAME: Silver Earring
+
+Classic Era (added 1999-2000)
+
+Silver Earring
+
+
+Slot: EAR
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Worth approximately 2gp to a vendor. 
+
+  Drops From 
+Blackburrow
+
+ a gnoll shaman
+
+West Commonlands
+
+ a hill giant
+ Sergeant Slate
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Eastern Plains of Karana
+
+ a hill giant
+ Tarbul Earthstrider
+
+Erud's Crossing
+
+ a shark
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+
+Field of Bone
+
+ an iksar brigand
+
+Firiona Vie
+
+ Firiona drixie
+
+Lavastorm Mountains
+
+ a fire drake
+ a rock dervish
+
+Rathe Mountains
+
+ a hill giant
+
+Northern Desert of Ro
+
+ a desert madman
+ a shriveled mummy
+
+Siren's Grotto
+
+ Ulth the Enraged
+
+Southern Desert of Ro
+
+ an orc priest
+
+Steamfont Mountains
+
+ a harpy
+ a mountain brownie
+
+Swamp of No Hope
+
+ froglok raider
+
+The Warrens
+
+ a mischievious batling
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ A Job for Nanrum
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

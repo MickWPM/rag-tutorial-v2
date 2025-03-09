@@ -1,0 +1,33 @@
+ITEM NAME: Gnoll Slayer
+
+Classic Era (added 1999-2000)
+
+
+Gnoll Slayer
+
+
+LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 28
+DMG: 6 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+On live there is a more powerful version of this weapon available, but it was added in the Planes of Power expansion (with Bane damage, and so this version is the only one that will ever appear on Project 1999 timelines. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gnoll Slayer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

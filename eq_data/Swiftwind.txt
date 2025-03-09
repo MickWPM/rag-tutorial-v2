@@ -1,0 +1,36 @@
+ITEM NAME: Swiftwind
+
+Epic Quests Era (added Sept 2000)
+
+
+Swiftwind
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SECONDARY
+Skill: 1H Slashing  Atk Delay: 21
+DMG: 13 
+STR: +15  DEX: +5  STA: +10  HP: +50
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Swift Spirit (Worn)
+WT: 2.0  Size: MEDIUM
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+ Item Lore (from Identify): Blessed by the Storm LordThe Worn spell effect was later changed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

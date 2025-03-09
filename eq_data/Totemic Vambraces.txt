@@ -1,0 +1,34 @@
+ITEM NAME: Totemic Vambraces
+
+
+Totemic Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 10
+AGI: +5
+WT: 3.7  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR
+
+
+
+
+  Drops From 
+Rathe Mountains
+
+ Oculys Ogrefiend
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Totemic Armor Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

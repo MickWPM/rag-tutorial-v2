@@ -1,0 +1,34 @@
+ITEM NAME: Exquisite Velium Reinforced Bow
+
+Velious Era (added December 2000-2001)
+
+Exquisite Velium Reinforced Bow
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE
+Skill: Archery  Atk Delay: 36
+DMG: 32
+WT: 2.0  Range: 190  Size: MEDIUM
+Class: WAR PAL RNG SHD ROG
+Race: ALL
+
+
+Part of the Exquisite Velium Weapons set. 
+
+  Drops From 
+Dragon Necropolis
+
+ various Chetari
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

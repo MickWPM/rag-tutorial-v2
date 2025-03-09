@@ -1,0 +1,32 @@
+ITEM NAME: Rune of The Cyclone
+
+
+Rune of the Cyclone
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~34 mob
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Lava Storm (Trivial: 120)
+
+
+
+
+

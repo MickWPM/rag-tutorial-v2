@@ -1,0 +1,38 @@
+ITEM NAME: Rune of Concussion
+
+
+Rune of Concussion
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players. 
+ Merchant resale value: 1p 2g 1s 
+
+  Drops From 
+Various Zones
+Timorous Deep
+
+a Vicious Raptor
+
+ Random drop from any level ~34-49 mob
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Circle of Force (Trivial: 120)
+ Lava Storm (Trivial: 120)
+ Wrath of Al'Kabor (Trivial: 184)
+
+
+
+
+

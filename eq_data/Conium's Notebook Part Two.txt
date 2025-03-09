@@ -1,0 +1,91 @@
+ITEM NAME: Conium's Notebook Part Two
+
+
+
+Conium's Notebook Part Two
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Dagnor's Cauldron
+
+ Conium Darkblade
+
+
+
+  (-236, -826)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+Conium's Notebook Two
+Thank Brell for Mater
+On my last visit to my home,
+Kaladim, I paid a visit to
+my old mentor, Mater. He has
+just documented some studies
+he did on toxicology of ores
+and granted me the honor of
+giving me a copy of
+his work.
+With the information provided
+by Mater, and the ever-present
+aqua goblins here in Dagnor's
+Cauldron to test them on, I
+have developed some effective
+metal-based poisons. My first
+experiment was a mixture of
+LEAD PEROXIDE, WHITE LEAD and
+QUICKSILVER with a SEALED
+POISON VIAL and LARENT
+SUSPENSION. I was sure to heed
+Mater's warnings and take
+extreme care when applying it
+to my blade. The outcome was
+much to my liking. The goblin
+doubled over clutching his
+head and midsection with his
+slimy hands.
+My second mixture consists of
+one part IRON SULPHIDE and
+two parts QUICKSILVER with a
+SEALED POISON VIAL and LARENT
+SUSPENSION. This mixture
+although a bit more difficult
+to mix properly and apply was
+even more effective than the
+first had been. This one
+causes the goblins not only
+to double over from the pain
+but fall down completely,
+writhing on the rocky cliffs.
+My only regret is that death
+is rather swift so the vile
+critters don't suffer as much
+as they would with a weaker
+mixture.
+
+  See Also 
+ Player Tradeskill Poison Making
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

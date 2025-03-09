@@ -1,0 +1,31 @@
+ITEM NAME: Mahlin's Mystical Bongos
+
+Epic Quests Era (added Sept 2000)
+
+Mahlin's Mystical Bongos
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+Percussion Instruments: 21
+WT: 0.5  Size: SMALL
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

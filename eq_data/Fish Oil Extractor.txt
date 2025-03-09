@@ -1,0 +1,28 @@
+ITEM NAME: Fish Oil Extractor
+
+
+
+Fish Oil Extractor
+
+
+LORE ITEM NO TRADE 
+WT: 3.0  Weight Reduction: 0%
+Capacity: 4  Size Capacity: MEDIUM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #7: Runed Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

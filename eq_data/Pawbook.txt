@@ -1,0 +1,55 @@
+ITEM NAME: Pawbook
+
+
+
+Pawbook
+
+
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gem Inlaid Gauntlets Quest 
+
+  Book contents 
+My Brethren,
+Today we embark on a journey that will lead us past the boundaries of our known world.
+It is by our choice that we make this journey, to discover new lands, and to make
+a new home for ourselves. It is an honor to call you countrymen and friends. Let
+us rejoice in our accomplishments as we take the lands of our pitiful
+brothers, and show them the way of the true gnoll. Be well, my brothers, and may 
+the gods guide your hands.
+Ishva Verishe Val
+Tesch Val,
+you must recover, from the archives, the incantation to speed our transit to the new
+continent. Let not one of the council members see you, or you will surely be slain.
+You must complete this task I have laid before you, or they will eventually find us
+and slay us. The accursed council knows of my location, so I must be off. Slay the
+messenger of this note when you have finished reading it.
+Good journey to you, my faithful.
+Ishva Rosch Val,
+our plans have failed. We must escape this continent or risk being slain by the
+other elders on the council. My place upon the council was forfeit once it became known
+that I practiced the dark magiks. We must quicken our search for the maps. If we
+are unable to find the spell which will open the gate to Antonica, then we must
+acquire another means of travel.
+Ishva
+Fear not my brethren! We have taken this home and we shall make it our own! Use
+what resources we have to establish ourselves here. Care not about the Theth, for
+they are our inferiors. Use their goods, use their services, and use their skins
+if need be. In time, we shall feel our former glory!
+Ishk kal hobra!
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

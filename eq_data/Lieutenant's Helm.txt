@@ -1,0 +1,42 @@
+ITEM NAME: Lieutenant's Helm
+
+Velious Era (added December 2000-2001)
+
+Lieutenant's Helm
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 10
+STR: +4  DEX: +5
+WT: 7.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Lieutenant Coldforge
+ Lieutenant Fangcaller
+ Lieutenant Frostbite
+ Lieutenant Hrykker
+ Lieutenant Peldiyrem
+ Lieutenant Stormeye
+ Lieutenant Vellos
+ Sentinel Maldevor
+ Sentinel Uthnorn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

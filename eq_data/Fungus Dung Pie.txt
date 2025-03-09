@@ -1,0 +1,30 @@
+ITEM NAME: Fungus Dung Pie
+
+Classic Era (added 1999-2000)
+
+
+Fungus Dung Pie
+
+
+This is a meal.
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Help Hergor Get Fatter
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Barbarian Head
+
+Classic Era (added 1999-2000)
+Barbarian Head
+
+
+LORE ITEM  NO DROP
+WT: 2.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+Many items like this with the same name: http://lucy.allakhazam.com/itemlist.html?searchtext=barbarian+head 
+
+  Drops From 
+Surefall Glade
+
+ Talym Shoontar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Poacher Leader
+ Talym Shoontar's Head
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

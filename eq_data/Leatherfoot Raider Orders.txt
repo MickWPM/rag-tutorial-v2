@@ -1,0 +1,33 @@
+ITEM NAME: Leatherfoot Raider Orders
+
+
+
+Leatherfoot Raider Orders
+
+
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: NONE
+Race: NONE
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Innoruuk Disciple
+ Letter to Master Whoopal 
+
+  Book contents 
+It is good to hear that our agent who infiltrated the wicked city of Neriak has been able to assist you in holding your position within the Nektulos forest. Karana surely smiles upon our task. The Deeppockets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

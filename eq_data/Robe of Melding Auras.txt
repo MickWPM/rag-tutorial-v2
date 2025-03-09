@@ -1,0 +1,37 @@
+ITEM NAME: Robe of Melding Auras
+
+Velious Era (added December 2000-2001)
+
+
+
+Robe of Melding Auras
+
+
+LORE ITEM
+Slot: CHEST
+AC: 10
+INT: +6  HP: +25  MANA: +25
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +2  SV POISON: +2
+WT: 5.0  Size: MEDIUM
+Class: CLR MNK NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+This robe is dark grey and has the newbie robe graphic. 
+
+  Drops From 
+Velketor's Labyrinth
+
+ Jelek Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,257 @@
+ITEM NAME: Jade Ring
+
+
+
+Jade Ring
+
+
+Slot: FINGER
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 11 Platinums
+ 9 Golds
+ 9 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a cinder hornet
+ a sarnak champion
+ a sarnak enthusiast
+ a sarnak extremist
+ a tottering gorilla
+ an ash hornet
+
+Cobalt Scar
+
+ a cobalt drake
+ an Othmir Shaman
+
+Crystal Caverns
+
+ a stalag terror
+
+Dragon Necropolis
+
+ a dragon construct
+ an amorphous mass
+ an entropy serpent
+
+Dreadlands
+
+ a dread widow
+ a glacier yeti
+ a tundra yeti
+
+The Estate of Unrest
+
+ a dark terror
+ mortuary fungus
+
+Firiona Vie
+
+ a drachnid webspinner
+ a drolvarg snarler
+ goblin battlemaster
+
+
+Frontier Mountains
+
+ a goblin blightcaller
+ goblin raider
+
+Kaesora
+
+ Guardian Of Xalgoz
+ spectral guardian
+ spectral librarian
+
+Rathe Mountains
+
+ a cyclops
+
+Nagafen's Lair
+
+ fire giant warrior
+ imp protector
+
+Siren's Grotto
+
+ a coldspine seahorse
+ a neriad maiden
+
+Southern Karana
+
+ a cyclops
+
+Steamfont Mountains
+
+ Minotaur Guard
+ Minotaur Sentry
+ Zondo Hyzill
+
+Temple of Droga
+
+ a goblin stonechanter
+
+The Overthere
+
+ a Sarnak enthusiast
+ a Sarnak knight
+
+The Wakening Land
+
+ a geonid
+ a tar goo
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Erudin Palace
+
+ Sothure Gemcutter
+
+
+
+  (731, 552)
+
+
+ West Commonlands
+
+ Noresa Sparkle
+
+
+
+  (-701, 267)
+
+
+ Felwithe
+
+ Merchant Silspin
+
+
+
+  (242, -606)
+
+
+ Greater Faydark
+
+ Merchant Kweili
+
+
+
+  (411, 245)
+
+
+ Neriak Foreign Quarter
+
+ Canarie
+
+
+
+  (-268, -172)
+
+
+ North Kaladim
+
+ Aanina Rockfinder
+
+
+
+  (401, -156)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ Oasis of Marr
+
+ Gadallion
+
+
+
+  (493, 0)
+
+
+ East Cabilis
+
+ Klok Oxmod
+
+
+
+  (638, 157)
+
+
+ Firiona Vie
+
+ Brisha Fyrestone
+
+
+
+  (-3615, 2405)
+
+
+ The Overthere
+
+ Tin Merchant XI
+
+
+
+  (2663, 2548)
+
+
+ The Overthere
+
+ Tin Merchant III
+
+
+
+  (2678, 2565)
+
+
+ Paineel
+
+ Dannis Faleet
+
+
+
+  (1092, 722)
+
+
+ Thurgadin
+
+ Talem Tucter
+
+
+
+  (-334, -71)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

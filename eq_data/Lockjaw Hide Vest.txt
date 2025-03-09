@@ -1,0 +1,34 @@
+ITEM NAME: Lockjaw Hide Vest
+
+Classic Era (added 1999-2000)
+
+Lockjaw Hide Vest
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 12
+STA: +5
+WT: 1.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Oasis of Marr
+
+ Lockjaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

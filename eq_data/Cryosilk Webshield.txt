@@ -1,0 +1,36 @@
+ITEM NAME: Cryosilk Webshield
+
+Fear Era (added July 1999)
+
+
+
+Cryosilk Webshield
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SECONDARY
+AC: 10
+DEX: +7  INT: +7  HP: +35
+WT: 0.2  Size: TINY
+Class: BRD NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Fear
+
+ a spinechiller spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

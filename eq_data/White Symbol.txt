@@ -1,0 +1,91 @@
+ITEM NAME: White Symbol
+
+Velious Era (added December 2000-2001)
+White Symbol
+
+
+MAGIC ITEM  NO DROP
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Casalen
+ Tavekalem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Second Arcane Test -- Boots of Deep ThoughtBoots of Deep Thought
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 20
+STA: +15  INT: +15  HP: +65  MANA: +65
+SV FIRE: +3  SV DISEASE: +3  SV COLD: +3  SV MAGIC: +3  SV POISON: +3
+Effect: Aura of Battle (Worn)  
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+ Ruby Tear
+ Black Tear
+ Ruby Symbol (from Lepethida)
+ White Symbol (from Casalen or Tavekalem)
+
+ Test of the Ruby Tear -- Silver Charm of TranquilitySilver Charm of Tranquility
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK WRIST
+AC: 35
+STR: +10  STA: +15  HP: +100  MANA: +100
+SV FIRE: +8  SV DISEASE: +8  SV COLD: +8  SV MAGIC: +8  SV POISON: +8
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Ruby Tear
+ White Symbol (from Casalen or Tavekalem)
+ Ruby Symbol (from Lepethida)
+ Silver Symbol (from Essedera)
+
+ Test of the Tooth -- Serrated Dragon ToothSerrated Dragon Tooth
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 13   AC: 30
+DEX: +10  STA: +10  AGI: +10
+SV FIRE: +12  SV DISEASE: +12  SV COLD: +12  SV MAGIC: +12  SV POISON: +12
+Haste: +41%  
+WT: 0.0  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+ White Tear
+ Silver Symbol (from Essedera)
+ White Symbol (from Casalen or Tavekalem)
+ Glowing Drake Orb (from any HOT Named)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

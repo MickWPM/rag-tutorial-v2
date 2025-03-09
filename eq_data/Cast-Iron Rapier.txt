@@ -1,0 +1,40 @@
+ITEM NAME: Cast-Iron Rapier
+
+Classic Era (added 1999-2000)
+
+Cast-Iron Rapier
+
+
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 23
+DMG: 4 
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+Firiona Vie
+
+ a halfling swashbuckler
+ Red Eye Jack
+
+West Karana
+
+ Lars McMannus
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shark Meat Quest
+ Orc Hatchets
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

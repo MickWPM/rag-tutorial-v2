@@ -1,0 +1,35 @@
+ITEM NAME: Girdle of Faith
+
+Sky Era (added January 2000)
+
+
+
+Girdle of Faith
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WAIST
+AC: 10
+STR: +6  WIS: +6  AGI: +6
+Haste: +41%  
+WT: 1.0  Size: SMALL
+Class: PAL
+Race: ALL
+
+
+ Item Lore (from Identify): Dirkog's Girdle of Faith 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Test of Spirit
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

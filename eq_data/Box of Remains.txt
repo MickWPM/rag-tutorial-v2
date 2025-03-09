@@ -1,0 +1,30 @@
+ITEM NAME: Box of Remains
+
+Classic Era (added 1999-2000)
+
+
+Box of Remains
+
+
+LORE ITEM
+WT: 5.0 Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Box of Ivan's Remains 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ivan McMannus' Remains
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,64 @@
+ITEM NAME: Gnoll Fang
+
+Classic Era (added 1999-2000)
+
+
+Gnoll Fang
+
+
+NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Used for Qeynos and Halas newbie quests. 
+
+  Drops From 
+Blackburrow
+
+ a burly gnoll
+ a gnoll
+ a gnoll brewer
+ a gnoll commander
+ a gnoll guardsman
+ a gnoll pup
+ a gnoll scout
+ a gnoll tactician
+ a patrolling gnoll
+ a scrawny gnoll
+ an elite gnoll guard
+
+Everfrost Peaks
+
+ A scrawny gnoll guard
+ A gnoll guard
+
+Lake Rathetear
+
+ a gnoll shaman
+
+North Qeynos
+
+ Fippy Darkpaw
+
+Qeynos Hills
+
+ a gnoll
+ a gnoll avenger
+ a gnoll hunter
+ a gnoll watcher
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Gnoll Bounty
+ Moonstones
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

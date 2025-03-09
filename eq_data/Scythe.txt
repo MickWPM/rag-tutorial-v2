@@ -1,0 +1,124 @@
+ITEM NAME: Scythe
+
+Classic Era (added 1999-2000)
+
+Scythe
+
+
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 45
+DMG: 11 
+WT: 12.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+
+ Merchant resale value: 13p 
+
+  Drops From 
+Neriak Third Gate
+
+ Degarran Kixl
+
+Ocean of Tears
+
+ a spectre
+
+Oasis of Marr
+
+ a spectre
+
+Tower of Frozen Shadow
+
+ a lesser ice shade
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Lake Rathetear
+
+ Turga
+
+
+
+  (3126, -1815)
+
+
+ Oasis of Marr
+
+ Isslana
+
+
+
+  (512, 71)
+
+
+ Oasis of Marr
+
+ Tran
+
+
+
+  (541, -43)
+
+
+ Oasis of Marr
+
+ Innkeep Marnan
+
+
+
+  (-1321, -261)
+
+
+ Oasis of Marr
+
+ Gadallion
+
+
+
+  (493, 0)
+
+
+ Western Plains of Karana
+
+ Carlan the Young
+
+
+
+  (972, -1868)
+
+
+ Western Plains of Karana
+
+ Maldin the Old
+
+
+
+  (972, -1868)
+
+
+ Southern Desert of Ro
+
+ Smith Tv`ysa
+
+
+
+  (93, 487)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

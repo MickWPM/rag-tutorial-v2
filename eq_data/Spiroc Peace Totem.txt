@@ -1,0 +1,37 @@
+ITEM NAME: Spiroc Peace Totem
+
+Sky Era (added January 2000)
+
+
+
+Spiroc Peace Totem
+
+
+LORE ITEM
+WT: 2.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ a spiroc banisher
+ a spiroc revolter
+ a spiroc walker
+ The Spiroc Guardian
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Paladin Test of Sacrifice
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

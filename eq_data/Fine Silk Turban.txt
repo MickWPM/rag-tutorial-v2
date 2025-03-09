@@ -1,0 +1,33 @@
+ITEM NAME: Fine Silk Turban
+
+
+Fine Silk Turban
+
+
+MAGIC ITEM
+Slot: HEAD
+AC: 10
+SV FIRE: +10
+WT: 0.3  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Oasis of Marr
+
+ Hatar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

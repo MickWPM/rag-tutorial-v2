@@ -1,0 +1,36 @@
+ITEM NAME: Efreeti Belt
+
+Sky Era (added January 2000)
+
+Efreeti Belt
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 4
+STR: +1  WIS: +1  INT: +1
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Noble Dojorn
+ The Hand of Veeshan
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Test of Think
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

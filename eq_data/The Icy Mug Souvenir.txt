@@ -1,0 +1,30 @@
+ITEM NAME: The Icy Mug Souvenir
+
+Velious Era (added December 2000-2001)
+
+
+The Icy Mug Souvenir
+
+
+Slot: PRIMARY SECONDARY
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): An Icy Mug That Smells of Ale 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Souvenir Mugs
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

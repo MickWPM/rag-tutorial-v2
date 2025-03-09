@@ -1,0 +1,45 @@
+ITEM NAME: Large Steel Kilt
+
+Classic Era (added 1999-2000)
+
+Large Steel Kilt
+
+
+Slot: LEGS
+AC: 15
+WT: 9.4  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: BAR TRL OGR
+
+
+Unusually high AC for vendor-bought legs. 
+ Merchant resale value: 369p 1g 4s 1c 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Halas
+
+ Guthan Shawnasy
+
+
+
+  (196, -324)
+
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

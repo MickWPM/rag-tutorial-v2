@@ -1,0 +1,34 @@
+ITEM NAME: Tailored Wrist Pouch
+
+
+
+Tailored Wrist Pouch
+
+
+WT: 0.3  Weight Reduction: 10%
+Capacity: 4  Size Capacity: TINY
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 26)
+ Yield: Tailored Wrist Pouch x1
+ In Loom:
+
+
+  1 x Ruined Wolf Pelt - Crafted, Dropped
+  1 x Silk Cord - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

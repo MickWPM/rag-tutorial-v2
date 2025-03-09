@@ -1,0 +1,217 @@
+ITEM NAME: Buckler
+
+Classic Era (added 1999-2000)
+
+Buckler
+
+
+Slot: SECONDARY
+AC: 4
+WT: 3.0  Size: SMALL
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Note: The Buckler made via Smithing actually is a different item with 5AC. 
+
+  Drops From 
+Commonlands
+
+ a decaying skeleton
+
+Everfrost Peaks
+
+ ice boned skeleton
+
+Lesser Faydark
+
+ a skeleton
+
+Najena
+
+ a greater skeleton
+
+Ocean of Tears
+
+ an isle goblin warrior
+
+Southern Karana
+
+ a skeleton
+
+Steamfont Mountains
+
+ a skeleton
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Smithy Bashdyn
+
+
+
+  (-527, 37)
+
+
+ West Commonlands
+
+ Ranon Strongarm
+
+
+
+  (-463, 2827)
+
+
+ East Commonlands
+
+ Altunic Jartin
+
+
+
+  (-115, 4734)
+
+
+ East Commonlands
+
+ A Shady Swashbuckler
+
+
+
+  (-1677, -141)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ Felwithe
+
+ Merchant Tearlan
+
+
+
+  (-79, -385)
+
+
+ East Freeport
+
+ Hundle Quatvel
+
+
+
+  (-187, -233)
+
+
+ East Freeport
+
+ Ralfson Gerositan
+
+
+
+  (-384, -648)
+
+
+ East Freeport
+
+ Innkeep Hunter
+
+
+
+  (-77, -699)
+
+
+ North Freeport
+
+ Lysric Loresinger
+
+
+
+  (-145, 579)
+
+
+ West Freeport
+
+ Lindie Rains
+
+
+
+  (-39, 12)
+
+
+ The Overthere
+
+ Finlay Kitoran
+
+
+
+  (2769, 2365)
+
+
+ Paineel
+
+ Kervis Ackblor
+
+
+
+  (1097, 428)
+
+
+ Paineel
+
+ Lillean Han Oni
+
+
+
+  (1213, 549)
+
+
+ Paineel
+
+ Dilche Orlezcha
+
+
+
+  (900, 470)
+
+
+ South Qeynos
+
+ Ton Firepride
+
+
+
+  (173, -327)
+
+
+ South Qeynos
+
+ Raffy Conticede
+
+
+
+  (-282, -491)
+
+  Related quests 
+ Paladin Message
+
+  Player crafted 
+ Blacksmithing
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

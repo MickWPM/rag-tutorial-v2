@@ -1,0 +1,37 @@
+ITEM NAME: Shralok Pack
+
+Classic Era (added 1999-2000)
+
+Shralok Pack
+
+
+PENDING LORE
+WT: 0.4  Weight Reduction: 25%
+Capacity: 8  Size Capacity: GIANT
+
+
+This bag is excellent for general use for any class for its low base weight, moderate weight reduction, flexibility to carry any item (GIANT) and cheap price.
+
+  Trivia 
+ The item contains the "PENDING LORE" tag, implying that it would one day be restricted to one per character. This will not happen on the Blue or Green server at any point in time.
+ On EQLive This item was changed to LORE on 2/21/2001a patch and the server automatically deleted duplicates causing unaware players to lose many items. Devs removed the LORE designation and reverted it back to PENDING LORE in the 2/21/2001b patch notes. Characters affected were asked to contact GM's for a restore back to the last backup. 
+ EQLive 2002/11/19 Patch Notes (luclin) Removed the "Pending Lore" tag from the Shralok Pack. 
+
+ Merchant resale value: 2p 4g (vendors resell for cost + 5%) 
+
+  Drops From 
+Highpass Hold
+
+ Recfek Shralok (Highpass Hold)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

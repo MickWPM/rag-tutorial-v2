@@ -1,0 +1,839 @@
+ITEM NAME: Peridot
+
+Classic Era (added 1999-2000)
+
+Peridot
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Purchased from vendors for ~10p, these spell reagents are used by casters to cast buffs, especially Clerics for their high level Symbol spells and Enchanters for their high level Rune spells.
+This item is good for money transfers to alts. I bought one for 10p 4g 8s 5c, and sold it for 9p 5g 1s 3c, for a difference of 9g 7s 2c. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Ally
+
+ 9 Platinums
+ 5 Golds
+ 9 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Burning Woods
+
+ a cinder hornet
+ a sarnak champion
+ a sarnak enthusiast
+ a sarnak extremist
+ a tottering gorilla
+ an ash hornet
+
+City of Mist
+
+ a phantom
+ a vapor golem
+ greater spurbone
+
+ Cobalt Scar 
+
+  a siren enticer 
+  a wyvern 
+
+Crypt of Dalnir
+
+ a coerced goblin
+
+ Crystal Caverns 
+
+  a stalag terror 
+
+ Dragon Necropolis 
+
+  a dragon construct 
+  an amorphous mass 
+  an entropy serpent 
+
+Dreadlands
+
+ a drachnid recluse
+ a drachnid silkmistress
+ a drachnid silkstrander
+ a drachnid webmaster
+ a drachnid widow
+ a drolvarg gnasher
+ a drolvarg rager
+ a glacier yeti
+ a tundra yeti
+
+Emerald Jungle
+
+ a raging gorilla
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+
+Firiona Vie
+
+ a drachnid silkspinner
+ froglok nok shaman
+ froglok shin knight
+ froglok tsu shaman
+
+Frontier Mountains
+
+ a burynai miner
+ A Goblin Slavedriver
+ goblin raider
+ a mountain giant tump
+ a gorging brute
+
+High Keep
+
+ Lady McCabe
+
+ Icewell Keep 
+
+  a frost spike 
+
+Kaesora
+
+ spectral librarian
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ decayed soldier
+ spectral knight
+
+Kithicor Forest
+
+ decaying healer
+ skeleton infantry
+ Skeleton Officer
+ Skeleton Squad Leader
+ zombie trooper
+
+Lake of Ill Omen
+
+ a Sarnak dragoon
+
+Lower Guk
+
+ A dar ghoul knight
+ an urd ghoul wizard
+
+Rathe Mountains
+
+ a cyclops
+
+Nagafen's Lair
+
+ A Greater Kobold
+ a greater kobold shaman
+ fire giant warrior
+ fire giant wizard
+ greater kobold
+ imp protector
+
+Northern Karana
+
+ a griffon
+
+Northern Desert of Ro
+
+ a sand giant
+
+Ocean of Tears
+
+ a spectre
+
+The Hole
+
+ an elemental warrior
+
+ Siren's Grotto 
+
+  a coldspine seahorse 
+  a neriad maiden 
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a skycinder drake
+ Black Scar
+
+Southern Karana
+
+ a cyclops
+ aviak avocet
+
+Southern Desert of Ro
+
+ a spectre
+
+Steamfont Mountains
+
+ Minotaur Guard
+ Tindo Frugrin
+
+ Stonebrunt Mountains 
+
+  An Elder Panda 
+
+Swamp of No Hope
+
+ froglok krup guard
+ froglok shin shaman
+
+The Overthere
+
+ a cliff golem
+ a Kunark rhino
+ a Sarnak enthusiast
+ a Sarnak knight
+ a stonepeep cockatrice
+ Dragoon V`Lask
+ General V`Deers
+
+ The Wakening Land 
+
+  a geonid 
+
+ The Warrens 
+
+  The Muglwump 
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1074, -1041)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1045, -1011)
+
+
+ Ak'Anon
+
+ a clockwork merchant
+
+
+
+  (1053, -1012)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ West Cabilis
+
+ Visar Glolith
+
+
+
+  (330, 753)
+
+
+ East Commonlands
+
+ Pardor the Blessed
+
+
+
+  (-121, -780)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ East Commonlands
+
+ Lyth Spellstar
+
+
+
+  (269, 4915)
+
+
+ Erudin Palace
+
+ Jeliala Glimmercharm
+
+
+
+  (507, 765)
+
+
+ Erudin Palace
+
+ Frena Runeflash
+
+
+
+  (732, 953)
+
+
+ Erudin Palace
+
+ Tika Shockstep
+
+
+
+  (917, 721)
+
+
+ Erudin Palace
+
+ Gwynora Armista
+
+
+
+  (555, 749)
+
+
+ Erudin Palace
+
+ Andane Starinen
+
+
+
+  (864, 737)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Erudin Palace
+
+ Harban Ranflash
+
+
+
+  (695, 883)
+
+
+ Everfrost Peaks
+
+ Magus Delin
+
+
+
+  (1798, -5028)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Felwithe
+
+ Merchant Lyssia
+
+
+
+  (580, -872)
+
+
+ Felwithe
+
+ Merchant Jewyln
+
+
+
+  (567, -609)
+
+
+ Felwithe
+
+ Merchant Earlyn
+
+
+
+  (464, -348)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ East Freeport
+
+ Banor Raglesin
+
+
+
+  (-226, -232)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ West Freeport
+
+ Jarel Ranin
+
+
+
+  (158, -734)
+
+
+ West Freeport
+
+ Dulia Jestes
+
+
+
+  (19, -817)
+
+
+ West Freeport
+
+ Voglan Dransed
+
+
+
+  (155, -762)
+
+
+ West Freeport
+
+ Lysa Truegreen
+
+
+
+  (117, -719)
+
+
+ West Freeport
+
+ Zasrin Blueflame
+
+
+
+  (148, -763)
+
+
+ West Freeport
+
+ Mekoma Buma
+
+  Caster's guild, 3rd floor.
+
+  (145, -761)
+
+
+ West Freeport
+
+ Lysin Smokkan
+
+
+
+  (134, -750)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Halas
+
+ Greta Terrilon
+
+
+
+  (279, -328)
+
+
+ High Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ High Keep
+
+ Treasurer Lynn
+
+
+
+  (-70, -375)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ Kael Drakkel
+
+ Ymik
+
+
+
+  (-1740, 1932)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Kithicor Forest
+
+ Jeena Firechaser
+
+
+
+  (-216, 3813)
+
+
+ Neriak Commons
+
+ Veca S`Karn
+
+
+
+  (178, -919)
+
+
+ Neriak Commons
+
+ Genzal R`Jyen
+
+
+
+  (119, -919)
+
+
+ Neriak Commons
+
+ Mirzna N`Mar
+
+
+
+  (167, -875)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ Neriak Third Gate
+
+ Xantis Ixtax
+
+
+
+  (1335, -1236)
+
+
+ Northern Desert of Ro
+
+ Magus Arindri
+
+
+
+  (2649, 923)
+
+
+ Oggok
+
+ Hrak
+
+
+
+  (821, 849)
+
+
+ The Overthere
+
+ Tin Merchant IV
+
+
+
+  (2663, 2548)
+
+
+ Paineel
+
+ Linnleu Brackmar
+
+
+
+  (734, 820)
+
+
+ Paineel
+
+ Keletha Nightweaver
+
+
+
+  (734, 861)
+
+
+ South Qeynos
+
+ Hanlore Escaval
+
+
+
+  (303, -569)
+
+
+ North Qeynos
+
+ Svena Ironforge
+
+
+
+  (60, 34)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Temple of Solusek Ro
+
+ Terblyn Zelbus
+
+
+
+  (444, -73)
+
+
+ Southern Desert of Ro
+
+ Magus Jerira
+
+
+
+  (-1478, 1063)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+
+ Western Plains of Karana
+
+ Innkeep Danin
+
+
+
+  (-1514, -13005)
+
+
+ Toxxulia Forest
+
+ Tran Lilspin
+
+
+
+  (1761, -736)
+
+
+ Toxxulia Forest
+
+ Cyria Lorewhisper
+
+
+
+  (1800, -719)
+
+
+ Toxxulia Forest
+
+ Islan Hetston
+
+
+
+  (2251, 1008)
+
+  Related quests 
+ Warrior Pike #5 (Legionnaire's Mancatcher)
+ Dragon Scales Quest
+ Brain Bite (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+
+
+
+ Blacksmithing
+
+
+
+ Jewelcrafting
+ Silvered Peridot Ring (Trivial: 46)
+ Electrum Peridot Bracelet (Trivial: 114)
+ Golden Peridot Bracelet (Trivial: 186)
+ Platinum Peridot Ring (Trivial: 258)
+
+
+
+
+

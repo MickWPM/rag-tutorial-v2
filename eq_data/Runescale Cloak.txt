@@ -1,0 +1,35 @@
+ITEM NAME: Runescale Cloak
+
+Temple Era (added October 1999)
+
+
+
+Runescale Cloak
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: BACK
+AC: 5
+INT: +3  AGI: +3
+SV DISEASE: +5  SV POISON: +5
+WT: 2.0  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Runescale Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

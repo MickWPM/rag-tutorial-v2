@@ -1,0 +1,32 @@
+ITEM NAME: Purple Sash of Order
+
+
+
+Purple Sash of Order
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 1
+DEX: +1  STA: +2  CHA: +2  AGI: +2  HP: +3
+WT: 0.0  Size: SMALL
+Class: MNK
+Race: HUM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Sash Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

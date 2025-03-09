@@ -1,0 +1,35 @@
+ITEM NAME: Harpy Statuette
+
+Sky Era (added January 2000)
+
+
+
+Harpy Statuette
+
+
+LORE ITEM
+WT: 5.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ an essence harvester
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Test of Disillusion
+ Magician Test of Summoning
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Bracer of the Forlorn
+
+Warrens Era (added spring 2001)
+
+Bracer of the Forlorn
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WRIST
+AC: 6
+WIS: +3 INT: -1 MANA: +5
+WT: 5.0  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: HUM BAR ERU ELF HIE HEF DEF DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+The Warrens
+
+ Prince Bragnar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

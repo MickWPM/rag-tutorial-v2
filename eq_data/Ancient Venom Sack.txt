@@ -1,0 +1,35 @@
+ITEM NAME: Ancient Venom Sack
+
+Stonebrunt Era (added summer 2001)
+
+Ancient Venom Sack
+
+
+EXPENDABLE   Charges: 1
+Effect: Deadly Poison (Combat, Casting Time: Instant) at Level 30
+WT: 0.2  Size: SMALL
+Class: ROG
+Race: HUM BAR ELF DEF HEF DWF
+HFL GNM
+
+
+A working rogue poison. 
+ Merchant resale value: 5.7p 
+
+  Drops From 
+Stonebrunt Mountains
+
+ Slyder the Ancient
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Collier's Weapon Treatment
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

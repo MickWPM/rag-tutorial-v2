@@ -1,0 +1,43 @@
+ITEM NAME: Puppet Strings
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Puppet Strings
+
+
+MAGIC ITEM  LORE ITEM
+Charges: 10
+Effect:  Allure (Any Slot, Casting Time: 3.0)
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+When Cazic Thule grew tired of insults he took away Bristlebane's Cazic puppet and also its puppet strings.
+Often recharged on merchants (see Guide To Recharging Items).
+As of 4/19/2020[1] patch cost about 20,000 to recharge. And the casting is no longer instant (roughly 3 seconds). 
+
+  Drops From 
+Plane of Fear
+Post-Revamp (Current)
+
+ Fright
+ Dread
+ Terror
+
+Pre-Revamp
+
+ Cazic Thule (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

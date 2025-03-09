@@ -1,0 +1,35 @@
+ITEM NAME: Sebilite Scale Boots
+
+Kunark Era (added 2000)
+
+Sebilite Scale Boots
+
+
+MAGIC ITEM
+Slot: FEET
+AC: 12
+STA: +4  INT: +4
+SV COLD: +2  SV MAGIC: +2
+WT: 3.8  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR TRL OGR
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ froglok commander
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

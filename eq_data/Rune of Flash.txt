@@ -1,0 +1,43 @@
+ITEM NAME: Rune of Flash
+
+
+
+Rune of Flash
+
+
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kedge Keep
+
+ a swirlspine seahorse
+
+Plane of Hate
+
+ a forsaken revenant
+
+Siren's Grotto
+
+ a neriad maiden
+ an enthralled bulthar
+
+The Overthere
+
+ an undead marine
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

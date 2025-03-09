@@ -1,0 +1,37 @@
+ITEM NAME: Marauder Snout Ring
+
+Kunark Era (added 2000)
+
+Marauder Snout Ring
+
+
+Slot: FACE
+AC: 2
+DEX: +1  CHA: -5
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: BAR TRL OGR IKS
+
+
+Not to be confused with Marauder Snout Ring 'MM' 
+
+  Drops From 
+Field of Bone
+
+ an iksar marauder
+
+Warsliks Woods
+
+ an iksar marauder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

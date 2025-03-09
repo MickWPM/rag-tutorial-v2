@@ -1,0 +1,37 @@
+ITEM NAME: Ring of Lightning
+
+Velious Era (added December 2000-2001)
+
+
+
+Ring of Lightning
+
+
+MAGIC ITEM  LORE ITEM
+Slot: FINGER
+AC: 10
+INT: +10  HP: +75  MANA: +75
+SV MAGIC: +10
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ King Tormax
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

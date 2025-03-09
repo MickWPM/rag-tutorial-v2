@@ -1,0 +1,38 @@
+ITEM NAME: Wolf's Eye Electrum Bracelet
+
+
+Wolf's Eye Electrum Bracelet
+
+
+Slot: WRIST
+SV MAGIC: +4
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+Note: Make sure to enchant the bar by an enchanter before combining. If u dont do that u will not get any stats on your created gear.
+
+ Jewelry Making (Trivial: 103)
+ Wolf's Eye Electrum Bracelet x1
+ In Jeweler's Kit:
+
+
+  1 x Electrum Bar - Bought
+  1 x Wolf's Eye Agate - Bought, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

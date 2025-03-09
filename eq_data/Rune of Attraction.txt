@@ -1,0 +1,60 @@
+ITEM NAME: Rune of Attraction
+
+
+Rune of Attraction
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Note: There are two versions of this Rune, which both Identify the same. One is used to make Levitate, the other for Gravity Flux.
+As of 8/30/15, using the wrong rune will result in a "You cannot combine these items in this container type!" message; the runes will not be destroyed.
+Levitate     Rune of Attraction sells to vendor for 1p 2g 8s 4c
+Gravity Flux Rune of Attraction sells to vendor for 1p 5g 8s 1c
+Levitate rune item ID: 11748
+Gravity Flux rune item ID: 11777
+Although Gravity Flux cannot be vendor purchased, it is very inefficient and never used by wizards as a means to level, as pillar is much more efficient for quadding. Levitate is vendor-purchasable. 
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 85 and faction at Amiably
+
+ 1 Platinums
+ 2 Golds
+ 5 Silvers
+ 2 Coppers
+ 
+  Drops From 
+Timorous Deep
+
+a Raptor
+
+Lake of Ill Omen
+
+A sarnak recruit
+
+Ocean of Tears
+
+An isle goblin
+
+The Wakening Land
+
+A Faerie Dragon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Levitate (Trivial: ~60)
+
+ Spell Research
+ Gravity Flux (Trivial: 162) (Research Only)
+
+
+
+
+

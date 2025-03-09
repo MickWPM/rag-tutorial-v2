@@ -1,0 +1,38 @@
+ITEM NAME: Camii`s Bracer of Vigor
+
+Velious Era (added December 2000-2001) Camii`s Bracer of Vigor - Jestuh <Aftermath>
+
+
+Camii`s Bracer of Vigor
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+AC: 35
+STR: +15  STA: +20  WIS: +15  INT: +15  HP: +50  MANA: +50
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Invigor (Any Slot/Can Equip, Casting Time: 1.5) at Level 50
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Bracer of the Chosen
+Effect was changed to Serpent Sight at some point in the timeline. 
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

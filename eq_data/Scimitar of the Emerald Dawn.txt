@@ -1,0 +1,35 @@
+ITEM NAME: Scimitar of the Emerald Dawn
+
+Velious Era (added December 2000-2001)
+
+Scimitar of the Emerald Dawn
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 34
+DMG: 20 
+MANA: +100
+SV DISEASE: +20  SV POISON: +20
+WT: 2.0  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+The Wakening Land
+
+ Wuoshi
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ P1999 Red Server First Scimitar of Emerald Dawn - Klepto
+

@@ -1,0 +1,33 @@
+ITEM NAME: Agilmente's Flute of Flight
+
+Sky Era (added January 2000)
+
+
+Agilmente's Flute of Flight
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY
+Wind Instruments: 22
+STR: +4  INT: +2
+WT: 0.1  Size: TINY
+Class: BRD
+Race: ALL
+
+
+Pre-upgrade PoS quest reward. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Pitch
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

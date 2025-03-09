@@ -1,0 +1,30 @@
+ITEM NAME: Full Pack of Sarnak Heads
+
+Kunark Era (added 2000)
+
+
+Full Pack of Sarnak Heads
+
+
+LORE ITEM NO DROP
+WT: 10.0 Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Sarnak Whelp Heads 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusader's Test of the Pawn (#1)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

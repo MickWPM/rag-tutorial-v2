@@ -1,0 +1,40 @@
+ITEM NAME: Unfired Muffin Tin
+
+
+
+Unfired Muffin Tin
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Pottery (Trivial: 122)
+ Yield: Unfired Muffin Tin x1
+ In Pottery Wheel:
+
+
+  1 x Block of Clay - Crafted
+  1 x Metal Bits - Crafted
+  1 x Muffin Tin Sketch - Bought
+  1 x Water Flask - Crafted, Bought, Dropped 
+
+
+  Tradeskill recipes 
+ Pottery
+ Muffin Tin (Trivial: 17)
+
+
+
+
+

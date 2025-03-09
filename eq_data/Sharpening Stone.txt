@@ -1,0 +1,174 @@
+ITEM NAME: Sharpening Stone
+
+
+
+Sharpening Stone
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork miner
+
+
+
+  (760, -155)
+
+
+ East Cabilis
+
+ Klok Toren
+
+
+
+  (190, -303)
+
+
+ Erudin
+
+ Shinan Orefinder
+
+
+
+  (-683, -246)
+
+
+ North Freeport
+
+ Kyrin Steelbone
+
+
+
+  (-21, 470)
+
+
+ Grobb
+
+ Okun
+
+
+
+  (683, -412)
+
+
+ Halas
+
+ Greta O`Reilly
+
+
+
+  (78, -245)
+
+
+ High Keep
+
+ Miner Harton
+
+
+
+  (42, -273)
+
+
+ North Kaladim
+
+ Bloarn Norkhitter
+
+
+
+  (727, 213)
+
+
+ Neriak Commons
+
+ Glazn D`Unnar
+
+
+
+  (46, -796)
+
+
+ Oggok
+
+ Blergerda
+
+
+
+  (191, 915)
+
+
+ Paineel
+
+ Tentus Brackmar
+
+
+
+  (995, 810)
+
+
+ Rivervale
+
+ Bodbin Gimple
+
+
+
+  (-80, -370)
+
+
+ Steamfont Mountains
+
+ Godbin Strumharp
+
+
+
+  (43, -618)
+
+
+ Stonebrunt Mountains
+
+ Kevar Claypaws
+
+
+
+  (1390, -579)
+
+
+ Thurgadin
+
+ Nimren Stonecutter
+
+
+
+  (46, -109)
+
+  Related quests 
+ Catfish Croak Sandwich Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Blacksmithing
+ Rusty to Tarnished Weapon Conversions
+ Sharp Cutting Disk (Trivial: 26)
+
+
+
+
+

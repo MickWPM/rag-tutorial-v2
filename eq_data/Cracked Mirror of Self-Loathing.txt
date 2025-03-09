@@ -1,0 +1,28 @@
+ITEM NAME: Cracked Mirror of Self-Loathing
+
+Chardok Revamp Era (added late 2001)
+Cracked Mirror of Self-Loathing
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): The mirror is cracked 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crusaders of Greenmist
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

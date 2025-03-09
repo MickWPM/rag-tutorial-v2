@@ -1,0 +1,36 @@
+ITEM NAME: Spiked Seahorse Hide Belt
+
+Velious Era (added December 2000-2001)
+
+Spiked Seahorse Hide Belt
+
+
+MAGIC ITEM  LORE ITEM
+Slot: WAIST
+AC: 10
+STR: +4  DEX: +4  STA: +4  CHA: +4  WIS: +4  INT: +4  AGI: +4  HP: +25  MANA: +25
+SV FIRE: +1  SV DISEASE: +1  SV COLD: +1  SV MAGIC: +1  SV POISON: +1
+Haste: +34%  
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Siren's Grotto
+
+ Fellspine
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Spirit Wracked Urn
+
+Chardok Revamp Era (added late 2001)
+
+Spirit Wracked Urn
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 5.0  Size: MEDIUM
+Class: NONE
+Race: NONE
+
+
+ Item Lore (from Identify): A trapped soul writhes within 
+
+  Drops From 
+Howling Stones
+
+ Drusella Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Wracked Cord Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

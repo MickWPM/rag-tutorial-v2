@@ -1,0 +1,38 @@
+ITEM NAME: Iron Dimethyl
+
+
+
+Iron Dimethyl
+
+
+Effect:  System Shock IV (Combat, Casting Time: Instant) at Level 50
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 268)
+ Yield: Iron Dimethyl x1
+ In Mortar and Pestle:
+
+
+  1 x Iron Sulphide - Crafted
+  1 x Larent Suspension - Bought
+  2 x Quicksilver - Crafted
+  1 x Sealed Poison Vial - Crafted, Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

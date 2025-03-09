@@ -1,0 +1,42 @@
+ITEM NAME: Crystallized Shadows
+
+Velious Era (added December 2000-2001)
+
+Crystallized Shadows
+
+
+MAGIC ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Frozen shadows powdered into dust.
+Vendors for 1.4p with average CHA. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a blood familiar
+ a crystallized shadow guard
+ a golem usher
+ a shadow
+ a shrouded bat
+ an angry librarian
+ an armored shadow
+ an enraged relative
+ Cara Omica
+ Narmak Berreka
+ Tihgren
+ Vyakna
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

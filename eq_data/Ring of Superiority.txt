@@ -1,0 +1,34 @@
+ITEM NAME: Ring of Superiority
+
+Velious Era (added December 2000-2001)
+Ring of Superiority
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FINGER
+AC: 7
+STR: +7  DEX: +7  STA: +7  CHA: +7  WIS: +7  INT: +7  AGI: +7  HP: +35  MANA: +35
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Flurry Drakes
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,32 @@
+ITEM NAME: Locked Book
+
+
+
+Locked Book
+
+
+LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Lydl's Spellbook 
+
+  Drops From 
+Northern Desert of Ro
+
+ Lydl the Great
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lydl Mastat
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

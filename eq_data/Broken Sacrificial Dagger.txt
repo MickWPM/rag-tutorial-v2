@@ -1,0 +1,33 @@
+ITEM NAME: Broken Sacrificial Dagger
+
+Kunark Era (added 2000)
+
+Broken Sacrificial Blade
+
+
+MAGIC ITEM  LORE ITEM NORENT
+Charges: 1
+Effect:  Dead Man Floating (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+This is the key to the South Wing in HS. It is NO RENT. It is often called the Broken Sacrificial Dagger in key guides. 
+
+  Drops From 
+Howling Stones (Charasis)
+
+ Skeletal Procurator
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

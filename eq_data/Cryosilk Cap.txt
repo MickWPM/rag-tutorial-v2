@@ -1,0 +1,36 @@
+ITEM NAME: Cryosilk Cap
+
+Fear Era (added July 1999)
+
+
+Cryosilk Cap
+
+
+MAGIC ITEM  NO DROP
+Slot: HEAD
+AC: 5
+CHA: +13  WIS: +9  INT: +7  HP: +10  MANA: +10
+SV MAGIC: +9
+WT: 0.3  Size: SMALL
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Cryosilk Armor set 
+
+  Drops From 
+Plane of Fear
+
+ a spinechiller spider
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

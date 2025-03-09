@@ -1,0 +1,34 @@
+ITEM NAME: Iksar Egg
+
+GM Event item (info)
+
+
+Iksar Egg
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: RANGE
+Effect:  Illusion Iksar (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Awarded only during GM events. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+ See also
+Iksar Hide Mask
+
+

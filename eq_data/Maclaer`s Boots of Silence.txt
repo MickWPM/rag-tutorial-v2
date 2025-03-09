@@ -1,0 +1,36 @@
+ITEM NAME: Maclaer`s Boots of Silence
+
+Velious Era (added December 2000-2001)
+
+
+Maclaer`s Boots of Silence
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 40
+STR: +15  DEX: +25  STA: +15
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 1.0  Size: TINY
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

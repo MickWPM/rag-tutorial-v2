@@ -1,0 +1,38 @@
+ITEM NAME: Lead Peroxide
+
+
+
+Lead Peroxide
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Poison Making (Trivial: 15)
+ Yield: Lead Peroxide x1
+ In Mortar and Pestle:
+
+
+  1 x Lead Sulphide - Bought
+  1 x Tumpy Tonic - Crafted 
+
+
+  Tradeskill recipes 
+ Poison Making
+ Metallic Alkaloid (Trivial: 213)
+
+
+
+
+

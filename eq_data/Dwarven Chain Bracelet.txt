@@ -1,0 +1,40 @@
+ITEM NAME: Dwarven Chain Bracelet
+
+
+
+Dwarven Chain Bracelet
+
+
+Slot: WRIST
+AC: 8
+SV FIRE: +1
+WT: 3.0  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except BAR ERU TRL OGR IKS
+
+
+Part of the dwarven cultural smithing armor sets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 128)
+ Yield: Dwarven Chain Bracelet x1
+ In Stormguard Forge:
+
+
+  1 x Brellium Rings - Crafted
+  1 x Dwarven Smithy Hammer - Bought, Returned on Failure, Returned on Success
+  1 x Earthen Temper - Crafted
+  1 x Small Chainmail Bracelet Pattern - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

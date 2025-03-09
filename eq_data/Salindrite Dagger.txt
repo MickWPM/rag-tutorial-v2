@@ -1,0 +1,38 @@
+ITEM NAME: Salindrite Dagger
+
+Velious Era (added December 2000-2001) P99 Blue Server First - Aetholar <Awakened>
+
+
+Salindrite Dagger
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 18
+DMG: 13 
+STR: +10  STA: +10  HP: +50
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Thunder Strike (Combat, Casting Time: Instant) at Level 49
+WT: 1.5  Size: SMALL
+Class: RNG BRD ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+
+
+  Drops From 
+Sleeper's Tomb
+
+ Ventani the Warder
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

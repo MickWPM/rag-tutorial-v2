@@ -1,0 +1,40 @@
+ITEM NAME: Haze Panther Gloves
+
+Velious Era (added December 2000-2001)
+
+Haze Panther Gloves
+
+
+Slot: HANDS
+AC: 8
+STR: +8  DEX: +10  STA: +10
+WT: 1.5  Size: SMALL
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+Part of the Haze Panther Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Haze Panther Gloves x1
+ In Coldain Tanners Kit:
+
+
+  1 x Glove Pattern - Bought
+  1 x Haze Panther Skin - Dropped
+  2 x Velium Boning - Crafted
+  1 x Yew Leaf Tannin - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

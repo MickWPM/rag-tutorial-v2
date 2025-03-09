@@ -1,0 +1,37 @@
+ITEM NAME: Velium Diamond Wedding Ring
+
+Velious Era (added December 2000-2001)
+
+Velium Diamond Wedding Ring
+
+
+Slot: FINGER
+SV FIRE: +8 SV DISEASE: +8 SV COLD: +8 SV MAGIC: +8 SV POISON: +8
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Jewelry Making (Trivial: 290)
+ Velium Diamond Wedding Ring x1
+ In Jeweler's Kit:
+
+
+  1 x Enchanted Velium Bar - Bought
+  1 x Diamond - Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

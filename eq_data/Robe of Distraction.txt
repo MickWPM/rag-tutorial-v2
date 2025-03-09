@@ -1,0 +1,137 @@
+ITEM NAME: Robe of Distraction
+
+Velious Era (added December 2000-2001)
+
+
+
+Robe of Distraction
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 20
+STA: +10  INT: +10  MANA: +90
+WT: 0.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+No robe graphic. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Gift Box
+ Deck of Spontaneous Generation Quest
+ Plane of Mischief Armor Quest
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Robe of Distraction x1
+ In  Deck of Spontaneous Generation:
+
+
+  A Black Throne - Dropped
+  A Red Throne - Dropped
+  A Black Crown - Dropped
+  A Red Crown - Dropped 
+
+
+  Tradeskill recipes 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Plane of Mischief Armor: Chest x1
+ In  Empty Pot of Gold:
+
+
+  1 x Robe of Distraction - Crafted
+  1 x The Gift Box Doll - Crafted
+
+
+
+
+
+
+ Plane of Mischief Armor Result 
+ Doll 
+ Class
+
+
+ Maleficent RobeMaleficent Robe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 22
+STR: +5  STA: +15  CHA: -10  INT: +15  AGI: +5  HP: +100  MANA: +40
+SV FIRE: +5  SV DISEASE: +20  SV COLD: +5  SV MAGIC: +5  SV POISON: +15
+WT: 0.5  Size: MEDIUM
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+ Maleficent Necromancer Doll 
+ Necromancer
+
+
+ Wily Warlock RobeWily Warlock Robe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP                                  
+Slot: CHEST
+AC: 22
+STR: +5  INT: +20  AGI: +10  HP: +40  MANA: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+WT: 0.5  Size: MEDIUM
+Class: WIZ
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ Wily Warlock Doll 
+ Wizard
+
+
+ Sly Summoners RobeSly Summoners Robe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 22
+STR: +10  STA: +15  INT: +15  HP: +50  MANA: +90
+SV FIRE: +20  SV COLD: +20  SV MAGIC: +10
+WT: 0.5  Size: MEDIUM
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ Sly Summoner Doll 
+ Magician
+
+
+ Mischievous Dazzler RobeMischievous Dazzler Robe
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 22
+STR: +5  CHA: +15  INT: +15  HP: +50  MANA: +80
+SV FIRE: +10  SV COLD: +10  SV MAGIC: +10
+WT: 0.5  Size: MEDIUM
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+ A Mischievous Dazzler Doll 
+ Enchanter
+
+
+

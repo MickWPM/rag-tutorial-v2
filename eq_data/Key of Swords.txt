@@ -1,0 +1,45 @@
+ITEM NAME: Key of Swords
+
+Sky Era (added January 2000)
+
+
+Key of Swords
+
+
+LORE ITEM  NO DROP
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Obtained by turning in a Miniature Sword to Sirran the Lunatic on Island 1 of Plane of Sky.Key of Swords is used to access Island 1.5 (Noble Island).Costs about 525pp 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Plane of Sky
+
+ Key Master
+
+
+
+  (1384, 601)
+
+  Related quests 
+ Plane of Sky Keys
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

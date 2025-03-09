@@ -1,0 +1,36 @@
+ITEM NAME: Cold Steel Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+
+Cold Steel Breastplate
+
+
+MAGIC ITEM
+Slot: CHEST
+AC: 30
+WT: 24.4  Size: TINY
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Velketor's Labyrinth
+
+ Gregendek Icepaw
+ Tpos Icepaw
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

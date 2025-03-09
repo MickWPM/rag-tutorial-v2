@@ -1,0 +1,36 @@
+ITEM NAME: Ancient Silk Pantaloons
+
+Velious Era (added December 2000-2001)
+
+Ancient Silk Pantaloons
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+WT: 2.0  Size: TINY
+Class: NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ West Wing Mobs
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Kael Leggings
+ Magician Kael Leggings
+ Necromancer Kael Leggings
+ Wizard Kael Leggings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

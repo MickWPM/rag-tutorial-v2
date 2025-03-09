@@ -1,0 +1,125 @@
+ITEM NAME: Bloodstone Ring
+
+Classic Era (added 1999-2000)
+
+Bloodstone Ring
+
+
+Slot: FINGER
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 9g 5s 
+
+  Drops From 
+Blackburrow
+
+ a gnoll shaman
+ a gnoll tactician
+
+Cobalt Scar
+
+ a bulthar
+
+Commonlands
+
+ a hill giant
+ an air elemental
+ Guard Tolus
+ orc oracle
+
+Dagnor's Cauldron
+
+ an undertow skeleton
+
+Erud's Crossing
+
+ a shark
+
+Firiona Vie
+
+ goblin battlemaster
+ a forest giant arbor
+
+The Estate of Unrest
+
+ a tentacle terror
+ mortuary fungus
+
+Greater Faydark
+
+ a faerie courtier
+ a faerie noble
+
+Lake of Ill Omen
+
+ a goblin skirmisher
+ a Sarnak courier
+ a Sarnak flunkie
+
+Lake Rathetear
+
+ Shmendrik Lavawalker
+
+Lavastorm Mountains
+
+ a fire drake
+ a fire elemental
+ a rock dervish
+
+Lesser Faydark
+
+ a faerie courtier
+ a faerie noble
+ a monarch fae drake
+
+Rathe Mountains
+
+ a hill giant
+ Cynthia
+
+Nektulos Forest
+
+ a deathfist templar
+
+Northern Karana
+
+ a griffawn
+
+Northern Desert of Ro
+
+ a desert madman
+ a shriveled mummy
+
+Ocean of Tears
+
+ a goblin headmaster
+
+Southern Desert of Ro
+
+ an orc priest
+
+Steamfont Mountains
+
+ a harpy
+ a mountain brownie
+ an earth elemental
+
+Stonebrunt Mountains
+
+ a mature graniteback
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

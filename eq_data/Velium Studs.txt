@@ -1,0 +1,40 @@
+ITEM NAME: Velium Studs
+
+Velious Era (added December 2000-2001)
+
+Velium Studs
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 51)
+ Yield: Velium Studs x2
+ In Forge:
+
+
+  1 x Coldain Velium Temper - Bought (about 30 plat)
+  1 x File - Crafted, Returned on Failure, Returned on Success
+  3 x Velium Bits - Crafted 
+
+
+  Tradeskill recipes 
+ Tailoring
+ Arctic Wyvern Armor
+ Tigeraptor Armor
+
+
+
+
+

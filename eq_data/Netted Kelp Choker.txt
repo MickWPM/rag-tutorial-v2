@@ -1,0 +1,40 @@
+ITEM NAME: Netted Kelp Choker
+
+Velious Era (added December 2000-2001)
+
+Netted Kelp Choker
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 4
+STR: +3  CHA: -3  WIS: +3  INT: +2
+SV FIRE: +2
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 11.4p 
+
+  Drops From 
+Siren's Grotto
+
+ a neriad maiden
+ a neriad mistress
+ a neriad sea princess
+ an enthralled molkor
+ an enthralled ulthork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

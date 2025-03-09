@@ -1,0 +1,343 @@
+ITEM NAME: Hematite
+
+
+Hematite
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Vendors for about 1 gold 
+
+  Drops From 
+Beholder's Maze
+
+ a goblin lookout
+ a goblin sentry
+ a goblin veteran
+
+Butcherblock Mountains
+
+ an emerald drake
+
+Eastern Plains of Karana
+
+ an undead reaver
+
+The Estate of Unrest
+
+ a dark terror
+ a tentacle terror
+
+Field of Bone
+
+ an Iksar footpad
+
+Greater Faydark
+
+ a bandit lookout
+ a faerie maiden
+ a pixie trickster
+
+Lake of Ill Omen
+
+ a goblin warrior
+
+Lesser Faydark
+
+ a brownie
+ a brownie farmer
+ a brownie outcast
+ a fae drake hatchling
+ a faerie maiden
+ a pixie prankster
+ a pixie trickster
+
+Rathe Mountains
+
+ an ebon drake
+
+Steamfont Mountains
+
+ a lesser ebon drake
+
+West Commonlands
+
+ Kizdean Gix
+
+Upper Guk
+
+ a heart spider
+
+Warsliks Woods
+
+ A Forest Giant Evergreen
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Ak'Anon
+
+ a clockwork jeweler
+
+
+
+  (1348, -884)
+
+
+ East Cabilis
+
+ Klok Ixmid
+
+
+
+  (659, 156)
+
+
+ East Commonlands
+
+ Pardor the Blessed
+
+
+
+  (-121, -780)
+
+
+ East Commonlands
+
+ Katha Firespinner
+
+
+
+  (234, 4731)
+
+
+ Erudin Palace
+
+ Tika Shockstep
+
+
+
+  (917, 721)
+
+
+ Erudin Palace
+
+ Anite Gemcutter
+
+
+
+  (784, 598)
+
+
+ Erudin Palace
+
+ Glysin Denuen
+
+
+
+  (631, 574)
+
+
+ Erudin Palace
+
+ Myrcin Denuen
+
+
+
+  (697, 597)
+
+
+ Erudin Palace
+
+ Elbsin Denuen
+
+
+
+  (667, 574)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (107, -439)
+
+
+ Felwithe
+
+ Merchant Tyslin
+
+
+
+  (450, -775)
+
+
+ Firiona Vie
+
+ Drake Mountainstorm
+
+
+
+  (-3634, 2404)
+
+
+ North Freeport
+
+ Aimie Moonspin
+
+
+
+  (-54, -246)
+
+
+ North Freeport
+
+ Jade
+
+
+
+  (-169, 202)
+
+
+ Greater Faydark
+
+ Merchant Laedar
+
+
+
+  (617, 542)
+
+
+ Grobb
+
+ Rezslog
+
+
+
+  (455, -178)
+
+
+ Grobb
+
+ Uzak
+
+
+
+  (563, -318)
+
+
+ Highpass Keep
+
+ Merchant Edina
+
+
+
+  (-97, -294)
+
+
+ Icewell Keep
+
+ Coldain Outcast
+
+
+
+  (50, 926)
+
+
+ North Kaladim
+
+ Banaf Norkhitter
+
+
+
+  (690, 431)
+
+
+ Neriak Commons
+
+ Nekola N`Ryt
+
+
+
+  (81, -931)
+
+
+ Neriak Third Gate
+
+ Telnor D`Unnar
+
+
+
+  (816, -1425)
+
+
+ Rathe Mountains
+
+ Darfumpel Zirubbel
+
+
+
+  (4093, 896)
+
+
+ Southern Desert of Ro
+
+ Rathmana Allin
+
+
+
+  (1210, 1402)
+
+
+ Steamfont Mountains
+
+ Torodrane Frompwaddle
+
+
+
+  (-1602, -1841)
+
+
+ Thurgadin
+
+ Meg Tucter
+
+
+
+  (-350, -54)
+
+  Related quests 
+ A Job for Nanrum
+ Crushbone Shoulderpads
+ Emerald Warriors' Items
+ Find Lucie Elron
+ Skeleton Killing
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Jewelcrafting
+ Silver Hematite Ring (Trivial: 22)
+ Electrum Hematite Choker (Trivial: 82)
+ Golden Hematite Choker (Trivial: 154)
+ Platinum Hematite Ring (Trivial: 226)
+
+
+ Spell Research
+ Apprentice Rune (Azia) (Trivial:41)
+
+
+
+
+

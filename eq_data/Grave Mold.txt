@@ -1,0 +1,40 @@
+ITEM NAME: Grave Mold
+
+
+Grave Mold
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+The Estate of Unrest
+
+ a carrion ghoul
+ a crazed ghoul
+ a ghoul
+ a greater skeleton
+ a lurking mummy
+ a skeletal monk
+ tormented dead
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Poison Making
+ Solvent Gangrene (Trivial: 40)
+ Leprous Pus (Trivial: 109? 129?)
+ Visceral Rot (Trivial: 183)
+
+
+
+
+

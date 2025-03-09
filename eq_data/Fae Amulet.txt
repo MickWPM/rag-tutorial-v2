@@ -1,0 +1,36 @@
+ITEM NAME: Fae Amulet
+
+Sky Era (added January 2000)
+
+
+Fae Amulet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: NECK
+Charges: 4
+AC: 5
+DEX: +4  STA: +4  HP: +50
+SV DISEASE: +10  SV POISON: +10
+Effect:  Healing (Must Equip, Casting Time: Instant) at Level 45
+WT: 0.1  Size: TINY
+Class: BRD
+Race: ALL
+
+
+notes       = Recharged by combining with Mana Battery - Class Two in Box of the Void. Is the Amulet of the Fae an upgraded version of this item? 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bard Test of Wind
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

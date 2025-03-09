@@ -1,0 +1,35 @@
+ITEM NAME: Golden Leaf Breastplate
+
+Velious Era (added December 2000-2001)
+
+
+Golden Leaf Breastplate
+
+
+MAGIC ITEM  NO DROP
+Slot: CHEST
+AC: 43
+STR: +10  DEX: +8  STA: +8  WIS: +10  AGI: +10  HP: +70  MANA: +30
+SV FIRE: +2  SV DISEASE: +5  SV COLD: +2  SV MAGIC: +10  SV POISON: +1
+Effect: Call of Earth (Any Slot/Can Equip, Casting Time: 10.0)
+WT: 8.0  Size: LARGE
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ranger Skyshrine Tunic
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,33 @@
+ITEM NAME: Skullhelm of Krenlek
+
+
+Skullhelm of Krenlek
+
+
+MAGIC ITEM  LORE ITEM
+Slot: HEAD
+AC: 6
+STR: +5  STA: +3
+WT: 3.0  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD
+Race: ALL except DWF HFL GNM IKS
+
+
+
+
+  Drops From 
+Frontier Mountains
+
+ Krenlek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

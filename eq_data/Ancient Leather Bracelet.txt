@@ -1,0 +1,35 @@
+ITEM NAME: Ancient Leather Bracelet
+
+Velious Era (added December 2000-2001)
+
+Ancient Leather Bracelet
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: WRIST
+WT: 1.5  Size: TINY
+Class: DRU MNK
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ a cerulean sky gazer
+ other West Wing mobs?
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Monk Kael Bracer
+ Druid Kael Bracer
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

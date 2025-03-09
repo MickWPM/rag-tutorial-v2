@@ -1,0 +1,94 @@
+ITEM NAME: Frost Giant Meat
+
+Velious Era (added December 2000-2001)
+
+Frost Giant Meat
+
+
+QUEST ITEM
+WT: 1.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 0 Golds
+ 1 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Eastern Wastes
+
+ a frost giant savage
+ a frost giant scout
+ a kromrif prison guard
+ Ghrek Squatnot
+
+Great Divide
+
+ a frost giant scout
+ a frost giant berserker
+ a frost giant elite
+ Bekerak Coldbones
+ Fergul Frostsky
+ Narandi the Wretched
+
+Iceclad Ocean
+
+ a frost giant elite
+ a frost giant scout
+
+Kael Drakkel
+
+ Adjutant Veldorin
+ an arena spectator
+ Guard Blaesek
+ Guard Fjleed
+ Guard Kkrean
+ Guard Nokjri
+ Guard Vydel
+ Senior Guard Eihorn
+ Senior Guard Grelden
+ Senior Guard Icemead
+ Senior Guard Redbones
+ Slaggak the Trainer
+ Watcher Zedlek
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+Baking
+
+Frost Giant Steak
+Frost Giant Steak
+
+
+This is a Banquet STR: +4   STA: +1 WT: 0.1   Size: SMALL Class: ALL Race: ALL
+
+
+
+
+ (Trivial: 142)
+Pickled Frost GiantPickled Frost Giant
+
+
+STR: +3  STA: +3
+This is a meal!
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ (Trivial: 86)
+
+
+
+

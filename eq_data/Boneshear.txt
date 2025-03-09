@@ -1,0 +1,37 @@
+ITEM NAME: Boneshear
+
+Chardok Revamp Era (added late 2001)
+
+Boneshear
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 20
+DMG: 9   AC: 5
+CHA: -10  INT: +10  MANA: +25
+SV DISEASE: +8
+Effect: Boneshear (Combat, Casting Time: Instant) at Level 44
+WT: 1.5  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Chardok
+
+ Foreman Ku`lul
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

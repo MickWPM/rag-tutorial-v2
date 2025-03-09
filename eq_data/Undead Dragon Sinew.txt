@@ -1,0 +1,35 @@
+ITEM NAME: Undead Dragon Sinew
+
+Chardok Revamp Era (added late 2001)
+
+Undead Dragon Sinew
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS ARMS WRIST
+AC: 4
+WT: 0.5  Size: MEDIUM
+Class: NEC ENC MAG WIZ RNG SHM DRU MNK ROG
+Race: ALL
+
+
+ Item Lore (from Identify): Very tough and leathery 
+
+  Drops From 
+Old Sebilis
+
+ sebilite juggernaut
+ Trakanon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit Wracked Cord Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

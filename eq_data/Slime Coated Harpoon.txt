@@ -1,0 +1,43 @@
+ITEM NAME: Slime Coated Harpoon
+
+Kunark Era (added 2000)
+
+Slime Coated Harpoon
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 25
+DMG: 10 
+WIS: +5  MANA: +10
+WT: 4.7  Size: MEDIUM
+Class: WAR ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ froglok bok knight
+ froglok bok shaman
+ froglok bok wizard
+ froglok dar knight
+ froglok dar wizard
+ froglok jin shaman
+ froglok jin wizard
+ froglok kor shaman
+ froglok zol knight
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

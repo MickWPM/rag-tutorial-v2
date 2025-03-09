@@ -1,0 +1,32 @@
+ITEM NAME: Cerulean Greaves
+
+Velious Era (added December 2000-2001)
+
+Cerulean Greaves
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 9
+DEX: +1  AGI: +1
+WT: 4.0  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: HUM ELF HEF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Slaggak's Bounty
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

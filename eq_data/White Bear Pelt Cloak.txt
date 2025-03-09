@@ -1,0 +1,76 @@
+ITEM NAME: White Bear Pelt Cloak
+
+Velious Era (added December 2000-2001)
+
+
+
+White Bear Pelt Cloak
+
+
+MAGIC ITEM  LORE ITEM
+Slot: BACK
+AC: 11
+STR: +5  WIS: +5  HP: +75  MANA: +50
+SV MAGIC: +3
+WT: 0.0  Size: TINY
+Class: PAL
+Race: ALL
+
+
+
+
+  Drops From 
+Kael Drakkel
+
+ Adjutant Cryyrn
+ Adjutant Daggeruk
+ Adjutant Jharll
+ Adjutant Khellendor
+ Adjutant Stormkeeper
+ Adjutant Strongaxe
+ Adjutant Thyek
+ Legionnaire Byltor
+ Legionnaire Evbarjor
+ Legionnaire Icebender
+ Legionnaire Renarn
+ Legionnaire Sjeldor
+ Legionnaire Tharll
+ Legionnaire Whiteaxe
+ Legionnaire Yervin
+ Legionnaire Yvedrn
+ Trooper Bargrik
+ Trooper Daelbrund
+ Trooper Derheim
+ Trooper Dlemdimor
+ Trooper Dragsk
+ Trooper Ebonblade
+ Trooper Gyarll
+ Trooper Jhonev
+ Trooper Khyren
+ Trooper Mjflean
+ Trooper Nyorll
+ Trooper Pejhayor
+ Trooper Relhjorn
+ Trooper Sardek
+ Trooper Skalden
+ Trooper Strengekkar
+ Trooper Syenn
+ Trooper Uthmytel
+ Veteran Icecaller
+ Veteran Kltrem
+ Veteran Mjrlind
+ Veteran Skeldek
+ Veteran Surlren
+ Veteran Yllhaydm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Gigantic Zweihander
+
+Classic Era (added 1999-2000)
+
+Gigantic Zweihander
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 39
+DMG: 18 
+WT: 10.0  Size: LARGE
+Class: WAR PAL RNG SHD
+Race: ALL
+
+
+ Item Lore (from Identify): A Gigantic Zweihander 
+
+  Drops From 
+Everfrost Peaks
+
+ Karg IceBear
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Rogue Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

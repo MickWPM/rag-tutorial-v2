@@ -1,0 +1,57 @@
+ITEM NAME: Bandit Sash
+
+Classic Era (added 1999-2000)
+
+Bandit Sash
+
+
+MAGIC ITEM  NO DROP  QUEST ITEM
+Slot: WAIST
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Karana Bandit Sash 
+
+  Drops From 
+Eastern Plains of Karana
+
+ a bandit
+ a highwayman
+
+Northern Plains of Karana
+
+ a raider
+
+Southern Plains of Karana
+
+ a raider
+
+Rathe Mountains
+
+ a bandit
+
+Lake Rathetear
+
+ a bandit
+
+Western Plains of Karana
+
+ a bandit
+ a brigand
+ a farmer (bandit farm)
+ Thrackin Griften
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Bandit Sashes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,70 @@
+ITEM NAME: Spell: Call of the Hero
+
+Kunark Era (added 2000)
+
+
+Spell: Call of the Hero
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Conjuration
+Mana Cost: 500
+Effect:  Call of the Hero
+WT: 0.1  Size: SMALL
+Class: MAG
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ Gullerback
+
+Chardok
+
+ a Reanimated Berserker
+ Captain Di`ouz
+ Overseer Dal`guur
+
+City of Mist
+
+ a black reaver
+ Neh`Ashiir
+
+Howling Stones
+
+ an undertaker skeleton
+
+Old Sebilis
+
+ frenzied pox scarab
+ froglok commander
+ froglok ilis shaman
+ myconid spore king
+ sebilite guardian
+
+Skyfire Mountains
+
+ a mature wurm
+ a shadow drake
+ a wandering wurm
+ a wurm spirit
+ an elder wyvern
+ Eldrig the Old
+ Faerie of Dismay
+ Felia Goldenwing
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

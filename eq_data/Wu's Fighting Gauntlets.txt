@@ -1,0 +1,41 @@
+ITEM NAME: Wu's Fighting Gauntlets
+
+Classic Era (added 1999-2000)
+
+Wu's Fighting Gauntlets
+
+
+MAGIC ITEM  QUEST ITEM
+Slot: HANDS
+AC: 4
+WT: 0.1  Size: SMALL
+Class: MNK
+Race: HUM BAR TRL OGR IKS
+
+
+The original piece of the Wu's Fighting Armor Set, added in September 1999.  Acts as a Greater Lightstone light source when worn or when carried in a top inventory slot. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 88)
+ Yield: Wu's Fighting Gauntlets x1
+ In Sewing Kit:
+
+
+  1 x Glove Pattern - Bought
+  1 x Greater Lightstone - Dropped
+  4 x Heady Kiola - Crafted
+  1 x Silk Swatch - Crafted
+  1 x Vial of Viscous Mana - Crafted, Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,35 @@
+ITEM NAME: Stein of Moggok
+
+Classic Era (added 1999-2000)
+ NERF ALERT (see notes)
+
+Stein of Moggok
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Charges: 3
+DEX: +5  INT: +10  HP: +10
+SV DISEASE: +25
+Effect:  Light Healing (Any Slot, Casting Time: Instant)
+WT: 2.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+This item acts as a light source. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Exotic Drinks
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

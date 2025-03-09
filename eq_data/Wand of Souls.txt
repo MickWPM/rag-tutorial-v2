@@ -1,0 +1,35 @@
+ITEM NAME: Wand of Souls
+
+Classic Era (added 1999-2000)
+
+Wand of Souls
+
+
+LORE ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 3
+Effect: Drain Soul (Any Slot/Can Equip, Casting Time: Instant) at Level 45
+WT: 1.0  Size: SMALL
+Class: NEC
+Race: ALL except BAR TRL OGR
+
+
+See Guide to Recharging Items [1] for more information on the usefulness of wands. 
+
+  Drops From 
+Plane of Hate
+
+ Ashenbone Broodmaster
+ Corrupter of Life
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

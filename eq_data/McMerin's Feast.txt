@@ -1,0 +1,33 @@
+ITEM NAME: McMerin's Feast
+
+Kunark Era (added 2000)
+
+McMerin's Feast
+
+
+MAGIC ITEM
+Level Needed: SHM(39)
+Skill: Alteration
+Mana Cost: 0
+Effect:  Cannibalize II
+WT: 0.1  Size: SMALL
+Race: NONE
+
+
+Teaches the spell Cannibalize II when scribed. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Cannibalize II (Evil)
+ Cannibalize II (Good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

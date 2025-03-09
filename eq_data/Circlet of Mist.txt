@@ -1,0 +1,33 @@
+ITEM NAME: Circlet of Mist
+
+Temple Era (added October 1999)
+
+
+Circlet of Mist
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: HEAD
+AC: 5
+WIS: +3  INT: +3  AGI: +3
+WT: 0.1  Size: SMALL
+Class: MAG
+Race: HUM ERU HIE DEF GNM
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Circlet of Mist Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

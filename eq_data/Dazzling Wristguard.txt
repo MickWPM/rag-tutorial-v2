@@ -1,0 +1,35 @@
+ITEM NAME: Dazzling Wristguard
+
+Velious Era (added December 2000-2001)
+
+
+Dazzling Wristguard
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 6
+CHA: +2  INT: +2  AGI: +5  MANA: +20
+SV FIRE: +3  SV DISEASE: +4  SV COLD: +3  SV MAGIC: +1  SV POISON: +3
+Effect:  Reclaim Energy (Must Equip, Casting Time: 1.0) at Level 50
+WT: 0.2  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Kael Wristband
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

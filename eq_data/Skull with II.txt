@@ -1,0 +1,39 @@
+ITEM NAME: Skull with II
+
+Kunark Era (added 2000)
+
+
+Skull with II
+
+
+LORE ITEM
+WT: 1.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Skull Quest No. 2
+
+  Player crafted 
+ Pottery (Trivial: 31)
+ Yield: Skull with II x1
+ In Pottery Wheel:
+
+
+  1 x Jawless Skull - Dropped
+  1 x A Mandible - Dropped
+  1 x Mendglow Clay - Foraged 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

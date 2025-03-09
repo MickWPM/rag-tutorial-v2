@@ -1,0 +1,31 @@
+ITEM NAME: Bloodforge Bracers
+
+Classic Era (added 1999-2000)
+
+Bloodforge Bracers
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 5
+WT: 3.5  Size: SMALL
+Class: WAR CLR PAL
+Race: DWF
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Ogre Heads
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Pale Green Small Fine Breastplate
+
+
+Pale Green Small Fine Breastplate
+
+
+Slot: CHEST
+AC: 19
+WT: 7.5  Size: LARGE
+Class: WAR CLR PAL SHD BRD
+Race: ELF HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: ?)
+ Yield: Pale Green Small Fine Breastplate x1
+ In Forge:
+
+
+  1 x Small Fine Steel Breastplate - Crafted, Returned on Failure
+  1 x Light Green Dye - Crafted
+  1 x Jar of Acid - Bought
+  1 x Jar of Lacquer - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

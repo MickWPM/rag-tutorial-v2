@@ -1,0 +1,36 @@
+ITEM NAME: Mummy Wrappings
+
+Velious Era (added December 2000-2001)
+
+
+Mummy Wrappings
+
+
+MAGIC ITEM
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+These can be used like Bandages. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a crystallized shadow guard
+ a golem usher
+ a skeleton sleeper
+ An Ancient Mummy
+ a shadow (TOFS)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

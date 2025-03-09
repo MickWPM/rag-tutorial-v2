@@ -1,0 +1,36 @@
+ITEM NAME: Spirit Reaver
+
+Stonebrunt Era (added summer 2001)
+
+ Silly Ogre trying to hide behind his Spirit Reaver
+Spirit Reaver
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 13 
+Effect: Lifespike (Combat, Casting Time: Instant) at Level 20
+WT: 0.4  Size: MEDIUM
+Class: SHD
+Race: HUM ERU DEF TRL OGR GNM IKS
+
+
+ Item Lore (from Identify):  'Spirit Reaver'  
+
+  Drops From 
+Stonebrunt Mountains
+
+ Jelquar the Soulslayer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

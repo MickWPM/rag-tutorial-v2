@@ -1,0 +1,30 @@
+ITEM NAME: Note to Kanthuk
+
+Warrens Era (added spring 2001)
+
+
+Note to Kanthuk
+
+
+LORE ITEM NO TRADE
+WT: 0.0 Size: TINY 
+Class: None 
+Race: None 
+
+
+Given by Ryshon Hunsti in Western Karana. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Sword of Nobility (Western Karana)  
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,95 @@
+ITEM NAME: Velium Short Sword
+
+Velious Era (added December 2000-2001)
+
+
+
+Velium Short Sword
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 23
+DMG: 4 
+Effect:  Velium Shards (Combat, Casting Time: Instant) at Level 25
+WT: 3.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 5pp+ to vendor. 
+
+  Drops From 
+Dragon Necropolis
+
+ a Chetari dominator
+ a Chetari guard
+ a Chetari hoarder
+ a Chetari hunter
+ a Chetari servant
+ a Chetari Warrior
+ a Chetari worker
+ a Paebala Rebel
+ a Paebala Spirit Talker
+ a Paebala warrior
+
+Eastern Wastes
+
+ a blacksmith of Ry`Gorr
+ a frost giant
+ a frost giant savage
+ a frost giant scout
+ a kromrif prison guard
+ a Ry`Gorr prison guard
+ a Ry`Gorr snow trooper
+
+Great Divide
+
+ a frost giant scout
+ a furious tizmak warrior
+ a tizmak champion
+ a tizmak warrior
+ Fomgrut Borkel
+
+Iceclad Ocean
+
+ a frost giant elite
+ a frost giant scout
+
+Icewell Keep
+
+ a coldain skeleton
+
+Skyshrine
+
+ A Foyer Guardian
+ A Golem Adjudicator
+
+The Wakening Land
+
+ Troll Mercenary
+
+Tower of Frozen Shadow
+
+ a blood familiar
+ a large undead gnoll
+ an armored shadow
+ an undead bridesmaid
+
+Velketor's Labyrinth
+
+ An Icepaw Champion
+ an Icepaw prophet
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,67 @@
+ITEM NAME: Zeriphra's Dagger of Blood
+
+Velious Era (added December 2000-2001)
+
+
+Zeriphra's Dagger of Blood
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 17
+DMG: 11
+STR: +15  DEX: +10  HP: +70
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Feast of Blood (Combat)
+WT: 1.0  Size: TINY
+Class: ROG
+Race: ALL
+
+
+Interim Rogue Dagger Drop from Vulak`Aerr.  It replaces Mrylokar's Dagger of BloodMrylokar's Dagger of Blood
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 16
+DMG: 12   AC: 10
+STR: +15  DEX: +10  HP: +70
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Feast of Blood (Combat)
+WT: 1.0  Size: TINY
+Class: ROG
+Race: ALL
+
+
+ and then is replaced by Mrylokar`s Dagger of VengeanceMrylokar`s Dagger of Vengeance
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+Skill: Piercing  Atk Delay: 19
+DMG: 15   AC: 15
+STR: +15  DEX: +10  STA: +5  AGI: +10  HP: +100
+SV FIRE: +10  SV DISEASE: +10  SV COLD: +10  SV MAGIC: +10  SV POISON: +10
+Effect: Feast of Blood (Combat, Casting Time: Instant)
+WT: 1.0  Size: TINY
+Class: ROG
+Race: ALL
+
+
+. 
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

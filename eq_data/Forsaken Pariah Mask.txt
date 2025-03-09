@@ -1,0 +1,44 @@
+ITEM NAME: Forsaken Pariah Mask
+
+Kunark Era (added 2000)
+
+Forsaken Pariah Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 5
+CHA: -25
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Warsliks Woods
+
+ Iksar Bandit Lord
+ Iksar pariah
+
+Swamp of No Hope
+
+ Iksar Pariah
+
+Lake of Ill Omen
+
+ Iksar Pariah
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer 5th Rank
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

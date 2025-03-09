@@ -1,0 +1,67 @@
+ITEM NAME: Neriak Nectar
+
+
+
+Neriak Nectar
+
+
+This is a drink!
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Neriak Third Gate
+
+ Belyea K`Jartan
+
+
+
+  (864, -1424)
+
+
+ Neriak Third Gate
+
+ Cecile K`Jartan
+
+
+
+  (910, -1413)
+
+5sp 3cp 
+
+  Related quests 
+ Fire Beetle Eyes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Blacksmithing
+ Block of Adamantite (Trivial: 29)
+ Large Brick of Adamantite (Trivial: 29)
+ Sheet of Adamantite (Trivial: ??)
+ Folded Sheet of Adamantite (Trivial: ??)
+ Adamantite Rings (Trivial: ??)
+ Adamantite Chain Jointing (Trivial: ??)
+
+
+
+
+ Brewing
+
+
+
+

@@ -1,0 +1,37 @@
+ITEM NAME: Pauldrons of the Deep Flame
+
+Velious Era (added December 2000-2001)
+Pauldrons of the Deep Flame
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 35
+STA: +15  HP: +100
+SV FIRE: +20  SV DISEASE: +20  SV COLD: +20  SV MAGIC: +20  SV POISON: +20
+WT: 0.5  Size: TINY
+Class: WAR PAL RNG SHD MNK BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Test of Protection
+ Ruby Tear (from Dozekar the Cursed)
+ Emerald Tear (from Dozekar the Cursed)
+ Emerald Symbol (from Grozzmel or Midayor)
+ Platinum Symbol (from Essedera)  
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

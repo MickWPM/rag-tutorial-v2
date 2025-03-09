@@ -1,0 +1,32 @@
+ITEM NAME: Brutechopper
+
+
+Brutechopper
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 2H Slashing  Atk Delay: 50
+DMG: 16 
+WT: 11.0  Size: GIANT
+Class: WAR PAL SHD ROG
+Race: BAR DWF TRL OGR
+
+
+
+ Merchant resale value: 80pp. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Lynuga's Gem Collection
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,38 @@
+ITEM NAME: Tigeraptor Boots
+
+Velious Era (added December 2000-2001)
+
+
+
+Tigeraptor Boots
+
+
+MAGIC ITEM Slot: FEET AC: 8 STR: +5  DEX: +8  WIS: +6  AGI: +8 WT: 2.5  Size: SMALL
+Class: RNG Race: HUM ELF HEF HFL
+
+
+Part of the Tigeraptor Armor set. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Tailoring (Trivial: 335)
+ Yield: Tigeraptor Boots x1
+ In Coldain Tanners Kit:
+
+
+  1 x Boot Pattern - Bought
+  1 x Drake Egg Oil - Crafted
+  1 x Tigeraptor Hide - Dropped
+  4 x Velium Studs - Crafted 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

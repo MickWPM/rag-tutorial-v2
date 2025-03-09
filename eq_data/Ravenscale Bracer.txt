@@ -1,0 +1,34 @@
+ITEM NAME: Ravenscale Bracer
+
+
+Ravenscale Bracer
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 9
+AGI: +3
+SV POISON: +3
+WT: 2.3  Size: MEDIUM
+Class: ROG
+Race: ALL except ERU HIE TRL OGR IKS
+
+
+Part of the Ravenscale Armor Set. 
+
+  Drops From 
+Cazic Thule
+
+ Tae Ew Diviner
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

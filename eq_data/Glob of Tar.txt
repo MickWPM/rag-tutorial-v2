@@ -1,0 +1,36 @@
+ITEM NAME: Glob of Tar
+
+Velious Era (added December 2000-2001)
+
+
+
+Glob of Tar
+
+
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 3p 9g 5s 2c Max 
+
+  Drops From 
+The Wakening Land
+
+ a tar goo
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tinkering
+ Clockwork Watchman Bracer (Trivial: 207)
+
+
+
+
+

@@ -1,0 +1,29 @@
+ITEM NAME: Blackbox XIIC
+
+Classic Era (added 1999-2000)
+Blackbox XIIC
+
+
+LORE ITEM  NO DROP
+WT: 5.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Series C Black Boxes
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+Description: There are several versions of this no drop quest item that come from slightly differently named Clockworks XIIC, XVIIC, XXVIIC and XXVIIC
+
+

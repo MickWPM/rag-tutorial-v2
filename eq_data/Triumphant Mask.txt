@@ -1,0 +1,36 @@
+ITEM NAME: Triumphant Mask
+
+Velious Era (added December 2000-2001)
+
+
+Triumphant Mask
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 10
+STR: +7  CHA: +7  WIS: +7  AGI: +7
+SV MAGIC: +20
+WT: 0.5  Size: SMALL
+Class: WAR PAL RNG DRU BRD ROG
+Race: HEF
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk (God)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

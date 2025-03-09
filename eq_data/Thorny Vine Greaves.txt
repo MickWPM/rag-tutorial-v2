@@ -1,0 +1,36 @@
+ITEM NAME: Thorny Vine Greaves
+
+
+
+Thorny Vine Greaves
+
+
+MAGIC ITEM  NO DROP
+Slot: LEGS
+AC: 14
+WIS: +5  AGI: +9  MANA: +15
+SV DISEASE: +7
+WT: 5.6  Size: LARGE
+Class: RNG
+Race: HUM ELF HEF HFL
+
+
+Part of the Thorny Vine Armor set. 
+
+  Drops From 
+Plane of Fear
+
+ a tentacle tormentor
+ phoboplasm
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

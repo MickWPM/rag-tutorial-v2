@@ -1,0 +1,33 @@
+ITEM NAME: Chalice of Kings
+
+Kunark Era (added 2000)
+
+
+Chalice of Kings
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+CHA: +5  INT: +5
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 1.0  Size: SMALL
+Class: ENC
+Race: HUM ERU HIE DEF GNM
+
+
+Received from Joren Nobleheart in return for the head of the Chardok prince. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Enchanter Epic Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

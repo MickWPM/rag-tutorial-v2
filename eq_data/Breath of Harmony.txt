@@ -1,0 +1,34 @@
+ITEM NAME: Breath of Harmony
+
+
+Breath of Harmony
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 18
+DMG: 10 
+Effect:  Niv's Melody of Preservation (Must Equip, Casting Time: Instant) at Level 50
+WT: 0.8  Size: MEDIUM
+Class: BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Old Sebilis
+
+ blood of chottal
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

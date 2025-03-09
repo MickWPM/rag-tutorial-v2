@@ -1,0 +1,37 @@
+ITEM NAME: Ayill's Aged Stone Shield
+
+Velious Era (added December 2000-2001)
+
+
+Ayill's Aged Stone Shield
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: SECONDARY
+AC: 32
+STR: +5  DEX: -5  STA: +25  CHA: +10
+SV FIRE: +15  SV COLD: +15  SV MAGIC: +15
+Effect: See Invisible (Worn)
+WT: 5.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Lord Yelinak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

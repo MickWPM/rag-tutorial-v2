@@ -1,0 +1,99 @@
+ITEM NAME: Rat Whiskers
+
+
+
+Rat Whiskers
+
+
+QUEST ITEM
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Kerra Ridge
+
+ wharf rat
+ fang tooth
+
+Mistmoore Castle
+
+ a Mistmoore guard
+
+Dagnor's Cauldron
+
+ a cauldron rat
+ a scalded rat
+
+Misty Thicket
+
+ a giant thicket rat
+ a large thicket rat
+
+North Kaladim
+
+ Infected Rat
+
+Northern Desert of Ro
+
+ a large rat
+
+Qeynos Aqueducts
+
+ Cuburt
+
+Qeynos Hills
+
+ Scruffy
+
+Steamfont Mountains
+
+ a female rat
+ a giant diseased rat
+ a large plague rat
+ a large rat
+ a young plague rat
+ an infected rat
+ diseased female rat
+ Meldrath The Malignant
+
+Thurgadin
+
+ a scuttle rat
+
+West Freeport
+
+ a large rat
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ Kithicor Forest
+
+ Jeena Firechaser
+
+
+
+  (-216, 3813)
+
+
+
+  Related quests 
+ Unsar's Glory
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Ethereal Mist Bracers
+
+
+
+Ethereal Mist Bracers
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 9
+DEX: +9  CHA: +9  MANA: +20
+WT: 3.0  Size: SMALL
+Class: CLR
+Race: HUM ERU HIE DEF DWF HFL GNM
+
+
+
+
+  Drops From 
+Plane of Hate
+
+ Cleric of Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

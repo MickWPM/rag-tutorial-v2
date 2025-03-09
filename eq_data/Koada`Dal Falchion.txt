@@ -1,0 +1,41 @@
+ITEM NAME: Koada`Dal Falchion
+
+
+
+Koada`Dal Falchion
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 24
+DMG: 7 
+WT: 5.0  Size: MEDIUM
+Class: WAR PAL RNG SHD DRU BRD ROG
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 104)
+ Yield: Koada`Dal Falchion x1
+ In Koada`Dal Forge:
+
+
+  1 x Curved Blade Mold - Bought
+  1 x Folded Sheet of Mithril - Crafted
+  1 x Hilt Mold - Bought
+  1 x Morning Dew - Foraged, Dropped, Ground Spawn
+  1 x Pommel Mold - Bought 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

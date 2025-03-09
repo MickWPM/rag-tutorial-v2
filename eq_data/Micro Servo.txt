@@ -1,0 +1,33 @@
+ITEM NAME: Micro Servo
+
+
+
+Micro Servo
+
+
+NO DROP
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Steamfont Mountains
+
+ rogue clockwork
+ runaway clockwork
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trueshot Longbow Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

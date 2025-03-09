@@ -1,0 +1,77 @@
+ITEM NAME: Rune of The Inverse
+
+
+Rune of the Inverse
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players. 
+ Merchant resale value: 1p 4g 9s 4c 
+
+  Drops From 
+Burning Woods
+
+ a sarnak zealot
+ a tatterback ape
+
+City of Mist
+
+ a phantom
+ a wraith
+
+Great Divide
+
+ Vluudeen
+
+Howling Stones
+
+ greater war boned skeleton
+
+Karnor's Castle
+
+ a drolvarg guardian
+ a drolvarg sentry
+ spectral protector
+
+Lesser Faydark
+
+ a brownie guard
+
+Nagafen's Lair
+
+ imp protector
+
+Old Sebilis
+
+ froglok jin wizard
+
+Permafrost
+
+ an ice giant
+
+Timorous Deep
+
+ a Raptor
+
+Trakanon's Teeth
+
+ Throkkok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Gravity Flux (Trivial: 162) (Research Only)
+
+
+
+
+

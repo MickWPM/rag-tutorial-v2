@@ -1,0 +1,34 @@
+ITEM NAME: Cougar Claw Earring
+
+Velious Era (added December 2000-2001)
+
+Cougar Claw Earring
+
+
+MAGIC ITEM
+Slot: EAR
+AC: 4
+STR: +3  DEX: +2
+WT: 0.5  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Iceclad Ocean
+
+ a snow cougar
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

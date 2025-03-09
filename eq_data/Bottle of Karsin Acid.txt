@@ -1,0 +1,43 @@
+ITEM NAME: Bottle of Karsin Acid
+
+Velious Era (added December 2000-2001)
+
+
+Bottle of Karsin Acid
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Crystal Caverns
+
+ a Ry`Gorr herbalist
+ a Ry`Gorr inspector
+ a Ry`Gorr miner
+ a Ry`Gorr watchman
+ a Ry`Gorr oracle
+ a Geonid
+
+Eastern Wastes
+
+ a Ry`Gorr Avenger
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Military Wristguard Quest
+ Crystal Caverns' Ancient Artifacts
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

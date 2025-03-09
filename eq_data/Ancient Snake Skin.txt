@@ -1,0 +1,33 @@
+ITEM NAME: Ancient Snake Skin
+
+Chardok Revamp Era (added late 2001)
+
+
+Ancient Snake Skin
+
+
+MAGIC ITEM  NO DROP
+WT: 2.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Stonebrunt Mountains
+
+ Slyder the Ancient
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Titan Samples (good)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

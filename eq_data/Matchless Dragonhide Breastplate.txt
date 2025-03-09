@@ -1,0 +1,37 @@
+ITEM NAME: Matchless Dragonhide Breastplate
+
+Velious Era (added December 2000-2001)
+
+ 
+Matchless Dragonhide Breastplate
+
+
+MAGIC ITEM  LORE ITEM
+Slot: CHEST
+AC: 35
+STR: +7  DEX: +7  STA: +7  CHA: +7  WIS: +7  INT: +7  AGI: +7  HP: +90  MANA: +90
+SV FIRE: +7  SV DISEASE: +7  SV COLD: +7  SV MAGIC: +7  SV POISON: +7
+WT: 5.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Klandicar
+ Sontalak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Letter to Duriek
+
+Kunark Era (added 2000)
+
+
+Letter to Duriek
+
+
+LORE ITEM  NO DROP  QUEST ITEM
+WT: 0.0  Size: TINY
+
+
+
+
+  Drops From 
+The Overthere
+
+ Kurron Ni
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Epic Quest 
+
+  Book contents 
+Unknown.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

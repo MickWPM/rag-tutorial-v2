@@ -1,0 +1,36 @@
+ITEM NAME: Shattered Crusader Khukri
+
+Kunark Era (added 2000)
+
+Shattered Crusader Khukri
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 27
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+There are two different versions, both drop from the Kly Overseer.
+One identifies as "Property of Golin" (WT 5.0) and the other has no item lore (WT 4.0). The "Property of Golin" is not the correct item for the quest. 
+
+  Drops From 
+Crypt of Dalnir
+
+ the Kly Overseer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Spirit of Golin
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

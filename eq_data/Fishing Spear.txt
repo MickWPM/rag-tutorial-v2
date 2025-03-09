@@ -1,0 +1,57 @@
+ITEM NAME: Fishing Spear
+
+Classic Era (added 1999-2000)
+Fishing Spear
+
+
+Slot: PRIMARY
+Skill: Piercing  Atk Delay: 32
+DMG: 5 
+WT: 5.0  Size: MEDIUM
+Class: WAR RNG SHD BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Western Plains of Karana
+
+ Junth McMannus
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ Klok Foxmyr
+
+
+
+  (123, -201)
+
+
+ Kerra Island
+
+ Roary Fishpouncer
+
+
+
+  (632, -681)
+
+  Related quests 
+ Pirate Earrings
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

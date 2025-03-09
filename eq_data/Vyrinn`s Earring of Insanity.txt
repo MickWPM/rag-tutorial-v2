@@ -1,0 +1,36 @@
+ITEM NAME: Vyrinn`s Earring of Insanity
+
+Velious Era (added December 2000-2001)
+
+
+Vyrinn`s Earring of Insanity
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: EAR
+AC: 25
+STR: +15  STA: +12  HP: +50
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Earring of the Chosen 
+
+  Drops From 
+Temple of Veeshan
+
+ Vulak`Aerr
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

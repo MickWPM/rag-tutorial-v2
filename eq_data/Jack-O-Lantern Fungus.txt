@@ -1,0 +1,47 @@
+ITEM NAME: Jack-O-Lantern Fungus
+
+
+Jack-O-Lantern Fungus
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Used to make "yellow" color dyes for Fine Plate Armor.
+Ground spawn in the Lesser Faydark faerie, pixie, and brownie camps (need locs) (1156, 3614), (1116, 3629). It seems that when you pick it up, it respawns at one of the other spawn locs, meaning you would need all of them to properly farm it.
+Also a group spawn in Unrest around the Gazebo area. 
+
+  Drops From 
+The Estate of Unrest
+
+ a jack o lantern
+
+Plane of Fear
+
+ a samhain
+
+Western Plains of Karana
+
+ a scarecrow
+ an animated scarecrow
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+ 
+
+  Foraged 
+This item can be foraged:
+
+ The Estate of Unrest
+ Plane of Fear
+ Western Plains of Karana
+
+

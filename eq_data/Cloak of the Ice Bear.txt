@@ -1,0 +1,36 @@
+ITEM NAME: Cloak of the Ice Bear
+
+
+Cloak of the Ice Bear
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 8
+HP: +10
+SV COLD: +20
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: ~49pp 
+
+  Drops From 
+Everfrost Peaks
+
+ Karg IceBear
+ Martar Icebear
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

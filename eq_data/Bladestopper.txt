@@ -1,0 +1,37 @@
+ITEM NAME: Bladestopper
+
+
+Bladestopper
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: SECONDARY
+Charges: 10
+AC: 25
+STA: +15  HP: +50
+Effect:  Rune IV (Any Slot, Casting Time: Instant)
+WT: 7.3  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }} 
+
+This charged source of Rune is valuable for increasing hate on all NPCs, Hate reduced to 262 per charge, for which the player is already aggroed. The effect is also used to buffer damage spikes by tanks as well. Costs over 20k to recharge now. 
+
+  Drops From 
+Nagafen's Lair
+
+ Lord Nagafen
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Tome of Miragul
+
+Hole Era (added June 2000)
+
+
+
+Tome of Miragul
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: PRIMARY SECONDARY
+STR: -5  DEX: -5  STA: -5  CHA: -25  WIS: +6  INT: +6  HP: +50  MANA: +50
+SV DISEASE: -10
+WT: 4.0  Size: SMALL
+Class: NEC MAG ENC
+Race: ALL except IKS
+
+
+ Item Lore (from Identify): Tome of Miragul 
+
+  Drops From 
+The Hole
+
+ Dartain the Lost
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

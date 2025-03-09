@@ -1,0 +1,32 @@
+ITEM NAME: Kilt of the Northmen
+
+GM Event item (info)
+
+
+Kilt of the Northmen
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: LEGS
+AC: 1
+Effect:  Illusion: Barbarian (Any Slot, Casting Time: Instant)
+WT: 0.0  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+Dropped at a GM Event (undead invasion of Qeynos Hills) only. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

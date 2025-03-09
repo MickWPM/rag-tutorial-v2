@@ -1,0 +1,36 @@
+ITEM NAME: Runed Morning Star
+
+Kunark Era (added 2000)
+
+Runed Morning Star
+
+
+MAGIC ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 26
+DMG: 12 
+STR: +7  STA: +3  CHA: +4  WIS: +6  AGI: +8
+SV MAGIC: +6
+WT: 3.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Howling Stones
+
+ Drusella Sathir
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

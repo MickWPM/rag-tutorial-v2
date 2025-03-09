@@ -1,0 +1,36 @@
+ITEM NAME: Greenmist Bracer
+
+Warrens Era (added spring 2001)
+
+
+Greenmist Bracer
+
+
+MAGIC ITEM  NO DROP
+Slot: WRIST
+AC: 10
+STR: +5  DEX: +5  MANA: +20
+SV FIRE: +5  SV COLD: +5
+WT: 1.8  Size: SMALL
+Class: SHD
+Race: IKS
+
+
+Part of the Greenmist Armor set. 
+
+  Drops From 
+Plane of Fear
+
+ a nightmare
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

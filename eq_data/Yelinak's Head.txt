@@ -1,0 +1,33 @@
+ITEM NAME: Yelinak's Head
+
+Velious Era (added December 2000-2001)
+
+
+Yelinak's Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 25.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Skyshrine
+
+ Lord Yelinak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Yelinak's Head Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

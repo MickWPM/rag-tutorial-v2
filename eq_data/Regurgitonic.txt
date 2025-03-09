@@ -1,0 +1,36 @@
+ITEM NAME: Regurgitonic
+
+Classic Era (added 1999-2000)
+
+
+Regurgitonic
+
+
+LORE ITEM  NO DROP
+WT: 0.4  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): Regurgitonic
+ Item Lore (from Identify): Bad Regurgitonic
+There can be "bad" version given as the quest reward.[1] This version will not work when given to Frostbite for his part of the quest. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ The Regurgitonic
+ Frostbite's Fish
+ Exotic Drinks
+ The Bayle List
+ Bonethunder Staff Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

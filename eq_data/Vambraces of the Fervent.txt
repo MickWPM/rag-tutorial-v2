@@ -1,0 +1,33 @@
+ITEM NAME: Vambraces of the Fervent
+
+Temple Era (added October 1999)
+
+Vambraces of the Fervent
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 11
+DEX: +5
+SV FIRE: +5
+WT: 4.9  Size: SMALL
+Class: CLR
+Race: ALL except BAR ELF TRL OGR IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Armor of the Priest Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

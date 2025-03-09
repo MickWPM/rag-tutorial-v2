@@ -1,0 +1,33 @@
+ITEM NAME: Warclub
+
+Classic Era (added 1999-2000)
+
+Warclub
+
+
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 32
+DMG: 6 
+WT: 5.0  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD DRU MNK BRD ROG SHM
+Race: ALL
+
+
+
+
+  Drops From 
+Neriak Third Gate
+
+ Ratraz
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

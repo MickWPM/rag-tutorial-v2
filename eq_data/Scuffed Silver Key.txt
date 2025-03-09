@@ -1,0 +1,32 @@
+ITEM NAME: Scuffed Silver Key
+
+
+
+Scuffed Silver Key
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+See the Key Compendium. No actual use, there are no locked doors in Estate of Unrest. 
+ Merchant resale value: 1c 
+
+  Drops From 
+The Estate of Unrest
+
+ an undead barkeep
+ a festering hag
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

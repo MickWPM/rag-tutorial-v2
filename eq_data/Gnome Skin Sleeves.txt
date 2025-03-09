@@ -1,0 +1,42 @@
+ITEM NAME: Gnome Skin Sleeves
+
+Velious Era (added December 2000-2001)
+
+Gnome Skin Sleeves
+
+
+MAGIC ITEM
+Slot: ARMS
+AC: 5
+STR: +3
+SV POISON: +5
+WT: 1.0  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC
+Race: ALL except DWF HFL GNM
+
+
+Part of the Gnome Skin Armor set. 
+
+  Drops From 
+Tower of Frozen Shadow
+
+ a blood familiar
+ a crystallized shadow guard
+ a golem usher
+ a shrouded bat
+ an armored shadow
+ an enraged relative
+ Tihgren
+ a shadow beast guard
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

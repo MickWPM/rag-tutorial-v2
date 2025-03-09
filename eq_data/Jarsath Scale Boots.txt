@@ -1,0 +1,36 @@
+ITEM NAME: Jarsath Scale Boots
+
+Kunark Era (added 2000)
+
+
+Jarsath Scale Boots
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 10
+STA: +5  AGI: +5
+WT: 0.8  Size: SMALL
+Class: WAR CLR PAL SHD SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+
+  Drops From 
+Karnor's Castle
+
+ Spectral Turnkey
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Nalla's Problem
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

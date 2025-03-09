@@ -1,0 +1,31 @@
+ITEM NAME: Froglok Goo
+
+
+
+Froglok Goo
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 1.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Trooper Scale Pauldron
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+Obtained by giving Grayish Liquid to a froglok slave in east cab.
+
+

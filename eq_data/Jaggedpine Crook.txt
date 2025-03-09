@@ -1,0 +1,33 @@
+ITEM NAME: Jaggedpine Crook
+
+
+Jaggedpine Crook
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY
+Skill: 1H Blunt  Atk Delay: 31
+DMG: 5 
+STR: +1  HP: +5
+SV FIRE: +5
+WT: 8.5  Size: LARGE
+Class: RNG DRU
+Race: HUM ELF HEF HFL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Jagged Pine Crook Staff
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

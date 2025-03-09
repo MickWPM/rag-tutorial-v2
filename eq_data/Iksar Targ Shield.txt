@@ -1,0 +1,75 @@
+ITEM NAME: Iksar Targ Shield
+
+
+Iksar Targ Shield
+
+
+Slot: SECONDARY
+AC: 7
+WT: 7.5  Size: MEDIUM
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+
+ Merchant resale value: 1pp 4gp to vendor. 
+
+  Drops From 
+East Cabilis
+
+ Crusader Cotat
+ Crusader Daehod
+ Crusader Golia
+ Crusader Hitol
+ Crusader Olos
+ Crusader Reidak
+ Crusader Wonku
+ Crusader Zixo
+
+Field of Bone
+
+ a decaying skeleton
+ a skeleton
+ an Iksar footpad
+ an iksar marauder
+ Crusader Bodli
+ Crusader Quarg
+
+Kurn's Tower
+
+ greater scalebone
+ scalebone skeleton
+
+Lake of Ill Omen
+
+ Crusader Deezin
+ Crusader Swype
+ greater scalebone
+
+Swamp of No Hope
+
+ Crusader Litia
+ Crusader Savot
+
+Warsliks Woods
+
+ Crusader Eaxl
+ Crusader Myxl
+
+West Cabilis
+
+ Crusader Axmo
+ Crusader Ezrogz
+ Crusader Mocdi
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

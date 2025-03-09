@@ -1,0 +1,36 @@
+ITEM NAME: Damaged Catman Skin
+
+
+
+Damaged Catman Skin
+
+
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Erud's Crossing
+
+ Hojo
+ Jarra
+ Kala
+ Milla
+ Monala
+ Nifta
+ Nomala
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

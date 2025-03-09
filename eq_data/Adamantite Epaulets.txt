@@ -1,0 +1,33 @@
+ITEM NAME: Adamantite Epaulets
+
+
+Adamantite Epaulets
+
+
+MAGIC ITEM
+Slot: SHOULDERS
+AC: 9
+WIS: +7
+WT: 4.5  Size: SMALL
+Class: WAR CLR PAL SHD BRD
+Race: ALL
+
+
+Vendors for ~197p, putting a floor on the price of this item. 
+
+  Drops From 
+Lower Guk
+
+ a ghoul cavalier
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Star of the Guardian
+
+Hole Era (added June 2000)
+
+
+Star of the Guardian
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: PRIMARY SECONDARY
+Skill: 1H Blunt  Atk Delay: 24
+DMG: 14 
+Effect:  Guard (Combat, Casting Time: Instant) at Level 50
+WT: 2.2  Size: MEDIUM
+Class: WAR PAL BRD
+Race: ALL
+
+
+
+
+  Drops From 
+Veeshan's Peak
+
+ Nexona
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

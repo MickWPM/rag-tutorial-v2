@@ -1,0 +1,36 @@
+ITEM NAME: Leatherfoot Sandals
+
+Warrens Era (added spring 2001)
+
+
+Leatherfoot Sandals
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FEET
+AC: 11
+STR: +10  WIS: +10  AGI: +10  MANA: +30
+SV MAGIC: +20
+WT: 0.5  Size: SMALL
+Class: WAR CLR PAL RNG DRU ROG
+Race: HFL
+
+
+ Item Lore (from Identify): Sandals of a deputy! 
+
+  Drops From 
+Plane of Hate
+
+ Innoruuk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

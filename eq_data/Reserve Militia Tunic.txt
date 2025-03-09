@@ -1,0 +1,33 @@
+ITEM NAME: Reserve Militia Tunic
+
+Classic Era (added 1999-2000)
+
+
+Reserve Militia Tunic
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: CHEST
+AC: 9
+DEX: +3
+WT: 5.0  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ALL
+
+
+It's a red chestpiece. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Reserve Militia
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

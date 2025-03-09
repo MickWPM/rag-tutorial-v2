@@ -1,0 +1,34 @@
+ITEM NAME: Black Chitin Leggings
+
+Classic Era (added 1999-2000)
+
+Black Chitin Leggings
+
+
+MAGIC ITEM
+Slot: LEGS
+AC: 7
+HP: +10  MANA: +10
+WT: 7.5  Size: LARGE
+Class: ALL
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+Nagafen's Lair
+
+ death beetle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,81 @@
+ITEM NAME: The Crusade of 1312 A.G.
+
+Kunark Era (added 2000)
+
+
+The Crusade of 1312 A.G.
+
+
+LORE ITEM
+WT: 0.1  Size: TINY
+
+
+
+
+  Drops From 
+Emerald Jungle
+
+ an Iksar tomb raider
+
+  Sold by 
+
+
+ Zone 
+ Merchant Name 
+ Area 
+ Loc
+
+
+ East Cabilis
+
+ War Historian Kobl
+
+
+
+  (-596, -242)
+
+
+ East Cabilis
+
+ the Court Chronicler
+
+
+
+  (351, 48)
+
+
+ West Cabilis
+
+ a forbidden scribe
+
+
+
+  (-107, 637)
+
+
+ The Overthere
+
+ Dom K`Perl
+
+
+
+  (3017, 2193)
+
+  Related quests 
+ This item has no related quests.  
+  Book contents 
+The Crusades of 1312
+This was the time of the scattered and defeated Iksar empire. The great dragon, Trakanon and his allies of scale had left the empire in rubble and our people were divided yet again. The once grand city of Sebilis was claimed by the one who decimated it.
+The remaining Iksar were scattered among the outlands of Kunark. Their places of refuge were now the dwellings of dark denizens. In the wilds a few castes came to unite. One of these was the remnants of the Crusaders of Greenmist. They were led by a powerful shadowknight named Rok Nilok. The army of shadowknights numbered in the hundreds. Within their ranks were a few mystics and legionnaires. The tribe named itself after their leader, The Crusaders of Rok Nilok, and they would purge the lands of Kunark.
+The Crusaders burned across the Dreadlands and death came quickly to those who dared stand in their way. They slew many giants and many goblins. There would be no prisoners or slaves. The empire shall be rebuilt by the hands of the Iksar. All others shall perish.
+Karnor’s Castle was the first major objective of the Crusaders. It had been taken over by a goblin clan. The goblins would soon find themselves under siege. For twenty days they held ground until the Crusaders chose to assault as a band of goblin deserters fled. A swift battle ensued and the castle was reclaimed.
+The Crusaders then set their sights on the city of Cabilis. While the march was designed Rok Nilok discovered something very evil. Nothing is known of his discovery. No record exists of its evil. All that is known is that Rok Nilok made a pact and soon shall suffer for it.
+During the battle for Cabilis a strange rain fell which shrunk them to the size of dolls and their heads were set aflame. Nilok’s head burned red and the goblins squashed the would be emperor and his minions.
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

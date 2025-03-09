@@ -1,0 +1,40 @@
+ITEM NAME: Speckled Granite Pebble
+
+
+
+Speckled Granite Pebble
+
+
+WT: 0.1  Size: TINY
+Class: NONE
+Race: NONE
+
+
+
+ Merchant resale value: 50pp 
+
+  Drops From 
+The Hole
+
+ an elemental deceiver
+ an elemental warrior
+ an elemental channeler
+ an elemental visier
+ an elemental crusader
+ an elemental capturer
+ an elemental harvester
+ an elemental wizard
+ a flighty fiend
+ a rock golem
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

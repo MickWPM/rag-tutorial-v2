@@ -1,0 +1,33 @@
+ITEM NAME: Gossamer Cape
+
+
+Gossamer Cape
+
+
+MAGIC ITEM
+Slot: BACK
+AC: 4
+WT: 0.5  Size: MEDIUM
+Class: NEC WIZ MAG ENC
+Race: HUM ERU HIE DEF GNM IKS
+
+
+Part of the Gossamer Armor Set 
+ Merchant resale value: 1p 7g 0s 0c 
+
+  Drops From 
+The Estate of Unrest
+
+ a festering hag
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

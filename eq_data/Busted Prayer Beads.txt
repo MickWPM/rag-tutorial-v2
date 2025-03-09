@@ -1,0 +1,36 @@
+ITEM NAME: Busted Prayer Beads
+
+
+
+Busted Prayer Beads
+
+
+LORE ITEM  NO DROP
+WT: 0.2  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+ Item Lore missing. Replace this with {{Item Lore | 'Lore Here' }}  
+
+  Drops From 
+Karnor's Castle
+
+ skeletal captain
+
+Western Plains of Karana
+
+ Brother Trintle
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brother Trintle (Quest)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

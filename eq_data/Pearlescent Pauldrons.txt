@@ -1,0 +1,33 @@
+ITEM NAME: Pearlescent Pauldrons
+
+Sky Era (added January 2000)
+
+
+Pearlescent Pauldrons
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: SHOULDERS
+AC: 10
+STR: +10  DEX: +15  INT: +15  MANA: +50
+WT: 4.5  Size: MEDIUM
+Class: SHD
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shadow Knight Plane of Sky Tests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

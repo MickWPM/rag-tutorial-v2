@@ -1,0 +1,39 @@
+ITEM NAME: Darkmetal Falchion
+
+Warrens Era (added spring 2001) Mr. Smish and his Falchy
+
+
+Darkmetal Falchion
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: PRIMARY
+Skill: 1H Slashing  Atk Delay: 29
+DMG: 27 
+WIS: +7  INT: +7
+WT: 7.9  Size: SMALL
+Class: PAL SHD
+Race: ALL except BAR ELF
+
+
+Note: Originally 23/29 when introduced, upgraded to 27/29 (current) [1]. 
+Rarely drops off random NPCs on the second floor. 
+
+  Drops From 
+Plane of Hate
+
+ a Disciple of Innoruuk
+ Innoruuk's Chosen
+ An Elite Dragoon
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

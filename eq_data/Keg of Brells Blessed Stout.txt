@@ -1,0 +1,40 @@
+ITEM NAME: Keg of Brells Blessed Stout
+
+Warrens Era (added spring 2001)
+
+
+Keg of Brells Blessed Stout
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 10.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Brell Serilis Disciple
+
+  Player crafted 
+ Non-Tradeskill (Trivial: No-Fail)
+ Yield: Keg of Brells Blessed Stout x1
+ In Holy Cask:
+
+
+  1 x Preserved Hops - Dropped
+  1 x Battleworn Canteen - Dropped
+  1 x Forest Barley - Purchased
+  1 x Summoned: Globe of Water - Summoned 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

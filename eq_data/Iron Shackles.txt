@@ -1,0 +1,36 @@
+ITEM NAME: Iron Shackles
+
+Classic Era (added 1999-2000)
+
+
+Iron Shackles
+
+
+NO DROP
+Slot: WRIST LEGS
+AC: 7
+CHA: -5
+WT: 2.7  Size: SMALL
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: HUM BAR ERU ELF HIE DEF HEF IKS
+
+
+
+
+  Drops From 
+Northern Karana
+
+ Grimtooth
+ Korvik the Cursed
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

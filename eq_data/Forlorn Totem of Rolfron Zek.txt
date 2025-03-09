@@ -1,0 +1,48 @@
+ITEM NAME: Forlorn Totem of Rolfron Zek
+
+Stonebrunt Era (added summer 2001)
+
+Forlorn Totem of Rolfron Zek
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+Charges: 5
+CHA: -5  WIS: +2  INT: +2
+Effect:  Holy Might (Any Slot, Casting Time: 2.5)
+WT: 0.8  Size: SMALL
+Class: WAR SHD BRD SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+Rechargeable. Buyback cost 5 platinum 8 gold 9 silver 6 copper. Good alternative to root nets (Wooly Spider Silk Net) when instant aggro isn't required. Capped at 1200 Hate per charge for Cleric and Paladin. 400 Hate per charge for other Classes. 
+
+  Drops From 
+Stonebrunt Mountains
+
+ a burly kobold
+ a hunting kobold
+ a raging kobold
+ a raging kobold savage
+ a savage kobold
+ a scouting kobold
+ a greater kobold shaman
+ Hurglak the Destroyer
+ a highland kobold shaman
+ a highland kobold
+ a raging highland kobold
+ Girgak the Bloody
+
+Feels Like random drop from any Kobold.
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

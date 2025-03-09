@@ -1,0 +1,30 @@
+ITEM NAME: Stronghorn's Horn
+
+Velious Era (added December 2000-2001)
+
+
+Stronghorn's Horn
+
+
+MAGIC ITEM  LORE ITEM  NO DROP   Slot: PRIMARY Skill: 1H Blunt  Atk Delay: 30 DMG: 18 STR: +7  STA: +15  HP: +25 SV DISEASE: +15 Effect: Knockback (Combat, Casting Time: Instant) WT: 7.5  Size: MEDIUM
+Class: ALL except NEC WIZ MAG ENC Race: ALL
+
+
+Procs at level 1 
+
+  Drops From 
+Western Wastes
+
+ Strong Horn
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

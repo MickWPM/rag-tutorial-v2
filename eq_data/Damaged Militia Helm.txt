@@ -1,0 +1,62 @@
+ITEM NAME: Damaged Militia Helm
+
+
+
+Damaged Militia Helm
+
+
+NO DROP
+WT: 6.0  Size: SMALL
+Class: ALL
+Race: ALL except IKS
+
+
+
+
+  Drops From 
+East Freeport
+
+ Guard Chirven
+ Guard Drazden
+ Guard Fikus
+ Guard Fralldo
+ Guard Goemin
+ Guard Greedin
+ Guard Hiron
+ Guard Javin
+ Guard Jup
+ Guard Kroon
+ Guard Lithnon
+ Guard Ogo
+ Guard Orpheen
+ Guard Relok
+ Guard Sarvik
+ Guard Zeph
+ Runthar
+
+Northern Desert of Ro
+
+ Guard Brendyl
+ Guard Doolin
+ Guard Fintran
+ Guard Stoutman
+
+West Freeport
+
+ Guard Kiston
+ Guard Hrakin
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Darkforge Helm
+ Corrupt Guards (Paladin Version)
+ Corrupt Guards (Cleric version)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

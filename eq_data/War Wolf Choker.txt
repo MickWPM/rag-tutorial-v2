@@ -1,0 +1,34 @@
+ITEM NAME: War Wolf Choker
+
+Velious Era (added December 2000-2001)
+
+War Wolf Choker
+
+
+MAGIC ITEM  LORE ITEM
+Slot: NECK
+AC: 5
+STR: +4
+WT: 2.0  Size: MEDIUM
+Class: ALL except DRU NEC WIZ MAG ENC
+Race: ELF HIE DEF DWF HFL GNM
+
+
+Though likely intended for the Coldain Military Wristguard Quest, this item is simply destroyed when handed in. However, the quest can be completed without it, so the item should simply be only considered for its own stats as it is. 
+
+  Drops From 
+Great Divide
+
+ Coldain War Wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

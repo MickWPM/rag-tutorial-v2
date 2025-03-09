@@ -1,0 +1,77 @@
+ITEM NAME: Spell: Death Peace
+
+Velious Era (added December 2000-2001)
+
+
+Spell: Death Peace
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Abjuration
+Mana Cost: 120
+Effect:  Death Peace
+WT: 0.1  Size: SMALL
+Class: SHD NEC
+Race: ALL
+
+
+
+
+  Drops From 
+Cobalt Scar
+
+ Kelorek`Dar
+
+Dragon Necropolis
+
+ Queen Raltaas
+ Zlandicar
+
+Iceclad Ocean
+
+ Lodizal
+
+Kerafyrm's Lair
+
+ The Final Arbiter
+
+Plane of Growth
+
+ Ail the Elder
+ Prince Thirneg
+ Treah Greenroot
+ Tunare
+ Undogo Digolo
+
+Velketor's Labyrinth
+
+ Velketor the Sorcerer
+
+Western Wastes
+
+ Derasinal
+ Glati
+ Harla Dar
+ Icehackle
+ Karkona
+ Klandicar
+ Mazi
+ Nintal
+ Onava
+ Quoza
+ Sontalak
+ Tsiraka
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Research (Trivial: 220)? 
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

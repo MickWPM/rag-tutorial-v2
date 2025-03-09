@@ -1,0 +1,107 @@
+ITEM NAME: Spell: Cripple
+
+Kunark Era (added 2000)
+
+
+Spell: Cripple
+
+
+MAGIC ITEM
+Charges: 1
+Skill: Alteration
+Mana Cost: 225
+Effect:  Cripple
+WT: 0.1  Size: SMALL
+Class: SHM ENC
+Race: ALL
+
+
+
+
+  Drops From 
+Burning Woods
+
+ a forest giant ancient
+ a scoriae hornet
+ a tatterback ape
+ a tatterback gorilla
+ greater plague skeleton
+
+City of Mist
+
+ a fog golem
+ a haze golem
+ a vapor golem
+ an apparition
+ greater spurbone
+ gyrating goo
+
+Howling Stones
+
+ a pyre golem
+ a sepulcher skeleton
+ greater plaguebone
+ greater war boned skeleton
+
+Old Sebilis
+
+ a leprous scarab
+ a pox scarab
+ a sebilite golem
+ a sepsis scarab
+ an iksar necromancer
+ froglok dar knight
+ froglok dar wizard
+ froglok ilis knight
+ froglok ilis wizard
+ froglok jin shaman
+ froglok jin wizard
+ froglok kor shaman
+ froglok krup knight
+ froglok krup shaman
+ froglok krup wizard
+ froglok zol knight
+ krup ghoul knight
+
+Plane of Sky
+
+ a thunder spirit
+
+Skyfire Mountains
+
+ a bottomless devourer
+ a chromadrac
+ a mature wurm
+ a mature wyvern
+ a skycinder drake
+ a wandering wurm
+ a wurm
+ a wyvern
+ an elder wyvern
+ Black Scar
+ Faerie of Dismay
+ Guardian of Felia
+
+The Overthere
+
+ Dragoon T`Vex
+
+Trakanon's Teeth
+
+ froglok forager
+ froglok hunter
+ Keeper Sepsis
+ Throkkok
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Shaman Spells (Evil)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

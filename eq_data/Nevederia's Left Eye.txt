@@ -1,0 +1,36 @@
+ITEM NAME: Nevederia's Left Eye
+
+Velious Era (added December 2000-2001) 
+
+
+Nevederia's Left Eye
+
+
+MAGIC ITEM  LORE ITEM  NO DROP  
+Slot: RANGE PRIMARY SECONDARY
+AC: 15
+STR: +15  STA: +15  AGI: +15  HP: +50
+SV MAGIC: +10
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Temple of Veeshan
+
+ Lady Nevederia
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

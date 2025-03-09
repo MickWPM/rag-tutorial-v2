@@ -1,0 +1,35 @@
+ITEM NAME: Basilisk Tongue
+
+
+
+Basilisk Tongue
+
+
+WT: 0.5  Size: MEDIUM
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Butcherblock Mountains
+
+ a lowland basilisk
+
+Rathe Mountains
+
+ a basilisk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Basilisk Tongues
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

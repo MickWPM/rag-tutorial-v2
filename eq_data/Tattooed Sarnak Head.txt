@@ -1,0 +1,32 @@
+ITEM NAME: Tattooed Sarnak Head
+
+
+
+Tattooed Sarnak Head
+
+
+NO DROP  QUEST ITEM
+WT: 2.0  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak legionnaire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Warrior Pike #5 (Legionnaire's Mancatcher)
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

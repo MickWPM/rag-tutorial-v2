@@ -1,0 +1,38 @@
+ITEM NAME: Mask of the Silver Eyes
+
+Velious Era (added December 2000-2001)
+Mask of the Silver Eyes
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+Slot: FACE
+AC: 25
+STA: +12  WIS: +12  INT: +12  HP: +20  MANA: +80
+SV FIRE: +5  SV DISEASE: +5  SV COLD: +5  SV MAGIC: +5  SV POISON: +5
+Effect: Flowing Thought I (Worn)
+WT: 0.5  Size: TINY
+Class: CLR DRU SHM NEC WIZ MAG ENC
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Request of the Arcane
+ Black Tear (from Dozekar the Cursed)
+ White Tear (from Dozekar the Cursed)
+ Runed Tear (from Dozekar the Cursed)
+ Glowing Drake Orb (from any HOT Named)
+
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

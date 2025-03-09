@@ -1,0 +1,29 @@
+ITEM NAME: A Sealed Letter (Thex Dagger Quest)
+
+Classic Era (added 1999-2000)
+
+
+A Sealed Letter
+
+
+The Note is rolled up.
+LORE ITEM  NO DROP
+WT: 0.0  Size: TINY
+
+
+Part of the Thex Dagger Quest. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Thex Dagger Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,36 @@
+ITEM NAME: Ring of Shadows
+
+Classic Era (added 1999-2000)
+
+Ring of Shadows
+
+
+MAGIC ITEM
+Slot: FINGER
+Charges: 3
+DEX: +2
+Effect:  Gather Shadows (Any Slot, Casting Time: Instant)
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+Rechargeable for 25p, you can recharge these yourself without switching characters or relying on a friend because it isn't LORE. Weighs less and has two more charges over a Cloudy Potion. Though it has fewer charges than Larrikan's Mask,  you can also recharge a Larri mask yourself with a box of the void and a class 3 mana battery. 
+The recharge rate for this item was not affected by the April 2020 nerf. 
+
+  Drops From 
+Southern Karana
+
+ Groi Gutblade
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,43 @@
+ITEM NAME: Great Dragon's Head
+
+Velious Era (added December 2000-2001)
+Great Dragon's Head
+
+
+MAGIC ITEM  LORE ITEM  NO DROP
+WT: 0.5  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Western Wastes
+
+ Amcilla
+ Ayillish
+ Gafala
+ Glati
+ Ionat
+ Karkona
+ Mazi
+ Neordla
+ Nintal
+ Quoza
+ Onava
+ Yeldema
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Dragon Heads
+ Living Dragons
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

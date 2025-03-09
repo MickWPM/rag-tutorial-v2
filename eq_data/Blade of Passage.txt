@@ -1,0 +1,36 @@
+ITEM NAME: Blade of Passage
+
+Kunark Era (added 2000)
+
+Blade of Passage
+
+
+MAGIC ITEM  LORE ITEM
+Slot: PRIMARY SECONDARY
+Skill: 1H Slashing  Atk Delay: 35
+DMG: 7 
+HP: +20
+WT: 3.5  Size: MEDIUM
+Class: WAR PAL RNG SHD BRD ROG
+Race: ALL
+
+
+
+ Merchant resale value: 3p 4g 1s 8c 
+
+  Drops From 
+Lake of Ill Omen
+
+ a Sarnak legionnaire
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

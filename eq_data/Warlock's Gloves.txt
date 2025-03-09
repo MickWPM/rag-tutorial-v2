@@ -1,0 +1,34 @@
+ITEM NAME: Warlock's Gloves
+
+Velious Era (added December 2000-2001)
+
+
+Warlock's Gloves
+
+
+MAGIC ITEM  NO DROP
+Slot: HANDS
+AC: 5
+STA: +4  CHA: +4  INT: +9  HP: +25
+SV FIRE: +2  SV DISEASE: +2  SV COLD: +2  SV MAGIC: +1  SV POISON: +2
+WT: 0.2  Size: SMALL
+Class: NEC
+Race: HUM ERU DEF GNM IKS
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Velium Gloves
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

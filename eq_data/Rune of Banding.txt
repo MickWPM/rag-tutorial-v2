@@ -1,0 +1,44 @@
+ITEM NAME: Rune of Banding
+
+
+Rune of Banding
+
+
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+As this rune is used for crafting a useful spell that cannot be vendor-purchased, it is advised to save this rune to sell or give to other players. 
+
+  Drops From 
+Various Zones
+
+ Random drop from any level ~34 mob, such as:
+
+Cobalt Scar
+
+ a wyvern
+
+Eastern Plains of Karana
+
+ a hill giant
+
+The Great Divide
+
+ Fergul Frostsky
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Spell Research
+ Circle of Force (Trivial: 120)
+
+
+
+
+

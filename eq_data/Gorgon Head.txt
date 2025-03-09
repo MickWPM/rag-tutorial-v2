@@ -1,0 +1,33 @@
+ITEM NAME: Gorgon Head
+
+Sky Era (added January 2000)
+
+
+Gorgon Head
+
+
+LORE ITEM
+WT: 12.0  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Plane of Sky
+
+ Gorgalosk
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Necromancer Test of The Hands
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

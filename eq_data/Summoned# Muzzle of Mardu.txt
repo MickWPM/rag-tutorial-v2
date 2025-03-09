@@ -1,0 +1,29 @@
+ITEM NAME: Summoned: Muzzle of Mardu
+
+
+Summoned: Muzzle of Mardu
+
+
+MAGIC ITEM  TEMPORARY
+Slot: FACE
+Haste: +11%  
+WT: 0.1  Size: SMALL
+Class: WAR PAL RNG SHD MNK ROG
+Race: NONE
+
+
+Usable only by summoned and charmed pets. Does not work on charmed or summoned animals, e.g. shaman wolf pets. 
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

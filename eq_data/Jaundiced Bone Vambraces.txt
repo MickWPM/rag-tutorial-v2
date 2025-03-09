@@ -1,0 +1,35 @@
+ITEM NAME: Jaundiced Bone Vambraces
+
+Kunark Era (added 2000)
+
+Jaundiced Bone Vambraces
+
+
+MAGIC ITEM  LORE ITEM
+Slot: ARMS
+AC: 18
+Effect:  Furious Strength (Must Equip, Casting Time: 10.0) at Level 45
+WT: 6.5  Size: SMALL
+Class: SHM
+Race: BAR TRL OGR
+
+
+Part of the Jaundiced Bone Armor set. 
+ Merchant resale value: 320p Max 
+
+  Drops From 
+Old Sebilis
+
+ a necrosis scarab
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

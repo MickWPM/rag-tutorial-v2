@@ -1,0 +1,58 @@
+ITEM NAME: Misty Acorn
+
+
+Misty Acorn
+
+
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+Ground spawn in Misty Thicket 
+
+  Drops From 
+Misty Thicket As of some previous patch, groundspawns are now random... the locs below are not reliable sources of misty acorns :/
+
+ Ground Spawns 
+ (284, -1810) 
+ (-233, -1616) 
+ (626, -1133) 
+ (913, -529) 
+ (-135, -1073) 
+ (-920, -955) 
+ (-700, -707) 
+ (403, -587) 
+ (40, -383) 
+ (150, -105) 
+ (577, -124) 
+ (191, 262) 
+ (-921, 298) 
+ (-455, 301) 
+ (226, 393) 
+ (674, 421) 
+ (-454, 680) 
+ (-619, 1063) 
+ (34, -245) 
+
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Crest of the Wood Nymphs Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Brewing
+ Acorn Oil (Trivial: 102)
+
+
+ 
+
+  Foraged 
+This item can be foraged:
+
+ Misty Thicket
+
+

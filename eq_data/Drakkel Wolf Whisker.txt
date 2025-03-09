@@ -1,0 +1,37 @@
+ITEM NAME: Drakkel Wolf Whisker
+
+Warrens Era (added spring 2001)
+ May   2001  Era (added  May   2001 )
+
+
+Drakkel Wolf Whisker
+
+
+MAGIC ITEM  NO DROP
+WT: 0.1  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Great Divide
+
+ a drakkel dire wolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Coldain Shawl #6: Embroidered Coldain Prayer Shawl
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ Tailoring
+ Spool of Sacred Coldain Thread (Trivial: 162)
+
+
+
+
+

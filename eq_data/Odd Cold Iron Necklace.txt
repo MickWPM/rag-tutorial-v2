@@ -1,0 +1,38 @@
+ITEM NAME: Odd Cold Iron Necklace
+
+Warrens Era (added spring 2001)
+
+
+Odd Cold Iron Necklace
+
+
+NO DROP
+Slot: NECK
+WT: 0.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+ Item Lore (from Identify): High Priest Symbol of Rolfron Zek 
+
+  Drops From 
+Stonebrunt Mountains
+
+ a savage kobold
+
+The Warrens
+
+ High Shaman Drogik
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Quellious Symbol Quests
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

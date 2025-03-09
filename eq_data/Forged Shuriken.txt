@@ -1,0 +1,39 @@
+ITEM NAME: Forged Shuriken
+
+Classic Era (added 1999-2000)
+
+Forged Shuriken
+
+
+Slot: RANGE AMMO
+Skill: Throwingv2  Atk Delay: 25
+DMG: 4
+WT: 0.5  Range: 65  Size: SMALL
+Class: ALL except CLR PAL DRU SHM
+Race: ALL
+
+
+
+
+  Drops From 
+ This item is not dropped by mobs. 
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ Blacksmithing (Trivial: 58)
+ Yield:  x 10
+ In Forge:
+
+
+  1 x Sheet Metal - Crafted, Bought
+  1 x Shuriken Mold - Bought
+  1 x Water Flask - Foraged, Crafted, Summoned, Bought, Quested, Dropped 
+
+
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

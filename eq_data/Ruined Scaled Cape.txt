@@ -1,0 +1,36 @@
+ITEM NAME: Ruined Scaled Cape
+
+
+Ruined Scaled Cape
+
+
+Slot: BACK
+AC: 6
+WT: 5.3  Size: LARGE
+Class: WAR CLR PAL RNG SHD BRD ROG SHM
+Race: ALL except DWF TRL OGR HFL GNM
+
+
+Part of the Ruined Scaled Armor set. 
+
+  Drops From 
+City of Mist
+
+ a haze golem
+ greater war boned skeleton
+
+Kurn's Tower
+
+ lesser icebone skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

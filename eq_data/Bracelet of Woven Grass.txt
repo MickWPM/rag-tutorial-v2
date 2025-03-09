@@ -1,0 +1,33 @@
+ITEM NAME: Bracelet of Woven Grass
+
+
+Bracelet of Woven Grass
+
+
+MAGIC ITEM
+Slot: WRIST
+AC: 1
+INT: +3  HP: +12
+WT: 0.2  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Upper Guk
+
+ a froglok scryer
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

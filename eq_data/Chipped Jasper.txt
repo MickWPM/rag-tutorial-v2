@@ -1,0 +1,42 @@
+ITEM NAME: Chipped Jasper
+
+Velious Era (added December 2000-2001)
+
+
+Chipped Jasper
+
+
+MAGIC ITEM
+WIS: +2
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+ Merchant resale value: VALUE TO VENDOR with CHA : 80 and faction at Indifferently
+
+ 0 Platinums
+ 7 Golds
+ 0 Silvers
+ 0 Coppers
+ 
+  Drops From 
+Crystal Caverns
+
+ a focus gem
+ a gem collector
+ A geonid (CC)
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

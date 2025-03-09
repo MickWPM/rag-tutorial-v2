@@ -1,0 +1,36 @@
+ITEM NAME: Mantle of Mirth
+
+Kunark Era (added 2000)
+
+Mantle of Mirth
+
+
+MAGIC ITEM  LORE ITEM
+Slot: SHOULDERS
+AC: 4
+STR: -2  WIS: +2  INT: +2  MANA: +10
+SV DISEASE: -10
+WT: 1.0  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+ Merchant resale value: 45 pp. 
+
+  Drops From 
+Temple of Droga
+
+ Soothsayer Dregzak
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

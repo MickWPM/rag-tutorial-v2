@@ -1,0 +1,36 @@
+ITEM NAME: A Skeleton Fist
+
+
+
+A Skeleton Fist
+
+
+LORE ITEM
+WT: 0.8  Size: SMALL
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lake of Ill Omen
+
+ war boned skeleton
+
+Swamp of No Hope
+
+ war boned skeleton
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Kwinn's Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

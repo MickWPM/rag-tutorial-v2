@@ -1,0 +1,40 @@
+ITEM NAME: Werewolf Pelt
+
+Classic Era (added 1999-2000)
+
+Werewolf Pelt
+
+
+MAGIC ITEM
+WT: 3.5  Size: LARGE
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Mistmoore Castle
+
+ a werewolf
+
+Southern Karana
+
+ a werewolf
+
+Northern Plains of Karana
+
+ a werewolf
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Werewolf Skin Cloak Quest
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

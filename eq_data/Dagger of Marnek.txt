@@ -1,0 +1,36 @@
+ITEM NAME: Dagger of Marnek
+
+Classic Era (added 1999-2000)
+
+Dagger of Marnek
+
+
+MAGIC ITEM  LORE ITEM  
+Slot: RANGE PRIMARY
+Skill: Piercing  Atk Delay: 30
+DMG: 3
+INT: +3  MANA: +15
+WT: 2.0  Range: 40  Size: SMALL
+Class: NEC
+Race: ALL
+
+
+ Item Lore (from Identify): Dagger of Marnek the Wicked 
+
+  Drops From 
+Befallen
+
+ the thaumaturgist
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ Purple Headband
+
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+

@@ -1,0 +1,34 @@
+ITEM NAME: Glowing Torch
+
+Classic Era (added 1999-2000)
+
+Glowing Torch
+
+
+MAGIC ITEM  
+Slot: PRIMARY SECONDARY
+AC: 7
+CHA: +5
+WT: 0.1  Size: TINY
+Class: ALL
+Race: ALL
+
+
+
+
+  Drops From 
+Lavastorm Mountains
+
+ Tisella
+
+  Sold by 
+ This item cannot be purchased from merchants. 
+  Related quests 
+ This item has no related quests. 
+  Player crafted 
+ This item is not crafted by players. 
+  Tradeskill recipes 
+ This item is not used in player tradeskills. 
+
+
+
