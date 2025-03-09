@@ -11,7 +11,29 @@ CHROMA_PATH = "chroma"
 OLLAMA_MODEL = "mistral"
 
 PROMPT_TEMPLATE = """
-Answer the question based only on the following context:
+You will recieve a block of text with an item from a video game and a question about the item. The data format in the text file is plain english but some of the formatting clarity is lost in the translation from web interface to text. A few format notes:
+Drops From: underneath this section there will either be text stating it doesnt drop or a list where the Zone is left justafied and the monsters that drop the item in that zone are indented by a space. The next zone list starts with the zone name and no indent.
+Sold By: 
+This data is from a table. The first part of this section states Zone, merchant name, area and loc. Not all of these may contain text. As an example:
+
+ Kael Drakkel
+
+
+
+ Kellek Felhammer
+
+
+
+  
+
+ (267, 1867)
+
+In this case, the zone is Kael Drakkel, the merchant is Kellek Felhammer and his location is (267, 1867)
+
+Keep this context in mind when answering questions
+
+Questions will be provided with the context for the item in question.  Only answer the question asked unless specifically prompted for more.
+ONLY use the context provided in the question in the answer.
 
 {context}
 
@@ -56,7 +78,6 @@ def query_rag(query_text: str):
     formatted_response = f"Response: {response_text}\nSources: {sources}"
     print(formatted_response)
     return response_text
-
 
 if __name__ == "__main__":
     main()
